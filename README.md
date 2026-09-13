@@ -14,15 +14,17 @@ md/    versão em Markdown do mesmo texto, para leitura e indexação mais fáce
 
 ## Cobertura
 
-76 documentos, entre PPCs completos e alguns anexos específicos de disciplina (identificados no próprio nome do arquivo). Os documentos foram coletados a partir das páginas públicas de cada instituição.
+74 documentos, entre PPCs completos e alguns anexos específicos de disciplina (identificados no próprio nome do arquivo). Os documentos foram coletados a partir das páginas públicas de cada instituição.
 
 **Observações sobre o conjunto:**
 
 - `FURB-SC-2019` foi removido deste acervo: é uma instituição pública que cobra mensalidade, fora do escopo de universidades públicas gratuitas que orienta esta coleta.
+- `UNIPAMPA-RS-2022` também foi removido pelo mesmo motivo: é pública, mas cobra mensalidade.
 - `UEMG-MG-2022` foi renomeado para `UEMG-MG-DIVINOPOLIS-2022` — o curso é oferecido pela UEMG em três unidades (Divinópolis, Frutal e Passos), cada uma com PPC próprio, agora todas incluídas.
 - `UNEMAT-MT-2021` foi renomeado para `UNEMAT-MT-RONDONOPOLIS-2021`, para diferenciar da turma de Tangará da Serra (`UNEMAT-MT-2021-TANGARAS`).
 - `UFSM-RS-2022` e `UFSM-RS-2023` contêm o mesmo documento, catalogado sob os dois anos de referência.
 - `UFRRJ-RJ-2017`, `UFRRJ-RJ-2017-PDI` e `UFRRJ-RJ-2024` são versões/documentos distintos do mesmo curso, mantidos separadamente por representarem estágios diferentes do PPC.
+- Da UFPB, mantém-se apenas `UFPB-PB-2016` (versão vigente do PPC); a versão `UFPB-PB-2010`, superada, foi removida.
 - Os PDFs escaneados (sem camada de texto nativa) foram processados por OCR; nesses casos, `txt/` e `md/` podem conter ruídos de reconhecimento típicos do processo.
 
 ## Finalidade
