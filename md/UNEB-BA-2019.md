@@ -1,0 +1,7464 @@
+UNIVERSIDADE DO ESTADO DA BAHIA - UNEB
+PRÓ-REITORIA DE ENSINO DE GRADUAÇÃO - PROGRAD
+DEPARTAMENTO DE CIÊNCIAS HUMANAS E TECNOLOGIAS – DCHT XXIII
+COLEGIADO DO CURSO DE COMUNICAÇÃO SOCIAL/
+JORNALISMO EM MULTIMEIOS
+PROJETO POLÍTICO PEDAGÓGICO DO
+BACHARELADO EM JORNALISMO
+SEABRA, 2019
+1
+
+GOVERNO DO ESTADO DA BAHIA
+RUI COSTA
+Governador do Estado da Bahia
+JERÔNIMO RODRIGUES
+Secretário de Educação da Bahia
+UNIVERSIDADE DO ESTADO DA BAHIA
+JOSÉ BITES DE CARVALHO
+Reitor
+MARCELO ÁVILA
+Vice-Reitor
+KATHIA MARISE BORGES SALES
+Pró-Reitora de Ensino de Graduação
+ODÍLIO DA SILVA SANTOS
+Assessor da ASTEP
+LAYRA SOUTO OLIVEIRA
+Apoio Técnico
+2
+
+DEPARTAMENTO DE CIÊNCIAS HUMANAS E TECNOLOGIA - CAMPUS XXIII
+RENATA MARIA DO NASCIMENTO
+Diretora
+GISLENE MOREIRA GOMES
+Coordenadora do Curso de Comunicação Social/ Cooperação Interdepartamental
+ADRIANA DE ALMEIDA RODRIGUES
+Secretária do Colegiado do Curso de Comunicação Social
+RAFAEL CARVALHO
+RENATA LOURENÇO
+VINÍCIUS MORENDE
+Docentes do Colegiado do Curso de Comunicação Social e colaboradores do projeto
+3
+
+APRESENTAÇÃO
+O Projeto de oferta de Curso de Bacharelado em Jornalismo é fruto de um trabalho coletivo
+e amadurecido de mais de cinco anos de trabalho do Departamento de Ciências Humanas e
+Tecnologias do Campus XXIII da UNEB, em Seabra.
+A oferta de um curso regular de bacharelado em Jornalismo, voltado ao Desenvolvimento
+Territorial Sustentável na região nasce com a missão de consolidar a área no Campus XXIII
+da UNEB Seabra, que em 2019 formou sua primeira turma em Comunicação Social/
+Jornalismo em Multimeios com um curso de cooperação interdepartamental em parceria
+com a Uneb de Juazeiro. Referendados por esta experiência e seus resultados, o DCHT
+XXIII amadureceu a ideia do bacharelado próprio em Jornalismo como um de seus projetos
+prioritários.
+O Campus XXIII entende que representa o projeto da UNEB de inclusão, interiorização e
+fixação em territórios prioritários, reunindo as condições necessárias para minimizar a
+brecha educacional e tecnológica no centro geográfico da Bahia, o qual tem uma enorme
+deficiência de instituições de ensino superior em um raio de 200 km. Somos a única
+instituição que oferta graduação pública presencial e regular no Território da Chapada
+Diamantina. Em plena Sociedade da Informação, em que se exigem cada vez mais
+formação na área da Comunicação Social, os cursos mais próximos se situam há mais de
+300 km, como Vitória da Conquista, Salvador e Juazeiro.
+Para atender a esta demanda crescente na Chapada Diamantina, o projeto do curso de
+bacharelado em Jornalismo, aponta para a formação de 30 estudantes, com ingresso de
+nova turma a cada dois anos. Esse modelo cumpre missão da instituição, sem
+desconsiderar a capacidade do mercado local, nem as características de um departamento
+mais periférico.
+No sentido de garantir a viabilidade econômica, financeira, de infraestrutura e social do novo
+curso, o departamento vem fazendo há 05 anos uma série de investimentos na área, como a
+construção de laboratório de informática, aquisição de acervo específico para a biblioteca, e
+a contratação de 01 professor adjunto DE, 03 professores substitutos específicos da área.
+Neste documento constam informações que retratam aspectos administrativos e
+pedagógicos do projeto de novo curso. A iniciativa está de acordo com a Resolução
+CNE/CES 1 de 27/09/2013, que estabelece as diretrizes curriculares nacionais para o curso
+de graduação em Jornalismo.
+Ao submeter este Projeto ao CONSUL, o Departamento tem a pretensão de assegurar a
+continuidade da formação de profissionais na área da Comunicação, bem como promover o
+projeto inclusivo da UNEB de interiorização do ensino superior na Bahia.
+4
+
+1.1 Do Departamento (DCHT XXIII)
+O Departamento de Ciências Humanas e Tecnologias do Campus XXIII se situa no
+município de Seabra, considerado um dos mais relevantes do Território da Chapada
+Diamantina. A cidade, que nasceu no século XVIII em função do abastecimento dos
+garimpos de diamantes, ocupa uma posição estratégica no centro geográfico da Bahia como
+um importante pólo rodoviário, comercial, financeiro e administrativo na região.
+Toda a Chapada Diamantina tem uma relevância geo-climática, histórica e cultural de
+destaque para todo o país. Ao longo da Serra do Sincorá, a zona abriga relevos, paisagens
+e biomas únicos, e se constituiu num oásis em pleno sertão baiano do qual jorram as
+nascentes da maioria dos rios que abastecem o estado. O Território da Chapada
+Diamantina, composto por 24 municípios, se destaca em atividades econômicas como o
+turismo, a agricultura, a mineração e a conservação ambiental. Na área ambiental, conta
+com 11 unidades de conservação ambiental, entre elas o Parque Nacional da Chapada
+Diamantina (PNCD) que tem projeção internacional. A região resguarda ainda um vasto
+patrimônio histórico, com diversas cidades e monumentos tombados, os quais revelam a
+riqueza dos ciclos mineiros do ouro e dos diamantes no interior da Bahia no século XIX.
+Todas estas riquezas fazem da Chapada Diamantina um território raro, com enormes
+potencialidades, e berço também de conflitos contemporâneos, como a crise hídrica e a
+harmonização entre suas comunidades tradicionais e os desafios do desenvolvimento.
+Seabra, por conta da sua localização privilegiada, enquanto cidade polo da Chapada
+Diamantina, teve seu desenvolvimento acelerado, atraindo importantes órgãos estaduais,
+como o Núcleo Territorial de Educação (NTE-03); a antiga Diretoria Regional de Saúde
+(DIRES), hoje, vinculada ao Núcleo Estadual de Saúde, em Feira de Santana; a Empresa
+Baiana de Desenvolvimento Agrícola (EBDA); a Agência de Desenvolvimento Agropecuário
+da Bahia (ADAB); a Companhia de Engenharia Rural do Estado da Bahia (CERB); a
+Companhia de Desenvolvimento e Ação Regional (CAR); a Agência Estadual de Regulação
+de Serviços Públicos de Energia, Transportes e Comunicações da Bahia (AGERBA); a
+Inspetoria Fazendária como a Delegacia da Receita Federal (DRF); o Instituto Brasileiro do
+Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA); o Instituto Nacional do
+Seguro Social (INSS); a Fundação Nacional de Saúde (FNS); e o Instituto Brasileiro de
+Geografia e Estatística (IBGE), dentre outros.
+Trata-se de uma das cidades mais populosas da região, com aproximadamente 49.202
+habitantes (IBGE, 2015). O desenvolvimento progressivo do município demandou um
+5
+
+crescimento equivalente na área educacional, o que justificou a criação do DCHT
+(Departamento de Ciências Humanas e Tecnologias) em 2002, através do Decreto nº 8.354
+de 13 de outubro, publicado no D.O.E de 01 de novembro.
+Numa demonstração de comprometimento, em 2003 implantou o Curso de Letras com
+habilitação em Língua Portuguesa e Literaturas, com o oferecimento de oitenta vagas
+anuais, visando não só atender as necessidades da comunidade local e empresas ali
+sediadas, mas ampliar a oferta de ensino do município com a criação de um curso de nível
+superior, oportunizando também o acesso das comunidades circunvizinhas, em consonância
+com as suas diversidades culturais.
+A partir de 2005.2, passou a oferecer a habilitação em Língua Inglesa e Literaturas, com
+oferta anual de 50 vagas, 25 destinadas ao turno vespertino e 25 ao noturno.
+Em 2014, através de um acordo de Cooperação Interdepartamental com o Campus III,
+Juazeiro, realizou a oferta do curso de Comunicação Social – Habilitação em Jornalismo e
+Multimeios, com 30 vagas.
+Em 2016.1, também através de um acordo de Cooperação Interdepartamental com o
+Campus IX Barreiras, realizou a oferta da primeira turma do curso de Licenciatura em
+Pedagogia, com 40 vagas.
+Além do curso de graduação de oferta contínua, o Departamento promoveu no primeiro
+semestre de 2005 o Curso Intensivo de Licenciatura de Letras, habilitação em Língua
+Portuguesa e Literaturas em convênio com a Secretaria Estadual de Educação, através do
+Instituto Anísio Teixeira, integrante do Programa de Formação dos Professores em Exercício
+na Rede Estadual de Ensino (PROESP). Para ingressar, os docentes foram submetidos a
+um processo seletivo. Em 2007, o referido curso graduou uma turma de 50 professores
+oriundos da sede do município, de Boninal, de Iraquara e de Palmeiras, municípios situados
+aproximadamente a 50 km de Seabra.
+Outro programa desta natureza é o Curso de Licenciatura Plena em Pedagogia, resultante
+de convênio estabelecido entre a UNEB prefeituras do território de Identidade, denominado
+REDE UNEB 2000. Através deste convênio, foram graduados 96 professores dos
+municípios de Seabra e Iraquara, 87 de Mucugê, 94 de Piatã e 81 de Ibicoara.
+A partir de 2010, os cursos de formação para professor das redes públicas integrantes dos
+programas especiais passaram a ser oferecidos por meio do Plano Nacional de Formação
+de Professores da Educação Básica com as demandas identificadas na Plataforma Freire e
+6
+
+financiamento direto do MEC/CAPES. Atualmente, o Departamento oferece os cursos de
+Educação Física, Pedagogia e Artes Visuais, qualificando, assim, professores da educação
+básica de oito municípios da Chapada Diamantina.
+Enquanto entidade que ministra cursos de nível superior, este Departamento busca
+entender a cultura como um modo de vida global, dentro da qual se percebe um sistema de
+significações e diferenças de raça, de gênero, de classe, de idade e de grupo de origem,
+trabalhando os significados socialmente construídos nos diferentes meios sociais,
+especificamente os da região. Essas diferenças tornam-se, muitas vezes, difíceis de serem
+trabalhadas na educação acadêmica e, portanto, um desafio a ser superado.
+A Universidade do Estado da Bahia, através do seu Campus XXIII, está contribuindo
+diretamente para a formação do cidadão, facilitando a sua inserção na sociedade e
+promovendo a troca de conhecimentos, a construção de saberes e a reconfiguração do
+ensino, de forma a minorar a carência social e educacional dos seus diversos segmentos,
+bem como da microrregião onde está situada.
+7
+
+Quadro 01 – Alunos Matriculados por Curso - 2019.1
+|     |     |     |     |
+| --- | --- | --- | --- |
+Nº DE ALUNOS
+| CURSO  | MATRICULADOS  | Nº  DE  | INÍCIO DO  |
+| ------ | ------------- | ------- | ---------- |
+|        |               | TURMAS  | CURSO      |
+– 2019.1
+451 - Letras - Língua
+| Portuguesa e Literaturas –  | 141  | 05  | 2004.1  |
+| --------------------------- | ---- | --- | ------- |
+Licenciatura
+455 - Letras - Língua Inglesa e
+|     | 35  | 03  | 2005.2  |
+| --- | --- | --- | ------- |
+Literaturas – Licenciatura
+108 - Comunicação Social –
+| Jornalismo e Multimeios-  | 08  | 01  | 2014.2  |
+| ------------------------- | --- | --- | ------- |
+Bacharelado
+477 - Licenciatura em
+| Pedagogia  |     | 03  | 2016.1  |
+| ---------- | --- | --- | ------- |
+90
+| TOTAL  | 274  | 12  | -   |
+| ------ | ---- | --- | --- |
+Fonte: Secretaria Acadêmica do DCHT XXIII-2019.
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+8
+
+1.2. INSTALAÇÕES FÍSICAS E PLANTA BAIXA
+O novo curso vai funcionar na sede própria do Departamento de Ciências Humanas e
+Tecnologias – DCHT, situada na rua Francisco Costa, s/n, no bairro Vasco Filho, em espaço
+doado pelo Governo do Estado à Universidade do Estado da Bahia em 2017. A área total da
+nova sede é superior a 26 mil m², e já estão em estágio avançado a reforma de 02 (dois)
+galpões, transformados em salas de aula, totalizando 8 (oito) salas de aula, com previsão de
+inauguração no início do semestre 2019.2.
+As novas instalações constam ainda de 02 (dois) prédios administrativos, sendo que um
+desses prédios está em reforma para abrigar os setores da administração do Departamento,
+tais como Coordenações Acadêmica, Financeira e Colegiados; Direção do Departamento;
+NUPE; Assessoria; e Protocolo. O outro prédio, atualmente, deve funcionar como biblioteca
+e laboratório de informática. As novas instalações foram projetadas com adequação dos
+espaços às questões de acessibilidade.
+Além dos espaços já reformados, o Departamento, junto com a PROINFA tem desenhado
+um projeto de construção de mais um prédio desenhado, o qual se encontra em fase de
+captação de recursos. Destaca-se que há muito espaço físico para ampliação e melhorias
+da infraestrutura, como comprometido pela Reitoria em visita ao novo espaço. A
+consolidação do novo curso regular em Jornalismo vai nos permitir como departamento
+projetar a criação de um espaço multimídia, salas de exibição, centro de documentação,
+entre outros equipamentos que beneficiarão não apenas a UNEB, mas toda a comunidade
+de Seabra e da Chapada Diamantina que não tem acesso a estas.
+9
+
+Figura 01 – Planta da nova sede
+Fonte: Proinfa 2018
+Atualmente, o Campus XXIII funciona no antigo Centro de Treinamento de Líderes (CTL),
+localizado à Rua Padre Justiniano Costa, s/n, Bairro Boa Vista, no município de Seabra/Ba.
+O atual espaço do Campus conta com 08 salas de aula, duas com capacidade para 60
+alunos e as demais com capacidade para 25 alunos, todas com boa iluminação, ventilação
+natural e com equipamentos eletrônicos instalados para auxiliar o trabalho docente. Conta
+ainda com internet wireless que facilita a interatividade e comunicação tanto nos ambientes
+internos como nas áreas de circulação.
+A sala da Coordenação dos Cursos é ampla e equipada para garantir o fluxo do trabalho
+administrativo e um bom atendimento aos estudantes e docentes, está estrategicamente
+localizada ao lado da Secretaria Acadêmica, sala da Direção do Departamento e a dos
+Professores, facilitando a comunicação e a interação para a agilidade nos processos.
+Como apoio ao desenvolvimento acadêmico das atividades, o campus dispõe de dois
+laboratórios de ensino e pesquisa equipados com computadores e demais acessórios, além
+de bibliografia para as pesquisas específicas das áreas atendidas: Linguística, Literatura e
+10
+
+Inglês Instrumental para o Curso de Língua Inglesa e Linguística e Literatura no Curso de
+Língua Portuguesa e um laboratório de informática. Esses laboratórios atendem também
+aos Cursos de Pedagogia; Licenciatura em Educação Física e Licenciatura em Artes
+Visuais, da Plataforma Freire.
+Todos os espaços internos do Departamento apresentam extintores de incêndio tanto de
+carga d’água como carga em pó, em locais estratégicos; possuem grades nas janelas e
+portas, além de contar com uma equipe de vigilantes diurnos e noturnos que zelam pelo
+patrimônio da entidade.
+Na perspectiva de Educação Inclusiva e de conscientização das necessidades especiais, o
+Departamento tem buscado adequar as instalações para proporcionar acessibilidade a
+todos. Em uma ação conjunta com o proprietário do imóvel foram iniciadas as reformas que
+possibilitam o acesso dos cadeirantes aos diversos setores do Departamento e a adequação
+de banheiros femininos e masculinos.
+Nos últimos anos, com a ampliação da oferta de cursos, sejam dos programas de oferta
+contínua, sejam dos programas especiais, o ambiente embora venha atendendo de forma
+satisfatória às necessidades do curso, tem demandado um espaço maior. A construção de
+uma sede própria é um projeto que vem sendo discutido com a Administração Central no
+sentido de viabilizá-lo. No ano de 2015, o DCHT XXIII, depois de grandes mobilizações em
+diversas esferas da sociedade, conquistou a cessão da sede do antigo Derba para que seja
+edificada a sede própria do Campus 23 da UNEB.
+As dependências utilizadas para o uso administrativo e acadêmico estão discriminadas no
+quadro a seguir apresentado:
+11
+
+Quadro 02 - Dependências Utilizadas Para as Atividades Administrativo - Acadêmicas
+do Departamento de Ciências Humanas e Tecnologias - Campus XXIII
+
+DIMENSIONAMEN
+QUANTIDADE DE
+| PAVIMENTO  |     | DESTINAÇÃO  |     |     | TO  |     |
+| ---------- | --- | ----------- | --- | --- | --- | --- |
+SALAS
+( m2)
+|     | 01  |     | recepção  |     | 67,45  |     |
+| --- | --- | --- | --------- | --- | ------ | --- |
+|     | 01  |     | sala 01   |     | 45,95  |     |
+01 - NORTE
+|     | 01  |                     | sala 02     |     | 31,95  |     |
+| --- | --- | ------------------- | ----------- | --- | ------ | --- |
+|     | -   | área de circulação  |             |     | 7,19   |     |
+|     | 01  | banheiro feminino   |             |     | 13,00  |     |
+|     | 01  | banheiro masculino  |             |     | 13,00  |     |
+|     | 01  |                     | sala 03     |     | 55,40  |     |
+|     | 01  |                     | sanitário   |     | 26,85  |     |
+|     | 01  |                     | sala 04     |     | 24,89  |     |
+|     | 01  |                     | sanitários  |     | 26,85  |     |
+02 - LESTE
+|     | 01  |                             | sala 05   |     | 24,76  |     |
+| --- | --- | --------------------------- | --------- | --- | ------ | --- |
+|     | -   | área de circulação          |           |     | 5,09   |     |
+|     | 01  | laboratório de informática  |           |     | 27,40  |     |
+|     | 01  |                             | banheiro  |     | 5,60   |     |
+|     | 01  |                             | banheiro  |     | 2,50   |     |
+|     | 01  |                             | depósito  |     | 8,80   |     |
+|     | 01  |                             | depósito  |     | 14,40  |     |
+|     | 01  |                             | banheiro  |     | 6,10   |     |
+|     | 01  | diretório acadêmico         |           |     | 13,40  |     |
+|     | 01  | laboratório (LBCC)          |           |     | 10,75  |     |
+03 – SUL
+|     | 01  |                     | sala 06     |     | 48,70   |     |
+| --- | --- | ------------------- | ----------- | --- | ------- | --- |
+|     | 01  |                     | copa        |     | 15,07   |     |
+|     | 01  |                     | biblioteca  |     | 85,40   |     |
+|     | 01  |                     | lavanderia  |     | 31,85   |     |
+|     | 01  |                     | auditório   |     | 291,60  |     |
+|     | -   | área de circulação  |             |     | 11,35   |     |
+|     | -   |                     | NUPE        |     | 11,35   |     |
+O4 - OESTE
+|     | 01  |     | sala 09   |     | 24,25  |     |
+| --- | --- | --- | --------- | --- | ------ | --- |
+|     | 01  |     | banheiro  |     | 6,00   |     |
+|     |     |     |           |     |        |     |
+
+12
+
+DIMENSIONAMEN
+QUANTIDADE DE
+| PAVIMENTO  |     | DESTINAÇÃO  | TO  |
+| ---------- | --- | ----------- | --- |
+SALAS
+( m2)
+|     | 01  | secretaria acadêmica  | 24,25  |
+| --- | --- | --------------------- | ------ |
+|     | 01  | banheiro              | 5,90   |
+|     | 01  | LABIN                 | 24,25  |
+|     | 01  | banheiro              | 5,90   |
+|     | 01  | colegiado             | 24,25  |
+|     | 01  | banheiro              | 6,00   |
+|     | 01  | sala dos professores  | 24,25  |
+|     | 01  | banheiro              | 6,00   |
+04 - OESTE
+|                                 | 01  | diretoria           | 11,25   |
+| ------------------------------- | --- | ------------------- | ------- |
+|                                 | 01  | banheiro            | 5,90    |
+|                                 | 01  | financeiro          | 24,25   |
+|                                 | 01  | banheiro            | 5,90    |
+|                                 | 01  | servidor            | 11,25   |
+|                                 | 01  | banheiro            | 6,00    |
+|                                 | 01  | sala 07             | 34,80   |
+|                                 | 01  | sala 08             | 34,80   |
+| pátio descoberto - central sul  |     | área de circulação  | 309,60  |
+pátio descoberto - central norte  área de circulação  469,75
+     Fonte: DCHT XXIII
+
+Completando  quinze  anos  de  funcionamento,  o  Departamento  deste  Campus  tem  se
+empenhado no sentido de garantir o desenvolvimento das suas atividades acadêmicas com
+qualidade,  disponibilizando,  para  esse  fim,  todos  os  recursos  didáticos  e  tecnológicos
+possíveis  para  atender  de  forma  eficaz  às  necessidades  dos  docentes,  discentes,
+funcionários e comunidade externa. Além disso, tem se empenhado, junto à Administração
+Central, no sentido de garantir a atualização do seu acervo bibliográfico e a aquisição de
+equipamentos.
+Destaca-se para a finalidade deste projeto que o Laboratório de Comunicação já é uma
+conquista e um investimento do curso realizado em cooperação interdepartamental e que
+fica como legado a todo o departamento e representa um avanço na preparação para a
+chegada do bacharelado regular em Jornalismo.
+
+13
+
+Quadro 03 – Equipamentos e Recursos Tecnológicos
+ESPECIFICAÇÃO (especificações
+| DEPENDÊNCIA  QUANTIDADE  |     |     |
+| ------------------------ | --- | --- |
+técnicas e características)
+computadores interligados à
+| LABORATÓRIO DE INFORMÁTICA  | 15  |     |
+| --------------------------- | --- | --- |
+Internet
+dois computadores e uma
+| SALA DOS PROFESSORES  | 03  |     |
+| --------------------- | --- | --- |
+impressora a laser
+três computadores e duas
+| COLEGIADOS  | 05  | impressoras, sendo uma a laser e  |
+| ----------- | --- | --------------------------------- |
+outra a jato de tinta
+dois computadores, uma
+| ACADÊMICA  | 04  | impressora a laser e um scanner  |
+| ---------- | --- | -------------------------------- |
+de mão
+dois computadores e uma
+impressora a laser, três câmeras
+| FINANCEIRO  | 06  |     |
+| ----------- | --- | --- |
+fotográficas digitais, sendo que
+uma delas é também filmadora
+três computadores, um
+estabilizador, três computadores,
+| BIBLIOTECA  | 12  |     |
+| ----------- | --- | --- |
+um leitor de código, uma máquina
+de recibos e três ventiladores
+três computadores, duas
+DIREÇÃO E SECRETARIA DA
+|     | 06  | impressoras e uma fragmentadora  |
+| --- | --- | -------------------------------- |
+DIREÇÃO
+de papel
+dois microfones sem fio, quatro
+| AUDITÓRIO  | 08  | caixas de som amplificadas, um  |
+| ---------- | --- | ------------------------------- |
+projetor e uma tela retrátil
+doze computadores, uma
+impressora, uma televisão de 32
+| Laboratório de Comunicação –  |     | polegadas, um Micro System de  |
+| ----------------------------- | --- | ------------------------------ |
+12
+| LACOM  |     | audio, 03 câmeras fotográficas,  |
+| ------ | --- | -------------------------------- |
+um cartão de memória e uma
+câmera de vídeo.
+Laboratório de Pesquisa em
+Literatura, Linguística, Baianidades  cinco computadores interligados à
+05
+de Cultura da Chapada Diamantina  internet
+– LLBCC
+SALA DE VIDEOCONFERÊNCIA  02  dois televisores de 36 polegadas
+NUPE – Núcleo Universitário de
+|     | 02  | uma impressora e um computador  |
+| --- | --- | ------------------------------- |
+Pesquisa e Extensão
+| Diretório Acadêmico  | 02  | uma impressora e um computador  |
+| -------------------- | --- | ------------------------------- |
+Fonte: Coordenação de informática do DCHT XXIII-2019.
+
+14
+
+1.2.1. Biblioteca Setorial
+A biblioteca do Campus XXIII está vinculada tecnicamente à Biblioteca Central/UNEB e
+administrativamente à direção do Departamento do Campus. Funciona de segunda à sexta-
+feira, das 08:00 h às 12:00 h e das 13:30 h às 22:00h. No sábado, o horário é das 08:00 h
+às 12h00 h.
+O acervo é diversificado, totalizado em 4.178 títulos e 9.316 exemplares. Tem destaque
+para este projeto o acervo adquirido ao longo dos últimos anos com quase dois mil
+exemplares destinados à comunicação. Conta, também, com o setor de referências e
+periódicos, com material bibliográfico específico para pesquisas e consultas, adquirido
+através da compra e de doações da comunidade.
+A aquisição das obras é efetuada pela Setorial, a partir das indicações feitas pelos
+docentes. O processamento técnico do arquivo (registro, classificação, catalogação e
+referência bibliográfica) é da competência dos técnicos da unidade.
+O empréstimo é concedido apenas para os docentes e discentes do Departamento. O
+atendimento é feito através da disponibilização das referências bibliográficas,
+organizadas em catálogos, os quais são atualizados na medida em que são adquiridos
+novos títulos. É liberado o empréstimo domiciliar para o usuário devidamente cadastrado,
+por um prazo de cinco dias corridos, podendo ter acesso ao material bibliográfico da
+Biblioteca Central e das outras setoriais, pelo sistema de empréstimo inter-bibliotecário.
+Através do sistema COMUT, o usuário pode adquirir cópias de artigos disponíveis em outras
+bibliotecas universitárias, bastando encaminhar um formulário com as especificações da
+pesquisa à Biblioteca Central, para as devidas providências.
+A biblioteca conta com mais de 250 usuários cadastrados, e embora os principais usuários
+sejam alunos, professores, e técnico-administrativos do Departamento, qualquer pessoa,
+devidamente identificada, pode consultar o material bibliográfico do recinto. Para atendê-los,
+a biblioteca do Departamento conta com uma coordenação e uma equipe técnica,
+desenvolvendo as atividades básicas desta setorial que consistem também em organizar e
+conservar o acervo.
+1.3 CORPO DOCENTE
+Com as mudanças educacionais trazidas pelos novos tempos, a postura dos docentes vem
+15
+
+se movimentando em uma constante revisitação, assim como o ambiente institucional de
+aprendizagem. Para melhorar a qualidade do ensino superior, hoje cabe ao docente criar
+situações de aprendizagem que possam preparar além de futuros profissionais habilitados
+tanto do ponto de vista cognitivo, científico e cultural; possam também formar indivíduos
+independentes, precisos, participativos, críticos, sensíveis ao outro, investigadores e
+cônscios dos seus direitos e deveres, de sorte que possam enfrentar realidades diversas e
+desafiantes, advindas das transformações educacionais, rompendo, assim, com a mesmice
+do ensino tradicional.
+O DCHT XXIII, através de seu quadro docente, busca desenvolver no seu alunado, além
+dos predicativos mencionados, responsáveis pela promoção de um ensino de excelência, o
+ensino e a pesquisa, práticas indissociáveis da formação acadêmica. O primeiro promove
+conhecimentos, habilidades e atitudes, qualificações estas favoráveis ao estudo
+investigativo e criativo, que é o seu fim. Em outras palavras, a educação deve ser entendida
+como tarefa coletiva do trabalho participativo, dinâmico, de uma equipe multidisciplinar e
+interdisciplinar, de professores que orientam seus educandos ao desenvolvimento de seu
+potencial, formação humana, conhecimento e competência, associada ao caráter e
+responsabilidade social.
+O Departamento de Ciências Humanas e Tecnologias (DCHT), Campus XXIII da UNEB
+conta atualmente com vinte e um (21) professores em seu quadro, sendo quinze (15)
+efetivos, com ingresso através de concurso público e seis (06) substitutos. Nesse quadro
+geral, o Departamento conta com oito (08) doutores, nove (09) mestres e quatro (04)
+especialistas. Quanto ao regime de trabalho, onze (11) dos docentes trabalham em regime
+de dedicação exclusiva e seis (06) em regime de 40 horas semanais e quatro (04) em
+regime de 20 horas semanais. Na área da Comunicação Social o departamento já conta
+com 01 professora-doutora formada e atuando como adjunta, e outros 02 substitutos com
+formação específica que tem contribuído na construção de uma cultura do ensino da
+comunicação e do jornalismo no DCHT XXIII.
+No que se refere à política de capacitação e formação continuada para os docentes, o
+Departamento segue a política estabelecida pela Reitoria, fomentando a participação dos
+docentes em eventos acadêmicos de natureza diversa, liberando-os e viabilizando
+passagens para os eventos planejados no orçamento. O Departamento promove também
+anualmente o Seminário Interno de Pesquisa, onde os docentes e seus monitores
+apresentam e discutem os resultados das suas pesquisas.
+16
+
+A formação em Pós-Graduação (Mestrado e Doutorado) é incentivada, oportunizando aos
+docentes afastamento de suas atividades para a realização desses cursos. Atualmente
+existe um (01) professor afastado para Doutorado. A Universidade mantém um programa de
+apoio aos docentes para a realização do referido curso, Programa de Ajuda de Custo –
+PAC, com o oferecimento de uma bolsa institucional para aqueles que não possuem
+financiamento através das agências de fomento, a exemplo da FAPESB e CAPES.
+O corpo e qualificação docente do Departamento encontram-se apresentados nos quadros a
+seguir.
+17
+
+Quadro 04 - Corpo Docente do Departamento
+REGIME DE
+QUALIFICAÇÃO  VÍNCULO
+|     | ÁREA  |     |     |     | TRABALHO  |     |     |     |     |
+| --- | ----- | --- | --- | --- | --------- | --- | --- | --- | --- |
+EXPERIÊNCIA DOCENTE
+| DOCENTE  | CURRICULAR   |     |     |     |     |       |       |            |     |
+| -------- | ------------ | --- | --- | --- | --- | ----- | ----- | ---------- | --- |
+|          |              |     |     |     |     | Efeti | Subst | (EM ANOS)  |     |
+EM QUE ATUA
+|     |     | GRADUAÇÃO  | PÓS-GRADUAÇÃO  |     | 20 H  40 H  | D.E.  |        |     |     |
+| --- | --- | ---------- | -------------- | --- | ----------- | ----- | ------ | --- | --- |
+|     |     |            |                |     |             | vo    | ituto  |     |     |
+Mestrado em
+|             | ESTÁGIO      |                         | Literatura e           |     |      |     |     |          |     |
+| ----------- | ------------ | ----------------------- | ---------------------- | --- | ---- | --- | --- | -------- | --- |
+| ALINE NERY  |              | Licenciatura em Letras  |                        |     |      |     |     |          |     |
+|             | SUPERVISIONA |                         | Diversidade Cultural.  |     |   X  |     | X   | 12 anos  |     |
+| DOS SANTOS  |              | Vernáculas              |                        |     |      |     |     |          |     |
+|             | DO           |                         | Pós-Graduação em       |     |      |     |     |          |     |
+Gestão Educacional
+Doutorado
+Sanduíche em
+Língua Inglesa
+Doutorando em
+Desenvolvimento
+CASSIO
+|     |     | Graduação em  | Regional e Urbano  |     |     |     |     |     |     |
+| --- | --- | ------------- | ------------------ | --- | --- | --- | --- | --- | --- |
+JÂNIO DOS
+LINGUÍSTICA  Licenciatura Plena  Mestrado em      X  X    10 anos
+SANTOS
+|     |     | em Letras com Inglês  | Desenvolvimento  |     |     |     |     |     |     |
+| --- | --- | --------------------- | ---------------- | --- | --- | --- | --- | --- | --- |
+SILVA
+Regional
+Especialização em
+Educação
+Especialização em
+Língua Inglesa
+Especialização em
+Língua Inglesa pela
+Universidade do
+ESTÁGIO
+| CLEBER  |     |     | Salvador. Extensão  |     |     |     |     |     |     |
+| ------- | --- | --- | ------------------- | --- | --- | --- | --- | --- | --- |
+SUPERVISION
+| NOGUEIRA    |         | Graduação em Letras  | em Second  |     |     |       |     |          |     |
+| ----------- | ------- | -------------------- | ---------- | --- | --- | ----- | --- | -------- | --- |
+|             | ADO EM  |                      |            |     |     | X  X  |     | 07 anos  |     |
+| ALELUIA DE  |         | com Inglês           | Language   |     |     |       |     |          |     |
+LÍNGUA
+| SOUZA  |     |     | Acquisition (SLA)  |     |     |     |     |     |     |
+| ------ | --- | --- | ------------------ | --- | --- | --- | --- | --- | --- |
+INGLESA
+na Colorado
+Mountain College -
+USA.
+12 anos
+
+Mestrado em
+
+|     |     | Graduação em  | administração pela  |     |     |     |     |     |     |
+| --- | --- | ------------- | ------------------- | --- | --- | --- | --- | --- | --- |
+
+| CRISTIANE  |     | PSICOLOGIA  | UFBA                                  |     |     |     |     |     |     |
+| ---------- | --- | ----------- | ------------------------------------- | --- | --- | --- | --- | --- | --- |
+
+ANDRADE  PSICOLOGIA  Licenciatura em  Especialista em    X
+|         |     |                    |           |     |     | X   |     |     |     |
+| ------- | --- | ------------------ | --------- | --- | --- | --- | --- | --- | --- |
+| SANTOS  |     | Letras Vernáculas  | Saúde do  |     |     |     |     |     |     |
+
+|     |     | com Inglês  | Trabalhador pela  |     |     |     |     |     |     |
+| --- | --- | ----------- | ----------------- | --- | --- | --- | --- | --- | --- |
+
+UFBA
+
+REGIME DE
+|     |     |     |     | QUALIFICAÇÃO  |     |     |     | VÍNCULO  | EXPERI  |
+| --- | --- | --- | --- | ------------- | --- | --- | --- | -------- | ------- |
+TRABALHO
+|     |     | ÁREA CURRICULAR  |     |     |     |     |     |     | ÊNCIA  |
+| --- | --- | ---------------- | --- | --- | --- | --- | --- | --- | ------ |
+DOCENTE
+|     |     | EM QUE ATUA  |     |     |     |     | 4   |     | DOCENTE  |
+| --- | --- | ------------ | --- | --- | --- | --- | --- | --- | -------- |
+D.E
+GRADUAÇÃO  PÓS-GRADUAÇÃO  20 H  0  Efetivo  Substituto  (EM ANOS)
+.
+H
+FÁBIO NOGUEIRA DE  EIXOS  Bacharelado   Doutorado em      X  X    07 anos
+18
+
+|     | OLIVEIRA  |     | ARTICULADORES  | Ciências Sociais   |               |     | Sociologia.           |     |     |     |     |     |     |
+| --- | --------- | --- | -------------- | ------------------ | ------------- | --- | --------------------- | --- | --- | --- | --- | --- | --- |
+|     |           |     |                | pela Universidade  |               |     | Mestrado em           |     |     |     |     |     |     |
+|     |           |     |                |                    | de São Paulo  |     | Sociologia e Direito  |     |     |     |     |     |     |
+Mestrado em Crítica
+Cultural
+| FILISMINA FERNANDES  |          |     |              | Licenciatura em  |         |     |                    |     |     |     |     |     | 04 anos  |
+| -------------------- | -------- | --- | ------------ | ---------------- | ------- | --- | ------------------ | --- | --- | --- | --- | --- | -------- |
+|                      |          |     | LITERATURAS  |                  |         |     | Especialização em  |     | X   | X   |     |     |          |
+|                      | SARAIVA  |     |              |                  | Letras  |     |                    |     |     |     |     |     |          |
+Língua, Literatura e
+Identidade cultural
+Doutorando em
+Difusão do
+Conhecimento
+UFBA
+| GILDECI DE OLIVEIRA  |     |        |              | Graduação em       |     |     |                     |     |     |     |     |     |          |
+| -------------------- | --- | ------ | ------------ | ------------------ | --- | --- | ------------------- | --- | --- | --- | --- | --- | -------- |
+|                      |     |        | LITERATURAS  |                    |     |     | Mestrado em Letras  |     | X   | X   |     |     | 12 anos  |
+|                      |     | LEITE  |              | Letras Vernáculas  |     |     |                     |     |     |     |     |     |          |
+pela UFBA e
+Especialização em
+Educação pela
+ABEC
+Mestrado em Educação e
+Contemporaneidade – UNEB
+Especialização em
+|     |     |     |          |               |     | Coordenação Pedagógica pela  |     |     |     |     |     |     |          |
+| --- | --- | --- | -------- | ------------- | --- | ---------------------------- | --- | --- | --- | --- | --- | --- | -------- |
+|     |     |     | PRÁTICA  | Licenciatura  |     | UFBA e Especialização em     |     |     |     |     |     |     |          |
+|     |     |     |          |               |     |                              |     | x   |     |     |     | x   | 10 anos  |
+GILMA FLÁVIA SOUZA  PEDAGÓGICA  em Pedagogia  Metodologia do Ensino e da
+|     | FERREIRA  |     |     |     |     | Pesquisa em Administração e  |     |     |     |     |     |     |     |
+| --- | --------- | --- | --- | --- | --- | ---------------------------- | --- | --- | --- | --- | --- | --- | --- |
+Supervisão Escolar pela
+Faculdades Integradas de
+Amparo
+Doutorado em Ciências Sociais
+com menção em Política –
+|     |                  |     |             | Bacharelado  |     |                           | Flacso/México           |     |     |     |     |     |          |
+| --- | ---------------- | --- | ----------- | ------------ | --- | ------------------------- | ----------------------- | --- | --- | --- | --- | --- | -------- |
+|     | GISLENE MOREIRA  |     |             |              | em  |                           |  Mestrado em Cultura e  |     |     |     |     |     |          |
+|     |                  |     | JORNALISMO  |              |     |                           |                         |     |     | X   | X   |     | 08 anos  |
+|     | GOMES            |     |             | Comunicação  |     |                           | Sociedade UFBA          |     |     |     |     |     |          |
+|     |                  |     |             | Social.      |     | Especialização em Gestão  |                         |     |     |     |     |     |          |
+Social para o Desenvolvimento
+Sustentável UFBA
+Doutorado em Educação pela
+UFPOA
+
+|                      |     |     | PRÁTICA  | Licenciatura  |     | Mestrado em Educação pela  |     |     |     |     |     |     |     |
+| -------------------- | --- | --- | -------- | ------------- | --- | -------------------------- | --- | --- | --- | --- | --- | --- | --- |
+| IRANICE CARVALHO DA  |     |     |          |               |     |                            |     |     |     | X   | X   |     |     |
+PEDAGÓGICA  em Pedagogia  UFPOA                                     17 anos
+SILVA
+Especialização em
+Psicopedagogia
+Mestrado em Estudos Étnicos
+
+|                       |     |     | ESTÁGIO         | Licenciatura  |     |     | e Africanos        |     |     |     |     |     |          |
+| --------------------- | --- | --- | --------------- | ------------- | --- | --- | ------------------ | --- | --- | --- | --- | --- | -------- |
+| JOSÉ WELTON FERREIRA  |     |     |                 |               |     |     |                    |     | X   |     | X   |     | 06 anos  |
+|                       |     |     | SUPERVISIONADO  | em Letras     |     |     | Especialização em  |     |     |     |     |     |          |
+DOS SANTOS JUNIOR
+Coordenação Pedagógica
+Mestrado em Crítica Cultural
+(UNEB);
+Licenciatura
+|     |     |     | ESTÁGIO  |            |     | Especialização em Língua  |     |     |     |     |     |     |          |
+| --- | --- | --- | -------- | ---------- | --- | ------------------------- | --- | --- | --- | --- | --- | --- | -------- |
+|     |     |     |          | em Letras  |     |                           |     | X   |     |     |     | X   | 19 anos  |
+MÔNICA GRISI CHAVES  SUPERVISIONADO  Portuguesa Universidade
+Vernáculas
+Salgado de Oliveira
+(UNIVERSO)
+Licenciatura
+| PASCASIA COELHO DA  |             |     | LINGUAGEM E  |            |     |     | Mestrado em Letras e  |     |     |     |     |     |          |
+| ------------------- | ----------- | --- | ------------ | ---------- | --- | --- | --------------------- | --- | --- | --- | --- | --- | -------- |
+|                     |             |     |              | em Letras  |     |     |                       |     |     | X   | X   |     | 14 anos  |
+|                     | COSTA REIS  |     | COMUNICAÇÃO  |            |     |     | Lingüística           |     |     |     |     |     |          |
+Vernáculas
+19
+
+com Língua
+Estrangeira
+|     |     | Licenciatura na área de    | Mestrado em       |     |     |     |     |     |
+| --- | --- | -------------------------- | ----------------- | --- | --- | --- | --- | --- |
+|     |     | Letras com habilitação em  | Crítica Cultural  |     |     |     |     |     |
+RAPHAELLA PEREIRA DE
+LÍNGUA INGLESA  Língua Inglesa pela  Especialização    X      X  03 anos
+OLIVEIRA
+|     |     | Universidade do Estado da  | em Tradução da  |     |     |     |     |     |
+| --- | --- | -------------------------- | --------------- | --- | --- | --- | --- | --- |
+Bahia  Língua Inglesa.
+Doutorado e
+Mestrado em
+Bacharel em Comunicação
+Comunicação e
+Social com habilitação em
+RAFAEL  Cultura
+|                    | JORNALISMO  | Jornalismo pela Universidade  |                |     |     |     |     |     |
+| ------------------ | ----------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- |
+| OLIVEIRA CARVALHO  |             |                               | Contemporânea  |     |     |     |     |     |
+Estadual do Sudoeste da Bahia
+pela Universidade
+- UESB
+Federal da Bahia
+- UFBA
+Mestra em
+Cultura,
+Bacharel em Comunicação
+Educação e
+Social com habilitação em
+| RENATA LOURENÇO  |             |                               | Linguagem pela  |     |     |     |     |     |
+| ---------------- | ----------- | ----------------------------- | --------------- | --- | --- | --- | --- | --- |
+|                  | JORNALISMO  | Jornalismo pela Universidade  |                 |     |     |     |     |     |
+| DOS SANTOS       |             |                               | Universidade    |     |     |     |     |     |
+Estadual do Sudoeste da Bahia
+Estadual do
+- UESB
+Sudoeste da
+Bahia - UESB
+Doutorado em
+Letras pela
+| RENATA MARIA SOUZA  |              | Licenciatura e bacharelado  | UFBA         |     |     |     |     |          |
+| ------------------- | ------------ | --------------------------- | ------------ | --- | --- | --- | --- | -------- |
+|                     | LITERATURAS  |                             |              |     | X   | X   |     | 10 anos  |
+| DO NASCIMENTO       |              | em Letras Vernáculas        | Mestrado em  |     |     |     |     |          |
+Letras pela
+UFBA
+Doutorando em
+Cultura e
+|                   | TELEJORNALISM |                          | Sociedade pela  |      |     |     |     |         |
+| ----------------- | ------------- | ------------------------ | --------------- | ---- | --- | --- | --- | ------- |
+|                   | O/            | Graduação em Jornalismo  | UFBA e          |      |     |     |     |         |
+| VINÍCIUS MORENDE  |               |                          |                 | X    |     |     | X   | 5 anos  |
+|                   | DOCUMENTÁRIO  | pela UMESP               | Mestrado em     |      |     |     |     |         |
+|                   | E FOTOGRAFIA  |                          | Geografia e     |      |     |     |     |         |
+Sustentabilidade
+pela USP
+Doutorado em
+| THIAGO MARTINS  |              | Letras Vernáculas             | Letras pela    |     |     |     |     |          |
+| --------------- | ------------ | ----------------------------- | -------------- | --- | --- | --- | --- | -------- |
+|                 | LITERATURAS  |                               |                |     | X   | X   |     | 09 anos  |
+| CALDAS PRADO    |              | (licenciatura e bacharelado)  | UFBA Mestrado  |     |     |     |     |          |
+em Letras
+                Fonte: DCHT XXIII, SEABRA/BA-2017.
+
+20
+
+Quadro 05 – Demonstrativo do Total de Docentes por Titulação
+| TITULAÇÃO      | TOTAL  | %      |
+| -------------- | ------ | ------ |
+| ESPECIALISTAS  | 03     | 15,79  |
+| MESTRADO       | 09     | 47,37  |
+| DOUTORADO      | 07     | 36,84  |
+| TOTAL          | 19     | 100%   |
+        Fonte: DCHT XXIII, SEABRA/BA-2017.
+
+21
+
+1.4 AVALIAÇÃO INTERNA
+A avaliação da prática precisa ser constante, pois é essa
+reflexão crítica que nos possibilita mudanças e atuações
+mais conscientes num outro momento.
+Leda Tessari Castello Pereira
+A UNEB, enquanto integrante do Programa de Avaliação Institucional das Universidades
+Brasileiras – PAIUB, realizou a sua avaliação de desempenho institucional. O referido
+programa foi criado pelo MEC em 1993 e ganhou novas características a partir de outubro
+de 1996. Ele compreendeu o processo de auto-avaliação institucional e avaliação externa
+das universidades brasileiras, incluindo visitas in loco e abrangendo as dimensões do
+ensino, da pesquisa, da extensão e da gestão das IES.
+Os resultados da avaliação dessas Instituições eram incorporados aos relatórios da
+SESU/MEC para fins de autorização e reconhecimento de cursos, credenciamento e
+recredenciamento de instituições e utilizados na orientação de outras políticas do Ministério
+da Educação e do Desporto.
+A partir de 1998, com o surgimento de uma nova conjuntura internacional e um novo
+contexto de educação superior no Brasil, novas competências e maior qualidade nos
+serviços prestados pelas instituições públicas passam a ser exigidas. Assim, a UNEB
+inaugurou outra fase de avaliação interna, definindo uma política de avaliação institucional
+permanente, com recursos próprios, mesmo diante de uma crise de financiamento
+generalizada.
+Dentro dos princípios gerais do PAIUB, com as devidas adaptações à sua realidade
+multicampi, a UNEB estruturou o seu projeto de avaliação institucional através de Comissão
+Central, articulada diretamente com as Comissões Setoriais, no âmbito dos seus
+Departamentos. Diante da complexidade estrutural e da multiplicidade das variáveis que se
+pretendia atingir pelo processo, foi realizada em 1999, uma avaliação onde se optou por um
+corte, partindo da avaliação do ensino de graduação, com ênfase nas disciplinas e no
+desempenho docente. Também foi analisado o segmento administrativo, através dos
+indicadores capazes de revelar o nível de motivação e desempenho da área/meio. Resultou
+desse trabalho um relatório disponibilizado nos respectivos Departamentos, onde foi
+apresentado todo o processo de Avaliação Institucional da UNEB, incluindo a metodologia e
+procedimentos adotados na pesquisa empreendida, seguida de uma descrição do conjunto
+22
+
+de respostas em relação à universidade como um todo, oferecida para cada um dos
+segmentos pesquisados. O Departamento do Campus XXIII não participou desta avaliação,
+considerando que ele só foi implantado em 2003.
+Em 2004, o MEC, através do Sistema Nacional de Avaliação da Educação Superior -
+SINAES, implementou a avaliação institucional, antes realizada através do PAIUB, quando
+novas dimensões passaram a ser investigadas. O Exame Nacional de Cursos (ENADE) foi
+instituído em substituição ao antigo “provão”.
+Em 2005, a UNEB procedeu à inscrição de estudantes para participar do referido exame,
+apenas por amostragem, quando o Campus XXIII participou apenas com alunos
+ingressantes, considerando que neste período não havia ainda alunos concluintes. Em
+decorrência deste fato, o curso não obteve conceito final no exame realizado.
+Em 2008, o curso participou do ENADE, quando estiveram presentes 36 alunos
+ingressantes e 51 alunos concluintes obtendo resultado final igual a 4,0 (quatro) no ENADE
+conceito e 5,0 (cinco) no IDD conceito.
+O primeiro conceito se refere à média ponderada do componente específico e de formação
+geral, tanto dos concluintes quanto dos ingressantes e o segundo conceito, apresenta a
+diferença entre o desempenho médio estimado para os concluintes desse mesmo curso;
+representando, portanto, quanto cada curso se destaca da média, podendo ficar acima, ou
+abaixo do que seria esperado para ele baseando-se no perfil de seus estudantes.
+É Importante destacar que este exame visa, sobretudo, avaliar o desempenho dos
+estudantes em relação aos conteúdos programáticos previstos nas Diretrizes Curriculares
+Nacionais do curso, como também suas habilidades e competências a ele relacionadas.
+Em 2006, através da sua Comissão Própria de Avaliação (CPA), retomou seus trabalhos de
+avaliação em consonância com as dimensões do SINAES e em novembro deste mesmo ano
+e outubro de 2007, realizou seminários específicos sobre a avaliação institucional,
+envolvendo representantes dos seus 29 Departamentos. Esta comissão trabalhou na
+perspectiva de realizar no 1º semestre de 2008, a avaliação de todos os seus cursos de
+graduação, onde foram investigadas as dimensões propostas pelo SINAES, a saber:
+➔ Missão e plano de desenvolvimento institucional
+➔ Políticas de pessoal, carreira do corpo docente e do corpo técnico administrativo;
+➔ Organização e gestão da Instituição; infraestrutura física;
+23
+
+➔ Planejamento e avaliação;
+➔ Políticas de atendimento aos estudantes
+➔ Sustentabilidade financeira
+➔ Políticas para o ensino, a pesquisa, a pós-graduação e a extensão;
+➔ Comunicação com a sociedade;
+➔ Responsabilidade social da Instituição.
+Independente dessas avaliações formais que já foram procedidas, a UNEB através de seus
+contatos e estudos junto aos seus Departamentos e demais setores administrativos e
+pedagógicos, vem orientando-os no sentido de proceder a uma reflexão sobre a prática
+cotidiana, envolvendo trabalhos de ensino, pesquisa e programas de extensão, incluindo as
+condições instrumentais e físicas, dentre outros aspectos de relevância que venha contribuir
+para o aprimoramento da sua atuação.
+Nesta perspectiva e entendendo a avaliação como um processo que visa planejar e re-
+planejar a prática docente, as ações extensionistas e os projetos de pesquisa
+desenvolvidos, o Campus XXIII tem buscado desenvolver processos democráticos de
+avaliação, envolvendo os seus discentes. Para isso, o Colegiado do Curso, como órgão
+responsável pela coordenação didático - pedagógica, tem planejado e acompanhado as
+atividades através de reuniões mensais, avaliações processuais e interdisciplinares,
+realizadas a partir de critérios definidos pelo corpo docente e discente. Durante todos os
+semestres é oportunizado o debate entre docentes e discentes para que os mesmos
+possam avaliar e reavaliar o desenvolvimento das suas ações, objetivando, assim, o
+aprimoramento da formação acadêmica.
+No que se refere a ações extensionistas, foram sugeridos projetos que visavam atender aos
+anseios da comunidade externa, bem como as características regionais, procurando, assim,
+promover e estimular as atividades sócio-culturais do Departamento, através da socialização
+do conhecimento acadêmico. Os cursos de extensão realizados estão voltados
+especificamente para as áreas de Leitura e Produção Textual, Literatura e Sociedade, Inglês
+Instrumental, Alfabetização de Jovens e Adultos, Variação Linguística e Educação Inclusiva
+e são oferecidos ao público universitário ou não, na modalidade presencial, propiciando
+assim o permanente exercício da cidadania.
+Em relação ao desenvolvimento dos projetos de pesquisa, os mesmos são articulados com
+o ensino e a extensão, observando para isso temas e regiões prioritárias, visando à
+produção do conhecimento científico, tecnológico e artístico necessários à melhoria da
+24
+
+qualidade de vida e ao desenvolvimento humano.
+1.5. VIABILIDADE ECONÔMICA E FINANCEIRA
+O Departamento de Ciências Humanas e Tecnologias – Campus XXIII-Seabra, dispõe de
+recursos necessários para o primeiro ano do funcionamento do curso de Bacharelado em
+Jornalismo, com a primeira turma prevista para o semestre 2020.2, garantidos pela proposta
+de orçamento contida no Planejamento Orçamentário de 2020;
+Demonstramos abaixo, as respectivas programações propostas, divididas por elemento de
+despesa, a fim de indicarmos as condições necessárias de proposição e viabilidade de
+manutenção de um novo curso.
+Ação Orçamentária 2443 - Funcionamento Regular de Curso de Graduação
+Objetivo: Assegurar o funcionamento dos cursos de graduação nos departamentos da
+UNEB, dotando-os de infraestrutura necessária para a execução de suas atividades.
+Produto: 70 - Curso de graduação em funcionamento
+Quantidade de cursos
+prevista para 2020: 04
+NATUREZA DA DESPESA PROJEÇÃO PARA 2020
+3.3.90.14 20.000,00
+3.3.90.30 70.000,00
+3.3.90.33 60.000,00
+3.3.90.35 -------------
+3.3.90.36 60.000,00
+3.3.90.39 80.000,00
+3.3.90.47 8.000,00
+4.4.90.52 60.000,00
+Total Fonte 114 358.000,00
+2. JUSTIFICATIVA DO NOVO CURSO
+2.1. A relevância social do Curso de bacharelado em Jornalismo
+A primeira turma do Curso de Comunicação Social da Chapada Diamantina foi uma
+experiência inovadora que reforçou a importância e necessidade de um novo curso de
+Jornalismo no território. Como exemplo, este grupo experimental reuniu alunos de 10
+25
+
+municípios. Em seu jornal laboratório O Bambúrrio1 chegou a ter mais de 10.000
+visualizações das reportagens. Ainda no sexto semestre, mais da metade já tem
+oportunidades de trabalho na área. E entidades como o Ministério Público, o INEMA e o
+Parque Nacional da Chapada Diamantina se tornaram aliados importantes na formação do
+grupo. Com todas essas conquistas, em avaliação interna no Campus XXIII, e dadas as
+mudanças curriculares do curso de origem em Juazeiro, o departamento de Seabra optou
+pela construção de uma formação regular na área e que esteja mais alinhada com as
+questões regionais da Chapada Diamantina.
+O Território da Chapada Diamantina está localizado no centro do Estado da Bahia e
+compreende 23 municípios, com uma área total de 30.613,2 Km², distando
+aproximadamente 400 km da capital do Estado da Bahia.
+FIGURA 1. MAPA DO TERRITÓRIO DE IDENTIDADE CHAPADA DIAMANTINA
+1
+http://obamburrio.blogspot.com/
+26
+
+FONTE – SEI, 2011.
+O principal diferencial desta zona é o relevo, que se caracteriza por áreas planálticas e
+serranas, intercaladas pelas depressões, que acumularam veios de diamantes. O clima
+exibe características tropicais, chuvas recorrentes e temperaturas amenas, que
+proporcionaram a existência de vales úmidos e a se constituir como berço de importantes
+rios do Estado.
+A conjunção dos fatores relevo, flora única, fauna rica e recursos hídricos proporcionam ao
+território da Chapada Diamantina uma singular beleza. Estas condições especiais, que
+diferem das normalmente encontradas no Nordeste Brasileiro, destacando-se o a
+exploração turística sazonal.
+Mas historicamente, a ocupação socioeconômica desse território resultou da expansão da
+pecuária no vale do São Francisco e das descobertas auríferas nas nascentes dos rios de
+Contas, Paramirim e Itapicuru, no início do século XVIII. Destes princípios, ainda é possível
+encontrar na região importantes comunidades remanescentes de quilombolas e de grupos
+indígenas que se refugiaram neste ponto geográfico.
+No início do século XX começou a exaustão dos diamantes e carbonados. Muitas famílias
+emigraram em direção aos sertões da Serra Geral, empregando-se nas policulturas do
+algodão, milho, feijão e outros cereais; outras se dirigiram aos cafezais paulistas e indústrias
+paulistanas e do ABC. O esgotamento do ciclo da mineração, acarretando um longo período
+de estagnação econômica, trouxe como consequência a migração da população para outras
+regiões, com um despovoamento local.
+As alternativas econômicas que se seguiram não foram suficientes para fixar a população
+regional. Atualmente, a base econômica indica a predominância de atividades agropecuárias
+tradicionais, com indícios de modernização na produção de horticultura irrigada, persistindo
+a atividade mineradora com tendência à estagnação. A atividade turística, ainda incipiente,
+mas em ascensão, desponta como umas das mais promissoras para a economia da região,
+com rebatimentos na área social, pela sua visível capacidade de geração de empregos
+diretos e indiretos.
+As atividades ligadas à mineração, ainda hoje, têm sido responsáveis pela degradação de
+vastas áreas, principalmente no Parque Nacional da Chapada, onde se verifica o
+assoreamento de alguns riachos. Para preservação dos recursos naturais do território foram
+constituídas três unidades de conservação, duas denominadas de APAs – Área de Proteção
+Ambiental, sob a responsabilidade direta do Estado, e a terceira, denominada de Parque
+Nacional, sob a tutela direta da União, via o Instituto Chico Mendes de Biodiversidade,
+sendo elas: a APA Marimbus/Iraquara, que abrange parte da zona rural dos municípios de
+Seabra, Iraquara, Palmeiras e Lençóis; a APA Serra do Barbado, integrada por parcela da
+27
+
+zona rural dos municípios de Abaíra, Piatã, Rio de Contas e Érico Cardoso; e o Parque
+Nacional da Chapada Diamantina, que compreende parte dos municípios de Lençóis,
+Andaraí, Mucugê, Palmeiras, Itaetê e Ibicoara (PDRS, 1997).
+O Parque Nacional da Chapada Diamantina, o mais expressivo ícone ecológico da região, é
+fruto da mobilização dos grupos ambientalistas e das forças políticas regionais e estaduais
+em torno da sua preservação. No entanto, ele ainda aguarda regulamentação há mais de
+uma década. Esta situação vem provocando uma crescente ação antrópica em sua área,
+perpetrada pela exploração do garimpo, desmatamento de áreas de floresta nativa, coleta
+indiscriminada de espécies vegetais raras, queimadas, caça de animais silvestres.
+Os períodos mais secos favorecem a ocorrência de focos de incêndio por combustão
+espontânea, e a prática agrícola tradicional da queima e coivara, através de fogueiras, para
+a implantação de lavouras e pastagens contribuem para agravar o problema, além das
+ações predadoras dos caçadores. No início de 1995 registrou-se a mais grave ocorrência de
+incêndio, quando foram consumidos pelo fogo mais de 260 hectares de mata virgem com
+sua rica fauna silvestre. Nos últimos anos, novos e frequentes episódios de incêndio são
+registrados no Território.
+2.1.1 A demanda por comunicação na Chapada Diamantina
+A oferta de um curso regular de graduação em Jornalismo surge com a missão de
+consolidar o desafio do Campus XXIII da UNEB Seabra de suprir a brecha educacional e
+tecnológica no Território da Chapada Diamantina, o qual tem uma enorme deficiência de
+instituições de ensino superior. Em um raio de 200km, o é a única unidade de oferta de
+graduação pública no centro geográfico da Bahia. Na área da Comunicação Social, os
+cursos de instituições públicas mais próximos se situam em Vitória da Conquista, Salvador e
+Juazeiro, todos com distância superior a 300 km.
+Na tentativa de minimizar esta lacuna, em 2013 o DCHT XXIII aprovou a oferta de uma
+turma-piloto em Comunicação Social/ Jornalismo em Multimeios no formato de cooperação
+interdepartamental em colaboração com o Campus III de Juazeiro. Na área de Ciências da
+Comunicação, a UNEB é pioneira na oferta de cursos regulares de graduação no interior do
+estado. O ensino na área se iniciou na UNEB em 1986, no Campus I de Salvador, com o
+curso de Comunicação Social com habilitação em Relações Públicas. No Campus III de
+Juazeiro, em 2002 foi implantado o curso de Comunicação Social com habilitação em
+Jornalismo em Multimeios, se constituindo em uma das primeiras graduações na área fora
+dos grandes centros urbanos, e uma referência do ensino superior na área do semiárido
+brasileiro. O Campus III também se destacou como o único departamento a incluir a pós-
+graduação em comunicação, tendo formado 02 turmas de especialização em Ensino da
+Comunicação e, em 2016, inaugurou a primeira turma de um Dinter (Doutorado
+Interdepartamental) em Ciências da Comunicação em parceria com a USP (Universidade de
+28
+
+São Paulo). No Campus de Conceição do Coité, na região sisaleira, é oferecido o curso de
+Comunicação Social, com habilitação em Rádio e TV desde 2004.
+É importante salientar o movimento recente de interiorização e qualificação do ensino
+superior em comunicação em todo o país, principalmente no que se refere à implantação de
+cursos de graduação em Comunicação Social longe dos grandes centros urbanos e
+econômicos do país.
+Historicamente, desde a criação do primeiro curso de Comunicação do país na Universidade
+de São Paulo (USP), o ensino da Comunicação Social se concentrou em grandes capitais,
+particularmente na região sudeste, zona onde também se instalaram os principais veículos
+de comunicação do país.
+Destaca-se como exemplo do processo de concentração do ensino superior das Ciências da
+Comunicação, o semiárido brasileiro, zona na qual se situa mais de 20% do território
+nacional, perpassa 09 estados e concentra mais de 22 milhões de habitantes. Até o final dos
+anos 90, esta região semiárida mais populosa do planeta contava com apenas um único
+curso de comunicação, instalado em Campina Grande pela Universidade Federal na
+Paraíba, em um claro reflexo do seu processo de marginalização política, econômica e
+também comunicacional.
+A interiorização do ensino comunicacional nesta região, na qual se insere quase 90% do
+território baiano, é recente, com a criação de 09 novos cursos de comunicação em
+universidades públicas do semiárido em pouco mais de uma década. Em 1998, a
+Universidade Estadual do Sudoeste da Bahia criou o primeiro curso do semiárido baiano em
+Vitória da Conquista. Em 2002, a Universidade Estadual do Rio Grande do Norte criou, no
+Campus de Mossoró, o Departamento de Comunicação Social, com habilitações em
+Jornalismo, Publicidade e Propaganda e Radialismo. No mesmo ano, a UNEB teve
+aprovado o curso de Jornalismo em Multimeios em Juazeiro, e em 2004 o curso de Rádio e
+TV em Conceição do Coité. Em 2005, a Universidade Estadual do Piauí criou o Centro de
+Ciências da Educação, Comunicação e Artes – CCECA, com um curso de Comunicação
+Social no campus de Picos. Em 2010 foi criado o curso de Comunicação Social, com
+habilitação em Jornalismo, no Campus de Cariri, da Universidade Federal do Ceará.
+Neste sentido, a Bahia desponta como o estado do nordeste com maior avanço na
+interiorização dos cursos de Comunicação Social.
+Apesar destes avanços na democratização do ensino superior na área, o semiárido continua
+aleijado do centro da produção do pensamento nas Ciências da Comunicação. Mesmo com
+todas as suas especificidades e necessidades de formação específica, nenhum curso de
+pós-graduação regular em comunicação é ofertado na região semiárida. Todas as pós-
+graduações strictu sensu se concentram nas capitais e/ou litoral do Nordeste. E nenhuma
+dessas formações é ofertada em uma universidade estadual.
+29
+
+A Bahia é um exemplo dessa concentração. Todas as pós-graduações regulares de
+universidades públicas em comunicação continuam sendo exclusivamente ofertadas em
+Salvador.
+No entanto, se avança no sentido de interiorizar a graduação. No interior da Bahia, existem
+ainda o curso de Comunicação com habilitação em Rádio e TV da Universidade Estadual de
+Santa Cruz (UESC), em Ilhéus (região sul); o curso de Comunicação Social com habilitação
+em Jornalismo e o curso de Cinema e Audiovisual, na Universidade Estadual do Sudoeste
+Baiano (UESB), Vitória da Conquista (região sudoeste); o curso de graduação em Cinema e
+Audiovisual com ênfase em Documentário, Comunicação Social Jornalismo e Artes Visuais
+na Universidade Federal do Recôncavo Baiano (UFRB) (região leste), Publicidade e
+Propaganda e Artes Visuais na Universidade Federal do Oeste da Bahia (UFOB), no
+campus de Santa Maria da Vitória (região norte) e, por fim, devemos destacar o processo de
+interiorização dos cursos de Comunicação na Universidade do Estado da Bahia (UNEB).
+Apesar de muito recentes, estas graduações buscam suprir as inúmeras carências de
+formação na área, resultado de uma quase total ausência de cursos na região nordeste, que
+perdurou até o final do século passado. Em comum, estas novas unidades de ensino da
+comunicação compartem os desafios de graduar, compreender e atuar em uma realidade
+comunicacional em ebulição e com características muito específicas, provocadas por seu
+povoamento dependente, pela inserção tardia na globalização, e pelas condições
+ambientais e culturais únicas no cenário brasileiro.
+A percepção deste avanço acelerado das tecnologias da informação e os impactos dos
+meios de comunicação em áreas como a economia, cultura e política, também chegou aos
+demais departamentos da UNEB, que também passaram a demandar a ampliação da oferta
+de cursos de graduação da instituição na área das comunicações.
+Salienta-se que a demanda por estudos na comunicação social não é apenas uma questão
+acadêmica. Em 2008, quando a Bahia protagonizou o debate sobre a Conferência Nacional
+de Comunicação e convocou a I Conferência Estadual, inaugurando a discussão por
+democratização dos meios no país, a UNEB participou ativamente no processo. Na ocasião,
+foram realizadas plenárias em 08 cidades-pólo do interior do estado, sendo que 06 destas
+ocorreram nos campi desta universidade, demonstrando a potência da multicampia. Na
+época, não se esperava uma mobilização social muito ampla para o tema da comunicação,
+e a surpresa foi a intensa participação da sociedade, mobilizando mais de 1.000 líderes
+comunitários, representantes de grupos quilombolas, indígenas, mulheres etc, além de
+comunicadores e veículos de comunicação que refletiram sobre a diversidade e
+complexidade de atores e temas veiculados à comunicação.
+As propostas apresentadas por estes grupos incluíam a indicação de mais estudos e
+pesquisas no setor, e o fortalecimento e maior interiorização dos cursos de formação na
+30
+
+área. Atualmente, a instituição ocupa a cadeira de representação das universidades no
+Conselho Estadual de Comunicação, o qual está elaborando um Plano Estadual de
+Comunicação que tem a interiorização da produção comunicacional do estado como uma
+prioridade, e uma demanda para as universidades.
+Como resposta a estes anseios por uma ampliação da ação da UNEB na oferta de mais
+cursos de graduação em comunicação, a instituição optou pela inovação. Mas ao invés de
+pensar em carreiras regulares e fixas, a alternativa encontrada para não inflar de
+profissionais um mercado em mutação, foi experimentar novas possibilidades no ensino da
+comunicação social, inovando na concepção de cursos em formato de cooperação
+interdepartamental.
+Este desenho pedagógico foi criado em 2012, segundo a Resolução nº 899/2012 do Consu
+(Conselho Superior Universitário) que regula sobre a implantação de cursos temporários em
+departamentos que careçam da oferta de determinada graduação, com base no projeto
+político-pedagógico de um curso regular já ofertado e reconhecido em outro departamento
+da instituição. O objetivo central era promover uma maior diversidade de oferta de
+graduações no interior do Estado, sem a necessidade de criar cursos fixos em todos os
+departamentos.
+No caso específico da Comunicação Social, o Campus XXIII foi o primeiro a expressar
+formalmente o desejo de uma graduação temporária na área, tendo solicitado a cooperação
+com o Departamento de Ciências Humanas (DCH III), de Juazeiro. A escolha pela
+habilitação do curso de Jornalismo em Multimeios se deveu ao entendimento de que, apesar
+da distância geográfica, o projeto político-pedagógico de Juazeiro era o que mais se
+aproximava das especificidades cultural e social de Seabra. Em comum, os dois
+departamentos compartem a localização geográfica no semiárido baiano, o qual tem como
+principal característica a manutenção de indicadores sociais e econômicos bastante
+comprometidos. Desde o princípio, o departamento de Seabra entendia que a oferta do
+curso de jornalismo no formato de cooperação era parte do seu fortalecimento institucional e
+pedagógico, pois se aproximava das outras formações já desenvolvidas pelo departamento,
+e dialogava com a vocação do Campus XXIII na área das linguagens. A ideia era que o novo
+curso servisse como uma etapa preparatória para um possível curso regular na área das
+linguagens audiovisuais.
+A Chapada Diamantina surge neste contexto como uma extensa região geográfica
+localizada no centro do Estado da Bahia que compreende 23 municípios, com uma área
+total de 30.613,2 Km². O principal diferencial desta zona é o relevo, que se caracteriza por
+áreas planálticas e serranas, intercaladas pelas depressões, que acumularam veios de
+diamantes e se constituíram como nascente de importantes rios. A conjunção deste relevo
+31
+
+com uma flora única e fauna rica proporcionam à região uma singular beleza, destacando-o
+na exploração turística sazonal.
+Historicamente, a ocupação socioeconômica ocorreu a partir da expansão pecuária e
+posteriormente da extração de ouro e diamantes no início do século XVIII. O esgotamento
+do ciclo da mineração no início do século XX impactou em um longo período de estagnação
+e na consequente migração da população para outras regiões.
+Para preservação dos recursos naturais do território foram constituídas três unidades de
+conservação, as APAs (Área de Proteção Ambiental) Marimbus-Iraquara e Serra do
+Barbado, sob a responsabilidade direta do Governo do Estado, e a terceira, denominada de
+Parque Nacional da Chapada Diamantina, sob a tutela direta da União, via o Instituto Chico
+Mendes de Biodiversidade.
+Estas unidades de conservação são fruto da mobilização dos grupos ambientalistas e das
+forças políticas regionais e estaduais em torno da sua preservação, ameaçada pela
+exploração do garimpo, desmatamento, coleta indiscriminada de espécies vegetais raras,
+incêndios florestais, caça de animais silvestres e turismo depredatório. Desde a concepção
+da oferta do Curso de Jornalismo já se intuía a aproximação da graduação com as questões
+ambientais, o que tem se revelado uma demanda real através da realização de diversos
+projetos de pesquisa e extensão, além da realização de estágios regulares dos estudantes
+em instituições diretamente vinculadas com a crise ecológica na Chapada Diamantina.
+Além das questões ambientais, a Chapada Diamantina apresenta graves problemas
+socioeconômicos. A exclusão social é crítica, sendo relativamente grande o contingente de
+famílias que padecem de pobreza e indigência. A região se depara, ainda, com sete
+municípios com os maiores índices relativos de famílias indigentes da Bahia (acima de
+60%). Reforçando esse agudo quadro de pobreza, os dados do IBGE (2000) revelam que
+69% da população possuem chefes de família percebendo no máximo um salário mínimo,
+residente, fundamentalmente, na zona rural.
+Nestas condições, o acesso e os padrões de consumo de bens e serviços sociais são
+insustentáveis: 44% de analfabetos; 1/3 de docentes leigos; 42% dos domicílios urbanos e
+92% dos domicílios rurais sem canalização de água; 96,7% dos domicílios urbanos e 99,7%
+dos domicílios sem instalação de esgotamento sanitário; 0,20 médico/1.00 habitantes; e
+0,06 dentista/1.000 habitantes.
+As carências socioeconômicas do Território Chapada também se refletem no precário e
+contraditório acesso da população regional às novas tecnologias da informação e
+comunicação (TICs). Estudos sobre inclusão digital do Centro de Políticas Sociais da
+Fundação Getúlio Vargas e a Fundação Telefônica2 revelam que há um avanço acelerado
+2
+http://www.cps.fgv.br/cps/telefonica/ acesso em janeiro de 2013.
+32
+
+das convergência digital nos municípios da Chapada. No entanto, apesar da chegada destas
+inovações percebidos no aumento de usuários, de uma maior rede de conexão banda larga,
+e do uso intensivo de redes sociais, os municípios da Chapada estão entre os maiores
+índices de exclusão digital do país e onde os custos de conectividade são os mais caros.
+Entre os estados, a Bahia ocupa apenas o 20º lugar em números de domicílios com
+computadores. Neste cenário, Lençóis, um dos destinos turísticos mais famosos do país, é o
+município da Chapada com melhor colocação na pesquisa, ficando apenas na posição
+2.925º, e com uma média inferior a 20 computadores por cada 100 domicílios. Nos demais
+municípios da região, a situação é ainda mais dramática, pois se registram dados muito
+baixos de conectividade por todo centro geográfico do estado.
+No que se refere ao acesso à telefonia celular, a região apresenta uma enorme carência de
+disponibilização de serviços. O mapa abaixo, retirado do Censo 2010 do IBGE3, revela um
+enorme vazio no que se refere ao acesso a esta nova tecnologia na zona central da Bahia,
+onde se localizam os municípios do Território Chapada.
+FIGURA 3. Domicílios com acesso a telefone celular na Bahia.
+Fonte: IBGE.
+O mesmo estudo do IBGE constata que o acesso aos aparelhos de rádio e televisão nos
+domicílios dos municípios do Território encontra-se em situação similar, conforme mostra o
+mapa abaixo que se refere aos aparelhos de recepção televisivos.
+3
+http://www.ibge.gov.br/cidadesat/Acesso em janeiro de 2013.
+33
+
+FIGURA 4. Domicílios com acesso a aparelhos de televisão na Bahia.
+Fonte: IBGE
+Este aparente vazio técnico-comunicacional no Território da Chapada parece contradizer os
+debates contemporâneos nos estudos da comunicação que revelam o crescimento
+acelerado e impositivo do uso das novas tecnologias da informação numa sociedade
+midiatizada4. Esse avanço da chamada Idade Mídia, somado com o fenômeno da
+convergência digital, tem provocado mudanças estruturais e irreversíveis nos âmbitos
+econômicos, políticos, sociais e culturais. O problema é que a constatação da brecha
+tecnológica na região central da Bahia indica um abismo muito maior que apenas uma
+deficiência de acesso às novas mídias. Ela apresenta uma dissociação entre os novos da
+sociedade contemporânea e a realidade da grande maioria da população da Chapada.
+Em estudo sobre os efeitos das descobertas tecnológicas das últimas décadas, Manuel
+Castells (1999: 424) observou que na “era da Informação, o poder emana das redes de
+troca de informações e de manipulação de símbolos que estabelecem relações entre atores
+sociais, instituições e movimentos culturais.” Neste sentido, a deficiência comunicacional
+reflete e aprofunda as desigualdades existentes, pois limita a participação e articulação dos
+4
+CASTELLS, Manuel. A Era da Informação: Economia, Sociedade e Cultura. São Paulo: Paz e Terra, 1999,
+Volume 3.
+34
+
+atores sociais do Território da Chapada na constituição de redes e minimiza sua capacidade
+de ação como agentes do seu próprio desenvolvimento.
+Apesar desta carência de acesso, os atores locais tentam acompanhar as mudanças
+tecnológicas e comunicacionais para inserir-se como sujeitos contemporâneos. Neste
+sentido, se constata no Território uma atividade crescente de produção de conteúdos
+midiáticos, principalmente através de blogs multimídia.
+Na mídia tradicional, um levantamento preliminar identificou que só em Seabra existem
+atualmente 02 jornais, 02 emissoras de rádio, 02 revistas e 01 portal regional5, todos com
+existência recente. Em praticamente todos os municípios circunvizinhos, como Iraquara e
+Mucugê avançam os meios de pequeno porte, com destaque para o rádio e os blogs, e os
+meios comunitários como a Avante Lençóis que desde finais dos anos 90 tem sido uma
+referência na luta pela democratização das comunicações na Bahia. Como destacado centro
+turístico nacional, a Chapada Diamantina tem ainda acumulado um rico capital cultural e
+comunicativo com profissionais da área das artes visuais e da comunicação que tem
+estabelecido residência na região e estimulam a produção cultural alternativa.
+Este fenômeno contraditório parece explicitar a complexa e constante expansão do capital e
+dos meios de comunicação nas periferias econômico-produtivas, como a região da Chapada
+Diamantina, criando um ambiente de intensa demanda e incipiente produção informativa,
+apesar da ausência de grandes conglomerados comunicacionais.
+No cenário da convergência digital, se identificou que as zonas mais afastadas dos centros
+econômicos e infocomunicacionais são classificadas como cenários de exclusão digital, os
+quais estariam vetados da proclamada Sociedade Digital. Esta perspectiva tem provocado a
+revisitação ao conceito da “comunicação para o desenvolvimento”, apontando a
+necessidade de políticas tecnológicas voltadas à inclusão digital. No entanto, esses apelos
+parecem não considerar os impactos e modos dessa inserção no mundo digital de zonas
+historicamente marcadas pela exclusão.
+Apesar da provável defasagem tecnológica, da precária qualidade do acesso e da limitada
+produção de conteúdos, a digitalização multimídia já é uma realidade mesmo nas zonas
+mais distante. Mas apesar desse avanço acelerado e irreversível das TICs nas periferias, o
+assunto parece despertar pouca atenção investigativa sobre seus impactos e consequências
+dessa apropriação periférica da convergência midiática.
+Todo este cenário é o ponto de partida para a justificação e criação de cursos de
+comunicação voltados ao desenvolvimento sustentável e pautados em um jornalismo
+5
+Jornal O Regional e Correio da Chapada, as emissoras Rádio Nova FM 99,7 e Rádio Seabra FM 104,9, além
+das revistas Noite e Dia e Viva Magazine, e o Portal da Chapada.
+35
+
+contextualizado com os problemas locais, como o caso da I turma de Jornalismo em
+Multimeios da Chapada Diamantina, que iniciou suas atividades em 2014.
+O diálogo entre os temas da comunicação e das novas tecnologias inerentes aos processos
+de produção de códigos, linguagens e sentidos do Século XXI foram percebidos como uma
+possibilidade de transversalidade dos debates do curso de Jornalismo com as demais
+formações regulares oferecidas pelo DCHT XXIII. Um exemplo dessa proximidade é a
+grande quantidade de trabalhos apresentados pelos alunos do Departamento que tem como
+ênfase o cinema, o jornalismo literário, e que usam como base os Estudos Culturais, que
+muito tem servido de referência na produção do pensamento comunicacional. Toda essa
+dinâmica ajudou a identificar a demanda pela formação específica em Jornalismo
+Multimeios.
+Também é importante destacar que a implantação de um curso de Jornalismo Multimeios no
+centro geográfico da Bahia, em uma zona viária estratégica do Estado, atende a um
+perímetro ainda mais amplo. Nossos estudantes alcançam ainda importantes zonas como
+Irecê e Morro do Chapéu. Em nenhum destes importantes centros regionais existe sequer
+uma única escola de formação superior em comunicação. No entanto, todas essas cidades
+têm importantes emissoras de rádio regional como a Diamantina FM 95,5 que atinge 30
+municípios e se irradia de Itaberaba, televisoras web (TV Líder) ou retransmissoras de
+televisão, como o Canal 26 da TV Aratu e TV Irecê, em Irecê, além de impressos e blogs de
+circulação local.
+O problema é que este crescimento acelerado dos meios locais e regionais de produção de
+informação acontece sem suporte formativo, o que tende a reduzir as possibilidades
+técnicas e comunicacionais desses suportes, além de comprometer a capacidade de leitura
+crítica desta realidade.
+Muitos desses novos meios reproduzem as estruturas informativas autoritárias e arbitrárias
+das antigas práticas coronelistas, ou apenas disseminam uma produção comunicacional
+limitada, prestando um desserviço à população. Para atender uma crescente demanda de
+formação, muitos dos profissionais e técnicos desses meios buscam capacitação nos cursos
+de comunicação do DCH III em Juazeiro ou no DCH I em Salvador.
+A proposta de um Curso em Jornalismo Multimeios em Seabra nasceu da constatação
+dessa realidade, após ampla discussão interna ao Departamento do Campus XXIII, que
+identificou a demanda de formação de novos profissionais em comunicação como uma
+possibilidade de diminuir a brecha digital, educacional e comunicacional, e também de
+contribuir com um novo projeto de desenvolvimento territorial.
+Como exemplo da demanda regional, o curso-piloto em cooperação como Juazeiro acaba
+de concluir a primeira turma com a maioria dos alunos trabalhando na área.
+36
+
+Na medida em que o debate sobre o tema se amplia com a sociedade, se visualiza que a
+Cooperação Interdepartamental com o Curso de Jornalismo Multimeios em Juazeiro, devido
+ao seu reconhecimento institucional como um centro formador em excelência na
+comunicação, deve contribuir para a formação e qualificação dos profissionais que atuam
+nestes novos meios no Território Chapada. Neste sentido, o novo curso nasce com uma
+vocação para a busca de um jornalismo comprometido com o desenvolvimento econômico,
+social, ambiental e político da região.
+2.1.2 Primeiros resultados da turma piloto em cooperação interdepartamental
+A construção do projeto do novo curso regular em Jornalismo tem sua base na avaliação
+dos primeiros resultados conquistados com a turma de Comunicação Social/ Jornalismo em
+Multimeios realizada em cooperação interdepartamental com Juazeiro. Esta experiência,
+com seus desafios e potencialidades tem sido a base de discussão da nova formação, e
+deixa um legado para o departamento sem precedentes.
+O grupo piloto, que concluiu seus estudos em 2018.2, teve ingresso em 2014.2 por meio do
+vestibular com 40 vagas disponíveis, uma concorrência de 2,88, 36 inscritos e estimativa de
+que 15 alunos concluindo o curso no período regular. Esta turma teve alunos vindos de mais
+de 10 municípios e de 15 comunidades rurais. Mais de 70% jovens eram jovens com menos
+de 25 anos, e a muitos já atuavam no mercado da comunicação como empreendedores e
+produtores autônomos, ou lideranças locais.
+O curso teve 100% das disciplinas ofertadas regularmente, seguindo a grade curricular, o
+que é uma grande conquista em se tratando de um curso em cooperação. A formação
+contou com uma equipe multidisciplinar e interdepartamental altamente qualificada,
+contando com 15 professores (10 doutores, 04 mestres e 01 especialista) de 04
+departamentos (Campus III; Campus XIV; Campus I e Campus XXIII) e ofereceu as bases
+para o DCHT XXIII contratar uma equipe local (01 coordenador DE + 03 professores.
+substitutos + 01 secretária) que realizaram o acompanhamento regular do grupo.
+Como desdobramentos das atividades de ensino, os discentes também desenvolveram uma
+ampla experimentação prática com jornal laboratório multimeios, O Bambúrrio. Estas
+atividades laboratoriais tiveram como suporte o LaCom (Laboratório de Comunicação e
+Produção textual), o empréstimo esporádico de equipamentos e laboratórios da equipe do
+curso de Juazeiro, e a contratação de Estúdio de Rádio (Chapada News) e Estúdio de TV
+(Eu Quero Ver), ambos localizados em Seabra, que possibilitaram a formação continuada
+em na gravação e edição em rádio e TV. Ainda como parte da experimentação e inserção
+dos alunos no mercado de trabalho, destacaram-se as visitas e os estágios supervisionados
+curriculares em 12 instituições regionais, como assessorias para o Parque Nacional da
+Chapada Diamantina, o IFBA, o Núcleo Territorial da Secretaria Estadual de Educação, para
+37
+
+a Câmara de Vereadores de Seabra e a Secretaria de Meio Ambiente, entidades da
+sociedade civil como o Sindicatos dos Trabalhadores Rurais e o Sindicato dos Produtores
+Rurais, e uma TV da capital, a TV Assembleia da Bahia - TV ALBA, revelando a amplitude
+do trabalho jornalístico na região e no estado.
+Estas atividades aproximaram os discentes de veículos de comunicação locais e muitos
+deles já estão atuando em blogs e programas de rádio locais, com Portal da Chapada,
+Chapada News e a Rádio Nova FM, entre outros. Muitos deles também construíram vínculos
+contribuem sistematicamente com o jornalismo da TVE, e sites alternativos de Mídia Ninja,
+Jornalistas Livres, entre outros. Este perfil mais ativo dos alunos facilitou a realização de
+variados eventos locais e regionais, destacando-se entre eles o Encomum – Encontro de
+Estudantes de Comunicação da Bahia, que reuniu mais de 200 discentes de todo o estado
+em uma semana intensiva de debates sobre o futuro de suas profissões, entre outros.
+Com o desafio de complementar a formação universitária junto ao curso de cooperação,
+foram realizados 03 projetos de pesquisa e 05 de extensão, os quais envolveram 08 alunos
+como bolsistas de Iniciação Científica e/ou extensionistas. Muitas destas iniciativas se
+desdobraram nos Trabalhos de Conclusão do Curso (TCC), os quais refletiram um forte
+vínculo com as questões territoriais. Pelo menos 10 projetos de TCC estiveram diretamente
+envolvidos com debates sociais locais de extrema relevância e com potencial de
+disseminação, como a criação de um blog sobre garimpo feminino, monografias e
+documentários sobre conflitos ambientais, comunidades quilombolas, tradicionais e
+periféricas.
+Todos esses resultados refletem o exercício do ensino, pesquisa e extensão que no curso
+piloto de jornalismo da Chapada Diamantina trouxe como diferencial o foco na realidade
+regional, com debates e produção contextualizada, em especial sobre os dilemas do
+desenvolvimento sustentável do território. Este perfil deu ao DCHT XXIII um fôlego novo,
+mais voltado à relação com a comunidade e os interesses externos ao departamento,
+favorecendo uma maior articulação com os atores relevantes do território. Internamente,
+também promoveu a instalação de reflexões sobre as interfaces entre a comunicação e as
+novas tecnologias e os cursos de Letras e Pedagogia, despertando diálogos e intercâmbios
+na área do Letramento midiático e da educomunicação, bem como aproximando as turmas
+dos cursos de licenciatura de práticas pedagógicas mais contextualizadas e vinculadas com
+os debates territoriais.
+Por tudo isso, o Campus XXIII considera que esta experiência formativa foi fundamental
+para a construção de um projeto de curso de oferta regular na área da comunicação social e
+consolida uma vocação e uma trajetória para fixação de um bacharelado em Jornalismo.
+38
+
+2.2. Fundamentação Legal
+O currículo do curso de bacharelado em Jornalismo foi elaborado na perspectiva de
+possibilitar abordagens contextualizadas, flexíveis, interdisciplinares e coerentes com os
+atuais processos de produção de conhecimento. Assim, fundamentou-se nos seguintes
+documentos:
+● Parecer CNE/CES nº 492/2001 sobre diretrizes curriculares nacionais para cursos de
+graduação em Filosofia, História, Geografia, Serviço Social, Comunicação Social,
+Letras, Biblioteconomia, Arquivologia e Museologia;
+● Parecer CNE/CES 1.363/2001: retifica o Parecer do CNE/CES nº 492/2001;
+● Resolução CNE/CES nº 16/2002 que define as diretrizes curriculares dos Cursos de
+Graduação para Área Comunicação Social6.
+● Resolução CNE/CES nº 2/2007 dispõe sobre carga horária mínima e procedimentos
+relativos à integralização e duração dos cursos de graduação, bacharelados, na
+modalidade presencial.
+● Resolução UNEB/CONSU 1004/2013 que autoriza o Curso em Comunicação Social/
+Jornalismo em Multimeios em Seabra na modalidade de cooperação
+interdepartamental.
+● Resolução CNE/CES nº 01/2013 que institui as Diretrizes Curriculares Nacionais
+para o curso de graduação, bacharelado.
+Apresentam-se a seguir, cópias dos documentos referenciados.
+6
+Em 2013, depois de já encaminhado o projeto de criação do curso de Comunicação Social/Jornalismo em
+Multimeios de Seabra, o CNE/CES publicou a Resolução nº 1/2013 que estabeleceu novas diretrizes curriculares
+nacionais para o curso de graduação em Jornalismo, bacharelado; segmento os cursos da antiga área comum da
+Comunicação Social.
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+Salvador, Bahia ·Quita-
+feira
+15 de Agosto de 2013
+54
+
+Ano · XCVII · No 21.211
+RESOLUÇÃO N.º 1004/2013
+Autoriza a oferta e o funcionamento do Curso de
+Graduação em Comunicação Social – Bacharelado,
+a ser oferecido no DCHT/Campus XXIII – Seabra,
+em Regime de Cooperação Interdepartamental com
+o DCH/Campus III – Juazeiro, e dá outras
+providências.
+O CONSELHO UNIVERSITÁRIO (CONSU) da Universidade do Estado da Bahia
+(UNEB), no uso de suas competências legais, estatutárias e regimentais, com
+fundamento no Artigo 11, Inciso VIII do Regimento Geral, combinado com as
+Resoluções CONSU nº 899/2012 e 950/2012 e de acordo com o que consta do
+Processo n.º 0603120201022, em sessão desta data, RESOLVE:
+Art. 1º. Autorizar a oferta e o funcionamento do Curso de Graduação em
+Comunicação Social – Bacharelado, a ser oferecido no Departamento de
+Ciências Humanas e Tecnologias/Campus XXIII – Seabra, em Regime de
+Cooperação Interdepartamental com o Departamento de Ciências
+Humanas/Campus III – Juazeiro.
+Parágrafo Único. A oferta do curso de que trata o caput deste artigo terá ingresso a
+partir do semestre letivo 2014.2, com 40 (quarenta) vagas e funcionamento no turno
+diurno.
+Art. 2º. Esta Resolução entra em vigor na data de sua publicação, fincando
+revogadas as disposições em contrário.
+Sala das Sessões, 14 de agosto de 2013.
+Lourisvaldo Valentim da Silva
+Presidente do CONSU
+55
+
+MINISTÉRIO DA EDUCAÇÃO
+CONSELHO NACIONAL DE EDUCAÇÃO
+CÂMARA DE EDUCAÇÃO SUPERIOR
+RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013 (*)
+56
+
+Institui as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo,
+bacharelado, e dá outras providências.
+O Presidente da Câmara de Educação Superior do Conselho Nacional de Educação, no uso
+de suas atribuições legais, com fundamento no art. 9º, § 2º, alínea “c”, da Lei nº 4.024, de 20
+de dezembro de 1961, com a redação dada pela Lei nº 9.131, de 24 de novembro de 1995,
+tendo em vista as diretrizes e os princípios fixados pelos Pareceres CNE/CES nos 776/1997,
+583/2001 e 67/2003, e considerando o que consta do Parecer CNE/CES no 39/2013,
+homologado por Despacho do Senhor Ministro de Estado da Educação, publicado no DOU
+de 12/9/2013, resolve:
+Art. 1º A presente Resolução institui as Diretrizes Curriculares Nacionais para o curso de
+graduação em Jornalismo, bacharelado, a serem observadas pelas instituições de educação
+superior em sua organização curricular.
+Art. 2º A estrutura do curso de bacharelado em Jornalismo deve: I - ter como eixo de
+desenvolvimento curricular as necessidades de informação e de expressão dialógica dos
+indivíduos e da sociedade; II - utilizar metodologias que privilegiem a participação ativa do
+aluno na construção do conhecimento e a integração entre os conteúdos, além de estimular
+a interação entre o ensino, a pesquisa e a extensão, propiciando suas articulações com
+diferentes segmentos da sociedade; III - promover a integração teoria/prática e a
+interdisciplinaridade entre os eixos de desenvolvimento curricular; IV - inserir precocemente
+o aluno em atividades didáticas relevantes para a sua futura vida profissional; V - utilizar
+diferentes cenários de ensino-aprendizagem, permitindo assim ao aluno conhecer e
+vivenciar situações variadas em equipes multiprofissionais; VI - propiciar a interação
+permanente do aluno com fontes, profissionais e públicos do jornalismo, desde o início de
+sua formação, estimulando, desse modo, o aluno a lidar com problemas reais, assumindo
+responsabilidades crescentes, compatíveis com seu grau de autonomia.
+Art. 3º O projeto pedagógico do curso de graduação em Jornalismo, com suas
+peculiaridades, seu currículo pleno e sua operacionalização, abrangerá, sem prejuízo de
+outros, os seguintes elementos estruturais: I - concepção e objetivos gerais do curso,
+contextualizados em relação às suas inserções – institucional, política, geográfica e social; II
+- condições objetivas de oferta e vocação do curso; III - cargas horárias das atividades
+didáticas e da integralização do curso; IV - formas de efetivação da interdisciplinaridade; V -
+modos de integração entre teoria e prática; VI - formas de avaliação do ensino e da
+aprendizagem;
+VII - modos de integração entre graduação e pós-graduação; VIII - incentivo à pesquisa e à
+extensão, como necessários prolongamentos das atividades de ensino e como instrumentos
+para a iniciação científica e cidadã; IX - regulamentação das atividades do Trabalho de
+Conclusão de Curso (TCC), componente obrigatório a ser realizado sob a supervisão
+docente; X - regulamentação das atividades do estágio curricular supervisionado, contendo
+57
+
+suas diferentes formas e condições de realização; XI - concepção e composição das
+atividades complementares, quando existentes.
+Art. 4º A elaboração do projeto pedagógico do curso de bacharelado em Jornalismo deverá
+observar os seguintes indicativos: I - formar profissionais com competência teórica, técnica,
+tecnológica, ética, estética para atuar criticamente na profissão, de modo responsável,
+produzindo assim seu aprimoramento; II - enfatizar, em sua formação, o espírito
+empreendedor e o domínio científico, de forma que sejam capazes de produzir pesquisa,
+conceber, executar e avaliar projetos inovadores que respondam às exigências
+contemporâneas e ampliem a atuação profissional em novos campos, projetando a função
+social da profissão em contextos ainda não delineados no presente; III - orientar a formação
+teórica e técnica para as especificidades do jornalismo, com grande atenção à prática
+profissional, dentro de padrões internacionalmente reconhecidos, comprometidos com a
+liberdade de expressão, o direito à informação, a dignidade do exercício profissional e o
+interesse público; IV - aprofundar o compromisso com a profissão e os seus valores, por
+meio da elevação da autoestima profissional, dando ênfase à formação do jornalista como
+intelectual, produtor e/ou articulador de informações e conhecimentos sobre a atualidade,
+em todos os seus aspectos; V - preparar profissionais para atuar num contexto de mutação
+tecnológica constante no qual, além de dominar as técnicas e as ferramentas
+contemporâneas, é preciso conhecê-las em seus princípios para transformá-las na medida
+das exigências do presente; VI - ter como horizonte profissional o ambiente regido pela
+convergência tecnológica, em que o jornalismo impresso, embora conserve a sua
+importância no conjunto midiático, não seja a espinha dorsal do espaço de trabalho, nem
+dite as referências da profissão; VII - incluir, na formação profissional, as rotinas de trabalho
+do jornalista em assessoria a instituições de todos os tipos; VIII - atentar para a necessidade
+de preparar profissionais que possam exercer dignamente a atividade como autônomos em
+contexto econômico cuja oferta de emprego não cresce na mesma proporção que a oferta
+de mão-de-obra; IX - instituir a graduação como etapa de formação profissional continuada e
+permanente.
+Art. 5º O concluinte do curso de Jornalismo deve estar apto para o desempenho profissional
+de jornalista, com formação acadêmica generalista, humanista, crítica, ética e reflexiva,
+capacitando-o, dessa forma, a atuar como produtor intelectual e agente da cidadania, capaz
+de responder, por um lado, à complexidade e ao pluralismo característicos da sociedade e
+da cultura contemporâneas, e, por outro, possuir os fundamentos teóricos e técnicos
+especializados, o que lhe proporcionará clareza e segurança para o exercício de sua função
+social específica, de identidade profissional singular e diferenciada em relação ao campo
+maior da comunicação social. 3 Parágrafo único. Nessa perspectiva, as competências,
+habilidades, conhecimentos, atitudes e valores a serem desenvolvidos incluem: I -
+Competências gerais: a) compreender e valorizar, como conquistas históricas da cidadania
+e indicadores de um estágio avançado de civilização, em processo constante de riscos e
+aperfeiçoamento: o regime democrático, o pluralismo de ideias e de opiniões, a cultura da
+paz, os direitos humanos, as liberdades públicas, a justiça social e o desenvolvimento
+58
+
+sustentável; b) conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura
+e a realidade social, econômica e política brasileira, considerando especialmente a
+diversidade regional, os contextos latino-americano e ibero-americano, o eixo sul-sul e o
+processo de internacionalização da produção jornalística; c) identificar e reconhecer a
+relevância e o interesse público entre os temas da atualidade; d) distinguir entre o
+verdadeiro e o falso a partir de um sistema de referências éticas e profissionais; e)
+pesquisar, selecionar e analisar informações em qualquer campo de conhecimento
+específico; f) dominar a expressão oral e a escrita em língua portuguesa; g) ter domínio
+instrumental de, pelo menos, dois outros idiomas – preferencialmente inglês e espanhol,
+integrantes que são do contexto geopolítico em que o Brasil está inserido; h) interagir com
+pessoas e grupos sociais de formações e culturas diversas e diferentes níveis de
+escolaridade; i) ser capaz de trabalhar em equipes profissionais multifacetadas; j) saber
+utilizar as tecnologias de informação e comunicação; k) pautar-se pela inovação permanente
+de métodos, técnicas e procedimentos; l) cultivar a curiosidade sobre os mais diversos
+assuntos e a humildade em relação ao conhecimento; m)compreender que o aprendizado é
+permanente; n) saber conviver com o poder, a fama e a celebridade, mantendo a
+independência e o distanciamento necessários em relação a eles; o) perceber
+constrangimentos à atuação profissional e desenvolver senso crítico em relação a isso; p)
+procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais; q) atuar
+sempre com discernimento ético. II - Competências cognitivas: a) conhecer a história, os
+fundamentos e os cânones profissionais do jornalismo; b) conhecer a construção histórica e
+os fundamentos da cidadania; c) compreender e valorizar o papel do jornalismo na
+democracia e no exercício da cidadania; d) compreender as especificidades éticas, técnicas
+e estéticas do jornalismo, em sua complexidade de linguagem e como forma diferenciada de
+produção e socialização de informação e conhecimento sobre a realidade; e) discernir os
+objetivos e as lógicas de funcionamento das instituições privadas, estatais, públicas,
+partidárias, religiosas ou de outra natureza em que o jornalismo é exercido, assim como as
+influências do contexto sobre esse exercício. III - Competências pragmáticas: 4 a)
+contextualizar, interpretar e explicar informações relevantes da atualidade, agregando-lhes
+elementos de elucidação necessários à compreensão da realidade; b) perseguir elevado
+grau de precisão no registro e na interpretação dos fatos noticiáveis; c) propor, planejar,
+executar e avaliar projetos na área de jornalismo; d) organizar pautas e planejar coberturas
+jornalísticas; e) formular questões e conduzir entrevistas; f) adotar critérios de rigor e
+independência na seleção das fontes e no relacionamento profissional com elas, tendo em
+vista o princípio da pluralidade, o favorecimento do debate, o aprofundamento da
+investigação e a garantia social da veracidade; g) dominar metodologias jornalísticas de
+apuração, depuração, aferição, além das de produzir, editar e difundir; h) conhecer
+conceitos e dominar técnicas dos gêneros jornalísticos; i) produzir enunciados jornalísticos
+com clareza, rigor e correção e ser capaz de editá-los em espaços e períodos de tempo
+limitados; j) traduzir em linguagem jornalística, preservando-os, conteúdos originalmente
+formulados em linguagens técnico-científicas, mas cuja relevância social justifique e/ou exija
+59
+
+disseminação não especializada; k) elaborar, coordenar e executar projetos editoriais de
+cunho jornalístico para diferentes tipos de instituições e públicos; l) elaborar, coordenar e
+executar projetos de assessoria jornalística a instituições legalmente constituídas de
+qualquer natureza, assim como projetos de jornalismo em comunicação comunitária,
+estratégica ou corporativa; m) compreender, dominar e gerir processos de produção
+jornalística, bem como ser capaz de aperfeiçoá-los pela inovação e pelo exercício do
+raciocínio crítico; n) dominar linguagens midiáticas e formatos discursivos, utilizados nos
+processos de produção jornalística nos diferentes meios e modalidades tecnológicas de
+comunicação; o) dominar o instrumental tecnológico – hardware e software – utilizado na
+produção jornalística; p) avaliar criticamente produtos e práticas jornalísticas. V -
+Competências comportamentais: a) perceber a importância e os mecanismos da
+regulamentação político-jurídica da profissão e da área de comunicação social; b) identificar,
+estudar e analisar questões éticas e deontológicas no jornalismo; c) conhecer e respeitar os
+princípios éticos e as normas deontológicas da profissão; d) avaliar, à luz de valores éticos,
+as razões e os efeitos das ações jornalísticas; e) atentar para os processos que envolvam a
+recepção de mensagens jornalísticas e o seu impacto sobre os diversos setores da
+sociedade; f) impor aos critérios, às decisões e às escolhas da atividade profissional as
+razões do interesse público; g) exercer, sobre os poderes constituídos, fiscalização
+comprometida com a verdade dos fatos, o direito dos cidadãos à informação e o livre
+trânsito das ideias e das mais diversas opiniões.
+Art. 6º Em função do perfil do egresso e de suas competências, a organização do currículo
+deve contemplar, no projeto pedagógico, conteúdos que atendam a seis eixos de formação:
+I - Eixo de fundamentação humanística, cujo objetivo é capacitar o jornalista para exercer a
+sua função intelectual de produtor e difusor de informações e conhecimentos de 5 interesse
+para a cidadania, privilegiando a realidade brasileira, como formação histórica, estrutura
+jurídica e instituições políticas contemporâneas; sua geografia humana e economia política;
+suas raízes étnicas, regiões ecológicas, cultura popular, crenças e tradições; arte, literatura,
+ciência, tecnologia, bem como os fatores essenciais para o fortalecimento da democracia,
+entre eles as relações internacionais, a diversidade cultural, os direitos individuais e
+coletivos; as políticas públicas, o desenvolvimento sustentável, as oportunidades de
+esportes, lazer e entretenimento e o acesso aos bens culturais da humanidade, sem se
+descuidar dos processos de globalização, regionalização e das singularidades locais,
+comunitárias e da vida cotidiana. II - Eixo de fundamentação específica, cuja função é
+proporcionar ao jornalista clareza conceitual e visão crítica sobre a especificidade de sua
+profissão, tais como: fundamentos históricos, taxonômicos, éticos, epistemológicos;
+ordenamento jurídico e deontológico; instituições, pensadores e obras canônicas;
+manifestações públicas, industriais e comunitárias; os instrumentos de autorregulação;
+observação crítica; análise comparada; revisão da pesquisa científica sobre os paradigmas
+hegemônicos e as tendências emergentes. III - Eixo de fundamentação contextual, que tem
+por escopo embasar o conhecimento das teorias da comunicação, informação e
+60
+
+cibercultura, em suas dimensões filosóficas, políticas, psicológicas e socioculturais, o que
+deve incluir as rotinas de produção e os processos de recepção, bem como a
+regulamentação dos sistemas midiáticos, em função do mercado potencial, além dos
+princípios que regem as áreas conexas. IV - Eixo de formação profissional, que objetiva
+fundamentar o conhecimento teórico e prático, familiarizando os estudantes com os
+processos de gestão, produção, métodos e técnicas de apuração, redação e edição
+jornalística, possibilitando-lhes investigar os acontecimentos relatados pelas fontes, bem
+como capacitá-los a exercer a crítica e a prática redacional em língua portuguesa, de acordo
+com os gêneros e os formatos jornalísticos instituídos, as inovações tecnológicas, retóricas
+e argumentativas. V - Eixo de aplicação processual, cujo objetivo é o de fornecer ao
+jornalista ferramentas técnicas e metodológicas, de modo que possa efetuar coberturas em
+diferentes suportes: jornalismo impresso, radiojornalismo, telejornalismo, webjornalismo,
+assessorias de imprensa e outras demandas do mercado de trabalho. VI - Eixo de prática
+laboratorial, que tem por objetivo adquirir conhecimentos e desenvolver habilidades
+inerentes à profissão a partir da aplicação de informações e valores. Possui a função de
+integrar os demais eixos, alicerçado em projetos editoriais definidos e orientados a públicos
+reais, com publicação efetiva e periodicidade regular, tais como: jornal, revista e livro, jornal
+mural, radiojornal, telejornal, webjornal, agência de notícias, assessoria de imprensa, entre
+outros.
+Art. 7º A organização curricular do curso de graduação em Jornalismo deve representar,
+necessariamente, as condições existentes para a sua efetiva conclusão e integralização, de
+acordo com o regime acadêmico que as instituições de educação superior adotarem: regime
+seriado anual; regime seriado semestral; sistema de créditos com matrícula por componente
+curricular ou por módulos acadêmicos, com a adoção de pré-requisitos; sistema sequencial,
+com o aproveitamento de créditos cursados por alunos oriundos de outras áreas do
+conhecimento.
+Art. 8º As instituições de educação superior têm ampla liberdade para, consoante seus
+projetos pedagógicos, selecionar, propor, denominar e ordenar as disciplinas do currículo a
+partir dos conteúdos, do perfil do egresso e das competências apontados anteriormente.
+Parágrafo único. É valorizada a equidade entre as cargas horárias destinadas a cada um
+dos eixos de formação.
+Art. 9º A organização curricular deverá valorizar o equilíbrio e a integração 6 entre teoria e
+prática durante toda a duração do curso, observando os seguintes requisitos: I - carga
+horária suficiente para distribuição estratégica e equilibrada dos eixos curriculares e demais
+atividades previstas; II - distribuição das atividades laboratoriais, a partir do primeiro
+semestre, numa sequência progressiva, até a conclusão do curso, de acordo com os níveis
+de complexidade e de aprendizagem; III - garantia de oportunidade de conhecimento da
+realidade, nos contextos local, regional e nacional.
+61
+
+Art. 10. A carga horária total do curso deve ser de, no mínimo, 3.000 (três mil) horas, sendo
+que, de acordo com a Resolução CNE/CES nº 2/2007, o estágio curricular supervisionado e
+as atividades complementares não poderão exceder a 20% (vinte por cento) da carga
+horária total do curso. Parágrafo único. A carga horária mínima destinada ao estágio
+curricular supervisionado deve ser de 200 (duzentas) horas. Art. 11. O Trabalho de
+Conclusão de Curso (TCC) é componente curricular obrigatório, a ser desenvolvido
+individualmente, realizado sob a supervisão docente e avaliado por uma banca examinadora
+formada por docentes, sendo possível também a participação de jornalistas profissionais
+convidados. § 1º O TCC pode se constituir em um trabalho prático de cunho jornalístico ou
+de reflexão teórica sobre temas relacionados à atividade jornalística. § 2º O TCC deve vir,
+necessariamente, acompanhado por relatório, memorial ou monografia de reflexão crítica
+sobre sua execução, de forma que reúna e consolide a experiência do aluno com os
+diversos conteúdos estudados durante o curso. § 3º As instituições de educação superior
+deverão emitir e divulgar regulamentação própria, aprovada por colegiado competente,
+estabelecendo, necessariamente, critérios, procedimentos e mecanismos de avaliação do
+TCC, além das diretrizes técnicas relacionadas com a sua elaboração.
+Art. 12. O estágio curricular supervisionado é componente obrigatório do currículo, tendo
+como objetivo consolidar práticas de desempenho profissional inerente ao perfil do
+formando, definido em cada instituição por seus colegiados acadêmicos, aos quais
+competem aprovar o regulamento correspondente, com suas diferentes modalidades de
+operacionalização. § 1º O estágio curricular supervisionado poderá ser realizado em
+instituições públicas, privadas ou do terceiro setor ou na própria instituição de ensino, em
+veículos autônomos ou assessorias profissionais. § 2º As atividades do estágio curricular
+supervisionado deverão ser programadas para os períodos finais do curso, possibilitando
+aos alunos concluintes testar os conhecimentos assimilados em aulas e laboratórios,
+cabendo aos responsáveis pelo acompanhamento, supervisão e avaliação do estágio
+curricular avaliar e aprovar o relatório final, resguardando o padrão de qualidade nos
+domínios indispensáveis ao exercício da profissão. § 3º A instituição de educação superior
+deve incluir, no projeto pedagógico do curso de graduação em Jornalismo, a natureza do
+estágio curricular supervisionado, através de regulamentação própria aprovada por
+colegiado, indicando os critérios, procedimentos e mecanismos de avaliação, observada a
+legislação e as recomendações das entidades profissionais do jornalismo. § 4º É vedado
+convalidar como estágio curricular supervisionado a prestação de serviços, realizada a
+qualquer título, que não seja compatível com as funções profissionais do jornalista; que
+caracterize a substituição indevida de profissional formado ou, ainda, que 7 seja realizado
+em ambiente de trabalho sem a presença e o acompanhamento de jornalistas profissionais,
+tampouco sem a necessária supervisão docente. § 5º É vedado convalidar como estágio
+curricular supervisionado os trabalhos laboratoriais feitos durante o curso.
+Art. 13. As atividades complementares são componentes curriculares não obrigatórios que
+possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e
+62
+
+competências do aluno, dentre elas as adquiridas fora do ambiente de ensino. § 1º As
+atividades complementares constituem componentes curriculares enriquecedores e úteis
+para o perfil do formando e não devem ser confundidas com estágio curricular
+supervisionado ou com Trabalho de Conclusão de Curso. § 2º O conjunto de atividades
+complementares tem o objetivo de dar flexibilidade ao currículo e deve ser selecionado e
+realizado pelo aluno ao longo de seu curso de graduação, de acordo com seu interesse e
+com a aprovação da coordenação do curso. § 3º As atividades complementares devem ser
+realizadas sob a supervisão, orientação e avaliação de docentes do próprio curso. § 4º Os
+mecanismos e critérios para avaliação das atividades complementares devem ser definidos
+em regulamento próprio da instituição, respeitadas as particularidades e especificidades
+próprias do curso de Jornalismo, atribuindo a elas um sistema de créditos, pontos ou
+computação de horas para efeito de integralização do total da carga horária previsto para o
+curso. § 5º São consideradas atividades complementares: I - atividades didáticas: frequência
+e aprovação em disciplinas não previstas no currículo do curso, ampliando o conhecimento
+dos estudantes de Jornalismo sobre conteúdos específicos, como economia, política, direito,
+legislação, ecologia, cultura, esportes, ciência, tecnologia etc. II - atividades acadêmicas:
+apresentação de relatos de iniciação científica, pesquisa experimental, extensão comunitária
+ou monitoria didática em congressos acadêmicos e profissionais.
+Art. 14. As instituições de educação superior deverão adotar regras próprias de avaliação
+internas e externas, para que sejam sistemáticas e envolvam todos os recursos materiais e
+humanos participantes do curso, centradas no atendimento às Diretrizes Curriculares
+Nacionais do curso de graduação em Jornalismo, definidas e aprovadas pelo Conselho
+Nacional de Educação.
+Art. 15. Os Planos de Disciplinas devem ser fornecidos aos alunos antes do início de cada
+período letivo e devem conter, além dos conteúdos e das atividades, a metodologia das
+aulas, os critérios de avaliação e a bibliografia fundamental, necessariamente disponível na
+biblioteca da instituição. Desta maneira, os alunos poderão discernir claramente a relação
+entre as Diretrizes Curriculares Nacionais do curso de graduação em Jornalismo, a grade
+curricular da instituição e o processo de avaliação a que serão submetidos no final do curso.
+Art. 16. O sistema de avaliação institucional dos cursos de Jornalismo deve contemplar,
+dentre outros critérios: I - o conjunto da produção jornalística e de atividades de pesquisa e
+de extensão realizadas pelos alunos ao longo do curso; II - o conjunto da produção
+acadêmica e técnica reunida pelos professores; III - a contribuição do curso para o
+desenvolvimento local social e de cidadania nos contextos em que a instituição de educação
+superior está inserida; IV - o espaço físico e as instalações adequadas para todas as
+atividades previstas, assim como o número de alunos por turma, que deve ser compatível
+com a supervisão docente nas atividades práticas; 8 V - o funcionamento, com permanente
+atualização, dos laboratórios técnicos especializados para a aprendizagem teórico-prática
+do jornalismo a partir de diversos recursos de linguagens e suportes tecnológicos, de
+biblioteca, hemeroteca e bancos de dados, com acervos especializados; VI - as condições
+de acesso e facilidade de utilização da infraestrutura do curso pelos alunos, que devem ser
+63
+
+adequadas ao tamanho do corpo discente, de forma que possam garantir o cumprimento do
+total de carga horária para todos os alunos matriculados em cada disciplina ou atividade; VII
+- a inserção profissional alcançada pelos alunos egressos do curso; VIII - a experiência
+profissional, a titulação acadêmica, a produção científica, o vínculo institucional, o regime de
+trabalho e a aderência às disciplinas e atividades sob responsabilidade do docente.
+Art. 17. As Diretrizes Curriculares Nacionais instituídas nesta Resolução deverão ser
+implantadas pelas instituições de educação superior, obrigatoriamente, no prazo máximo de
+2 (dois) anos, aos alunos ingressantes, a partir da publicação desta. Parágrafo único. As IES
+poderão optar pela aplicação das Diretrizes Curriculares Nacionais do curso de graduação
+em Jornalismo aos demais alunos do período ou ano subsequente à publicação desta
+Resolução Art. 18. Esta Resolução entrará em vigor na data de sua publicação, ficando
+revogadas as disposições em contrário.
+GILBERTO GONÇALVES GARCIA
+(*) Resolução CNE/CES 1/2013. Diário Oficial da União, Brasília, 1° de outubro de 2013 –
+Seção 1 – p. 26.
+2.3. Concepção e Objetivos
+O curso de Jornalismo – Bacharelado se norteia pela compreensão da produção jornalística
+e da comunicação como processo social, econômico e cultural caracterizado por uma
+amplitude do campo científico, pluralidade metodológica e por componentes relacionadas à
+sociedade, ao comportamento humano e ao poder simbólico da linguagem.
+Historicamente, as referências das graduações em jornalismo, encontram-se no âmago do
+sistema produtivo, nas rotinas das empresas produtoras e distribuidoras de bens simbólicos:
+jornais, revistas, emissoras de rádio, televisão, hipermídia (portais, sites, produção de Cd-
+Rom, rádio web, tv web, blogs), editoras de livros, empresas de assessorias de imprensa e
+comunicação, produtores de vídeo; e na emergência da telemática. Com as transformações
+do ambiente de convergência midiática e da constituição dos novos atores midiáticos como
+as redes sociais da internet, as referências do exercício da comunicação se ampliam para
+além dos meios, e assumem cada vez mais um papel de articulação da informação com as
+demandas regionais.
+Para atender a essa nova perspectiva, o currículo oferecido por esta proposta tenta articular
+a produção jornalística contemporânea, pautada pelas transformações globais, como um
+ambiente de diálogo e promoção do desenvolvimento territorial sustentável, o que
+estudiosos apontam como “glocalização”. O curso se alicerça na compreensão da relevância
+dos processos de comunicação para o desenvolvimento humano, no comportamento crítico
+e ético perante a realidade e os processos de construção da mesma, na compreensão de
+64
+
+uma realidade diversa com relação a questões étnicas, religiosas e individuais mediados
+pelos novos ambientes de convergência midiática que possibilitam a interação dos
+profissionais com as novas tecnologias e com a realidade territorial.
+Assim, o profissional Jornalista necessita de uma formação que integre o domínio, em seu
+conteúdo e sua forma, das diversas tecnologias e linguagens da comunicação social, seja
+as pertinentes ao jornalismo impresso, televisivo, radiofônico, eletrônico, às redes sociais da
+internet, às práticas educomunicativas, as mídias comunitárias e às novas modalidades em
+ambientes de convergência midiática e às crises sócio-culturais e ambientais
+contemporâneas. Exige ainda uma formação com habilidade e competência técnicas aliada
+a uma formação humanista com conhecimentos consolidados nas Teorias da Comunicação
+e em áreas como Filosofia, Sociologia, Lingüística, História, Estética, Cultura e Ética, entre
+outras.
+Dessa forma, o profissional Jornalista desenvolve a capacidade crítica acerca das condições
+sócio-culturais subjacentes à sua profissão, estando apto a desenvolver uma atuação mais
+apurada, questionadora, criativa e com a capacidade de intervir nos processos de
+construção da realidade, mediado pelos meios de comunicação e pelas tecnologias.
+O processo de reorganização da sociedade civil e a reivindicação pela democratização dos
+meios de comunicação também têm fortalecido um campo de conhecimento interdisciplinar
+entre a Comunicação e os Movimentos Sociais que fizeram emergir os meios de
+comunicação comunitários como instrumentos de produção simbólica de suas estratégias
+organizativas e em prol de uma agenda social pertinente ao desenvolvimento humano e ao
+exercício da cidadania.
+O curso se baseia, portanto, em princípios éticos do desenvolvimento humano e demandas
+regionais, considerando as diversidades apresentadas pela realidade, do ponto de vista
+humano e territorial, visando à formação de um profissional habilitado à produção simbólica
+e interpretação da realidade nos meios impressos, audiovisuais, ambientes de convergência
+midiática, redes sociais e nos meios educomunicativos e comunitários, concernentes às
+novas possibilidades de conhecimento e espaços criados pelas sociedades interconectadas
+pelas tecnologias.
+O desafio deste projeto é responder às exigências do novo jornalismo na atual fase de
+convergência midiática, e ao mesmo tempo contribuir para a formação de um profissional da
+comunicação inserido criticamente nos debates e projetos referentes ao desenvolvimento
+sustentável da Chapada Diamantina.
+É imprescindível que o curso garanta as competências e habilidades exigidas ao
+comunicador social em seu sentido lato e a formação do jornalista como formador de opinião
+pública que necessita se apropriar dos instrumentos (conhecimentos e ferramentas) do fazer
+65
+
+jornalístico, em suas múltiplas faces, e dos conhecimentos gerais que garantam este fazer
+jornalístico, norteando-se por compromissos éticos e de respeito à cidadania.
+Em síntese, o curso de Jornalismo tem buscado formar um comunicador social que
+compreenda a Comunicação como um processo social, caracterizado por uma amplitude do
+campo científico, pluralidade metodológica e por componentes relacionados à sociedade, ao
+comportamento humano e ao poder simbólico da linguagem. E todo o percurso formativo
+busca aliar a capacidade de leitura crítica do mundo, da sua realidade local e dos processos
+comunicacionais e o desenvolvimento das habilidades técnicas específicas, com um
+profundo compromisso deste comunicador com a transformação e melhoria social do
+território em que vivem. Por isso, o currículo que se detalha a seguir enfatiza disciplinas que
+permitem o diálogo teórico e a vivência prática simultaneamente, e também possibilitam o
+contato dos estudantes com os meios de comunicação alternativos, para além do modelo e
+da estrutura hegemônica comunicativa, como os movimentos sociais e meios comunitários.
+É importante destacar que a concepção deste currículo desafiador ainda articula os saberes
+da comunicação com o campo da Educação. Esta vinculação se justifica não apenas pela
+história do curso em sua relação com os cursos de Pedagogia (DCH III) e Letras (DCHT
+XXIII), mas por compreender que o diálogo entre as linguagens, a comunicação e a
+educação já se dá na realidade há muitos anos e foi sistematizado na área acadêmica e no
+mercado de trabalho, gerando um campo específico que hora se configura como
+Educomunicação, como comunicação e educação ou como educação e comunicação.
+2.3.1 Objetivos
+Geral
+● Fomentar e qualificar a produção comunicacional no Território da
+Chapada através da formação com excelência de bacharéis em
+Jornalismo preparados para atuar em um cenário de conflitos ambientais
+e tecnologia multimídia.
+Específicos
+● Implantar o curso de bacharelado em Jornalismo, destacando a formação
+na perspectiva do Desenvolvimento Territorial Sustentável em Seabra
+como uma referência na área da comunicação e sustentabilidade na
+UNEB;
+● Oferecer formação teórica e técnica de qualidade em Jornalismo, com
+ingresso bienal (cada 02 anos) para 30 alunos por turma;
+66
+
+● Articular os conteúdos e habilidades priorizados pelo curso com as
+demandas socioeconômicas, culturais e ambientais do Território
+Chapada, através da realização de projetos de pesquisa e extensão, e de
+parcerias com as entidades de referência regional;
+● Promover o Curso de bacharelado em Jornalismo transformando a
+experiência de ensino em um projeto de pesquisa sobre os desafios da
+formação profissional de comunicadores em territórios historicamente
+desfavorecidos, cujos resultados deverão ser avaliados e posteriormente
+divulgados para a comunidade científica.
+2.4 Perfil de Egresso
+O profissional Jornalista deve desenvolver capacidades para compreender criticamente,
+produzir, difundir e gerir processos de comunicação e informação em atividades inerentes à
+sua profissão em um cenário multimídia, e voltado a busca de soluções para as questões do
+território da Chapada Diamantina. Também deve estar em condições de participar de
+maneira crítica e empreendedora do desenvolvimento sócio-cultural de sua realidade local.
+Para tanto, deve desenvolver uma atuação questionadora, criativa e com a capacidade de
+intervir nos processos de construção da realidade, mediado pelos meios de comunicação e
+pelas tecnologias. Desta forma, entende-se que o profissional a ser formado pelo
+Departamento de Ciências Humanas e Tecnologias, Campus XXIII, da UNEB, deve ter o
+seguinte perfil:
+a) Produtor de informações relacionadas a fatos circunstâncias e contextos do momento
+presente;
+b) Redator, investigador, editor e divulgador dos fatos sociais com objetividade e em
+conformidade com a linguagem de cada meio;
+c) Intérprete da realidade e crítico de informações de modo a qualificar e educar o público
+receptor;
+d) Articulador da comunicação social com outras áreas sociais, culturais, econômicas e
+políticas com as quais o jornalismo se inter-relaciona;
+e) Comunicador com domínio das tecnologias da informação e comunicação numa
+perspectiva de atuação em multimeios;
+g) Analista das temáticas que perpassam toda a produção dos meios de comunicação,
+em consonância com a realidade global;
+h) Facilitador das práticas educomunicativas e comunitárias;
+67
+
+i) Gestor das práticas e das políticas de comunicação;
+j) Assessor estratégico na produção de campanhas, produtos e ações comunicativas para
+difusão de informação qualificada;
+l) Empreendedor social na área da informação, comunicação e cultura;
+m) Atuar como mediador de conflitos sócio-ambientais, através de ferramentas da
+educomunicação.
+2.5 Competências e Habilidades do egresso
+2.5.1 Competências e Habilidades Gerais
+a) Fazer a crítica acerca dos conceitos das teorias da comunicação;
+b) Usar conceitos e teorias em análises críticas da realidade;
+c) Posicionar-se segundo ponto de vista ético-político;
+d) Dominar um conjunto significativo de conhecimentos e informações da área e
+inovações do uso da linguagem nos multimeios;
+e) Usar linguagens habitualmente utilizadas nos processos de comunicação, na sua
+dimensão técnica e também de criação, de produção e de interpretação;
+f) Experimentar e inovar linguagens da área;
+g) Refletir de forma crítica e ética sobre as práticas profissionais do campo da
+comunicação;
+h) Estabelecer relações factuais e conceituais diante de questões concretas pertinentes
+à área;
+i) Produzir informação qualificada e adequada às especificidades da difusão nos
+canais públicos estratégicos da comunicação regional;
+j) Gerir processo comunicativos e assessorar políticas e programas na área;
+k) Mediar conflitos intersetoriais no território.
+2.5.2 Competências e Habilidades Específicas para Habilitação em
+Jornalismo
+a) Analisar criticamente os processos envolvidos na recepção de mensagens
+jornalísticas e seus impactos sobre os diversos setores da sociedade;
+b) Fazer a crítica acerca dos conceitos das teorias jornalísticas;
+68
+
+c) Exercer a profissão com compromisso com a busca da verdade, ética e a cidadania;
+d) Criticar as relações de poder e das práticas sociais;
+e) Identificar o que é informação de interesse público e pautar-se eticamente no
+tratamento dessas informações;
+f) Interpretar e contextualizar as informações;
+g) Aplicar corretamente a língua portuguesa e as estruturas narrativas aplicáveis às
+mensagens jornalísticas nos multimeios;
+h) Registrar fatos jornalísticos, apurar, interpretar, editar e transformá-los em notícias e
+reportagens com o domínio da linguagem jornalística apropriada aos diferentes meios e
+modalidades tecnológicas de comunicação;
+i) Investigar informações, produzir textos e mensagens jornalísticas com clareza e
+correção;
+j) Formular pautas e planejar coberturas jornalísticas;
+k) Relacionar-se com fontes de informação de qualquer natureza;
+l) Sistematizar e organizar os processos de produção jornalística;
+m) Propor, planejar, executar e avaliar projetos na área de comunicação, entre elas
+empresarial, educomunicativa e comunitária;
+n) Gerir equipes de trabalho e processos administrativos em assessoria de
+comunicação e em empresas jornalísticas;
+o) Conhecer e dominar as tecnologias aplicadas à comunicação;
+p) Registrar, editar e interpretar as imagens (fotos e vídeos) veiculadas pelos veículos
+jornalísticos;
+q) Gerar processos inovadores e empreendedores na área;
+r) Aportar tecnologias e metodologias de uso da comunicação na mediação de
+conflitos.
+2.5.3 Campos de Atuação do Egresso
+A partir da formação acadêmica oferecida pelo curso de bacharelado em Jornalismo, o
+egresso encontra um campo de atuação nos segmentos de impresso, rádio, televisão, blogs
+e sites, mídia comunitária, assessorias de comunicação em órgãos públicos, privados e em
+organizações não-governamentais, entidades ambientais e no campo de formação e
+69
+
+capacitação de comunicadores populares e nos espaços de instituições educativas na
+interface dos processos educomunicativos (produção de jornal, boletins, implantação de
+rádio-escola e tv-escola, entre outros).
+A atuação em assessorias de imprensa, tanto em empresas, como órgãos públicos vem se
+firmando entre os egressos do curso piloto em cooperação interdepartamental e também o
+ensino das tecnologias da comunicação social apresenta-se em franca expansão e se
+constitui como um mercado de trabalho potencial para os egressos que desejam investir na
+carreira docente ou na pesquisa.
+Desde o início das atividades da primeira turma do curso de Jornalismo em Multimeios
+(2015.1), estimulou-se em diversas localidades do território o incremento das iniciativas e
+investimentos no campo da Comunicação, de diversas formas. Parte significativa dos alunos
+do curso participam destas dinâmicas deste campo, sendo estimulados a refletirem a
+respeito de atuação profissional eficiente na comunicação em benefício do desenvolvimento
+social, Também o ensino da Comunicação Social apresenta-se em franca expansão e se
+constitui como um mercado de trabalho potencial para os egressos que desejam investir na
+carreira docente ou na pesquisa.
+Especificamente para o curso da Chapada Diamantina, a população estimada no território é
+de 336.000 habitantes, o que reflete a geração de condições socioculturais para o
+desenvolvimento da profissão nas turmas previstas. Conforme exposto anteriormente acerca
+da demanda comunicacional no Território, é importante destacar o número crescente de
+blogs, emissoras de comunicação, entre outros, o demanda um caráter empreendedor na
+comunicação social, o qual deve se refletir no perfil dos egressos e no projeto do curso.
+Se considerado o potencial econômico do território de identidade, a localização estratégica
+do DCHTXXIII para as dinâmicas territoriais da Chapada Diamantina e a capacidade do
+território em atrair estudantes de toda região, e sua localização no centro geográfico da
+Bahia, a expectativa é que esses novos profissionais do jornalismo na região possam
+atender a um perímetro muito superior, ampliando as possibilidades de inserção profissional
+na área. E segundo levantamento preliminar no Território com entidades como o Sebrae e
+Associações comerciais, existe ainda um potencial empreendedor no setor, em especial
+para atuar de maneira integrada ao turismo e à promoção cultural na Chapada Diamantina.
+Também são enfatizadas possibilidades junto aos gestores públicos e organismos
+ambientais envolvidos nas unidades de conservação do território.
+Vale ressaltar que parte significativa dos alunos da primeira turma do curso de Jornalismo
+em Multimeios de Seabra trazem referências identitárias importantes para serem discutidas
+à luz do desenvolvimento da Comunicação Social no Brasil. Entre eles estão estudantes
+70
+
+descendentes de comunidades quilombolas, de geraizeiros, de comunidades de fundo de
+pasto, de roceiros, camponeses, filhos de comunidades tradicionais de terreiro, entre outras.
+Diferente do que acontecia quando o curso de Jornalismo era uma habilitação da graduação
+em comunicação social, a atual organização curricular se difere substancialmente da
+anterior por oferecer desde o primeiro período disciplinas voltadas ao ensino do ofício de
+Jornalista.
+O currículo do Curso Bacharelado em Jornalismo – se estrutura em nove períodos, com
+aulas ofertadas ordinariamente de segunda à sexta-feira. Não existem disciplinas eletivas de
+carácter fixo, ou seja, elas podem ser propostas livremente pelo docente para preencher
+lacunas pontuais, identificadas de acordo com as necessidades de alunos e demandas do
+mercado jornalístico, sob aprovação prévia do colegiado e de formação complementar da
+carga horária. O currículo se estrutura em campos inter-dimensionados de conteúdos de
+formação, considerando a necessidade e o grau de complexidade dos conhecimentos,
+organizados numa sequência didática que possibilita uma aprendizagem acadêmica
+significativa para o exercício pessoal, profissional e social.
+71
+
+2.5.4. Organização curricular
+O currículo do bacharelado em Jornalismo se estrutura em campos interdimensionados em
+conteúdos de formação, de acordo com a sua afinidade e natureza conceitual. Foi
+considerando que o currículo do curso deve contemplar uma formação científica e técnica
+do profissional, e também uma formação política, ética e social voltada à realidade territorial
+da Chapada Diamantina, contribuindo para que o indivíduo possa trabalhar, qualquer que
+seja seu lugar social, para o desenvolvimento social do seu Território.
+Em conformidade às determinações da Diretriz Curricular Nacional para o Curso de
+Comunicação Social (PARECER 492 de 03/04/2001 do CNE/CES), os campos contemplam
+a formação científica, técnica, política, ética e social, de forma a contribuir com o
+desenvolvimento de uma sociedade democrática e com justiça social. Neles, estão
+contemplados os Conteúdos de Formação Sócio-Humanística (FH), relacionados com a
+capacitação do jornalista para a produção e difusão de conhecimentos de interesse para a
+cidadania, com ênfase na formação histórica do realidade brasileira; Conteúdos de
+Formação Específica (FE), relacionados aos procedimentos que oferecem maior clareza
+conceitual e visão crítica sobre as especificidades da profissão de jornalista; Conteúdos de
+Formação Contextual (FC), relacionados ao entrosamento entre as teorias da comunicação,
+da informação e a cibercultura em suas diversas dimensões; e Conteúdos de
+Fundamentação Profissional e Aplicação Processual de Práticas Laboratoriais (FPPL),
+relacionados à conexão de saberes teóricos e práticos, propiciadores de vivências nas mais
+diferentes áreas do campo comunicacional, fornecendo ao jornalista ferramentas técnicas e
+metodológicas demandadas pelo mercado de trabalho. A centralidade destes campos na
+composição do currículo se reflete na sua estruturação por eixos temáticos que
+proporcionam uma interrelação entre teoria-prática, a fim de contemplar competências
+gerais e específicas, a saber:
+a) Eixo de Formação Humanística
+O Campo dos Conteúdos de Formação Sócio-Humanística contempla estudos que articulam
+o campo do Jornalismo com as Ciências Humanas, inter-relacionando os conhecimentos
+teóricos e práticos com uma base filosófica, antropológica, histórica e das ciências sociais
+necessárias à formação do jornalista.
+Este eixo articula conhecimentos teóricos e conceituais pertinentes ao campo das ciências
+sociais aplicadas e à área do Jornalismo, a partir da problematização sobre os processos
+comunicacionais, a produção de sentido, as linguagens e as tecnologias midiáticas,
+72
+
+assegurando ao discente o domínio científico e reflexivo sobre a base epistemológica que
+fundamenta a formação. Também procura integrar os conhecimentos do Jornalismo com
+temáticas contemporâneas específicas à habilitação de desenvolvimento territorial
+sustentável, buscando desenvolver o espírito investigativo e de produção do conhecimento a
+partir da problematização do objeto comunicacional.
+Neste eixo, estão alocados os componentes: Sociologia e Comunicação; Filosofia e
+Comunicação; Comunicação, Realidade Brasileira e Regional; Antropologia e Comunicação;
+Metodologia da Ciência e do Trabalho Acadêmico; e Realidade Latinoamericana em
+Comunicação.
+b) Eixo de Formação Específica
+O Campo dos Conteúdos de Formação Específica prioriza estudos de conteúdo do campo
+do Jornalismo, a partir da especificidade da linguagem, técnicas e suportes midiáticos que
+estruturaram o “fazer jornalístico” e suas práticas sociais, além de uma visão crítica sobre a
+profissão.
+Este eixo congrega conteúdos que visam à formação filosófica, social e humanística em
+uma relação interdisciplinar com o Jornalismo, identificando as inter-relações com os
+processos e bases técnicas que orientam a organização dos sistemas de comunicação.
+Nele, são estudados os fundamentos éticos que devem pautar a conduta dos jornalistas,
+bem como o uso dos meios de comunicação em sociedades constituídas por grupos sociais
+assimétricos. Contempla ainda os estudos de revisão de pesquisas científicas que englobam
+os paradigmas e as novas tendências nos estudos da área.
+Neste eixo, estão alocados os componentes: Introdução ao Jornalismo; Teorias da Imagem;
+Ética e Legislação em Jornalismo; Teoria e Método de Pesquisa em Jornalismo; Seminários
+Avançados; Documentário; Empreendedorismo e Inovação em Comunicação; Tópicos
+Especiais em Jornalismo; Comunicação, Movimentos Sociais e Direitos Humanos;
+Comunicação e Desenvolvimento Sustentável; e Trabalho de Conclusão de Curso.
+c) Eixo de Formação Contextual
+73
+
+Este eixo integra conteúdos e práticas que articulam a formação específica em Jornalismo
+com predomínio dos processos midiáticos, linguagens e suportes técnicos na perspectiva de
+aplicação profissional. Neste sentido, os conteúdos priorizam o exercício teórico-prático da
+produção de conhecimentos inerentes ao Jornalismo, reconhecendo as especificidades das
+funções profissionais e a necessidade do domínio da linguagem dos diversos meios e
+suportes. Também procura viabilizar a compreensão da natureza das linguagens e dos
+suportes dos sistemas contemporâneos associados à produção jornalística, abrangendo
+som, imagem, texto, dimensões gráficas, audiovisual, digital, multimídia e transmídia.
+Este eixo tem como objetivo oferecer ao aluno abordagem dos conteúdos do Jornalismo
+contextualizados em interface com as teorias da Comunicação, da Informação, a
+Cibercultura, Educação e História. Estão incluídas aí as interfaces desses campos do saber
+em suas extensões filosóficas, políticas, psicológicas e socioculturais, bem como as rotinas
+de produção, os processos de recepção e a regulamentação dos sistemas midiáticos.
+Neste eixo, estão alocados os componentes: História do Jornalismo; Comunicação e Novas
+Tecnologias; Teorias da Comunicação; Teorias do Jornalismo; Análise do Discurso
+Midiático; Fotografia; Seminário Interdisciplinar; Comunicação e Educação; Comunicação
+Comunitária e Mediação de Conflitos; Comunicação, Cultura e Poder; Estética da
+Comunicação; Planejamento e Gestão da Comunicação
+d) Eixo de Formação Profissional e Aplicação Processual de Práticas
+Laboratoriais
+Este eixo busca assegurar o processo de articulação e interdimensionalidade entre todos os
+campos apontados, focando nas disciplinas que buscam integrar a compreensão teórica
+mais ampla e contextual com a formação profissional e aplicação processual de práticas
+laboratoriais complexas. São incorporadas neste eixo as disciplinas mais avançadas, que
+indicam a habilidade do estudante em articular, de maneira multi e interdisciplinar, os
+conteúdos e técnicas anteriormente apreendidos.
+Os conteúdos priorizam o exercício teórico-prático da produção de conhecimentos inerentes
+ao Jornalismo, reconhecendo as especificidades das funções profissionais e a necessidade
+do domínio da linguagem dos diversos meios e suportes. Também procura viabilizar a
+compreensão da natureza das linguagens e dos suportes dos sistemas contemporâneos
+74
+
+associados à produção jornalística, abrangendo som, imagem, texto, dimensões gráficas,
+audiovisual, digital, multimídia e transmídia.
+Fazem parte deste eixo as disciplinas: Produção de Textos I e II; Língua Inglesa
+Instrumental; Redação Jornalística I, II e III; Comunicação em Plataformas
+Multimeios; Radiojornalismo I e II; Assessoria em Jornalismo; Telejornalismo I e II;
+Planejamento Visual; Jornalismo Online; Fotojornalismo; Estágio Supervisionado.
+O Trabalho de Conclusão de Curso é pensado com o mesmo direcionamento, como
+resultado das investigações conduzidas no Curso e como processo conclusivo das
+atividades realizadas nos componentes que compõem a formação básica, desde que
+inseridos no campo do Jornalismo. A partir desse parâmetro, os Trabalhos de Conclusão de
+Curso poderão ser apresentados no formato de monografias ou trabalhos experimentais
+com linguagens do Jornalismo.
+A pesquisa integrará as atividades da graduação de acordo com as novas diretrizes da
+Universidade, que visam aproximar as pesquisas realizadas e toda a sua institucionalidade
+da prática cotidiana da sala de aula, no sentido de fomentar a iniciação científica e
+transformar a prática docente em prática reflexiva a partir dos parâmetros dados pela
+investigação constante.
+Além das disciplinas apresentadas acima, o currículo possibilita também a oferta de
+componentes curriculares optativos, que poderão ser cursados por livre escolha dos alunos,
+com a finalidade de complementar a sua formação acadêmica, de acordo com o perfil
+profissional desejado no campo do Jornalismo. Além da possibilidade de buscar disciplinas
+eletivas nas grades de outros cursos da UNEB, o estudante pode usufruir do recém
+aprovado processo de Mobilidade Discente, que permite o aluno cursar disciplinas de outras
+Universidades Públicas (Federais, Estaduais e Municipais).
+Tais componentes não possuem caráter obrigatório e quando cursados, terão a sua carga
+horária adicionada à carga horária mínima exigida para integralização do Curso ou poderão
+ser computadas como atividades complementares. Além dos conteúdos propostos para os
+componentes acima apresentados, são acrescidas 200 horas de Atividades
+Complementares (AC), a serem realizadas livremente pelos alunos, de acordo com a
+regulamentação da UNEB, totalizando em 3.165 horas.
+75
+
+2.5 Estágio Curricular Supervisionado
+O Estágio Curricular nos cursos da UNEB se organiza em consonância com a concepção de
+formação profissional em espaços específicos, estabelecendo a unidade entre teoria e
+prática de modo que se possa garantir a vivência do graduando em espaços e instituições
+de diversas áreas e ramos de atividades que contribuam para a sua formação.
+Nesta conjuntura o Estágio Curricular Supervisionado é concebido como espaço de
+investigação e de construção de conhecimentos, politicamente definido como momento
+fundamental para a identidade profissional, numa dimensão humana, política e técnica.
+Dotado de possibilidades para a intervenção na realidade social, este Estágio constitui-se
+em um dos componentes fundamentais no processo da formação acadêmica, na medida em
+que possibilita o diagnóstico de problemas, a busca de soluções e implementações de
+ações previstas no campo profissional do Jornalismo. É um estágio orientado a partir da
+realização de estudos, diagnósticos e práticas supervisionadas por um jornalista em
+atividades externas à unidade de oferecimento do Curso, de modo a promover o
+relacionamento do discente com a realidade social, cultural e econômica e com a prática do
+mercado de trabalho, visando uma formação complexa.
+O Estágio Curricular Supervisionado é um componente do currículo do curso de Jornalismo,
+cujo objetivo é consolidar práticas de desempenho profissional ao perfil do formando.
+Conforme estabelecido na Resolução Nº 1 de 23 de setembro de 2013 que determina as
+novas diretrizes para os cursos de Jornalismo, cada instituição, através de regulamentação
+própria aprovada por colegiado, pode indicar os critérios, procedimentos e mecanismos de
+avaliação de estágio desde que observada a legislação e as recomendações das entidades
+profissionais do jornalismo.
+O Estágio Curricular no Curso de Jornalismo em Multimeios – Bacharelado será realizado
+através do componente curricular homônimo, totalizando 200 horas de atividades teórico -
+práticas da área de Jornalismo. Além do Regulamento Geral de Estágio desta Universidade
+- Resolução CONSEPE nº 795/07 o desenvolvimento do estágio deste Curso realiza-se em
+conformidade também, com a Lei de Estágio nº 11.788/08 e as orientações gerais para
+construção de regulamentos de estágio curricular supervisionado da Federação Nacional
+dos Jornalistas (FENAJ) e a Federação Nacional dos Professores de Jornalismo (FNPJ),
+publicado em maio de 2015.
+76
+
+Para o estágio extracurricular, com exceção do período inicial. Neste caso, o aluno pode
+iniciar o estágio após ter concluído todos os componentes curriculares do curso até terceiro
+semestre, de acordo com o que está indicado no fluxograma desta matriz curricular.
+77
+
+UNIVERSIDADE DO ESTADO DA BAHIA – UNEB
+PRÓ-REITORIA DE ENSINO DE GRADUAÇÃO - PROGRAD
+ESTÁGIO CURRICULAR
+REGULAMENTO GERAL
+RESOLUÇÃO N° 795/2007 - CONSEPE
+2007
+78
+
+REITOR
+Prof. Lourisvaldo Valentim da Silva
+VICE-REITORA
+Profa Amélia Tereza Santa Rosa Maraux
+PRÓ-REITORA DE ENSINO DE GRADUAÇÃO
+Profa Mônica Moreira de Oliveira Torres
+GERENTE DE DESENVOLVIMENTO DE ENSINO
+Profa Kathia Marise Borges Sales Aquino
+SUB-GERENTE DE APOIO PEDAGÓGICO
+Profa Marilda Marques Senna Dourado Gomes
+79
+
+REGULAMENTO DE ESTÁGIO CURRICULAR
+CAPÍTULO I - DO ESTÁGIO CURRICULAR E SEUS OBJETIVOS
+Art. 1º - Considera-se estágio curricular as atividades de aprendizagem social, profissional e
+cultural, proporcionadas ao educando pela vivência em situações reais de vida e trabalho,
+no ensino, na pesquisa e na extensão, na modalidade regular e Projetos Especiais
+perpassando todas as etapas do processo formativo e realizadas na comunidade em geral,
+ou junto a pessoas jurídicas de direito público ou privado, ONGs, Movimentos Sociais e
+outras formas de Organizações, sob a responsabilidade da Coordenação Central e Setorial.
+Parágrafo único - Compreende-se por Projetos Especiais os cursos de graduação criados
+pela Universidade do Estado da Bahia - UNEB, com a finalidade de atender as demandas
+sociais específicas de formação profissional.
+Art. 2º - O estágio curricular visa a oferecer ao estudante a oportunidade de:
+I - Vivenciar situações reais de seu campo de trabalho, de modo a ampliar o conhecimento e
+a formação teórico-prática construídos durante o curso;
+II - Analisar criticamente as condições observadas nos espaços profissionais com base nos
+conhecimentos adquiridos e propor soluções para os problemas levantados, por meio de
+projetos de intervenção social;
+III - Desenvolver a capacidade de elaborar, executar e avaliar projetos na área específica de
+seu estágio.
+Art. 3º - A articulação da teoria/prática ocorrerá ao longo da formação dos cursos de
+graduação, condicionada à articulação dos componentes curriculares, de forma a subsidiar a
+vivência e consolidação das competências exigidas para o exercício acadêmico-profissional.
+Art. 4º - Os cursos desenvolverão programas que possibilitem a inserção dos discentes de
+estágio curricular, promovendo a interação entre: ensino, pesquisa e extensão.
+Art. 5º - Os estágios obedecerão aos regulamentos próprios, elaborados pelas coordenações
+setoriais, em conjunto com o colegiado de cada curso e aprovados pelo Conselho de
+Departamento, observado o que dispõe a legislação pertinente.
+Parágrafo único – Quanto os Projetos Especiais os regulamentos próprios serão elaborados
+pela coordenação geral de cada curso.
+80
+
+Art. 6º - A carga horária mínima dos estágios curriculares dos cursos atenderá à legislação
+nacional vigente, especifica para cada curso e ao projeto pedagógico dos mesmos.
+CAPÍTULO II - DA COORDENAÇÃO DO ESTÁGIO CURRICULAR
+Art. 7º - A Coordenação Central de Estágios da UNEB está vinculada à Pró-Reitoria de Ensino
+de Graduação – PROGRAD e tem as seguintes atribuições:
+I - assessorar os coordenadores de estágio dos Departamentos;
+II - acompanhar e avaliar as atividades desenvolvidas pelos coordenadores;
+III - promover reuniões para análise e discussão de temas relacionados a estágios;
+IV - reunir informações relativas a estágio e divulgá-las entre os campi;
+V - promover o Encontro Anual de Estágio Supervisionado.
+Art. 8º - A Coordenação Central de Estágio será composta por:
+a) Gerente de Desenvolvimento de Ensino;
+b) Subgerente de Apoio Pedagógico;
+c) 01 (um) docente representante das Licenciaturas;
+d) 01 (um) docente representante dos Bacharelados;
+e) 01 (um) discente de Curso de Licenciatura;
+f) 01 (um) discente de Curso de Bacharelado;
+g) 01 (um) representante das Comissões Setoriais;
+h) 01 (um) docente representante dos cursos seqüenciais;
+i) 01 (um) discente representante dos cursos seqüenciais.
+Parágrafo Único - Os representantes constantes nas alíneas “c”, “d”, “e”, “f” e “g” serão
+escolhidos no Encontro Anual de Estágio.
+Art. 9º - As coordenações setoriais de estágios da UNEB, serão organizadas, por curso, tendo
+as seguintes atribuições:
+I - elaborar anualmente o plano de atividades da coordenação de estágios;
+II - elaborar o projeto e o regulamento de estágio do curso;
+III - planejar, acompanhar e avaliar o processo dos estágios;
+IV - cadastrar as instituições locais, regionais e estaduais que possam oferecer estágio;
+V - propor convênios de estágio;
+VI - encaminhar os estagiários aos locais de estágio.
+Art. 10 - As coordenações setoriais de estágio terão a seguinte composição:
+81
+
+I - os professores de estágio supervisionado, sendo um deles, eleito por seus pares, o
+coordenador Setorial de Estágio;
+II - um (01) representante do corpo discente por curso, indicado pelo diretório acadêmico,
+dentre aqueles regularmente matriculados na disciplina ou componente curricular.
+§ 1º - A Coordenação de Estágio dos Projetos Especiais terá a seguinte composição:
+a) Coordenação Geral de Cursos;
+b) Coordenação Local;
+c) 01 Representante de cada Movimento Social (quando houver);
+d) 01 Representante de cada Movimento Sindical (quando houver);
+e) Professor(es) de Estágio;
+f) 01 Representante discente.
+§ 2º - O mandato do coordenador setorial será de 02 (dois) anos, podendo ser reconduzido
+por igual período.
+Art. 11 - As coordenações setoriais de estágio devem articular-se com o Departamento,
+tendo em vista fortalecer as ações que lhes competem.
+CAPÍTULO III - DAS PESSOAS ENVOLVIDAS NO ESTÁGIO CURRICULAR
+Art. 12 - Os profissionais envolvidos com o processo do estágio curricular terão as seguintes
+denominações e competências, a saber:
+I - Coordenador de estágio e/ou professor de estágio será(ao) docente(s) da UNEB e
+lhe(s) competem:
+a) o planejar semestralmente as atividades, devidamente aprovados pelo colegiado do
+curso;
+b) acompanhar o desenvolvimento do estágio;
+c) realizar reuniões com demais docentes da disciplina/componente curricular de
+estágio;
+d) responsabilizar-se pela articulação dos docentes e pelo processo de fechamento da
+disciplina/componente curricular;
+e) exercer atividades de coordenação, acompanhamento e avaliação do aluno nos
+diversos campos do estágio.
+II - Professor orientador e/ou supervisor de estágio será(ao) docente(s) da UNEB e
+lhe (s) competem:
+82
+
+a) orientar os alunos durante o estágio, nos aspectos específicos de sua área de
+atuação;
+b) realizar supervisão com visitas in loco;
+c) promover articulação entre a UNEB e a instituição ou empresa concedente do
+estágio;
+d) exercer atividades de acompanhamento e avaliação do aluno, nos diversos campos
+do estágio;
+e) fornecer dados à coordenação setorial, para tomada de decisão relacionada com o
+estágio.
+III - Orientador de Estágio/supervisor de campo/regente de classe/preceptor do
+estágio, profissional da instituição cedente de estágio que orienta o aluno na sua área de
+atuação.
+§ 1º - No que diz respeito às licenciaturas, o professor-orientador e/ou supervisor de estágio
+poderá(ão) acumular as competências listadas nos incisos I e II.
+§ 2º - Quando se tratar de projetos especiais, as atribuições e competências deverão
+atender as especificidades de cada curso conforme seus projetos.
+Art. 13 - Os profissionais envolvidos com o processo do estágio curricular - coordenador,
+professor, orientador, supervisor/regente/preceptor-, terão formação acadêmico-profissional
+na área de conhecimento do curso, salvo em situações específicas de cada área, a serem
+discutidas e aprovadas em Colegiado.
+§ 1º - Nos cursos de licenciatura, o professor supervisor será licenciado na área. Quando
+não houver disponibilidade de professor com essa formação, ficarão responsáveis
+conjuntamente pelos estágios os professores da área específica e professores graduados
+em Pedagogia, com experiência em ensino superior.
+§ 2º - Na inexistência de professor com a formação exigida no caput desse artigo, caberá ao
+Conselho de Departamento, ouvida a comissão setorial, indicar o profissional, levando-se
+em conta:
+a) A formação acadêmica;
+b) A experiência profissional;
+c) A legislação em vigor.
+83
+
+Art. 14 - Ao aluno da UNEB, regularmente matriculado em disciplina/componente curricular de
+estágio compete:
+I - cumprir a carga horária de estágio e as atividades de avaliação previstas no projeto
+pedagógico de cada curso;
+II - comparecer aos locais de estágio, munido da documentação exigida;
+III - respeitar as normas regimentais e disciplinares do estabelecimento onde se realiza o
+estágio;
+IV - Submeter o planejamento elaborado ao orientador de estágio ou à coordenação de área da
+escola ou empresa antes da execução do estágio;
+V - apresentar a documentação exigida pela universidade, quanto ao estágio curricular;
+VI - participar de todos os processos de estágio, segundo o plano aprovado pela coordenação
+setorial.
+CAPÍTULO IV - DOS CRITÉRIOS E INSTRUMENTOS DE ACOMPANHAMENTO E
+AVALIAÇÃO
+Art. 15 - Para o estágio curricular serão considerados os critérios de acompanhamento e de
+avaliação do processo de ensino-aprendizagem, a saber:
+I - Articulação entre teoria e prática, nas produções e vivências do aluno, durante o estágio;
+II - Freqüência integral na realização da atividade-campo do estágio;
+III - Trabalhos realizados durante o período de estágio e socialização dos mesmos, de acordo com
+o projeto pedagógico e normatização do estágio de cada curso;
+IV - Participação do aluno nos encontros de orientação de estágio, atendendo ao critério mínimo
+de assiduidade na disciplina/componente curricular, conforme legislação vigente;
+V - Auto-avaliação do aluno;
+VI - Outros critérios definidos pela coordenação setorial ou coordenação geral dos projetos
+especiais.
+§ 1º - Cabe à coordenação setorial de cada curso e as coordenações gerais dos projetos
+especiais, elaborar instrumentos de acompanhamento e avaliação do aluno, conforme
+especificidades dos projetos pedagógicos e regulamento de estágio de cada curso.
+§ 2º - O estágio será avaliado sistematicamente pela coordenação setorial e pelas
+coordenações gerais dos projetos especiais, conforme o projeto pedagógico e regulamento
+de estágio de cada curso.
+Art. 16 - Caberá à UNEB disponibilizar os recursos necessários aos Departamentos, para
+garantirem a realização do estágio curricular dos cursos regulares.
+84
+
+§ 1º - A UNEB se responsabilizará pela efetivação anual do seguro de vida para os docentes
+de estágios dos cursos regulares cujo campo de trabalho implique em situação de risco.
+§ 2º - Quando o estágio ocorrer fora da unidade sede, além dos recursos previstos no caput
+deste artigo, a UNEB se responsabilizará pelo seguro de vida, despesas de deslocamento e
+hospedagem para os docentes (quando necessário).
+85
+
+CAPÍTULO V - DO APROVEITAMENTO DA PRÁTICA DO EXERCÍCIO PROFISSIONAL
+PARA CARGA HORÁRIA DE ESTÁGIO
+Art. 17 - Nos cursos de licenciatura será permitida a redução de até 200 (duzentas) horas
+dos componentes curriculares de estágio supervisionado; obedecendo, no máximo, à
+redução de 50% da carga horária, em cada componente.
+I - A redução de carga horária para o componente estágio supervisionado I será permitida,
+para o discente que comprovar a docência, em qualquer área de conhecimento, nos últimos
+03 (três) anos;
+II - A redução de carga horária para os demais componentes de estágio supervisionado será
+permitida para o discente que comprovar efetivo exercício da docência, na área específica
+do respectivo estágio, a partir dos últimos 03 anos, antes de seu ingresso na Universidade.
+§ 1º - No ato da solicitação para a redução de carga horária, de até 200 horas, dos
+componentes curriculares de estágio supervisionado, o discente apresentará ao Colegiado
+do Curso a documentação comprobatória que será encaminhada à Coordenação Setorial de
+Estágio do Curso, para análise e parecer.
+§ 2º - Aprovado o parecer pela Coordenação Setorial do Estágio, o Colegiado de Curso
+encaminhará o processo à direção do Departamento para a homologação e
+encaminhamento à Coordenação Acadêmica, para registro no prontuário do discente.
+Art. 18 - Nos cursos de bacharelado, a prática do exercício profissional será aproveitada
+para carga horária de estágio, nas seguintes situações:
+I - quando o discente exercer atividade de trabalho correlata com a área de sua formação, o
+projeto de estágio será direcionado às suas atividades profissionais;
+II - quando o discente exercer atividade de trabalho não-correlata com a área de sua formação,
+o projeto de estágio se fundamentará na área de sua formação, aplicada a sua área de
+trabalho.
+Parágrafo único - Na área de saúde, não será permitido o aproveitamento de exercício
+profissional, para a carga horária de estágio.
+CAPÍTULO VI - DAS ESPECIFICIDADES DAS MODALIDADES DE CURSOS
+Art. 19 - Nas licenciaturas, quando as modalidades de estágio supervisionado contemplarem
+a regência do discente, o professor sob regime de 40 horas, acompanhará uma turma com
+86
+
+até 20 discentes, registrando, pelo menos, as seguintes atividades em seu Plano Individual
+de Trabalho – PIT:
+a) Reunião com toda a turma (2h);
+b) Orientações individuais (1hora por aluno);
+c) Observação de estágio em campo (12h);
+d) Trabalhos acadêmicos e complementares à docência (6h);
+e) Comissão de avaliação de aproveitamento de estágio (1h).
+§ 1º - Para turmas inferiores a 08 (oito) discentes, o docente complementará sua carga
+horária assumindo, pelo menos, um componente curricular de até 60 horas, ou desenvolverá
+atividades de pesquisa, ou extensão, aprovadas pelo Departamento.
+§ 2º - Quando o Estágio Supervisionado, organizar-se sob a forma de: observação, co-
+participação, o professor sob regime de 40 (quarenta) horas acompanhará até duas turmas;
+com, no máximo, 20 discentes; (ou) uma turma de estágio e um outro componente curricular
+de até 60 (sessenta) horas, registrando-se a carga horária das alíneas de “a” a “e” do artigo
+19 que serão adaptados de acordo com as turmas assumidas pelo docente.
+Art. 20 - Nos bacharelados o professor, sob regime de 40 (quarenta) horas, acompanhará
+uma turma, com até 20 (vinte) discentes, registrando, pelo menos, as seguintes atividades
+em seu PIT:
+a) Reunião com toda a turma (2h);
+b) Orientações individuais (1hora por aluno);
+c) Observação de estágio em campo (12h);
+d) Trabalhos acadêmicos e complementares à docência (6h);
+e) Comissão de avaliação de aproveitamento de estágio (1h).
+I - Para o professor co-orientador de estágio, será computada a carga horária de orientação
+do estagiário, observando o limite máximo de 06 (seis) discentes por professor, com 02
+(duas) horas-semanais de orientação por aluno;
+II - não será permitido o aproveitamento da carga horária de estágio extracurricular, para o
+estágio curricular.
+§ 1º - Nos cursos da área de saúde, a relação docente/discente no estágio será de acordo com
+a especificidade de cada curso, não excedendo o quantitativo de seis discentes, por
+docente/campo.
+87
+
+§ 2º - Para os projetos especiais a relação docente/discente no estágio será definida nos
+projetos de cada curso.
+88
+
+CAPÍTULO VII - DAS DISPOSIÇÕES GERAIS
+Art. 21 - Este Regimento Geral de Estágio fundamenta-se na legislação a saber: Lei de
+Diretrizes e Bases da Educação Nacional - LDB 9394/96, Lei nº. 6.494/77 (alterada pela Lei
+8.859/94 e MP nº. 1726/98), Resolução CNE/CP 01 e 02/2002 e Decreto nº. 10.181 de
+14/12/2006 - Regimento Geral da Universidade do Estado da Bahia.
+Art. 22 - Os casos omissos serão resolvidos em primeira instância pela Coordenação Setorial
+de Estágio ou Coordenação Geral dos Projetos Especiais, e referendados pelo Conselho de
+Departamento, de acordo com a legislação pertinente.
+Art. 23 - Este Regulamento tem sua vigência prevista em caráter transitório, por um ano a
+contar da data de publicação do mesmo, quando deverá ser reavaliado por este Conselho.
+Art. 24 - O presente Regulamento de Estágio Supervisionado entra em vigor na data da sua
+publicação, revogada a Resolução nº. 088 de 05/08/93 e demais disposições em contrário.
+89
+
+Regulamento do Estágio Curricular Supervisionado para o
+Curso de Bacharelado em Jornalismo da Universidade do Estado da Bahia
+CAPÍTULO I
+DA CARACTERIZAÇÃO, BASE LEGAL,
+RELEVÂNCIA E FINALIDADES
+Art. 1º - O Estágio Supervisionado caracteriza-se por uma experiência interdisciplinar, trazida
+de forma a complementar a aprendizagem, sendo planejada, executada, acompanhada e
+avaliada de acordo com o currículo do curso, constituindo-se num instrumento de integração
+e de aperfeiçoamento técnico-cultural, científico e de relacionamento humano.
+Art. 2º - O estágio curricular supervisionado, conforme disposto no Regimento Interno da
+UNEB, visa oferecer oportunidade ao estudante para:
+I - observar situações reais de seu futuro campo de trabalho, de modo a ampliar os
+conhecimentos construídos no processo do curso;
+II - analisar criticamente as condições observadas com base nos conhecimentos adquiridos
+e propor soluções quanto aos problemas levantados.
+III - desenvolver no aluno a capacidade de elaborar, executar e avaliar projetos de trabalho,
+no âmbito de pesquisa e/ou sob forma de atividade de extensão, mediante a participação do
+estudante em empreendimentos ou projetos de interesse social.
+Art. 3º - O Projeto de Estágio Supervisionado do Curso de Bacharelado em Jornalismo tem sua
+base legal pautada na Legislação Federal, Regimento Geral e Estatutos internos da
+instituição, a saber:
+s) Lei 11.788 de 25 de setembro de 2008, publicada pelo Ministério do Trabalho e
+Emprego, que dispõe sobre o estágio dos estudantes nas diversas instituições.
+t) Resolução CNE/CES Nº 01/2013 (DOU de 12/9/2013), Parecer CNE N. 67, de
+11/03/2003 e RESOLUÇÃO Nº 795/2007
+u) Regimento Geral da UNEB – Universidade do Estado da Bahia;
+IV. Resolução CONSEPE nº. 795 de 13 de Fevereiro de 2007 - Regulamento do estágio
+curricular e seus objetivos.
+Art. 4º São objetivos do Estágio Curricular Supervisionado:
+I – Proporcionar aos acadêmicos o intercâmbio de informações e experiências concretas
+que os preparem para o efetivo exercício da profissão;
+II – Consolidar práticas de desempenho profissional inerente ao perfil do formando, definido
+no Projeto Político Pedagógico do Jornalismo;
+III – Possibilitar a reflexão crítica das experiências vivenciadas e a capacidade de
+diagnóstico e compreensão dos processos e rotinas inerentes ao campo profissional do
+jornalismo;
+90
+
+IV – Associar os conhecimentos adquiridos durante o Curso de Graduação às habilidades
+que o profissional precisa desenvolver para “saber-fazer” frente às exigências da sociedade
+e das organizações;
+V – Estimular no estudante a capacidade de diagnosticar, avaliar e propor alternativas aos
+desafios profissionais encontrados na vivência em organizações, a partir da relação entre
+conhecimento teórico e a prática profissional;
+VI – Complementar o processo ensino-aprendizagem promovido pelo Curso de Graduação,
+mediante o fortalecimento das potencialidades do estudante e de seu aprimoramento
+profissional e pessoal.
+CAPÍTULO II
+DA ESTRUTURAÇÃO, ORGANIZAÇÃO E DESENVOLVIMENTO
+Art. 5º - O estágio curricular supervisionado, de caráter obrigatório, como procedimento
+didático-pedagógico, integrado à estrutura curricular, realiza-se no decorrer do período
+acadêmico do Curso, com carga horária de 150 horas, devendo ser exercido em situações
+reais de trabalho, atendidas as leis e normas vigentes.
+Art. 6º - A realização do estágio curricular, sob supervisão docente, condiciona-se à
+comprovação de matrícula no semestre condizente à realização dos componentes
+curriculares Estágio Curricular Supervisionado I e II ofertados no sexto e sétimo períodos
+respectivamente.
+Parágrafo Único – A matrícula de Estágio Supervisionado II poderá ser em concomitância com
+Trabalho de Conclusão de Curso.
+Art. 7º - O Estágio Supervisionado terá duração não inferior a 200 horas no 9º semestre, a ser
+desenvolvido:
+I – Em empresas privadas, órgãos da administração pública, sociedades civis, associações
+comerciais, em Sociedade de Economia Mista, organizações não governamentais,
+instituições de pesquisa, instituições de ensino (rede básica de ensino, ensino técnico-
+profissionalizante e ensino superior) e as próprias unidades do Departamento de Ciências
+Humanas, sob supervisão do Núcleo de Estágio, vinculado ao colegiado do curso de
+Jornalismo.
+II - Setores de empresas de Comunicação Social: Agências de Comunicação, Agências de
+Notícias; Assessorias de Comunicação; Empresas de Radiodifusão e dos Sistemas Público
+e Comunitário, Privado e Estatal; Empresas de Conteúdo de Internet; Produtoras de TV,
+Cinema e Audiovisuais;
+III - Setores e/ou Departamentos de Comunicação de Autarquias, Partidos Políticos e
+Instituições Religiosas; Produção de eventos e entretenimento artístico-cultural;
+IV - Instâncias do Departamento de Ciências Humanas e Tecnologia XXIII, a exemplo dos
+Projetos de Extensão e Pesquisa, sob a supervisão do Núcleo de Estágio.
+Art. 8º - Serão consideradas como objeto deste trabalho de pesquisa o resultado das
+experiências de ensino aprendizagem ao longo da formação acadêmica, as quais devem
+embasar-se em referencial teórico também pertinente às diversas atividades desenvolvidas
+no período de estágio.
+91
+
+Art. 9º - O aluno com a interveniência da Universidade, firmará o termo de compromisso com a
+instituição ou organização concedente do estágio.
+§ 1º - O termo de compromisso constituirá parte integrante do Convênio celebrado entre a
+Universidade e a Unidade concedente do estágio, em cujo documento deverá ser feita
+referência ao convênio jurídico a que se vincula, quando couber.
+§ 2º - A efetivação do estágio no âmbito da UNEB, nos seus Departamentos ou nos casos
+excepcionais considerados pela coordenação setorial de estágio do departamento dispensa
+o estabelecimento de Convênio, fazendo-se necessário apenas o termo de compromisso.
+§ 3º – Os estágios em organizações não-conveniadas com a UNEB poderão ser realizados por
+meio de autorização da Comissão Setorial de Estágio, desde que devidamente justificados
+no Termo de Compromisso de Estágio.
+Art. 10º - A realização do estágio não acarretará vínculo empregatício de qualquer natureza,
+ainda que o aluno estagiário receba bolsa ou outra forma de contraprestação acordada com
+a empresa ou com a Instituição concedente do estágio.
+Parágrafo único – fica vedada qualquer possibilidade da UNEB conceder bolsa ou
+remuneração veiculado exclusivamente à execução do estágio supervisionado.
+Art. 11º - Será considerada a prática do exercício profissional para carga horária de estágio
+supervisionado nas seguintes condições:
+I – Quando o discente exercer atividade de trabalho correlata com a área de sua
+formação, o projeto de estágio será direcionado às suas atividades profissionais;
+II – Quando o discente exercer atividade de trabalho não-correlata com a área de sua
+formação, o projeto de estágio será desenvolvido no Núcleo de Estágio.
+Art. 12º - A realização de estágio supervisionado em empresa em que o aluno mantenha
+vínculo empregatício ou societário exige o estabelecimento de Convênio firmado com as
+instâncias próprias da UNEB, observando-se:
+I - para o aluno empregado - O Termo de Compromisso pode ser substituído por cópia
+autenticada da Carteira de Trabalho e Previdência Social (CTPS) das partes que registrem
+os dados pessoais do empregado e o contrato de trabalho vigente;
+II - para o aluno sócio da empresa - O Termo de Compromisso pode ser substituído por cópia
+do Contrato Social, devidamente registrado na Junta Comercial, CGC ou CNPJ atualizados
+e demais inscrições que comprovem estar a empresa em atividade.
+Art. 13º - São condições para a realização do estágio pelo aluno vinculado à organização
+concedente:
+I – Destinação de carga horária específica para as atividades de estágio pelo aluno,
+atendendo as exigências do Curso de Comunicação Social – jornalismo em Multimeios qual
+está matriculado.
+II – Orientação, acompanhamento e avaliação do estágio pelo professor de estágio do
+Curso de Comunicação Social – jornalismo em Multimeios.
+III – Localização geográfica de fácil acesso, tanto ao Aluno-Estagiário quanto ao Professor-
+Supervisor, visando ao deslocamento seguro e sem obstáculos para o desenvolvimento das
+atividades;
+92
+
+CAPÍTULO III
+DA INTERRUPÇÃO DO ESTÁGIO
+Art. 14º - O estágio supervisionado poderá ser interrompido por iniciativa do aluno, da unidade
+concedente ou por ato da Comissão de Estágio nas ocorrências registradas nos artigos nº.
+15 e 17 deste regulamento.
+Art. 15º - O aluno estagiário poderá solicitar afastamento ou interrupção do estágio
+supervisionado nos seguintes casos:
+I - comprometimento da saúde física ou mental comprovada por relatório médico;
+II – Licença maternidade ou paternidade, luto e outras faltas assemelhadas, desde que sob
+respaldo legal;
+Art. 16º - O aluno estagiário poderá ser desligado do estágio supervisionado pela Coordenação
+Setorial de Estágio, por solicitação do Colegiado do Curso de Comunicação Social, cujo ato
+deve ser homologado pela direção do Departamento e pela Coordenação Central de
+Estágio, na PROGRAD e por iniciativa da instituição conveniada.
+Art. 17º - Constituem motivos, devidamente comprovados para o desligamento do estagiário:
+I - o não atendimento às determinações discriminadas nos artigos 14, 15 e 16 deste
+regulamento;
+Art. 18º - Não sendo concluído o estágio por motivos respaldados legalmente, conforme se
+prevê no Art. 16, a juízo da Coordenação Setorial de Estágio e do Colegiado do Curso, o
+estágio poderá ser repetido em parte ou integralmente, cujas atividades podem ser
+desenvolvidas em período especial, desde que, sem prejuízo do exercício letivo e segundo
+as peculiaridades deste Departamento.
+CAPÍTULO IV
+DO DEPARTAMENTO
+Art. 19º - Cabe ao Departamento de Ciências Humanas e Tecnologias do Campus XXIII:
+I – Propiciar condições mínimas de espaços físicos, materiais de apoio, recursos para
+deslocamentos em função de seus contatos com organizações;
+II – Dotar o Curso de Jornalismo de uma estrutura adequada para a realização de estágios
+curriculares, através do Núcleo de Estágio.
+CAPÍTULO V
+DA COMISSÃO DE ESTÁGIO
+Art. 20º - A Comissão de Estágio será estruturada de acordo com a Resolução CONSEPE 795
+de 13/02/2007 com a seguinte composição:
+93
+
+I – Dois (02) professores do Colegiado do Curso de Jornalismo tendo o professor dos
+Componentes Estágio Supervisionado I e Estágio Supervisionado II, assumido, a
+coordenação setorial do estágio e;
+II – um (01) discente representante do curso, indicado pelo Diretório Acadêmico entre os
+alunos que estejam regularmente matriculados.
+Art. 21º - São atribuições da Comissão de Estágio:
+I – elaborar anualmente o plano de atividades da coordenação de estágio;
+II – elaborar o projeto e o regulamento de estágio do curso;
+III – planejar, acompanhar e avaliar os processos dos estágios;
+IV – cadastrar as instituições locais, regionais e estaduais que possam oferecer estágio;
+V – propor convênios de estágio;
+VI – encaminhar os estagiários aos locais de estágio.
+CAPÍTULO VI
+DO PROFESSOR ORIENTADOR E/OU SUPERVISOR DE ESTÁGIO
+Art. 22º - O Professor – supervisor do estágio será docente da UNEB e deverá:
+I - ter formação acadêmico-profissional na área de conhecimento dos cursos, salvo em
+situações específicas de cada área, a serem discutidas e aprovadas em Colegiado.
+Art. 23º - São atribuições do professor orientador e/ou supervisor do estágio:
+I – Estar vinculados ao Núcleo de Estágio e participar das atividades programadas pela
+Comissão de Estágio, visando ao planejamento e avaliação global das atividades a serem
+desenvolvidas no Estágio;
+II – Apresentar e encaminhar, oficialmente, os Alunos-Estagiários aos respectivos Campos
+de Estágios;
+III – Orientar, supervisionar e avaliar, pontualmente, o desenvolvimento do Estágio que
+esteja sob sua responsabilidade dentro do semestre letivo;
+IV – Orientar os alunos na formulação do Plano de Atividades;
+V – Analisar e aprovar o Plano de Atividades apresentado pelos alunos;
+VI – Apresentar à Coordenação de Estágio até o período máximo de duas semanas de início
+do estágio, cronograma de orientações do estagiário para todo semestre, devendo garantir
+quinzenalmente o mínimo de uma orientação presencial;
+VII – Acompanhar periodicamente a realização do estágio, por meio de visita ao campo de
+estágio, por meio de reuniões com supervisores da instituição concedente e por meio de
+encontros com os alunos orientandos com a finalidade de avaliar o desenvolvimento do
+estagiário na execução das atividades previstas no Plano de Atividades;
+VIII – Sugerir se necessário, a aplicação de novos métodos e técnicas para execução das
+atividades relacionadas ao Estágio;
+IX – Indicar bibliografia para ampliação do conhecimento do aluno em relação à
+aplicabilidade do seu Plano de Atividades;
+X – Verificar, através de relatórios parciais, o andamento das atividades, a assiduidade e o
+desenvolvimento coerente com as propostas e expectativas, tanto do aluno como da
+organização cedente, do Curso de Comunicação Social - Jornalismo em Multimeios e da
+Universidade do Estado da Bahia;
+94
+
+XI – Esclarecer o estudante sobre os aspectos a serem avaliados;
+XII – Enviar ao Coordenador de Estágio, semestralmente, informe sobre o andamento das
+atividades do Estágio Curricular Supervisionado I e II referente ao (s) acadêmico (s)
+supervisionado (s) e ao (s) campo (s) de estágio (s) acompanhado (s), durante a supervisão;
+XIII – Manter a Comissão de Estágio informada sobre o desenvolvimento das atividades no
+Campo de Estágio, formalizando toda e qualquer situação-problema configurada durante a
+execução do Estágio e que esteja fora de sua competência;
+XIV – Avaliar o Relatório Final do aluno orientando, emitindo parecer e atribuindo a nota,
+conforme instrumentos de avaliação definidos no Art. 29º deste Regulamento.
+CAPÍTULO VII
+DO ALUNO ESTAGIÁRIO
+Art. 24º - No desenvolvimento de suas atividades, o aluno estagiário deverá:
+I – Conhecer a normatização específica do Estágio Curricular Supervisionado do Curso de
+Jornalismo, seus objetivos e este Regulamento;
+II – Cumprir todas as atividades determinadas no Plano de Estágio, apresentando o
+Relatório Final, dentro dos prazos fixados pela Comissão de Estágio;
+III – Comparecer às sessões de orientação, participando das atividades de planejamento,
+acompanhamento e avaliação do Estágio Supervisionado, nos horários determinados pelo
+professor supervisor;
+IV - Empenhar-se na busca do conhecimento necessário ao bom desempenho do Estágio
+Supervisionado;
+V – Manter atitude ético-profissional no desempenho de todas as atividades do Estágio; VI –
+Atender às normas da Instituição Concedente;
+VII – Demonstrar responsabilidade e organização no desenvolvimento do Estágio;
+VIII – Apresentar ao professor supervisor o Relatório Final para a avaliação.
+IX – O acadêmico estagiário poderá cumprir as atividades de Estágio Curricular
+Supervisionado no Núcleo de Estágio, vinculado ao curso de Jornalismo e nas instâncias do
+Departamento de Ciências Humanas da universidade do Estado da Bahia.
+Parágrafo Único: O acadêmico estagiário poderá cumprir o Estágio Curricular
+Supervisionado no mesmo local de trabalho em que exerce Estágio extracurricular, desde
+que apresentado um Plano de Atividades, a ser convalidado pela Comissão de Estágio.
+CAPÍTULO VIII
+DA INSTITUIÇÃO CONCEDENTE
+Art. 25º São atribuições do Supervisor da Instituição Concedente:
+I – Receber os Estagiários, em data previamente marcada com o Professor-Supervisor,
+fornecendo as informações necessárias para um Estágio eficiente e proveitoso;
+II – Apresentar os estagiários à equipe administrativa, possibilitando a integração dos
+envolvidos no Estágio;
+III - Designar local, a ser utilizado pelos Estagiários, para fazer reuniões e orientações;
+IV - Inteirar-se do Plano de Atividades de Estágio elaborado pelo Estagiário, fazendo
+sugestões, sempre que considerar necessário;
+V – Informar ao Professor-Supervisor qualquer irregularidade ou alteração no processo de
+Estágio, proporcionando os ajustes necessários.
+95
+
+Parágrafo Único: Deve-se obedecer o limite máximo de dois projetos de estágios por
+supervisor (es) de estágio da Instituição Concedente, obrigatoriamente, com formação
+superior em jornalismo e registro profissional. Os casos nos quais as organizações ou
+instituições concedentes não possuírem profissional com a qualificação exigida serão
+excepcionalmente considerados pela comissão setorial de estágio do colegiado que poderá
+orientar a supervisão do estagiário a cargo do Núcleo de Estágio do colegiado, mantendo-se
+um responsável da organização para auxiliar o encaminhamento do estágio.
+CAPÍTULO IX
+DA AVALIAÇÃO DO ESTÁGIO CURRICULAR SUPERVISIONADO
+Art. 26º O Estágio Curricular Supervisionado, em cada uma de suas etapas obrigatórias
+previstas neste regimento, a saber: apresentação da documentação obrigatória, elaboração
+e aprovação do plano de estágio, execução das atividades previstas, encontros periódicos
+de supervisão entre acadêmico-estagiário e professor supervisor e apresentação do relatório
+final, é avaliado levando-se em conta os seguintes critérios:
+I – Coerência e aplicabilidade do Plano de Atividades;
+II – Pontualidade e assiduidade do aluno em seus compromissos, tanto com a organização
+cedente, como com o professor supervisor, registrada nas fichas de frequência destinadas
+para esse fim;
+III – Avaliação da organização cedente, através de preenchimento pelo profissional
+supervisor da Instituição Concedente de ficha de avaliação específica disponibilizada pela
+Coordenação de Estágio do Curso de Comunicação Social - Jornalismo em Multimeios;
+IV – Avaliação do professor supervisor de estágio, através de preenchimento pelo professor
+supervisor de ficha de avaliação específica disponibilizada pela Coordenação de Estágio do
+Curso;
+V – Produção acadêmico-científica, na modalidade de relatório técnico, artigo científico e/ou
+relato de experiência, de acordo com as normas da ABNT, avaliado pelo professor
+supervisor, considerando consistência, coerência, clareza e densidade teórica da descrição
+e análise das atividades desenvolvidas.
+Art. 27º No componente Estágio Curricular Supervisionado I, os processos avaliativos,
+abrangendo avaliações parcial e final, dar-se-á ao longo de todo o desenvolvimento da
+disciplina, podendo ser admitidos como elementos para a avaliação parcial:
+I – Ensaio a respeito da natureza teórica do estágio supervisionado produzidos de acordo com
+as normas da ABNT;
+II - Relatório de Visitas Técnicas, contendo o diagnóstico do campo de estágio;
+III – Plano de Estágio com a especificação da natureza do campo de estágio e descrição das
+atividades;
+Art. 28º No componente Estágio Curricular processos avaliativos, abrangendo avaliações
+parcial e final, dar-se-á ao longo de todo o desenvolvimento da disciplina, podendo ser
+admitidos como elementos para a avaliação parcial as produções acadêmico-científicas
+devem obedecer a seguinte estrutura:
+a) Introdução (contextualizando o campo de estágio, as atividades desenvolvidas, nome dos
+supervisores e, brevemente, as atividades desenvolvidas);
+b) Objetivos geral e específicos (do relatório);
+c) Descrição e análise das atividades desenvolvidas;
+d) Sugestões e recomendações (para qualificar o processo de realização do estágio);
+e) Considerações finais;
+96
+
+f) Referências bibliográficas.
+g) Anexos (Plano de Atividades, ficha de frequência que comprovam cumprimento das horas
+de estágio obrigatórias, cópia do termo de compromisso assinado);
+Art 29º Após a avaliação, conforme os critérios e exigências estabelecidos nos artigos 26, 27
+e 28, o aluno é considerado Aprovado ou Reprovado no Estágio Curricular Supervisionado I
+e II, levando-se em consideração também os parágrafos seguintes:
+§1º A frequência ao Estágio , bem como as reuniões de supervisão acadêmica deverão,
+obrigatoriamente, ser registradas em ficha de frequência específica para esse fim e
+assinadas pelos respectivos supervisores na mesma data em que ocorrer a orientação e
+atividade de estágio informada.
+§ 2º Três ausências consecutivas das orientações de supervisão acadêmica, no
+componente Estágio Supervisionado II - previstas em cronograma apresentado ao
+Coordenador de Estágio – e três ausências nas atividades de estágio sem as devidas
+justificativas, obrigam os supervisores de estágio a remeterem à Comissão de Estágio
+solicitação de desligamento do estudante da disciplina por descumprimento da natureza
+processual de avaliação do estágio, cabendo ao colegiado do curso à decisão final
+recomendada pela referida Comissão.
+§ 3º Os produtos decorrentes de atividades de Estágio Supervisionado II poderão ser
+avaliados por profissionais da área de Comunicação Social que emitirão parecer técnico.
+CAPÍTULO X
+DAS ESPECIFICIDADES DAS MODALIDADES
+Art. 30º - Quanto ao comprometimento da carga horária em relação à quantidade de alunos por
+turma, faz-se saber:
+I – O Professor de estágio sob regime de 40 (quarenta) horas acompanhará uma turma, com
+no máximo 20 (vinte) discentes registrando pelo menos as seguintes atividades em seu PIT:
+a) Reunião com toda a turma – 2 (duas) horas;
+b) Orientações individuais 1 (uma) hora por aluno;
+c) Observação de estágio em campo 12 (doze) horas;
+d) Trabalhos acadêmicos e complementares à docência 6 (seis) horas;
+e) Comissão de avaliação de aproveitamento de estágio 1 (uma) hora.
+II – Para turmas inferiores a 8 (oito) discentes, o docente complementará sua carga horária
+assumindo pelo menos, outra disciplina de até 60 (sessenta) horas, ou desenvolverá
+atividades de pesquisa, ou extensão, aprovadas pelo departamento;
+III – Ao Professor co-orientador de estágio será computada a carga horária de orientação de
+estágio, observando o limite máximo de 05 (cinco) discentes por professor, com 02 (duas)
+horas-semanais de orientação.
+IV – O estagiário poderá desenvolver as atividades de estágio na modalidade de produtos
+experimentais na área de jornalismo e os suportes de mídias eletrônicas, impresso,
+audiovisual, digital e/ou rede social, fotografia e/ou fotojornalismo; agências de notícias;
+assessorias de comunicação; planejamento de comunicação; educomunicação;
+comunicação comunitária, nos campos de atuação descritos no artigo 7.
+V – O estagiário poderá realizar atividades de Estágio Supervisionado nos projetos de
+extensão, pesquisa e ensino desenvolvendo planos de intervenção crítico-analítico,
+produção acadêmica e/ou produtos experimentais.
+97
+
+CAPÍTULO XI
+DAS DISPOSIÇÕES GERAIS
+Art. 31º – Os casos omissos serão resolvidos em primeira instância, pela Coordenação Setorial
+de Estágio após serem ouvidos os professores coordenadores de estágio e/ou e professor
+orientador e/ou supervisor de estágio, e referendados pelo Conselho de Departamento, de
+acordo com a legislação pertinente.
+2.5.2. Trabalho de Conclusão de Curso - TCC
+O Trabalho de Conclusão de Curso (TCC) tem como finalidade estabelecer a articulação
+entre o ensino e a pesquisa, ao tempo em que estimula a atividade de produção científica e
+técnica. Constituiu-se como componente curricular obrigatório a ser cumprido ao longo do
+curso de forma transversal desenvolvido pelos conhecimentos dos demais componentes
+curriculares, centrando-se como requisito de culminância para obtenção do grau.
+O TCC é regulamentado pela Resolução do CONSEPE n° 622/2004 e, a partir das
+atividades de pesquisa contempladas no curso, deve implicar em trabalhos que contribuam
+para o conhecimento sistematizado do aluno, permitindo-lhe apropriação e elaboração de
+conceitos, aplicação de métodos e técnicas, bem como elaboração e aplicação de
+instrumentos de pesquisa, realizando análises e sínteses de natureza científica que
+consolidem a formação do pesquisar e sua compreensão sobre privilegiar a ética na
+pesquisa considerando as dimensões dos fatos, fenômenos e/ou objetos a serem
+investigados.
+O Curso de Comunicação Social – Jornalismo em Multimeios – Bacharelado da Cooperação
+Interdepartamental do DCH III e DCHT XXIII define as seguintes modalidades de TCC:
+Monografia e Produto Experimental.
+A monografia consiste no desenvolvimento de trabalhos individuais, de caráter reflexivo e
+analítico, visando ao aprofundamento de questões teóricas ou práticas através de livre
+escolha de tema relacionado à área de Comunicação Social e/ou jornalismo.
+O Produto Experimental consiste no desenvolvimento de atividade laboratorial de jornalismo,
+acompanhada de um memorial, realizada individualmente ou em grupo, de caráter reflexivo
+e analítico nas área especificas do jornalismo e da comunicação social.
+98
+
+O componente de TCC é ofertado no sétimo e oitavo semestres do Curso, com 75 horas em
+cada um, totalizando 150 horas. Ressalte-se que, como a atividade de pesquisa deve ser
+desenvolvida paulatinamente no curso, existem componentes distribuídos ao longo dos
+semestres com o objetivo de capacitar e dotar o aluno de conhecimentos e habilidades para
+a prática da pesquisa. Componentes como Metodologia da Ciência e do Trabalho
+Acadêmico, com 60 horas, oferecido no primeiro semestres; Teoria e Método de Pesquisa
+em Comunicação, com 60 horas, oferecido no sexto semestre; dentre outros, fortalecem a
+formação científica, contribuindo para uma melhor preparação do aluno para o
+desenvolvimento do TCC.
+A oferta do Trabalho de Conclusão de Curso (TCC) deve viabilizar, na medida das
+condições de infra-estrutura do curso, as condições materiais e humanas para a
+experimentação de produtos comunicacionais em consonância com as áreas de
+conhecimento de curso.
+O TCC deve ser orientando por um professor do curso e facultado a co-orientação para os
+casos em que se requer o domínio técnico e/ou científico de uma temática.
+Caberá ao Colegiado de Curso indicar para as linhas temáticas prioritárias para a pesquisa,
+cujo trabalho final, deve atender às disposições da Associação Brasileira de Normas
+Técnicas (ABNT), ao regulamento e as normas internas de cada Curso; deverá ser
+apresentado à Comissão Avaliadora para análise e avaliação, além da defesa do tema pelo
+(a) autor (a) perante a referida Comissão, em sessão pública, conforme prevê a referida
+resolução.
+Manual de elaboração de Trabalho de Conclusão de Curso no Bacharelado de
+Jornalismo – UNEB/DCHT XXIII
+1. Condições para cursar TCC
+1.1 O Trabalho de Conclusão de Curso - TCC será desenvolvido no último semestre do
+curso, por todos os discentes que esteja aptos, de acordo com as normas estabelecidas
+pela instituição de ensino, Projeto Político Pedagógico do curso e/ou parecer do corpo
+colegiado de professores.
+1.2 O concluinte terá uma carga horária semestral de 200 horas para realizar o trabalho
+final, de caráter monográfico ou técnico. A carga horária dessa atividade está atrelado à
+Coordenação do TCC, composta por até 2 (dois) docentes.
+99
+
+1.3 O TCC corresponde ao trabalho de final de curso, de caráter analítico ou prático,
+realizado na área do Jornalismo e de suas áreas afins.
+1.4 Serão considerados como trabalho final: pesquisa científica de caráter monográfico e
+produtos de natureza técnico – artística, a saber: livro reportagem, ensaio fotográfico,
+projeto de assessoria de imprensa, revista laboratório, reportagem em multimeios, produção
+em fotojornalismo, jornal mural, programa de TV, documentário jornalístico,
+radiodocumentário, design de jogos digitais, produção multimídia ou transmídia, projetos em
+comunicação comunitária ou educom. No caso de produtos de natureza técnico - artística, a
+obra deverá ser obrigatoriamente acompanhada de memorial descritivo.
+1.5 O discente concluinte deve estar comprometido a realizar o seu trabalho destinando 15
+horas semanais previstas em sua carga horária. O aluno deve comparecer aos encontros
+com o professor orientador, semanalmente, ou quando determinados pelo mesmo; Deve
+comparecer também aos encontros mensais com a Coordenação do TCC. Além de cumprir
+os prazos estabelecidos para elaboração, defesa e depósito do trabalho final.
+100
+
+2 Coordenação do TCC
+2.1 As atribuições da Coordenação do TCC são: acompanhar a execução dos projetos,
+realizar reuniões com orientadores e orientando, organizar as bancas de defesas, atribuir
+notas em cadernetas e julgar casos omissos.
+2.2 Os docentes Coordenadores(as) Projeto de Conclusão de Curso – TCC serão indicados
+em reunião plenária do Colegiado do Curso de Jornalismo serão responsáveis pelo
+funcionamento, no que diz respeito à organização das etapas necessárias ao bom
+andamento do TCC.
+2.3 É obrigatória a presença dos orientandos aos encontros com a Coordenação TCC, sob
+pena de sua ausência caracterizar uma situação de abandono das atividades. Os
+coordenadores deverão acompanhar o desenvolvimento de cada Projeto através de
+depoimento dos executantes, informando-os acerca de normas, prazos, e prestando
+assistência ao orientando acerca de dificuldades que venham a se apresentar ao longo da
+execução do Projeto.
+2.4 As notas registradas em cadernetas no final do semestre deverão ser as mesmas
+obtidas na ocasião da defesa pública de TCC.
+.
+3 Orientação
+3.1 Na disciplina Seminários Avançados II o discente indicará um professor orientador para
+acompanhamento teórico, metodológico ou prático de seu trabalho final. Os professores
+orientadores deverão ser lotados no Departamento de Ciências Humanas, campus III da
+UNEB. Em casos em que se justifique a falta de orientadores em determinados temas,
+poderá ser solicitado a orientação de professores de outros departamentos.
+3.3 Os orientadores deverão assinar o "Termo de Aceite" de seus orientandos no final do
+semestre que antecede a realização do TCC. Os termos devem ser homologados em
+reunião plenária do Colegiado do Curso de Jornalismo em Multimeios. Uma vez tendo-se
+comprometido com o aluno através do documento, este deverá: prestar orientação
+metodológica, teórica, bibliográfica e prática (especificamente para produto); avaliar o
+cumprimento das etapas do projeto; participar da composição da Banca Examinadora que
+avaliará o trabalho do orientando, por ocasião da apresentação pública.
+101
+
+3.4 O professor orientador colocará no seu Programa Interno de Trabalho – PIT, 1 (uma)
+hora semanal para cada orientação. O número de orientação não deve exceder, por
+semestre, 3 (três) orientações.
+3.5 Em casos excepcionais será previsto, com o consentimento do orientador, a participação
+de um co-orientador na elaboração do trabalho final, desde que aprovado em reunião do
+colegiado.
+4 Desistência da orientação
+4.1 O não comparecimento do orientando aos encontros semanais agendados pelo
+orientador, por mais de 4 (quatro) vezes, sem aviso prévio e sem a concordância do mesmo
+será caracterizado como abandono. A mesma situação se aplicará ao orientador. Quando
+ocorrer o abandono por parte do orientando e orientador, a coordenação do TCC deverá ser
+comunicada por escrito.
+4.2 Após matrícula na disciplina TCC não será mais permitida mudanças de modalidade,
+temática e metodológica.
+5 A estrutura dos trabalhos finais
+5.1 Os trabalhos monográficos serão obrigatoriamente individuais.
+5.2 Os produtos técnico-artístico serão obrigatoriamente individuais.
+5.3 Monografia
+5.3.1 A monografia a ser elaborada pelo discente deverá, exclusivamente, ser executada de
+acordo com o anteprojeto formulado na disciplina Seminários Avançados.
+5.3.2 As naturezas das monografias poderão ser:
+a) Monografia de Caráter Conceitual: estudando um conceito ou problema, segundo um
+recorte pertinente e uma abordagem adequada;
+b) Monografia de Caráter Analítico: efetuando um "estudo de caso" ou uma análise
+comparativa capaz de situar adequadamente o objeto escolhido;
+102
+
+c) Monografia de Caráter Documental: estudando informações científicas, ou de interesse
+científico, para determinar seu conteúdo, sua localização e sua utilidade entre estudiosos,
+otimizando a natureza de seu suporte e provendo aqueles que precisam dessa informação
+com obras ou trabalhos apropriados.
+5.2.3 A extensão do trabalho monográfico ficará a cargo do professor orientador, no entanto,
+sugerimos que o trabalho apresente no mínimo 40 laudas, em fonte Times New Roman,
+corpo 12, e espaço 1,5. Os demais procedimentos deverão seguir as normas da Associação
+Brasileira de Normas Técnicas – ABNT, considerando os elementos pré-textuais, textuais e
+pós-textuais.
+5.3 Memorial descritivo do Produto
+5.3.1 O produto a ser elaborado pelo discente deverá, exclusivamente, ser executada de
+acordo com o anteprojeto formulado na disciplina Seminários Avançados.
+5.3.2 O memorial descritivo é parte integrante do produto a ser julgado por banca
+examinadora. O conteúdo escrito do produto deve ter no mínimo 20 (vinte) páginas
+contemplar: domínio teórico sobre o tema a ser trabalhado; conhecimento profundo da
+linguagem jornalística empregada; descrição das etapas que conceberam o produto; e
+apresentação do percurso acadêmico do estudante, ou seja, as disciplinas que ele realizou,
+os textos que leu, as experimentações que praticou no âmbito do próprio curso,
+evidenciando de que forma esta vivência acadêmica contribuiu para a consecução deste
+produto experimental em comunicação.
+5.3.3 Os procedimentos para realizar Projeto Experimental de natureza técnico-artística, o
+seja, de caráter não monográfico, deverá seguir os seguintes critérios:
+a) Produtos em formatos jornalísticos culturalmente estabelecidos – que atenda às
+exigências do mercado ou apresente formatos experimentais;
+b) Experiência de caráter efetivamente laboratorial – que envolva linguagem informativa
+gráfica e digital (jornal impresso, livro reportagem, revista impressa e digital, suplemento,
+site, CD Rom, cobertura fotojornalística, etc) e linguagem audiovisual, a saber: livro
+reportagem, ensaio fotográfico, projeto de assessoria de imprensa, revista laboratório,
+reportagem em multimeios, produção em fotojornalismo, jornal mural, programa de TV,
+103
+
+documentário jornalístico, radiodocumentário, design de jogos digitais, produção multimídia
+ou transmídia, projetos em comunicação comunitária ou educom.
+5.3.4 A estrutura pré-textual deve conter:
+Capa (cabeçalho, título do trabalho, autor, local e data);
+Folha de rosto;
+Dedicatória (opcional);
+Agradecimentos (opcional);
+Resumo (somente em português) e Palavras-chave;
+Sumário;
+Listas (de siglas, tabelas, etc)
+5.3.5 A estrutura textual da memória descritiva e analítica será dividida em duas partes:
+Contextualização teórica e Descrição dos procedimentos práticos.
+1 - Contextualização teórica: Introdução, justificativa, objetivos, revisão bibliográfica
+(contextualização crítica), explicitação das técnicas jornalísticas (metodologia) adotadas
+para compor o produto;
+2 - Descrição dos procedimentos práticos: descrição da etapa de pré-produção, produção e
+pós-produção; envolvimento pessoal com o trabalho; considerações finais; anexos.
+6 A defesa
+6.1 A entrega do Trabalho Final será condicionada a uma “Declaração de Aptidão”
+encaminhada pelo professor orientador à coordenação de TCC, indicando que o trabalho
+reúne condições técnicas e científicas para defesa pública.
+6.2 Caso o discente não consiga a “Declaração de Aptidão”de um professor para orientar
+seu trabalho, este deverá comunicar por escrito ao coordenador do TCC, que encaminhará
+o problema ao Colegiado de Curso.
+7 Formação das Bancas
+7.1 As indicações para composição da Banca Examinadora são apresentadas pelo
+professor orientador à Coordenação de TCC, que será responsável por sua homologação.
+104
+
+7.2 Não acadêmicos podem fazer parte da Banca Examinadora em casos excepcionais,
+desde que não haja professor ou pesquisador especializado no assunto. O Colegiado de
+Curso poderá homologar a presença de um único membro “Notório Saber”, após apreciação
+prévia de seu currículo sintético. Nestas situações, a responsabilidade pela apresentação do
+currículo do profissional à plenária do Colegiado, deverá ser do professor orientador.
+7.3 As versões das monografias e produtos para apreciação da banca deverão ser
+entregues no Colegiado do curso em data a ser comunicada pela coordenação de TCC.
+7.4 As cópias devem se entregues respeitando o prazo de 4 semanas antes do final do
+semestre. O aluno deverá apresentar a carta do orientador comunicado que o trabalho está
+apto a ser apresentado, seguido de 3 cópias do trabalho que deverá ser encaminhado para
+os membros da Banca Examinadora.
+7.5 No trabalho monográfico deve ser entregue completo contendo os elementos pré-
+textuais (capa, resumo, índice, etc.) textuais (Introdução, capítulos e conclusão) e pós
+textuais (como anexos, gráficos, etc).
+7.6 Caso o Projeto seja um produto de natureza técnico-artística, deverá ser entregue
+acompanhado da memória descritiva e analítica, sem o qual o trabalho não terá validade.
+8 Apresentação pública do TCC
+8.1 A apresentação pública do TCC deverá ocorrer na antepenúltima semana do final do
+semestre em curso, com a presença obrigatória dos três membros da Banca Examinadora,
+e em espaço de fácil localização no campus da universidade. Excepcionalmente, a
+apresentação poderá ser fora do campus, desde que exista o consentimento da banca e da
+coordenação do Curso.
+8.2 Compete à Banca Examinadora debater com o discente e fazer observações,
+recomendando correções, quando pertinentes. O estudante deverá modificar seu trabalho
+em conformidade com a apreciação da Banca sob o risco de não obter o grau de bacharel.
+8.3 O processo de defesa não deverá ultrapassar duas horas. O aluno terá um prazo
+mínimo de 20 e máximo de 30 minutos para apresentar o seu trabalho. Será facultado a
+cada membro da Banca um prazo máximo de 30 minutos para observações, comentários,
+105
+
+recomendações e correções. Caso necessite de mais tempo, o pedido verbal deverá ser
+encaminhado à Presidência da Banca (orientador do trabalho).
+8.4 Após a apresentação da defesa, a Banca Examinadora fará a avaliação e em seguida
+apresentará seu parecer através da leitura da ata. Serão apontadas as observações que
+julgarem relevantes a em seguida será anunciada as seguintes condições: aprovação,
+aprovação condicionada a reparos, não aprovação.
+8.5 A média da nota será encaminhada para a coordenação do TCC para constar na
+caderneta eletrônica.
+8.6 Será dado aos alunos um prazo de 15 dias para a revisão e entrega da versão final do
+TCC, com o documento de aprovação do orientador. A versão final deverá ser entregue em
+duas versões, uma impressa e outra digital.
+MODELO DE BAREMA
+Barema de avaliação de Monografia Pontuação
+Produção científica 2 pontos (Total:8 pontos)
+Aspectos técnicos, gramaticais e textuais:
+Relevância científico/social do tema:
+Metodologia e Referências utilizadas de forma adequadas:
+Originalidade na escolha do tema e/ou na forma de apresentação
+dos resultados da investigação
+Apresentação oral 0,5 pontos (Total: 2 pontos)
+Domínio do conteúdo:
+Clareza e correção de linguagem:
+Utilização do tempo:
+Potencial argumentativo:
+TOTAL DE PONTOS:
+Barema de avaliação de Produto Pontuação
+Avaliação do Produto: 1 ponto (Total:4 pontos)
+Qualidade técnica jornalística:
+Relevância social/cultural do produto:
+Caráter experimental do produto:
+Observância dos princípios éticos:
+Avaliação do Memorial Descritivo Analítico: 1 ponto (Total: 4 pontos)
+A consistência teórica do memorial e relação com o produto:
+Aspectos técnicos, gramaticais e textuais:
+106
+
+Descrição das etapas, adequação ao suporte e tema apresentado:
+Trajetória acadêmica e potencial argumentativo
+107
+
+Apresentação oral 0,5 pontos (Total: 2 pontos)
+Domínio do conteúdo:
+Clareza e correção de linguagem:
+Utilização do tempo:
+Potencial argumentativo:
+TOTAL DE PONTOS:
+108
+
+109
+
+ANEXO ÚNICO DA RESOLUÇÃO N.º 622/2004-CONSEPE
+EXTRATO DO REGULAMENTO GERAL
+DO TRABALHO DE CONCLUSÃO DE CURSO-TCC
+O Trabalho de Conclusão de Curso – TCC, como atividade acadêmica, constitui requisito
+parcial para a obtenção do grau referente aos cursos de graduação, nos níveis de
+licenciatura e de bacharelado oferecidos pela Universidade do Estado da Bahia – UNEB,
+nos diversos campi, através dos seus Departamentos.
+O Trabalho de Conclusão de Curso tendo como finalidade primeira estabelecer a articulação
+entre o ensino e a pesquisa, ao tempo em que estimula a atividade de produção científica e
+técnica, tem por objetivos proporcionar ao discente, oportunidades para:
+• aprimorar a capacidade de analisar e interpretar criticamente fatos e ocorrências da
+realidade, na sua área de conhecimento;
+• desenvolver as habilidades de expressão escrita na produção de texto científico de cunho
+monográfico;
+• desenvolver habilidades para a utilização de outras formas de expressão através do uso
+das diversas linguagens traduzidas, dentre os vários, trabalhos acadêmicos, em produtos
+da comunicação multimídia, projetos urbanísticos, produtos turísticos, experiências
+laboratoriais e/ou projetos educacionais.
+REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO -TCC DA
+UNIVERSIDADE DO ESTADO DA BAHIA UNEB
+CAPÍTULO I - DISPOSIÇÕES PRELIMINARES
+Art. 1º - O Trabalho de Conclusão de Curso - TCC, como atividade acadêmica, constitui
+requisito parcial para a obtenção do grau referente aos cursos de graduação, nos níveis de
+licenciatura e de bacharelado oferecidos pela Universidade do Estado da Bahia – UNEB,
+nos diversos campi, através dos seus Departamentos.
+110
+
+Art. 2º - Para efeito deste Regulamento, o Trabalho de Conclusão de Curso, corresponde
+aos produtos finais dos componentes curriculares Projeto Experimental, Seminário
+Monográfico, Monografia, Estágio Curricular Supervisionado e denominações
+assemelhadas, de acordo com a grade curricular dos cursos oferecidos pela Universidade.
+CAPÍTULO II -DAS FINALIDADES E OBJETIVOS
+Art. 3º - O Trabalho de Conclusão de Curso, tendo como finalidade primeira estabelecer a
+articulação entre o ensino e a pesquisa, ao tempo em que estimula a atividade de produção
+científica e técnica, tem por objetivos proporcionar ao discente oportunidades para:
+I - aprimorar a capacidade de analisar e interpretar criticamente fatos e ocorrências da
+realidade, na sua área de conhecimento;
+II - desenvolver as habilidades de expressão escrita na produção de texto científico de
+cunho monográfico;
+III - desenvolver habilidades para a utilização de outras formas de expressão através do
+uso das diversas linguagens traduzidas, dentre os vários. trabalhos acadêmicos, em
+produtos da comunicação multimídia, projetos urbanísticos, produtos turísticos,
+experiências laboratoriais e/ou projetos educacionais.
+Art. 4º - Inicia-se o processo de produção do Trabalho de Conclusão de Curso – TCC, com o
+planejamento e a execução pelo discente de um Projeto de Pesquisa, de preferência
+elaborado como produto final dos componentes curriculares de orientação metodológica
+para a pesquisa, voltado, portanto, para a área de conhecimento para a qual se direcionam
+os objetivos de cada Curso.
+Parágrafo Único – O TCC apresentado sob a forma de texto monográfico deve caracterizar-
+se como produção individual do discente, ressalvando-se a autoria desse trabalho
+acadêmico por dois ou, no máximo, três discentes, desde que, enquadrando-se no que
+estabelece o item III do Art. 3º deste Regulamento, derive o TCC de propostas de trabalhos
+interdisciplinares, com o devido aceite do professor-orientador e da Coordenação dos
+Trabalhos de Conclusão de Curso no Departamento.
+Art. 5º - O TCC deve estar inserido no contexto das propostas curriculares dos cursos de
+graduação, cabendo aos respectivos Colegiados indicar para a Coordenação do TCC as
+linhas temáticas prioritárias para a pesquisa, cujo trabalho final, atendendo às disposições
+111
+
+da Associação Brasileira de Normas Técnicas (ABNT), este Regulamento e as normas
+internas de cada Curso, deverá ser apresentado à Comissão Avaliadora para:
+a) - análise e avaliação, conforme se estabelece no Capítulo VII deste Regulamento;
+b) - defesa do tema pelo(a) autor(a) perante a referida Comissão, em sessão pública,
+condição esta que deverá ser expressa nas normas internas de cada Departamento ou de
+cada Curso.
+Art. 6º - O discente deverá contar, em todas as etapas de realização do TCC, com o regular
+acompanhamento por um professor-orientador indicado preferencialmente, entre os
+docentes do respectivo Curso, na forma do disposto no Capítulo VIII deste Regulamento.
+Parágrafo Único – A indicação do professor-orientador deverá ser aprovada pela
+Coordenação dos Trabalhos de Conclusão de Curso no Departamento, quando instituída, ou
+por outro setor responsável por esta coordenação, de acordo com as disposições internas
+da unidade de ensino ou do(s) seus curso(s).
+CAPÍTULO III - DA SUPERVISÃO E COORDENAÇÃO DOS TRABALHOS DE
+CONCLUSÃO DE CURSO
+Art. 7º - A supervisão e o acompanhamento das atividades relacionadas ao TCC, em cada
+Departamento, são de responsabilidade, da Coordenação de Trabalhos de Conclusão de
+Curso, ou outro órgão com estas finalidades por instituição das normas internas de
+funcionamento do Departamento, cabendo a essa coordenação:
+I - o estabelecimento das instruções para a elaboração e avaliação do TCC, as quais,
+atendendo as normas deste Regulamento, devem detalhar as particularidades para o
+trabalho final do discente, conforme a área de conhecimento enfatizada e a especificidade
+de cada Curso;
+II - o acompanhamento, junto aos professores-orientadores, do andamento das atividades
+de orientação do TCC, quanto aos prazos para o desenvolvimento dos projetos de pesquisa
+e entrega da versão final, buscando evitar qualquer prejuízo quanto às datas de diplomação
+dos concluintes dos Cursos;
+III - a identificação de instituições públicas ou da iniciativa privada para a celebração de
+parcerias, convênios e/ou autorização que permitam o desenvolvimento de projetos de
+pesquisa pelos discentes inscritos na atividade Trabalho de Conclusão de Curso ou
+componente curricular similar;
+112
+
+IV - a realização de atividades abertas à comunidade acadêmica (reuniões, encontros,
+palestras, seminários, entre outros), envolvendo os professores-orientadores e seus
+orientandos para, num processo de socialização, promover a troca de experiências,
+divulgação dos temas trabalhados e das fases de desenvolvimento dos projetos no decorrer
+do processo de elaboração dos Trabalhos de Conclusão de Curso.
+113
+
+CAPÍTULO IV - DO PROFESSOR-ORIENTADOR
+Art. 8º - O professor-orientador do Trabalho de Conclusão de Curso, nos termos previstos no
+Art. 6º, deverá ter formação acadêmica na área do projeto de pesquisa do discente-
+orientando, titulação mínima em nível de especialização e com reconhecida experiência
+profissional no campo temático em que se enquadra o referido projeto.
+Parágrafo Único - A orientação do TCC, de acordo com a especificidade do trabalho e a
+linha temática à qual se agrega o projeto de pesquisa do discente, com o aceite da
+Coordenação do TCC referendado pelo Colegiado de Curso, poderá ser feita por professor
+de diferente Curso do próprio Departamento, lotado em outras Unidades da UNEB, ou
+mesmo, em outras Instituições de Ensino Superior, nestes casos, sem ônus para o
+Departamento de origem do referido projeto.
+Art. 9º - Na elaboração do TCC, desde que com a anuência do professor-orientador, da
+Coordenação do TCC e do Colegiado de Curso, o discente poderá contar com:
+I - um co-orientador, docente com reconhecida experiência na área específica do projeto de
+pesquisa, pertencente ou não ao quadro de professores da Instituição;
+II - um cooperador técnico que, poderá ser indicado para o fim especial de prestar
+informações específicas necessárias para o desenvolvimento do trabalho acadêmico, no
+caso de Cursos da área de Administração, Ciências Contábeis ou outras áreas técnicas,
+cujo profissional, mesmo não tendo titulação acadêmica apropriada, detenha experiência
+profissional ou administrativa não-acadêmica, mas relevante, na área-objeto da pesquisa.
+Parágrafo Único - Para as funções de co-orientador e de cooperador técnico do trabalho
+acadêmico, cuja inserção se dará por indicação do discente e a convite de representante da
+Unidade de Ensino, não se depreende qualquer compensação financeira ou vínculo por
+parte da UNEB ou dos seus Departamentos.
+Art. 10 - A distribuição de encargos de orientação de cada discente, de acordo com as
+normas internas do Departamento e dos respectivos Cursos, deverá ser feita,
+preferencialmente, por área temática dentre os docentes qualificados para tal função,
+devendo observar, caso não haja determinações específicas do Curso sobre o assunto,
+respeitando-se a carga horária do docente, a seguinte distribuição por semestre letivo:
+a) trabalhos individuais – no máximo 8 (oito) discentes-orientandos;
+114
+
+b) trabalhos por dupla de discentes – no máximo, 12 (doze) discentes-orientandos;
+c) trabalhos realizados por três discentes – no máximo, 12(doze) discentes-orientandos.
+Art. 11 - O professor-orientador terá sob sua responsabilidade:
+I – definir junto com o orientando, quando necessário, o tema do Trabalho de Conclusão de
+Curso, acompanhando-o até a etapa final do estudo;
+II - manter contatos com a Coordenação do TCC para esclarecimentos e orientações
+relativas ao seu trabalho, quando necessário;
+III –prestar atendimento ao(s) discente(s)-orientando(s), distribuindo as horas-aula/semestre,
+na forma do Art. 10, conforme cronograma de orientação, observando o prazo para o
+desenvolvimento dos projetos e respectiva data final para a entrega e avaliação do Trabalho
+de Conclusão de Curso;
+IV – encaminhar à Coordenação do TCC, nos prazos determinados, devidamente
+preenchidos e assinados os documentos referentes ao controle de freqüência e avaliações
+do discente-orientando, conforme as normas internas de cada Curso para esta etapa do
+trabalho acadêmico;
+V – participar, obrigatoriamente, das Comissões Avaliadoras quando seu(s) orientando(s)
+tenha(m) sido o(s) autor(es) do TCC sujeito à avaliação;
+VI – cumprir e fazer cumprir este Regulamento e outras normas específicas do
+Departamento ou do Colegiado do Curso sobre o assunto.
+Art. 12 - A substituição do professor-orientador, em qualquer etapa da elaboração do TCC,
+poderá ser permitida, por motivo de força maior e sob o aval da Coordenação do TCC,
+referendado pelo Colegiado de Curso, observando-se, rigorosamente, a coincidência de
+datas do afastamento do então titular e do compromisso formal de assunção como
+orientador por outro docente.
+CAPÍTULO V -DOS DISCENTES-ORIENTANDOS
+Art. 13 - O discente, no desenvolvimento do Trabalho de Conclusão de Curso, deverá:
+I – submeter ao professor-orientador o Projeto de Pesquisa, na forma do Capítulo V deste
+Regulamento e o conseqüente plano para execução do TCC;
+II – atender ao cronograma elaborado em conjunto com o seu orientador para discussão,
+análise e adoção de medidas, se necessárias, visando o aprimoramento do trabalho;
+115
+
+III – comparecer às reuniões por convocação do professor-orientador, da Coordenação do
+TCC ou da Coordenação do Colegiado do Curso;
+IV – elaborar a versão final do TCC para fins de avaliação, de acordo com as normas
+internas do seu Curso e/ou do Departamento, atendendo as instruções específicas e
+correlatas da Associação Brasileira de Normas Técnicas – ABNT para a apresentação de
+trabalhos acadêmicos;
+V - comparecer em data e local determinados, desde que previsto nas normas internas do
+seu Curso e/ou do Departamento, para a apresentação oral do trabalho, de acordo com o
+calendário estabelecido pelo coordenador da disciplina, ou pela Coordenação do Colegiado
+do respectivo Curso.
+CAPÍTULO VI - DO PROJETO DE PESQUISA
+Art. 14 - O projeto de pesquisa, de plena responsabilidade do discente, para o seu
+desenvolvimento, está sujeito à aprovação pelo professor-orientador, desde que atendidos
+os critérios estabelecidos pelo Colegiado de Curso, inclusive o cronograma definido e
+aprovado para o semestre acadêmico.
+Art. 15 - A fim de garantir o ineditismo da pesquisa, a aprovação do projeto está
+condicionada à inexistência de trabalho já apresentado com uma abordagem similar,
+ressalvando-se o caso, quando, com o aval do professor-orientador, se caracterize um
+tratamento diferenciado para o mesmo tema.
+Art. 16 - A alteração da proposta inicial poderá ser acatada, desde que a(s) mudança(s)
+solicitada(s) pelo discente e aceita(s) pelo seu professor-orientador, permita(m) a finalização
+do TCC e/ou produção da monografia no prazo estabelecido.
+CAPÍTULO VII - DA COMISSÃO AVALIADORA
+Art. 17 - A Comissão Avaliadora do TCC, mediante indicação do Colegiado do Curso, ouvida
+a Coordenação do TCC, deverá ser composta pelo professor-orientador e por dois outros
+docentes em exercício, com titulação mínima em especialização, reconhecida experiência
+como professor e/ou como pesquisador na área em foco.
+§ 1º - Na composição da Comissão Avaliadora, de acordo com as normas internas de cada
+curso, poderá ser incluído um membro escolhido entre os professores de outros Colegiados
+do próprio Departamento, ou de outra Unidade de Ensino da Universidade.
+116
+
+§ 2º - A indicação da Comissão Avaliadora, poderá, ainda, incluir docentes de instituição
+congênere, vinculados à área de abrangência da pesquisa, cabendo ao Departamento,
+quando previsto nas suas normas internas, a previsão de desembolso para a remuneração
+destes professores.
+§ 3º - O Coordenador do Colegiado de Curso, ao indicar os professores para a composição
+da Comissão Avaliadora, excetuando-se os casos dos professores-orientadores, cuja
+presença é obrigatória, deve buscar manter a equidade no número de indicações, limitando
+a participação de cada docente em, no máximo, 05(cinco) comissões por semestre
+acadêmico.
+CAPÍTULO VIII - DA APRESENTAÇÃO E AVALIAÇÃO DO TCC
+Art. 18 - O produto final do TCC a ser apresentado para avaliação, seja na sua composição
+como texto monográfico ou sob outra modalidade conforme previsto no Art. 2º deste
+Regulamento, deverá ser elaborado, expressamente de acordo com estas disposições, com
+as normas internas do Colegiado de Curso e instruções correlatas da Associação Brasileira
+de Normas Técnicas – ABNT, em vigor.
+Art. 19 - De acordo com a especificidade do projeto de pesquisa e respectiva abordagem do
+tema/problema, o produto final do TCC pode resultar em:
+I – teorização sobre o tema pesquisado nas diversas fontes de referência bibliográfica e/ou
+eletrônica;
+II – base teórica e aplicação prática em trabalho de campo ou de laboratório, desde que
+atendidas a abrangência e compatibilidade do trabalho quanto à área de estudo e tempo
+destinado à realização do TCC;
+III – análise de situação caracterizada como estudo de caso;
+IV – desenvolvimento de teoria ou de doutrina referente a determinado objeto de estudo.
+Art. 20 - O Coordenador do TCC no Departamento deverá elaborar calendário, fixando os
+prazos para a entrega do trabalho final para avaliação e/ou apresentação e defesa oral do
+TCC, quando previsto este evento nas normas internas de cada Curso.
+117
+
+Parágrafo Único - As datas de que trata o caput deste artigo deverão ser comunicadas à
+Direção do Departamento e, por extensão, aos órgãos competentes para inserção no
+calendário da Universidade, sem prejuízo de outras atividades ou eventos já programados.
+Art. 21 – A versão final do TCC, atendendo data fixada em cronograma específico deverá
+ser entregue à Coordenação do TCC, em três vias impressas, até 30 (trinta) dias que
+antecedem a data do final do semestre letivo para encaminhamento aos membros da
+Comissão Avaliadora que, de acordo com as normas de cada Curso, emitirão parecer
+conclusivo e nota final.
+Parágrafo Único - Compete à Coordenação do TCC estabelecer cronograma para:
+a) devolução do TCC pela Comissão Avaliadora à Coordenação do Colegiado e, por esta,
+conseqüentemente encaminhado ao discente para acréscimos ou alterações ao texto, se
+necessários;
+b) cumprimento pelo discente das recomendações da Comissão Avaliadora e apresentação
+do TCC, sem prejuízo da data de encerramento do semestre letivo.
+Art. 22 - A Comissão Avaliadora deverá dispor de orientação para aplicação uniforme dos
+critérios de avaliação dos TCCs, abordando entre outros aspectos:
+I - conteúdo, fidelidade ao tema e metodologia adotada no desenvolvimento do trabalho;
+II - coesão e coerência do texto e atendimento ao nível culto da língua portuguesa;
+III - estrutura formal da monografia, quando for o caso, de acordo com as normas técnicas
+para o trabalho acadêmico.
+IV - estruturação dos trabalhos produzidos na forma do item III do Art. 3º deste
+Regulamento.
+Art. 23 - Será aprovado o discente que obtiver nota igual ou superior a 7,0 (sete) valor obtido
+pela aplicação da média aritmética das notas individuais atribuídas ao seu trabalho pelos
+membros da Comissão Avaliadora, para cujo resultado, não será permitido qualquer recurso
+para a revisão e/ou alteração das notas consignadas.
+Art. 24 - O resultado da avaliação do TCC, de acordo com as normas específicas do curso,
+deverá ser registrado:
+I - em ata especialmente destinada para tal fim, na qual se explicitem os pareceres da
+Comissão Avaliadora e a média final alcançada pelo discente;
+118
+
+II - diretamente no Diário de Classe pelo Coordenador da disciplina com base nos pareceres
+dos examinadores, arquivando-se aqueles pareceres como prova documental da avaliação
+efetuada. 8
+Art. 25 - O produto final do TCC, expressamente estruturado conforme a NBR nº
+14.724/2002, da Associação Brasileira de Normas Técnicas (ABNT), deverá ser entregue
+pelo discente à Coordenação do TCC, devidamente formatado, gravado em disquete ou CD-
+Rom, com duas vias impressas, encadernadas e com lombada, de acordo com os itens
+4.1.1 e 4.1.2 da norma citada, adiante descritos, sendo uma via encaminhada para o
+Colegiado do Curso e a outra destinada à Biblioteca Central da UNEB para conhecimento e
+consulta pela comunidade acadêmica e por outros usuários.
+Capa, com as informações transcritas na seguinte ordem:
+a) nome da Instituição;
+b) nome do(s) autor(es);
+c) título;
+d) subtítulo, se houver;
+e) local (cidade) da Instituição onde deve ser apresentado o trabalho;
+f) ano de depósito (entrega)
+Lombada
+a) nome do(s) autor(es), impresso longitudinalmente e legível, do alto para o pé da
+lombada. Forma que possibilita a leitura quando o trabalho está no sentido horizontal, com a
+face voltada para cima;
+b) título do trabalho, impresso no mesmo formato do nome do(s) autor(es);
+Parágrafo Único - Para os fins previstos no caput deste artigo, as normas internas do Curso,
+deverão definir o estilo da capa do TCC e, mesmo, quando inserida qualquer diferenciação
+como característica do curso quanto à gramatura e cor do papel da referida capa, sob o
+consenso da Coordenação do TCC e do Colegiado do Curso, devem ser observados os
+critérios de economia e simplicidade.
+Art. 26 - Sendo prevista a apresentação oral e defesa da versão final do TCC, em data, local
+e horário a serem definidos em cada Departamento, pela Coordenação do TCC juntamente
+com os Colegiado(s) do(s) Curso(s), além de ser de pleno conhecimento do autor do
+119
+
+trabalho e do seu professor- orientador, como forma de sociabilização do saber, o evento
+deverá ser divulgado para a comunidade acadêmica local.
+§ 1º - O discente, para a apresentação e defesa oral do TCC, poderá dispor de até trinta
+minutos para exposição do seu tema, devendo solicitar com 72 (setenta e duas) horas de
+antecedência o material de suporte à sua exposição, desde que disponível no Departamento
+ao qual é vinculado o Curso.
+§ 2º - No cronograma da apresentação prevista no caput deste artigo, deve ser destinado
+espaço de tempo para críticas e comentários da Comissão Avaliadora e para réplica pelo
+discente, quando couber.
+§ 3º - O discente reprovado uma única vez no trabalho de conclusão de curso, terá
+oportunidade para nova defesa, em data determinada pelo Colegiado de Curso.
+Art. 27 - O discente que não conseguir aprovação no Trabalho de Conclusão de Curso ou
+em componente curricular afim deverá matricular-se no semestre seguinte na disciplina
+correspondente, podendo, no caso de Projeto de Pesquisa ou TCC manter o mesmo tema
+que vinha sendo desenvolvido ou pesquisado.
+Art. 28 - A colação de grau e o recebimento do respectivo diploma pelo discente ficam
+condicionados, irrevogavelmente, à entrega da versão final do TCC no prazo estipulado e à
+obtenção da nota mínima para aprovação, conforme se estabelece no Art. 23 deste
+Regulamento.
+CAPÍTULO IX - DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+Art. 29 - Compete aos Departamentos, através dos Colegiados de Cursos, sem prejuízo
+deste Regulamento, como forma de normalizar a produção do TCC no âmbito da UNEB, a
+elaboração de normas internas para aquele trabalho acadêmico, de acordo com a
+especificidade de cada Curso, cujas normas deverão ser homologadas pela Pró-Reitoria de
+Ensino de Graduação.
+Parágrafo Único - O ajuste nas normas internas de cada Curso, na forma do caput deste
+artigo, deverá ser efetuado no prazo máximo de 60(sessenta) dias contados da data em que
+entrar em vigor o presente Regulamento, conforme o estabelecido no Art. 33 deste
+documento.
+120
+
+Art. 30 - Na forma da Lei nº 9.610/98, são reservados à Universidade do Estado da Bahia –
+UNEB, todos os direitos referentes à produção científica dos discentes, decorrentes da
+execução do Trabalho de Conclusão de Curso, nas suas diversas modalidades conforme
+previsto no Art. 3º deste Regulamento.
+Parágrafo Único - Ressalvando-se aspectos do direito autoral, excetuam-se das
+recomendações inscritas no caput deste artigo, os trabalhos desenvolvidos pelo discente
+com total independência em relação ao suporte da Universidade.
+Art. 31 - O discente deve ter conhecimento das normas que regem a propriedade intelectual,
+assumindo a responsabilidade civil e criminal decorrente, por qualquer ato ilícito praticado
+quando da elaboração do trabalho acadêmico em suas fases de fundamentação teórica e/ou
+de execução prática.
+Art. 32 – A solução de casos especiais ou considerados em regime de exceção, por
+solicitação do discente, sem exclusão das demais instâncias da Universidade, em princípio,
+é de competência da Coordenação do TCC no Departamento, juntamente com o respectivo
+Colegiado de Curso, para análise e parecer sobre o requerido, desde que comprove o
+peticionário que:
+I - o disposto neste Regulamento e nas normas específicas do Departamento e/ou do Curso
+e demais aspectos legais foram atendidos;
+II - o fato gerador da solicitação seja caracterizado como de força maior;
+III - as requisições que demandem ajustes ou prorrogação de prazo na condução do
+processo de produção do TCC sejam devidamente justificadas pelo discente e/ou pelo seu
+professor-orientador.
+Art. 33 - O presente Regulamento deverá entrar em vigor na data inicial do período
+acadêmico seguinte ao semestre em que for publicado o ato no Diário Oficial do Estado.
+121
+
+2.5.3 Atividades Complementares (AC)
+As Atividades Complementares - AC são componentes curriculares enriquecedores e
+implementadores do perfil de egresso que possibilitam o reconhecimento, por avaliação, de
+habilidades, conhecimentos e competências discentes, inclusive adquiridas fora do ambiente
+acadêmico, incluindo a prática de estudos e atividades independentes, transversais,
+opcionais, de interdisciplinaridade, especialmente nas relações com o mundo do trabalho,
+com a pesquisa e mundo acadêmico e com as ações de extensão junto à comunidade.
+As Atividades Complementares no Curso de Bacharelado em Jornalismo terão carga horária
+total de 200 horas, em conformidade com as Diretrizes Curriculares Nacionais para os
+cursos de Jornalismo (Resolução Nº 01/2013) do CNE/CES e Resolução 1.022/2008 –
+CONSEPE/UNEB, que determinam a integralização ao longo do Curso, em diferentes
+eventos e espaços de formação profissional, inter e/ou intra institucional.
+Por atividades complementares, compreendem-se atividades, cumpridas pelo aluno, de
+natureza científica, técnica e artística, com a finalidade de aprofundar, ampliar e consolidar a
+sua formação acadêmico-cultural, permitindo a construção de conhecimentos e a interação
+com a sociedade. Poderão ser realizadas por meio de disciplinas cursadas através de
+mobilidade discente, participação em eventos, em produtos de comunicação, programas de
+iniciação científica, monitoria de ensino e/ou extensão, atividades laboratoriais, seminários,
+dentre outros, permitindo ao discente a participação efetiva em seu processo de formação,
+atendendo à atualização do conhecimento com vistas à sua qualificação como profissional
+da área.
+As Diretrizes Curriculares para área de Jornalismo recomendam ainda como atividade
+complementar a participação em programas especiais de capacitação do estudante, a
+exemplo do CAPES - Programa de Educação Tutorial.
+Por determinação institucional, os Departamentos devem constituir comissões para análise
+e validação de documentação e pleitos dos discentes sobre aproveitamento da carga horária
+das referidas atividades, bem como deliberação de casos omissos, cumprindo calendário
+previsto a cada semestre, divulgado por esta Universidade.
+Veja a seguir a resolução CONSEPE n. 1022/2008, que regulamenta as Atividades
+Complementares para os cursos de Bacharelado da UNEB.
+122
+
+123
+
+124
+
+125
+
+126
+
+127
+
+4.5.4. Matriz curricular
+
+Construído como um curso de modalidade presencial, na organização da carga horária o
+projeto procurou seguir as recomendações do Parecer CNE/CES 108/2003 (07/05/2003),
+que prevê a duração dos cursos presenciais de bacharelado respeitando-se um mínimo de
+200 dias letivos/ano; e as Diretrizes Curriculares Nacionais para o Curso de Jornalismo
+(Resolução CNE/CES Nº 01/2013) que normatiza a construção dos currículos da área e
+estipula as cargas horárias com um mínimo de 3.000 horas de formação. A partir de tais
+determinações e respeitando o projeto pedagógico do curso de Jornalismo foi estruturado
+para uma integralização em 3.165 horas assim distribuídas:
+
+DEMONSTRATIVO  DE  DISTRIBUIÇÃO  DA  CARGA  HORÁRIA  TOTAL  –
+COMUNICAÇÃO
+|     | COMPONENTES                       | CURRICULARES  | CIENTÍFICOS  | E  CARGA  |     |
+| --- | --------------------------------- | ------------- | ------------ | --------- | --- |
+|     | CULTURAIS                         |               |              | HORÁRIA   |     |
+|     | COMPONENTES TEÓRICOS / PRÁTICOS   |               |              | 2445      |     |
+CURSO
+|        | TCC                 |     |     | 200    |     |
+| ------ | ------------------- | --- | --- | ------ | --- |
+|        | AC                  |     |     | 200    |     |
+|        | SEMINÁRIOS          |     |     | 120    |     |
+|        | ESTÁGIO CURRICULAR  |     |     | 200    |     |
+| TOTAL  |                     |     |     | 3.165  |     |
+
+A composição semestral dos componentes curriculares para integralização do curso foi
+planejada  visando  atender  ao  artigo  6º  da  Resolução  01/2013  que  trata  dos  eixos  de
+formação. Abaixo estão dispostas as disciplinas previstas, com respectiva carga horária,
+pré-requisitos e os eixos de fundamentação e formação:
+
+Tabela 06 – Matriz Curricular -Integralização do Curso de Jornalismo – Bacharelado
+
+| Tempo Mínimo: 09 semestres  |     |     |     |     |     |
+| --------------------------- | --- | --- | --- | --- | --- |
+Carga Horária Total: 3.165 h
+Tempo Máximo: 15 semestres
+
+CARGA
+| COMPONENTE CURRICULAR  |     | SEM.  | EIXO  |     | PRÉ-REQUISITO  |
+| ---------------------- | --- | ----- | ----- | --- | -------------- |
+HORÁRIA
+| Comunicação, Realidade Brasileira e  |           | Fundamentação  |              |     |     |
+| ------------------------------------ | --------- | -------------- | ------------ | --- | --- |
+|                                      |           | 1º             |              | 60  | -   |
+|                                      | Regional  |                | Humanística  |     |     |
+Fundamentação
+| Filosofia e Comunicação  |     | 1º  |     | 60  | -   |
+| ------------------------ | --- | --- | --- | --- | --- |
+Humanística
+Formação
+| Produção de Textos I  |     | 1º  | Profissional e  | 60  | -   |
+| --------------------- | --- | --- | --------------- | --- | --- |
+Aplicação
+128
+
+Processual de
+Práticas
+Laboratoriais
+Fundamentação
+|     | Introdução ao Jornalismo  | 1º  |     | 45  |     | -   |
+| --- | ------------------------- | --- | --- | --- | --- | --- |
+Humanística
+| Metodologia da Ciência e do Trabalho  |            |     | Fundamentação  |     |     |     |
+| ------------------------------------- | ---------- | --- | -------------- | --- | --- | --- |
+|                                       |            | 1º  |                | 60  |     | -   |
+|                                       | Acadêmico  |     | Humanística    |     |     |     |
+ Fundamentação
+| Língua Inglesa Instrumental  |     | 1º  |     | 45  |     |     |
+| ---------------------------- | --- | --- | --- | --- | --- | --- |
+Humanística
+|     | Carga horária total do semestre  |     |     | 330  |     | -   |
+| --- | -------------------------------- | --- | --- | ---- | --- | --- |
+Fundamentação
+| Sociologia e Comunicação  |     | 2º  |     | 60  |     | -   |
+| ------------------------- | --- | --- | --- | --- | --- | --- |
+Humanística
+Fundamentação
+|     | Teorias da Comunicação  | 2º  |     | 60  |     | -   |
+| --- | ----------------------- | --- | --- | --- | --- | --- |
+Contextual
+Formação
+Profissional e
+|     |                        |     | Aplicação      |     | Produção de  |           |
+| --- | ---------------------- | --- | -------------- | --- | ------------ | --------- |
+|     | Produção de Textos II  | 2º  |                | 60  |              |           |
+|     |                        |     | Processual de  |     |              | Textos I  |
+Práticas
+Laboratoriais
+Fundamentação
+| Comunicação e Novas Tecnologias   |     | 2º  |     | 60  |     | -   |
+| --------------------------------- | --- | --- | --- | --- | --- | --- |
+Contextual
+  Fundamentação
+|     |                                  | 2º  |             | 60   |     | -   |
+| --- | -------------------------------- | --- | ----------- | ---- | --- | --- |
+|     | História do Jornalismo           |     | Contextual  |      |     |     |
+|     | Carga horária total do semestre  |     |             | 300  |     | -   |
+Fundamentação
+| Antropologia e Comunicação  |     | 3º  |     | 60  |     | -   |
+| --------------------------- | --- | --- | --- | --- | --- | --- |
+Humanística
+Fundamentação
+|     | Teorias da Imagem  | 3º  |     | 60  |     | -   |
+| --- | ------------------ | --- | --- | --- | --- | --- |
+Específica
+Fundamentação
+|     | Teorias do Jornalismo  | 3º  |     | 60  |     | -   |
+| --- | ---------------------- | --- | --- | --- | --- | --- |
+Contextual
+Formação
+Profissional e
+Aplicação
+|     | Redação Jornalística I  | 3º  |     | 60  |     | -   |
+| --- | ----------------------- | --- | --- | --- | --- | --- |
+Processual de
+Práticas
+Laboratoriais
+Formação
+Profissional e
+Aplicação
+|     | Radiojornalismo I  | 3º  |     | 60  |     |     |
+| --- | ------------------ | --- | --- | --- | --- | --- |
+Processual de
+Práticas
+Laboratoriais
+|     | Carga horária total do semestre  |     |     | 300  |     | -   |
+| --- | -------------------------------- | --- | --- | ---- | --- | --- |
+CARGA
+SEM
+| COMPONENTE CURRICULAR  |     |     | EIXO  | HORÁRI | PRÉ-REQUISITO  |     |
+| ---------------------- | --- | --- | ----- | ------ | -------------- | --- |
+..
+A
+Fundamentação
+| Análise do Discurso Midiático  |     | 4º  |     | 60  |     | -   |
+| ------------------------------ | --- | --- | --- | --- | --- | --- |
+Contextual
+Formação
+Profissional e
+|     | Planejamento Visual  | 4º  | Aplicação  | 60  |     | -   |
+| --- | -------------------- | --- | ---------- | --- | --- | --- |
+Processual de
+Práticas
+129
+
+Laboratoriais
+Fundamentação
+|     |     | Fotografia  | 4º  |     | 60  |     | -   |
+| --- | --- | ----------- | --- | --- | --- | --- | --- |
+Contextual
+Formação
+Profissional e
+|     |     |                          |     | Aplicação      |     | Redação         |     |
+| --- | --- | ------------------------ | --- | -------------- | --- | --------------- | --- |
+|     |     | Redação Jornalística II  | 4º  |                | 60  |                 |     |
+|     |     |                          |     | Processual de  |     | Jornalística I  |     |
+Práticas
+Laboratoriais
+Formação
+Profissional e
+Aplicação
+|     |     | Radiojornalismo II  | 4º  |     | 60  | Radiojornalismo I  |     |
+| --- | --- | ------------------- | --- | --- | --- | ------------------ | --- |
+Processual de
+Práticas
+Laboratoriais
+Fundamentação
+|     | Lìngua Espanhola instrumental  |     | 4º  |     | 45  |     |     |
+| --- | ------------------------------ | --- | --- | --- | --- | --- | --- |
+Humanística
+|     |     | Carga horária total do semestre  |     |     | 345  |     | -   |
+| --- | --- | -------------------------------- | --- | --- | ---- | --- | --- |
+Fundamentação
+|     | Estética em Comunicação  |     | 5º  |     | 60  |     | -   |
+| --- | ------------------------ | --- | --- | --- | --- | --- | --- |
+Humanística
+Fundamentação
+|     | Ética e Legislação em Jornalismo  |     | 5º  |     | 60  |     | -   |
+| --- | --------------------------------- | --- | --- | --- | --- | --- | --- |
+Específica
+Formação
+Profissional e
+Aplicação
+|     |     | Telejornalismo I  | 5º  |     | 60  |     | -   |
+| --- | --- | ----------------- | --- | --- | --- | --- | --- |
+Processual de
+Práticas
+Laboratoriais
+Formação
+Profissional e
+Aplicação
+|     |     | Fotojornalismo   | 5º  |     | 60  | Fotografia  |     |
+| --- | --- | ---------------- | --- | --- | --- | ----------- | --- |
+Processual de
+Práticas
+Laboratoriais
+Formação
+|     |     | Redação Jornalística III  |     | Profissional e  |     |                  |     |
+| --- | --- | ------------------------- | --- | --------------- | --- | ---------------- | --- |
+|     |     |                           |     | Aplicação       |     | Redação          |     |
+|     |     |                           | 5º  |                 | 60  |                  |     |
+|     |     |                           |     | Processual de   |     | Jornalística II  |     |
+|     |     |                           |     | Práticas        |     |                  |     |
+Laboratoriais
+|     |                                | Carga horária total do semestre  |     |                | 300  |     | -   |
+| --- | ------------------------------ | -------------------------------- | --- | -------------- | ---- | --- | --- |
+|     | Realidade Latino Americana em  |                                  |     | Fundamentação  |      |     |     |
+|     |                                |                                  | 6º  |                | 60   |     | -   |
+|     |                                | Comunicação                      |     | Contextual     |      |     |     |
+Formação
+Profissional e
+Aplicação
+|     |     | Telejornalismo II  | 6º  |     | 60  | Telejornalismo I  |     |
+| --- | --- | ------------------ | --- | --- | --- | ----------------- | --- |
+Processual de
+Práticas
+Laboratoriais
+Formação
+Profissional e
+|     |     | Jornalismo Online   | 6º  | Aplicação  | 60  |     | -   |
+| --- | --- | ------------------- | --- | ---------- | --- | --- | --- |
+Processual de
+Práticas
+130
+
+Laboratoriais
+Formação
+Profissional e
+Aplicação
+| Assessoria em Jornalismo  |     | 6º  | 60  | -   |
+| ------------------------- | --- | --- | --- | --- |
+Processual de
+Práticas
+Laboratoriais
+Fundamentação
+| Comunicação e Educação  |     | 6º  | 60  | -   |
+| ----------------------- | --- | --- | --- | --- |
+Contextual
+Fundamentação
+| Seminário Interdisciplinar 1  |     | 6º  | 30  |     |
+| ----------------------------- | --- | --- | --- | --- |
+Contextual
+|     | Carga horária total do semestre  |     | 330  | -   |
+| --- | -------------------------------- | --- | ---- | --- |
+|     |                                  |     |      |     |
+131
+
+|                                    |                   | SEM. |                | CARGA    |                |     |
+| ---------------------------------- | ----------------- | ---- | -------------- | -------- | -------------- | --- |
+| COMPONENTE CURRICULAR              |                   |      | EIXO           |          | PRÉ-REQUISITO  |     |
+|                                    |                   | .    |                | HORÁRIA  |                |     |
+| Teoria e Método de Pesquisa em     |                   |      | Fundamentação  |          |                |     |
+|                                    |                   | 7º   |                | 75       |                | -   |
+|                                    | Jornalismo        |      | Específica     |          |                |     |
+| Comunicação, Movimentos Sociais e  |                   |      | Fundamentação  |          |                |     |
+|                                    |                   | 7º   |                | 60       |                | -   |
+|                                    | Direitos Humanos  |      | Específica     |          |                |     |
+| Planejamento e Gestão da           |                   |      | Fundamentação  |          |                |     |
+|                                    |                   | 7º   |                | 60       |                | -   |
+|                                    | Comunicação       |      | Específica     |          |                |     |
+Formação
+Profissional e
+| Comunicação em Plataformas  |             |     | Aplicação      |     |                    |     |
+| --------------------------- | ----------- | --- | -------------- | --- | ------------------ | --- |
+|                             |             | 7º  |                | 60  | Jornalismo Online  |     |
+|                             | Multimeios  |     | Processual de  |     |                    |     |
+Práticas
+Laboratoriais
+| Comunicação Comunitária e Mediação  |               |     | Fundamentação  |     |     |     |
+| ----------------------------------- | ------------- | --- | -------------- | --- | --- | --- |
+|                                     |               | 7º  |                | 45  |     |     |
+|                                     | de Conflitos  |     | Contextual     |     |     |     |
+Fundamentação
+| Seminário Interdisciplinar  |     | 7º  |     | 30  |     |     |
+| --------------------------- | --- | --- | --- | --- | --- | --- |
+Contextual
+|     | Carga horária total do semestre  |     |     | 330  |     | -   |
+| --- | -------------------------------- | --- | --- | ---- | --- | --- |
+Teoria e Método
+Fundamentação
+| Seminários Avançados  |     | 8º  |     | 60  | de Pesquisa em  |     |
+| --------------------- | --- | --- | --- | --- | --------------- | --- |
+Específica
+Jornalismo
+Fundamentação
+|     | Documentário  | 8º  |     | 60  |     | -   |
+| --- | ------------- | --- | --- | --- | --- | --- |
+Específica
+| Empreendedorismo e Inovação em  |              |     | Fundamentação  |     |     | -   |
+| ------------------------------- | ------------ | --- | -------------- | --- | --- | --- |
+|                                 |              | 8º  |                | 45  |     |     |
+|                                 | Comunicação  |     | Específica     |     |     |     |
+Fundamentação
+| Tópicos Especiais em Jornalismo  |     | 8º  |     | 45  |     |     |
+| -------------------------------- | --- | --- | --- | --- | --- | --- |
+Específica
+Fundamentação
+| Comunicação, Cultura e Poder  |     | 8º  |     | 60  |     |     |
+| ----------------------------- | --- | --- | --- | --- | --- | --- |
+Contextual
+| Comunicação  e Desenvolvimento   |                                  |     | Fundamentação   |      |             |     |
+| -------------------------------- | -------------------------------- | --- | --------------- | ---- | ----------- | --- |
+|                                  |                                  | 8º  |                 | 60   |             |     |
+|                                  | Territorial Sustentável          |     | Específica      |      |             |     |
+|                                  | Carga horária total do semestre  |     |                 | 330  |             | -   |
+|                                  |                                  |     | Fundamentação   |      | Seminários  |     |
+| Trabalho de Conclusão de Curso   |                                  | 9º  |                 | 200  |             |     |
+|                                  |                                  |     | Específica      |      | Avançados   |     |
+Formação
+Profissional e
+Aplicação
+| Estágio Supervisionado  |     | 9º  |     | 200  |     |     |
+| ----------------------- | --- | --- | --- | ---- | --- | --- |
+Processual de
+Práticas
+Laboratoriais
+|     | Carga horária total do semestre  |     |     |      400  |     | -   |
+| --- | -------------------------------- | --- | --- | --------- | --- | --- |
+|     | Carga Horária Total do Curso     |     |     | 2.965     |     |     |
+
+Além dos conteúdos propostos para os componentes acima apresentados, são acrescidas
+200 horas de Atividades Complementares, a serem realizadas livremente pelos alunos, de
+acordo com regulamentação específica, totalizando 3.165 horas.
+
+FLUXOGRAMA
+
+132
+
+1º sem  2º sem  3º sem  4º sem  5º sem  6º sem  7º sem  8º sem  9º sem
+Comunicaçã Sociologia e  Antropologia  Análise do  Estética  Realidade  Teoria e  Seminários  Trabalho
+o, Realidade  Comunicaçã e  Discurso  em  Latino  Método de  Avançados -  de
+|               |          |            | Midiático - 60h  | Comunica  | Americana  |           |      |          |
+| ------------- | -------- | ---------- | ---------------- | --------- | ---------- | --------- | ---- | -------- |
+| Brasileira e  | o - 60h  | Comunicaçã |                  |           |            | Pesquisa  | 60h  | Conclusã |
+|               |          |            |                  | ção- 60h  | em         |           |      |          |
+| Regional -    |          | o - 60h    |                  |           |            | em        |      | o de     |
+Comunicaçã
+| 60h  |     |     |     |     |     | Jornalismo -  |     | Curso -  |
+| ---- | --- | --- | --- | --- | --- | ------------- | --- | -------- |
+o- 60h
+|     |     |     |     |     |     | 75h  |     | 200h  |
+| --- | --- | --- | --- | --- | --- | ---- | --- | ----- |
+Filosofia e  Teorias da  Teorias da  Planejamento  Ética e  Telejornalis Comunicaçã Documentário -  Estágio
+Comunicaçã Comunicaçã Imagem -  Visual - 60h Legislação  mo II - 60h  o,  60h  Supervisi
+|          |          |      |     | em         |     | Movimentos  |     |          |
+| -------- | -------- | ---- | --- | ---------- | --- | ----------- | --- | -------- |
+| o - 60h  | o - 60h  | 60h  |     |            |     |             |     | onado -  |
+|          |          |      |     | Jornalismo |     | Sociais e   |     |          |
+200h
+|     |     |     |     | - 60h  |     | Direitos  |     |     |
+| --- | --- | --- | --- | ------ | --- | --------- | --- | --- |
+Humanos -
+|     |     |     |     |     |     | 60h  |     |     |
+| --- | --- | --- | --- | --- | --- | ---- | --- | --- |
+Produção de  Produção de  Teorias do  Fotografia -  Telejornali Jornalismo  Planejamen Empreendedori
+Textos I -  Textos II -  Jornalismo -  60h  smo I -  Online - 60h  to e Gestão  smo e
+| 60h  | 60h  | 60h  |     | 60h  |     | da        | Inovação em    |     |
+| ---- | ---- | ---- | --- | ---- | --- | --------- | -------------- | --- |
+|      |      |      |     |      |     | Comunicaç | Comunicação -  |     |
+|      |      |      |     |      |     | ão - 60h  | 45h            |     |
+Introdução  Comunicaçã Redação  Redação  Fotojornali Assessoria   Comunicaç Tópicos
+smo - 60h
+ao  o e Novas  Jornalística I  Jornalística II -  em  ão em  Especiais em
+Jornalismo -  Tecnologias  - 60h  60h  Comunicaçã Plataformas  Jornalismo -
+| 45h  | - 60h  |     |     |     | o - 60h  | Multimeios -  | 45h  |     |
+| ---- | ------ | --- | --- | --- | -------- | ------------- | ---- | --- |
+60h
+Metodologia  História do  Radiojornali Radiojornalism Redação  Comunicaçã Comunicaç Comunicação,
+|               |               |              | o  II - 60h  | Jornalístic  | o e         |              |              |     |
+| ------------- | ------------- | ------------ | ------------ | ------------ | ----------- | ------------ | ------------ | --- |
+| da Ciência e  | Jornalismo -  | smo I - 60h  |              |              |             | ão           | Cultura e    |     |
+|               |               |              |              | a III - 60h  | Educação -  |              |              |     |
+| do Trabalho   | 60h           |              |              |              |             | Comunitária  | Poder - 60h  |     |
+60h
+| Acadêmico -  |     |     |     |     |     | e Mediação    |     |     |
+| ------------ | --- | --- | --- | --- | --- | ------------- | --- | --- |
+| 60h          |     |     |     |     |     | de Conflitos  |     |     |
+- 45h
+| Língua  |     |     | Língua  |     | Seminário  | Seminário  | Comunicação  |     |
+| ------- | --- | --- | ------- | --- | ---------- | ---------- | ------------ | --- |
+Interdisciplin
+| inglesa  |     |     | espanhola  |     |     | Interdiscipli | e   |     |
+| -------- | --- | --- | ---------- | --- | --- | ------------- | --- | --- |
+ar 1 - 30h
+| instrumental  |     |     | instrumental -  |     |     | nar 2 - 30h  | Desenvolvimen   |     |
+| ------------- | --- | --- | --------------- | --- | --- | ------------ | --------------- | --- |
+| - 45h         |     |     |                 |     |     |              | to Sustentável  |     |
+45h
+- 60h
+
+| 330h  | 300h  | 300h  | 345h  | 300h  | 330h  | 330h  | 330h  | 400h  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+
+|     | a)    Eixo de Formação Humanística;  |     |     |     |     |     |     |     |
+| --- | ------------------------------------ | --- | --- | --- | --- | --- | --- | --- |
+|     | b)   Eixo de Formação Específica;    |     |     |     |     |     |     |     |
+|     | c)    Eixo de Formação Contextual;   |     |     |     |     |     |     |     |
+d) Eixo de Formação Profissional e Aplicação Processual de Práticas Laboratoriais
+
+133
+
+2.7. Ementário
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+FILOSOFIA E COMUNICAÇÃO Fundamentação Humanística 60
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Apresenta os grandes sistemas de ideias: da filosofia grega ao cristianismo. O Iluminismo.
+Questões filosóficas: ética, política, metafísica, religião, conhecimento, ideologia e verdade.
+As principais correntes do modernismo e da pós-modernidade.
+CONTEÚDO PROGRAMÁTICO
+1. O pensamento filosófico – da antiguidade à modernidade
+1.1. Como o pensamento se produz na antiguidade clássica, na idade média e na
+modernidade. Liame da filosofia antiga com a Grécia e da filosofia moderna com o
+capitalismo.
+1.2. Constituição da modernidade em sua busca de fazer a separação entre um mundo
+natural e um mundo social, quando na verdade ambos aí se criam e se sustentam
+reciprocamente.
+1.3. Ciência e filosofia: o que as diferencia?
+2. A comunicação nas sociedades do século XX
+2.1. Intensificação da comunicação nas sociedades do século XX.
+2.2. Dois modelos de Teoria crítica: a do livro Dialética do esclarecimento de Horkheimer e
+Adorno, e o modelo comunicativo de Habermas.
+2.3. Operatividade coletiva, ético-política, emotiva e criativa no mundo da comunicação.
+3. Virtualização, Cibercultura e Alteridade
+3.1. Virtualização e os processos de transformação de um modo de ser em outro.
+Heterogênese, devir outro, processo de acolhimento da alteridade.
+3.2. Cibercultura: um novo tipo de universal.
+3.3. Virtualização da informação e da comunicação.
+BIBLIOGRAFIA BÁSICA
+DELEUZE, Gilles, GUATTARI, Félix. O que é filosofia? Tradução de Bento Prado Jr. E
+Alberto Muñoz . Rio de Janeiro: Editora 34, 1992.
+DOMINGUES, Ivan. O grau zero do conhecimento: o problema da fundamentação das
+ciências humanas. São Paulo: Edições Loyola, 1991.
+LÉVY, Pierre. O que é virtual? Tradução de Paulo Neves. São Paulo: Editora 34, 1996.
+_______. Cibercultura. Tradução de Carlos Irineu Costa. São Paulo: Editora 34, 1999.
+MORIN, Edgard. Cultura de massas no século XX: neurose. Tradução de Maura Ribeiro
+Sardinha. 9. ed. Rio de Janeiro: Forense Universitária, 1997.
+BIBLIOGRAFIA COMPLEMENTAR
+ADORNO, T. W. A indústria cultural. In: CHON, Gabriel. Comunicação e indústria
+cultural. São Paulo: Ed. Nacional, 1978.
+CAMPOS, Haroldo. Da razão antropofágica: diálogo e diferença na cultura brasileira.
+Biblioteca Mário de Andrade. São Paulo: [s.n], 1983.
+NOBRE, Marcos. Teoria crítica. Rio de Janeiro: Jorge Zahar, 2004.
+PARENTE, André (org.). Imagem: a era das tecnologias do virtual. Tradução de Rogério
+Luz et alii. Rio de Janeiro: Editora34, 1993.
+VERNANT, Jean-Pierre. O universo, os deuses, os homens. Tradução de Rosa Freire
+D”Aguiar. São Paulo: Cia Da Letras, 2000.
+134
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+INTRODUÇÃO AO JORNALISMO 45
+Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Conhecer a função social do jornalismo.Como se caracteriza a profissão: a captação e a
+redação de notícias. A estrutura da notícia nos diversos meios impressos e audiovisuais,
+a organização e o funcionamento dos jornais e dos departamentos de jornalismo de
+emissoras de rádio e de televisão. Conhecer assessorias de imprensa. As agências de
+notícias. História do jornalismo no Brasil. O jornalismo como atividade industrial e seu
+desenvolvimento no contexto da aceleração do tempo: a notícia como mercadoria. A
+imprensa como instituição social: liberdades e limites. Informação e opinião. Formação da
+opinião pública e senso comum
+CONTEÚDO PROGRAMÁTICO
+1. Definições de Jornalismo
+2. História do Jornalismo Mundial; História do Jornalismo no Brasil
+3. A redemocratização e as tendências do jornalismo brasileiro
+4. Técnicas e definições básicas das diferente mídias jornalísticas
+5. Noções básicas de assessoria de imprensa
+6. Perspectivas críticas do jornalismo
+BIBLIOGRAFIA BÁSICA
+LAGE, Nilson. A reportagem. Teoria e técnica de entrevista e pesquisa jornalística. Rio
+de Janeiro: Record, 2006.
+MARCONDES FILHO, Ciro. O capital da notícia. São Paulo: Ática, 1986
+MARCONDES FILHO, Ciro. Ser Jornalista. Paulus, 2009
+MELO, José Marques. Teoria do Jornalismo, Paulus, 2006
+MELO, José Marques; ASSIS, Francisco. Gêneros Jornalísticos no
+Brasil, ed. Metodista, S.a Paulo, 2010
+BIBLIOGRAFIA COMPLEMENTAR
+KOVACH, Tom e Rosenstiel, Bill. Os elementos do jornalismo. O que os jornalistas
+devem saber e o público exigir. São Paulo: Geração Editorial, 2003.
+SOUSA PINTO, Ana Estela de. Jornalismo diário. Reflexões, recomendações, dicas,
+exercícios. São Paulo: Publifolha, 2009.
+135
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+LÍNGUA INGLESA INSTRUMENTAL 45
+Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Conhecer a Língua Inglesa para utilizá-la como instrumento de acesso às informações
+pertinentes à área de atuação jornalística, contemplando as seguintes habilidades:
+speaking (fala), listening (audição), reading (leitura) e writing (escrita), de forma a poder
+usar o idioma com propriedade, clareza e expressividade.
+CONTEÚDO PROGRAMÁTICO
+1.Tempos, modos e vozes verbais.
+2. Números, datas e horas
+3. Afirmação, negação e interrogação.
+4. Pronomes, Artigos definido e indefinido.
+5. Ordem de palavras na oração em inglês.
+6. Vocabulário básico jornalístico
+BIBLIOGRAFIA BÁSICA
+BOLTON, David & Goodey Noel. GRAMMAR PRACTICE IN CONTEXT. Richmond
+Publisihing, 1997
+SOUZA, Fiori Grade Adriana. LEITURA EM LÍNGUA INGLESA Uma abordagem
+Instrumental. Disal. São Paulo, 2005.
+MURPHY, Raymond. English Grammar in Use, Cambridge University, 1985.
+BIBLIOGRAFIA COMPLEMENTAR
+HORNBY, A.S.OXFORD ADVANCED LEARNERS’S DICTIONARY of Current English.
+Oxfort University Press Oxford, 1995.
+136
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+LÍNGUA ESPANHOLA INSTRUMENTAL 45
+Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Conhecer a Língua Espanhola, habilidades de compreensão e produção orais e escritas
+em língua espanhola, visando a apreensão do vocabulário necessário à leitura de textos
+jornalísticos e literários em língua espanhola.
+CONTEÚDO PROGRAMÁTICO
+1.Leitura e interpretação em Língua Espanhola
+2.Estruturas gramaticais essenciais para a coesão e coerência textual
+3.Expressões idiomáticas, estruturas funcionais
+4.Estratégias de leitura e compreensão textual
+5.Atividades de uso do dicionário.
+BIBLIOGRAFIA BÁSICA
+ALVES, Adda-Nari M., MELLO, Angélica. Mucho – Español para brasileños. São Paulo:
+Moderna, 2001.
+Dicionário Brasileiro Espanhol – Português Português – Espanhol. 2 ed. São Paulo:
+Oficina de Textos, 2000.
+HERMOSO, A. Gonzales; CUENOT, J. R.; ALFARRO, M. Sánches. Gramática de español
+lengua extranjera – normas, recursos para la comunicación. 3 ed. Madrid: Edelsa, 1995.
+HERMOSO, A. Gonzales; ALFARRO, M. Sánches. Español lengua extranjera – curso
+práctico nivel 1. 2 ed. Madrid: Edelsa, 1995.
+BIBLIOGRAFIA COMPLEMENTAR
+CISNEROS, Isabel. Hugo Latin-American Spanish in Three Months. London: Dorling
+Kindersley Limited, 2003.
+DICIONÁRIO SANTILLANA PARA ESTUDANTES. São Paulo: Moderna, 2008.
+GRAMÁTICA ESPAÑOLA. São Paulo: Moderna, 2002. GRAMÁTICA ESSENCIAL DE
+ESPANHOL. Lisboa: Editorial Presença, 2009.
+137
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Formação Profissional,
+PRODUÇÃO DE TEXTOS I Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Produção de Textos II
+EMENTA
+Discute as funções da linguagem na expressão e na comunicação. Tipologia e
+estrutura dos textos descritivo, narrativo e dissertativo. Princípios da coesão e
+coerência textual. A comunicação e a expressão literárias. Exercícios de leitura,
+produção e interpretação de textos.
+CONTEÚDO PROGRAMÁTICO
+1. Distinção entre Língua, Linguagem e Comunicação
+2. Elementos da comunicação: Canal de Comunicação, Código e Signo, Níveis e
+Funções de Linguagem;
+3. As tipologias textuais e as tramas da narrativa – texto descritivo, narrativo e
+dissertativo;
+4. Coesão e coerência textuais no jornalismo;
+5. Aspectos morfossintáticos pertinentes à produção de textos conforme a tipologia
+textual;
+6. Características e desenvolvimento do texto jornalístico
+BIBLIOGRAFIA BÁSICA
+KOCH, Ingenore G. Villaça. Argumentação e linguagem. 3. ed. São Paulo: Cortez,
+1993.
+_______. A coerência textual. São Paulo: Contexto, 1993.
+_______. Coesão Textual. São Paulo: Contexto, 2000.
+_______. Texto e coerência. São Paulo: Cortez, 2001.
+BIBLIOGRAFIA COMPLEMENTAR
+ABREU, Antônio Suarez. Curso de Redação. São Paulo: Ática, 2000.
+BAKHIM, Mikhail. Marxismo e filosofia na linguagem. Trad. Michel Laud, Yara
+Frteschi Vieira. 8. ed. São Paulo: Hucitec, 1997.
+CAMARA, Junior Mattoso. Dicionário de linguística e gramática. 8. ed. Petrópolis:
+Vozes, 1978.
+KLEIMAN, Ângela. Texto e leitor aspectos cognitivos da leitura. 4. ed. Campinas:
+Pontes, 1995.
+LUFT, Celso Pedro. Dicionário prático da regência verbal. São Paulo: Ática, 1987.
+MACAMBIRA, José Rebouças. A estrutura morfossintática do Português. 3. ed.
+São Paulo: Pioneira, 1978.
+SIQUEIRA J. S. Organização textual da narrativa. São Paulo: Selinuunte, 1992.
+VAL, Maria da Graça Costa. Redação e textualidade. São Paulo: Martins, 2001.
+VANOYE, F. Uso da linguagem. São Paulo: Martins Fontes, 1983.
+138
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+METODOLOGIA DA CIÊNCIA E DO Fundamentação
+60
+TRABALHO ACADÊMICO Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Introduz os conceitos de trabalho científico e o método científico. Processos e técnicas
+de elaboração do trabalho científico: diretrizes metodológicas para a leitura,
+compreensão e fichamento de textos; elaboração de seminários; artigo científico;
+resenha; resumo e relatório. Normas da ABNT.
+CONTEÚDO PROGRAMÁTICO
+1. Distinção entre conhecimento científico e outras formas de conhecimento (científico,
+teológico,etc)
+2. Os pressupostos básico do processo científico – a ciência como verificação do real,
+confiabilidade dos dados, divulgação externa, crítica à objetividade versus
+subjetividade; as áreas de conhecimento, a função da pesquisa.
+3. Os tipos de texto científico: fichamento, resenha crítica e descritiva, relato de
+experiência e relatório científico, artigos científicos/comunicação científica, ensaio.
+4. Sistemas de Referência e Normas de Citação: Citação Direta, Citação Indireta e
+Citação Bibliográfica. Normas Bibliográficas – ABNT.
+BIBLIOGRAFIA BÁSICA
+BOAVENTURA, Edivaldo. Metodologia da Pesquisa: monografia, dissertação, tese.
+São Paulo: Atlas, 2004.
+KOCHE, José Carlos. Fundamentos de Metodologia Científica: Teoria da Ciência e
+Prática de Pesquisa. Petrópolis: Vozes, 1999.
+LUDKE, Menga, André, Marli. Pesquisa Qualitativa em educação: abordagens
+qualitativas. São Paulo: EPU, 1986.
+MEDEIROS, João Bosco. Redação Científica: a prática de fichamentos, resumos e
+resenhas. 4. ed. São Paulo: Ática, 2000.
+SANTOS, Antônio Raimundo. Metodologia científica: a construção do conhecimento.
+7. ed. Rio de Janeiro: Lamparina, 2007.
+SEVERINO, Antônio Joaquim. Metodologia do Trabalho Científico: diretrizes para o
+trabalho didático científico na Universidade. São Paulo: Cortez e Moraes, 2001.
+BIBLIOGRAFIA COMPLEMENTAR
+DUARTE, J. e BARROS, A (Org.). Métodos e técnicas de Pesquisa em
+Comunicação. São Paulo: Atlas, 2005.
+SOUZA, Francisco das Chagas de. Apresentação e elaboração de projetos e
+monografias. Niterói: Universidade Federal Fluminense, 1997.
+139
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Formação Profissional,
+PRODUÇÃO DE TEXTOS II Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Produção de Textos I -
+EMENTA
+Reflete sobre a linguagem e argumentação: ato de argumentar e convencer. Princípios
+de organização do texto argumentativo: estrutura e tipologia. Textos e contextos
+jornalísticos. Texto e textualidade, compreensão e interpretação de textos. Exercícios
+de produção e interpretação de textos.
+CONTEÚDO PROGRAMÁTICO
+1. A Linguagem e a Comunicação
+1.1. Explanação sobre o universo da Linguagem e seus diversos níveis na
+comunicação escrita;
+1.2. Argumentação: características de um texto argumentativo, palavras e expressões
+na argumentação;
+1.3. A argumentação e a pragmática na comunicação;
+1.4. Organização do texto argumentativo: a argumentação psicológica e suas
+características
+1.5. Análise dos argumentos, enfocando tipologia, gênero e estrutura.
+2. Enunciados pressupostos e implícitos/palavras e expressões que introduzem
+opiniões;
+3. A estrutura do discurso direto e indireto nos níveis de linguagem com destaque para
+textos dissertativos e informativos;
+4. As restrições verbais nos diversos tipos de textos;
+5. Análise de resenhas e matérias críticas de caráter opinativo.
+BIBLIOGRAFIA BÁSICA
+BLIKSTEIN, Izidoro.Técnicas de Comunicação escrita. São Paulo: Ática, 1986.
+FIORINI, J. L SAVIOLI, F. Para entender o texto: leitura e redação. 2. ed. São Paulo:
+Ática, 1991.
+_______. Lições de Texto: Leitura e redação. São Paulo: Ática, 1996.
+GARCIA, O. Comunicação em Prosa Moderna. 9. ed. Rio de Janeiro: Fundação
+Getúlio Vargas, 1981.
+CORRÊA, Manoel Luiz Gonçalves. Linguagem e Comunicação Social: Visões da
+linguística moderna. São Paulo: Parábola, 2002.
+FOLHA DE SÃO PAULO. Manual da Redação. São Paulo: Publifolha, 2005.
+BIBLIOGRAFIA COMPLEMENTAR
+SIQUEIRA, J. S. Organização do texto dissertativo. São Paulo: Selinunte, 1995.
+VANOY, Francis. Usos da Linguagem (Problemas e técnicas na produção oral e
+escrita). [s.l]: Ed. Martins Fontes, 1986.
+140
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Fundamentação
+TEORIAS DA COMUNICAÇÃO 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute as várias escolas teóricas que compõem a área epistemológica da
+Comunicação Social e percorre as novas tendências da pesquisa em comunicação.
+CONTEÚDO PROGRAMÁTICO
+1. Entendendo a Comunicação e suas Teorias;
+1.1. Comunicação, Meios de Comunicação e Contexto Social
+1.2. Porque estudar Teoria da Comunicação?;
+1.3. O objeto da Comunicação e a Comunicação como objeto;
+2. A Pesquisa Norte-Americana
+2.1. Contexto e paradigmas na pesquisa norte-americana sobre a comunicação de
+massa
+2.2. Tendências funcionalistas para reflexão e/ou pesquisa;
+2.3. O funcionalismo e as principais influências na Teoria da Comunicação;
+3. A Escola de Frankfurt
+3.1. Os fundamentos da Teoria Crítica
+3.2. A essência e os desdobramentos do conceito de Indústria Cultural
+4. Outras escolas teóricas que compõem a área epistemológica da comunicação
+4.1. O pensamento francês contemporâneo: os meios de comunicação e a cultura de
+massa
+4.2. O pensamento de Marshall McLuhan: os meios de comunicação como extensão
+do homem.
+5. O enfoque teórico latino-americano da Comunicação:
+5.1. As fases da pesquisa em comunicação na América Latina;
+5.2. Herança cultural x construção de uma identidade própria;
+5.3. A comunicação latino-americana como elemento de dominação;
+5.4. Os meios e as mediações: os estudos de recepção latino-americanos.
+6. Das comunicações de massa à sociedade mediatizada: uma reflexão sobre o
+campo teórico da comunicação.
+BIBLIOGRAFIA BÁSICA
+BERLO, David. O processo de comunicação. São Paulo: Martins Fontes, 1994.
+BOUGNOUX, Daniel. Introdução às ciências da informação e da comunicação.
+Petrópolis: Vozes, 1994.
+HOHLFELDT, Antônio; MARTINO, Luiz C. e FRANÇA, Vera Veiga (orgs.). Teorias da
+Comunicação. Conceitos, escolas e tendências. Rio de Janeiro: Vozes, 2001.
+MARTIN-BARBERO, Jesus. Dos meios às mediações. Comunicação, cultura e
+hegemonia. Rios de Janeiro: Editora UFRJ, 2003.
+MATTELART, Armand e Michele. História das teorias da comunicação. Rio de
+Janeiro: Loyola, 1999.
+MORIN, Edgard. Cultura e massa do século XX: o espírito do tempo. Rio de Janeiro:
+Forense Universitária, 1975.
+SFEZ, Lucien. Crítica da comunicação. São Paulo: Loyola, 1994.
+SILVERSTONE, Roger. Por que estudar a mídia. São Paulo: Loyola, 2002.
+SODRÉ, Muniz. Antropológica do Espelho. Uma teoria da comunicação linear e em
+rede. Petrópolis: Vozes, 2008.
+WOLF, Mauro. Teorias da comunicação. Lisboa: Presença, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+141
+
+GOMES, Pedro Gilberto. Tópicos de teoria da comunicação. São Leopoldo:
+Unisinos, 1995.
+MELO, Jose Marques de. Comunicação na América Latina: desenvolvimento e crise.
+Campinas, SP: Papirus, 1989.
+TORRE, A E M.G. de la. Teorias da Comunicação na América Latina. São
+Leopoldo: UNISINOS, 2001.
+142
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Fundamentação
+TEORIAS DO JORNALISMO 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Estuda os aspectos sócio-culturais da produção de notícias nas diversas abordagens
+teóricas, enfatizando a noção de acontecimento, os processos de produção, as fontes
+e as relações de poder e a crítica ao paradigma da objetividade jornalística.
+CONTEÚDO PROGRAMÁTICO
+1. Natureza do campo
+1.1. Conceitos de Jornalismo
+1.2. Acontecimento jornalístico
+1.3. Abordagens de algumas correntes teóricas
+2. Produção:
+2.1. Newsmaking
+2.2. Rotinas Produtivas
+2.3. Gatekeeper
+3. Objetividade Jornalística
+3.1. Noção Histórica da Objetividade no Jornalismo
+3.2. Objetividade como ritual estratégico
+3.3. A crítica à objetividade jornalística
+4. Recepção
+4.1. Agenda Setting
+4.2. Espiral do Silêncio
+5. Dilemas e reflexões atuais sobre o jornalismo contemporâneo
+5.1. Tendências atuais do jornalismo em ambientes de convergência midiática
+5.2. Jornalismo Cívico, esfera pública e a responsabilidade social
+BIBLIOGRAFIA BÁSICA
+ALSINA, Miquel. A construção da notícia. Petrópolis, RJ: Vozes, 2009.
+BARROS, Clóvis. Ética na Comunicação. 4. ed. São Paulo: Summus, 2003.
+KOVACH, Bill e ROSENSTIEL, Tom. Os elementos do jornalismo: o que os
+jornalistas devem saber e o público exigir. São Paulo: Geração Editorial, 2003.
+TRAQUINA, Nelson. Teoria do Jornalismo: porque as notícias são como são. Vol I.
+Florianópolis: Insular, 2004.
+_______. Teoria do Jornalismo: a tribo jornalística. Vol II. Florianópolis: Insular, 2004.
+WOLF, Mauro. Teorias da Comunicação de Massa. Lisboa: Editorial Presença,
+1987.
+BIBLIOGRAFIA COMPLEMENTAR
+LAGE, Nilson. Linguagem Jornalística. São Paulo: Àtica,1986.
+SOUZA, Jorge Pedro. Teorias da notícia e do jornalismo. Chapecó: Grifus, 2002.
+TRAQUINA, Nelson. O estudo do jornalismo no século XX. São Leopoldo: Ed.
+Unisinos, 2001.
+_______. Jornalismo: questões, teorias e “estórias”. Lisboa: Veja, 1993.
+143
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Fundamentação
+ANTROPOLOGIA E COMUNICAÇÃO 60
+Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete criticamente sobre o homem e sua natureza cultural, discutindo as principais
+teorias antropológicas, os sistemas de representação e os sistemas simbólicos da
+realidade brasileira. Estabelece aproximações entre os campos da Antropologia e da
+Comunicação Social, enfocando a sociedade da informação e questionando o sentido
+do homem nesse contexto.
+CONTEÚDO PROGRAMÁTICO
+1. A natureza cultural do mundo humano
+1.1. O Homem e a cultura como criações humanas
+1.2. A transformação do meio pelo Homem como produção de si próprio e do seu
+mundo
+1.3. O conceito de cultura e o Homem como conceito.
+2. A imaginação operante na criação humana
+2.1. A importância do desenvolvimento da linguagem, do conhecimento e da
+tecnologia.
+2.2. A razão atuante na cultura humana como ordenadora do mundo em criação
+3. O homem no universo sociocultural
+3.1. Sociedade arcaica e sociedades históricas
+3.2. A racionalidade da cultura contemporânea e as questões da comunicação na
+sociedade da informação.
+BIBLIOGRAFIA BÁSICA
+CASTORIADIS, Cornelius. A instituição imaginária da sociedade. 5. ed. Rio de
+Janeiro: Paz e Terra, 1982.
+CERTEAU, Michel. A cultura no plural. 2. ed. Campinas/SP: Papirus,1995.
+GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: Zahar Editores,
+1978.
+GUATTARI, Félix. As três ecologias. São Paulo: Papirus, 1990.
+HARRIS, Marvin. Vacas, porcos, guerras e bruxas. Rio de Janeiro: Editor Civilização
+Brasileira, 1978.
+LAPLANTINE, François. Aprender antropologia. São Paulo: Editor Brasiliense, 1988.
+LARAIA, Roque de Barros. Cultura: um conceito antropológico. 17. ed. Rio de Janeiro:
+Jorge Zahar Editor, 2004.
+LUCKMANN, Bergman. A construção social da realidade. 9. ed. Petrópolis/RJ:
+Vozes, 1991.
+MORIN, Edgar. O enigma do homem: para uma nova antropologia. 2. ed. Rio de
+Janeiro: Achiamé, 1979.
+BIBLIOGRAFIA COMPLEMENTAR
+CHARDIN, Pierre Teilhard de. O fenômeno humano. São Paulo: Herder, 1970.
+CLASTRES, Pierre. A sociedade contra o Estado: pesquisas de Antropologia
+Política. Tradução Theo Santiago. 3. ed. Rio de Janeiro: Francisco Alves, 1986.
+MARCONI, Marina de A & PRESOTTO, Zélia M.N. Antropologia, uma introdução.
+São Paulo, SP: [s.n], 1985.
+MONDIN, Batista. O homem, quem é ele? Elementos de antropologia filosófica.
+São Paulo: Paulinas, 1980.
+144
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Formação Profissional,
+RADIOJORNALISMO I Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Radiojornalismo II
+EMENTA
+Discute a história e a legislação do rádio no Brasil: prática, teoria e experimentação da
+notícia no radiojornalismo. Formas e normas de redação para rádio, produção e pauta
+no texto para rádio, exercitando o roteiro radiofônico e verificando as funções na
+redação do veículo. Diferentes estilos e gêneros de noticiários radiofônicos, a
+captação e a seleção de notícias, a produção e a realização de programas.
+CONTEÚDO PROGRAMÁTICO
+1. História do Rádio no Brasil
+2. A Notícia no Rádio
+2.1. Conceito de Notícia
+2.2. Linguagem Radiofônica
+2.3. Normas de redação
+3. A Edição de Textos no Rádio
+3.1. Formas de Redação em Rádio; texto corrido e texto manchetado
+4. Tipos de programas Noticiosos: síntese e radiojornal; flash, edição extraordinária,
+especial, boletim, informativo especial, programa de variedades
+5. Funções na Redação
+6. Noções de roteiro radiofônico
+BIBLIOGRAFIA BÁSICA
+CÉSAR, Cyro. Como falar no rádio: prática de locução AM-FM. São Paulo: Ibrasa,
+1990.
+CHANTLER, Paul e Harris, Sim. Radiojornalismo. São Paulo: Summus, 1998.
+JUNG, Milton. Jornalismo de Rádio. 2. ed. São Paulo: Contexto, 2004.
+ORTRIWANO, Gisela Swetlana. A Informação no Rádio. São Paulo: Summus, 1985.
+PRADO, Emílio. Estrutura da Informação Radiofônica. Trad. De Marco Antônio de
+Carvalho. São Paulo: Summus, 1989.
+XAVIER, Antônio Carlos. A Linguagem do Rádio: Estratégias Verbais do
+Comunicador. São Paulo: Editora Rêspel Ltda, 2006.
+BIBLIOGRAFIA COMPLEMENTAR
+FERRRARETO, Luiz Artur. Rádio – O veículo, a história e a técnica. Porto Alegre:
+Sagra – DC Luzzato, 2000.
+KLOCKNER, Luciano. A notícia na Rádio Gaúcha. Informações básicas sobre texto,
+reportagem e produção. Porto Alegre: Sulina. 1997.
+NUNES, Lilia. Cartilhas de teatro. Manual de Voz e Dicção. Rio de Janeiro: Serviço
+Nacional de Teatro, 1997.
+145
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional,
+Aplicação Processual
+RADIOJORNALISMO II 60
+de Práticas
+Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Radiojornalismo I -
+EMENTA
+Discute a prática, teoria e a experimentação de novas linguagens do radiojornalismo
+nos meios tradicionais e na convergência midiática. O Radiojornalismo na rádio
+comunitária: reflexão, experimentação de produtos e a função social do rádio. A
+relação entre rádio e educação: o rádio como instrumento educativo.
+CONTEÚDO PROGRAMÁTICO
+1. Concepção de programas e detalhamento do radiojornalismo nos ambientes de
+convergência midiática
+1.1. Pré-produção, processo de criação, tipos, planejamento, rotina, fontes e ruídos.
+1.2. Planejamento e execução do programa laboratorial de rádio na web.
+2. Concepção de programas para rádio comunitária.
+2.1. Propostas, projetos, ações desenvolvidas pela rádio voltadas para comunidade. O
+rádio alternativo. A informação sem rodeio. Comunicação popular. Entrevista
+radiofônica. Planejamento e execução laboratorial do programa de rádio comunitária;
+3. O rádio educativo e a competição de mercado;
+3.1. Educação formal e não formal.
+3.2. Opções de programação: o rádio aberto e seletivo.
+3.3. Análise do conteúdo de emissoras educativas.
+3.4. Como oferecer a programação.
+3.5. Planejamento e execução laboratorial do programa educativo.
+4. Experimentação com produção radiofônica: revistas, documentário em rádio.
+BIBLIOGRAFIA BÁSICA
+BARBEIRO, Herodoto; LIMA, Paulo Rodolfo. Manual de radiojornalismo: produção,
+ética e Internet. 2. ed., rev e atual Rio de Janeiro: Campus, 2003.
+CESAR, Cyro. Rádio: a mídia da emoção. São Paulo: Summus, 2005.
+CITELLI, Adilson. Outras linguagens na escola: publicidade, cinema e tv, rádio,
+jogos, informática. 2. ed São Paulo: Cortez, 2001.
+LUZ, Dioclécio. Rádios comunitárias: trilha apaixonada e bem-humorada do que é e
+de como fazer rádios comunitárias, na intenção de mudar o mundo. 2. ed. Brasília:
+2001.
+PARADA, Marcelo. Rádio: 24 horas de jornalismo. São Paulo: Panda, 2000.
+PINHO, J. B. Jornalismo na Internet: planejamento e produção da informação on-
+line. São Paulo: Summus, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+AVILA, Renato; NOGUEIRA, Perez. Crie sua própria rádio web e TV digital. São
+Paulo: Brasport, 2004.
+CAUDURO, Flávio Vinicius. O Digital na Comunicação. In. LEVACOV, M; et al.
+Tendências na Comunicação. Porto Alegre: [s.n], [s.d].
+COGO, Denise M. No ar uma rádio comunitária. São Paulo: Paulinas, 1998.
+COLLIN, MATTHEW. Rádio Guerrilha – Rock e Resistência em Belgrado. São Paulo:
+Barracuda, 2006.
+DYSON, Ether. A Nova Sociedade Digital. Rio de Janeiro: Ed. Campus, 1998.
+MACHADO, Arlindo. As comunicações sobre o Impacto da Informática.
+Comunicação e Educação. São Paulo, v.1, n.2, p. 14-20, janeiro/abril, 1995.
+TAVARES, Reynaldo C. Histórias que o rádio não contou. [s.l]: Editora Harbra Ltda,
+146
+
+1999.
+147
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional,
+REDAÇÃO JORNALÍSTICA I Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Redação Jornalística II
+EMENTA
+Estabelece a diferenciação entre o jornalismo impresso e as demais mídias; distinções
+entre o jornalismo informativo, interpretativo e opinativo; características da linguagem
+jornalística; definições de notícia; elaboração de pauta; a entrevista; lead; títulos e
+legendas; edição de textos; identificação dos elementos da notícia para um novo texto,
+redução e ampliação do texto.
+CONTEÚDO PROGRAMÁTICO
+1. Diferenciação entre jornalismo impresso e demais mídias (jornalismo comparativo)
+1.1. Conceito de jornalismo interpretativo, informativo e opinativo;
+1.2. Características comuns à linguagem jornalística;
+1.3. Definição do que é notícia, lead, pirâmide invertida.
+2. O perfil da pauta e sua produção nas redações;
+3. Os caminhos da entrevista e processo de edição;
+3.1. O texto, os títulos e as legendas presentes no jornalismo diário;
+3.2. A edição de textos, sua redução e ampliação;
+4. Elaboração de um produto jornalístico de caráter informativo.
+BIBLIOGRAFIA BÁSICA
+ERBOLATO, Mário, Técnicas de codificação em jornalismo. Petrópolis: Vozes,
+1978.
+LAGE, Nilson. A reportagem: Teoria e técnica de entrevista e pesquisa jornalística.
+Rio de Janeiro: Record, 2001.
+LIMA, Edvaldo Pereira. Páginas ampliadas: o livro-reportagem como extensão do
+jornalismo e da literatura. 3. ed. São Paulo: Manole, 2004.
+MEDINA, Cremilda. Notícia um produto à venda. São Paulo: Xenono, 1997.
+NOBLAT, Ricardo. A arte de fazer um jornal diário. São Paulo: Contexto, 2004.
+SODRÉ, Muniz; FERRARI, Maria Helena. Técnica de reportagem: notas sobre a
+narrativa jornalística. São Paulo: Summus, 1986.
+BIBLIOGRAFIA COMPLEMENTAR
+ERBOLATO, Mário, Técnicas de codificação em jornalismo. Petrópolis: Vozes,
+1978.
+HENN, Ronaldo. Pauta e notícia. Canoas; Ulbra, 1996.
+LAGE, Nilson. Estrutura da notícia. São Paulo: Ática. 1985.
+_____. Linguagem jornalística. São Paulo: Ática, 1985.
+148
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional
+e Aplicação Processual
+REDAÇÃO JORNALÍSTICA II 60
+de Práticas
+Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Redação Jornalística I Redação Jornalística III
+EMENTA
+Analisa o conceito e as origens do texto de reportagem, abordando os métodos de
+apuração, coleta de dados, relacionamento com as fontes, os tipos de entrevista e a
+edição do texto. Discute os tipos de reportagem: narrativa, descritiva e narrativa, e a
+inter relação com o texto de perfil. Elaboração de pauta e a produção de texto para
+reportagem no impresso e na convergência para outras mídias.
+CONTEÚDO PROGRAMÁTICO
+1. Abordagem do texto de reportagem em uma perspectiva histórica, e na distinção
+entre o fazer notícia e o fazer reportagem,
+1.1. A ampliação dos critérios de noticiabilidade para a reportagem.
+2. Rotinas produtivas: a pauta e as fontes: características, formatos, relação
+entrevistado/entrevistador; os problemas e desafios.
+3. Crítica à Pirâmide Invertida : o singular e o particular,
+3.1. Linguagem jornalística – características
+4. O texto de reportagem: estrutura, modelos, características e formas da narrativa
+jornalística.
+4.1. Reportagem dissertativa, descritiva e narrativa.
+4.2. Técnicas de Entrevista
+5. Experimentação da Linguagem Jornalística
+5.1. Perfil Jornalístico: característica, conceito e forma.
+5.2. Livro-Reportagem: a reportagem em extensão
+BIBLIOGRAFIA BÁSICA
+COIMBRA, Oswaldo. Texto da reportagem impressa: um curso sobre sua estrutura.
+São Paulo: Ática, [s.d.].
+ERBOLATO, Mário. Técnicas de Codificação em Jornalismo – redação, captação
+e edição no jornal diário. São Paulo: Ática, 2001.
+KOTSCHO, Ricardo. Prática da reportagem. 3. ed. São Paulo: Ática, 1995.
+LAGE, Nilson. A reportagem: Teoria e técnica de entrevista e pesquisa jornalística.
+Rio de Janeiro: Record, 2001.
+LIMA, Edvaldo Pereira. Páginas ampliadas: o livro-reportagem como extensão do
+jornalismo e da literatura. Campinas/SP: Unicamp, 1995.
+MEDINA, Cremilda de Araújo: Entrevista: o diálogo possível. 4. ed. São Paulo: Ática,
+2001.
+NOVO MANUAL DE REDAÇÃO DA FOLHA DE SÃO PAULO. São Paulo: Folha de
+S. Paulo, 1992.
+SODRÉ, Muniz: FERRARI, Maria Helena. Técnica de reportagem: notas sobre a
+narrativa jornalística. São Paulo: Summuns, 1996.
+VILAS BOAS, Sérgio. Perfis e como escrevê-los. São Paulo: Summus, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+AMARAL, Luiz. Jornalismo: notícia de primeira página. 4. ed. Rio de Janeiro:
+Tempo Brasileiro, 1987.
+DINES, Alberto. O papel do jornal. 5. ed. São Paulo: Summus, 1986.
+GENRO FILHO, Adelmo. O segredo da pirâmide: para uma teoria marxista do
+jornalismo. Porto Alegre: Ortiz, 1989.
+149
+
+150
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+FOTOGRAFIA 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Fotojornalismo
+EMENTA
+Analisa a história da fotografia, confrontando com outras formas de comunicação e
+artes que surgiram no final do século XIX e início do século XX. Compreende a ruptura
+que representou neste período, introduzindo aspectos da antropologia visual e da
+presença da fotografia no cinema. Introduz os aspectos técnicos, para proporcionar o
+domínio da linguagem, como luz, planos, enquadramento e equipamentos, realizando
+exercícios práticos.
+CONTEÚDO PROGRAMÁTICO
+1. A história da fotografia
+1.1. A Câmara escura e seus desdobramentos;
+1.2. A possibilidade de reprodução;
+1.3. Os primeiros equipamentos portáteis
+2. Antropologia visual
+2.1. As repercussões sociais da introdução da imagem no final do século XX;
+2.2. A questão da representação e da verdade;
+2.3. A antropologia visual
+2.4. A fotografia no cinema
+3. Aspectos técnicos
+3.1. Luz e equipamentos;
+3.2. Enquadramentos e planos;
+3.3. O conhecimento da máquina e seus acessórios;
+4. Exercício fotográfico
+4.1. Elaboração de uma pauta individual para realização de um fotodocumentário;
+4.2. Realização de uma exposição.
+BIBLIOGRAFIA BÁSICA
+BUSSELE, Michael. Tudo sobre fotografia. São Paulo: Pioneira, 1988.
+DUBOIS, Philippe. O ato fotográfico. Campinas, São Paulo: Papirus, 1994.
+FERNANDES JÚNIOR, Rubens. Labirintos e identidades. Panorama da fotografia no
+Brasil. São Paulo: Cosac Naify, 2003.
+JOLY, Matine. Introdução à análise da imagem. 10. ed. Campinas/SP: Papirus,
+2006.
+KOSSOY, Boris. Fotografia e História 2ª edição revista. São Paulo: Ateliê Editorial,
+2001.
+LANGFORD, Michael et.al. A Fotografia. Porto Alegre: Bookman, 2009.
+MACEDO FILHO, Euvaldo. Fotografia. Juazeiro: Gráfica São Franciscana, 2006.
+SONTAG, Susan. Sobre Fotografia, São Paulo: Companhia das Letras, 2004.
+BIBLIOGRAFIA COMPLEMENTAR
+GURAN, Milton. Linguagem fotográfica e informação. 2. ed. Rio de Janeiro: Rio
+Fundo. 1992.
+KOUTSOUKOS, Sandra Sofia Machado. Negros no Estúdio Fotográfico. Campinas:
+Editora Unicamp, 2010.
+LIMA, Ivan. Fotografia e informação. 2. ed. Rio de Janeiro: Íris Foto, 1988.
+NEIVA. Eduardo. A imagem. Rio de Janeiro: Ática. 1986.
+151
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+ANÁLISE DO DISCURSO MIDIÁTICO 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute conceitos de análise do discurso. Novas tendências em análise do discurso. A
+análise do discurso como metodologia de pesquisa. A análise do discurso midiático em
+suportes impressos e audiovisuais.
+CONTEÚDO PROGRAMÁTICO
+1. Introdução à Semiótica
+1.1. Semiótica e semiologia: conceitos básicos
+1.2. Semiótica e processos de significação na web
+2. Análise do discurso
+2.1. Análise da imagem: suas possibilidades de significação e de expressão;
+2.2. A análise da notícia: a sua produção como constitutiva do discurso midiático; o
+leitor que se faz no texto; o que circula com a notícia;
+2.3. O ator incorporal: a enunciação e o efeito sobre os corpos;
+2.4. Análise de reportagem: os conflitos e os processos sígnicos da atualidade.
+BIBLIOGRAFIA BÁSICA
+BAKHTIN, Michael. Estética da criação verbal. São Paulo: Martins Fontes, 1997.
+BARROS, Antonio, DUARTE, Jorge. Métodos e técnicas de pesquisa em
+Comunicação. [s.l]: Editora Atlas, 2005.
+BARTHES, Roland. A aventura semiológica. Lisboa: Edições 70, 1987.
+BAUDRILLARD, J. Tela Total: mito-ironia da era do vídeo e da Imagem. Porto Alegre:
+Sulina, 1997.
+BRANDÃO, Helena H. Nagamine. Introdução à análise do discurso. 8. ed.
+Campinas: Editora da Unicamp, 2002.
+CUNHA, R. Usabilidade ou comunicabilidade: os processos de significação na
+WEB. Comciência – Revista Eletrônica de Jornalismo Científico (174), 2006.
+www.comciencia.br/comciencia.
+DEELY, J. Semiótica Básica. São Paulo: Ática. 1990.
+DIJK, Teun A. Van. Racismo y análisis crítico de los medios. Paidós Comuicación,
+1997.
+_______. Coletânea de artigos. [s.l.]: Mimeo, 2007.
+FERREIRA, Giovandro Marcus. Contribuições de análise do discurso ao estudo do
+jornalismo. in FRANÇA, Vera et ali., Livro do XI Compós – Estudos de Comunicação,
+Porto Alegre, Editora Sulinas, 2003.
+FERREIRA, Giovandro Marcus O discurso jornalístico numa perspectiva histórica.
+[s.l.]: [s.n.], [s.d.].
+FIORIN, Jorge Luiz. Elementos de Análise de Discurso. [s.l]: Editora Contexto, 2005.
+JOSE&OLIVERIA, Roberta Pires (orgs). Sentido e significação. São Paulo: Contexto,
+2004.
+MAINGUENEAU, Dominique. Análise de textos de Comunicação. 2. ed. [s.l]: Cortez
+Editora, 2002.
+MANHÃES, Eduardo. Análise do discurso. In: _____. Métodos e técnicas de
+pesquisa em Comunicação. [s.l]: Editora Atlas, 2005.
+PINTO, Milton José. Comunicação e discurso – introdução à análise de discurso.
+[s.l]: Hacker Editores, 1999.
+SANTAELLA, M. L. A cultura das mídias. São Paulo: Razão Social. 1992.
+VERON, Eliseo. A produção dos sentidos. [s.l]: Editora Cultrix, 1980.
+VOGT, C. Semiótica e semiologia. Revista Eletrônica de Jornalismo Científico (174).
+152
+
+www. comciencia.br/comciencia.
+BIBLIOGRAFIA COMPLEMENTAR
+CHARAUDEAU, Patrick. Contrato de Comunicação da Informação Midiática
+(Tradução do livro: Lê français dans lê monde- recherches et applications – medias,
+foutes et effets, número special, Hachette. Edicef, Paris, julho, 1994).
+MAINGUENEAU, Dominique. Cenas de enunciação. [s.l]: Criar Edições, 2006.
+_______. Novas tendências em análise do discurso. 2. ed. [s.l]: Editora Unicamp,
+1997.
+153
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+TELEJORNALISMO I Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Telejornalismo II
+EMENTA
+Compreende as características do veículo e a notícia no telejornalismo, exercitando a
+prática e a experimentação da linguagem e do texto no telejornalismo. Analisa a teoria
+e a prática da produção no telejornalismo, o planejamento das formas de
+apresentação da notícia, verificação e elaboração do roteiro, noção de planos e
+enquadramento, edição de som e imagem.
+CONTEÚDO PROGRAMÁTICO
+1. Conceito de Notícia no Telejornalismo;
+1.1. Características da Televisão;
+1.2. Linguagem;
+1.3. Pauta;
+2. Funções na redação de TV;
+2.1. Programa telejornalístico (espelho, escalado, notas, teaser, entrevistas, stand-up);
+2.2. A Prática da Reportagem;
+3. Processos de Edição;
+3.1. Imagem;
+3.2. Edição.
+BIBLIOGRAFIA BÁSICA
+BISTANE, Luciana, BACELLAR, Luciana. Jornalismo de TV. São Paulo: Contexto,
+2004.
+CURADO. Olga. A notícia na notícia na TV. São Paulo: Alegro, 2002.
+MACHADO, Arlindo. A arte do vídeo. Rio de Janeiro: Moderna, 1988.
+_______. A televisão levada a sério. São Paulo: Editora Senac, 2000.
+MACIEL, Pedro. Jornalismo de televisão. Porto Alegre: Sagra Luzzatto, 1995.
+MARCONDES FILHO, Ciro, Televisão: a vida pelo vídeo. Rio de Janeiro: Moderna,
+1998.
+MOLINARI, Clovis; ALVAREZ, Denise. Luz, imagem e som. São Paulo: Senac,1998.
+PATERNOSTRO, Vera Íris. O texto na TV. São Paulo: Campus, 2000.
+SQUIRRA, Sebastião. Aprender telejornalismo. Petrópolis: Vozes, 1993.
+WATTS, Harris. On Câmera: o curso de produção de filme e vídeo da BBC. São
+Paulo: Summus, 1990.
+ZAHAR, Jorge. Jornal nacional: a notícia faz história. Rio de Janeiro: Memória Globo,
+2004.
+BIBLIOGRAFIA COMPLEMENTAR
+MACIEL, Pedro. Guia para falar (e aparecer) bem na televisão. Porto Alegre. Sagra-
+DcLuzzatto, 1994.
+MESEGUER, Alfonso Palazon. Lenguaje audiovisual. Madrid: Acento Editorial, 1998.
+PRADO, Flávio. Ponto eletrônico: dicas para fazer telejornalismo com qualidade. São
+Paulo: Publisher Brasil, 1996.
+154
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+COMUNICAÇÃO COMUNITÁRIA E Fundamentação
+45
+MEDIAÇÃO DE CONFLITOS Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute o campo da comunicação comunitária, a comunicação alternativa e a popular.
+Aborda o papel das organizações da sociedade civil, os métodos e técnicas de
+comunicação participativa para o desenvolvimento dos recursos de comunicação
+comunitários. Legislação e experiências de mídias comunitárias no Brasil e no
+contexto local.
+CONTEÚDO PROGRAMÁTICO
+1. Os conceitos de comunicação comunitária, comunicação alternativa e comunicação
+popular;
+2. Desenvolvimento da comunicação comunitária na América Latina;
+3. Interface entre movimentos sociais populares e comunicação comunitária;
+4. Papel do comunicador social;
+5. Rádios e TVs comunitárias no Brasil.
+BIBLIOGRAFIA BÁSICA
+FERREIRA, Maria Nazareth. A imprensa operária no Brasil: 1880-1920. Petrópolis:
+Vozes, 1978.
+FREIRE, Paulo. Extensão ou comunicação? 7. ed. Rio de Janeiro: Paz e Terra,
+1995.
+GOHN, Maria da Gloria Marcondes. Movimentos sociais no início do século XXI:
+antigos e novos atores sociais. 2. ed. Petrópolis, RJ: Vozes, 2004.
+LUZ, Dioclécio. Rádios comunitárias: trilha apaixonada e bem-humorada do que é e
+de como fazer rádios comunitárias, na intenção de mudar o mundo. 2. ed. Brasília:
+[s.n], 2001.
+PERUZZO, Cicília Maria Krohling; ALMEIDA, Fernando Ferreira de. Comunicação
+para a cidadania. São Paulo, Salvador: INTERCOM, UNEB, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+CANCLINI, Nestor Garcia. Consumidores e cidadãos. Rio de Janeiro: UFRJ, 1995.
+COGO, Denise M. No ar uma rádio comunitária. São Paulo: Paulinas, 1998.
+FERREIRA, Maria Nazareth (Org.) O impasse na comunicação sindical: de
+processo interativo a transmissora de imagem. São Paulo: Cebela, 1995.
+FESTA, Regina; SILVA, Carlos Eduardo Lins da. Comunicação popular e alternativa
+no Brasil. São Paulo: Paulinas, 1990.
+GRINBERG, Máximo Simposon (Org.) A comunicação alternativa na América
+Latina. Petrópolis/RJ: Vozes, 1990.
+MACHADO, Arlindo; MAGRI, Caio; MASAGÃO, Marcelo. Rádios livres. A reforma
+agrária no ar. São Paulo: Brasiliense, 1986.
+MORÁN, José Manuel. Leituras dos meios de comunicação. São Paulo: Pancast,
+1993.
+NEUMANN, Laurício. Educação e comunicação. Petrópolis: Vozes, 1990.
+PERUZZO, Cicília M. Krohling. Comunicação nos movimentos populares: a
+participação na construção da cidadania. Petrópolis: Vozes, 1998.
+155
+
+156
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+Aplicação Processual
+REDAÇÃO JORNALÍSTICA III 60
+de Práticas
+Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Redação Jornalística II -
+EMENTA
+Discute os conceitos e origens do texto interpretativo, suas diferenças em relação às
+outras categorias; teoria e técnica para a elaboração do texto interpretativo, títulos
+para o texto interpretativo; a pauta para o jornalismo interpretativo; o perfil no
+jornalismo interpretativo; elaboração, análise e discussão de perfil; conceito e
+elaboração do texto especializado.
+CONTEÚDO PROGRAMÁTICO
+1. O texto interpretativo no universo jornalístico;
+1.1. Elementos para construir uma boa reportagem interpretativa - criatividade, faro
+jornalístico, capacidade intelectual, observação atenta e sensibilidade como
+ferramentas básicas para construção do texto;
+2. Processos de Produção no Jornalismo Interpretativo;
+2.1. A pauta no jornalismo interpretativo e suas diferenças entre jornais e revistas
+semanais;
+2.2. A apuração da pauta, a investigação do fato ao entendimento com as fontes de
+informação até a elaboração do texto;
+2.3. A Edição;
+3. A Escrita Jornalística e inovações na linguagem;
+3.1. Experimentação de novas estratégias de escrita com uso de recursos estilísticos e
+literários; a reportagem narrativa, a reportagem descritiva e dissertativa;
+3.2. Perfil jornalístico: o perfil e suas feições;
+3.3. A narrativa do perfil e o contexto literário na produção desse texto.
+BIBLIOGRAFIA BÁSICA
+BASILE, Sidnei. Elementos de jornalismo econômico: a sociedade bem informada é
+uma sociedade melhor. Rio de Janeiro. Ed. Negócio, 2002.
+BELTRÃO, Luiz. Jornalismo interpretativo: filosofia e técnica. 2. ed. Porto Alegre:
+Sulina, 1980.
+BURKETT, Warren. Jornalismo científico. Rio de Janeiro: Forense, 1990.
+CAPOTE, Truman. A Sangue Frio. São Paulo: Cultural, 1980.
+FORTES, Leandro. Jornalismo investigativo. São Paulo: Contexto, 2005.
+OLIVEIRA, Fabiola. Jornalismo Científico. São Paulo: Contexto, 2002.
+VILAS BOAS, Sérgio. O estilo magazine: o texto em revista. São Paulo: Summus,
+1996.
+BIBLIOGRAFIA COMPLEMENTAR
+ALTMAN, Fabio. A arte da entrevista – uma antologia de 1823 aos nossos dias. São
+Paulo: Scritta, 1996.
+ERBOLATO, Mario. Jornalismo especializado. São Paulo: [s.n], 1980.
+FAR0, J S. Revista Realidade: 1966-1968 - tempos de reportagem, na imprensa
+brasileira. [s.l]: Canoas Ulbra, 1999.
+FUSER, Igor (Org.). A arte da reportagem. São Paulo: Scritta, 1996.
+HERSEY, John. Hiroshima. São Paulo: Companhia das Letras, 2002.
+157
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+FOTOJORNALISMO Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Fotografia -
+EMENTA
+Aprofunda conhecimentos sobre os diversos aspectos do fotojornalismo enquanto
+gênero, historicizando a presença da fotografia nos periódicos e as mudanças
+ocorridas desde a sua incorporação, analisando o trabalho de fotojornalistas e
+fotodocumentaristas. Discute as técnicas utilizadas para a cobertura de reportagens e
+realização de fotodocumentários e o marco étnico envolvido na produção e reprodução
+de imagens, bem como o direito de imagem.
+CONTEÚDO PROGRAMÁTICO
+1. O fotojornalismo
+1.1. A história da utilização da fotografia no jornalismo;
+1.2. O trabalho de grandes fotojornalistas;
+1.3. A leitura das imagens;
+1.4. O fotojornalismo e as rotinas produtivas.
+2. O fotodocumentário
+2.1. Diferenças para a imagem jornalísticas;
+2.2. Fotodocumentaristas de destaque
+3. Aspectos técnicos
+3.1. Luz e equipamentos;
+3.2. Enquadramentos e planos;
+3.3. O conhecimento da máquina e seus acessórios;
+4. Exercício fotográfico
+4.1. Elaboração de uma pauta individual para realização de um fotodocumentário;
+4.2. Realização de uma exposição.
+BIBLIOGRAFIA BÁSICA
+ARNHEIM, Rudolf. A Arte e Percepção Visual. São Paulo: Pioneira, 1998.
+BUSSELE, Michael. Tudo sobre fotografia. São Paulo: Pioneira, 1988.
+HEDGECOE, John. Guia completo de fotografia. São Paulo: Martins Fontes, 1996.
+JOLY, Matine. Introdução à análise da imagem. 10. ed. Campinas/SP: Papirus,
+2006.
+LANGFORD, Michael et.al. A Fotografia. Porto Alegre: Bookman, 2009.
+LOMBARDI, Kátia Hallak. Documentário Imaginário: reflexões sobre a fotografia
+documental contemporânea (2008). Discursos Fotográficos. Londrina, v.4, n.4, p.35-
+58, 2008.
+KEENE, Martin. Fotojornalismo: guia profissional. Lisboa: Dinalivro, 2002.
+MACEDO FILHO, Euvaldo. Fotografia. Juazeiro: Gráfica São Franciscana, 2006.
+OLIVEIRA, Erivam Morais de. Fotojornalismo: uma viagem entre o analógico e o
+digital. SP: Cengage Learning, 2009.
+SOUSA, Jorge Pedro. Fotojornalismo. Uma introdução à história, às técnicas e à
+linguagem da fotografia na imprensa. Porto: [s.n], 2002.
+_______. Uma História Crítica do Fotojornalismo Ocidental. Florianópolis: Letras
+Contemporâneas e UNOESC, 2000.
+BIBLIOGRAFIA COMPLEMENTAR
+BECEYRO, Raúl. Ensayos sobre Fotografia, Editorial Arte Y Librios, México, 1978.
+BENJAMIN, Walter. Pequena história da fotografia. In: Magia e técnica, arte e
+política técnica, arte e política (Obras escolhidas - v. 1). São Paulo: Editora
+Brasiliense. 1986.
+158
+
+DIDI-HUBERMAN, Georges. O que vemos, o que nos olha. São Paulo: ed. 34, 2010.
+FLUSSER, Vilem. A filosofia da caixa preta. São Paulo: Hucitec, 1985 .
+MUSA, João Luiz e PEREIRA, Raul Garcez. Interpretação da Luz . São Paulo, Olhar
+Impresso. 1994
+SAMAIN, Etienne. O Fotográfico. São Paulo: Hucitec, 1998.
+SCHAEFFER, Jean-Marie. A Imagem Precária, sobre o dispositivo fotográfico.
+Campinas: Papirus, 1996.
+159
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional
+e Aplicação Processual
+JORNALISMO ONLINE 60
+de Práticas
+Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- Redação Jornalística em Multimeios
+EMENTA
+Discute a teoria e a prática do jornalismo Online na internet usando tecnologias da
+comunicação através do correio eletrônico, newsgroups, newsweb, redes sociais,
+integração com banco de dados, índices de acesso, o hipertexto, redação e edição de
+reportagem mediada pelo computador com técnicas de pesquisas, produção de
+conteúdo em site, blogs e outras plataformas. Analisa ainda o estado atual e as
+tendências do jornalismo na rede, considerando os valores morais e éticos que regem
+a sociedade.
+CONTEÚDO PROGRAMÁTICO
+1. Sociedade da informação: o ciberespaço;
+1.1. Conceitos e definições do jornalismo na rede de computadores (Internet);
+1.2. As novas possibilidades de configuração do real na chamada cibercultura;
+1.3. O ciberespaço como novo espaço civilizatório e suas implicações na
+comunicação;
+1.4. Tecnologias digitais e redes interativas;
+1.5. A interface digital: a interação das mídias tradicionais;
+1.6. Hipertexto e jornalismo em camadas: conceitos, evolução e linguagem;
+1.7. A influência da web no contexto comunicacional do jornalismo online: multimídia e
+interatividade;
+1.8. Produção laboratorial de material jornalístico;
+2. Navegando em outros mares: em busca da informação na Internet;
+2.1. Navegação na World Wide Web (www): o espaço da edição no jornalismo,
+critérios de noticiabilidade e hierarquização da informação disponibilizada em tempo
+real;
+2.2. Os portais e provedores da Web: a democratização do acesso;
+2.3. Correio eletrônico como mídia;
+2.4. As redes sociais: newsgroups; twitter; newsweb, orktut,facebook, outros;
+2.5. Conhecendo novas plataformas: salas virtuais;
+2.6. O blog como ferramenta do jornalismo;
+2.7. Transferência de arquivos (FTP);
+2.8. Produção laboratorial de material jornalístico;
+3. O profissional de comunicação no ambiente em rede;
+3.1. Versão online: a transição do papel para o bit;
+3.2. Os jornais produzidos diretamente na Internet;
+3.3. Produção, redação e edição de informações em rede;
+3.4. Relativização das relações tempo/espaço na produção online;
+4. Produção hipermidiática: a interconexão áudio-vídeo-gráfica;
+5. Planejamento e execução de projeto multimídia;
+6. Produção laboratorial de material jornalístico.
+BIBLIOGRAFIA BÁSICA
+CASTELLS, Manoel. A sociedade em rede. São Paulo: Paz e Terra, 1999.
+CANAVILHAS, João. Webjornalismo: 7 caraterísticas que marcam a diferença.
+Covilhã, Portugal: Livros Labcom. 2014.
+FERRARI, Pollyana. Jornalismo Digital. 2. ed. São Paulo: Contexto. 2004.
+IANNI, Octavio. A sociedade global. Rio de Janeiro: Civilização Brasileira, 1992.
+160
+
+LEMOS, André. Cibercultura, tecnologia e vida social na cultura contemporânea.
+2. ed. Porto Alegre. SULINA, 2004.
+MACHADO, Elias e PALÁCIOS, Marcos. O ensino do jornalismo em redes de alta
+velocidade. Salvador: EDUFBA, 2007.
+MORIN, Edgar. Ciência com consciência. Rio de Janeiro: Bertrand Brasil, 1998.
+PINHO, J.B. Jornalismo na internet: planejamento e produção da informação online.
+São Paulo: Summus, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+DEUTOUZOS, Michael. O que será? Como o novo mundo da informação
+transformará nossas vidas. São Paulo: Companhia das Letras, 1999.
+LANDOW, George P. Hipertexto: La convergência de la teoria critica contemporânea
+y la tecnologia. 1. ed. Barcelona: Paidos, 1995. 284 p. (Hipermídia 2)
+LEMOS, André. (org). Hipertexto. (http://www.facom.ufba.br/hipertexto/) [s.l]: [s.n],
+[s.d].
+LÉVY, Pierre. As tecnologias da inteligência – o futuro do pensamento na era da
+informática. Rio de Janeiro: Editora 34, 1995 .
+_______. Cibercultura. São Paulo: Editora 34, 2001.
+_______. Que é o virtual? São Paulo: Editora 34, 2001.
+MARTIN, James. Hiperdocumentos e como criá-los. 1. ed. Rio de Janeiro: Campus,
+1992. 222 p., il.
+RODRIGUES, Bruno. Webwriting – pensando o texto para a mídia digital. São Paulo:
+Berkeley, 2000.
+161
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+REALIDADE LATINO-AMERICANA EM Fundamentação
+60
+COMUNICAÇÃO Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre a comunicação na perspectiva sócio-cultural e territorial latino-
+americana, partindo da idéia da comunicação como aparelho ideológico e como poder
+constituído nos diversos espaços em questão. Analisa também a comunicação
+realizada pelos movimentos sociais na América Latina e a cidadania, passando por
+outras questões teóricas como as leituras ideológicas e as ideologias das leituras, a
+comunicação como mediação, as formas de recepção e os processos de produção de
+sentido.
+CONTEÚDO PROGRAMÁTICO
+1. Entendendo o continente: o processo de colonização da Iberoamérica e seus
+reflexos sobre a formação sócio-econômica;
+1.1. A tomada do continente pelos europeus;
+1.2. A escravidão negra e as missões jesuíticas;
+1.3. As independências e a formação dos estados republicanos;
+1.4. Do populismo às ditaduras militares;
+1.5. A concentração do poder no campo da comunicação;
+2. O pensamento comunicacional latino-americano e suas interfaces com a ética;
+2.1. A formação dos meios de comunicação;
+2.2. A pesquisa em comunicação: Paradigmas da escola latino-americana de
+comunicação;
+2.3. A influência dos Estados Unidos na produção comunicacional latino-americana;
+3. Mídia, identidade cultural e cidadania;
+3.1. Transformações comunicacionais contemporâneas, a exemplo os observatórios
+de mídia;
+3.2. Os observatórios de mídia;
+4. O papel da mídia impresso brasileira na integração latino-americana.
+BIBLIOGRAFIA BÁSICA
+BARBERO, J. Martins. Dos meios às mediações. Rio de Janeiro: Ed. UFRJ, 1994.
+BORDENAVE, J.D. O que é comunicação. São Paulo: Ed. Brasilense. 1980.
+CANCLINI, Néstor García. Consumidores e cidadãos – conflitos multiculturais da
+globalização, Rio de Janeiro: Editora UFRJ, 1999.
+_____. Culturas Híbridas: Estratégias para Entrar e Sair da Modernidade. São Paulo,
+Edusp, 2003.
+IANNI, Octávio. O Estado Nação na época da globalização. [s.l]: Realidade
+econômica, 2000.
+MARQUEZ, Gabriel Garcia. O outono do patriarca. Rio de Janeiro: Record, 2003.
+MAURO, Frederico. A expansão européia (1600-1870). São Paulo: Edusp,1985.
+MATTELART, A. Para ler o Pato Donald. Rio de Janeiro: Ed. Paz e Terra. 1975.
+SOUZA, Mauro Wilton. Sujeito: o lado oculto do receptor. São Paulo: Ed. Brasiliense.
+1995.
+BIBLIOGRAFIA COMPLEMENTAR
+COGO, Denise. Mídia, identidade e cidadania: sobre cenários e políticas de
+visibilidade midiática dos movimentos sociais. In: PERUZZO, Cicília M.Krohling (org.)
+Vozes cidadãs: Aspectos teóricos e análise de experiências de comunicação popular
+e sindical na América Latina. São Paulo: Angelladara, 2004.
+IANNI, Octávio. Enigmas do pensamento Latino- Americano. Disponível em
+www.iea.usp/artigos. Acesso em 18 de agosto, 2007.
+162
+
+MALDONADO, Alberto Efendy. América Latina berço de transformação
+comunicacional no mundo. In: MELO, José Marques de; GOBBI, Maria Cristina.
+Pensamento Comunicacional Latino-Americano. São Bernardo do Campo: UMES-
+Cátedra Unesco de Comunicação para o desenvolvimento regional, 2004.
+MELO, José Marques. Paradigmas da escola latino-americana de comunicação.
+In: Revista Latina de Comunicación Social, 1999. Disponível em
+http://www.ull.es/publicaciones/latina/a1999flj/73melop.htm
+_______. Escolas Latino-Americanas. In:_____Teoria da Comunicação e
+Paradigmas Latino-Americanos. Petrópolis, RJ: Vozes, 1998.
+ORTIZ, Pedro. Das montanhas mexicanas ao ciber espaço. Estudos Avançados, n.
+19, (%%), 2005, pp. 173-186.
+SANT’ ANNA, Francisco. América Latina um Tema fora de pauta: uma análise
+sobre o papel da mídia impressa brasileira no processo de integração latino-
+americana. Disponível em < www.bocc.ubi.pt> acesso 18 de agosto de 2007.
+163
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+TELEJORNALISMO II Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Telejornalismo I
+EMENTA
+Prática, teoria e experimentação de novas linguagens do telejornalismo: reportagem
+especializada, programas temáticos, revista eletrônica, telejornalismo na web. O
+telejornalismo na televisão comunitária e nas práticas educomunicativas.
+CONTEÚDO PROGRAMÁTICO
+1. Prática, teoria e experimentação de novas linguagens do telejornalismo;
+1.1. Reportagem especializada;
+1.2. Programas temáticos, revista eletrônica, telejornalismo na web;
+2. Telejornalismo na televisão comunitária;
+3. Telejornalismo e função social.
+BIBLIOGRAFIA BÁSICA
+BOURDIEU, Pierre. Sobre a Televisão. Rio de Janeiro: Jorge Zahar Editor Ltda,
+1997.
+KUCINSKI, Bernardo. Jornalismo na Era Virtual: ensaio sobre o colapso da razão
+ética. São Paulo: Ed. Fundação Perseu Abramo: Ed. UNESP, 2005.
+LEAL, Laurindo. Atrás das câmeras. Relações entre cultura, estado e televisão.
+São Paulo: Summus, 1988.
+MACHADO, Arlindo. A Televisão levada a sério. São Paulo. Editora SENAC, 2000.
+PINHO, J. B. Jornalismo na Internet. Jornalismo na Internet: planejamento e
+produção da informação on-line. São Paulo: Summus, 2003.
+VIZEU, Alfredo. O lado oculto do telejornalismo. Florianópolis: Calandra, 2005.
+BIBLIOGRAFIA COMPLEMENTAR
+AZEVEDO, Maria Verônica Rezende de. Telejornalismo e Educação para a
+Cidadania. São Paulo: Beca, 2004.
+BALOGH, ANNA Maria. O discurso Ficcional na TV: Sedução e Sonhos em Doses
+Homeopáticas. São Paulo: Editora da Universidade de São Paulo, 2002.
+JÚNIOR, Luiz Costa Pereira. A Vida Com a TV: O Poder da Televisão no cotidiano.
+São Paulo: Editora SENAC, 2002.
+ORTIZ, Renato; Borelli, Silvia Helena Simões; Ramos, José Mário Ortiz. Telenovela:
+História e Produção. São Paulo: Editora Brasiliense, 1991.
+VILCHES, Lorenzo. A Migração Digital. São Paulo: Edições Loyola, 2003.
+164
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+TRABALHO DE CONCLUSÃO DE CURSO 200
+Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Seminários Avançados -
+EMENTA
+Discute Projeto de Pesquisa. Projeto do Trabalho de Conclusão do Curso. Formulação
+do problema de pesquisa ou problema prático no campo da Comunicação.
+CONTEÚDO PROGRAMÁTICO
+1. Monografia - temática em Comunicação Social com abordagem em: Comunicação e
+Educação; Análise do Discurso Midiático; História da Comunicação; Teorias da
+Comunicação; Teorias do Jornalismo; Folkcomunicação; Semiótica e Comunicação,
+Linguagem Jornalística, Comunicação e Política, Comunicação e Cultura.
+2. Projeto Experimental em Jornalismo com produção laboratorial: revista, jornal,
+documentário, livro-reportagem; rádio, telejornalismo, catálogo fotográfico.
+BIBLIOGRAFIA BÁSICA
+BARROS, Clóvis. Ética na Comunicação. 4. ed. São Paulo: Summus, 2003.
+COLLARO, Antonio Celso. Projeto gráfico: teoria e prática da diagramação. São
+Paulo: Summus, 1987.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de pesquisa. 3. ed.
+São Paulo: Atlas, 1991.
+SFEZ, Lucien. Crítica da comunicação. São Paulo: Loyola, 1994.
+TRAQUINA, Nelson. Teorias do Jornalismo: porque as notícias são como são. Vol.I.
+Florianópolis: Insular, 2004.
+_______. Teorias do Jornalismo: a tribo jornalística. Vol. II. Florianópolis: Insular,
+2004.
+WOLF, Mauro. Teorias da Comunicação de Massa. Lisboa: Editorial Presença,
+1987.
+BIBLIOGRAFIA COMPLEMENTAR
+165
+
+BARROS, Ana Taís Martins. Jornalismo, magia, cotidiano. Canoas: ULBRA, 2001.
+CASTRO DE PAZ, José Luis. El surgimiento del telefilme. Barcelona: Paidos, 1999
+COGO, Denise. No ar. uma rádio comunitária. São Pauto: Ed. Paulinas, 1998.
+COMPARATO, doc. Da criação ao roteiro. Rio de janeiro: Rocco, 1996.
+CURRAN, James; SEATON, Jean. Imprensa, radio e televisão – poder sem
+responsabilidade. Lisboa: Instituto Piaget, 1997.
+DEL BIANCO, Nélia R.-, MOREIRA, Sonia Virginia. Rádio no Brasil – tendências e
+perspectiva. Rio Janeiro: Universidade Estadual do Rio de Janeiro, 1999.
+EISENSTEIN, Sergei. A forma do filme. Rio de Janeiro: Jorge Zahar Editores, 1990.
+FAGOAGA, Concha. Periodismo interpretativo: el analisis de Ia noticia. Barcelona:
+Mitre, 1982.
+HA WARD, David, MABLEY, Edward. Teoria e prática do roteiro. São Paulo: Globo,
+1996.
+HAUSSEN, Doris Fagundes. Rádio e política – tempos de Vargas e Perón, Porto
+Alegre: Edipucrs, 2001.
+MAYRINK, José Maria. Vida de repórter. São Paulo: Geração Editorial, 2002.
+McLEISCH, Robert. Produção de um guia abrangente de produção radiofônico. São
+Paulo: Summus, 2001.
+MOREIRA, Sonia Virgínia. Rádio palanque. Rio de Janeiro: Mil Palavras, 1998.
+PEREIRA, João Baptista Borges. Cor, profissão e mobilidade. o negro e o radio de
+São Paulo: Edusp, 2001.
+REY, Marcos. O roteirista Profissional: televisão e cinema. São Paulo: Atica, 1995.
+SANTOS, Ruck. Manual de vídeo. Rio de janeiro: UFRJ, 1993.
+SOUZA, Jorge Pedro. Teorias da notícia e do jornalismo. Chapecó: Grifus, 2002.
+TRAQUINA, Nelson. O estudo do jornalismo no século XX. São Leopoldo: Ed.
+Unisinos, 2001.
+_______. Jornalismo: questões, teorias e “estórias”. Lisboa: Veja, 1993.
+166
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+ÉTICA E LEGISLAÇÃO EM JORNALISMO 60
+Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre as dimensões filosóficas da ética e do agir moral como conhecimentos
+fundamentais do entendimento da ética, para logo discutir aspectos éticos da atuação
+profissional em comunicação. Analisa o papel das organizações privadas, do Estado e
+da sociedade civil na definição de políticas de comunicação e de Jornalismo, bem
+como a legislação de comunicação e do Jornalismo no Brasil e no mundo,
+comparando e discutindo de forma contextualizada. A regulamentação das principais
+profissões em comunicação no Brasil.
+CONTEÚDO PROGRAMÁTICO
+1. Filosofia, Ética, Moral: discussão dos conceitos a luz da filosofia clássica e
+contemporânea
+2. Normas Jurídicas para a Comunicação Social
+2.1. Princípios Constitucionais
+2.2. Direito Penal e Civil e os Meios de Comunicação Social
+2.5. Os direitos das minorias políticas frente a comunicação e ao jornalismo: crianças,
+mulheres, negros, idosos, deficientes e outros grupos.
+3. A Deontologia das Mídias
+3.1. Jornais e Jornalistas
+3.2. Códigos de ética no Brasil e no Mundo
+3.3. Normas jurídicas regulamentadoras da profissão: os Conselhos de Comunicação
+no Brasil e no Mundo e a sua relação com o Jornalismo
+4.5. Edição e Direito Autoral
+BIBLIOGRAFIA BÁSICA
+ANDRÉ, A. Ética e códigos da comunicação social. 4.ed. Porto Alegre, Sagra-D. C.
+Luzzatto, 2000.
+ANGRIMANI, D. Espreme que sai sangue: um estudo do sensacionalismo na
+imprensa. São Paulo: Summus, 1995.
+ARBEX JR, J. Showrnalismo: a notícia como espetáculo. São Paulo: Casa Amarela,
+2001.
+BARROS FILHO, C. Ética na comunicação. São Paulo: Summus, 2003.
+BUCCI, E. Sobre ética e imprensa. 2.ed. São Paulo: Companhia das Letras, 2006.
+GERALD, J. E. A responsabilidade social da imprensa. Rio de Janeiro: O Cruzeiro,
+1962.
+KARAM, F. J. C. Jornalismo, ética e liberdade. 2.ed. São Paulo: Summus, 1997.
+KARAM, F. J. C. A ética jornalística e o interesse público. São Paulo: Summus,
+2004.
+MACHADO, J. Quando a imprensa é notícia. Rio de Janeiro: Temário, 1969.
+MAMOU, Y. A culpa é da imprensa: ensaio sobre a fabricação da informação. São
+Paulo: Marco Zero, 1992.
+MARCONDES FILHO, C. O capital da notícia: jornalismo como produção social da
+segunda natureza. São Paulo: Ática, 1989.
+MEDINA, C. Notícia, um produto à venda: jornalismo na sociedade urbana e
+industrial. 2.ed. São Paulo: Summus, 1988.
+MEDINA, C. Profissão jornalista: responsabilidade social. Rio de Janeiro: Forense-
+Universitária, 1982
+BIBLIOGRAFIA COMPLEMENTAR
+167
+
+ALDE, Alessandra. A Construção da Política - democracia, cidadania e meios de
+comunicação de massa. Rio de Janeiro: FGV, 2004.
+AMARAL, Luiz. A objetividade Jornalística. 2. ed. Porto Alegre: Sagra Luzzatto,
+[s.d.].
+GUIMARÃES, Eduardo(org.). Produção e circulação do conhecimento - estado,
+mídia, sociedade. Campinas-SP: Pontes, 2001.
+LATTMAN-WELTMAN, Fernando et al. Mídia e política no Brasil - jornalismo e
+ficção. Rio de Janeiro: FGV, 2003.
+MELO, José Marques. Comunicação, Teoria e Política. São Paulo: Summus, 1985.
+NOVAES, W. A quem pertence à informação. Petrópolis: Vozes, 1996.
+PEREIRA JUNIOR, A. E. V. Decidindo o que é notícia: os bastidores do
+telejornalismo. 3. ed. Porto Alegre: PUC, 2003.
+RESTON, J. Artilharia da imprensa. Rio de Janeiro: Laudes, 1968.
+ROSSI, C. O que é jornalismo. 7.ed. São Paulo: Brasiliense, 1986.
+VASCONCELOS, S. I. C. C. (Org.). Os discursos jornalísticos. Itajaí: Univali, 1999
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+COMUNICAÇÃO, MOVIMENTOS SOCIAIS Fundamentação
+60
+E DIREITOS HUMANOS Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Refletir sobre a Comunicação e os movimentos sociais no Brasil, entendendo esses
+168
+
+como meios de organização social. Conhecer as mudanças ocorridas nos movimentos
+sociais após período da Ditadura Militar no Brasil e a implantação das Tecnologias da
+Comunicação e da Informaçao (TIC’s). Compreender os movimentos sociais e suas
+relações com o Estado e as mídias. Promover o conhecimento sobre a evolução dos
+Direitos Humanos (DH) previstos em leis nacionais, internacionais e na Constituição
+Federal. Contexto dos DH na contemporaneidade. Reflexão sobre os Direitos
+Individuais e Coletivos. DH e o jornalismo.
+CONTEÚDO PROGRAMÁTICO
+1. 1. Introdução dos conceitos básicos sobre sociedade, comunicação social, vínculos
+sociais e movimentos sociais;
+2. 2. Introdução de novas reflexões sobre prática social e política na sociedade do
+consumo;
+3. 3. Identificar as mudanças ocorridas nos movimentos sociais após a Ditadura Militar no
+Brasil e do advento das Tecnologias da Comunicação e da Informaçao, e o advento
+dos movimentos sociais ambientais.
+4. Evolução dos DH; Conceito, caracterização e finalidade de direitos humanos; A
+dignidade da pessoa humana; Pessoa humana como sujeito principal do
+desenvolvimento; A liberdade e os valores da igualdade; Direitos humanos: cidadania
+e educação; Relação entre cidadania e educação; Direitos e deveres da cidadania;
+5. DH e Jornalismo; os Meios de Comunicação de Massa (MCM) e os DH
+4. 6.DH, Jornalismo e sociedade civil (sistema carcerário brasileiro, menoridade penal,
+observatórios da mídia; Rede Andi, Movimento Transparência, Lei Maria da Penha
+BIBLIOGRAFIA BÁSICA
+BAUMAN, Zigmunt. O mal-estar da pós-modernidade. Trad: Mauro Gama e Claudia
+M. GAMA. Rio de Janeiro: Jorge Zahar Ed.,1998.
+BECKER, Ernest. La lucha contra El mal. México: Fondo de Cultura Econômica.
+1992.
+CASTELL, Manuel. Redes de Indignação e Esperança. Zahar Editora, 2013.
+CHATTERJEE, Partha . Colonialismo, Modernidade e Política.EDUFBA, 2004.
+COMPARATO, Fábio Konder. A afirmação histórica dos direitos humanos. São
+Paulo: Saraiva, 1999.
+GOHN, Maria da Glória. Teoria dos Movimentos Sociais. São Paulo, Loyola, 1999
+________ Movimentos sociais no início do século XXI – Antigos e novos atores
+sociais. Editora Vozes, Petrópolis, 2004.
+______. O protagonismo da sociedade civil – Movimentos sociais, Ong’s e redes
+solidárias. Editora Cortez, São Paulo, 2005.
+MAFESSOLI, Michel. Sobre o nomadismo: vagabundagens pós-modernas. Trad.
+Marcos de Castro. Rio de Janeiro: Record, 2001.
+Maior, Carta. Cidades Rebeldes – passe livre e as manifestações que tomaram as
+ruas do Brasil. Boitempo Editorial. 2013.
+Maior, Carta. Occupy – movimentos de protesto que tomaram as ruas. Boitempo
+Editorial. 2013.
+MARTINS, Rodrigo Perla, Machado, Carlos R. S. (Org.) Identidades, movimentos e
+conceitos – Fundamentos para discussão da realidade brasileira. Editora Freevale,
+Novo Hamburgo (RS), 2004.
+PAIVA, Raquel. O retorno da Comunidade – os novos caminhos do social. Rio de
+Janeiro. Mauad X, 2007.
+________. A comunicação como projeto social. Disponível em:
+http://leccufrj.files.wordpress.com/2011/02/paiva_comunicacao-como-projeto-
+social.pdf.
+PERUZZO, Cicilia M. K. Comunicação nos movimentos populares: a participação
+da construção da cidadania. Editora Petrópolis: Vozes, 2004.
+TEIXEIRA, Elenaldo. O local e o global: limites e desafios da participação cidadã.
+São Paulo: Cortez; Recife: EQUIP; Salvador: UFBA, 2001.
+TOSI, Giuseppe. (org). Direitos humanos: história, teoria e prática. João Pessoa:
+169
+
+Editora Universitária/UFPB, 2006.
+BIBLIOGRAFIA COMPLEMENTAR
+ANDI, Resumo Executivo Violência contra a mulher – estudo revela predominância de
+viés policialesco na cobertura noticiosa do tema ABONG, Nota Pública “Por uma
+política de cooperação internacional brasileira efetiva e participativa.
+CONCEIÇÃO, Fernando. Org. Pesquisa Faces do Brasil.
+FERREIRA, Giovandro Marcus (Org.). A construção da violência na televisão na
+Bahia. Um estudo dos programas Se Liga Bocão e Na Mira.
+SILVA, Juremir Machado da. Interfaces: Michel Maffesoli, teórico da Comunicação.
+TEIXEIRA, Ana Claúdia Chaves. Identidades em construção: as organizações não
+governamentais no processo brasileiro de democratização. Polis. 2003.
+Artigos
+CHAUI, Marilena: As manifestações de junho de 2013 em São Paulo. Publicado na
+Revista Teoria e Debate.
+BOFF, Leonardo: As multidões nas ruas: como interpretar de 4 de julho de 2013.
+170
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Fundamentação
+SOCIOLOGIA E COMUNICAÇÃO 60
+Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre as contribuições da Sociologia Clássica, a partir dos seus principais
+autores (Durkheim, Marx, Weber) para o entendimento das sociedades
+contemporâneas e midiatizadas. Elementos para a análise científica da sociedade:
+estrutura social, classes sociais, instituições, mudança social e controle social.
+Sociedade de massa. Formas contemporâneas de sociabilidade. Elementos teóricos
+para uma sociologia do jornalismo.
+CONTEÚDO PROGRAMÁTICO
+1. Os paradigmas clássicos em Sociologia:
+1.1. Durkheim e o fato social;
+1.2. Weber e a ação social;
+1.3. Karl Marx e o conflito social;
+1.4, Apropriações contemporâneas dos autores nas abordagens do campo da
+comunicação e do jornalismo;
+2. As teorias sociais críticas:
+2.1As teorias sociais críticas e a sociedade de consumo de massa;
+2.2. Sociologia brasileira e Sociologia do Brasil: Florestan Fernandes e sociólogos que
+tematizam o Brasil;
+3. Sociologias da comunicação:
+3.1. A dramaturgia de Goffman;
+3.2. Interacionismo simbólico e etnometodologia: a partilha de significados e o método
+documental de interpretação;
+4. Sociologia contemporânea:
+4.1. Modernidade, pós-modernidade e globalização;
+5. Elementos de uma sociologia do jornalismo.
+BIBLIOGRAFIA BÁSICA
+171
+
+BAUDRILLARD, Jean. A transparência do mal: ensaios sobre os fenômenos
+extremos. Campinas: Papirus, 1990.
+BERMAN, Marshall. Tudo o que é sólido desmancha no ar: a aventura da
+modernidade. São Paulo: Companhia das letras, 1986.
+BOURDIEU, Pierre. O poder simbólico. Lisboa: Difel, 1989.
+CASTELLS, Manuel. A sociedade em rede. Vol 01. São Paulo: Paz e Terra, 1999.
+COELHO, Teixeira. O que é indústria cultural? São Paulo: Brasiliense, 1988.
+FREIRAS, Bárbara. Teoria crítica, hoje e ontem. São Paulo: Brasiliense, 1988.
+GIDDENS, Anthony. As consequências da modernidade. São Paulo: UNESP, 1991.
+HALL, Stuart. Identidades culturais e pós- modernidade. 2. ed. Rio de Janeiro:
+DPJA, 1998.
+HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da
+mudança cultura. São Paulo: Loyola, 2000.
+IANNI, Octavio (org.). Florestan Fernandes: sociologia crítica e militante. São Paulo:
+Expressão Popular, 2004.
+MCLUHAN, Marshall. Os meios de comunicação como extensão do homem. São
+Paulo: Cultriz, 1974.
+MORIN, Edgar. Cultura de massa no século XX. Rio de Janeiro: Forense, 1967.
+ORTIZ, Renato. Mundialização e cultura. São Paulo: Brasiliense, 1996.
+PRADO, J.L.A. Crítica das práticas midiáticas: da sociedade de massa à
+cibercultura. São Paulo: Hacker Editores, 2002.
+SANTOS, Boaventura de Souza. Pela mão de Alice: o social e o político na pós-
+modernidade. São Paulo: Cortez, 1999.
+SFEZ, Lucien. Crítica da Comunicação. Lisboa: Instituto Piaget, 1999.
+WOLF, Mauro. Teorias da Comunicação. Lisboa: Presença, 2003
+BIBLIOGRAFIA COMPLEMENTAR
+ADORNO, T.W. A indústria cultural. In COHN, Gabriel. Comunicação e indústria
+cultural. São Paulo: Ed Nacional, 1978.
+BECKER, Howard S. Outsiders: estudos de sociologia do desvio. Rio de Janeiro:
+Zahar, 2008.
+BITTI, Pio; IZANNI, Bruna. A Comunicação como processo social. Lisboa: Stampa,
+1993.
+BORGES, João José de Santana Borges. Árvores e Budas: alternativas do
+misticismo ecológico e suas teias políticas. Simões Filho-BA: Editora Kalango, 2015.
+BRETON, Philippe. A utopia da comunicação. Lisboa: [s.n], 1994.
+BURAWOY e Braga, Michael e Ruy. Por uma sociologia pública. São Paulo:
+Alameda, 2009.
+GOFFMAN, Erving. Os quadros da experiência social: uma perspectiva de
+análise. Petrópolis, RJ: Vozes,2012.
+GIDDENS, Anthony. Sociologia. Lisboa: Gulbenkian, 1997.
+GUARESCHI, Pedrinho A (org). Comunicação e controle social. Petrópolis: Vozes,
+1991.
+JEANENEY, Jean Noel. Uma história da comunicação social. Lisboa: Terramar,
+1996.
+LIMA, Venicius A de. Comunicação e cultura: as idéias de Paulo Freire. Rio de
+Janeiro: Paz e Terra, 1981.
+MAFFESOLI, Michel. O tempo das tribos. Rio de Janeiro: Forense Universitária,
+1987.
+MARTINS, José de Souza. Sociologia da fotografia e da imagem. São Paulo:
+contexto, 2014.
+MESQUITA, Mário. O quarto equívoco: o poder dos medias na sociedade
+contemporânea. Coimbra: Minerva, 2004.
+PERUZZO, Cecília M. K. Comunicação para Cidadania. São Paulo: INTERCOM:
+Salvador/UNEB, 2003.
+RUBIM, Albino et al. Produção e recepção dos sentidos midiáticos. Petrópolis:
+172
+
+Vozes, 1998.
+SANTOS, Maria de Fátima de S; ALMEIDA, Leda Maria (org). Diálogos com a teoria
+da representação social. Recife: Ed. UEFPE, 2005.
+TRIVINHO, Eugênio. O mal-estar da teoria: a condição da crítica na sociedade
+tecnológica atual. Rio de Janeiro: Quartet.2001.
+173
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+ESTÁGIO SUPERVISIONADO Aplicação Processual de 200
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Orientação supervisionada da práxis profissional, envolvendo a observação,
+diagnóstico, planejamento e desenvolvimento de projetos em estruturas
+organizacionais regionais: meios de comunicação de difusão visual, sonora,
+impressa e multimídia; instituições de ensino públicas e/ou privadas, e seus
+respectivos projetos de comunicação; organizações não-governamentais;
+associações comunitárias. Orientação técnica e metodológica oferecido aos alunos
+como subsídio para elaboração relatório de estágio. Observação das rotinas
+produtivas e supervisão de atividades práticas.
+CONTEÚDO PROGRAMÁTICO
+1. Discussão sobre a importância do estágio como processo formativo e as relações
+com a sociedade e o mercado profissional;
+2. Apresentação dos diversos campos de atuação do profissional jornalista em
+multimeios e as habilidade e competências inerentes à função nos meios impresso,
+rádio, meios comunitários e na área de educomunicação.
+3. Elaboração de um plano de estágio, referente aos meios: impresso, rádio,
+televisão e meios comunitários e/ou educomunicação.
+4. Realização de um seminário para socialização dos planos.
+BIBLIOGRAFIA BÁSICA
+BELLONI, Maria Luiza. O Que é Mídia-Educação. Campinas/SP: Autores
+Associados, 2001.
+FÍGARO, Roseli. Relações de comunicação no mundo do trabalho. São Paulo:
+Annablume, 2008.
+PICONEZ, Stella (org). A prática de ensino e do estágio supervisionado. São
+Paulo: Papirus, 1994.
+TRAVANCAS, Isabel. O mundo dos jornalistas. São Paulo, Summus, 1992.
+BIBLIOGRAFIA COMPLEMENTAR
+ABREU, Alzira Alves de. A modernização da imprensa (1970-2000). Rio de
+Janeiro: Jorge Zahar Ed.,2002. (Coleção Descobrindo o Brasil).
+_______, LATTMAN-WELTMAN, Fernando, ROCHA, Dora (organizadores). Eles
+mudaram a imprensa: depoimentos ao CPDOC. Rio de Janeiro: Editora FGV,
+2003.
+ANTUNES, Ricardo. Adeus ao trabalho? Ensaios sobre as metamorfoses e a
+centralidade do mundo do trabalho. 3. ed. São Paulo: Cortez/Edunicamp, 1995.
+FÍGARO, Roseli. Comunicação e Trabalho: estudo de recepção: o mundo do
+trabalho como mediação da comunicação. São Paulo: Anita Garibaldi, 2001.
+______. Considerações sobre os resultados da pesquisa de recepção: a
+construção dos sentidos do trabalho pelos receptores dos meios de comunicação.
+Revista Latinoamericana de Ciencias de la Comunicación. Año II, n.2 enero/junio,
+2005. p.138-148. ISSN 1807-3026
+________. Atividade de comunicação e trabalho. Fapesp/ECA-USP, 2007.
+174
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+PLANEJAMENTO E GESTÃO DA Fundamentação
+60
+COMUNICAÇÃO Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre o ambiente sócio-organizacional: modelos e cenários. O mercado de
+empreendimentos de comunicação no Brasil. Visão integrada de comunicação nas
+organizações. Comunicação organizacional e processos de gestão. Planejamento e
+implementação de planos de ação em comunicação.
+CONTEÚDO PROGRAMÁTICO
+1. Conceito de Comunicação integrada;
+1.1. O surgimento e o avanço da comunicação organizacional;
+1.2. Comunicação e o trabalho em equipe;
+1.3. O campo de atuação das áreas de comunicação social: jornalismo, relações
+públicas e publicidade e propaganda;
+2. Planejamento em Comunicação – conceitos, tipos, funções, estrutura;
+2.1. Elaboração de Diagnóstico e Plano de Comunicação; a matriz SWOT e a
+árvore do problema;
+2.2. Planejamento em Comunicação em instituições do terceiro setor, empresas
+privadas e públicas;
+3. Estratégias internas e externas de comunicação;
+3.1. Gestão estratégica em comunicação organizacional;
+3.2. Gerenciamento de projetos de comunicação integrada;
+3.3. O mix da comunicação;
+3.4. O composto e as demandas do marketing;
+4. A pesquisa de opinião no fortalecimento da comunicação integrada;
+5. A Comunicação integrada fortalecendo a comunicação comunitária.
+BIBLIOGRAFIA BÁSICA
+BAPTISTA, Myrian Veras. Planejamento: introdução à metodologia do
+planejamento social. 4. ed. São Paulo: Moraes, 1981.
+CANFIELD, Bertrand R. Relações Públicas: princípios, casos e problemas. 4. ed.
+São Paulo: Pioneira, 1991.
+DIAZ BORDENAVE, Juan; CARVALHO, Horácio Martins. Comunicação e
+planejamento. 2. ed. Rio de Janeiro: Paz e Terra, 1979.
+DUARTE, Jorge. Asessoria de imprensa e relacionamento co m a mídia: teoria e
+prática. 2. ed. São Paulo: Atlas, 2003.
+FRANÇA, F.; FREITAS, Sidinéia G. Manual da Qualidade em Projetos de
+Comunicação. 2.ed. São
+Paulo: Pioneira, 2002.
+KOPPLIN, Elisa. FERRARETTO, Luiz Artur. Assessoria de imprensa. Teoria e
+Prática. Sagra-DC Luzzatto: Editores, 1993.
+KOPPLIN, E.; FERRARETTO, L. A. Assessoria de Imprensa: Teoria e Prática.
+4ed. Porto Alegre: Sagra, 2001
+MAFEI, Maristela. Assessoria de Imprensa: como se relacionar com a mídia. São
+Paulo: Contexto, 2005.
+NASSAR, P.; Figueiredo, R. O que é comunicação empresarial. São Paulo:
+Brasiliense, 2006.
+PINHO, J. B. Propaganda Institucional: usos e funções da propaganda em
+relações públicas. 5. ed. [s.l]: Summuns, 1990.
+REGO, Francisco Gaudêncio Torquato do. Comunicação Empresarial-
+Comunicação Institucional. 5. ed. São Paulo: Summus, 1986.
+175
+
+REGO, Francisco Gaudêncio Torquato do. Cultura, Poder, Comunicação e
+Imagem: Fundamentos da Nova Empresa. 4ed. São Paulo: Pioneira, 2003
+BIBLIOGRAFIA COMPLEMENTAR
+CITELLI, Adilson. Linguagem e persuasão. São Paulo: Ática, 1986.
+KOTLER, Philip. Marketing. São Paulo: Atlas, 1987.
+SANT´ANNA, Armando. Propaganda: teoria, técnica e prática. 7. ed. São Paulo:
+Pioneira, 1998.
+SCHEWE, Charles D.; SMITH, Reuben M. Marketing: Conceito casos e aplicações.
+São Paulo: Mc Graw Hill, 1982.
+SIMÕES, Roberto Porto. Relações Públicas: Função Política. 6. ed. Summus, 1995.
+176
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+PLANEJAMENTO VISUAL Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute a teoria, técnica e processos de produção da linguagem visual, compreendendo
+a relevância da linguagem visual para os diversos meios.
+CONTEÚDO PROGRAMÁTICO
+1. Discussão dos conceitos de linguagem visual aplicado aos meios.
+2. A linguagem visual no suporte impresso: jornalismo impresso, do projeto gráfico ao
+desenho da página:
+2.1. O estilo da tipologia
+2.2. Colunagem
+2.3. A formatação de títulos, linhas finas, legendas, olhos, cartolas e demais elementos
+de texto.
+2.4. Os padrões na infografia e dos recursos gráficos.
+2.5. A definição gráfica e conceitual do veículo: a utilização da cor; retículas; selos,
+vinhetas e ícones; fotografia e ilustrações.
+2.6. Métodos e impressão: Tipografia,Linotipos,Impressoras, Off-set, máquinas
+composer, impressão á laser.
+3. Diagramação
+3.1. O diagramador na estrutura do veículo
+3.2. Tabelas de cálculos e conversões de tipos
+3.3. Fotolito e scanner colorido
+4. Computação Gráfica e Editoração Eletrônica
+4.1. A prática do Page Maker
+4.2. Diagramação de revistas, jornais e boletins.
+4.3. Noções básicas de Photoshop: resolução, modo de cor.
+4.4. O uso do scanner para digitalização de imagens.
+4.5. Procedimentos básicos para envio de arquivos para a gráfica.
+4.6. Produção gráfica: tipos de papéis, provas; orçamento.
+BIBLIOGRAFIA BÁSICA
+ARNHEIM, Rudolf. Arte & percepção visual. Uma psicologia da visão criadora. 6. ed.
+São Paulo: Pioneira Editora, 1991.
+BAER, Lorenzo. Produção Gráfica. São Paulo: SENAC, 1999.
+COLLARO, Antonio C. Projeto Gráfico – teoria e prática da diagramação. 2. ed. São
+Paulo: Summus, 2000.
+DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.
+LOPES, Dirceu. Jornal Laboratório. São Paulo: Summus, 1989.
+LUPTON, Ellen. Pensar com Tipos: Um guia para designers, escritores, editores e
+estudantes. Cosac & Naify, 2006.
+SAMARA, Timothy. Evolução do design da teoria à prática. Porto Alegre: BOOKMAN
+COMPANHIA ED, 2010.
+BIBLIOGRAFIA COMPLEMENTAR
+HURBULT. A. Layout. São Paulo: Mosaico, 1981.
+MONORU, Recardo. 300 superdicas de editoração, design e artes gráficas. São
+Paulo: Erica, 1999.
+RIBEIRO, Milton. Planejamento visual gráfico. Brasília: Linha, 1987.
+177
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+COMUNICAÇÃO E EDUCAÇÃO 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute os meios de comunicação – audiovisuais, sonoros e impressos – na
+sociedade contemporânea – suas implicações políticas, sócias e econômicas. As
+potencialidades educativas dos meios.
+CONTEÚDO PROGRAMÁTICO
+1. Comunicação e Educação: conceituação de Educomunicação
+1.1. A educação comunicacional: Pedagogia comunicacional.
+1.2. O profissional de comunicação na educomunicação;
+1.3. O discurso através dos meios, ideologia;
+2. Produtos imagéticos, sonoros e audiovisuais: imagem, som e movimento
+2.1. As tecnologias de comunicação e educação na escola;
+2.2. As novas linguagens que sensibilizam e motivam aos educandos;
+2.3. A linguagem dos meios e suas possibilidades educativas, os meios como
+educadores coletivos;
+3. Comunicação e educação campos e relações interdisciplinares ou
+transdisciplinares
+3.1.A informação dos meios de comunicação social potencializando o uso da
+imagem, da informação e do discurso na comunicação de massa e na educação;
+4. Políticas culturais, dimensões éticas processo de produção dos produtos controle
+dos meios, regulação e suas finalidades
+4.1. A linguagem do vídeo e da TV;
+4.2. O cinema com prática educativa;
+4.3. O educador e os meios interativos em Educação à Distância.
+BIBLIOGRAFIA BÁSICA
+AUMONT, J. A Imagem. Campinas: Papirus, 1993.
+BERLO, D.K. O processo de comunicação. São Paulo: Ed. Martins Fontes, 1997.
+DORFMANJ, A. & MATTELART, A. Para ler o Pato Donald: Comunicação de
+massa e colonialismo.: Cortez, 1998.
+FREIRE, P. Educação e mudança. Rio de Janeiro: Paz e Terra, 1979.
+______. Extensão ou comunicação? Trad. de RD. Oliveira. Rio de Janeiro: Paz e
+Terra, 1982.
+______. Pedagogia da autonomia. Saberes práticos à educativa. São Paulo: Paz
+e Terra, 1996.
+LÉVY, P. Cibercultura. São Paulo, Ed. 34, 1999.
+MCLUHAN, M. Os meios de comunicação como extensões do homem. São
+Paulo: Cultrix, 1998.
+MONTEIRO, Cláudio Guerra. O papel educativo dos meios de comunicação.
+178
+
+Disponível em http://www.ipv.pt/forumidia/3/3-fi3.htm
+BIBLIOGRAFIA COMPLEMENTAR
+BELLONI, Maria Luiza. O Que é Mídia-Educação. Campinas/SP: Autores
+Associados, 2001.
+FARIA, M.A. Como usar o jornal na sala de aula. São Paulo: Contexto, 1998.
+FERRES, JOAN. Vídeo e Educação. 2º ed. Porto Alegre: Artes Médicas (Artmed).
+1996.
+_____________. Televisão e Educação. São Paulo: Artes Médicas (Artmed), 1996
+FERRETI, Celso João (org). Novas tecnologias, trabalho e Educação: um debate.
+Multidisciplinar. Petrópolis; Vozes, 1998.
+FISCHER, Rosa Maria Bueno. Televisão & Educação: fruir e pensar a TV. Belo
+Horizonte: Autêntica, 2001.
+GREENFIELD, P. M. O desenvolvimento do raciocínio na era da eletrônica: os
+efeitos da TV, computadores e videogames. São Paulo: Summus, 1988.
+ROSADO. Eliana M. da Silva. ROMANO, Maria C.J. de Souza. O vídeo no campo da
+Educação. Ijuí/RS: UNIJUÍ. 1994.
+SANCHO, J (Org). Para uma tecnologia educacional. Porto Alegre: Artmed, 1998.
+TORRES, A. Cinema, arte e ideologia. Porto Alegre: Afrontamento. 1975.
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+COMUNICAÇÃO E NOVAS Fundamentação
+60
+TECNOLOGIAS Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre as novas tecnologias como novo domínio do conhecimento, de
+transformação social e produção jornalística. Novas tecnologias da informação e
+comunicação e jornalismo. Teoria do hipertexto. Cibercultura e ciberespaço.
+Computação e jornalismo. Hipermídia, multimídia e transmídia. Web e internet. Mídias
+locativas e mercado mobile. Jogos digitais e comunicação.
+CONTEÚDO PROGRAMÁTICO
+1. Teoria do hipertexto
+2. Origens das redes telemáticas: da arpanet à internet
+3: Computação e jornalismo: mainframe, computação pessoal e computação ubiqua
+4. O ciberespaço: cibercultura, web 1.0, web 2.0 e websemântica
+5. Hipermídia, multimídia e transmídia
+6. As fases da cibercultura: banda larga, redes sem fio, redes sociais e funções pós-
+massivas da comunicação.
+7. Mídias locativas e móbile media
+8. jogos digitais
+BIBLIOGRAFIA BÁSICA
+ANDRADE, LA. Jogos digitais, cidade e (trans)mídia: a próxima fase. Curitiba:
+Appris, 2015
+BOURDIEU, P. Sobre a Televisão. Rio de Janeiro: Zahar, 1997.
+JENKINS, H. Cultura da Convergência. São Paulo: Aleph, 2008.
+LEÃO, L. O labirinto da hipermídia. 3. ed. São Paulo: Iluminuras, 2005. 160 p. 2004.
+LEMOS, A. A Comunicação das Coisas: Cibercultura e teoria ator-rede. São
+Paulo: Annabluma, 2013
+_______. Cidade e mobilidade. Telefones celulares, funções pós-massivas e
+territórios informacionais. Matrizes São Paulo: USP, 2007.
+_______. Cibercultura. Porto Alegre: Sulina, 2004.
+LEVY, P. Cibercultura. Campinas: Ed 34, 1994.
+179
+
+BIBLIOGRAFIA COMPLEMENTAR
+ANDRADE, LA. Efeitos em terceira pessoa e funções posmassivas: o caso de
+obsessão compulsiva. IIABCIber. São Paulo: [s.n.], 2008.
+LANDOW, G. Hypertext 3.0: Critical Theory and New Media in an Era of Globalization
+(Parallax: Re-visions of Culture and Society. John Hopkins Press: London, 2006.
+LEMOS, A; Levy, P. O Futuro da Internet. Campinas: Paulus, 2010.
+O’REILLY, T. What’s web 2.0: New York: O’Reilly Media, 2002.
+180
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+TEORIAS DA IMAGEM 60
+Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Retrospectiva histórica das imagens. A imagem em seus vários suportes: fotografia,
+vídeo, cinema, televisão e multimídia. Tendências atuais e perspectivas futuras do uso
+e função da imagem; dimensões sociais e éticas. A interpretação entre a imagem e
+outros elementos comunicacionais. Da imagem analógica à imagem digital.
+CONTEÚDO PROGRAMÁTICO
+1. Sintaxe elementos básicos da linguagem audiovisual e cinematográfica
+1.1. Imagem
+1.2. Fenômenos sonoros
+1.3. Estrutura narrativa
+2. Edição em Cinema e Vídeo
+2.1. Montagem Cinematográfica
+2.2. Processos de edição audiovisual: linear e não linear
+2.3. A tecnologia digital: impactos sobre a produção e edição
+3. O documentário
+3.1. Conceitos e características
+3.2. O documentário cinematográfico
+3.3. O vídeo-documentário
+3.4. O documentário jornalístico
+4. Produção de materiais em vídeo
+BIBLIOGRAFIA BÁSICA
+AUMONT, Jacques. A estética do filme. Campinas: Papirus, 1995.
+_______________. A Imagem. São Paulo: Ed. Papirus, 1993.
+BARTHES, Roland. A câmara clara. 3ª ed.; Rio de Janeiro: Nova Fronteira,, 1984.
+BERGER, John. Modos de ver; Rio de Janeiro: Rocco, 1999.
+BORDWELL, David e THOMPSON, Kristin. El Arte Cinematográfico. Barcelona:
+Paidós, 1995.
+DIDI-HUBERMAN. O que vemos, o que nos olha; São Paulo: Editora 34, 1998.
+MARTIN, Marcel. A Linguagem Cinematográfica. São Paulo: Brasiliense, 2003.
+PARENTE, André (org.). Imagem-máquina; Rio de Janeiro: Editora 34, 1993.
+BIBLIOGRAFIA COMPLEMENTAR
+ARISTARCO, Guido e Teresa (eds). O Novo Mundo das Imagens Electrónicas.
+Lisboa: Ed. 70, 1990
+JUMÉNEZ, Jesús Garcia. Narrativa Audiovisual. Madrid: Catedra, 1996.
+XAVIER, Ismail. A experiência do cinema. Rio de Janeiro: Graal, 1983.
+BECKER, Howard. Mundos artísticos e tipos sociais. In VELHO, Gilberto (Org.) Arte e
+sociedade. Rio de Janeiro: Zahar, 1977.
+BENJAMIN. Walter. A obra de arte na era de sua reprodução técnica. In: Magia e
+técnica, arte e política. São Paulo: Brasiliense, 1986.
+CANEVACCI, Massimo. Antropologia da comunicação visual. São Paulo:
+Brasiliense, 1990.
+181
+
+COLI, Jorge. O que é arte. São Paulo: Brasiliense, 1989.
+MARANHÃO, Jorge. A arte da publicidade: estética. Crítica e kitsch. Campinas:
+Papirus, 1988.
+SANTARELLA, Lucia. Estética. De Platão a Peirce. São Paulo: Experimento, 1994.
+SODRÉ, Muniz. A comunicação do grotesco. Rio de Janeiro: Vozes, 1980.
+_______; PAIVA, Raquel. O Império do grotesco. Rio de Janeiro: Mauad, 2002.
+182
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+FUNDAMENTAÇÃO
+ESTÉTICA EM COMUNICAÇÃO 60h
+HHUMANÍSTICA
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute a arte e as concepções de estética, enfatizando a estratificação dos produtos
+culturais. Analisa a cultura como mercadoria e objeto de prazer e estudos dos modelos
+teóricos de análise aplicada aos produtos da comunicação midiática.
+CONTEÚDO PROGRAMÁTICO
+1. Definições de estética;
+1.1. A estética como dimensão humana;
+1.2. Arte aurática e arte popular;
+1.3. Arte coletiva;
+2. Autores e co-autores da arte no Século XXI;
+3. O novo imaginário estético
+BIBLIOGRAFIA BÁSICA
+ARNHEIM, Rudolf. Arte & percepção visual. Uma psicologia da visão criadora. 6. ed.
+São Paulo: Pioneira Editora, 1991.
+AUMONT, Jacques. A Imagem. Campinas/SP: Papirus, 1993.
+DONDIS, Donis. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.
+DUARTE JÚNIOR, João Francisco. O que é beleza: experiência estética. 2. ed São
+Paulo: Brasiliense, 1987. LIMA, Luiz Costa; ADORNO, Theodor W. Teoria da cultura
+de massa. 7. ed Rio de Janeiro: Paz e Terra, 2005.
+GUMBRETCH, Hans Ulritch. Elogio da Beleza Atlética. São Paulo: Companhia das
+Letras, 2007.
+LIPOVETSKY, Gilles; SERROY, Jean. A estetização do mundo: viver na era do
+capitalismo artista. São Paulo: Compahia das Letras, 2015;
+RUBIM, Antonio Albino Canelas; BENTZ, Ione; PINTO, Milton José; Associação
+Nacional dos Programas de Pós-Graduação em Comunicação (BRASIL). O Olhar
+estético na comunicação. Petrópolis, RJ: Vozes, COMPÓS, 2000.
+SHUSTERMAN, Richard. Vivendo a arte: o pensamento pragmatista e a estética
+popular. São Paulo: Editora 34, 1998.
+BIBLIOGRAFIA COMPLEMENTAR
+BECKER, Howard. Mundos artísticos e tipos sociais. In VELHO, Gilberto (Org.) Arte e
+sociedade. Rio de Janeiro: Zahar, 1977.
+BENJAMIN. Walter. A obra de arte na era de sua reprodução técnica. In: Magia e
+técnica, arte e política. São Paulo: Brasiliense, 1986.
+CANEVACCI, Massimo. Antropologia da comunicação visual. São Paulo:
+Brasiliense, 1990.
+COLI, Jorge. O que é arte. São Paulo: Brasiliense, 1989.
+MARANHÃO, Jorge. A arte da publicidade: estética. Crítica e kitsch. Campinas:
+Papirus, 1988. SANTARELLA, Lucia. Estética. De Platão a Peirce. São Paulo:
+Experimento, 1994.
+SODRÉ, Muniz. A comunicação do grotesco. Rio de Janeiro: Vozes, 1980.
+_____________. PAIVA, Raquel. O Império do grotesco. Rio de Janeiro: Mauad,
+2002.
+183
+
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+SEMINÁRIOS INTERDISCIPLINAR 1 e 2 30 cada
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+EMENTA
+Seminários Interdisciplinares sobre temas emergentes em Comunicação, Cultura e
+Jornalismo na contemporaneidade e voltados a produção experimental em
+Comunicação, cultura e Jornalismo.
+CONTEÚDO PROGRAMÁTICO
+1. Introdução à interdisciplinaridade, conceitos, metodologias e abordagens;
+2. Identificação, debate e construção de temas emergentes na área;
+3. Identificação, debate e construção de problemas regionalizados na área da
+comunicação, cultura e jornalismo;
+4. Construção de projetos interdisciplinares em comunicação, cultura e jornalismo;
+5. Produção e aplicação experimental em Comunicação, Cultura e Jornalismo.
+6. Produção e aplicação experimental da abordagem interdisciplinar na
+comunicação frente às questões locais e/ou regionais.
+BIBLIOGRAFIA BÁSICA
+ERVO, Armando Luiz. Metodologia Científica. 4. ed. São Paulo; McGraw Hill, 1996.
+LOPES, Maria Imaculada V. Pesquisa em comunicação. Formulário de um modelo
+metodológico. São Paulo: Loyola, 1990.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de pesquisa. 3. ed.
+São Paulo; Atlas,
+199.
+RUDIO, Franz Victor. Introdução ao projeto de pesquisa científico, 2. ed.
+Petrópolis; Vozes. 1979.
+SFEZ, Lucien. Crítica da comunicação. São Paulo: Loyola, 1994.
+THIOLLENT, Michel. Metodologia da pesquisa-ação. São Paulo: Cortez. 1988.
+WOLF, Mauro. Teorias da Comunicação. Lisboa. Editorial Presença, 1987.
+BIBLIOGRAFIA COMPLEMENTAR
+DUARTE, J. e BARROS, A (Org.). Métodos e técnicas de Pesquisa em
+Comunicação. São Paulo: Atlas, 2005.
+LAGO, Claudia; BENETTI, Márcia. Metodologia da Pesquisa em Jornalismo.
+Petrópolis-RJ. Vozes. 2007
+REY, Marcos. O roteirista Profissional: televisão e cinema. São Paulo: Ática 1995.
+SANTOS, Ruck. Manual de vídeo. Rio de janeiro: UFRJ. 1993.
+SOUZA, Francisco das chagas de. Apresentação e elaboração de projetos e
+monografias. Niterói: Universidade Federal Fluminense, 1997.
+SOUZA, Jorge Pedro. Teorias da notícia e do jornalismo. Chapecó: Grifus, 2002.
+TRAQUINA, Nelson. O estudo do jornalismo no século XX. São Leopoldo: Ed.
+Unisinos, 2001.
+GIL,Antonio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Fundamentação
+SEMINÁRIOS AVANÇADOS 60
+Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+184
+
+TEORIA E MÉTODO DE PESQUISA EM
+TCC
+JORNALISMO
+EMENTA
+Seminários Temáticos sobre as correntes teóricas da Comunicação e do Jornalismo
+na contemporaneidade e da Produção experimental em Comunicação e Jornalismo.
+Elaboração de Anteprojeto de Trabalho de Conclusão de Curso.
+CONTEÚDO PROGRAMÁTICO
+1. Os pré-projetos de TCC;
+2. Ciência, pesquisa e TCC - conceitos, estatutos e requisitos.
+3. Os tipos de TCC regulamentados na UNEB e suas aplicações na concepção dos
+projetos em elaboração.
+4. Referenciais teórico-metodológicos dos projetos em elaboração.
+5. Reelaboração qualificada da concepção dos projetos de TCC para apresentação na
+finalização da disciplina.
+BIBLIOGRAFIA BÁSICA
+ERVO, Armando Luiz. Metodologia Científica. 4. ed. São Paulo; McGraw Hill, 1996.
+LOPES, Maria Imaculada V. Pesquisa em comunicação. Formulário de um modelo
+metodológico. São Paulo: Loyola, 1990.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de pesquisa. 3. ed.
+São Paulo; Atlas,
+199.
+RUDIO, Franz Victor. Introdução ao projeto de pesquisa científico, 2. ed.
+Petrópolis; Vozes. 1979.
+SFEZ, Lucien. Crítica da comunicação. São Paulo: Loyola, 1994.
+THIOLLENT, Michel. Metodologia da pesquisa-ação. São Paulo: Cortez. 1988.
+WOLF, Mauro. Teorias da Comunicação. Lisboa. Editorial Presença, 1987.
+BIBLIOGRAFIA COMPLEMENTAR
+DUARTE, J. e BARROS, A (Org.). Métodos e técnicas de Pesquisa em
+Comunicação. São Paulo: Atlas, 2005.
+LAGO, Claudia; BENETTI, Márcia. Metodologia da Pesquisa em Jornalismo.
+Petrópolis-RJ. Vozes. 2007
+REY, Marcos. O roteirista Profissional: televisão e cinema. São Paulo: Ática 1995.
+SANTOS, Ruck. Manual de vídeo. Rio de janeiro: UFRJ. 1993.
+SOUZA, Francisco das chagas de. Apresentação e elaboração de projetos e
+monografias. Niterói: Universidade Federal Fluminense, 1997.
+SOUZA, Jorge Pedro. Teorias da notícia e do jornalismo. Chapecó: Grifus, 2002.
+TRAQUINA, Nelson. O estudo do jornalismo no século XX. São Leopoldo: Ed.
+Unisinos, 2001.
+GIL,Antonio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+185
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+HISTÓRIA DO JORNALISMO Fundamentação Contextual 60
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Analisa a trajetória da comunicação no Brasil e no mundo, discutindo as
+transformações da imprensa, do rádio e da televisão. A Constituição e o
+desenvolvimento do mercado de bens simbólicos relacionado aos meios de
+comunicação. A relação entre os meios de comunicação e as estruturas econômicas e
+de poder.
+CONTEÚDO PROGRAMÁTICO
+1. Evolução Histórica da Comunicação
+1.1. Reflexões sobre a história da comunicação – das origens antigas às origens
+recentes.
+1.2. A informação oral;
+1.3. Livros e Leitura
+2. Evolução Histórica da Comunicação e do Jornalismo
+2.1. Panorama do Jornalismo: nos Estados Unidos e na Europa (França)
+2.2. História da Imprensa: primórdios no Brasil e na Bahia da imprensa artesanal à
+empresa jornalística;
+2.3. Imprensa, Jornalistas e acontecimentos históricos relevantes.
+2.4. A empresa jornalística e a segmentação visando público consumidor
+3. Evolução da Imprensa e dos Meios de Comunicação no Século XX
+3.1. O cinejornalismo e a instrumentalização pelo Estado
+3.2. O rádio e a expansão do mercado de bens simbólicos e da indústria fonográfica
+3.3. A televisão, expansão do mercado de consumo e a influência da publicidade
+3.4. As revistas, suplementos literários e a divulgação de ideias
+3.5. A imprensa alternativa e contra-hegemônica na Bahia e no Brasil
+4. 0. Os donos da mídia: a relação entre imprensa, poder, política e a concessão de
+rádio e televisão no Brasil.
+5. Aspectos históricos da imprensa regional e local
+BIBLIOGRAFIA BÁSICA
+BRIGGS, Asa; BURKE, Peter. Uma História Social da Mídia: de Gutembert à internet.
+Rio de Janeiro: Jorge Zahar, 2004.
+MELLO, José Marques de. História Social da Imprensa. Petrópolis: Vozes, 1973.
+ORTIZ, Renato. A moderna tradição brasileira. São Paulo: Brasiliense, 1998.
+PERDIGÃO, Paulo. PRK-30 no Ar!: o mais famoso programa de humor da era do
+Rádio. Rio de Janeiro: Casa da Palavra, 2003.
+SILVA, Carlos Eduardo Lins. Adiantado da hora: a influência americana sobre o
+jornalismo brasileiro. 2. ed.São Paulo: Summus, 1991.
+SODRÉ, Nelson Werneck. História da imprensa no Brasil. 4.ed. Rio de Janeiro:
+Mauad, 1999.
+TASCHNER, Gisela. Folhas ao vento: análise de um conglomerado jornalístico no
+Brasil. Rio de Janeiro: Paz e Terra, 1992.
+BIBLIOGRAFIA COMPLEMENTAR
+186
+
+DARNTON, Robert; Roche, Daniel. Revolução Impressa (1775-1800).São Paulo:
+EDUSP, 1996.
+FALCON, Gustavo. Os baianos que rugem: a imprensa alternativa na Bahia.
+Salvador: Edufba, 1996.
+GIOVANNINI, Giovanni(coord). Evolução na comunicação. Rio de Janeiro: Nova
+Fronteira, 1987.
+KUCINSKI, Bernardo. Jornalistas e revolucionários: nos tempos da imprensa
+alternativa. São Paulo: Edusp, 2003.
+187
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+DOCUMENTÁRIO Fundamentação Específica 60
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Discute as expressões do documentário e as características desta linguagem. Faz uma
+revisão histórica de seu desenvolvimento, discutindo as modalidades, dentro de seus
+contextos e mais particularmente a construção do documentário no Brasil.
+CONTEÚDO PROGRAMÁTICO
+1. O filme documentário e os primórdios do cinema: as atualidades (actualités) e os
+filmes de cavação
+2. As origens do filme de não ficção como verdade científica: o filme etnográfico
+3. A escola inglesa e as influentes idéias de J. Grierson
+5. O filme documentário e a proposta educativa: Humberto Mauro e o INCE
+6. O cinema direto e o método observacional
+7. O cinema verdade e o método reflexivo
+8. O documentário moderno brasileiro: diretores do Cinema Novo e a Caravana Farkas
+9. Documentário e televisão: a reportagem e o filme documentário, o jornalista e o
+diretor
+10. As relações entre ficção e documentário: o docudrama
+12. O documentário em primeira pessoa
+13. As novas mídias e o filme documentário
+BIBLIOGRAFIA BÁSICA
+FRIEDICH, Hegel, WILHELM, Georg. Estética: A idéia e o ideal. São Paulo: Nova
+Cultural, 1999.
+LABAKI, A. Introdução ao documentário brasileiro. São Paulo: Francis, 2006.
+LINS, C. O Documentário de Eduardo Coutinho: televisão, cinema e vídeo. Rio de
+Janeiro: Jorge Zahar, 2004.
+NICHOLS, B. Introdução ao documentário. Campinas: Papirus, 2005.
+PENAFRIA. O filme documentário: história, identidade, tecnologia. Lisboa: Edições
+Cosmos, 1999.
+REY, Marcos. O roteirista profissional: televisão e cinema. São Paulo: Editora Ática,
+1989.
+TEIXEIRA, Francisco Elinaldo. Documentário no Brasil: Tradição e transformação.
+[s.l]: Summus editorial, [s.d].
+BIBLIOGRAFIA COMPLEMENTAR
+AVELLAR, J.C. Geraldo Sarno. In: PARANAGUA, P.A. (Org.) Cine Documental em
+America Latina. Madri: Cátedra, 2003.
+BARBOSA, M.; RIBEIRO, A.P.G. Telejornalismo na Globo: vestígios, narrativa e
+temporalidade. In: BOLAÑO, C.; BRITTOS, V.C. (Orgs). Rede Globo: 40 anos de
+poder e hegemonia. São Paulo: Paulus, 2005.
+BARNOW, Erik. Documentary – a history of the non-fiction film. Nova York: Oxford
+University Press, 1993.
+BERNARDET, J.C. Cineastas e imagens do povo. São Paulo: Brasiliense, 1985.
+DA-RIN, Silvio. Espelho Partido - tradição e transformação no documentário. Rio
+de Janeiro: Azougue Editorial, 2004.
+RAMOS, F., MIRANDA, L.F. Enciclopédia do cinema brasileiro. São Paulo: Senac,
+2000.
+RENOV, M. Theorizing documentary. Nova Iorque: Routlege, 1993.
+ROSENTHAL, A. New challenges for documentary. Los Angeles: University of
+Califórnia Press, 1988.
+188
+
+RUBY, J. The image mirrored: reflexivity and the documentary film. In: ROSENTHAL,
+A. New challenges for documentary. Los Angeles: University of Califórnia Press, 1988.
+SOUZA, H.A.G., Documentário, realidade e semiose: os sistemas audiovisuais como
+fontes de conhecimento. São Paulo: Annablume/Fapesp, 2002.
+TEIXEIRA, F. E. (Org.) Documentário no Brasil: tradição e transformação. São Paulo:
+Summus Editorial, 2004.
+WILLIAMS, L. Mirrors without memories – truth, history and the new documentary. Film
+Quarterly, v.46, n.03, p.9-21.
+WINSTON, B. Claiming the real: the documentary film revisited. Londres: BFI, 1995.
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRIA
+Formação Profissional e
+ASSESSORIA EM COMUNICAÇÃO Aplicação Processual de 60
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+189
+
+- -
+EMENTA
+Reflete sobre o conhecimento e especificidade da assessoria de comunicação:
+atribuições e funções. O caráter estratégico e integrado do trabalho de assessoria de
+comunicação. O planejamento estratégico em assessoria de comunicação. Divulgação
+e produção da imagem organizacional.
+CONTEÚDO PROGRAMÁTICO
+1. Distinção entre Assessoria de Comunicação (ASCOM) e Assessoria de Imprensa;
+1.1. Papel do jornalista, publicitário e relações públicas em uma Ascom;
+26 Rotinas produtivas: o dia-a dia de um assessor de comunicação
+2.1. Produtos e serviços de uma assessoria de comunicação
+3. Histórico e estrutura de assessoria de imprensa
+3.1. Produtos e serviços de uma assessoria de imprensa
+3.2. Assessoria de imprensa em empresas públicas, privadas e no terceiro setor
+3.3. As funções do jornalista e as rotinas produtivas deste profissional
+3.4. Gerenciamento de crises
+3.5. Media Training
+3.6. Avaliação de resultados em assessoria de imprensa
+4. Questões éticas na área de assessoria de imprensa
+5. Relação entre assessor e jornalistas de redação
+6.Técnicas de redação para os principais produtos de uma assessoria em jornalismo:
+release, nota, sugestão de pauta etc.
+BIBLIOGRAFIA BÁSICA
+DUARTE, Jorge. Assessoria de imprensa e relacionamento com a mídia. Teoria e
+prática. 2 ed. São Paulo: Atlas, 2003.
+FEDERAÇÃO NACIONAL DE JORNALISMO (FENAJ).Manual de Assessoria de
+Imprensa. São Paulo. Ed. FENAJ, 1986.
+KOPPLIN, Elisa. FERRARETTO, Luiz Artur. Assessoria de imprensa. Teoria e
+Prática. Sagra-DC: Luzzatto Editores, 1993.
+LIMA, Gérson Moreira. Releasemania. São Paulo: Summus. 1985.
+LOPES, Boanerges. O que é assessoria de imprensa?[s.l]: Editora Brasiliense.
+2003.
+MAFEI, Maristela. Assessoria de Imprensa: como se relacionar com a mídia. São
+Paulo: Contexto, 2005.
+VILLELA, Regina. Quem tem medo da imprensa? Rio de Janeiro: Campus, 1998.
+BIBLIOGRAFIA COMPLEMENTAR
+EID, Marco Antonio de Carvalho. Entre o Poder e a Mídia – Assessoria de Imprensa
+no Governo. São Paulo: M. Books.
+KARAN. Francisco José. Jornalismo, ética e liberdade. São Paulo: Summus. 1997.
+RABAÇA, Carlos Alberto; BARBOSA, Gustavo G. Dicionário de Comunicação. Rio
+de Janeiro: Campus, 2002.
+190
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+TEORIA E MÉTODO DE PESQUISA EM FUNDAMENTAÇÃO
+75
+JORNALISMO ESPECÍFICA
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Aborda a epistemologia da comunicação e jornalismo como objetos de estudo. Tipos
+de pesquisa e teoria no campo científico da Comunicação e jornalismo. Métodos e
+técnicas de pesquisa em comunicação e jornalismo.
+CONTEÚDO PROGRAMÁTICO
+1. Pesquisa em Comunicação Social e Jornalismo
+2. Panorama da Pesquisa em Comunicação e jornalismo no Brasil;
+2.1. Objetos da Comunicação Social e a Comunicação Social como Objeto;
+2.2. A pesquisa em Jornalismo;
+3. Redação Científica
+3.1. Normalização de trabalhos acadêmicos
+4. Construção do Conhecimento Científico
+4.1. A importância do Projeto de Pesquisa;
+4.2. Formulação do Tema e Objeto de Estudo para o TCC
+5. Discussão das metodologias para projetos na área de Comunicação e Jornalismo
+BIBLIOGRAFIA BÁSICA
+CERVO, A. L. & Bervian, P. A. Metodologia científica. São Paulo: Mc Graw-Hill,
+1983.
+DEMO Pedro. Introdução à metodologia da ciência. São Paulo: Atlas, 1991.
+LAKATOS, Eva Maria, MARCONI, M. Fundamentos de metodologia científica. [s.l]:
+[s.n], [s,d].
+LOPES, Maria Imaculada V. Pesquisa em comunicação. Formulário de um modelo
+metodológico. São Paulo: Loyola, 1990.
+MEDEIROS, João Bosco. Redação científica. São Paulo: Atlas, 1983.
+MINAYO, Maria Cecília de Souza (org.) Pesquisa social: teoria, método, criatividade.
+Petrópolis/RJ: Vozes, 1997.
+THIOLLENT, Michel. Metodologia da pesquisa-ação. São Paulo: Cortez, 1988.
+BIBLIOGRAFIA COMPLEMENTAR
+BEKER, Howard. Métodos de pesquisa em ciências sociais. São Paulo: Hucitec,
+1994.
+GOLDEMBERG, Miriam. A arte de pesquisar. São Paulo: Record, 1999.
+KÖCHE, José Carlos. Fundamentos de metodologia científica. 14. ed. Petrópolis:
+Vozes, 1997.
+MELO, José Marques. Pesquisa em comunicação social no Brasil. São Paulo:
+Cortez, 1983.
+CARGA
+COMPONENTE CURRICULAR EIXO
+HORÁRI
+191
+
+A
+Formação Profissional e
+COMUNICAÇÃO EM PLATAFORMAS
+Aplicação Processual de 60
+MULTIMEIOS
+Práticas Laboratoriais
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+Jornalismo Online -
+EMENTA
+Estuda as diversas práticas e as rotinas do campo da comunicação considerando os
+conteúdos jornalísticos além de outras formas de produção de discursos nos diversos
+ambientes tecnológicos. A produção é considerada a partir das possibilidades
+oferecidas pela convergência midiática em multimeios, com destaque para a função da
+internet enquanto meio de comunicação integrador. Discute também as formas e
+funções das redes sociais, o conceito de cultura participativa, jornalismo e mídia
+independente, o papel das mídias livres e os novos aparatos midiáticos por onde a
+comunicação pode atuar e interagir.
+CONTEÚDO PROGRAMÁTICO
+1. A prática da redação jornalística a partir de suportes de edição em diversas
+plataformas na internet.
+2. Função do jornalismo no campo das novas tecnologias em comunicação, e
+especificamente nos ambientes de convergência midiática, redes socais, mídias
+locativas, entre outras.
+3. Especificidade do jornalismo em multimeios e as características referente as
+diversas ferramentas comunicacionais;
+4. Produção de conteúdo jornalístico integrando os variados ambientes de
+convergência midiática utilizado pelos meios de comunicação.
+5. Produtos d a prática do jornalismo em ambientes de convergência midiática.
+6. Funções das redes sociais, cultura participativa e mídias independentes.
+7. Convergência Digital, e economia política da comunicação.
+BIBLIOGRAFIA BÁSICA
+CARDOSO, Gustavo. A mídia na sociedade em rede. Rio de Janeiro: Editora FGV,
+2007.
+CASTELLS, Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999.
+LEMOS, André, LEVY, Pierre. O futuro da Internet: em direção a uma
+ciberdemocracia; São Paulo: Paulus, 2010.
+LÉVY, Pierre. As tecnologias da inteligência – o futuro do pensamento na era da
+informática. Rio de Janeiro: Editora 34, 1995.
+_______. Que é o virtual? São Paulo: Editora 34, 2001.
+MACHADO, Elias e PALÁCIOS, Marcos. O ensino do jornalismo em redes de alta
+velocidade. Salvador: EDUFBA, 2007.
+PINHO, J.B. Jornalismo na internet: planejamento e produção da informação online.
+São Paulo: Summus, 2003.
+BIBLIOGRAFIA COMPLEMENTAR
+MARTIN, James. Hiperdocumentos e como criá-los. 1. ed. Rio de Janeiro: Campus,
+1992.
+RODRIGUES, Bruno. Webwriting – pensando o texto para a mídia digital. São
+Paulo: Berkeley, 2000.
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+TOPICOS ESPECIAIS EM JORNALISMO, Fundamentação
+45
+com ênfase em jornalismo ambiental Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+192
+
+- -
+EMENTA
+Discute a construção o jornalismo especializado, abordando formatos de texto
+opinativos e reportagem nas editorias de política, economia, esporte, rural, turismo,
+ambiental, entre outros. O papel do colunista especializado. Sustentabilidade e
+jornalismo ambiental.
+CONTEÚDO PROGRAMÁTICO
+1. Jornalismo especializado e jornalismo opinativo.
+1.1. O que são e como funcionam as editorias, qual o caráter técnico de cada uma.
+1.2. O que são matérias e reportagens especializadas; como funcionam as pautas no
+campo especializado
+1.3. O papel das fontes no jornalismo especializado/opinativo
+2. Jornalismo Político: A cobertura diária nos jornais e revistas:
+2.1. O papel da editoria de política
+2.2. O dia a dia dos repórteres e colunistas políticos
+2.3. A pauta política: as reportagens e as suítes
+3. Jornalismo de Turismo:
+3.1. Por que funciona como editoria semanal; A produção: textos e fotos; coberturas
+de viagens e releases;
+4. Jornalismo Econômico:
+4.1. Histórico sobre a cobertura econômica
+4.2. Técnicas dessa editoria e a cobertura diária; os repórteres e as respectivas áreas
+de cobertura
+5. Jornalismos Rural e Esportivo: O perfil dessas editorias/a cobertura.
+6. Jornalismo opinativo: categorias críticas para análise de produtos midiáticos: game,
+cinema, TV e Teatro.
+7. Jornalismo ambiental: conceitos e aplicações na Chapada Diamantina.
+BIBLIOGRAFIA BÁSICA
+BARBEIRO, Heródoto. Manual do Jornalismo Esportivo. São Paulo: Contexto, 2005.
+BUENO, Wilson da Costa. Comunicação, jornalismo e meio ambiente: teoria e
+pesquisa. São Paulo: Mojoara Editorial, 2007.
+BUENO, Wilson da Costa. Jornalismo Ambiental: explorando além do conceito.
+Revista Desenvolvimento e Meio Ambiente, n. 15, p. 33-44, jan./jun. 2007. Editora
+UFPR.
+CALDAS, Suely. Jornalismo Econômico. 2. ed. São Paulo: Contexto. 2005.
+DORNELES, Beatriz. Jornalismo comunitário em cidades do interior: uma
+radiografia das empresas jornalísticas: administração, comercialização, edição e
+opinião dos leitores. Porto Alegre: Sagra Luzzatto, 2004.
+FORTES, Leandro. Jornalismo investigativo. São Paulo: Contexto, 2005.
+MARTINS, Franklin Jornalismo Político. São Paulo: Contexto, 2005.
+PIZZA, Daniel. Jornalismo Cultural. 2. ed. São Paulo: Contexto, 2004.
+SCALZO, Marília. Jornalismo de revista. 2. ed. São Paulo: Contexto, 2004.
+BOAS, Sérgio Vilas. Formação & Informação Ambiental: Jornalismo para iniciados e
+leigos. Sao Paulo: Summus, 2004.
+Berna, Vilmar. 2010. Comunicação ambiental: reflexões e prática em educação
+ambiental. Paulus Editora. São Paulo.
+CASTELLS, Manuel. O poder da identidade. Tradução Klauss B. Gerhardt. SP: Ed.
+Paz e Terra, 2001.
+GIDDENS, Anthony. A política da mudança climática. Rio de Janeiro: Zahar, 2010.
+LEFF, Enrique. Epistemologia Ambiental. São Paulo: Cortez, 2001
+193
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+Fundamentação
+COMUNICAÇÃO, CULTURA E PODER 60
+Contextual
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre as relações entre cultura, história e sociedade. Estudos culturais
+britânicos e latino-americanos; questões de gênero e étnico-racial, com foco nos povos
+indígenas e afrobrasileiros. Os processos culturais e identitários no contexto midiático:
+a produção, circulação e recepção dos produtos comunicacionais. Hegemonia e poder
+dos meios. Concentração midiática. Cultura popular e comunicação. Políticas de Ação
+Afirmativa e as Leis 10.639/03 e 11.645/08. Desconstruindo estereótipos. Raça,
+racismo e os Meios de Comunicação de Massa (MCM). Imprensa Negra Brasileira.
+CONTEÚDO PROGRAMÁTICO
+1. Cultura, história e sociedade;
+2. Estudos Culturais britânicos: surgimento, desdobramento e críticas;
+3. Conceitos de cultura, relativismo, multiculturalismo, identidade cultural e alteridade;
+4. Temas e abordagens da cultura e as representações identitárias;
+5. Cultura e comunicação de massa: gênero, etnia e raça.
+BIBLIOGRAFIA BÁSICA
+HALL, Stuart. A Identidade cultural na pós-modernidade. Rio de Janeiro: DP&A,
+2006.
+LARAIA, Roque de Barros. Cultura, um conceito antropológico. Rio de Janeiro:
+Zahar, 1986.
+LEMOS, André. Cibercultura, tecnologia e vida social na cultura
+contemporânea. 2. ed. Porto Alegre, RS: Sulina, 2004. 320 p.
+SODRE, Muniz. Reinventando a cultura: a comunicação e seus produtos. 4. ed.
+Petrópolis, RJ: Vozes, 2001. 180 p.
+STAM, Robert, SHOHAT, Ella. Crítica da imagem eurocêntrica: multiculturalismo e
+representação. São Paulo: Cosac Naify, 2006.
+BIBLIOGRAFIA COMPLEMENTAR
+CANEVACCI, Massimo. Antropologia da comunicação visual. Rio de Janeiro:
+DP&A, 2000.
+GEERTZ, Clifford. A Interpretação das Culturas. Rio de Janeiro: Ed. Guanabara,
+1986.
+194
+
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+COMUNICAÇÃO, REALIDADE Fundamentação
+60
+BRASILEIRA E REGIONAL Humanística
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+Reflete sobre a formação da sociedade, da economia e do sistema político brasileiro e
+regional em sua relação com os meios de comunicação.
+CONTEÚDO PROGRAMÁTICO
+1. A formação do Estado brasileiro: da independência aos anos 30 e o crescimento da
+comunicação no Brasil;
+2. A influência do pensamento colonial escravagista na definição das hierarquias
+étnicas, culturais, articulados com o conceito de democracia racial;
+3. De Vargas aos governos militares: estabelecimento dos marcos da comunicação;
+4. A Bahia e sua influência no Nordeste na definição das políticas de comunicação
+entre as décadas de 60 e 80;
+5. O Brasil pós ditadura militar: mudanças políticas e novos rumos para a
+comunicação.
+BIBLIOGRAFIA BÁSICA
+ALBURQUEQUE, Durval Muniz de. A invenção do nordeste e outras artes. 2. ed.
+Recife: FJN – Editor Massagana: São Paulo: Cortez, 2001.
+BOSI, Alfredo. Dialética da Colonização. 4. ed. São Paulo: Companhia das Letras,
+1992.
+CHAUI, Marilena. Brasil: mito fundador e sociedade autoritária. São Paulo: Fundação
+Perseu Abramo, 2000.
+CUNHA, Euclides. Os Sertões: campanha de Canudos. São Paulo: Abril Cultural,
+1979.
+DA MATA, Roberto. O que faz o Brasil, Brasil? Rio de Janeiro: Rocco, 2000.
+FREIRE, Gilberto. Casa Grande e Senzala. Rio de Janeiro: José Olímpio, 1954.
+HALL, Stuart. A identidade cultural na pós-modernidade. 6. ed. Tradução Thomas
+Tadeu da Silva e Guacira Lopes Louro. Rio de Janeiro: DP&A, 2001.
+HOLANDA, Sérgio Buarque. Raízes do Brasil. 2. ed. São Paulo: Companhia das
+Letras, 1995.
+LIMA, Nísia Trindade. Um sertão chamado Brasil. Rio de Janeiro:
+Revan/IUPERJ.UCAM,1999.
+ORTIZ, Renato. Mundialização e cultura. São Paulo: Brasiliense, 2000.
+_______. A moderna tradição brasileira e indústria cultural. São Paulo:
+Brasiliense, 2001.
+_______. Cultura Brasileira e identidade nacional. São Paulo: Brasiliense, 2005.
+BIBLIOGRAFIA COMPLEMENTAR
+ALVES, Maria H. Estado e oposição no Brasil (1964-1984). Rio de Janeiro: Vozes,
+1989.
+DANTAS NETO, Paulo Fábio. Tradição, autocracia e carisma: a política de Antônio
+Carlos Magalhães na modernização da Bahia (1954-1974). Belo Horizonte, Editora
+UFMG/Rio de Janeiro: IUPERJ, 2006.
+GOMES, Ângela de Castro. A invenção do trabalhismo. Rio de Janeiro:
+IUOERJ/Vértice, 1988.
+IANNI, Octávio. O colapso do populismo no Brasil. Rio de Janeiro: Civilização
+Brasileira, 1982.
+JANOTTI, Maria de Lourdes. O coronelismo: uma política de compromissos. São
+Paulo: Brasiliense, 1981. Coleção Tudo é história, 13.
+195
+
+MUNANGA, Kabengele. Rediscutindo a miscigenação no Brasil. Identidade
+Nacional versus identidade negra. Belo Horizonte: Autentica, 2008.
+RIBEIRO, Darcy. Os brasileiros: teoria do Brasil. Petropólis/RJ: Vozes, 1978.
+_______. O povo brasileiro: a formação e o sentido do Brasil. São Paulo: Companhia
+das Letras, 2001.
+SILVA, Eduardo. As queixas do povo. Rio de Janeiro: Paz e Terra, 1988.
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+COMUNICAÇÃO E DESENVOLVIMENTO Fundamentação
+60
+TERRITORIAL SUSTENTÁVEL Específica
+196
+
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+A disciplina pretende discutir a função estratégica da comunicação para o
+desenvolvimento territorial e as contribuições do campo para o estímulo aos modelos
+de ocupação humana sustentável. Discute as bases teóricas e conceituais sobre o
+território como categoria de análise das relações de poder exercidas em variadas
+esferas, como a política, econômica e, em especial, a simbólica-cultural. Propõe
+verificar a partir do território e das identidades as perspectivas das dinâmicas
+econômicas históricas e atuais e os efeitos sobre as relações políticas e os fluxos
+culturais que se dão na complexidade do território. Também busca-se compreender a
+atuação do poder público para a construção da unidade territorial em termos de gestão
+pública e cultural.
+CONTEÚDO PROGRAMÁTICO
+1. Espaço, território e poder;
+2. Introdução ao desenvolvimento territorial; conceitos;
+3. O conceito de desenvolvimento, histórico e problematizações contemporâneas.
+4. O papel da comunicação nas políticas territoriais.
+5. O Território da Chapada Diamantina;
+BIBLIOGRAFIA BÁSICA
+ANTAS Jr., Ricardo M. Território e regulação: espaço geográfico, fonte material e
+não-formal do direito, São Paulo: Associação Editorial Humanitas: Fapesp, 2005.
+248p.
+BECKER, B. K. A Geopolítica na Virada do Milênio: Logística e Desenvolvimento
+Sustentável. In: CASTRO, I. E., GOMES, P. C. C.; CORRÊA, R. L. (org.). Geografia:
+Conceitos e Temas. 14. ed. Rio de Janeiro: Bertrand Brasil, 2011, p. 271-306.
+CANCLINI, N. G. Consumidores e cidadãos: conflitos multiculturais da globalização.
+4. ed. Rio de Janeiro: Editora UFRJ, 1999.
+CASTRO, I. E. Geografia e política: território, escalas de ação e instituições. Rio de
+Janeiro: Bertrand Brasil, 2005.
+COSTA, W. M. Geografia Política e Geopolítica: Discursos sobre o Território e o
+Poder. 2. ed. 1. reimpr. São Paulo: Editora da Universidade de São Paulo, 2008.
+FERNANDES, F. Sociedade de classes e subdesenvolvimento. 5. ed. rev. São
+Paulo: Global, 2008.
+FOUCAULT, M. Microfísica do poder. Rio de Janeiro: Edições Graal, 1979.
+HAESBAERT, Rogério. 2004. O mito da desterritorialização: do “fim dos territórios” à
+multiterritorialidade. Rio de Janeiro: Bertrand Brasil, 400p.
+MASSEY, D. Pelo espaço: uma nova política da espacialidade. Rio de Janeiro:
+Bertrand Brasil, 2009.
+MORAES, A. C. R. Bases da Formação Territorial do Brasil: o território colonial
+brasileiro no “longo” século XVI. São Paulo: Hucitec, 2000.
+RAFFESTIN, Claude. Por uma geografia do poder. Sao Paulo: Atica, 1993. 269p.
+SANTOS, M. A natureza do Espaço: Técnica e Tempo, Razão e Emoção. 4. ed. 5.
+reimpr. São Paulo: Editora da Universidade de São Paulo, 2009.
+BIBLIOGRAFIA COMPLEMENTAR
+AGNEW, J. Mastering space: hegemony, territory and international political economy.
+New York: Taylor & Francis e-Library, 2003.
+CAZELLA, A. A., BONNAL, P., MALUF. Agricultura Familiar. Rio Grande do Sul:
+Editora Mauad, 2009.
+CHAUÍ, M. Simulacro e poder. São Paulo: Fundação Perseu Abramo, 2006.
+O´BRIEM, J. A. e MARAKAS, G. M. Administração de sistemas de informação: uma
+introdução. São Paulo: McGraw-Hill, 2007.
+197
+
+OLIVEIRA, F. B. Tecnologia da informação e da comunicação: Desafios e
+Propostas estratégicas para o desenvolvimento dos negócios. São Paulo, Pearson
+Prentice Hall: Fundação Getúlio Vargas, 2006.
+WOORTMANN, E.; WOORTMANN, K. O trabalho da terra: a lógica e a simbólica da
+lavoura camponesa. Brasília: Editora da UnB, 1997.
+CARGA
+COMPONENTE CURRICULAR EIXO HORÁRI
+A
+EMPREENDEDORISMO E INOVAÇÃO EM Fundamentação
+45
+COMUNICAÇÃO Específica
+PRÉ-REQUISITO É PRÉ-REQUISITO PARA
+- -
+EMENTA
+A partir da condição de território no qual o mercado de trabalho da Comunicação se
+desenvolve a partir da chegada das primeiras turmas de jornalistas formados na
+Chapada Diamantina, o componente curricular pretende organizar as perspectivas de
+198
+
+negócios do campo e capacitar os discentes a atuar como gestores de
+empreendimentos da comunicação. Terão destaque os estudos da economia da
+cultura, economia criativa, as formas associativas, cooperativas, coletivas, solidárias e
+autogestionárias de negócios da comunicação, além de possibilidades para o
+financiamento e elaboração de projetos que possibilitam o desenvolvimento de
+empreendimentos do setor..
+CONTEÚDO PROGRAMÁTICO
+1. O mercado da comunicação;
+2. Economia Política da Comunicação e da Cultura;
+3. Economia da Cultura, Economia Criativa;
+4. Gestão de negócios em comunicação;
+5. Empreendedorismo e elaboração de plano de negócios em comunicação;
+6. Economia solidária e autogestão da comunicação.
+BIBLIOGRAFIA BÁSICA
+BAHIA (ESTADO). Secretaria de Cultura. Escritório Bahia Criativa. Bahia Criativa:
+diretrizes e iniciativas para o desenvolvimento da economia criativa na Bahia.
+Salvador: Governo do Estado, 2014.
+BANDEIRA, Messias. G., COSTA, Leonardo F. (Org.). Dimensões criativas da
+economia da cultura: primeiras observações. Salvador: EDUFBA, 2015.
+BENKLER, Yochai. A economia política dos commons. In: SILVEIRA, Sérgio Amadeu
+da.Comunicação digital e a construção dos commons: redes virais, espectro
+aberto e as novas possibilidades de regulação. São Paulo: Editora Fundação Perseu
+Abramo, 2007.
+BENHAMOU, Françoise. A economia da cultura. Cotia, SP: Atêlie Editorial, 2007.
+BRASIL. Ministério da Cultura. Plano da Secretaria da Economia Criativa: política
+diretrizes e ações 2011-2014. Brasília, Ministério da Cultura, 2011.
+FARIA, Maurício Sardá de. Autogestão, cooperativa, economia solidária: avatares
+do trabalho e do capital. Florianópolis: UFSC, 2011. Disponível em:
+http://base.socioeco.org/ docs/ editoriaemdebate.ufsc.br.pdf. Acesso em: 05 set. 2015.
+IDEA2010. Em busca de um novo paradigma de cooperação e sustentabilidade.
+Belém, 2010. Disponível em:
+http://www.redeabra.org.br/idea2010/archivos/docs/FMCET/ FCET
+2010_em_ busca_de_ um_ novo _paradigma_de_cooperacao_e_sustentabilidade.pdf.
+Acesso em: 26 abr. 2015.
+SEBRAE. Bahia. Economia criativa e cidades criativas da Bahia: oficinas criativas.
+Salvador, 2013.
+SINGER, P. Introdução à economia solidária. São Paulo: Editora Fundação Perseu
+Abramo, 2002.
+VALIATI, Leandro; FIALHO, A. L. do N. Atlas econômico da cultura brasileira:
+Metodologia 1. Porto Alegre: Editora da UFRGS/CEGOV, 2017.
+BIBLIOGRAFIA COMPLEMENTAR
+BAUMAN, Zygmunt. A ética é possível num mundo de consumidores? Rio de
+Janeiro: Zahar, 2011.
+CANCLINI, Néstor García; URTEAGA, Maritza (Org.). Cultura y desarrollo: una visión
+crítica desde los jóvenes. Buenos Aires: Paidós, 2012.
+CATTANI, Antônio David (Org.). A outra economia. Porto Alegre: Editora Veraz; São
+Paulo:Rede Interuniversitária de Estudos e Pesquisas sobre o Trabalho, 2003.
+UNITED NATION CONFERENCE ON TRADE AND DEVELOPMENT (UNCTAD).
+Relatório de Economia Criativa 2010; Economia Criativa: Uma Opção de
+Desenvolvimento Viável. Brasília: Secretaria de Economia Criativa/MinC; São Paulo:
+Itaú Cultural, 2012.
+199
+
+2.8. Condições objetivas de oferta do curso
+A proposta curricular do Curso de Jornalismo – Bacharelado será implementada utilizando a
+infraestrutura do Campus XXIII em Seabra, o qual já fez investimentos próprios na
+instalação de laboratórios de computação multimídia, contratos de locação de estúdios de
+rádio e vídeo, contratado secretária e professores substitutos, viabilizado a transferência de
+docentes na área, e adquirido acervo bibliográfico e algumas câmeras específicas que
+viabilizaram a formação do Curso em formato de cooperação Interdepartamental com
+Juazeiro.
+O regime de oferta é bienal (a cada dois anos), com matrícula semestral por componente
+curricular como estabelece o Regimento Geral da UNEB e oferta de 30 vagas por cada
+turma. O ingresso se dará prioritariamente via vestibular. O curso funcionará no turno diurno.
+200
+
+O Colegiado do Curso de Jornalismo em Multimeios – Bacharelado é composto por
+professores responsáveis pelos componentes que integram a matriz curricular e por um
+representante discente, em número de 1/5 do total de membros, conforme estabelece o
+Regimento Geral da Universidade. Entre os docentes que integram o colegiado, é escolhido
+um coordenador(a), eleito(a) pelos demais membros do Colegiado, para um mandato de
+dois anos com possibilidade de recondução por igual período. O (a) Coordenador(a) do
+Colegiado apresenta efetiva dedicação à administração e docência no Curso, tendo carga
+horária prevista de 20 horas semanais. Este horário é reservado para o planejamento,
+avaliação, execução, acompanhamento e supervisão de todas as atividades inerentes ao
+Curso, bem como para o atendimento imediato a alunos, docentes e comunidade em geral.
+O Colegiado do Curso de Jornalismo em Multimeios funciona diariamente de segunda a
+sexta-feira, das 12h30min às 20h:30min. As aulas ocorrem regularmente nos mesmos dias,
+entre 14h e 18h10min. Para atender alunos e professores, o colegiado conta com dois
+funcionários: um técnico administrativo com carga horária de 40 horas semanais que ocupa
+cargo de secretário do colegiado, um funcionário terceirizado com carga horária de 30 horas
+que atua como auxiliar administrativo. Os funcionários atendem nos turnos vespertino e
+noturno, para oferecer os serviços de secretaria e laboratórios independentemente do
+horário de aulas do Curso, que se concentram no turno vespertino. Estes funcionários são
+assistidos por um estagiário de nível superior, que tem como principal atribuição ajudar os
+funcionários na execução das tarefas comuns em um dos turnos.
+4.8 Avaliação do Ensino e da Aprendizagem
+Todo tipo de avaliação, segundo as conhecidas palavras de Pedro Demo, por mais
+cauteloso que seja, ainda assim será injusto. Portanto, é preciso buscar instrumentos e
+concepções que torne esse processo menos injusto possível. É preciso considerá-lo como
+uma oportunidade de aprendizagem e não como um momento específico, em que o
+estudante deve provar ao professor o que ele aprendeu.
+A maioria das pesquisas e de livros divulgados sobre a temática da avaliação destaca que
+ela deve servir de retroalimentação para o trabalho pedagógico do docente e do discente.
+Nesse sentido, com vistas a buscar uma melhoria na qualidade do processo de ensino e
+aprendizagem, constituem – se sujeitos da avaliação tanto os discentes quantos os
+docentes, sempre considerando o que propõem Donald Schon, a importância da ação-
+reflexão-ação.
+201
+
+Cabe destacar que a avaliação discente considera a frequência mínima de 75% das aulas.
+Já os instrumentos avaliativos são pensados a partir de uma concepção de avaliação que
+analisa o processo e o contexto do estudante, sem perder de vista as habilidades e
+competências que o futuro jornalista precisa construir ao longo do Curso. Constituem-se
+instrumentos avaliativos seminários, questionários, construção de portfólios, de relatórios,
+elaboração de artigos e monografias e provas dissertativas.
+Nesses instrumentos os docentes descrevem os critérios que serão levados em
+consideração. O estudante precisa obter nota mínima de 7,0 (sete) inteiros na média final
+para ser aprovado no componente curricular. Caso ele não consiga alcançar essa nota, mas
+realizou todas as atividades avaliativas e teve freqüência mínima de 75%, o aluno pode
+realizar a prova final e, obtendo nota 5,0 (cinco) inteiros ele é aprovado.
+Seguindo nesta direção, o curso de Jornalismo da UNEB se ampara no Regimento Geral da
+Universidade no capítulo IX que diz:
+Art. 215. A avaliação da aprendizagem é um elemento do processo pedagógico que visa
+subsidiar a construção do conhecimento, orientar a prática educativa docente e discente,
+tendo em vista o alcance dos objetivos do Projeto Pedagógico do Curso (PPC).
+Parágrafo único. A avaliação terá uma perspectiva processual e, quando couber,
+interdisciplinar e/ou multidisciplinar realizada a partir de critérios explícitos, definidos com a
+participação dos docentes e discentes no plano de ensino da disciplina ou componentes
+curriculares.
+Art. 216. A avaliação do processo de aprendizagem será feita durante o período letivo e
+levará em consideração os seguintes aspectos qualitativos e quantitativos:
+I – produção acadêmica coletiva e/ou individual;
+II – frequência às atividades de ensino, pesquisas e/ou Extensão; e,
+III – auto-avaliação discente e docente.
+Art. 217. Será considerado reprovado na disciplina ou componente curricular, o estudante
+que não obtiver 75% (setenta e cinco por cento) da frequência às atividades didáticas
+respectivas realizadas no período letivo, qualquer que seja o resultado do aproveitamento,
+conforme preconiza a legislação educacional em vigor.
+Art. 218. Durante o período letivo deverão ser efetuadas, no mínimo, três verificações
+parciais, devidamente programadas, de acordo com os artigos 209 e 210 deste regimento
+geral.
+202
+
+Art.219. As avaliações parciais e final de aprendizagem serão atribuídas notas, numa escala
+de zero a dez, computando-se as médias até primeira decimal, desprezando-se as demais,
+sem levar em conta regras de arredondamento.
+§ 1° O estudante poderá requerer no protocolo do Departamento até setenta e duas horas
+após a realização das avaliações, segunda chamada nas seguintes situações:
+I – licença médica comprovada por meio de atestado ou laudo médico;
+II – Atividade militar comprovada por intermédio de declaração da entidade;
+III – Atividades a serviço da justiça comprovada pelo órgão;
+IV – nascimento do filho, quando pai, desde que comprovado; e,
+V – óbito de membro de família até 3° grau, mediante atestado ou declaração.
+§ 2° Até quarenta e oito horas após a divulgação do resultado da avaliação parcial, o
+estudante poderá requerer de forma fundamentada, com os destaques necessários, no
+protocolo do Departamento, revisão de prova, não cabendo recurso ao julgamento do
+professor.
+§ 3° No caso de revisão da avaliação final, a solicitação devidamente fundamentada pelo
+interessado deverá ser dirigida no prazo máximo de setenta e duas horas após a divulgação
+do resultado à coordenação do colegiado mediante protocolização no Departamento, que
+designará comissão composta pelo docente que ministra a disciplina e dois professores
+pertencentes à área ou área afim da disciplina.
+§ 4° Até dois dias úteis, após o resultado da revisão proferida pela comissão, o aluno poderá
+recorrer, em última instância, ao Conselho de Departamento, observadas as competências
+dos órgãos superiores.
+Art. 220. Atendida, em qualquer caso, a frequência de 75% (setenta e cinco por cento) às
+aulas e demais atividades escolares, o estudante será aprovado:
+I – independente de exame final, o estudante que obtiver nota de aproveitamento não
+inferior a sete, correspondente à média aritmética simples das verificações parciais; e,
+II – Mediante exame final, o aluno que tendo obtido nota de aproveitamento médio, inferior a
+sete nas verificações parciais, e que alcance a nota média final mínima cinco,
+correspondente à média ponderada entre a nota média de aproveitamento dos exercícios
+escolares e a nota do exame final, obedecida a fórmula abaixo:
+M= 7xM +3 x E > 5
+f m f
+10
+M = média final
+f
+M = média de aproveitamento dos exercícios escolares
+m
+E = nota do exame final
+f
+203
+
+Art.221. O estudante que não alcançar a nota média mínima, sete, terá que realizar a prova
+final.
+Art.222. Ao componente de estágio supervisionado não se aplica a verificação final prescrita
+no artigo anterior, considerando-se aprovado o estudante que obtiver no mínimo média sete
+na avaliação do estágio.
+Art.223. A ausência do estudante a qualquer das verificações implicará em atribuição de
+nota zero.
+Art.224. Ao estudante com incapacidade física temporária comprovada por meio de laudo
+médico e à aluna gestante a partir do oitavo mês de gestação, é assegurado o direito de
+solicitar a aplicação de exercícios domiciliares.
+§ 1° Entende-se por exercício domiciliar o mecanismo que assegura ao estudante o direito a
+tratamento especial com ininterrupção das atividades escolares, desde que amparado nas
+hipóteses e condições contidas no Decreto Lei 1044/69 e Lei 6202/75.
+§ 2° Ao estudante inscrito em disciplina ou componente curricular, que ofereçam estágio
+curricular, pré-internato, práticas laboratoriais ou ambulatoriais ou aquelas cuja execução só
+possa ocorrer em ambiente próprio, não é concedido o tratamento excepcional em regime
+de exercício domiciliar.
+Art. 225. O estudante reprovado por não ter alcançado seja frequência, seja a nota mínima
+exigida, repetirá a disciplina ou componente curricular, sujeito na repetência, às mesmas
+exigências de frequência e aproveitamento estabelecidas neste regimento.
+2.9. Acervo bibliográfico
+O Curso contará com o suporte do acervo bibliográfico disponível na Biblioteca do Campus
+XXIII. Desde 2014 o DCHTXXIII adquiriu 1.500 exemplares de cerca de 150 obras
+específicas para a área da comunicação e do jornalismo de maneira a complementar e
+atualizar o acervo já existente no departamento. O quantitativo deste acervo encontra-se
+apresentado a seguir.
+A biblioteca do Campus XXIII está vinculada tecnicamente à Biblioteca Central/UNEB e
+administrativamente à direção do Departamento do Campus. Funciona de segunda à sexta-
+feira, das 13h30min às 17h30min e das 19h às 22h30min. No sábado, o horário é das 08h
+às 12h.
+O acervo é diversificado, totalizado em 1.200 títulos e 3.500 exemplares. Conta, também,
+com o setor de referências e periódicos, com material bibliográfico específico para
+pesquisas e consultas, adquirido através da compra e de doações da comunidade. A
+aquisição das obras é efetuada pela Setorial, a partir das indicações feitas pelos docentes.
+204
+
+O processamento técnico do arquivo (registro, classificação, catalogação e referência
+bibliográfica) é da competência dos técnicos da unidade.
+O empréstimo é concedido apenas para os docentes, discentes e funcionários do
+Departamento. O atendimento é feito através da disponibilização das referências
+bibliográficas, organizadas em catálogos, os quais são atualizados na medida em que são
+adquiridos novos títulos. É liberado o empréstimo domiciliar para o usuário devidamente
+cadastrado, podendo ter acesso ao material bibliográfico da Biblioteca Central e das outras
+setoriais, pelo sistema de empréstimo inter-bibliotecário. Através do sistema COMUT, o
+usuário pode adquirir cópias de artigos disponíveis em outras bibliotecas universitárias,
+bastando encaminhar um formulário com as especificações da pesquisa à Biblioteca
+Central, para as devidas providências.
+Embora os principais usuários sejam alunos, professores, funcionários e técnico-
+administrativos do Departamento, qualquer pessoa, devidamente identificada, pode
+consultar o material bibliográfico no recinto. Para atendê-los, a biblioteca do Departamento
+dispõe do trabalho de uma coordenadora com formação em Secretariado Executivo,
+atualmente fazendo pós-graduação em Biblioteconomia e um assistente com Ensino Médio.
+Quanto à estrutura física, a biblioteca está situada em um ambiente espaçoso, com boa
+iluminação e ventilação, possui extintores de incêndio em local estratégico, com rampa de
+acesso para deficientes, mesas para trabalhos de pesquisa em grupo, cabine onde o
+usuário pode pesquisar o acervo do Departamento ou localizar nas prateleiras as biografias
+indicadas. A organização e manutenção da limpeza local estão dentro dos padrões exigidos.
+O acervo bibliográfico do Departamento por área de conhecimento e outras fontes de
+consultas encontram-se apresentados a seguir nas tabelas abaixo.
+Tabela 12 – Acervo Bibliográfico por área de Conhecimento do Curso
+205
+
+Tabela 13 – Outras Fontes de Consulta
+206
+
+207
+
+208
+
+209
+
+210
+
+211
+
+Além deste acervo é importante registrar que a Universidade do Estado da Bahia possui um
+Sistema Integrado de Biblioteca SISB, sendo constituído por 24 (vinte e quatro) bibliotecas
+setoriais distribuídas entre a capital baiana e o interior (Multicampia). Uma das funções do
+SISB é prover a UNEB de infraestrutura bibliográfica e informacional para atender às
+necessidades dos programas de ensino, pesquisa e extensão. Em decorrência disso, possui
+um acervo bibliográfico de 128.955 títulos e 344.088 exemplares. Este sistema permite o
+empréstimo interbibliotecário, o que aliado com as viagens de formação itinerante permite o
+uso dos estudantes do curso em cooperação fazer uso do acervo do DCH III.
+Atualmente, a biblioteca do Campus III dispõe de um sistema de agilização de ampliação do
+seu acervo nas áreas de Educação e Comunicação Social, cujos exemplares são solicitados
+tanto pelo curso de Pedagogia como pelo curso de Comunicação Social, através das
+disciplinas de Educomunicação e do núcleo de Educação e Comunicação Educom. O
+acervo bibliográfico total em 2012.2 da Biblioteca do Campus III é de 6300 títulos e 11.361
+exemplares. Destes, 3.601 títulos de Educação, 993 títulos em Ciências Humanas e Artes,
+e 1.324 títulos em Ciências Sociais, Negócios e Direito.
+2.10. Laboratório
+Como mencionado no 1.2.1 que se referiu a infraestrutura de recursos tecnológicos, foi
+especificado que o DCHT XXIII dispõe de um Laboratório de Comunicação (LACOM) que
+conta com 12 computadores, 01 impressora, 01 televisão e 03 câmeras. Reconhecendo que
+este laboratório é insuficiente para a demanda gerada com a instalação do Curso de
+Jornalismo em cooperação interdepartamental, foram feitas parcerias com estúdios locais de
+rádio e audiovisual no sentido de superar as lacunas de infraestrutura. Salientamos que o
+Departamento conta com previsão orçamentária para a implementação e ampliação da
+estrutura dos laboratórios existentes, uma vez que, a mudança para a nova sede do campus
+212
+
+nos possibilita estrutura física ampliada e consequentemente maior orçamento e
+investimento nesta nova estrutura.
+3. DA QUALIFICAÇÃO ACADÊMICA DOS PROFISSIONAIS RESPONSÁVEIS PELA
+ELABORAÇÃO DO PROJETO
+Gislene Moreira Gomes
+● Endereço para acessar este CV: http://lattes.cnpq.br/9686964496121854
+Dados pessoais
+Nome Gislene Moreira Gomes
+Filiação Gilson Lopes Gomes e Leny Moreira Gomes
+Nascimento 11/08/1980 - Mundo Novo/BA - Brasil
+Carteira de Identidade 0760077908 ssp - BA - 25/04/2003
+CPF 805.565.905-20
+_____________________________________________________________________
+Formação acadêmica/titulação
+2008 - 2011 Doutorado em Investigación en Ciencias Sociales.
+Faculdade Latino-Americana de Ciências Sociais, FLACSO, México
+Título: Las hormigas de Macondo - contrahegemonía y políticas de
+comunicación comunitária en América Latina, Ano de obtenção: 2011
+Orientador: Gisela Zaremberg; Valério Cruz Brittos
+Bolsista do(a): Secretaria de Educación Pública
+2005 - 2007 Mestrado em Muldisciplinar em Cultura e Sociedade.
+Universidade Federal da Bahia, UFBA, Salvador, Brasil
+Título: Cultura, Comunicação e Participação - Reflexões sobre o processo
+de construção de uma cultura participativa na construção do
+desenvolvimento territorial da região sisaleira da Bahia, Ano de obtenção:
+2007
+Orientador: Aurelio Gonçalves de Lacerda
+2004 - 2005 Especialização em Gestão Social para o Desenvolvimento Sustentável.
+Universidade Federal da Bahia, UFBA, Salvador, Brasil
+1999 - 2002 Graduação em Comunicação Social.
+Universidade do Estado da Bahia, UNEB, Salvador, Brasil
+_____________________________________________________________________
+Formação complementar
+2010 - 2010 Curso de curta duração em Estancia investigativa en Comunicación
+Comunitaria.
+Universidad Del Zulia, U.DEL ZULIA, Maracaibo, Venezuela
+Bolsista do(a): Secretaria de Educación Pública
+2010 - 2010 Estancia de investigación en la ley de medios.
+Universidad Nacional de Quilmes, UVQ, Bernal , Argentina
+213
+
+2005 - 2005 Curso de curta duração em Management of Social Transformations.
+Escola Regional de Verão para América Latina e Caribe da Unesco/MOST,
+UNESCO, Brasil
+Bolsista do(a): UNESCO
+___________________________________________________________________
+Atuação profissional
+1. Universidade do Estado da Bahia - UNEB
+Vínculo institucional
+2012 - Atual Enquadramento funcional: Professora assistente , Carga
+horária: 40, Regime: Dedicação exclusiva
+2. Faculdade Latino-Americana de Ciências Sociais - FLACSO
+_______________________________________________________
+Vínculo institucional
+2009 - 2011 Vínculo: Colaborador , Enquadramento funcional: consultora e
+assistente de coordenação , Carga horária: 8
+3. Cipó Comunicação Interativa - CIPÓ
+____________________________________________________
+Vínculo institucional
+2006 - 2008 Vínculo: Coordenação de articulação , Enquadramento
+funcional: gerenciamento de projetos , Carga horária: 40,
+Regime: Integral
+2005 - 2008 Vínculo: Prestador de serviços , Enquadramento funcional:
+Assessora político-estratégica , Carga horária: 30, Regime:
+Parcial
+______________________________________________________
+Atividades
+01/2000 - 09/2002 Estágio, Cipo comunicação Interativa
+Estágio:
+Clippagem, assessoria de imprensa e mobilização da mídia na
+área da infância e adolescência
+4. Movimento de Organização Comunitária - MOC
+___________________________________________________________
+Vínculo institucional
+2002 - 2005 Vínculo: Celetista formal , Enquadramento funcional:
+Coordenadora de comunicação , Carga horária: 40, Regime:
+Integral
+___________________________________________________________
+214
+
+Atividades
+10/2002 - 04/2005 Conselhos, Comissões e Consultoria, Programa de
+ACERVO BIBLIOGRÁFICO - TÍTULOS DA ÁREA DE COMUNICAÇÃO
+Segue abaixo listagem dos títulos que compõem o acervo bibliográfico deste Departamento
+adquiridos para a formação da primeira turma em Jornalismo em Multimeios. Ressaltamos
+que ainda que o caráter do curso tenha sido interdepartamental a aquisição do acervo foi de
+responsabilidade do DCHT – Campus XXIII – Seabra firmando compromisso de atualiza-lo
+periodicamente de acordo com a previsão orçamentário e sua concessão pela administração
+central no que se refere a aquisição de bens permanentes.
+ECO, Umberto. A estrutura ausente: introdução à pesquisa semiológica. 7. ed São Paulo:
+Perspectiva, 1991. 426 p. (Coleção estudos; 6) Classificação: 001.51 E22e 7. ed. Ac.20196
+Quantidade : 5
+GUIMARÃES, Angelo de Moura. Introdução à ciência da computação. Rio de Janeiro: Livros
+Técnicos e Científicos, 1992 165 p. (Série ciência de computação ) ISBN 852160372X
+(broch.) Classificação: 004 G963i Ac.39995 Quantidade : 1
+IMAGEM-MÁQUINA: a era das tecnologias do virtual. 3. ed Rio de Janeiro: Editora 34, 2001.
+300 p. (Coleção TRANS) ISBN 8585490276 Classificação: 006.3 I31 3. ed. Ac.4782
+Quantidade : 3
+LÉVI, Pierre. O que é o virtual ?. 2.ed. São Paulo: Ed. 34, 2011. 157 p. (Coleção TRANS).
+ISBN 9788573260366(broch.). Classificação: 003.3 L668q 2.ed. Ac.131977 Quantidade : 5
+MATTELART, Armand; MATTELART, Michèle. . História das teorias da comunicação. 16. ed
+São Paulo: Loyola, 2014. 227 p. ISBN 8515017709 (broch.) Classificação: 001.539 M435h
+16. ed Ac.132094 Quantidade : 5
+MANZANO, André Luiz N. G. Estudo dirigido de Excel XP. 6.ed. São Paulo: Érica, 2005. 238
+p. (Coleção P.D ) ISBN 8571948194 Classificação: 005.3 M296e Ac.88907 Quantidade : 2
+MARCUSCHI, Luiz Antonio; XAVIER, Antonio Carlos. Hipertexto e gêneros digitais: novas
+formas de construção de sentido. 3. ed. São Paulo: Cortez, 2010. 240 p ISBN
+9788524915567. Classificação: 005.7592 H667 3. ed Ac.132226 Quantidade : 5
+215
+
+MANZANO, José Augusto N. G; MANZANO, André Luiz N. G. . Estudo dirigido de Excel
+2000. 10. ed. São Paulo: Érica, 2004. 210 p. (Coleção P.D ) ISBN 8571946485
+Classificação: 005.3 M296e 10.ed. Ac.88903 Quantidade : 2
+NIELSEN, Jakob. . Projetando websites. Rio de Janeiro: Elsevier, 2000. 416 p. ISBN
+8535206566 Classificação: 005.3 N669p Ac.80696 Quantidade : 1
+NORTON, Peter. Introdução à informática. São Paulo: Makron Books, 1997 619 p. ISBN 85-
+346-0515-7 Classificação: 004 N886i Ac.2330 Quantidade : 1
+PIGNATARI, Decio. . Informação, linguagem, comunicação. 3. ed São Paulo: Ateliê Editorial,
+2008. 147 p. Classificação: 001.51 P632i 3. ed Ac.9189 Quantidade : 1
+PIGNATARI, Decio. . Informação linguagem comunicação. 2. ed São Paulo: Ateliê Editorial,
+2003 155 p. ISBN 857480079-1 Classificação: 003.54 P632i 2.ed. ed Ac.93607 Quantidade :
+3
+VELLOSO, João Paulo dos Reis. Informática: conceitos basicos. 7.ed. rev.e atual. Rio de
+Janeiro: Elsevier, 2004 406p. Classificação: 004 V441i 7. ed. Ac.80044 Quantidade : 1
+SCHNITMAN, Matilde Eugenia; MATTOS, Sérgio. . A palavra como ferramenta de gestão.
+Simões Filho (BA): Kalango, 2010 101 p. ISBN 9788589526302 Classificação: 001.539
+S357p Ac.115243 Quantidade : 2
+CHAPARRO, Manuel Carlos. . Pragmatica do jornalismo: buscas praticas para uma teoria
+da ação jornalistica. 3.ed. rev. São Paulo: Summus, 2007. 162 p. (Novas buscas em
+comunicação: 44) ISBN 8532304451 (broch.) Classificação: 070 C462p 3. ed Ac.132145
+Quantidade : 5
+070 - JORNALISMO, EDITORAÇÃO, JORNAIS
+CHAPARRO, Manuel Carlos. . Pragmatica do jornalismo: buscas praticas para uma teoria
+da ação jornalistica. 3.ed. rev. São Paulo: Summus, 2007. 162 p. (Novas buscas em
+comunicação: 44) ISBN 8532304451 (broch.) Classificação: 070 C462p 3. ed Ac.132145
+Quantidade : 5
+FLORESTA, Cleide; BRASLAUSKAS, Ligia; PRADO, Magaly Parreira do. . Técnicas de
+reportagem e entrevista: roteiro para uma boa apuração, volume 3.. São Paulo: Saraiva,
+2009. 163 p ISBN 9788502086524 v.3 Classificação: 070 F634t Ac.107677 Quantidade : 5
+LOPES, Dirceu Fernandes. . Jornal laboratório: do exercício escolar ao compromisso com o
+público leitor. 2. ed São Paulo: Summus, c1989. 187 p. Classificação: 070 L864j 2. ed
+Ac.132162 Quantidade : 5
+MEDINA, Cremilda de Araújo. . Noticia, um produto à venda: jornalismo na sociedade
+urbana e industrial . 2. ed São Paulo: Summus, 1988. 191 p. (Coleção novas buscas em
+comunicação ; 24) Classificação: 070 M491n 2. ed. Ac.17796 Quantidade : 5
+PENA, Felipe. 1000 perguntas sobre Jornalismo. Rio de Janeiro: LTC Ed., 2012. xii, 274p.
+ISBN 9788521621027 (broch.). Classificação: 070 M637 Ac.132258 Quantidade : 5
+216
+
+NASCIMENTO, Patrícia Ceolin do; FLORESTA, Cleide. . Técnicas de redação em
+jornalismo: o texto da notícia, volume 2. São Paulo: Saraiva, 2009. 153 p ISBN
+9788502086586 v.2 Classificação: 070 N244t Ac.112139 Quantidade : 5
+CHRISTOFOLETTI, Rogério; MOTTA, Luiz Gonzaga. . Observatórios de mídia: olhares da
+cidadania. São Paulo: Paulus, 2008. 230p. ISBN 9788534928304 (broch.) Classificação: 070
+O14 Ac.112146 Quantidade : 5
+PENA, Felipe. . Teoria do jornalismo. 3. ed São Paulo: Contexto, c2005. 235 p. ISBN
+9788572442848 Classificação: 070 P397t 3. ed Ac.132095 Quantidade : 5
+ROSSI, Clóvis. O que é jornalismo. 10. ed. São Paulo: Brasiliense, 1994. 89 p. (Coleção
+Primeiros passos ; 15). ISBN 8511010157. Classificação: 070 R831q 10. ed. Ac.81083
+Quantidade : 5
+070.014 - JORNALISMO LITERÁRIO
+PENA, Felipe. . Jornalismo literário. 2. ed São Paulo: Contexto: 2013. 142 p. ISBN
+9788572443241 Classificação: 070.014 P397j 2.ed Ac.132149 Quantidade : 5
+070.172 - JORNAIS
+FARIA, Maria Alice. . O jornal na sala de aula. 14 ed. São Paulo: Contexto, 2004 128 p.
+(Repensando a língua portuguesa ) ISBN 8585134445 (broch.) Classificação: 070.172 F224j
+14. ed Ac.94704 Quantidade : 7
+NOBLAT, Ricardo. . Arte de fazer um jornal diário, A. 8. ed São Paulo: Contexto, 2013. 174
+p. ISBN 8572442111 (broch.) Classificação: 070.172 N746a 8. ed Ac.132202 Quantidade : 5
+070.19 - RADIOJORNALISMO
+CHANTLER, Paul; HARRIS, Sim. . Radiojornalismo. São Paulo: Summus, 1998. 192 p.
+(Novas buscas em comunicação ; v.57) ISBN 8532305806 Classificação: 070.19 C459r
+1998 Ac.85382 Quantidade : 5
+JUNG, Milton. . Jornalismo de rádio. 3. ed. São Paulo: Contexto, c2004. 156p (Comunicação
+) ISBN 9788572442817 (broch.) Classificação: 070.19 J95j 4.ed Ac.132268 Quantidade : 5
+070.194 - RADIOJORNALISMO
+CHANTLER, Paul; STEWART, Peter. Fundamentos do radiojornalismo. São Paulo: Roca,
+2007. xv, 235 p. ISBN 9788572416580 (broch.). Classificação: 070.194 C459f Ac.99673
+Quantidade : 5
+070.195 - TELEVISÃO
+BISTANE, Luciana; BACELLAR, Luciane. . Jornalismo de TV. 3. ed São Paulo: Contexto,
+c2005. 141 p. ISBN 8572442898 Classificação: 070.19 B623j 3. ed Ac.132212 Quantidade :
+5
+BOURDIEU, Pierre. Sobre a televisão: seguido de a influência do jornalismo e os jogos
+olímpicos. Rio de Janeiro: Jorge Zahar, 1997. 143 p. ISBN 8571104115 (broch.).
+Classificação: 070.195 B769s Ac.1444 Quantidade : 5
+217
+
+PEREIRA JÚNIOR, Alfredo Eurico Vizeu. A sociedade do telejornalismo. Petrópolis: Vozes,
+2008. 127 p. ISBN 9788532636027 (broch.). Classificação: 070.195 S678 Ac.99740
+Quantidade : 1
+YORKE, Ivor. . Jornalismo diante das câmeras. 2. ed. São Paulo: Summus, 1998. 201 p.
+((Novas buscas em comunicação ; v.58)) ISBN 8532306179 (broch.) Classificação: 070.195
+Y61j 2. ed. Ac.85539 Quantidade : 5
+070.1950981 - TELEJORNALISMO - BRASIL
+PATERNOSTRO, Vera Iris. . O texto na TV: manual de telejornalismo. 2. ed. rev. e atual Rio
+de Janeiro: Campus, 2006. 231 p. ISBN 8535220291 (broch.) Classificação: 070.1950981
+P295t 2. ed. Ac.92108 Quantidade : 5
+070.4 - JORNALISMO
+BARBEIRO, Heródoto. . Manual de jornalismo para radio, tv e nova s mídias. Rio de Janeiro:
+Elsevier, 2013. 216 p. ISBN 9788535253351 Classificação: 070.4 B233m Ac.132179
+Quantidade : 5
+BARBEIRO, Heródoto. . Mídia training: como usar a imprensa a seu favor. 2.ed. São Paulo:
+Saraiva, 2011. 158 p. ISBN 9788502126244 Classificação: 070.4 B233m 2.ed. Ac.112183
+Quantidade : 5
+CALDAS, Suely. . Jornalismo econômico. 3. ed São Paulo: Contexto, 2012. 136 p.
+(Comunicação ) ISBN 8572442472 Classificação: 070.4 C145j 3.ed Ac.132134 Quantidade :
+5
+FORTES, Leandro. . Jornalismo investigativo. 2. ed São Paulo: Contexto, c2005. 125 p.
+(Comunicação ) ISBN 9788572442862 Classificação: 070.4 F738j 2 ed Ac.132213
+Quantidade : 5
+KAPUSCINSKI, Ryszard. . Minhas viagens com Heródoto: entre a história e o jornalismo.
+São Paulo: Companhia das Letras, 2006. 305p. ISBN 8535909435 (broch.) Classificação:
+070.4 K17m Ac.117446 Quantidade : 5
+KOPPLIN, Elisa; FERRARETTO, Luiz Artur. . Assessoria de imprensa: teoria e prática. 7.
+ed. rev e atual. São Paulo: Summus, 2009. 157 p. ISBN 9788532305282 Classificação:
+070.4 K83a 7.ed Ac.132267 Quantidade : 5
+LIMA, Edvaldo Pereira. . Páginas ampliadas: o livro-reportagem como extensão do
+jornalismo e da literatura. 4. ed. rev. e atual Barueri,SP: Manole, 2009. xvi, 470 p. ISBN
+9788520420428795 (broch.) Classificação: 070.4 L732p 4. ed Ac.99668 Quantidade : 5
+LIMA, Edvaldo Pereira. . Páginas ampliadas: o livro-reportagem como extensão do
+jornalismo e da literatura. 4. ed. rev. e atual Barueri,SP: Manole, 2009. xvi, 470 p. ISBN
+9788520420428795 (broch.) Classificação: 070.4 L732p 4. ed Ac.99668 MARSHALL,
+Leandro. . O jornalismo na era da publicidade. São Paulo: Summus, 2003. 172 p. ISBN
+8532308341 (broch.) Classificação: 070.4 M368j Ac.132148 Quantidade : 5
+218
+
+MORETZSOHN, Sylvia. . Jornalismo em tempo real: o fetiche da velocidade . 2. ed Rio de
+Janeiro: Revan, c2002. 189 p. ISBN 8571062463 Classificação: 070.4 M845j 2. ed
+Ac.132182 Quantidade : 5
+OLIVEIRA, Fabíola de. . Jornalismo científico. 3. ed São Paulo: Contexto, c2002. 89 p. ISBN
+857244212X Classificação: 070.4 O48j 3. ed Ac.132279 Quantidade : 3
+070.40285 - JORNALISMO - PROCESSAMENTO DE DADOS
+MACHADO, Elias; PALACIOS, Marcos. O Ensino do jornalismo em redes de alta velocidade:
+metodologias & softwares. Salvador: EDUFBA, 2007. 192 p. ISBN 9788523204662 (broch.).
+Classificação: 070.40285 E59 Ac.132278 Quantidade : 5
+FERRARI, Pollyana. . Jornalismo digital. 3. ed São Paulo: Contexto, 2006. 120p
+(Comunicação ) ISBN 8572442421 Classificação: 070.40285 F375j 3.ed Ac.87041
+Quantidade : 5 PINHO, J. B. . Jornalismo na Internet: planejamento e produção da
+informação on-line. 4. ed. São Paulo: Summus, c2003. 282 p. ISBN 8532308414
+Classificação: 070.40285 P654j 4.ed Ac.132194 Quantidade : 5
+070.4072 - JORNALISMO - MÉTODOS DE PESQUISA
+LAGO, Cláudia; BENETTI, Marcia. . Metodologia de pesquisa em jornalismo. 3. ed
+Petrópolis, RJ: Vozes, 2010. 286 p. ISBN 9788532635037 (broch.) Classificação: 070.4072
+M593 3. ed Ac.132190 Quantidade : 5
+070.41 - EDITORAÇÃO - JORNALISMO
+PEREIRA JUNIOR, Luiz Costa. Guia para a edição jornalística. 4. ed. Petrópolis: Vozes,
+2012. 198 p. (Fazer jornalismo). ISBN 9788532633545. Classificação: 070.41 P436g 4. ed
+Ac.132277 Quantidade : 4
+SCALZO, Marília. . Jornalismo de revista. 4. ed São Paulo: Contexto, c2011. 112 p.
+(Comunicação ) ISBN 8572442448 (broch.) Classificação: 070.41 S282j 4. ed Ac.132224
+Quantidade : 5
+070.43 - REPÓRTERES E REPORTAGENS
+FORTES, Leandro. . Os segredos das redações: o que os jornalistas só descobrem no dia-
+a-dia . São Paulo: Contexto, 2008. 110 p. ISBN 978-85- 7244-400-2 Classificação: 070.43
+F738s Ac.115339 Quantidade : 1
+MAFEI, Maristela. Assessoria de imprensa: como se relacionar com a mídia. 5. ed. São
+Paulo: Contexto, 2015. 127 p. (Coleção comunicação). ISBN 9788572442800(broch.).
+Classificação: 070.43 M187a 5.ed Ac.132193 Quantidade : 5
+PERFIS do semiárido: livro - reportagem. Salvador: EDUNEB, 2010. 115 p. ISBN
+9788578870317 Classificação: 070.43 P426p Ac.106197 Quantidade : 8
+SODRE, Muniz, d 1942; FERRARI, Maria Helena. . Técnica de reportagem: notas sobre a
+narrativa jornalística. 7. ed. São Paulo: Summus, c1986. 141 p. (Novas buscas em
+219
+
+comunicação ; v.14) ISBN 9788532302489(broch.) Classificação: 070.43 S679t 7. ed.
+Ac.85445 Quantidade : 5
+070.449306 - JORNALISMO CULTURAL
+PIZA, Daniel. . Jornalismo cultural. 4. ed São Paulo: Contexto, 2004. 143 p. ISBN
+8572442278 Classificação: 070.449306 P695j 4.ed. Ac.112174 Quantidade : 5
+070.44932 - JORNALISMO POLÍTICO
+MARTINS, Franklin. . Jornalismo político. 2. ed São Paulo: Contexto, c2005. 139 p. ISBN
+9788572442954 (broch.) Classificação: 070.44932 M379j 2. ed Ac.132161 Quantidade : 5
+MORAIS, Fernando. . Os últimos soldados da guerra fria: a história dos agentes secretos
+infiltrados por Cuba em organizações de extrema direita nos Estados Unidos. São Paulo:
+Companhia das Letras, 2011. 412p. ISBN 9788535919349 (broch.) Classificação: 070.44932
+M827u Ac.132163 Quantidade : 5
+070.449331880981 - JORNALISMO TRABALHISTA - BRASIL
+GIANNOTTI, Vito. . O que é jornalismo sindical. 2.ed. ampl São Paulo: Brasiliense, 1998
+117p. (Coleção Primeiros passos ) ISBN 8511012087 Classificação: 070.449331880981
+G372 2.ed Ac.3058 Quantidade : 5
+070.4495 - JORNALISMO CIENTÍFICO GUIMARÃES, Eduardo. Produção e circulação do
+conhecimento: estado, mídia, sociedade. Campinas: Pontes, 2001. V.1 ISBN 8571131546.
+Classificação: 070.4495 P964 Ac.95500 Quantidade : 1
+070.4497 - COBERTURA JORNALÍSTICA
+LINDOSO, Felipe J. . Rumos [do] jornalismo cultural. São Paulo: Summus, 2007. 231 p.
+ISBN 978-85-323-0368-4 (broch.) Classificação: 070.4497 R937 Ac.99748 Quantidade : 5
+070.449796 - JORNALISMO ESPORTIVO
+COELHO, Paulo Vinicius. . Jornalismo esportivo. 4. ed São Paulo Contexto, c2003. 120 p.
+ISBN 8572442138 Classificação: 070.449796 C672j 4. ed Ac.132211 Quantidade : 5
+BETTI, Mauro. . Educação física e mídia: novos olhares, outras práticas. São Paulo: Hucitec,
+2003. 137 p. ISBN 852710573X (broch.) Classificação: 070.449796 E24 Ac.91304
+Quantidade : 4
+070.48347 - JORNALISMO - MULHERES
+BUITONI, Dulcília Schroeder. . Mulher de papel: a representação da mulher pela imprensa
+feminina brasileira. 2. ed. rev., atual. e ampl São Paulo: Summus, 2009. 239 p. ISBN
+9788532305213 (broch.) Classificação: 070.48347 B932m Ac.112104 Quantidade : 5
+070.486 - PUBLICAÇÕES EMPRESARIAIS
+REGO, Francisco Gaudêncio Torquato do. . Jornalismo empresarial: teoria e prática. 5. ed.
+São Paulo: Summus, c1987. 190 p. (Novas buscas em comunicação; v. 22) Classificação:
+070.486 G266j 5. ed Ac.132231 Quantidade : 5
+220
+
+REGO, Francisco Gaudêncio Torquato do. . Jornalismo empresarial: teoria e prática. 5. ed.
+São Paulo: Summus, c1987. 190 p. (Novas buscas em comunicação; v. 22) Classificação:
+070.486 G266j 5. ed Ac.132231
+070.49 - FOTOJORNALISMO
+BUITONI, Dulcília Schroeder; PRADO, Magaly. . Fotografia e jornalismo: a informação pela
+imagem. São Paulo: Saraiva, 2011. xix, 195p. ISBN 9788502122246 (broch.) Classificação:
+070.49 B932f Ac.131931 Quantidade : 5
+070.81 - JORNALISMO - BRASIL SILVA, Carlos Eduardo Lins da. . O adiantado da hora: a
+influência americana sobre o jornalismo brasileiro. 2. ed São Paulo: Summus, 1991. 155 p.
+(Novas buscas em comunicação ; 39) ISBN 8532300774 Classificação: 070.81 S586a 2. ed.
+Ac.85478 Quantidade : 5
+070.9 - JORNALISMO - HISTÓRIA
+MELO, José Marques de. . História do Jornalismo: itinerário crítico, mosaico contextual. São
+Paulo: Paulus, 2012. 447 p. ISBN 9788534933315 (broch.) Classificação: 070.9 M528h
+Ac.132260 Quantidade : 5
+071.3 - JORNALISMO - ESTADOS UNIDOS
+SCHUDSON, Michael. . Descobrindo a notícia: uma histórica social dos jornais nos Estados
+Unidos . Petrópolis, RJ: Vozes, 2010 239 p. ISBN 9788532639721 Classificação: 071.3
+S385d Ac.131972 Quantidade : 5
+079 - JORNALISMO
+MORETZSOHN, Sylvia. . Pensando contra os fatos: jornalismo e cotidiano : do senso
+comum ao senso crítico. Rio de Janeiro: Revan, 2007. 302p. ISBN 9788571063549
+Classificação: 070 M844p Ac.114925 Quantidade : 5
+MARCONDES FILHO, Ciro. . Ser jornalista: a língua como barbárie e a notícia como
+mercadoria. São Paulo: Paulus, 2009. 278 p. ISBN 978853493001 7 Classificação: 079
+M321s Ac.114834 Quantidade : 5
+079.81 - JORNALISMO - BRASIL
+BARBOSA, Marialva. . História cultural da imprensa: Brasil, 1800-1900. Rio de Janeiro:
+Mauad X, 2010. 266 p. ISBN 9788574783253 (broch.) Classificação: 079.81 B238h
+Ac.114721 Quantidade : 5
+MELO, José Marques de. Jornalismo brasileiro. Porto Alegre: Sulina, 2003. 239 p. ISBN
+8520503411 (broch.). Classificação: 079.81 M528j Ac.85488 Quantidade : 5
+303.4833 - TECNOLOGIA DA INFORMAÇÃO
+CASTELLS, Manuel. . A sociedade em rede. 11. ed. São Paulo: Paz e Terra, 2008. 698 p. (A
+era da informação: economia, sociedade e cultura ; 1) ISBN 8521903294 Classificação:
+303.4833 C348s 11.ed. Ac.93255 Quantidade : 3
+221
+
+LÉVY, Pierre. . A inteligência coletiva: para uma antropologia do ciberespaço. 4. ed São
+Paulo: Loyola, 2003. 212p. ISBN 8515016133 (broch.) Classificação: 303.4833 L668i 4.ed.
+Ac.81821 Quantidade : 2
+SODRE, Muniz, d 1942. Antropológica do espelho: uma teoria da comunicação linear e em
+rede. Petrópolis, RJ: Vozes, 2002 268p. ISBN 853262684X (broch.) Classificação: 303.4833
+S679a Ac.7876 Quantidade : 10
+SODRE, Muniz, d 1942. . Antropológica do espelho: uma teoria da comunicação linear e em
+rede. 8. ed. Petrópolis, RJ: Vozes, 2013. 268 p. ISBN 9788532626844 (broch.)
+Classificação: 303.4833 S679a 8.ed Ac.132280 Quantidade : 3
+306.4 - INSTITUIÇÕES CULTURAIS
+CERTEAU, Michel de. . A invenção do cotidiano: 1. artes de fazer. 22. ed. Petrópolis: Vozes,
+2014. 316 p. ISBN 9788532611482(broch.) Classificação: 306.4 C418i 22. ed. Ac.130952
+Quantidade : 5
+CERTEAU, Michel de; GIRARD, Luce; MAYOL, Pierre. . A invenção do cotidiano: 2. morar,
+cozinhar. 5. ed Petrópolis, RJ: Vozes, 2003. 372 p. ISBN 8532616690 Classificação: 306.4
+C418i 5. ed. Ac.81790 Quantidade : 10
+CERTEAU, Michel de; ALVES, Ephraim Ferreira. . A invenção do cotidiano: artes de fazer .
+9. ed Petrópolis: Vozes, 2003. 351 p. ISBN 8532611486 Classificação: 306.4 C418i 9. ed
+Ac.7244 Quantidade : 9
+COELHO, Teixeira. . O que é indústria cultural. São Paulo: Brasiliense, c1980. 99 p.
+Classificação: 306.4 C672q Ac.15256 Quantidade : 5
+DUARTE, Rodrigo. . Indústria cultural: uma introdução. Rio de Janeiro: FGV Ed., 2010. 129
+p. ISBN 9788522507948 (broch.) Classificação: 306.4 D812i Ac.132093 Quantidade : 5
+JAMESON, Fredric. . Pos-modernismo: a lógica cultural do capitalismo tardio. 2.ed. São
+Paulo: Ática, 2002. 431 p. (Temas ; 41 Cultura e sociedade ) ) ISBN 85-08-05786-5
+Classificação: 306.4 J31p 2.ed. Ac.54145 Quantidade : 1
+MAYOR, Frederico; FORTI, Augusto. . Ciência e poder. Campinas, SP: Brasília: Papirus,
+Unesco, 1998. 144 p. ISBN 8530805356 Classificação: 306.4 M473c Ac.7869 Quantidade :
+2
+ROBERTSON, Roland. Globalização: teoria social e cultura global. Petropolis: Vozes, 2000
+312p. (Horizontes da globalização). ISBN 85326224 7 X. Classificação: 306.4 R651g
+Ac.1382 Quantidade : 10
+THOMPSON, John B. . Ideologia e cultura moderna: teoria social crítica na era dos meios de
+comunicação de massa. 9. ed Petrópolis: Vozes, 2011. 427 p. ISBN 9788532614841(broch.)
+Classificação: 306.4 T473i 9.ed Ac.132259 Quantidade : 5
+222
+
+WILLIAMS, Raymond. Cultura e sociedade: de Coleridge a Orwell. Petrópolis: Vozes, 2011.
+380 p. ISBN 9788532642219 (broch.). Classificação: 306.4 W726c Ac.132232 Quantidade :
+5
+301.14 - COMUNICAÇÃO MALINI, Fábio; ANTOUN, Henrique. . @internet e #rua:
+ciberativismo e mobilização nas redes sociais . Porto Alegre: Sulina, 2013. 278 p. ISBN
+9788520506844 (broch.) Classificação: 301.14 M251i Ac.130603 Quantidade : 5
+301.16 - COMUNICAÇÃO DE MASSA
+BOSI, Ecléa. . Cultura de massa e cultura popular: leituras de operários. 13. ed. Petrópolis:
+Vozes, 2009. 239 p. ISBN 9788532606761 Classificação: 301.16 B743c 13. ed Ac.132196
+Quantidade : 5
+301.2 - PROCESSOS CULTURAIS
+CHARBONNIER, Georges. Arte, linguagem e etnologia: entrevistas com Claude Lévi-
+Strauss . Campinas: Papirus, 1989. 144 p. Classificação: 301.2 C469a Ac.36851 Quantidade
+: 1
+FREYRE, Gilberto. . Além do apenas moderno: sugestões em torno de possíveis futuros do
+homem, em geral, e do homem brasileiro, em particular. Rio de Janeiro: Topbooks, 2001.
+313 p. Classificação: 301.2 F894a 2.ed. Ac.113190 Quantidade : 3
+301.20981 - CULTURA - BRASIL
+ORTIZ, Renato. . Cultura brasileira e identidade nacional. 5. ed São Paulo: Brasiliense,
+c1994. 148 p. ISBN 8511070141 (broch.) Classificação: 301.20981 O77c 5. ed. Ac.19145
+Quantidade : 6
+ORTIZ, Renato. . Cultura brasileira e identidade nacional. 5. ed. São Paulo: Brasiliense,
+1994. 148 p. ISBN 8511070141 (broch.) Classificação: 301.20981 O77c 5. ed. Ac.78200
+Quantidade : 3
+ORTIZ, Renato. . Cultura brasileira e identidade nacional. 5. ed. São Paulo: Brasiliense,
+c1994. 148 p. ISBN 8511070141 (broch.) Classificação: 301.20981 O77c 5. ed. Ac.78244
+Quantidade : 3
+301.24 - MUDANÇA SOCIAL
+GIDDENS, Anthony; FIKER, Raul. As conseqüências da modernidade. São Paulo: UNESP,
+1991. 177 p. (Biblioteca básica). ISBN 8571390223 (broch.). Classificação: 301.24 G453c
+Ac.19168 Quantidade : 5
+302.2 - COMUNICAÇÃO
+ADLER, Ronald B; RODMAN, George R. . Comunicação humana. Rio de Janeiro: LTC,
+2003. 394 p. ISBN 8521613075 Classificação: 302.2 A237c 7. ed Ac.113353 Quantidade : 2
+BARROS FILHO, Clóvis de. . Ética na comunicação. 6. ed São Paulo: Summus, 2008. 230
+p. ISBN 9788532305060 (broch.) Classificação: 302.2 B277e 6. ed Ac.132227 Quantidade :
+5
+223
+
+BARTHES, Roland. Mitologias. 2. ed Rio de Janeiro: DIFEL, 2006. 256 p. Classificação:
+302.2 B285m 2. ed Ac.93530 Quantidade : 3
+BOAVENTURA, Edivaldo M. Como ordenar as idéias. 8. ed. São Paulo: Ática, 2000. 59 p.
+(Princípios). ISBN 8508028989. Classificação: 302.2 B662c 8. ed Ac.5590 Quantidade : 5
+DIMBLEBY, Richard; BURTON, Graeme. . Mais do que palavras: uma introduçâo à teoria
+da comunicaçâo. 4. ed. Sâo Paulo: Summus, 1990. 215 p. ((Novas buscas em comunicação
+; 37)) ISBN 8532300561 Classificação: 302.2 D582m 4. ed. Ac.98492 Quantidade : 5
+IMAGEM contemporânea, cinema, tv, documentário, fotografia, videoarte, games.... São
+Paulo: Hedra, 2009. 2 v. ISBN 9788577151431 (v.1) Classificação: 302.2 I31 Ac.115294
+Quantidade : 2
+HOHLFELDT, Antônio; MARTINO, Luiz C; FRANÇA, Vera Veiga. . Teorias da comunicação:
+conceitos, escolas e tendências. 14. ed Petrópolis: Vozes, 2014. 309 p. ISBN
+9788532626158 (broch.) Classificação: 302.2 T314 14. ed Ac.132085 Quantidade : 5
+TORQUATO, Gaudêncio. . Tratado de comunicação organizacional e política. 2. ed rev. e
+amp São Paulo: Cengage Learning, 2010. xxv, 314 p. ISBN 9788522110094(broch.)
+Classificação: 302.2 T687 2. ed Ac.112091 Quantidade : 5
+VANOYE, Francis; OSAKABE, Haquira; SABÓIA, Clarisse Madureira. Usos da linguagem:
+problemas e técnicas na produção oral e escrita. 12. ed. São Paulo: Martins Fontes, 2003.
+327 p. (Coleção ferramentas). ISBN 85-336-1780-1. Classificação: 302.2 V272u 12. ed
+Ac.7688 Quantidade : 3
+VANOYE, Francis; OSAKABE, Haquira; SABÓIA, Clarisse Madureira. . Usos da linguagem:
+problemas e técnicas na produção oral e escrita. 13. ed São Paulo: Martins Fontes, 2007.
+327 p. (Coleção ferramentas ) ISBN 9788533623552 (broch.) Classificação: 302.2 V272u 13.
+ed Ac.85894 Quantidade : 7
+302.201 - COMUNICAÇÃO - FILOSOFIA
+SFEZ, Lucien. . Critica da comunicacao. 2. ed São Paulo: Loyola, 2000. 389 p. ISBN 85-15-
+01015-1 (broch.) Classificação: 302.201 S523c 2. ed. Ac.85830 Quantidade : 5
+302.2014 - ANÁLISE DE CONTEÚDO (COMUNICAÇÃO) FRANCO, Maria Laura P.
+Barbosa. . Análise de conteúdo. 3. ed. Brasília: Liber Livro, 2008. 79 p. ISBN 8598843326
+(broch.) Classificação: 302.2014 F825a 3. ed. Ac.112947 Quantidade : 2
+302.2072 - COMUNICAÇÃO - PESQUISA
+DUARTE, Jorge; BARROS, Antonio. . Métodos e técnicas de pesquisa em comunicação. 2.
+ed São Paulo: Atlas, 2006. xxiv, 380 p. ISBN 8522445338 (broch.) Classificação: 302.2072
+M593 2. ed. Ac.91951 Quantidade : 5
+302.23 - COMUNICAÇÃO DE MASSA
+224
+
+ANDRADE, Luiz Adolfo de. Jogos digitais, cidade e (trans)mídia: a próxima fase. 1. ed.
+Curitiba, PR: Appris, 2015. 283 p. ISBN 9788581927145(broch.). Classificação: 302.23
+A553j Ac.135484 Quantidade : 2
+ARMES, Roy. . On video: o significado do vídeo nos meios de comunicação. 2. ed São
+Paulo: Summus, 1999. 267 p. ISBN 8532305814 (broch.) Classificação: 302.23 A728o 2. ed
+Ac.95123 Quantidade : 5
+BELTRÃO, Luiz; QUIRINO, Newton de Oliveira. . Subsídios para uma teoria da
+comunicação de massa. 3. ed. São Paulo: Summus, 1986. 214 p. Classificação: 302.23
+B419s 3. ed. Ac.35712 Quantidade : 5
+BUCCI, Eugênio. . A imprensa e o dever da liberdade: independência editorial e suas
+fronteiras com a indústria do entretenimento, as fontes, os governos, os corporativismos, o
+poder econômico e as ONGs. 2. ed São Paulo: Contexto, 2013. 134 p. ISBN
+9788572444385 Classificação: 302.23 B918i 2. ed Ac.132201 Quantidade : 5
+PERUZZO, Cicilia Krohling; ALMEIDA, Fernando ferreira de. Comunicação para a cidadania.
+Campinas: INTERCOM, UNEB, 2003. 294 p. (Coleção INTERCOM de Comunicação ISBN
+8588537079. Classificação: 302.23 C741 Ac.7005 Quantidade : 9
+DUARTE, Jorge. . Comunicação pública: estado, mercado, sociedade e interesse público. 3.
+ed. São Paulo: Atlas, 2012. xiv, 267 p. ISBN 9788522473489(broch.) Classificação: 302.23
+C741 3. ed. Ac.131896 Quantidade : 5
+COSTA, Caio Túlio. . Ética, jornalismo e nova mídia: uma moral provisória. Rio de Janeiro:
+Zahar, 2009. 287 p. ISBN 9788537801246 (broch.) Classificação: 302.23 C837e Ac.132171
+Quantidade : 5
+COSTA, Belarmino Cesar Guimarães da. . Estética da violência: jornalismo e produção de
+sentidos . São Paulo: FAPESP; Campinas: Ed. UNIMEP, 2002. 201 p. ISBN 8585541369
+Classificação: 302.23 C838e Ac.112164 Quantidade : 5
+DOWNING, John. . Mídia radical: rebeldia nas comunicações e movimentos sociais . 2. ed.
+São Paulo: Ed. Senac São Paulo, 2004 544 p. ISBN 857359280X (broch.) Classificação:
+302.23 D751m 2. ed Ac.130737 Quantidade : 5
+ECO, Umberto. . Apocalípticos e integrados. 7. ed São Paulo: Perspectiva, 2011. 386 p.
+(Coleção debates. estética ;19) ISBN 9788527301572 Classificação: 302.23 E19a 7. ed
+Ac.130284 Quantidade : 5
+FERRES, Joan. . Televisão subliminar: socializando através de comunicações
+despercebidas. Porto Alegre: ArtMed, 1998 288 p. ISBN 8573074752 (broch.) Classificação:
+302.23 F386t Ac.5743 Quantidade : 2
+JOLY, Martine. Introdução à análise da imagem. 14.ed. Campinas: Papirus, 2010. 152 p.
+(Ofício de arte e forma). ISBN 8530804244 (broch.). Classificação: 302.23 J75i 14.ed.
+Ac.110189 Quantidade : 5
+225
+
+LEMOS, André. cibercultura. 7. ed. Porto Alegre: Sulina, 2015. 295 p. (Coleção
+Cibercultura). ISBN 9788520505779 (broch.). Classificação: 302.23 L555c 7. ed Ac.132097
+Quantidade : 5
+MCCOMBS, Maxwell E. A teoria da agenda: a mídia e a opinião pública. Petrópolis: Vozes,
+2009 237 p. (Clássicos da comunicação social). ISBN 9788532639264. Classificação:
+302.23 M121t Ac.131946 Quantidade : 5
+MCLUHAN, Marshall. . Os meios de comunicação: como extensões do homem. São Paulo:
+Cultrix, 2007. 407 p. ISBN 9788531602580 Classificação: 302.23 M166m Ac.103317
+Quantidade: 3
+MCLUHAN, Marshall. Os meios de comunicação: como extensões do homem. São Paulo:
+Cultrix, 1969. 407 p. Classificação: 302.23 M166m Ac.18569 Quantidade : 5
+MATTELART, Armand; MATTELART, Michele. . Pensar as mídias. São Paulo: Loyola,
+c2004. 255 p. ISBN 8515029073 (broch.) Classificação: 302.23 M435p Ac.132128
+Quantidade : 5
+MCQUAIL, Denis. Teorias da comunicação de massa. Porto Alegre: Penso, 2013. 584 p.
+ISBN 9788565848275 (broch.). Classificação: 302.23 M478t Ac.132107 Quantidade : 5
+RIBEIRO, Ana Paula Goulart; FERREIRA, Lúcia Maria Alves. . Mídia e memória: a produção
+de sentidos nos meios de comunicação. Rio de Janeiro: Mauad X, 2007. 359 p. ISBN
+9788574782393 (broch.) Classificação: 302.23 M627 Ac.132218 Quantidade : 5
+NEVEU, Érik. . Sociologia do jornalismo. São Paulo: Loyola, 2006. 215 p. ISBN 8515030624
+(broch.) Classificação: 302.23 N519s Ac.132124 Quantidade : 5
+SIBILIA, Paula. . O show do eu: a intimidade como espetáculo . Rio de Janeiro: Nova
+Fronteira, 2008. 286 p. ISBN 9788520921296 (broch.) Classificação: 302.23 S563s
+Ac.116095 Quantidade : 2
+SODRE, Muniz, d 1942. . A narração do fato: notas para uma teoria do acontecimento .
+Petrópolis, RJ: Vozes, 2009. 287 p. ISBN 9788532638441 (broch.) Classificação: 302.23
+S679n Ac.112145 Quantidade : 1
+SODRE, Muniz, d 1942. . Reinventando a cultura: a comunicação e seus produtos. 5. ed
+Petrópolis, RJ: Vozes, 2010. 180 p. ISBN 9788532618009 (broch.) Classificação: 302.23
+S679r 5. ed Ac.132230 Quantidade : 5
+THOMPSON, John B. . A mídia e a modernidade: uma teoria social da mídia. 6. ed.
+Petrópolis, RJ: Vozes, 2004. 261p. ISBN 85-3262.2079-5 Classificação: 302.23 T473m 6.
+ed. Ac.10171 Quantidade : 10
+302.230981 - COMUNICAÇÃO DE MASSA - BRASIL PEREIRA
+JUNIOR, Luiz Costa. . A Vida com a TV: o poder da televisão no cotidiano. 3. ed São Paulo:
+Ed. SENAC, c2002. 280 p. ISBN 9788573598070 (broch.) Classificação: 302.230981 V648
+3.ed. Ac.132269 Quantidade : 5
+226
+
+302.2343 - CINEMA - ASPECTOS SOCIAIS
+TURNER, Graeme. . Cinema como prática social. São Paulo: Summus, 1997. 174 p. ISBN
+85-323-0587-3 Classificação: 302.2343 T946c Ac.97122 Quantidade : 5
+302.2345 - TELEVISÃO
+MACHADO, Arlindo. . A televisão levada a sério. 6. ed. São Paulo: Ed. SENAC, 2014. 238p.
+ISBN 9788539607686 (broch.) Classificação: 302.2345 M149t 6. ed. Ac.130773 Quantidade
+: 5
+MATTOS, Sérgio. A Televisão no Brasil: 50 anos de história (1950-2000). São Paulo: PAS,
+2000. 344 p. Classificação: 302.2345 M435t Ac.108560 Quantidade : 1
+MATTOS, Sérgio. . História da televisão brasileira: uma visão econômica, social e política. 5.
+ed. Petrópolis, RJ: Vozes, 2010. 285 p. ISBN 9788532627490 (broch.) Classificação:
+302.2345 M444h 5.ed Ac.132214 Quantidade : 5
+NOVAES, Adauto. . Rede imaginária: televisão e democracia. 2. ed São Paulo: Compainha
+das Letras , Secretaria Municipal de Cultura, 1999. 317 p. ISBN 8571641943 (broch.)
+Classificação: 302.2345 R314 2. ed. Ac.55455 Quantidade : 5
+302.5 - RELAÇÕES DO INDIVIDUO COM A SOCIEDADE
+SILVA, Tomaz Tadeu da; WOODWARD, Kathryn. Identidade e diferença: a perspectiva dos
+estudos culturais. 15. ed. Petrópolis: Vozes, 2014. 133 p. (Coleção educação pós-crítica).
+ISBN 9788532624130 (broch.). Classificação: 302.5 I19 15. ed Ac.130406 Quantidade : 3
+303.3 - PODER ( CIÊNCIAS SOCIAIS)
+FOUCAULT, Michel. . Microfísica do poder. 24.ed Rio de Janeiro: Graal, 2007. 295 p.
+(Biblioteca de filosofia e história das ciências ) Classificação: 303.33 F762m 24.ed Ac.90319
+Quantidade : 2
+303.33 - PODER - CIENCIAS SOCIAIS
+FOUCAULT, Michel. . Microfísica do poder. 20. ed Rio de Janeiro: Graal, 2004. 295 p.
+(Biblioteca de filosofia e história das ciências ) Classificação: 303.33 F762m 20 ed Ac.81764
+Quantidade : 2
+303.38 - OPINIÃO PÚBLICA
+LIPPMANN, Walter. Opinião pública. 2. ed. Petrópolis: Vozes, 2010. 350 p. (Clássicos da
+comunicação social). ISBN 9788532637482 (broch.). Classificação: 303.38 L766p 2. ed
+Ac.132121 Quantidade : 5
+303.4 - MUDANÇA SOCIAL
+BAUMAN, Zygmunt. . O mal-estar da pós-modernidade. Rio de Janeiro: Zahar, 1998. 272 p.
+ISBN 8571104646 (broch.) Classificação: 303.4 B347m Ac.82367 Quantidade : 5
+HARVEY, David; SOBRAL, Adail Ubirajara; GONÇALVES, Maria Stella. . Condição pós-
+moderna: uma pesquisa sobre as origens da mudança cultural. 25. ed São Paulo: Loyola,
+227
+
+2012. 348 p. ISBN 9788515006793 (broch.) Classificação: 303.4 H341con 25. ed Ac.131399
+Quantidade : 5
+SANTOS, Milton. . Por uma outra globalização: do pensamento único à consciência
+universal. 18. ed Rio de Janeiro: Record, 2009. 174 p. ISBN 9788501058782 Classificação:
+303.4 S237p 18. ed Ac.101236 Quantidade : 1
+SANTOS, Milton. Por uma outra globalização: do pensamento único à consciência universal.
+20. ed. Rio de Janeiro: Record, 2011. 174 p. ISBN 9788501058782 (broch.). Classificação:
+303.4 S237p 20. ed Ac.112244 Quantidade : 5
+SANTOS, Milton. . Por uma outra globalização: do pensamento único à consciência
+universal. 22. ed. Rio de Janeiro: Record, 2012. 174 p. ISBN 9788501058782 (broch.)
+Classificação: 303.4 S237p 22. ed. Ac.121228 Quantidade : 5
+SANTOS, Boaventura de Sousa. . Pela mão de Alice: o social e o político na pós-
+modernidade. 9. ed São Paulo: Cortez, 2003. 348 p. ISBN 8524905786 (broch.)
+Classificação: 303.4 S237p 9. ed Ac.7563 Quantidade : 2
+SILVA, Luiz Heron da. Século XXI: qual conhecimento? qual currículo? 2. ed. Petrópolis RJ:
+Vozes, 2000 360p. Classificação: 303.4 S444 Ac.5720 Quantidade : 8
+303.483 - DESENVOLVIMENTO DA CIÊNCIA E TECNOLOGIA
+LÉVY, Pierre. Cibercultura. 2. ed. São Paulo: Ed.34, c2000. 260 p. (Coleção TRANS). ISBN
+8573261269. Classificação: 303.483 L668c 2. ed Ac.1131 Quantidade : 2
+LÉVY, Pierre. Cibercultura. 3. ed. São Paulo: Ed.34, 2010. 270 p. (Trans). ISBN 8573261269
+(broch.). Classificação: 303.483 L668c 3. ed. Ac.111162 Quantidade : 9
+LÉVY, Pierre. As tecnologias da inteligência: o futuro do pensamento na era da informática.
+Rio de Janeiro: Editora 34, c1993. 203 p. (Coleção TRANS). ISBN 8585490152 (broch).
+Classificação: 303.483 L668t Ac.52998 Quantidade : 4
+LÉVY, Pierre. As tecnologias da inteligência: o futuro do pensamento na era da informática.
+2. ed. Rio de Janeiro: Editora 34, 2010. 208 p. (Coleção TRANS). ISBN 8585490152(broch.).
+Classificação: 303.483 L668t 2. ed. Ac.114102 Quantidade : 5
+303.4834 - COMPUTADORES E CIVILIZAÇÃO
+NICOLAI-DA-COSTA, Ana Maria. . Cabeças digitais: o cotidiano na era da informação. Rio
+de Janeiro: São Paulo: Loyola, PUC Rio; 2006. 257 p. ISBN 8515033933 (broch.)
+Classificação: 303.4834 C114 Ac.132239 Quantidade : 5
+LEMOS, André; LÉVY, Pierre. . O futuro da internet: em direção a uma ciberdemocracia
+planetária. São Paulo: Paulus, 2010. 258p. ISBN 9788534931816 (broch.) Classificação:
+303.4834 L558f Ac.112175 Quantidade : 5
+LÉVY, Pierre. A máquina universo: criação, cognição e cultura informática. Porto Alegre:
+ArTmed, 1998. 173p. ((Biblioteca Artmed)). ISBN 8573074493 (broch.). Classificação:
+303.4834 L668m Ac.88865 Quantidade : 2
+228
+
+303.484 - MOVIMENTOS SOCIAIS
+GOHN, Maria da Glória Marcondes. . Movimentos sociais e redes de mobilização civis no
+Brasil contemporâneo. 7. ed. Petrópolis: Vozes, 2013. 189 p. ISBN 978-85-326-3946-2
+(broch.) Classificação: 303.484 G614m 7. ed Ac.132187 Quantidade : 5
+GOHN, Maria da Gloria Marcondes. Novas teorias dos movimentos sociais. 5. ed. São
+Paulo: Loyola, 2014. 166 p. ISBN 9788515035809 (broch.). Classificação: 303.484 G614n
+5.ed Ac.132243 Quantidade : 5
+GOHN, Maria da Gloria Marcondes. . Teorias dos movimentos sociais: paradigmas clássicos
+e contemporâneos. 11. ed São Paulo: Loyola, 2014. 415 p. ISBN 9788515015979 (broch.)
+Classificação: 303.484 G614t 11.ed. Ac.131715 Quantidade : 5
+MELUCCI, Alberto. . A invenção do presente: movimentos sociais nas sociedades
+complexas. Petrópolis, RJ: Vozes, 2001 199p. ISBN 8532625665 (broch.) Classificação:
+303.484 M529i Ac.9725 Quantidade : 10
+MÍDIA e movimentos sociais: linguagens e coletivos em ação. São Paulo: Paulus, 2007. 232
+p. ISBN 978-85-349-2764-2 Classificação: 303.484 M629 Ac.101336 Quantidade: 5
+GOHN, Maria da Gloria Marcondes. Movimentos sociais no início do século XXI: antigos e
+novos atores sociais. 6. ed. Petrópolis: Vozes, 2013. 143 p. ISBN 9788532628329 (broch.).
+Classificação: 303.484 M935 6.ed Ac.132109 Quantidade : 5
+TARROW, Sidney. O poder em movimento: movimentos sociais e confronto político.
+Petrópolis: Vozes, 2009. 319 p. (Sociologia). ISBN 9788532638281 (broch.). Classificação:
+303.484 T192p Ac.132108 Quantidade : 5
+303.49 - PREVISÃO SOCIAL
+FREYRE, Gilberto. . Insurgências e ressurgências atuais: cruzamentos de sins e nãos num
+mundo em transição . 2.ed. Rio de Janeiro: Global, 2006. 364 p. Classificação: 303.49 F866i
+2.ed. Ac.101804 Quantidade : 4
+306 - CULTURA
+GARCIA CANCLINI, Nestor. . Leitores, espectadores e internautas. 2. ed São Paulo:
+Iluminuras: Itaú Cultural, c2004. 95 p. ISBN 9788573212839 (Iluminuras) Classificação: 306
+G216l 2. ed Quantidade : 4
+BOURDIEU, Pierre; LINS, Daniel Soares 1943. O campo econômico: a dimensão simbólica
+da dominação. Campinas: Papirus, 2000. 119 p ISBN 8530805879 (broch.). Classificação:
+306 B769 Ac.103383 Quantidade : 2
+MENEZES, Gil Mário de Oliveira. Cultura e artes plasticas em Feira de Santana. : UEFS,
+2002. 212 p. ISBN 857395097-8. Classificação: 306 C967c Ac.104318 Quantidade : 1
+FEATHERSTONE, Mike. Cultura global: nacionalismo, globalização e modernidade. 3. ed.
+Petrópolis: Vozes, 1994 437 p. (Horizontes da globalização). ISBN 85-326-1304-7 (broch.).
+Classificação: 306 C968 3. ed. Ac.80938 Quantidade : 10
+229
+
+SOPRAN, Fátima Leonor; AMORIM, Walquiria Terezinha. Descobrindo nossas raízes:
+cultura brasileira. Barreiras, BA: [s. n.], 2004. 43 p. Classificação: 306 D448 Ac.10698
+Quantidade : 5
+GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, c1989. 213 p.
+(Etnologia Antropologia social). ISBN 8521613334. Classificação: 306 G298i Ac.53421
+Quantidade : 1
+GEERTZ, Clifford. . O saber local: novos ensaios em antropologia interpretativa. 6. ed.
+Petrópolis, RJ: Vozes, 2003. 366p. ISBN 8532619320 (broch.) Classificação: 306 G298s 6.
+ed Ac.7714 Quantidade : 11
+HALL, Stuart. A identidade cultural na pós-modernidade. 11. ed. Rio de Janeiro: DP&A,
+2001. 102 p. ISBN 8574904023. Classificação: 306 H179i 11. ed Ac.86100 Quantidade : 2
+HALL, Stuart. A identidade cultural na pós-modernidade. 12. ed. Rio de Janeiro: Lamparina,
+2015. 58 p. ISBN 9788583160076 (broch.). Classificação: 306 H179i 12.ed. Ac.130770
+Quantidade : 5
+LARAIA, Roque de Barros. Cultura: um conceito antropológico. Rio de Janeiro: Zahar, 1986.
+116 p. (Antropologia social). ISBN 858506157X(broch.). Classificação: 306 L318c Ac.82027
+Quantidade : 5
+LARAIA, Roque de Barros. Cultura: um conceito antropológico. 21. ed. Rio de Janeiro: Jorge
+Zahar, 2007. 117 p. (Etnologia). ISBN 9788571104389. Classificação: 306 L318c 21. ed.
+Ac.90571 Quantidade : 3
+LARAIA, Roque de Barros. Cultura: um conceito antropológico. 21. ed. Rio de Janeiro:
+Zahar, 2007 117 p. (Etnologia). ISBN 9788571104389. Classificação: 306 L318c 21. ed.
+Ac.92218 Quantidade : 5
+MARGATO, Izabel; GOMES, Renato Cordeiro. . Literatura / política / cultura: 1994-2004.
+Belo Horizonte: Ed. UFMG, 2005. 356p. (Humanitas ) ISBN 8570414994 (broch.)
+Classificação: 306 L775 Ac.82631 Quantidade : 2
+MATTELART, Armand. . Diversidade cultural e mundialização. São Paulo: Parábola, 2005.
+167p. ISBN 8588456451 Classificação: 306 M435d Ac.97237 Quantidade : 1
+MELLO, Luiz Gonzaga de. Antropologia cultural: iniciação, teoria e temas. 10. ed.
+Petrópolis: Vozes, 2003 526p. ISBN 8532605907. Classificação: 306 M527a 10. ed. Ac.6330
+Quantidade : 10
+MORIN, Edgar. . Cultura de massas no século XX: o espirito do tempo I , neurose. 10. ed
+Rio de Janeiro: Forense Universitária, 2011. 203 p. Classificação: 306 M858c 10. ed
+Ac.129121 Quantidade : 5
+SAMPAIO, Tiago Santos; MACEDO, Carolina Ruiz de. Nuances da cultura e expressões
+identitárias na Bahia: leituras de continuidades e rupturas. Salvador: EDUNEB, 2015. 182 p.
+ISBN 9788578872946. Classificação: 306 N962 Ac.132738 Quantidade : 3
+230
+
+RUBIM, Antonio Albino Canelas. . Políticas culturais, democracia & conselhos de cultura. 2.
+ed. Salvador: EDUFBA, 2011. 406 p. ISBN 9788523208424 Classificação: 306 P769 2. ed.
+Ac.126803 Quantidade : 5
+RICHARD, Nelly. Intervenções críticas: arte, cultura, gênero e política. Belo Horizonte:
+UFMG, 2002. 206 p. ISBN 8570413211(broch.). Classificação: 306 R511i Ac.112005
+Quantidade : 4
+SAID, Edward W. . Cultura e imperialismo. São Paulo: Companhia de bolso, 2011. 567 p.
+ISBN 9788535919516 Classificação: 306 S132c Ac.132240 Quantidade : 5
+371.33 - EDUCAÇÃO - INOVAÇÕES TECNOLÓGICAS
+LIBÂNEO, José Carlos. Adeus professor, adeus professora?: novas exigencias educacionais
+e profissao docente. 10. ed. São Paulo: Cortez, 2006 104p. (Questões da nossa época v
+67)). ISBN 85-249-0678-2. Classificação: 370.71 L694a 10. ed. Ac.102309 Quantidade : 3
+BELLONI, Maria Luiza. . O que é mídia-educação. 2. ed. rev Campinas, SP: Autores
+Associados, 2009. 100p. ISBN 8574960152 Classificação: 371.33 B447q 2 ed. Ac.102299
+Quantidade : 3
+BONILLA, Maria Helena Silveira. Escola aprendente: para além da sociedade da
+informação. Rio de Janeiro: Quartet, 2005. 224 p. (Cibercultura e educação). ISBN
+8585696753 (broch.). Classificação: 371.33 B715e Ac.89469 Quantidade : 6
+CAVALCANTE, Joana. O jornal como proposta pedagógica. 4. ed São Paulo: Paulus, 2003.
+88p. (Pedagogia e educação ) ISBN 8534914591 (broch.) Classificação: 371.33 C376j 4. ed
+Ac.93686 Quantidade : 3
+FARIA, Maria Alice. . Como usar o jornal na sala de aula. 8.ed. São Paulo: Contexto, 2003
+162 p. (Repensando o ensino ) ISBN 8572440461 Classificação: 371.33 F224c Ac.13287
+Quantidade : 5
+FARIA, Maria Alice. . Como usar o jornal na sala de aula. 10.ed. São Paulo: Contexto, 2006
+162 p. ((Repensando o ensino) ) ISBN 85-7244-046-1 Classificação: 371.33 F224c 10ed
+Ac.94546 Quantidade : 2
+KENSKI, Vani Moreira. Educação e tecnologias: o novo ritmo da informação. 8. ed.
+Campinas: Papirus, 2011. 141 p. (Papirus educação). ISBN 9788530808280 (broch.).
+Classificação: 371.33 K36e 8. ed. Ac.117007 Quantidade : 2
+MORAN, José Manoel; MASETTO, Marcos T; BEHRENS, Marilda Aparecida. . Novas
+tecnologias e mediação pedagogica. 13. ed Campinas: Papirus, 2007. 173 p. (Papirus
+educação ) ISBN 8530805941 (broch.) Classificação: 371.33 M829n 13. ed Ac.93538
+Quantidade : 5
+MORAN, José Manoel; MASETTO, Marcos T; BEHRENS, Marilda Aparecida. Novas
+tecnologias e mediação pedagogica. 15. ed. Campinas: Papirus, 2009. 173 p. (Papirus
+231
+
+educação). ISBN 8530805941 (broch.). Classificação: 371.33 M829n 15. ed Ac.98084
+Quantidade : 1
+MORAN, José Manoel; MASETTO, Marcos T; BEHRENS, Marilda Aparecida. Novas
+tecnologias e mediação pedagogica. 21. ed. rev. e atual. Campinas: Papirus, 2013. 173 p.
+(Papirus educação). ISBN 9788530809966 (broch.). Classificação: 371.33 M829n 21. ed.
+Ac.130745 Quantidade : 3
+CITELLI, Adilson. . Outras linguagens na escola: publicidade, cinema e tv, rádio, jogos,
+informática. 5. ed. São Paulo: Cortez, 2014. 279 p. ISBN 9788524921742 (broch.)
+Classificação: 371.33 O94 5. ed. Ac.132233 Quantidade : 5
+SETTON, Maria da Graça. . Mídia e educação. São Paulo: Contexto, 2010. 126 p. ISBN
+9788572444828 (broch.) Classificação: 372.33 S495m Ac.115348 Quantidade : 1
+371.3331 - RADIO NA EDUCAÇÃO
+CONSANI, Marciel. . Como usar o rádio na sala de aula. São Paulo: Contexto, 2007. 187p.
+((Como usar na sala de aula) ) ISBN 9788572443562 (broch.) Classificação: 371.3331
+C755c Ac.94732 Quantidade : 3
+371.334 - TECNOLOGIA EDUCACIONAL
+PESCE, Lucila; OLIVEIRA, Maria Olívia de Matos. Educação e cultura midiática. Salvador:
+EDUNEB, 2012. 2 v. ISBN 9788578871222 (v.1). Classificação: 371.334 E24 Ac.120588
+Quantidade : 4
+LIMA JUNIOR, Arnaud Soares de. A escola no contexto das tecnologias de comunicação e
+informação: do dialético ao virtual. 1. ed. Salvador: EDUNEB, 2007. 117 p. ISBN
+9788586873850. Classificação: 371.334 L732e Ac.96086 Quantidade : 1
+MARQUES, Mario Osorio. A escola no computador: linguagens rearticuladas, educação
+outra. Ijui: Ed. Unijuí, c1999 216 p. ISBN 85-7429-083-1 Classificação: 371.334 M357e
+Ac.7734 Quantidade : 2
+OLIVEIRA, Ramon de. . Informática educativa: dos planos e discursos à sala de aula. 9. ed.
+São Paulo: Papirus, 2005. 176p. ISBN 8571948341 (broch.) Classificação: 371.334 O48i 9.
+ed. Ac.93618 Quantidade : 3
+ASSMANN, Hugo. Redes digitais e metamorfose do aprender. Petrópolis: Vozes, 2005.
+124p. ISBN 8532631533 (broch.). Classificação: 371.334 R314r Ac.82789 Quantidade : 3
+SANDHOLTZ, Judith Haymore; RINGSTAFF, Cathy; DWYER, David C. Ensinando com
+tecnologia: criando salas de aula centradas nos alunos. Porto Alegre: Artes Médicas, c1997.
+196 p. ISBN 8573072997. Classificação: 371.334 S217e Ac.15458 Quantidade : 2
+SILVA, Marco. Sala de aula interativa. 4. ed. Rio de Janeiro: Quartet, 2006. 230 p. ISBN
+858569629X (broch.). Classificação: 371.334 S586s 4. ed. Ac.91240 Quantidade : 2
+232
+
+TAJRA, Sanmya Feitosa. Informática na educação: novas ferramentas pedagógicas para o
+professor na atualidade. 6. ed. São Paulo: Érica, 2007. 182p. ISBN 8571948341 (broch.)
+Classificação: 371.334 T135i 6. ed. Ac.89932 Quantidade : 2
+ALVES, Lynn Rosalina Gama; SILVA, Jamile Borges da,. . Educação e cibercultura.
+Salvador: EDUFBA, 2001. 76 p. ISBN 852320243 Classificação: 371.334098142 E24e
+Ac.88752 Quantidade : 2
+371.3358 - EDUCAÇÃO À DISTÂNCIA
+MINISTERIO DA EDUCAÇÃO E DO DESPORTO. Secretaria de Educação à Distância.
+Salto para o futuro: reflexões sobre a educação no próximo milênio. Brasília: MEC, 1998. 93
+p. (Série de estudos. Educação à Distância). Classificação: 371.3358 B823s Ac.80286
+Quantidade : 1
+NONATO, Emanuel do Rosário Santos; SALES, Mary Valda Souza; ALBUQUERQUE, Jader
+Cristiano Magalhães de. Educação a distância: percursos e perspectivas. Salvador:
+EDUNEB, 2017. 294 p. ISBN 9788585813147. Classificação: 371.3358 E25 Ac.140372
+Quantidade : 5
+GUIMARÃES, Glaucia. . TV e escola: discursos em confronto. 3. ed. São Paulo: Cortez,
+2001. 120 p. ISBN 8524907347 (broch.) Classificação: 371.3358 G963t 3. ed. Ac.11146
+Quantidade : 3
+NAPOLITANO, Marcos. . Como usar a televisão na sala de aula. 7. ed São Paulo: Contexto,
+2007. 137 p. ISBN 9788572441117 (broch.) Classificação: 371.3358 N216c 7.ed. Ac.92135
+Quantidade : 3
+SALTO para o futuro: educação de jovens e adultos. Brasília: Ministério da Educação, 1999.
+107 p. (Série de estudos. Educação a distância; ; 10). Classificação: 371.3358 S179 1999
+Ac.57942 Quantidade : 1
+384.54 - RADIODIFUSÃO
+BALSEBRE, Armand. El lenguaje radiofonico. Madrid [Espanha]: Cátedra, 1994. 250 p ISBN
+8437612365. Classificação: 384.54 B196L Ac.140428 Quantidade : 1
+CESAR, Cyro. . Rádio: a mídia da emoção. 2. ed São Paulo: Summus, c2005. 229 p. ISBN
+8532308678 (broch.) Classificação: 384.54 C421r 2. ed Ac.132168 Quantidade : 5
+HAYE, Ricardo M. Hacia una nueva radio. 1. ed. Buenos Aires: Paidós, 1995. 222, [1] p.
+(Estudios de Comunicación ; 4). ISBN 9501227049. Classificação: 384.54 H417h Ac.140480
+Quantidade : 1
+HUPFER, Maria Luisa Rinaldi. As rainhas do rádio: símbolos da nascente indústria cultural
+brasileira . São Paulo: SENAC, 2009. 228 p. ISBN 9788573599015. Classificação: 384.54
+H958r Ac.132181 Quantidade : 5
+233
+
+ORTIZ, Miguel Ángel; VOLPINI, Federico. Diseño de programas en radio: guiones, géneros
+y fórmulas. 1. ed. Barcelona: Paidós, 1995. 224, [2] p. (Papeles de Comunicación ; 11).
+ISBN 8449301432. Classificação: 384.54 O77d Ac.140427 Quantidade : 1
+CARMONA, Beth. . Rádio e Tv como instrumentos de cidadania. Salvador: IRDEB, 2003.
+73p. Classificação: 384.54 S678r Ac.40792 Quantidade : 1
+384.540981 - RÁDIO - BRASIL
+MOREIRA, Sônia Virginia. O radio no Brasil. Rio de Janeiro: Rio Fundo, 1991. 80 p. ISBN
+858529745x. Classificação: 384.540981 M838r Ac.140439 Quantidade : 1
+791.4301 - CINEMA - FILOSOFIA
+AUMONT, J. A Estetica do filme. Campinas: Papirus, 2005. 310 p. (Ofício de arte e forma).
+ISBN 8530803493 (broch.). Classificação: 791.4301 E79 Ac.88867 Quantidade : 2
+AUMONT, J. . A Estetica do filme. 9. ed Campinas: Papirus, 2012. 304 p. ISBN
+9788530803490 (broch.) Classificação: 791.4301 E79 9. ed Ac.132153 Quantidade : 5
+MARTIN, Marcel. . A linguagem cinematografica. 2. ed São Paulo: Brasiliense, 2011. 281 p.
+ISBN 85-11-22027-5 (broch.) Classificação: 791.4301 M382l 2. ed Ac.132275 Quantidade : 5
+791.430981 - CINEMA BRASILEIRO - HISTÓRIA
+NOVAES, Claudio C. . Aspectos críticos da literatura e do cinema na obra de Olney São
+Paulo. Salvador: Quarteto, 2011. 202 p. ISBN 978858005295 Classificação: 791.430981
+N935a Ac.115248 Quantidade : 5
+791.43098142 - CINEMA - BAHIA - HISTORIA BOCCANERA JUNIOR, Silio. . Os cinemas
+da Bahia: 1897-1918. Salvador: EDUFBA, EDUNEB, 2007. 108 p. ISBN 9788523204686
+Classificação: 791.43098142 B664c Ac.88494 Quantidade : 1
+791.4353 - DOCUMENTÁRIO (CINEMA) NICHOLS, Bill. . Introdução ao documentário. 5.
+ed. Campinas, SP: Papirus, 2010. 270 p. ISBN 8530807855 (broch.) Classificação: 791.4353
+N595i 5. ed. Ac.114080 Quantidade : 5
+791.43658 - FILMES HISTÓRICOS MACEDO, José Rivair; MONGELLLI, Lênia Márcia de
+Medeiros. . A Idade Média no cinema. São Paulo: Atêlie, 2009. 268 p. ISBN 9788574804217
+(broch.) Classificação: 791.43658 I18 Ac.115309 Quantidade : 1
+791.437 - CINEMA VANOYE, Francis; GOLIOT-LETE, Anne. Ensaio sobre a analise filmica.
+Campinas: Papirus, 1994. 152p. (Oficio de arte e forma). ISBN 8530803116. Classificação:
+790.437 V272 Ac.88654 Quantidade : 2
+SOUZA, Licia Soares de. UNIVERSIDADE DO ESTADO DA BAHIA. . Literatura e cinema:
+traduções intersemióticas. Salvador: EDUNEB, 2009. 239p ISBN 9788578870102
+Classificação: 791.437 S729l Ac.101266 Quantidade : 4
+234

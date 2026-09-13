@@ -1,18 +1,35 @@
 # PPCs de Jornalismo — Instituições Públicas do Brasil
 
-Repositório de Projetos Político-Pedagógicos (PPCs) dos cursos públicos de Jornalismo no Brasil, reunidos como parte de pesquisa de doutorado em Mídia e Tecnologia (FAAC/UNESP Bauru).
+Acervo de Projetos Pedagógicos de Curso (PPCs) de cursos de Jornalismo oferecidos por universidades públicas federais e estaduais brasileiras, reunido por **Marcelo Bueno** como parte da pesquisa de doutorado *"Framework para Avaliação da Competência de Gestão Midiática no Contexto do Jornalismo"* (Programa de Pós-Graduação em Mídia e Tecnologia — FAAC/UNESP Bauru, orientação do Prof. Dr. Francisco Rolfsen Belda).
 
-## Sobre
+## Estrutura
 
-Este acervo reúne os PPCs de 55 cursos de Jornalismo oferecidos por universidades federais, estaduais e municipais brasileiras. Os documentos foram coletados a partir de fontes públicas disponíveis nos sites institucionais de cada universidade.
+Cada instituição está disponível em até três formatos, identificados pelo mesmo nome de arquivo (padrão `SIGLA-UF-ANO`):
+
+```
+pdf/   documento original, como publicado pela instituição
+txt/   texto extraído do PDF (pdftotext ou OCR, quando o PDF é digitalizado)
+md/    versão em Markdown do mesmo texto, para leitura e indexação mais fáceis
+```
+
+## Cobertura
+
+76 documentos, entre PPCs completos e alguns anexos específicos de disciplina (identificados no próprio nome do arquivo). Os documentos foram coletados a partir das páginas públicas de cada instituição.
+
+**Observações sobre o conjunto:**
+
+- `FURB-SC-2019` foi removido deste acervo: é uma instituição pública que cobra mensalidade, fora do escopo de universidades públicas gratuitas que orienta esta coleta.
+- `UEMG-MG-2022` foi renomeado para `UEMG-MG-DIVINOPOLIS-2022` — o curso é oferecido pela UEMG em três unidades (Divinópolis, Frutal e Passos), cada uma com PPC próprio, agora todas incluídas.
+- `UNEMAT-MT-2021` foi renomeado para `UNEMAT-MT-RONDONOPOLIS-2021`, para diferenciar da turma de Tangará da Serra (`UNEMAT-MT-2021-TANGARAS`).
+- `UFSM-RS-2022` e `UFSM-RS-2023` contêm o mesmo documento, catalogado sob os dois anos de referência.
+- `UFRRJ-RJ-2017`, `UFRRJ-RJ-2017-PDI` e `UFRRJ-RJ-2024` são versões/documentos distintos do mesmo curso, mantidos separadamente por representarem estágios diferentes do PPC.
+- Os PDFs escaneados (sem camada de texto nativa) foram processados por OCR; nesses casos, `txt/` e `md/` podem conter ruídos de reconhecimento típicos do processo.
 
 ## Finalidade
 
-Material de pesquisa acadêmica. O uso destes documentos deve respeitar os fins educacionais e de pesquisa.
+Material de pesquisa acadêmica. O uso destes documentos deve respeitar os fins educacionais e de pesquisa, com citação da fonte original (cada instituição) e, quando aplicável, desta coleção.
 
 ## Contato
-
-Para solicitações, dúvidas ou colaborações:
 
 **Marcelo Bueno**
 Doutorando em Mídia e Tecnologia — FAAC/UNESP Bauru

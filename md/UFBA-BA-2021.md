@@ -1,0 +1,4833 @@
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027.
+
+SERVIÇO PÚBLICO FEDERAL
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DA BAHIA
+
+FACULDADE DE COMUNICAÇÃO
+
+PROJETO PEDAGÓGICO DO CURSO DE
+
+GRADUAÇÃO EM JORNALISMO
+
+Salvador (BA)
+
+2021
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+2
+
+SUMÁRIO
+
+1  APRESENTAÇÃO 05 2  IDENTIFICAÇÃO DO CURSO 06 3  CONTEXTUALIZAÇÃO DA INSTITUIÇÃO DE ENSINO SUPERIOR 07 4  BASE LEGAL 09 4.1 Legislação referente ao curso – DCN, Pareceres e Resoluções CNE 10 4.2 Legislação que regulamenta a profissão de Jornalista 10 5   PRINCÍPIOS NORTEADORES DO PROJETO PEDAGÓGICO 12 5.1 Histórico do curso 12 5.1.1 Alteração curricular (1999) 15 5.1.2 Alteração para curso de graduação em Jornalismo (2021) 16 5.1.3 Número de vagas oferecidas 20 5.2 Justificativa 20 5.3. Pressupostos teóricos 22 5.4 Objetivos 27 5.4.1 Objetivo geral 27 5.4.2 Objetivos específicos 27 5.5 Perfil do Egresso 28 5.5.1 Conhecimentos, competências e habilidades básicas a serem trabalhadas com os estudantes do curso
+
+28
+
+5.5.2 Campos de atuação do profissional 29 5.6 Metodologia de ensino-aprendizagem e sistema de avaliação 31 5.6.1 Acessibilidade 6. ESTRUTURA CURRICULAR DO CURSO – COMPONENTES CURRICULARES
+
+34
+
+6.1 Proposta de formação 35 6.2 Matriz Curricular 38 6.3 Estágio em Jornalismo 47 6.4 Atividades Complementares 48 6.5 Trabalho de conclusão de curso – TCC 48 7 RELAÇÃO COM A EXTENSÃO, PESQUISA E PÓS-GRADUAÇÃO 49 8 CORPO DOCENTE E TÉCNICO ATUANTE NO CURSO 51 9 SISTEMA DE AVALIAÇÃO DO PPC 55 10 ORIENTAÇÃO ACADÊMICA 56 11 RECURSOS MATERIAIS EXISTENTES 57 12 REFERÊNCIAS 59 ANEXO I – EMENTÁRIO 61 ANEXO II – REGULAMENTO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM JORNALISMO
+
+78
+
+ANEXO III – REGULAMENTO DE ATIVIDADES COMPLEMENTARES 83 ANEXO IV – REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO
+
+88
+
+ANEXO V – NORMAS DE ADAPTAÇÃO E EQUIVALÊNCIAS ENTRE COMPONENTES NOVOS E ANTIGOS
+
+94
+
+ANEXO VI – PORTARIA DE NOMEAÇÃO DA COMISSÃO DO NDE 96 ANEXO VII – ATAS DAS REUNIÕES DE COLEGIADO E CONGREGAÇÃO DE UNIDADE
+
+100
+
+ANEXO VIII - DECLARAÇÃO DE ANUÊNCIA DE OFERTA DE COMPONENTES CURRICULARES
+
+104
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+3
+
+SERVIÇO PÚBLICO FEDERAL
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DA BAHIA
+
+FACULDADE DE COMUNICAÇÃO
+
+REITOR Prof. Dr. João Carlos Salles Pires da Silva
+
+PRÓ-REITOR DE ENSINO DE GRADUAÇÃO
+
+Prof. Dr. Penildon Silva Filho
+
+SUPERINTENDENTE DE ADMINISTRAÇÃO ACADÊMICA
+
+Profª. Dra. Nancy Rita Ferreira Vieira
+
+DIRETORA DA FACULDADE DE COMUNICAÇÃO
+
+Profª. Dra. Suzana Oliveira Barbosa
+
+VICE-DIRETOR DA FACULDADE DE COMUNICAÇÃO
+
+Prof. Dr. Leonardo Figueiredo Costa
+
+COORDENAÇÃO DO COLEGIADO DE COMUNICAÇÃO
+
+Prof. Dr. Marcelo Rodrigues Souza Ribeiro
+
+NÚCLEO DOCENTE ESTRUTURANTE DO CURSO DE JORNALISMO
+
+Profª. Dra. Ivanise Hilbig de Andrade (Coordenadora) Profª. Dra. Carla de Araujo Risso (Vice-coordenadora)
+
+Prof. Dr. Fábio Sadao Nakagawa Profª. Dra. Lívia de Souza Vieira Prof. Dr. Marcelo Rodrigues Souza Ribeiro Profª. Dra. Maria Lucineide Andrade Fontes
+
+Prof. Dr. Sérgio Sobreira Profª. Dra. Suzana Oliveira Barbosa Prof. Dr. Washington José de Souza Filho
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+4
+
+COMISSÃO PARA ELABORAÇÃO
+
+Comissão Encarregada pela Elaboração do Projeto Pedagógico do Curso de Jornalismo a ser
+
+implantado no Campus Ondina, Faculdade de Comunicação, instituída conforme Portaria Nº 11/2019,
+
+da Direção da Faculdade de Comunicação, publicada no dia 19 de setembro de 2019 no Boletim de
+
+Pessoal da Pró-Reitoria de Gestão de Pessoas (PRODEP).
+
+Profª. Dra. Ivanise Hilbig de Andrade (Coordenadora)
+
+Prof.  Dr. Fábio Sadao Nakagawa (Vice-coordenador)
+
+Profª. Dra. Carla de Araujo Risso
+
+Profª. Dra. Maria Lucineide Andrade Fontes
+
+Profª. Dra. Suzana Oliveira Barbosa
+
+Prof. Dr. Tarcísio de Sá Cardoso
+
+Prof. Dr. Washington José de Souza Filho
+
+Portaria Nº 04/2021, da Direção da Faculdade de Comunicação, publicada no dia 05 de maio de 2021
+
+no Boletim de Pessoal da Pró-Reitoria de Gestão de Pessoas (PRODEP), oficializou a recomposição
+
+da Comissão:
+
+Profª. Dra. Ivanise Hilbig de Andrade (Coordenadora)
+
+Profª. Dra. Carla de Araujo Risso (Vice-coordenadora)
+
+Prof.  Dr. Fábio Sadao Nakagawa
+
+Profª. Dra. Lívia de Souza Vieira
+
+Prof. Dr. Marcelo Rodrigues Souza Ribeiro
+
+Profª. Dra. Maria Lucineide Andrade Fontes
+
+Prof. Dr. Sérgio Araújo Sobreira
+
+Profª. Dra. Suzana Oliveira Barbosa
+
+Prof. Dr. Washington José de Souza Filho
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+5
+
+\1. APRESENTAÇÃO
+
+O curso de Jornalismo da Universidade Federal da Bahia (UFBA) começou em 1950 – sendo
+
+o terceiro a ser implementado no país. À época, oferecia duas turmas de complementação de currículos
+
+para pessoas com graduação em outras áreas e seguiu dessa maneira até 1953, quando foi interrompido,
+
+voltando a funcionar regularmente em 1962. Em 1969, o curso passou por uma reformulação e tornou-
+
+se uma Habilitação do curso de Comunicação, oferecida pela Escola de Biblioteconomia e
+
+Comunicação. A partir de 1987, passou a ser ministrado formalmente como graduação da então criada
+
+Faculdade de Comunicação1.
+
+Atualmente, está em vigência o currículo reformulado no ano de 1999 e implementado no ano
+
+de 2000. O presente Projeto Político-Pedagógico constitui, portanto, uma grande revisão das práticas
+
+pedagógicas em vigência, com a intenção de adaptar o currículo às mudanças ocorridas no campo, aos
+
+avanços tecnológicos e aos novos desafios do mercado de trabalho. A proposta altera a condição de
+
+um Curso de Comunicação com Habilitação em Jornalismo para um Curso de Graduação em
+
+Jornalismo, atendendo às Diretrizes Curriculares Nacionais para o Curso de Graduação em Jornalismo
+
+(CNE/MEC 2013).
+
+Este projeto foi construído a partir de reuniões periódicas, realizadas no período de 2015 a
+
+2021, entre os integrantes da Comissão encarregada para Elaboração do Projeto Pedagógico do Curso
+
+de Jornalismo, vinculada ao Núcleo Docente Estruturante de Jornalismo (NDE), composto pelos
+
+professores doutores: Profª. Ivanise Hilbig de Andrade (Coordenadora), Profª. Carla de Araujo Risso
+
+(vice-coordenadora), Prof. Marcelo Rodrigues Souza Ribeiro, Profª. Maria Lucineide Andrade Fontes,
+
+Prof. Fábio Sadao Nakagawa, Profª. Lívia de Souza Vieira, Prof. Sérgio Sobreira, Profª. Suzana
+
+Oliveira Barbosa, Prof. Washington José de Souza Filho. Além da participação permanente da
+
+comissão nomeada para este fim2, o trabalho contou com a contribuição de outros professores lotados
+
+no Departamento de Comunicação da Faculdade de Comunicação: Juliana Freire Gutmann, Regina
+
+Lúcia Gomes Souza e Silva, Leonor Graciela Natansohn, Lia da Fonseca Seixas, Giovandro Marcus
+
+Ferreira, Simone Terezinha Bortoliero, Tarcísio de Sá Cardoso e Rodrigo Rossoni.
+
+Durante o processo, houve também consulta e participação dos discentes do curso por meio de
+
+ações realizadas em parceria com o Centro Acadêmico, principalmente por meio de apresentações
+
+1 https://www.facom.ufba.br/portal2017/pagina/1/historia 2 Ao longo do processo de discussão e redação do PPC, a comissão de elaboração passou por mudanças em seu quadro devido a aposentadorias e redistribuição de membros, ou mudança de chefia de departamento e coordenação de Colegiado de Graduação.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+6
+
+públicas da nova proposta realizadas no Auditório da Faculdade e, também, pelo recebimento de
+
+sugestões apresentadas por e-mail ao Centro Acadêmico. Além disso, por iniciativa do próprio Centro
+
+Acadêmico, foi fixado, em fevereiro de 2016, em uma parede do corredor do primeiro andar, um grande
+
+mural com a atual grade da Habilitação de Jornalismo, onde os estudantes, professores e servidores
+
+técnicos puderam registrar suas considerações sobre a estrutura curricular vigente e sobre as disciplinas
+
+obrigatórias da habilitação, além de sugerirem outras e novas disciplinas para a construção da nova
+
+grade curricular do curso de Jornalismo. Em março de 2021, a versão final do projeto foi apresentada
+
+aos discentes, oportunidade em que puderam tirar dúvidas sobre a tramitação do projeto e
+
+implementação da nova matriz curricular.
+
+Espera-se que esse processo de reformulação curricular – com a criação do Curso de Graduação
+
+em Jornalismo em substituição ao Curso de Comunicação com Habilitação em Jornalismo – e o
+
+acompanhamento do Projeto Pedagógico sejam realizados de forma contínua, com a manutenção do
+
+Núcleo Docente Estruturante de Jornalismo na Faculdade de Comunicação. O Núcleo atualmente
+
+integra a estrutura de gestão acadêmica do curso de graduação, sendo corresponsável pela elaboração,
+
+implementação, atualização, consolidação e avaliação do Projeto Pedagógico.
+
+\2. IDENTIFICAÇÃO DO CURSO
+
+Projeto de reformulação do Curso de Jornalismo Ato Autorizativo do Curso: Decreto-Lei 27.358, publicado em 24/10/1949, Reconhecimento Decreto-Lei 43.804, publicado em 24/05/1958 Ano de Início do Funcionamento do Curso: 05/03/1950 Ato legal de reconhecimento ou renovação de reconhecimento: PORTARIA Nº 272, DE 3 DE ABRIL DE 2017 Modalidade de Curso: Bacharelado Modalidade Educacional de Curso: Presencial Grau Acadêmico: Bacharel em Jornalismo Titulação Conferida: Jornalista Carga Horária Total Do Curso:  3.056 horas Duração do Curso:
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+7
+
+Mínima: 4 anos Média: 5 anos Máximo: 6 anos Regime Acadêmico: Semestral Turno de Oferta: Matutino
+
+Número de Vagas Oferecidas: 60 vagas anuais, com ingresso de 30 estudantes por semestre. Está prevista a oferta de 20% de vagas para o Bacharelado Interdisciplinar (BI), de acordo com o §1º, art. 6º da Resolução nº 02/20082 do CONSEPE. Há, também, a reserva de 50% das vagas para estudantes que cursaram integralmente o ensino médio em escolas públicas, de acordo com a Resolução nº 07/20183 do CAE (dentre essas vagas, 50% são destinadas a estudantes oriundos de famílias com renda igual ou inferior a 1,5 salário-mínimo per capita, além de estudantes que se declararem pretos, pardos, indígenas e pessoas com deficiência). São disponibilizadas ainda, também na Resolução nº 07/2018 do CAE, até quatro vagas supranumerárias, sendo cada uma delas distribuídas entre as seguintes categorias: a) índios aldeados; b) moradores das comunidades remanescentes dos quilombos; c) pessoas trans (transexuais, transgêneros e travestis) e d) imigrantes ou refugiados em situação de vulnerabilidade. Local de funcionamento: Campus Universitário: Ondina Unidade: Faculdade de Comunicação R. Barão de Jeremoabo, S/N - Ondina, Salvador - BA, 40170-115 Forma de Acesso ao Curso/Processo Seletivo A Resolução n° 03/2013 do Conselho Acadêmico de Ensino (CAE) da Universidade Federal da Bahia (UFBA) dispõe sobre a adoção do Exame Nacional do Ensino Médio (ENEM) e sobre a adesão ao Sistema de Seleção Unificada (SISU)/MEC, para ingresso nos cursos de graduação da UFBA. Segundo a norma, desde o primeiro semestre de 2014, os ingressantes nos cursos de graduação da UFBA – incluindo o Curso de Jornalismo – são selecionados pelo Sistema de Seleção Unificada (SISU), após realizarem a prova do Exame Nacional do Ensino Médio (ENEM).
+
+\3.  CONTEXTUALIZAÇÃO DA INSTITUIÇÃO DE ENSINO SUPERIOR
+
+A Universidade Federal da Bahia3, criada pelo Decreto-Lei nº 9.155, de 8 de abril de 1946, e
+
+reestruturada pelo Decreto nº 62.241, de 8 de fevereiro de 1968, com sede na cidade de Salvador,
+
+3 https://www.ufba.br/
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+8
+
+Estado da Bahia, é uma autarquia, com autonomia administrativa, patrimonial, financeira e didático-
+
+científica, nos termos da Constituição Federal e do seu Estatuto.
+
+Instituída oficialmente como Universidade da Bahia, em 8 de abril de 1946, sua constituição
+
+englobou a articulação de unidades isoladas de ensino superior pré-existentes, públicas ou privadas,
+
+que se estabeleceram no estado desde o início do século XIX.
+
+Suas raízes mais longínquas remontam ao Colégio Médico-Cirúrgico da Bahia, a mais antiga
+
+escola oficial de estudos superiores do país, criada pelo Príncipe Regente D. João, em 1808, que deu
+
+origem à atual Faculdade de Medicina da Bahia. Mais tarde, foram criados e incorporados à Escola de
+
+Cirurgia os cursos de Farmácia, em 1832, e de Odontologia, em 1864. A atual Escola de Belas Artes
+
+também foi criada ainda no século XIX, em 1877, com o nome de Academia de Belas Artes da Bahia.
+
+À sua criação seguiram-se, ainda no século XIX, a da Faculdade de Direito (1891) e da Escola
+
+Politécnica da Bahia (1897). A Faculdade de Ciências Econômicas da Bahia e a Faculdade de Filosofia,
+
+Ciências e Letras surgiram já no século XX, em 1934 e 1941, respectivamente.
+
+A UFBA tem como principais objetivos institucionais “educar para a responsabilidade social
+
+e ambiental, contribuindo para o desenvolvimento humano com ética, sustentabilidade e justiça; [...]
+
+contribuir para o processo do desenvolvimento local, regional, nacional e global, realizando estudo
+
+sistemático de seus problemas e formando quadros científicos, artísticos e técnicos de acordo com suas
+
+necessidades; [...] manter a Universidade aberta à participação da população, promovendo amplo e
+
+diversificado intercâmbio com instituições, organizações e movimentos da sociedade; implementar e
+
+cultivar princípios éticos na formulação e implementação de políticas, programas e iniciativas que
+
+concretizem suas atividades-fim”4.
+
+A missão da IES é “[...] produzir e disseminar ciência, tecnologia, arte e cultura, base para a
+
+formação sólida de profissionais, docentes e pesquisadores que atuem dentro de elevados padrões de
+
+desempenho técnico e ético e sejam cidadãos comprometidos com a democracia e a promoção da
+
+justiça social”5.
+
+A infraestrutura física da UFBA é composta por 32 Unidades Universitárias, além de dois
+
+Hospitais Universitários, três Museus, uma Creche, três Fazendas Experimentais, quatro Residências
+
+Universitárias, um Restaurante Universitário e um Centro de Esportes.
+
+Em 2020, de acordo com o Relatório UFBA em Números6 (ano base 2019), a IES oferecia 106
+
+cursos de graduação (presenciais e à distância), com 40.727 estudantes matriculados. Na Pós-
+
+Graduação stricto sensu eram 7.625 estudantes matriculados no mestrado e no doutorado. A
+
+4 https://ufba.br/sites/portal.ufba.br/files/Estatuto_Regimento_UFBA_0.pdf 5  https://proplan.ufba.br/sites/proplan.ufba.br/files/pdi-2018-2022.pdf 6 https://proplan.ufba.br/sites/proplan.ufba.br/files/ufba-em-numeros-2020.pdf
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+9
+
+universidade conta com 2.865 docentes e 3.076 técnicos-administrativos. Esse contingente presta à
+
+comunidade de Salvador, região e Brasil, variados serviços nas suas diversas áreas do conhecimento.
+
+A UFBA vem se consolidado como referência no contexto educacional da região Nordeste e
+
+do Brasil. Segundo os Indicadores de qualidade do Ministério da Educação e Cultura (MEC), o Índice
+
+Geral de Cursos (IGC) da Universidade é 4 (quatro) e o Conceito Institucional (CI) também é 4
+
+(quatro)7.
+
+A sede da UFBA está localizada no município de Salvador (BA), em uma Região
+
+Metropolitana formada por 13 municípios, com uma população estimada em 3.899.533 habitantes
+
+(Estimativas de População 2018, IBGE), o equivalente a 19,29% da população total do estado,
+
+estimada em 14.812.617 habitantes. A população do município de Salvador é de 2.857.329 habitantes
+
+(IBGE, 2018), distribuída numa área de 693 km², número que o torna o mais populoso da região
+
+Nordeste. Centro econômico do estado, Salvador é também porto exportador, centro industrial,
+
+administrativo e turístico. O seu Índice de Desenvolvimento Humano de 2010 é de 0,759, considerado
+
+alto pela Programa das Nações Unidas para o Desenvolvimento (PNUD).
+
+\4. BASE LEGAL Referenciais legais utilizados para a construção do Projeto Político-Pedagógico do curso de Jornalismo:
+
+● Lei 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional8.
+
+● Lei 13.005 de 25 de junho de 2014, que aprova o Plano Nacional de Educação.9
+
+● Lei 13.146 de 06 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência).10
+
+● Resolução CNE/CES nº 2, de 18 de junho de 2007, que dispõe sobre carga horária mínima e procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial.11
+
+● RESOLUÇÃO Nº 02/2022, de 22 de março de 2022, Regulamenta a inserção, o desenvolvimento e o registro das atividades de Extensão Universitária nos currículos dos cursos de Graduação da UFBA.
+
+7 http://emec.mec.gov.br/emec/consulta-cadastro/detalhes-ies/d96957f455f6405d14c6542552b0f6eb/NTc4 8 http://www.planalto.gov.br/ccivil_03/leis/l9394.htm 9 http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm 10 http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm 11 http://portal.mec.gov.br/cne/arquivos/pdf/2007/rces002_07.pdf
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+10
+
+4.1 Legislação referente ao curso – DCN, Pareceres e Resoluções CNE
+
+● PARECER HOMOLOGADO Despacho do Ministro, publicado no D.O.U. de 12/9/2013, Seção 1, Pág. 10. PROCESSO Nº: 23001.000087/2010-91. Diretrizes Curriculares Nacionais para o Curso de Graduação em Jornalismo.12 ● RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013, RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013 , DA CÂMARA DE EDUCAÇÃO SUPERIOR, DO CONSELHO NACIONAL DE EDUCAÇÃO, DO MINISTÉRIO DA EDUCAÇÃO.  Resolução CNE/CES 1/2013. Diário Oficial da União, Brasília, 1° de outubro de 2013 – Seção 1 – p. 26, que institui as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo, bacharelado, e dá outras providências.13
+
+4.2 Legislação que regulamenta a profissão de Jornalista
+
+● DECRETO-LEI Nº 972, DE 17 DE OUTUBRO DE 1969, que dispõe sobre o exercício da profissão de jornalista.14 ● DECRETO Nº 83.284, DE 13 DE MARÇO DE 1979. Dá nova regulamentação ao Decreto- Lei nº 972, de 17 de outubro de 1969, que dispõe sobre o exercício da profissão de jornalista, em decorrência das alterações introduzidas pela Lei nº 6.612, de 7 de dezembro de 1978.15
+
+● DECRETO-LEI N. 5.480 - DE 13 DE MAIO DE, 1943, que institui o curso de jornalismo no sistema de ensino superior do país, e dá outras providências.16
+
+Além desse conjunto de dispositivos legais, constam ainda da base legal as normas da
+
+Universidade Federal da Bahia17, como: o Regulamento do Ensino de Graduação e Pós-Graduação
+
+(Resolução nº 01/2015)18, o Plano de Desenvolvimento Institucional – PDI (2018-2019)19; a Resolução
+
+nº 02, de 27 de julho de 2009 (CONSEPE), que estabelece a padronização dos módulos dos
+
+componentes curriculares dos Cursos de Graduação e Pós-Graduação20; a Resolução nº 02, de 1 de
+
+12 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=13063-pces039-13- pdf&category_slug=maio-2013-pdf&Itemid=30192 13 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=14242-rces001- 13&category_slug=setembro-2013-pdf&Itemid=30192 14 http://www.planalto.gov.br/ccivil_03/decreto-lei/Del0972.htm 15 http://www.planalto.gov.br/ccivil_03/decreto/Antigos/D83284.htm 16 https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5480-13-maio-1943-415541-publicacaooriginal-1-pe.html 17https://prograd.ufba.br/sites/prograd.ufba.br/files/base_legal_para_criacao_e_reestruturacao_de_cursos_de_graduacao_0.pdf 18 https://www.ufba.br/sites/portal.ufba.br/files/Resolucao_n_012015_REGPG_atualizado_01-04-2015%29.pdf 19 https://www.ufba.br/sites/portal.ufba.br/files/plano-desenvolvimento-institucional-ufba_web_compressed.pdf 20 https://www.ufba.br/sites/portal.ufba.br/files/resol_0209_1.pdf
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+11
+
+julho de 2008 (CONSEPE), que estabelece definições, princípios, modalidades, critérios e padrões para
+
+a organização dos Cursos de Graduação da UFBA21.
+
+Especificamente com relação à exigência de oferecimento de conteúdos transversais na
+
+formação do egresso em Jornalismo, o Projeto Pedagógico prevê as seguintes disciplinas e/ou
+
+conteúdos programáticos:
+
+a. LIBRAS
+
+Cumprindo o decreto de número 5.626/2005, a disciplina de Libras (LETE48 – Libras I – Língua
+
+Brasileira de Sinais Nível I) será oferecida como componente curricular optativo para os estudantes do
+
+curso de Jornalismo.
+
+b. TEMATIZAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS, QUESTÕES AMBIENTAIS e
+
+DIREITOS HUMANOS
+
+Em cumprimento ao Parecer CNE/CP nº 323, de 10 de março de 2004, e à Resolução CNE/CP nº 124,
+
+de 17 de junho de 2004, as questões referentes às relações étnico-raciais serão abordadas como
+
+conteúdo programático em componentes curriculares do curso. O mesmo ocorre com as questões
+
+referentes à Educação Ambiental (Resolução CNE/CP 02/2012) e Educação em Direitos Humanos
+
+(Resolução CNE/CP 01/2012). Os conteúdos programáticos podem ser verificados nas seguintes
+
+disciplinas obrigatórias: História do Jornalismo, Introdução às Práticas Jornalísticas, Comunicação e
+
+Ética, Jornalismo Integrado (I a VI); optativas: Políticas Culturais, Ética e Direitos Culturais, Oficina
+
+de Comunicação Estratégica, Oficina de Planejamento e Elaboração de Projetos Culturais; Tecnologia
+
+Digital, Gênero e Raça; História Indígena e do Indigenismo e Etnias e Culturas Africanas; Jornalismo
+
+e Direitos Humanos; além de serem abordados de forma transversal em outros componentes e
+
+instâncias como a Agência Experimental em Comunicação e Cultura (AECC);  a Agência de Notícias
+
+em CT&I; a Agenda Arte e Cultura da UFBA; o Centro de Comunicação Democracia e Cidadania
+
+(CCDC); e o PETCOM.
+
+c. ACCS
+
+Conforme Resolução Nº 01/2013 do CONSEPE/UFBA, “a Ação Curricular em Comunidade e em
+
+Sociedade (ACCS) é um componente curricular, modalidade disciplina, de cursos de Graduação e de
+
+Pós-Graduação, com carga horária mínima de 17 (dezessete) horas semestrais, em que estudantes e
+
+21 https://www.ufba.br/sites/portal.ufba.br/files/resol_0208_1.pdf
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+12
+
+professores da UFBA, em uma relação com grupos da sociedade, desenvolvem ações de extensão no
+
+âmbito da criação, tecnologia e inovação, promovendo o intercâmbio, a reelaboração e a produção de
+
+conhecimento sobre a realidade com perspectiva de transformação”. Nesse sentido, a ACCS será
+
+oferecida como componente livre no Curso de Jornalismo e pode ser aproveitada para fins de cômputo
+
+na carga horária. Na Faculdade de Comunicação, os seguintes componentes são ofertados como ACCS
+
+atualmente:
+
+COMB38 – Comunicação, Mulheres e Cidadania: o uso do vídeo para o empoderamento;
+
+COMB39 – Memória Social e Identidades: audiovisual como tecnologia social em educação;
+
+COMB49 – Audiovisual e Direito à Cidade.
+
+5   PRINCÍPIOS NORTEADORES DO PROJETO PEDAGÓGICO 5.1 Histórico do curso
+
+A formação em Jornalismo na Universidade Federal da Bahia (UFBA) é contemporânea à
+
+história do curso no País. O ensino de Jornalismo foi iniciado na Bahia em 1950 e corresponde ao
+
+terceiro curso implantado no Brasil. O primeiro do país foi implantado em São Paulo, oferecido pela
+
+Pontifícia Universidade Católica, em parceria com a Fundação Cásper Líbero, a partir de 1947. O
+
+segundo, no Rio de Janeiro, um ano depois, em 1948, na Faculdade Nacional de Filosofia, na antiga
+
+Universidade do Brasil, atual Universidade Federal do Rio de Janeiro.
+
+O ensino de Jornalismo na UFBA foi criado na Faculdade de Filosofia, onde permaneceu
+
+vinculado por 18 anos. As atividades, a partir da primeira turma, eram realizadas em um edifício
+
+localizado no bairro de Nazaré. Os documentos registram a criação do curso de Jornalismo na UFBA
+
+em 24 de outubro de 1949, quando foi publicado o Decreto-Lei 27.358 que permitiu a implantação do
+
+curso, iniciado em 5 de março de 1950, data da primeira aula. Oito anos após o início, em 24 de maio
+
+de 1958, houve o reconhecimento do curso, por meio do Decreto-Lei 43.804.
+
+O curso, inicialmente, foi marcado por duas fases: a primeira, com a duração de três anos, até
+
+1953, após a implantação; a segunda, a partir de 1962, antes da transferência da Faculdade de Filosofia
+
+para a antiga Escola de Biblioteconomia e Comunicação (EBC), em decorrência da reforma
+
+universitária, por decisão do regime militar, vigente entre abril de 1964 a março de 1985.
+
+Na primeira fase, o curso tinha duração de um ano e funcionava baseado em uma sequência de
+
+conferências, seminários e debates, com certificado por presença e não por aproveitamento. O curso
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+13
+
+era destinado não só a quem desejasse ter uma formação superior na área, mas também a quem já
+
+atuava na profissão, com outra formação acadêmica. O curso, interrompido em 1953, retornou à
+
+segunda fase em 1962. As formas de ingresso passaram a ser por seleção através do vestibular, processo
+
+que era promovido pela UFBA para o ingresso dos estudantes. O curso tinha a duração de três anos e
+
+a primeira turma, iniciada em 1963, era composta por três estudantes. No ano seguinte, eram dez
+
+discentes e, a partir de 1965, a seleção passou a ser mais concorrida.
+
+A partir de 1969, o curso muda para Comunicação com Habilitação em Jornalismo e passa a
+
+ser oferecido pela Escola de Biblioteconomia e Comunicação (EBC). A realidade era a mesma de
+
+outras instituições de ensino superior do país, estabelecida pelo Ato Institucional Nº 5 (AI-5),
+
+publicado em 13 de dezembro de 1968, que integrou em uma mesma Unidade os cursos de
+
+Comunicação e de Biblioteconomia.
+
+A Faculdade de Comunicação só foi criada na década de 1980, quando passou a funcionar
+
+como Unidade universitária autônoma em 1987, após deliberação do Conselho Universitário
+
+(CONSUNI) de desmembrá-la da Escola de Biblioteconomia e Comunicação. Esta deliberação ocorreu
+
+na reunião do CONSUNI da UFBA, realizada em 12 de novembro de 1986. Desde o período em que
+
+ocupou o antigo prédio da Biblioteca Central – atualmente Instituto de Saúde Coletiva, no Campus do
+
+Canela, até o atual edifício no Campus de Ondina (antigo prédio do Restaurante Universitário, no qual
+
+passou a funcionar a partir de 1999) ––, a atuação de estudantes, professores e técnicos-administrativos,
+
+assim como de funcionários terceirizados marcou a história da FACOM e, atualmente, a Faculdade é
+
+reconhecida como uma referência na formação de profissionais e de pesquisadores na área da
+
+Comunicação, não só no Brasil como em outros países.22
+
+O ensino de Jornalismo na UFBA coincide com as mudanças estabelecidas pelo Ministério de
+
+Educação (MEC), através das diretrizes curriculares, em boa parte do histórico do curso. O processo
+
+de formação dos jornalistas no Brasil, como profissionais de nível superior, é marcado por três períodos
+
+distintos, no que se refere aos conteúdos ensinados e às propostas de atuação dos cursos.
+
+De acordo com Kneipp (2017, p. 175-179), com base em relatório do então Conselho Federal
+
+de Educação do MEC (1977), as fases são apresentadas como clássico-humanista, científico-técnica e
+
+crítico-reflexiva. As diferenças entre elas podem ser percebidas em relação aos aspectos formativos, a
+
+ênfase em relação às questões vinculadas, principalmente, às práticas da formação dos jornalistas. Elas
+
+estão demarcadas por períodos, a partir da implantação do curso de Jornalismo no Brasil, em 1947, em
+
+São Paulo.
+
+22 https://www.facom.ufba.br/portal2017/pagina/1/historia
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+14
+
+A primeira fase, denominada clássico-humanista, iniciada com a implantação dos cursos no
+
+final da década de 1940, durou até a segunda metade da década de 1960. A principal característica era
+
+a predominância de uma orientação europeia, clássica. O ensino era restrito aos aspectos literário,
+
+ético-jurídico e histórico. As instituições não dispunham de equipamentos e de laboratórios,
+
+impossibilitando a prática adequada para a atuação profissional do jornalista.
+
+A partir da metade da década de 1960, é implantada a segunda fase, denominada científico-
+
+técnica, com base no Parecer 631/69. Tal matriz científico-técnica está diretamente relacionada ao
+
+ensino de Jornalismo na UFBA, enquanto habilitação da área de Comunicação, em vigor até 1996.
+
+Uma característica do currículo deste período era o ensino de “fundamentos psicológicos, sociológicos
+
+e antropológicos da Comunicação Social além das técnicas de pesquisa (entre as quais a análise de
+
+conteúdo) de base quantitativa” (KNEIPP, 2017, p.176). Nos currículos implementados nesta fase,
+
+observa-se uma maior valorização do ensino de Jornalismo voltado para a atuação nos meios
+
+impressos, sem o reconhecimento da formação para áreas como a de rádio e de televisão. A esta etapa
+
+é atribuído um maior empenho das instituições de ensino para a aquisição de equipamentos que
+
+permitem uma maior capacitação técnica, além da implantação de laboratórios especializados. É por
+
+isso que Kneipp (2017, p.177) afirma que, nesse período, “o ensino assume então uma conotação
+
+pragmática”.
+
+A terceira fase, denominada crítico-reflexiva, corresponde a um período em que o ensino
+
+mantinha a preocupação com a eficiência ainda não atingida na prática profissional, em contraponto à
+
+reflexão teórica. O documento considera que esta tendência reforça o interesse pela busca, nas
+
+instituições, do sentido que tem a formação para avaliar sua importância dentro da sociedade.
+
+Em relação ao ensino na Faculdade de Comunicação, a tendência crítico-reflexiva se efetiva
+
+com a reestruturação curricular iniciada em 1996, marcada pela implantação de uma nova habilitação:
+
+a de Produção em Comunicação e Cultura. A proposta, que correspondeu a um novo currículo,
+
+explorou uma “possibilidade legal inscrita no Artigo 104 da antiga Lei de Diretrizes e Bases da
+
+Educação (Lei 4.024/61)” (Faculdade de Comunicação, Projeto Acadêmico, 1999, p.7). O currículo
+
+apresentado, de acordo com a legislação vigente, era considerado como experimental, o que permitiu
+
+contrapor uma alternativa ao “caráter centralizador e defasado da Resolução 002/84 do antigo
+
+Conselho Federal de Educação, então vigente” (Faculdade de Comunicação, Projeto Acadêmico, 1999,
+
+p.7).
+
+O sentido de ser experimental permitiu não estar submetido às regras do currículo mínimo
+
+nacional em vigor. A proposta de ensino implantada na Faculdade de Comunicação permitiu a
+
+introdução de “um conjunto relevante de mudanças que atualizava o currículo em um momento de
+
+significativas mutações sociais e tecnológicas, em especial no campo da comunicação e do jornalismo”
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+15
+
+(Faculdade de Comunicação, Projeto Acadêmico, 1999, p.7). As mudanças, que foram seguidas de
+
+avaliações internas e com a participação de especialistas de diversas instituições brasileiras, serviram
+
+como indicativos de outras alterações, em um esforço contínuo para a reavaliação do ensino de
+
+Jornalismo.
+
+5.1.1 Alteração curricular (1999)
+
+O atual currículo do curso de Comunicação com Habilitação em Jornalismo da FACOM foi
+
+implementado em 1999 por meio da última reforma pedagógica que atingiu tanto a Habilitação em
+
+Jornalismo quanto a Habilitação em Produção em Comunicação e Cultura. A alteração curricular foi
+
+aprovada pela Unidade em 09 de novembro de 1999 e seguiu para apreciação da Câmara de Ensino de
+
+Graduação do Conselho de Ensino, Pesquisa e Extensão (CEPE) da UFBA para que entrasse em vigor
+
+no primeiro semestre do ano 2000.
+
+O projeto acadêmico-pedagógico de 1999 foi escrito com base nos argumentos utilizados na
+
+mudança de 1995/1996 e previu cinco diretrizes gerais que reafirmam o caráter amplo compreendido
+
+pela experiência de ensino, que não deve se limitar às salas de aula, mas expandir-se na busca por
+
+conhecimentos por meio do ensino, da pesquisa e da extensão. As diretrizes incentivaram a
+
+incorporação, no curso, de um conjunto de atividades complementares obrigatórias, que passaram a
+
+ser creditadas na carga horária total dos cursos, e compreendem grupos de pesquisa, atividades de
+
+extensão, estágios acadêmicos, programas especiais de treinamento etc.
+
+Uma das grandes mudanças incorporadas à época diz respeito à disposição de disciplinas
+
+práticas e teóricas na grade. Desde a mudança curricular de 1995/1996, o fluxograma dos cursos buscou
+
+privilegiar o ensino tanto da prática quanto da teoria desde os semestres iniciais. Ressalta-se, ainda, a
+
+atenção que é dada aos trabalhos desenvolvidos ao final do curso, nos quais os discentes poderiam
+
+desenvolver tanto um projeto de pesquisa quanto um projeto de produto. O processo de finalização do
+
+curso inicia-se a partir do sexto semestre, com a disciplina “Elaboração de Projeto em Comunicação”,
+
+seguida por “Desenvolvimento Orientado de Projeto” (sétimo semestre), finalizado pela disciplina
+
+“Trabalho de Conclusão de Curso” (antigo Projeto Experimental), que deve ser cursada de forma
+
+exclusiva no oitavo (e último) semestre.
+
+Por fim, o projeto pedagógico reafirmava a importância que é atribuída à autonomia dos
+
+estudantes quanto à formação por meio das disciplinas optativas oferecidas. Com pelo menos uma
+
+disciplina optativa por semestre é possível aprofundar o curso em áreas de interesse a partir de uma
+
+lista de optativas ofertadas. As mudanças ocorridas nas disciplinas possibilitaram a atualização e
+
+revisão de ementas; alteração de nomenclaturas; localização na grade curricular; reformulação de pré-
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+16
+
+requisitos; além da criação de novas disciplinas abarcando as demandas apontadas nas discussões
+
+curriculares.
+
+Após dois anos de vigência deste currículo, em 2002, teve início os trabalhos de uma comissão
+
+de professores do Departamento de Comunicação para realizar ajustes nas grades curriculares das duas
+
+habilitações ofertadas pela FACOM. No entanto, ao longo dos anos, a proposta foi sendo abandonada.
+
+Por conta disso, em 2012, o Colegiado de Graduação, ao invés de retomar a proposta de ajuste
+
+curricular, decidiu, em conjunto com o Departamento de Comunicação, instaurar quatro comissões
+
+compostas por professores, respectivamente, das áreas de Teorias da Comunicação, Jornalismo,
+
+Produção Cultural, Cinema e Audiovisual, para elaborar os novos projetos pedagógicos dos dois cursos
+
+de progressão linear já existentes e, também, o projeto pedagógico do curso, em dois ciclos, de Cinema
+
+e Audiovisual. No caso do Jornalismo, já se vislumbrava, à época, que o novo currículo deveria estar
+
+em conformidade com as novas Diretrizes Curriculares para os Cursos de Graduação em Jornalismo,
+
+que entraram em vigor em 2013.
+
+Porém, diversos fatores dificultaram o cumprimento do prazo estabelecido pelas Diretrizes
+
+Curriculares de 2013 para os cursos de Jornalismo, dentre eles destacam-se: a) a negociação interna
+
+para a alteração de habilitação do Curso de Comunicação para o Curso de Jornalismo; b) o diálogo
+
+entre professores e estudantes para elaborar a grade curricular, que ocorreu em diferentes assembleias
+
+e em várias reuniões do NDE, do Departamento de Comunicação e da Congregação da Unidade; c) a
+
+mudança dos integrantes do NDE por conta de afastamentos dos docentes para realizar pesquisas de
+
+doutorado ou de pós-doutorado e, também, ingresso de novos professores no Departamento de
+
+Comunicação; d) as greves ocorridas nas Universidades Federais, que impediram o avanço dos
+
+trabalhos e a periodicidade das reuniões.
+
+5.1.2 Alteração para curso de graduação em Jornalismo (2021)
+
+Atualmente, o Curso de Comunicação com Habilitação em Jornalismo da FACOM é
+
+reconhecido nacional e internacionalmente. Nos últimos anos, tem se mantido com nota máxima no
+
+Exame Nacional de Desempenho de Estudantes (ENADE). Nas três últimas avaliações (2012, 2015 e
+
+2018), a Habilitação em Jornalismo da UFBA obteve o maior conceito ENADE contínuo do Brasil. Os
+
+dados divulgados pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP),
+
+em 2019, comprovam o excelente rendimento dos estudantes, que obtiveram o conceito máximo, a
+
+nota cinco (5).
+
+A carga horária total do Curso de Comunicação com Habilitação em Jornalismo que está em
+
+funcionamento atualmente na FACOM é de 2.952 horas, sendo 2.176 horas resultantes das 21
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+17
+
+disciplinas obrigatórias, 476 horas das 7 disciplinas optativas e 300 horas de atividades
+
+complementares obrigatórias. O curso é oferecido somente no período matutino e precisa ser
+
+integralizado no tempo mínimo de quatro anos e máximo de sete anos. As disciplinas obrigatórias e
+
+optativas são ministradas por 24 docentes do Departamento de Comunicação, de um total de 40
+
+professores, sendo que 16 atuam também na pós-graduação – a maior parte no Programa de Pós-
+
+Graduação em Comunicação e Cultura Contemporâneas (PósCom, da FACOM) e os demais no
+
+Programa Multidisciplinar de Pós-Graduação em Cultura e Sociedade, do Instituto de Humanidades,
+
+Artes e Ciências Professor Milton Santos (IHAC | UFBA).
+
+Além do conjunto de disciplinas da grade curricular atual, o estudante de graduação em
+
+Comunicação com Habilitação em Jornalismo também encontra outras instâncias da Unidade que
+
+colaboram com a sua formação profissional, tais como: o Laboratório de Fotografia (Labfoto);
+
+Laboratório de Audiovisual (LabAV); Laboratório de Rádio; o Programa de Educação Tutorial da
+
+Faculdade de Comunicação (PETCOM); a Agência Experimental em Comunicação e Cultura (AECC);
+
+a Agência de Notícias em CT&I - Ciência e Cultura; a Agenda Arte e Cultura; e a Produtora Júnior.
+
+Caso o estudante decida direcionar sua formação para a pesquisa, ele encontra também suporte nos
+
+diferentes grupos de pesquisa e de estudo existentes na Unidade. O elenco de disciplinas da grade em
+
+vigor atualmente tem como base o seguinte perfil do egresso:
+
+O Jornalista é o profissional que trabalha com a produção de bens simbólicos (notícias, reportagens, etc) e que, através do domínio de linguagens e técnicas específicas, elabora interpretações da realidade, atuando tanto nos meios de comunicação de massa convencionais (rádio, jornal e TV) quanto nos mercados emergentes no campo da comunicação institucional. (Faculdade de Comunicação, Projeto Acadêmico, 1999)
+
+Inserido no contexto da prática moderna da comunicação massiva e das especificidades da
+
+linguagem jornalística pelos meios de comunicação tradicionais (impresso, radiofônico e televisual) e,
+
+na época, também pelo emergente meio digital, o perfil do egresso está refletido na grade curricular
+
+em vigência, principalmente, no conjunto de disciplinas específicas da Habilitação em Jornalismo.
+
+Cinco disciplinas denominadas como oficinas e voltadas ao ensino teórico-prático em jornalismo
+
+impresso, radiojornalismo, telejornalismo, jornalismo digital e assessoria de comunicação compõem o
+
+eixo de formação profissional da área. Tal eixo inicia-se com as disciplinas “Teorias do Jornalismo” e
+
+“Comunicação Jornalística”, no primeiro ano de curso. Com o novo projeto pedagógico do Curso de
+
+Jornalismo, este eixo passará por alterações, que serão apresentadas no próximo item.
+
+Pensado como uma Habilitação do Curso de Comunicação, a formação em Jornalismo
+
+compartilhava 14 disciplinas obrigatórias, num total de 21, com a Habilitação em Produção em
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+18
+
+Comunicação e Cultura. Ou seja, 66,66% das disciplinas obrigatórias estavam presentes nas grades
+
+curriculares das duas habilitações, de modo que apenas 33,34% das disciplinas obrigatórias eram
+
+destinadas a oferecer conteúdos específicos de cada área de atuação profissional.23
+
+Pesquisa realizada pelo Programa de Educação Tutorial da Faculdade de Comunicação da
+
+UFBA (PETCOM), em 2020, com dados de 149 questionários respondidos por egressos do curso de
+
+Comunicação com Habilitação em Jornalismo da FACOM, que passaram pelo curso entre os anos de
+
+2003 e 2019, concluiu que a grade curricular atual oferece uma base sólida e de ótima qualidade no
+
+que tange à formação teórica, conceitual e reflexiva (mais de 80% dos respondentes avaliaram como
+
+ótima ou boa); por outro lado, identificou que há um déficit quanto à formação prática e técnica (menos
+
+de 50% dos egressos avaliaram esse eixo de disciplinas como bom ou ótimo). Esses dados indicam a
+
+necessidade de renovação curricular, com oferta de disciplinas mais conectadas com as áreas de
+
+atuação do jornalista no mercado de trabalho. Ao serem questionados sobre o que poderia ser
+
+adicionado à grade curricular, os respondentes indicaram a inclusão de disciplinas nas áreas de
+
+Ciências Sociais e também voltadas ao Jornalismo digital e de dados. Outro aspecto pesquisado foi
+
+sobre o estágio. Mesmo não sendo obrigatório na atual grade do curso, 91,28% dos egressos que
+
+participaram da pesquisa disseram que realizaram algum tipo de estágio durante a graduação, revelando
+
+a importância de tornar essa prática um componente curricular, incluindo supervisão e orientação. Em
+
+2020, 75,2% dos egressos estavam trabalhando na área de Comunicação.24
+
+Na atual discussão para a reformulação dos projetos pedagógicos de ambos os cursos –
+
+Jornalismo e Produção em Comunicação e Cultura –, apenas o eixo de formação teórica fundamental
+
+da área da Comunicação será mantido, constituído pelas disciplinas “Teorias da Comunicação”,
+
+“Semiótica”, “Estética da Comunicação”, “Comunicação e Tecnologia”, “Comunicação e Política” e
+
+“Comunicação e Cultura Contemporânea”. São disciplinas voltadas para uma formação humanística e
+
+generalista do futuro jornalista e produtor cultural, e que problematizam e discutem as interfaces entre
+
+o fenômeno comunicacional, a área de pesquisa em Comunicação e as diferentes esferas de atuação do
+
+comunicador social.
+
+O eixo se mantém nas novas grades curriculares, havendo apenas a alteração do nome da
+
+disciplina “Semiótica” para “Comunicação, Meios e Linguagens” e a devida atualização do ementário
+
+e programa. Tal alteração visa integrá-la ao próprio eixo, constituído pelas fronteiras estabelecidas
+
+entre a Comunicação e outros fenômenos socioculturais e não apenas a relação da Comunicação com
+
+uma linha de pesquisa específica. Além disso, apenas na grade curricular do Curso de Jornalismo, ao
+
+23 Com a implementação da reformulação curricular do curso de Comunicação com habilitação em Produção, o número de disciplinas obrigatórias compartilhadas diminuiu, permanecendo aquelas de formação humanística geral. 24 COSTA et al. A formação em Jornalismo na Universidade Federal da Bahia: uma análise dos egressos. In: REBEJ - Revista Brasileira de Ensino de Jornalismo (no prelo).
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+19
+
+contrário do que ocorreu na reformulação da grade do curso de Comunicação com Habilitação em
+
+Produção Cultural, manteve-se, nesse eixo, a disciplina denominada “Comunicação e Ética”, que, na
+
+grade em funcionamento, pertence ao segundo eixo de formação tanto generalista quanto profissional.
+
+Assim, as sete disciplinas (“Teorias da Comunicação”, “Comunicação, Meios e Linguagens”,
+
+“Estética da Comunicação”, “Comunicação e Tecnologia”, “Comunicação e Política”, “Comunicação
+
+e Ética” e “Comunicação e Cultura Contemporânea”), irão constituir o primeiro eixo de formação da
+
+grade curricular do novo curso de Jornalismo, contemplando dessa maneira os eixos de fundamentação
+
+humanística e de formação contextual, ambos previstos no Art. 6º das Diretrizes Curriculares Nacionais
+
+para o Curso de Graduação em Jornalismo (2013). Este conjunto de disciplinas foi mantido em função
+
+da sua atualidade e, também, devido ao importante papel na excelência da formação teórico-conceitual
+
+dos estudantes.
+
+Além da disciplina que estabelece as relações entre Comunicação e Ética, também será
+
+resgatado do segundo eixo de formação da grade em vigência o conjunto composto por três disciplinas
+
+relacionadas ao trabalho de conclusão de curso que, pelo Art. 11 das Diretrizes, se constitui como
+
+componente curricular obrigatório. No entanto, na nova proposta de grade curricular, a fase de
+
+elaboração e aprimoramento do projeto de pesquisa ou de produto deverá ser realizada em apenas um
+
+semestre (TCC I) e o desenvolvimento da pesquisa ou a construção do produto experimental ocorrerá
+
+em dois semestres (TCC II e TCC III) – diferente do que ocorre na grade vigente, na qual a elaboração
+
+e revisão do projeto são feitas em dois semestres, com apenas um semestre para a realização e defesa
+
+do TCC.
+
+A alteração de Habilitação do Curso de Comunicação para um Curso de Jornalismo, além das
+
+mudanças na grade curricular, no modo de entender e compreender a própria formação do Jornalista,
+
+possibilitou ao NDE, em parceria com os estudantes e professores da FACOM, rever e refazer o perfil
+
+do profissional que o curso pretende formar. Na nova proposta, pretende-se que o profissional seja
+
+aquele com “formação em cultura geral, humanística e teórica do campo”, para que possa exercer a
+
+profissão de jornalista “com criticidade, reflexão, contextualização e ética para produzir narrativas,
+
+textos e discursos de acordo com a diversidade de linguagens possibilitadas pelas tecnologias da
+
+comunicação, pelas mídias e pela multiplicidade de plataformas”.
+
+5.1.3 Número de vagas oferecidas
+
+O Curso de Jornalismo manterá a oferta de 60 vagas anuais, com ingresso de 30 estudantes por
+
+semestre. Está prevista a oferta de 20% de vagas para o Bacharelado Interdisciplinar, de acordo com o
+
+§1º, Art. 6º da Resolução nº 02/2008, do CONSEPE/UFBA. Há a reserva de 50% das vagas para
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+20
+
+estudantes que cursaram integralmente o ensino médio em escolas públicas, de acordo com a
+
+Resolução nº 07/2018 do CAE/UFBA (dentre essas vagas 50% são destinadas a estudantes oriundos
+
+de famílias com renda igual ou inferior a 1,5 salário-mínimo per capita, além de estudantes que se
+
+declararem pretos, pardos, indígenas e pessoas com deficiência). São disponibilizadas, ainda, também
+
+na Resolução nº 07/2018 do CAE, até quatro vagas supranumerárias, sendo cada uma delas distribuída
+
+entre as seguintes categorias: a) índios aldeados, b) moradores das comunidades remanescentes dos
+
+quilombos, c) pessoas trans (transexuais, transgêneros e travestis), e d) imigrantes ou refugiados em
+
+situação de vulnerabilidade.
+
+5.2 Justificativa
+
+Nas duas últimas décadas, os papéis sociais, as plataformas de publicização e de circulação, a
+
+economia política e o modelo de negócios do campo jornalístico sofreram mais alterações do que
+
+durante toda a história da profissão, inclusive as compreensões originais como foram concebidas, como
+
+ofício de narrar a história do presente na esfera pública.
+
+Conceitualmente, os cursos de Jornalismo devem sempre formar e informar o estudante para a
+
+profissão, para os papéis sociais do campo, o que não é sinônimo de formar para o mercado, para a
+
+práxis cotidiana das redações, que hoje são espaços em processo de transformação radical, esvaziadas
+
+e reconfiguradas sob o determinismo tecnológico, no sentido de um modelo organizacional vigente até
+
+duas décadas atrás.
+
+O mercado é uma instância fluida, volátil, ágil, dinâmica, em contínua transformação, ao sabor
+
+dos deslocamentos da estrutura geopolítica e econômica do mundo. Cada empresa do mercado
+
+noticioso e as instâncias que circulam em torno delas, como as empresas de assessoria de comunicação
+
+e de imprensa e os departamentos governamentais de comunicação, adotam em seu dia a dia as
+
+engrenagens tecnológicas, empresariais e editoriais de acordo com o tempo histórico vigente, as
+
+circunstâncias econômicas, as ideologias sob tensão, a tecnologia em ascensão e respectivas linhas
+
+editoriais e fôlego econômico.
+
+Nesse cenário em mutação, cada vez mais se espera da Universidade a habilidade de preparar
+
+sujeitos capazes de adaptar-se aos contextos vigentes e emergentes – formação esta que precisa ser
+
+humanista, contextual, complexa e não apenas técnica com o intuito apenas de atender aos moldes
+
+imediatistas do mercado jornalístico em movimento. O desafio da proposição de uma grade curricular
+
+que atualize a formação para o campo jornalístico está exatamente na busca de articulações entre
+
+disciplinas e práticas laboratoriais que almejem o que hoje é fundamental para o fortalecimento do
+
+papel do jornalista e para a sua eficácia perante a esfera pública: atuar como um curador preciso, de
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+21
+
+reconhecida credibilidade, na organização, interpretação, empacotamento das informações de modo a
+
+contribuir para que a sociedade onde atua possa munir-se de informações e, munido delas, possa
+
+aperfeiçoar suas práticas, deliberações e comportamentos mais críticos como sujeitos políticos e
+
+sociais.
+
+Elaborada em um contexto de uma crise sem precedentes atribuída ao conjunto dos media, ao
+
+Jornalismo e à credibilidade das notícias, a grade curricular proposta neste documento tem como
+
+premissa a tese de que, em um mundo marcado pelo excesso de informação, pela emergência da fraude
+
+informativa que caracteriza a indústria de fake news em operação em todo o mundo, o futuro do campo
+
+continua promissor e necessário. A médio e longo prazos, o papel dos jornalistas e do Jornalismo bem
+
+executado, que não perca de vista essa função desafiadora, é justamente trazer à tona os fatos que a
+
+todo o tempo vêm sendo mascarados ora pelo excesso de informações supérfluas que não tocam no
+
+núcleo das grandes questões, ora pela fraude informativa gerada por grupos políticos, ideológicos e
+
+econômicos, cujos interesses na guerra informacional é destruir reputações de seus adversários ou obter
+
+lucros com o fenômeno do volume de clicagens.
+
+Pelo fato de o campo estar sob ataque e vulnerabilidade quanto à sua eficiência e credibilidade,
+
+o que norteia e justifica esse projeto pedagógico é a ideia de formar profissionais com uma visão ampla,
+
+dinâmica e sistêmica do mundo em transformação. Investir na proposição de práticas laboratoriais
+
+multiplataformas durante todo o curso, associadas simultaneamente a disciplinas teóricas não só do
+
+escopo estruturante do curso, mas de outras vinculadas a diferentes áreas e departamentos de outros
+
+cursos da Universidade, é acreditar na amplitude da formação como modo de possibilitar ao
+
+profissional egresso a passagem e a experiência em outras habilidades e saberes. A experiência em
+
+tentativas de outros campos se traduzirá em profissionais com capacidade para uma visão, interpretação
+
+e cobertura mais complexas do mundo ao redor.
+
+O Projeto Político-Pedagógico do novo Curso de Jornalismo emerge da necessidade da
+
+Faculdade de Comunicação promover o ensino de Jornalismo de uma forma que contemple a natureza
+
+das exigências da sociedade; sempre considerando sua vinculação, legítima e natural, como espaço de
+
+desenvolvimento de atividades de pesquisa e extensão. Além disso, a atualização do curso busca
+
+fortalecer e ampliar as conexões entre a academia e a realidade regional na qual a UFBA se insere,
+
+considerando seus aspectos sociais, econômicos, políticos e culturais. Desta forma, é importante
+
+garantir que os egressos do curso possam não apenas se inserir no mercado jornalístico da região, mas
+
+também possam atuar como vetores de transformação social.
+
+A proposta está, por fim, em consonância com os pressupostos e os eixos fundamentais
+
+definidos pelas Diretrizes Curriculares Nacionais para os Cursos de Graduação em Jornalismo: eixo
+
+de formação humanística; eixo de fundamentação específica; eixo de fundamentação contextual; eixo
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+22
+
+de formação profissional; eixo de aplicação processual e eixo de prática laboratorial. Trata-se, assim,
+
+de uma perspectiva fundamentada na formulação de um novo modelo pedagógico que contempla o
+
+estabelecimento de uma rotina didática baseada na experimentação, por meio do desenvolvimento de
+
+atividades laboratoriais que aliem a todo o momento a prática com a reflexão teórica sobre a práxis.
+
+5.3. Pressupostos teóricos
+
+“Sociedade midiática” (THOMPSON, 2008), “Sociedade do espetáculo” (DEBORD, 1997),
+
+“Cultura das mídias” (SANTAELLA, 1996), “Bios midiático” (SODRÉ, 2002), “Sociedade de
+
+plataforma” (VAN DIJCK, 2018), são alguns dos nomes correntes na área comunicacional que tratam
+
+da ampliação das atividades e investimentos no campo da comunicação de forma geral. São metáforas
+
+conceituais que tentam explicitar as consequências da aceleração da produção, da circulação e do
+
+consumo das informações e dos bens culturais e simbólicos na sociedade, em aspectos também
+
+fortemente ligados aos debates sobre plataformização, dados, big data, algoritmos e vigilância.
+
+Como um dos registros mais marcantes da contemporaneidade, tal aceleração deve-se também
+
+à atuação do Jornalismo que, em uma definição mais ampliada, pode ser entendido como qualquer
+
+atividade humana que envolva a produção e a disseminação de informações. Como uma atividade
+
+social, de comunicação coletiva, desenvolve-se a partir da implantação da tipografia e da possibilidade
+
+de livre circulação de jornais impressos. Considerado por muito tempo como espaço privilegiado de
+
+produção de conteúdo, de agendamento e visibilidade de pautas, bem como de construção e
+
+reconstrução simbólica de imagens, discursos, ideias, opiniões, o Jornalismo, no contexto de avanço
+
+de novas tecnologias de comunicação e informação, está em constante mutação, o que tem impactado
+
+tanto na noção de jornalismo como em sua práxis. Hoje, é possível afirmar que nem toda ação de
+
+produzir e difundir informações constitui uma manifestação do Jornalismo, mas que o conteúdo
+
+produzido pelo Jornalismo, para as suas mais variadas plataformas ou suportes, deve ser resultado de
+
+processos de apuração, verificação, checagem, redação e edição que constituem o trabalho do
+
+jornalista.
+
+O debate conceitual entre as noções de Comunicação Social e de Jornalismo, que embasou por
+
+muitos anos os projetos pedagógicos dos cursos de comunicação com habilitações, aponta para uma
+
+questão de concepção. De um lado, a Comunicação é uma atividade humana que envolve troca de
+
+informações e é inerente à vida. De outro, o Jornalismo é uma prática social estabelecida na cultura e
+
+que é regida por legislação específica e deontologia própria. Considerada vital em sociedades
+
+democráticas, também deve ser compreendido como forma de conhecimento para a análise e
+
+compreensão da atualidade.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+23
+
+Comumente associado a uma atividade que visa a elaboração de notícias para publicação em
+
+jornal, revista, rádio, televisão, web, entre outras plataformas, o Jornalismo pressupõe a existência de
+
+um profissional que exerce funções como a de redator, repórter, fotógrafo, editor, entre outras. No
+
+Brasil, jornalista designa, de forma geral, todos que trabalham tanto em redações tradicionais de
+
+jornais, revistas, emissoras de rádio e TV, como os que atuam em novas mídias como sites, blogs,
+
+portais, redes sociais digitais, assessorias de comunicação ou de imprensa em empresas e organizações
+
+públicas, privadas e do terceiro setor, as independentes, além da docência em instituições de ensino
+
+superior. Nesse sentido, grande parte da atividade profissional do jornalista compreende as ações de
+
+apurar e checar as informações de interesse público; selecionar, escrever, editar, transmitir e
+
+disponibilizar em plataformas diversas notícias em tempo real ou com periodicidades variadas.
+
+Tal enumeração de práticas evidencia a complexidade do fazer jornalístico e, por conseguinte,
+
+a diversidade de produtos e serviços com os quais estão diretamente e indiretamente envolvidos. Tais
+
+práticas ganham ainda mais em complexidade nas últimas duas décadas com o avanço das novas
+
+tecnologias de informação e comunicação, que tem transformado os modos de produção, as práticas, a
+
+distribuição, a circulação, a recirculação dos conteúdos e a própria maneira como o público interage
+
+com os conteúdos.
+
+Este contexto demarca, para o Jornalismo, um dos processos centrais de reestruturação pelo
+
+qual o campo está passando: o processo de convergência jornalística (SALAVERRÍA, GARCÍA
+
+AVILÉS, & MASIP, 2010; SALAVERRÍA; NEGREDO, 2008), caracterizado por um movimento
+
+contínuo entre produção, circulação e consumo dos conteúdos jornalísticos. Nesse processo, o aspecto
+
+da comunicação móvel – smartphones, tablets, consoles de jogos, ultrabooks, dispositivos vestíveis
+
+(wearables), como relógios, pulseiras, óculos de realidade virtual, etc – demarca uma nova
+
+configuração do ecossistema midiático, a partir do desenvolvimento e da apropriação dos dispositivos
+
+móveis dentro da noção de distribuição e publicação de conteúdos jornalísticos multiplataformas.25
+
+Diante desse cenário, é imprescindível que o futuro profissional jornalista compreenda, ainda
+
+na universidade, inúmeras outras questões que afetam diretamente o Jornalismo. Sousa (2008) reforça
+
+que o jornalismo ocidental nasce alicerçado nos princípios da liberdade de expressão e de imprensa.
+
+Tal modelo afirma que a imprensa deveria ser independente do estado e dos poderes, com o direito de
+
+reportar, comentar, interpretar e criticar as atividades dos agentes do poder, inclusive institucionais,
+
+sem repressão ou ameaça. O argumento do autor é de que os jornalistas devem ter sua práxis regida
+
+25 Essa discussão está aprofundada em artigo publicado por professores que participaram da elaboração desse PPC: NAKAGAWA, Fabio Sadao; BARBOSA Suzana Oliveira; SOUZA FILHO, Washington José de. O ensino de Jornalismo e a convergência: Integração das redações como proposta pedagógica. In: PINHEIRO, Elton Bruno; VARÃO, Rafiza; BARCELLOS, Zanei. Práticas e tensionamentos contemporâneos no ensino de Jornalismo. Brasília: Universidade de Brasília, Faculdade de Comunicação, 2018.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+24
+
+pela legislação, pela ética e pela deontologia da profissão – ideal de atuação sempre almejado, mas
+
+nem sempre alcançado mesmo com a maior liberdade de produção e circulação de conteúdos
+
+possibilitados pelas tecnologias digitais. Para Traquina (2004, p. 26), os jornalistas seriam
+
+“participantes ativos na definição e na construção das notícias e, por consequência, na definição da
+
+realidade”, inclusive no nível individual, por exemplo, “durante a realização de uma reportagem ou na
+
+redação da notícia, quando é decidido quem entrevistar ou que palavras serão utilizadas para escrever
+
+a matéria”.
+
+Alguns cânones da pesquisa em Jornalismo no Brasil, como Hipólito da Costa, Rui Barbosa,
+
+Luiz Beltrão, José Marques de Melo, cada um a seu tempo, concordam em afirmar o caráter público e
+
+educativo do Jornalismo, calcado em princípios como liberdade e responsabilidade. Para Rui Barbosa
+
+(1990, p. 37), “a imprensa é a vista da Nação”. É por ela que a nação “acompanha o que lhe passa ao
+
+perto e ao longe, enxerga o que lhe malfazem, devassa o que lhe ocultam e tramam, colhe o que lhe
+
+sonegam ou roubam, percebe onde lhe alvejam”. Luiz Beltrão (1992, p. 156) defende que duas
+
+condições são fundamentais ao exercício do jornalismo: a liberdade e a responsabilidade. Sem a
+
+primeira, afirma o autor, o “exercício do poder opinativo não passaria de mais um instrumento”; sem
+
+a segunda, em lugar de colaborar para a sociedade, o jornalismo geraria “preconceitos e ódios, aguçaria
+
+conflitos, levaria indivíduos e comunidades à desintegração”.
+
+O jornalista tem compromisso com a informação e deve atuar socialmente não apenas como
+
+produtor e mediador dessas informações, mas também como cidadão ativo e crítico nas questões
+
+públicas de seu país e, principalmente, de sua região. Nesse sentido, as Diretrizes Curriculares
+
+Nacionais (2013) - que norteiam este projeto pedagógico - reforçam a importância de uma formação
+
+humanista sólida e voltada para a busca, pelo jornalista, de explicações, categorias e compreensão dos
+
+processos de produção de sentidos, de modo a colaborar com suas práticas diárias enquanto
+
+profissional.
+
+Ao deixar de considerar-se o jornalismo apenas como um meio de comunicação para considerá-lo como um meio de conhecimento, estará a ser dado um passo no sentido de aumentar a exigência sobre os seus conteúdos. Conhecimento implica aperfeiçoamento pela crítica e requer rigor. Considerar o jornalismo como modo de conhecimento implica também aumentar a exigência sobre a formação profissional dos jornalistas, que deixam de ser meros comunicadores para se transformarem em produtores e reprodutores do conhecimento. (MEDITSCH, 2002, p. 20)
+
+Sendo assim, o presente Projeto-Político Pedagógico, traçado em sintética tessitura, modela a
+
+proposição do currículo do Curso de Jornalismo da Faculdade de Comunicação, evidenciando esse
+
+caráter pluridisciplinar e atualizado, bem como reafirmando esta identidade do Jornalismo. Segue, pois,
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+25
+
+em consonância com as Diretrizes Curriculares Nacionais estabelecidas pelo Ministério da Educação,
+
+conforme orienta o Relatório da Comissão de Especialistas formada para elaborar as Diretrizes:
+
+O Jornalismo é uma profissão reconhecida internacionalmente, regulamentada e descrita como tal no Código Brasileiro de Ocupações do Ministério do Trabalho. A Comunicação Social não é uma profissão em nenhum país do mundo, mas sim um campo que reúne várias diferentes profissões. É também uma área acadêmica que engloba diversas disciplinas específicas, como ocorre também em outras áreas das ciências aplicadas como, por exemplo, a da Saúde, que reúne em seu âmbito as profissões (e respectivas disciplinas) de Medicina, Odontologia, Enfermagem, Fisioterapia, etc. Desta forma, é inadequado considerar o Jornalismo como habilitação da Comunicação Social, uma vez que esta, como profissão, não existe, assim como não existe uma profissão genérica de Saúde. (BRASIL, 2009, p. 09)
+
+Por fim, a criação do Curso de Jornalismo, em substituição à Habilitação Jornalismo do Curso
+
+de Comunicação, também encontra inspiração em análise das trajetórias locais e nacionais. A
+
+Universidade Federal da Bahia tem forte tradição de atuação acadêmico-cultural inovadora e o
+
+desenvolvimento acentuado da sua Faculdade de Comunicação – com o Programa de Pós-Graduação
+
+em Comunicação e Cultura Contemporâneas (PósCom nota 5 na CAPES, com Doutorado, Mestrado);
+
+Curso de Especialização Lato Sensu em Comunicação Estratégica e Gestão da Marca, além de cursos
+
+e oficinas de curta duração – dotam a instituição de condições favoráveis e de sensibilidade para
+
+atender às demandas da sociedade. Com o novo curso, a FACOM complementa seu projeto que, por
+
+meio do esforço e do trabalho de sua comunidade acadêmica ao longo dos últimos anos, dotou a
+
+Faculdade de atividades de ensino de pós-graduação, pesquisa e extensão.
+
+A Faculdade de Comunicação, em seu trabalho de elaboração do currículo de Jornalismo,
+
+alinhando-se às Diretrizes Curriculares Nacionais para o Curso de Jornalismo, instituídas pelo
+
+Ministério da Educação (Resolução Nº 1, de 27 de Setembro de 2013), propõe uma fina sintonia entre
+
+o currículo e as demandas dos tempos contemporâneos, com as exigências decorrentes de seu espaço
+
+de inserção e também com as formulações e inovações acadêmico-pedagógicas que a FACOM vem
+
+elaborando por meio de sua experiência universitária e de seu trabalho de criação, estoque e crítica do
+
+conhecimento. O Projeto Político-Pedagógico do Curso de Jornalismo da FACOM articula-se, assim,
+
+nas seguintes diretrizes:
+
+I. Formação qualificada e articulada, contemplando diferenciadas dimensões do conhecimento. Em um patamar teórico pretende-se uma sólida formação que possibilite ao estudante trabalhar com conceitos e teorias. Em um nível analítico/informativo, busca-se proporcionar ao discente informações fundamentais acerca do Jornalismo e da sociedade, especialmente no Brasil e na Bahia, e desenvolver sua capacidade de analisar temáticas da atualidade. Já no plano prático-profissional, objetiva-se permitir aos estudantes a experimentação e o domínio das linguagens de comunicação e da cultura midiática contemporânea. A experimentação e o domínio das linguagens devem ser encarados como
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+26
+
+complexas atitudes culturais e não como meras questões técnicas. Todo este conjunto de conhecimentos deve ser perpassado por conteúdos que possibilitem a consistente formação ético-política do (futuro) jornalista e cidadão, bem como a compreensão de seu papel na contemporaneidade. II. O novo currículo foi concebido como um conjunto articulado de atividades que possibilitem a produção de conhecimento por meio de variados procedimentos e fomentações pedagógico-acadêmicas, sempre adequadas aos seus conteúdos. Por conseguinte, é composto por atividades que incorporam procedimentos e formatações como sala de aula, oficinas, laboratórios, estudos orientados, seminários, palestras etc., reconhece como parte constitutiva atividades de extensão e pesquisa, às quais fica destinada carga horária a ser realizada pelos discentes. Deste modo, o estudante universitário vivencia efetivamente a indissociabilidade do ensino, da pesquisa e da extensão. III. O novo currículo, além disto, busca inovar, tanto no concernente aos conteúdos elencados quanto na racionalidade buscada em uma estrutura articulada, organizada a partir de uma visão integrada do Jornalismo. Com isto, potencializa-se a utilização de recursos humanos e materiais e a qualificação do curso. IV. As atividades obrigatórias e optativas são distinguidas com nitidez. As atividades obrigatórias se reduzem ao verdadeiramente essencial à formação discente, devendo ter seus conteúdos definidos em instâncias coletivas. As atividades optativas, ampliadas, pretendem tornar os estudantes mais responsáveis pela construção do seu próprio percurso formativo, além de permitir uma flexibilidade à estrutura que, sem dificuldades, pode se adequar às demandas de especializações e contemplar a possibilidade de continuada e ágil atualização de conteúdos. V. A atualidade do currículo também encontra-se possibilitada pela deliberada opção de construí-lo tomando como eixo o desenvolvimento das linguagens jornalísticas. Com isto, foram abandonados os recortes baseados em gêneros jornalísticos e nos suportes tecnológicos da comunicação, hoje em acelerada e profunda mutação. As linguagens, em verdade, mesmo quando originalmente articuladas a algum suporte especifico, têm a capacidade de perpassar diversos suportes tecnológicos e, em consequência, tornarem-se mais duradouras. VI. Por fim, as atividades nomeadas de Jornalismo Integrado (I a VI) incorporam como exigência pedagógico-acadêmica obrigatória a existência de produtos laboratoriais. Deste modo, se reconhece a necessidade para a satisfatória formação da experimentação, da publicização e crítica destes exercícios com as linguagens do Jornalismo. Sem a realização destes produtos, as oficinas não podem inclusive ser consideradas concluídas. 5.4 Objetivos 5.4.1 Objetivo geral: Formar  jornalistas  com  sólida  fundação  humanística  e  capacitação  técnica para exercer a mediação
+
+entre a sociedade e suas instituições; construir as bases para a sedimentação de um amplo repertório
+
+temático; fortalecer a democracia e o contraditório; estimular a visão crítica, reflexiva, analítica, ética
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+27
+
+e contextualizada dos fenômenos internacionais, nacionais, regionais, locais, sociopolíticos e
+
+humanitários; preparar para a abordagem do real e dos fenômenos do imaginário coletivo
+
+contemporâneo de linguagens, identidades e experienciamentos em multiplataformas potencializadas
+
+pelas tecnologias da comunicação.
+
+5.4.2 Objetivos específicos:
+
+\1. Fomentar a produção de conhecimento global e integrado sobre conceitos essenciais e aportes teórico-metodológicos que sustentam as bases do Jornalismo como campo de conhecimento; 2. Subsidiar uma compreensão ampliada dos processos da comunicação e da cultura, a fim de apreender sua complexidade e seus desafios; 3. Adquirir conhecimento teórico, analítico e prático a respeito das temáticas que permeiam o campo do Jornalismo na contemporaneidade; 4. Conhecer e compreender de maneira historicizada e crítica as práticas profissionais e as rotinas de produção no campo Jornalismo; 5. Estimular a consciência política sobre a ação do jornalismo e dos meios de comunicação na sociedade; 6. Proporcionar formação fundamentada em responsabilidade social e ambiental, associada à compreensão dos valores da sustentabilidade, da justiça, da promoção da igualdade, do combate à intolerância e defesa da inclusão de natureza étnica, religiosa, de gênero e de orientação sexual. 7. Exercitar a excelência acadêmica, mediante o desenvolvimento das ciências, das artes e das humanidades, contribuindo para o processo de desenvolvimento local, regional, nacional e global; 8. Promover a extensão universitária, visando à difusão de avanços, conquistas e benefícios resultantes da criação cultural e artística e da pesquisa científica e tecnológica geradas no curso; 9. Manter o curso aberto à participação da população, promovendo amplo e diversificado intercâmbio com instituições, organizações e movimentos da sociedade. 5.5 Perfil do Egresso
+
+O egresso do Curso de Jornalismo da Faculdade de Comunicação da Universidade Federal da
+
+Bahia tem como característica a formação cultural geral, humanística e teórica do campo, permitindo-
+
+lhe o exercício da profissão com criticidade, reflexão, contextualização e ética para produzir narrativas,
+
+textos e discursos de acordo com a diversidade de linguagens possibilitadas pelas tecnologias da
+
+comunicação, pelas mídias e pela multiplicidade de plataformas.
+
+O curso propõe a formação de um profissional capaz de exercer a função de mediador entre a
+
+sociedade e seu repertório de temas factuais e potenciais relacionados à cultura, ao pluralismo social,
+
+à ética e às questões emergentes da cidadania, da política, dos direitos humanos e dos enfrentamentos
+
+socioeconômicos.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+28
+
+Titulação: Bacharel em Jornalismo.
+
+Titulação específica: Jornalista.
+
+5.5.1 Conhecimentos, competências e habilidades básicas a serem trabalhadas com os estudantes do curso Competências:
+
+● Refletir criticamente, compreender e valorizar: o regime democrático, o pluralismo de ideias e de opiniões, a cultura da paz, os direitos humanos, as liberdades públicas, a justiça social e o desenvolvimento sustentável; ● Conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a realidade social, econômica e política brasileira, considerando especialmente a diversidade regional e o processo de internacionalização da produção jornalística; ● Perceber, identificar e reconhecer a relevância e o interesse público entre os temas da atualidade; ● Valorizar e reconhecer e respeitar a diversidade sexual, cultural, de gênero, de etnia e de classes/ grupos sociais. Interagir com pessoas e grupos sociais de formações e culturas diversas e diferentes níveis de escolaridade; ● Conhecer e valorizar os princípios éticos que norteiam a profissão; ● Conhecer a história, os fundamentos e os cânones profissionais do jornalismo, assim como compreender e valorizar o papel do jornalismo na democracia e no exercício da cidadania; ● Valorizar a importância e os mecanismos da regulamentação político-jurídica da profissão e da área de comunicação social; ● Priorizar razões do interesse público aos critérios, às decisões e às escolhas da atividade profissional; Habilidades:
+
+● Contextualizar, interpretar e explicar informações relevantes da atualidade, agregando-lhes elementos de elucidação necessários à compreensão da realidade; ● Buscar precisão no registro e na interpretação dos fatos noticiáveis; ● Propor, planejar, executar e avaliar projetos na área de jornalismo; ● Organizar pautas e planejar coberturas jornalísticas; ● Formular questões e conduzir entrevistas; ● Adotar critérios de rigor e independência na seleção das fontes e no relacionamento profissional com elas, tendo em vista o princípio da pluralidade, o favorecimento do debate, o aprofundamento da investigação e a garantia social da veracidade; ● Dominar metodologias jornalísticas de apuração, depuração, aferição, além de produzir, editar e publicizar; ● Conhecer conceitos e dominar técnicas dos gêneros jornalísticos; ● Produzir enunciados jornalísticos com coerência, rigor e correção e ser capaz de editá-los em espaços e períodos de tempo limitados relacionados com a periodicidade do meio; ● Traduzir em linguagem jornalística, preservando conteúdos originalmente formulados em linguagens técnico-científicas, mas cuja relevância social justifique e/ou exija disseminação não especializada; ● Elaborar, coordenar e executar projetos de assessoria jornalística em instituições legalmente constituídas de diversas naturezas, sejam comunitárias, governamentais, estratégicas ou corporativas; ● Compreender, dominar, gerir, produzir e aperfeiçoar processos de produção jornalística;
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+29
+
+● Dominar as linguagens e os formatos discursivos nos diferentes meios, plataformas e modalidades tecnológicas de comunicação, utilizados nos processos de produção jornalística; ● Conhecer o instrumental tecnológico e as ferramentas utilizadas na produção jornalística; ● Avaliar criticamente produtos e práticas jornalísticas. ● Ter domínio da expressão oral e da escrita na norma culta da língua portuguesa. ● Pesquisar, analisar, nomear, selecionar e hieraquizar informações em qualquer campo de conhecimento específico; ● Ser capaz de trabalhar em equipes profissionais multifacetadas; ● Saber utilizar as tecnologias de informação e comunicação; ● Pautar-se pela inovação permanente de métodos, técnicas e procedimentos; ● Saber discernir os objetivos e as lógicas de funcionamento das instituições privadas, estatais, públicas, partidárias, religiosas ou de outra natureza em que o jornalismo é exercido, assim como as influências do contexto sobre esse exercício; ● Identificar, estudar e analisar questões éticas e deontológicas no jornalismo; ● Atentar para os processos que envolvam a recepção de mensagens jornalísticas e o seu impacto sobre os diversos setores da sociedade; ● Exercer, sobre os poderes constituídos, fiscalização comprometida com a verdade dos fatos, o direito dos cidadãos à informação e o livre trânsito das ideias e das mais diversas opiniões. 5.5.2 Campos de atuação do profissional
+
+O estudante graduado em Jornalismo pela Faculdade de Comunicação da Universidade Federal
+
+da Bahia é formado para atuar em atividades e organizações públicas e privadas na produção de
+
+conteúdo noticioso/jornalístico e no assessoramento de processos de comunicação entre instituições
+
+públicas e privadas e veículos noticiosos, em suas diversas modalidades e para as várias plataformas.
+
+Com a transformação do universo do emprego/trabalho, decorrente dos processos tecnológicos
+
+que redefiniram as formas e os fluxos de produção, circulação e consumo da informação jornalística,
+
+o profissional egresso da FACOM/UFBA é dotado de formação teórica e técnica para adaptar-se aos
+
+cenários advindos dessa reestruturação do campo de atuação. A oferta de disciplinas práticas e teóricas,
+
+obrigatórias e optativas, bem como as atividades de extensão, laboratoriais e de pesquisa
+
+proporcionadas aos estudantes ao longo da formação, associadas às mudanças de perfil das audiências,
+
+permite ao egresso a capacidade de adaptar-se a projetos de inserção no mercado de trabalho de forma
+
+não exclusivamente empregatícia, dissociando as modalidades emprego e trabalho.
+
+Apesar das amplas e redefinidoras mudanças ocorridas na relação entre as funções dos
+
+profissionais jornalistas e as plataformas de veiculação de conteúdos e informações noticiosos, os
+
+jornais, as revistas, as emissoras de rádio e de televisão e as assessorias de comunicação ainda se
+
+mantêm como meios de grande concentração para o desempenho do ofício profissional para os
+
+jornalistas.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+30
+
+Aliados a esses cenários como espaços de ação profissional dos jornalistas, consolidaram-se,
+
+com a emergência das novas tecnologias, modelos de negócios e engrenagens da economia política do
+
+jornalismo, além dos formatos de produção e de outras alternativas de produção e circulação de
+
+conteúdos informativos nos últimos anos, os portais, sites, as revistas eletrônicas, os agregadores de
+
+conteúdo e de notícias, toda uma sorte de produtos radiofônicos no formato podcast, projetos
+
+viabilizados mediante financiamentos coletivos via crowdfunding, programas e canais de conteúdo
+
+jornalístico em redes sociais digitais e boletins de conteúdo especializado produzidos para públicos de
+
+nicho mediante assinatura ou contribuição de audiências previamente prospectadas e fidelizadas em
+
+relações que remetem a modelos semelhantes aos do on-demand do campo do entretenimento.
+
+Além dessa diversidade de inserções como possibilidades da atuação profissional, há uma série
+
+de estímulos no sentido de capacitar a/o estudante para a produção de conteúdos para redes sociais
+
+digitais na modalidade empreendedora ou no assessoramento. As habilidades desenvolvidas ao longo
+
+do curso possibilitam a produção de conteúdos específicos para personalidades ou instituições de
+
+destaque social, institucional, comercial e cultural, tanto no segmento público quanto privado, no
+
+campo da prestação de serviços de um vasto espectro setorial.
+
+O conteúdo oferecido ao estudante da FACOM/UFBA habilita-o a ter como eixo norteador de
+
+sua ação profissional o compromisso com o exercício reflexivo, crítico e analítico da profissão. A grade
+
+curricular prepara o egresso para a condição de mediador, tradutor e intérprete privilegiado entre os
+
+acontecimentos de relevância e a esfera pública. Espera-se do egresso do Curso de Jornalismo da
+
+FACOM/UFBA habilidade de informar e analisar, a fim de contribuir para os processos de deliberação
+
+dos cidadãos a partir da exposição e abordagem dos fatos, de forma a atuar sob a perspectiva do
+
+interesse público e da defesa dos interesses sociais.
+
+5.6 Metodologia de ensino-aprendizagem e sistema de avaliação
+
+A Faculdade de Comunicação sempre procurou empreender a sintonia entre os currículos, as
+
+demandas dos tempos contemporâneos, as exigências decorrentes de seu espaço de inserção e as
+
+formulações e inovações acadêmico-pedagógicas. Nesse sentido, conforme exposto anteriormente, o
+
+currículo do Curso de Jornalismo da FACOM orienta-se por uma formação qualificada e articulada
+
+nas variadas dimensões do conhecimento. Por uma perspectiva teórica e analítica, busca-se preparar o
+
+estudante para trabalhar com conceitos, teorias e fundamentos contextuais e profissionais acerca da
+
+comunicação, do jornalismo, da cultura e da sociedade. Já no plano prático-profissional, objetiva-se
+
+permitir aos estudantes a experimentação e o domínio das linguagens do Jornalismo e da cultura
+
+midiática contemporânea.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+31
+
+A matriz curricular do curso foi concebida como um conjunto articulado de atividades que
+
+possibilitam a construção do conhecimento por meio de variados procedimentos pedagógico-
+
+acadêmicos, como discussões em sala de aula, práticas em oficinas, atividades laboratoriais, estudos
+
+orientados, participação em seminários e palestras. Além disso, o percurso formativo do discente
+
+complementa-se de atividades de extensão e de pesquisa, de modo que estudante universitário possa
+
+vivenciar efetivamente os três pilares fundamentais da universidade: ensino, pesquisa e extensão.
+
+Os componentes curriculares obrigatórios, os optativos e os livres estão distribuídos de modo
+
+a permitir que o discente organize seu próprio percurso formativo com independência e flexibilidade.
+
+Por um lado, as atividades obrigatórias se resumem ao essencial para a formação do jornalista, por
+
+outro, os componentes livres e optativos, ampliados e ofertados por diversas Unidades da UFBA,
+
+pretendem tornar os estudantes mais responsáveis pela construção do próprio currículo/curso a ser
+
+realizado. Desse modo, reflete-se sobre a participação dos estudantes não apenas em componentes
+
+curriculares e atividades na Faculdade de Comunicação, mas também como membros da Universidade
+
+Federal da Bahia.
+
+Assim, o currículo do Curso de Jornalismo inova tanto no que se refere aos conteúdos exigidos,
+
+quanto na racionalidade buscada em uma estrutura articulada de componentes curriculares, organizada
+
+a partir de uma visão integrada do Jornalismo e da Comunicação. Exemplo disso são as disciplinas
+
+nomeadas de Jornalismo Integrado (I a VI), que foram pensadas para serem espaço de experimentação
+
+de práticas e linguagens do Jornalismo – tendo como exigência pedagógico-acadêmica obrigatória a
+
+existência de produtos laboratoriais –, bem como de exercício da extensão universitária. Assim,
+
+diferentemente de um currículo previamente estruturado sobre a segmentação da prática jornalística
+
+em torno de mídias e suportes específicos, o ensino do Jornalismo passa a ser movido pelo imperativo
+
+da convergência, sobretudo nas disciplinas laboratoriais.
+
+Por sua vez, o Regimento Geral da UFBA, aprovado em reunião do Conselho Universitário em
+
+11 de março de 2010, determina, no capítulo referente ao Planejamento, Execução e Avaliação do
+
+Ensino, que:
+
+Art. 69. Ementa, programa e plano de ensino de cada componente curricular, elaborados de acordo com o projeto pedagógico do curso, deverão ser aprovados pelo Colegiado. Parágrafo único. Cada um dos componentes curriculares deverá incluir procedimentos eficientes de avaliação do rendimento dos estudantes. Art. 70. A avaliação de aprendizagem realizar-se-á por período letivo, semestral ou anual, compreendendo apuração da frequência às aulas ou atividades e/ou determinação das notas obtidas pelos estudantes em trabalhos escolares, testes e provas, quando for o caso.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+32
+
+Parágrafo único. Estrutura, critérios, processos e instrumentos de avaliação de aprendizagem serão estabelecidos no Regulamento de Ensino de Graduação e Pós-Graduação. Art. 71. Será considerado aprovado no componente curricular o aluno que obtiver nota final, resultante da média das avaliações parciais, igual ou superior a cinco, sem aproximação de decimais. Em consonância com o Regimento, o Regulamento de Ensino de Graduação e Pós-Graduação
+
+stricto sensu (REGPG), da Universidade Federal da Bahia, aprovado pela Resolução nº 01/2015 do
+
+Conselho Acadêmico de Ensino em reunião plenária do dia 17 de dezembro de 2014, determina em
+
+seu Capítulo VI, que trata da Avaliação da Aprendizagem, que:
+
+Art. 106. Entende-se por avaliação da aprendizagem o processo contínuo de apreciação e verificação da construção de conhecimento dos alunos, bem como acompanhamento, diagnóstico e melhoria do processo de ensino- aprendizagem. Art. 107. A avaliação da aprendizagem far-se-á em cada componente curricular ou conjunto de componentes curriculares. § 1º O conjunto de componentes curriculares corresponde a um programa de ensino, com enfoque multidisciplinar, que deve ser ministrado, por conveniência didática, de maneira integrada. § 2º Os procedimentos de avaliação para conjunto de componentes curriculares estarão definidos nos projetos pedagógicos dos cursos. Art. 108. A avaliação da aprendizagem será realizada por período letivo, compreendendo: I - a apuração da frequência às aulas e demais atividades acadêmicas; II - a atribuição de notas às atividades acadêmicas; § 1º Entende-se por atividade acadêmica as atividades realizadas por aluno ou grupo de alunos, constantes no plano de ensino do componente curricular e/ou no projeto do curso. § 2º Nos componentes nos quais não cabe atribuição de notas às atividades acadêmicas, o resultado final será expresso por menção de aprovação ou reprovação, conforme o caso. Art. 109. A metodologia de ensino-avaliação da aprendizagem, respeitado o programa do componente curricular, será definida pelo professor ou grupo de professores no respectivo plano de ensino aprovado pelo plenário do Departamento ou equivalente.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+33
+
+Parágrafo único. Até o final da segunda semana letiva, a metodologia de ensino-avaliação da aprendizagem deverá ser divulgada junto aos alunos. Art. 110. A avaliação da aprendizagem se dará ao longo do período letivo, resultando de, no mínimo, duas (02) avaliações parciais, na graduação, e, no mínimo, uma (01) avaliação na pós-graduação. § 1º Nos componentes nos quais cabe resultado numérico de avaliação, o resultado obedecerá a uma escala de zero (0) a dez (10), com uma casa decimal; § 2 º A critério do professor e com anuência do Colegiado, a avaliação de aprendizagem poderá ser considerada incompleta (IC) quando o estudante que tenha participado normalmente das atividades do componente curricular, não tenha concluído suas tarefas até o final do semestre, cabendo ao professor substituir a menção IC (incompleto) pela nota final ou pela menção de aprovação ou reprovação, conforme o caso, até o final do semestre subsequente. Art. 111. Será considerado aprovado, em cada componente curricular, o aluno que cumprir a frequência mínima de setenta e cinco por cento (75%) às aulas e às atividades e obtiver: I - nota final igual ou superior a cinco (5,0) ou; II - aproveitamento nos componentes curriculares cujos resultados não forem expressos por nota. § 1º Nos componentes curriculares cursados para os quais se exige apenas apuração de frequência, será aprovado o aluno que cumprir o percentual mínimo expresso no caput deste artigo. § 2º Para fins de registro no histórico escolar, os resultados serão expressos pelos códigos AP (Aprovado) ou AT (Aprovado Atividade), conforme o caso.
+
+Em conformidade com os regulamentos da universidade no que se refere à avaliação de ensino
+
+e de aprendizagem, os estudantes de Jornalismo da FACOM serão avaliados, portanto, em suas
+
+habilidades de compreensão e articulação de conceitos e teorias relacionadas ao campo; em sua
+
+formação ético-política enquanto cidadão e futuro jornalista; na compreensão de seu papel relevante
+
+na contemporaneidade; bem como em suas competências de experimentação e domínio das linguagens
+
+jornalísticas.
+
+5.6.1 Acessibilidade
+
+As ações de acessibilidade na relação ensino-aprendizagem na Faculdade de Comunicação
+
+contam, para a sua operacionalização, com a assessoria e acompanhamento do Núcleo de Apoio à
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+34
+
+Inclusão do Aluno com Necessidades Educacionais Especiais (NAPE). Criado através da Portaria nº
+
+74, de 26 março de 2008 e vinculado à Pró-Reitoria de Ações Afirmativas e Assistência Estudantil
+
+(PROAE), o NAPE tem a missão de contribuir para a eliminação de barreiras atitudinais,
+
+arquitetônicas, comunicacionais, tecnológicas, didáticas e culturais, com vistas à inclusão da pessoa
+
+com deficiência na Universidade Federal da Bahia26.
+
+Deste modo, busca-se instituir, em parceria com o NAPE, um atendimento educacional
+
+especializado, assim como os demais serviços e adaptações razoáveis, para atender às características
+
+dos estudantes com deficiência e garantir o seu pleno acesso ao currículo em condições de igualdade,
+
+promovendo a conquista e o exercício de sua autonomia, em conformidade como o que estabelece o
+
+Estatuto da Pessoa com Deficiência (Lei nº 13.146/201550)27.
+
+A Faculdade de Comunicação sempre buscou eliminar as barreiras arquitetônicas com a
+
+instalação de rampas para acesso ao prédio e ao auditório, instalação de elevadores em 2021 (após
+
+décadas de reivindicação), criação de sala no térreo para mitigar o problema da acessibilidade.
+
+Adicionalmente, há um projeto para a complementação da sinalização em braile das salas e dos espaços
+
+da Unidade, assim como a adequação dos entornos e de equipamentos de acordo com as normas de
+
+acessibilidade.
+
+A comunidade da FACOM, discentes, docentes, corpo técnico-administrativo e terceirizados,
+
+tem grande engajamento e compromisso com a causa da acessibilidade e inclusão – compreendidas no
+
+seu sentido mais amplo – para se assegurar a participação nas atividades de ensino, extensão e pesquisa
+
+oferecidas pela Unidade.
+
+\6. ESTRUTURA CURRICULAR DO CURSO - COMPONENTES CURRICULARES 6.1 Proposta de formação
+
+Em consonância com os princípios de “flexibilidade, autonomia, articulação e atualização”, no
+
+que se refere à organização curricular, definidos no Regimento da UFBA, e também à luz das Diretrizes
+
+Curriculares Nacionais para o Curso de Graduação em Jornalismo – especificamente em seu Art. 6º
+
+que dispõe sobre os eixos de formação –, a presente proposta do Curso de Jornalismo da
+
+FACOM/UFBA toma como base as práticas profissionais e os processos de produção, distribuição,
+
+circulação e recirculação dos conteúdos bem como as redes de interações sociotécnicas em ambiência
+
+26 Há uma série de leis e decretos que regulamentam esse atendimento: http://www.napeacessivel.ufba.br/content/legisla%C3%A7%C3%A3o 27 http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+35
+
+digital, aliada a reflexões profundas sobre questões éticas, estéticas e técnicas que envolvem o fazer
+
+jornalístico.
+
+O Eixo de Formação Humanística e Contextual é constituído pelos componentes
+
+curriculares “Teorias da Comunicação”, “Comunicação, Meios e Linguagens”, “Estética da
+
+Comunicação”, “Comunicação e Tecnologia”, “Comunicação e Ética”, “Comunicação e Política” e
+
+“Comunicação e Cultura Contemporânea”.  Estas disciplinas visam atender tanto ao Eixo I quanto ao
+
+Eixo III mencionados no Art. 6º das Diretrizes Curriculares Nacionais para o curso de graduação em
+
+Jornalismo e que tem como objetivos fundamentar o escopo teórico do campo, bem como suas
+
+dimensões filosóficas, políticas, socioculturais de forma a capacitar o futuro jornalista para exercer sua
+
+função intelectual de produtor e difusor de informações e conhecimentos.
+
+O Eixo de Fundamentação Específica e Profissional compõe-se de um conjunto de
+
+componentes curriculares com função de “proporcionar ao jornalista clareza conceitual e visão crítica
+
+sobre a especificidade de sua profissão”, assim como familiarizar os estudantes com “processos de
+
+gestão, produção, métodos e técnicas de apuração, redação e edição jornalística” (DIRETRIZES
+
+CURRICULARES, 2013). Este eixo atende os Eixo II e IV, mencionados no Art. 6º das Diretrizes
+
+Curriculares, e é composto pelas disciplinas obrigatórias “História do Jornalismo”, “Teorias do
+
+Jornalismo”, “Gestão de práticas e processos jornalísticos” e “Jornalismo Especializado”.
+
+O diálogo entre os componentes curriculares “Introdução às práticas Jornalísticas”,
+
+“Introdução ao Texto Jornalístico” e “Jornalismo Integrado I”, “Jornalismo Integrado II”, “Jornalismo
+
+Integrado III”, “Jornalismo Integrado IV”, “Jornalismo Integrado V”, “Jornalismo Integrado VI”
+
+constitui o Eixo de Aplicação Processual e Prática Laboratorial. Trata-se de uma estratégia
+
+metodológica e pedagógica baseada na lógica comunicacional que delineia o ecossistema midiático
+
+contemporâneo, que integra a comunicação multiplataforma e a mobilidade como aspectos essenciais
+
+de sua configuração. A integração dos processos e da produção, destacada aqui como estratégia central,
+
+reflete o cenário de reestruturação das redações jornalísticas não apenas do Brasil como do mundo, e
+
+busca, desse modo, oferecer práticas pedagógicas em consonância com a realidade contemporânea do
+
+mercado de trabalho e do modelo de negócio do Jornalismo atual.
+
+A proposta considerada pela Faculdade de Comunicação da UFBA para o Curso de Jornalismo
+
+expressa a compreensão de integração dos componentes curriculares do eixo de formação profissional
+
+como uma estratégia de inovação do desenvolvimento das práticas do Jornalismo, em torno de um
+
+contexto de produção, relacionado às condições tecnológicas e sociais (DOMINGO, 2008), as quais
+
+têm interferência sobre os dispositivos e a cultura profissional. O conjunto formado pelas disciplinas
+
+denominadas Jornalismo Integrado I, II, III, IV, V e VI, oferecidas por 6 semestres, permitirá aos
+
+docentes ministrar os conteúdos dos componentes curriculares atualmente oferecidos pelo curso de
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+36
+
+Comunicação com habilitação em Jornalismo. Ele substitui as disciplinas: COM 123 (Oficina de
+
+Jornalismo Impresso), COM 124 (Oficina de Radiojornalismo), COM 125 (Oficina de
+
+Telejornalismo), COM 126 (Oficina de Jornalismo Digital) e COM 127 (Assessoria de Comunicação).
+
+A base da proposta é a aplicação de estratégia metodológica com foco na convergência jornalística de
+
+conteúdos e na produção e divulgação em veículos laboratoriais multiplataformas.
+
+A integração entre as práticas, que antes estavam subdivididas em linguagens de meios
+
+específicos, classificados como “velhos meios”, favorece a formação abrangente dos estudantes e está
+
+mais condizente com o atual ambiente ecológico dos meios de comunicação. Esta integração mantém
+
+a noção de diferença entre as linguagens ao mesmo tempo em que valoriza a noção de multiplataforma.
+
+Trata-se de uma característica perceptível na atuação de diversas organizações jornalísticas,
+
+principalmente, naquelas cuja presença digital está relacionada ao modelo de plataformas web. As
+
+disciplinas do eixo de Aplicação Processual e Prática Laboratorial serão ministradas, principalmente,
+
+pelos professores que atuam nas Oficinas do atual currículo de Comunicação com Habilitação em
+
+Jornalismo. Cada componente tem uma carga horária de 120 horas/aula por semestre. Além disso, os
+
+conteúdos de disciplinas como Fotojornalismo e Design Editorial foram incorporados às disciplinas de
+
+Jornalismo Integrado para permitir o desenvolvimento das atividades voltadas para a produção dos
+
+produtos jornalísticos.
+
+O ensino das práticas será realizado sucessivamente e de forma separada por meio dos
+
+componentes com a designação de: Jornalismo Integrado (I a VI). As disciplinas transitam de um
+
+caráter introdutório sobre as práticas do Jornalismo – com ementas que estabelecem que o conteúdo
+
+deva incluir as técnicas de seleção (apuração), produção (pauta), realização (entrevista, reportagem e
+
+redação) e edição da informação, por meio das diferentes formas para divulgar a notícia – para
+
+processos e produtos que demandam maior aprofundamento e complexidade, enfocando ainda mais na
+
+produção multimídia, considerando os diversos formatos de conteúdos, os aspectos de gerenciamento
+
+e coordenação editorial, e enfrentando o desafio constante da inovação quanto ao uso de tecnologias,
+
+softwares, bases de dados, algoritmos, linguagens de programação e de publicação, sistemas de
+
+gerenciamento de informações, técnicas de visualização, metadados semânticos, etc.
+
+Por fim, além do conjunto de componentes curriculares que compõe a estrutura curricular do
+
+Curso de Jornalismo, o Laboratório de Fotografia (Labfoto), o Laboratório de Audiovisual (LabAV),
+
+o Laboratório de Rádio, o Programa de Educação Tutorial da Faculdade de Comunicação (PETCOM),
+
+a Agência Experimental em Comunicação e Cultura (AECC), a Agência de Notícias em CT&I, a
+
+Agenda Arte e Cultura e a Produtora Júnior também oferecem experiências práticas variadas para a
+
+formação do futuro jornalista.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+37
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+38
+
+6.2 Matriz Curricular28
+
+A sequência de componentes por semestre, representada abaixo, corresponde a uma sugestão
+
+de percurso curricular do estudante e serve de base para o planejamento acadêmico na definição da
+
+oferta semestral.
+
+1º semestre
+
+2º semestre 3º semestre 4º semestre 5º semestre 6º semestre 7º semestre 8º semestre
+
+COM101 Teorias da Comunicação
+
+60h
+
+COMB52 Comunicação,
+
+Meios e Linguagens
+
+60h
+
+COM103 Estética da Comunicação
+
+60h
+
+COM104 Comunicação
+
+e Tecnologia
+
+60h
+
+COM105 Comunicação
+
+e Política
+
+60h
+
+COM106 Comunicação e
+
+Cultura Contemporânea
+
+60h
+
+COMB79 Introdução às
+
+práticas Jornalísticas
+
+60h
+
+COM115 Comunicação
+
+e Ética
+
+60h
+
+COMB91
+
+TCC JOR I
+
+60h
+
+COMB92
+
+TCC JOR II
+
+60h
+
+COMB93
+
+TCC JOR
+
+III 360h
+
+COMB80 Introdução
+
+ao texto Jornalístico
+
+60h
+
+COMB81 Jornalismo Integrado I
+
+120h
+
+COMB82 Jornalismo Integrado II
+
+120h
+
+COMB83 Jornalismo Integrado III
+
+120h
+
+COMB84 Jornalismo Integrado IV
+
+120h
+
+COMB85 Jornalismo Integrado V
+
+120h
+
+COMB86 Jornalismo Integrado VI
+
+120h
+
+COMB88 História do Jornalismo
+
+60h
+
+COM121 Teorias do Jornalismo
+
+60h
+
+COMB89 Gestão de
+
+práticas e processos jornalísticos
+
+60h
+
+COMB90 Jornalismo Especializado
+
+60h
+
+COMB87
+
+Estágio Supervisionado
+
+em Jornalismo
+
+240h
+
+Optativa
+
+60h
+
+Componente
+
+Livre
+
+60h
+
+Optativa
+
+60h
+
+Componente
+
+Livre
+
+60h
+
+Optativa
+
+60h
+
+Componente
+
+Livre
+
+60h
+
+Componente
+
+Livre
+
+60h
+
+300 horas
+
+300 horas 300 horas 300 horas 300 horas 300 horas 480 horas
+
+360 horas
+
+Integralização curricular
+
+Disciplinas Obrigatórias: 2.220 horas
+
+28 De acordo com as Diretrizes Curriculares Nacionais (2013): Art. 10. A carga horária total do curso deve ser de, no mínimo, 3.000 (três mil) horas, sendo que, de acordo com a Resolução CNE/CES nº 2/2007, o estágio curricular supervisionado e as atividades complementares não poderão exceder a 20% (vinte por cento) da carga horária total do curso. Parágrafo único. A carga horária mínima destinada ao estágio curricular supervisionado deve ser de 200 (duzentas) horas.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+39
+
+Disciplinas Optativas: 180 horas
+
+Componentes Livres: 240 horas29
+
+Atividades Complementares: 360 horas
+
+Carga Horária Total: 3.000 horas
+
+EIXO DE FORMAÇÃO HUMANÍSTICA E CONTEXTUAL COMPONENTES OBRIGATÓRIOS COM101 – TEORIAS DA COMUNICAÇÃO COMB52 – COMUNICAÇÃO, MEIOS E LINGUAGENS COM103 – ESTÉTICA DA COMUNICAÇÃO COM104 – COMUNICAÇÃO E TECNOLOGIA COM105 – COMUNICAÇÃO E POLÍTICA COM106 – COMUNICAÇÃO E CULTURA CONTEMPORÂNEA COM115 – COMUNICAÇÃO E ÉTICA EIXO DE APLICAÇÃO PROCESSUAL E PRÁTICA LABORATORIAL COMPONENTES OBRIGATÓRIOS30 COMB79 – INTRODUÇÃO ÀS PRÁTICAS JORNALÍSTICAS COMB80 – INTRODUÇÃO AO TEXTO JORNALÍSTICO COMB81 – JORNALISMO INTEGRADO I COMB82 – JORNALISMO INTEGRADO II COMB83 – JORNALISMO INTEGRADO III COMB84 – JORNALISMO INTEGRADO IV COMB85 – JORNALISMO INTEGRADO V COMB86 – JORNALISMO INTEGRADO VI COMB87 – ESTÁGIO SUPERVISIONADO EM JORNALISMO EIXO DE FUNDAMENTAÇÃO ESPECÍFICA E PROFISSIONAL COMPONENTES OBRIGATÓRIOS COMB88 – HISTÓRIA DO JORNALISMO COM121 – TEORIAS DO JORNALISMO COMB89 – GESTÃO DE PRÁTICAS E PROCESSOS JORNALÍSTICOS COMB90 – JORNALISMO ESPECIALIZADO EIXO DO TRABALHO DE CONCLUSÃO DE CURSO COMPONENTES OBRIGATÓRIOS COMB91 – TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO I COMB92 – TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO II COMB93 – TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO III
+
+29 Segundo a Resolução nº 02, de 1 de julho de 2008 (CONSEPE), que estabelece definições, princípios, modalidades, critérios e padrões para a organização dos Cursos de Graduação da UFBA, permite-se que até 15% da carga horária total do curso seja cumprida cursando-se componentes curriculares livres. 30 Os componentes curriculares que compõem este eixo e também o eixo de Fundamentação Específica e Profissional foram criados para esta grade e constam no Anexo I.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+40
+
+DISCIPLINAS OPTATIVAS E COMPONENTES LIVRES
+
+Abaixo mantemos a listagem das optativas e obrigatórias que são ofertadas pelo Departamento
+
+de Comunicação, já registradas na SUPAC, e que poderão ser cursadas como optativas ou componentes
+
+livres no curso de graduação em Jornalismo:
+
+● COM300 – Comunicação e Sociedade
+
+● COM301 – Oficina de Jornalismo Impresso II
+
+● COM302 – Oficina de Radiojornalismo Impresso II
+
+● COM303 – Oficina de Telejornalismo Impresso II
+
+● COM304 – Gêneros Jornalísticos
+
+● COM305 – Jornalismo e Sociedade
+
+● COM306 – Oficina de Planejamento em Administração e Jornalismo
+
+● COM307 – Temas Especiais em Comunicação e Sociedade
+
+● COM308 – Comunicação e Contemporaneidade
+
+● COM309 – Comunicação e Comunidade
+
+● COM310 – Comunicação e Sociabilidade
+
+● COM311 – Comunicação e História
+
+● COM312 – Comunicação e Economia
+
+● COM313 – Comunicação e Poder
+
+● COM314 – Comunicação e Filosofia
+
+● COM315 – Comunicação e Arte
+
+● COM316 – Teorias da Imagem
+
+● COM317 – Comunicação Estratégica
+
+● COM318 – Legislação da Comunicação
+
+● COM319 – Teorias Especiais em Comunicação
+
+● COM320 – Prática de Pesquisa em Comunicação
+
+● COM321 – Estudo de Produtos Comunicacionais
+
+● COM322 – Temas Especiais em Semiótica
+
+● COM323 – Narrativas Audiovisuais
+
+● COM324 – Cinema e História
+
+● COM325 – Temas Especiais em Cinema
+
+● COM326 – Argumento e Roteiro
+
+● COM327 – Edição e Montagem
+
+● COM328 – Direção
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+41
+
+● COM329 – Iniciação a Fotografia
+
+● COM330 – Oficina de Fotografia
+
+● COM331 – Editoração
+
+● COM332 – Indústria Editorial
+
+● COM333 – Computação Gráfica
+
+● COM334 – Comunicação Multimídia
+
+● COM335 – Oficina de Publicidade e Propaganda
+
+● COM336 – Temas Especiais em Rádio
+
+● COM337 – Temas Especiais em Televisão
+
+● COM338 – Televisão Brasileira
+
+● COM339 – Introdução ao Vídeo
+
+● COM340 – Oficina de Vídeo
+
+● COM341 – Temas Especiais em Publicidade e Propaganda
+
+● COM342 – Análise em Publicidade e Propaganda
+
+● COM343 – Temas Especiais em Teorias do Jornalismo
+
+● COM344 – Temas Especiais em Jornalismo
+
+● COM345 – Temas Especiais em Jornalismo Impresso
+
+● COM346 – Temas Especiais em Planejamento Gráfico em Jornalismo
+
+● COM347 – Temas Especiais em Fotojornalismo
+
+● COM348 – Temas Especiais em Radiojornalismo
+
+● COM349 – Temas Especiais em Telejornalismo
+
+● COM350 – Oficina de Produção em Comunicação
+
+● COM351 – Política da Comunicação
+
+● COM352 – Seminários de Atualização em Comunicação
+
+● COM353 – Quadrinhos
+
+● COM354 – Cinema Internacional
+
+● COM355 – Cinema Brasileiro
+
+● COM356 – Crítica Cinematográfica
+
+● COM357 – Programação Visual
+
+● COM358 – Estudo Orientado da Comunicação
+
+● COM359 – Assessoria de Imprensa
+
+● COM360 – Administração Organizacional Jornalística
+
+● COM361 – Estudo Orientado em Jornalismo
+
+● COM362 – Agência de Notícias
+
+● COM363 – Jornalismos Especializados
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+42
+
+● COM364 – Comunicação e Informática
+
+● COM365 – Comunicação e Cultura
+
+● COM366 – Linguagens da Comunicação
+
+● COM367 – Assessoria de Comunicação
+
+● COM368 – Linguagem Cinematográfica
+
+● COM369 – Oficina de Jornalismo Digital II
+
+● COMA84 – Oficina de Planejamento e Produção de Filmes
+
+● COMA85 – Oficina de Processos Tecnológicos do Cinema e Áudio
+
+● COMA86 – Teorias do Cinema
+
+● COMA87 – História do Cinema I
+
+●  COMA89 – Estudos da Dramaturgia
+
+● COMA90 – Oficina de Realização de Filmes e Produtos Audiovisuais
+
+● COMA91 – Elementos de Som: cinema e audiovisual
+
+● COMA92 – Poéticas do Cinema e do Audiovisual
+
+● COMA93 – História do Cinema I
+
+● COMA94 – Análise Fílmica
+
+● COMA95 – Teorias do Cinema Latino Americano
+
+● COMA96 – Cinema e Literatura
+
+● COMA97 – Estudos do Cinema Contemporâneo
+
+● COMA98 – Teoria e Prática do Documentário
+
+● COMA99 – Teorias do Gênero Cinematográfico
+
+● COMB01 – História e Estética do Som no Cinema
+
+● COMB56 – Teorias da Cultura
+
+● COMB57 – Políticas Culturais
+
+● COMB58 – Economia da Cultura
+
+● COMB59 – Ética e Direitos Culturais
+
+● COMB60 – Oficina de Análise de Públicos e Práticas Culturais
+
+● COMB61 – Produção e Circulação de Conteúdos em Mídias Digitais
+
+● COMB62 – Comunicação Visual
+
+● COMB63 – Oficina de Comunicação Estratégica
+
+● COMB64 – Oficina de Elaboração e Planejamento de Projetos em Cultura
+
+● COMB65 – Oficina de Produção em Cultura
+
+● COMB66 – Oficina de Gestão em Cultura
+
+● COMB67 – Cultura e Marketing
+
+● COMB68 – Cultura, Identidade e Cidade
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+43
+
+● COMB69 – História da Produção Cultural
+
+● COMB70 – Produção Audiovisual
+
+● COMB71 – Seminários Temáticos em Produção Cultural
+
+● COMB72 – Comunicação e Atualidade I - Brasil
+
+● COMB73 – Comunicação e Atualidade II - Bahia
+
+● COMB74 – Ética e Comunicação
+
+● COMB75 – Audiovisual, Cultura e Identidades
+
+● COMB76 – Comunicação Digital e Multimodalidade
+
+● COMB77 – Mediatização, Discurso e Mudança Social
+
+● COMB78 – Seminários de Atualização em Jornalismo
+
+● COMB94 – Tecnologia Digital, Gênero, Raça31
+
+● COMB95 – Jornalismo e Direitos Humanos32
+
+Em seguida, uma listagem das disciplinas optativas a serem ofertadas por outros
+
+Departamentos da Universidade ao curso de Jornalismo. Vale ressaltar a oferta, pelo Instituto de Letras,
+
+da disciplina LETE48 – Libras I – Língua Brasileira de Sinais Nível I, cumprindo o decreto de número
+
+5.626/2005.
+
+● FCH317 Etnologia do Brasil
+
+● FCH315 Antropologia das Sociedades Indígenas
+
+● FCH310 Etnias e culturas africanas
+
+● FCH309 Antropologia do Negro no Brasil
+
+● FCH189 História da Bahia I
+
+● FCH004 Lógica I
+
+● FCHG06 História Indígena e do Indigenismo
+
+● LETB96 Criação Literária
+
+● LETB94 Ético e o Estético na Escrita Literária
+
+● LETB95 O Escritor e seus Múltiplos
+
+● LETA28 Introdução à Análise Textual
+
+● LETC28 Gêneros Textuais em Língua Portuguesa
+
+● LETC29 Estrutura Argumental
+
+● MATF52 Introdução à Mineração de Dados
+
+● ICSB28 Voz profissional
+
+31 Novo componente curricular a ser criado pelo Departamento de Comunicação (encontra-se no anexo I). 32 Novo componente curricular a ser criado pelo Departamento de Comunicação (encontra-se no anexo I).
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+44
+
+Os componentes curriculares obrigatórios e optativos criados ou alteradas pelo Departamento
+
+de Comunicação estão elencados no ANEXO I.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027.
+
+Proposta de Fluxograma do Curso de Jornalismo
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+46
+
+Fluxograma do Curso de Comunicação Social – habilitação em Jornalismo (anterior)
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027.
+
+6.3 Estágio em Jornalismo
+
+O presente Projeto Pedagógico do Curso de Jornalismo da UFBA prevê duas modalidades de
+
+estágio: Estágio Curricular Supervisionado Obrigatório – descrito como componente curricular
+
+obrigatório, cuja carga horária é requisito para aprovação e obtenção de diploma; e Estágio Curricular
+
+Não Obrigatório – descrito como atividade opcional por parte do estudante.
+
+O Estágio Supervisionado em Jornalismo é componente obrigatório do currículo do Curso de
+
+Jornalismo da FACOM/UFBA e seguirá as instruções da Lei Federal de Estágio nº 11788 de
+
+25/09/2008, que dispões sobre estágio de estudantes, e das Diretrizes Curriculares Nacionais (1/2013).
+
+Seu objetivo é consolidar práticas de desempenho profissional inerentes ao perfil do formando. Trata-
+
+se de uma atividade curricular proposta para ser realizada pelo estudante a partir do 7o semestre por
+
+meio da disciplina “Estágio Supervisionado”, com carga horária de 240 horas,  na qual o estudante
+
+deverá comprovar o cumprimento de uma carga horária mínima de 200 horas em estágio na sua área
+
+de formação, em respeito às exigências do Artigo 12 das Diretrizes Curriculares Nacionais para o curso
+
+de graduação em Jornalismo.
+
+As atividades do estágio curricular supervisionado em Jornalismo poderão ser realizadas em
+
+instituições públicas, privadas ou do terceiro setor ou na própria Universidade, em veículos autônomos
+
+ou assessorias profissionais, cabendo aos professores, profissionais e responsáveis pelo
+
+acompanhamento e supervisão do estágio curricular a avaliação e aprovação do relatório final,
+
+resguardando o padrão de qualidade nos domínios indispensáveis ao exercício da profissão.
+
+É vedado convalidar como estágio curricular supervisionado os trabalhos laboratoriais feitos
+
+durante o curso, bem como a prestação de serviços que não seja compatível com as funções
+
+profissionais do jornalista; que caracterize a substituição indevida de profissional formado ou, ainda,
+
+que seja realizado em ambiente de trabalho sem a presença e o acompanhamento de jornalistas
+
+profissionais, tampouco sem a necessária supervisão docente.
+
+O estágio curricular não-obrigatório seguirá regulamentação própria aprovada pelo colegiado
+
+e tem como base as instruções da Lei Federal de Estágio nº 11788 de 25/09/2008, que dispõe sobre
+
+estágio de estudantes.
+
+O estágio curricular (obrigatório e não obrigatório) possibilita o desenvolvimento prático do
+
+que foi aprendido em sala de aula. Trata-se de um dos mecanismos que estabelece a relação entre o
+
+ensino teórico-prático e o mercado de trabalho na área de formação escolhida, propiciando a
+
+complementação da formação do estudante, além de permitir que os discentes experimentem o
+
+cotidiano das redações e práticas jornalísticas.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+48
+
+A prática de Estágio Curricular no Curso de Jornalismo tem regulamento próprio, aprovado
+
+pelo colegiado, e indica os critérios, procedimentos e mecanismos de avaliação, observando a
+
+legislação federal e as recomendações das entidades profissionais do jornalismo. (ANEXO 2)
+
+6.4 Atividades Complementares
+
+As atividades complementares são componentes curriculares obrigatórios cujo objetivo é dar
+
+flexibilidade ao currículo, possibilitando o reconhecimento – por avaliação – de habilidades,
+
+conhecimentos e competências do estudante, dentre elas aquelas adquiridas fora do ambiente de ensino.
+
+As atividades complementares constituem componentes curriculares úteis para o perfil do formando e
+
+devem ser selecionadas e realizadas pelo discente ao longo de seu curso de graduação, de acordo com
+
+seu interesse, sob a supervisão, orientação e avaliação de docentes do próprio curso e com a aprovação
+
+do Colegiado de Graduação.
+
+Os mecanismos e critérios para avaliação das atividades complementares estão definidos em
+
+regulamento próprio, com um sistema de computação de horas para efeito de integralização do total da
+
+carga horária de 360 horas prevista para o curso, não podendo ser confundidas com estágio curricular
+
+supervisionado ou com Trabalho de Conclusão de Curso, e garantindo o cumprimento de no mínimo
+
+60 horas de participação em ações e projetos de extensão. (ANEXO 3)
+
+6.5 Trabalho de conclusão de curso – TCC
+
+O Trabalho de Conclusão de Curso (TCC) tornou-se obrigatório para a conclusão dos cursos
+
+de Comunicação pelo Ministério da Educação em 1988 e, desde 1989, foi implantado na
+
+FACOM/UFBA. Uma nova versão do Regulamento do Trabalho de Conclusão de Curso (TCC) foi
+
+desenvolvida para compor o projeto pedagógico do Curso de Jornalismo. Alinhado a este Projeto
+
+Pedagógico, o TCC deve ser desenvolvido em três etapas (6º, 7º e 8º semestres) e estão previstas duas
+
+modalidades: uma monografia que apresente investigação teórico-metodológica de cunho científico de
+
+tema relacionado à produção jornalística; ou a concepção, o planejamento e a execução de um projeto
+
+de produto que trate das temáticas que envolvem o campo da Comunicação e do Jornalismo,
+
+acompanhado, necessariamente, por relatório ou memorial que contenha uma reflexão crítica sobre sua
+
+execução, de forma a reunir e consolidar a experiência do estudante com os diversos conteúdos
+
+apresentados no Curso.
+
+Para a obtenção do Grau de Bacharel em Jornalismo, o estudante deverá ser aprovado na
+
+disciplina Trabalho de Conclusão de Curso em Jornalismo (360h), em avaliação perante Comissão
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+49
+
+Examinadora (Banca) – além de ter sido aprovado em todas as outras disciplinas e atividades
+
+complementares constantes do currículo do Curso. (ANEXO 4)
+
+7 RELAÇÃO COM A EXTENSÃO, PESQUISA E PÓS-GRADUAÇÃO
+
+O currículo do Curso de Jornalismo da FACOM/UFBA incorpora procedimentos pedagógicos
+
+e metodológicos do ensino em sala de aula, em oficinas, em laboratórios, além de estudos orientados,
+
+seminários, palestras, entre outros, reconhecendo como parte constitutiva do currículo as atividades de
+
+extensão e de pesquisa. Deste modo, o estudante universitário poderá vivenciar efetivamente a
+
+indissociabilidade entre o ensino, a pesquisa e a extensão em seu cotidiano.
+
+A grade curricular foi pensada de modo que as disciplinas que compõem o eixo de
+
+fundamentação humanística e contextual, pelo seu caráter reflexivo em torno das questões que
+
+envolvem os campos da Comunicação e do Jornalismo, possam ser espaços de pesquisa, seja pelo
+
+compartilhamento e divulgação do que os docentes têm debatido em seus grupos ou centros de
+
+pesquisas, seja pelo estímulo à prática da pesquisa no dia a dia da disciplina. Enquanto que os
+
+componentes curriculares que fazem parte do eixo de aplicação processual e prática laboratorial, em
+
+especial as disciplinas de Jornalismo Integrado (I a VI), foram idealizados para articular ensino e
+
+extensão, possibilitando aos estudantes uma aproximação maior com práticas extensionistas. Os
+
+projetos jornalísticos desenvolvidos como produto final das disciplinas, em cada semestre, irão
+
+possibilitar o contato do estudante com a comunidade, por meio do público leitor/audiência atendido/a
+
+pelo projeto e, também, com as fontes de informação.
+
+A relação observada entre a graduação e a pós-graduação na Faculdade de Comunicação
+
+reforça a qualidade acadêmica da Unidade e a sua referencialidade para a formação de recursos
+
+humanos. Os docentes do Programa de Pós-Graduação em Comunicação e Cultura Contemporâneas
+
+(PósCom) – que são, em sua maioria docentes da FACOM lotados no Departamento de Comunicação
+
+\- e aqueles que integram o Programa de Pós-Graduação Multidisciplinar em Cultura e Sociedade (Pós-
+
+Cultura/IHAC) têm uma relação estreita com a vida acadêmica da Graduação da Faculdade de
+
+Comunicação. Tal postura é observada nas atividades que associam o ensino, a pesquisa e a
+
+qualificação profissional dos estudantes de graduação e dos egressos dessa área profissional. Todos os
+
+professores permanentes do PósCom ministram disciplinas na Graduação da Unidade e, desta forma,
+
+tanto as disciplinas obrigatórias como as optativas acabam por se converter em espaço de divulgação,
+
+interlocução e discussão das pesquisas em andamento. Essa prática passou a ser o principal meio de
+
+inserção dos bolsistas de Iniciação Científica (IC) em atividade nos Grupos de Pesquisa, seja através
+
+do PIBIC, IC ou como voluntário.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+50
+
+Tanto o PósCom como o Pós-Cultura (IHAC) têm prosseguido com os princípios que têm
+
+orientado as atividades de pesquisa e formação dos professores pesquisadores da FACOM com grande
+
+ênfase na atuação dos Grupos de Pesquisa (GPs). Os Grupos são um produtivo ambiente de trabalho
+
+que amplia a capacidade de agregar e articular, por afinidades teóricas e metodológicas, docentes e
+
+discentes. Participam das reuniões periódicas dos GPs todos os docentes, doutorandos e mestrandos a
+
+eles vinculados, além de bolsistas de Iniciação Científica e estudantes da graduação em geral,
+
+principalmente aqueles que estão nos semestres de elaboração e/ou realização do Trabalho de
+
+Conclusão de Curso (TCC). Como resultado direto desta ação temos uma produção bibliográfica
+
+qualificada publicada em periódicos de referência, capítulos de livros e livros autorais.
+
+Além disso, os Tirocínios Docentes têm sido de valor fundamental para fomentar a articulação
+
+entre graduandos, doutorandos e mestrandos. A atividade envolve discentes do Programa stricto sensu
+
+de Pós-Graduação em Comunicação e Cultura Contemporâneas da Faculdade de Comunicação e
+
+também aqueles que estão credenciados no Pós-Cultura (IHAC) nos componentes curriculares da
+
+Graduação, sejam eles ministrados pelos orientadores respectivos, assim como demais professores do
+
+corpo docente do Departamento de Comunicação. Observa-se também um grande interesse dos
+
+graduados em Comunicação pela Especialização lato sensu em Comunicação Estratégica e Gestão de
+
+Marcas, tanto no que diz respeito aos recém-graduados como aqueles egressos há mais tempo.
+
+No que se refere à Extensão, vale destacar a importância do Programa de Educação Tutorial
+
+da Faculdade de Comunicação (PETCOM), da Produtora Júnior (Empresa Júnior de Comunicação e
+
+Produção Cultural), da Agência Experimental em Comunicação e Cultura, da Agência de Notícias em
+
+CT&I, da Agenda Arte e Cultura da UFBA, do Centro de Comunicação, Democracia e Cidadania e da
+
+Plataforma de Financiamento Colaborativo – Rede Logos, como as principais instâncias (para além da
+
+sala de aula) que congregam estudantes para a realização de atividades extensionistas. Além disso, os
+
+professores do Departamento de Comunicação propõem com frequência atividades de extensão,
+
+permanentes ou eventuais, tais como cursos, palestras, seminários, dentre outros, relacionados com as
+
+atividades de pesquisa e de ensino da Unidade.
+
+A Faculdade de Comunicação conta também com o Núcleo de Comunicação e Extensão
+
+(NCE), instância consultiva e de assessoramento aos projetos de extensão desenvolvidos na Unidade,
+
+responsável por planejar e sistematizar tais atividades. Atuando como Núcleo de Extensão, propõe e
+
+oferece suporte às atividades extensionistas relacionadas à área de comunicação para a comunidade da
+
+UFBA e para a comunidade externa; realiza estudos sobre novas ações extensionistas a serem
+
+implementadas e estimula que docentes, discentes e técnicos-administrativos busquem parcerias com
+
+empresas, organizações governamentais e não-governamentais para a realização dos projetos. Além
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+51
+
+disso, o núcleo se constitui enquanto instrumento para promoção e divulgação dos trabalhos científicos
+
+e culturais, projetos, cursos e eventos produzidos pela faculdade.
+
+Por fim, em atendimento à meta 54 do Plano Nacional de Educação (PNE), à Resolução
+
+CNE/CES nº 7, de 18 de dezembro de 2018 e à Resolução CONSEP/UFBA 02/2022, de assegurar, no
+
+mínimo, 10% do total de créditos curriculares exigidos para a graduação em programas e projetos de
+
+extensão universitária, serão consideradas as disciplinas obrigatórias de Introdução às Práticas
+
+Jornalísticas, Introdução ao Texto Jornalístico, Jornalismo Integrado (I a VI), Gestão de Práticas e
+
+Processos Jornalísticos e Jornalismo Especializado, bem como as Atividades Complementares, como
+
+espaços de prática extensionista curricular obrigatória, com as horas assim equacionadas:
+
+Componente Curricular Carga horária de extensão
+
+Introdução às Práticas Jornalísticas 15h
+
+Introdução ao Texto Jornalístico 15h
+
+Jornalismo Integrado I 30h
+
+Jornalismo Integrado II 30h
+
+Jornalismo Integrado III 30h
+
+Jornalismo Integrado IV 30h
+
+Jornalismo Integrado V 30h
+
+Jornalismo Integrado VI 30h
+
+Gestão de Práticas e Processos Jornalísticos 15h
+
+Jornalismo Especializado 15h
+
+Atividades Complementares 60h
+
+Total (10% carga horária do curso) 300 h
+
+8 CORPO DOCENTE E TÉCNICO ATUANTE NO CURSO
+
+O Departamento de Comunicação tem como missão atuar em todas as atividades fins, que
+
+incluem o ensino, a pesquisa e a extensão. Neste sentido, os docentes do Departamento têm as suas
+
+atividades centradas em ministrar disciplinas na graduação e na pós-graduação, orientar pesquisas de
+
+Iniciação Científica, Mestrado e Doutorado, coordenar e executar atividades e projetos de pesquisa
+
+com interesse científico e tecnológico para a Bahia e o País, além de exercer atividades de extensão
+
+junto à comunidade, particularmente o desenvolvimento de projetos técnicos, artísticos e científicos e
+
+de aprimoramento do ensino e do conhecimento.
+
+Quanto à titulação, a maioria do Corpo Docente da Faculdade de Comunicação da
+
+Universidade Federal da Bahia, possui doutorado, sendo que dois docentes são mestres; do total, 25
+
+professores são pós-doutores. O regime de trabalho é 40 Horas com Dedicação Exclusiva para a
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+52
+
+totalidade dos docentes atualmente lotados no Departamento de Comunicação. O corpo docente,
+
+conforme consta no Banco de Professor Equivalente (BPE) da Unidade é formado por 40 professores.
+
+Em 2021, 37 estavam ativos33, conforme consta na Tabela 1 a seguir, cujas informações estão
+
+reproduzidas a partir do site da PRODEP/UFBA. O número de docentes possibilita a implementação
+
+deste Projeto Pedagógico do Curso de Jornalismo da FACOM/UFBA.
+
+Tabela 1: Professores lotados no Departamento de Comunicação34
+
+Nome Classe Nível Regime Ingresso
+
+ADRIANO DE OLIVEIRA SAMPAIO ASO 3 DED.EXCL 05/01/2010
+
+ALEX SANTOS BARBOSA ADA 1 DED.EXCL 23/02/2022
+
+AMARANTA EMILIA CESAR DOS SANTOS ASO 3 DED.EXCL 08/12/2021
+
+ANDRE LUIZ MARTINS LEMOS TIT 1 DED.EXCL 24/02/1997
+
+CARLA DE ARAUJO RISSO ADJ 3 DED.EXCL 14/07/2014
+
+EDSON FERNANDO DALMONTE ASO 3 DED.EXCL 21/01/2010
+
+FABIO SADAO NAKAGAWA ASO 2 DED.EXCL 15/04/2011
+
+FERNANDO COSTA DA CONCEIÇÃO TIT 1 DED.EXCL 12/07/2002
+
+GIOVANDRO MARCUS FERREIRA TIT 1 DED.EXCL 06/12/2002
+
+GISELE MARCHIORI NUSSBAUMER ASO 4 DED.EXCL 15/10/2004
+
+GUILHERME MAIA DE JESUS ASO 1 DED.EXCL 11/10/2012
+
+IVANISE HILBIG DE ANDRADE ADJ 2 DED.EXCL 30/01/2019
+
+JAN ALYNE BARBOSA PRADO ASO 1 DED. EXCL 17/01/2020
+
+JOSE CARLOS MAMEDE Com exercício docente na EBA/UFBA desde 2016
+
+ASS 1 DED.EXCL 15/04/1999
+
+JOSE FRANCISCO SERAFIM ASO 1 DED.EXCL 01/04/2009
+
+JOSE ROBERTO SEVERINO ASO 2 DED.EXCL 13/01/2010
+
+JOSE UMBELINO DE SOUSA PINHEIRO BRASIL ASO 4 DED.EXCL 15/06/1985
+
+33 No início de 2021, a). as vagas geradas com as aposentadorias de Claudio Guimarães Cardoso e de Júlio César Lobo e com a redistribuição de Marcelo Monteiro Costa para a UFPE (outubro de 2020), ainda não foram preenchidas; e b) mantém-se vigente a mudança de exercício docente do Prof. José Carlos Mamede, o qual, desde 2016, está exercendo suas atividades na Escola de Belas Artes, mas esta vaga docente é computada no quadro da FACOM. 34 Pró-reitoria de Desenvolvimento de Pessoas: http://www.cgp.ufba.br/docentes.asp - OBS: Existem 03 vagas de aposentadoria a serem preenchidas em 2023.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+53
+
+JULIANA FREIRE GUTMANN ADJ 3 DED.EXCL 01/08/2014
+
+LEONARDO ABREU REIS ASO 1 DED.EXCL 05/03/2012
+
+LEONARDO FIGUEIREDO COSTA ASO 2 DED.EXCL 29/06/2011
+
+LEONOR GRACIELA NATANSOHN ASO 3 DED.EXCL 20/03/2006
+
+LIA DA FONSECA SEIXAS ASO 1 DED.EXCL 30/07/2010
+
+LIVIA DE SOUZA VIEIRA ADA 1 DED. EXCL 11/05/2020
+
+MARCELO RODRIGUES SOUZA RIBEIRO ADJ 2 DED.EXCL 12/05/2017
+
+MARCOS OLIVEIRA DE CARVALHO ADJ 2 DED.EXCL 11/04/2017
+
+MARIA CARMEN JACOB DE SOUZA TIT 1 DED.EXCL 01/10/2000
+
+MARIA LUCINEIDE ANDRADE FONTES ASO 2 DED.EXCL 16/08/2006
+
+MAURICIO NOGUEIRA TAVARES ASO 4 DED.EXCL 03/03/1980
+
+OHANA BOY OLIVEIRA ADA 1 DED.EXCL 09/08/2022
+
+REGINA LUCIA GOMES SOUZA E SILVA ASO 2 DED.EXCL 19/08/2010
+
+RENATA DE PAULA TRINDADE ROCHA DE SOUZA
+
+ADJ 2 DED.EXCL 17/03/2017
+
+RODRIGO ROSSONI ASO 2 DED.EXCL 20/05/2011
+
+SERGIO SOBREIRA ARAUJO ASO 2 DED.EXCL 03/08/2011
+
+SUZANA OLIVEIRA BARBOSA ASO 2 DED.EXCL 20/07/2010
+
+TARCISIO DE SA CARDOSO ADJ 2 DED.EXCL 20/04/2017
+
+WASHINGTON JOSE DE SOUZA FILHO ASO 2 DED.EXCL 11/01/1990
+
+WILSON DA SILVA GOMES TIT 1 DED.EXCL 14/10/1992
+
+8.1 Titulação (em números)
+
+Doutores 36
+
+Mestres 01
+
+Especialistas -
+
+Graduados -
+
+TOTAL 37
+
+8.2 Regime de trabalho (em números)
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+54
+
+Dedicação Exclusiva (TIDE) 37
+
+Tempo Integral (40 horas - DE)
+
+Tempo parcial
+
+TOTAL 37
+
+No que diz respeito ao corpo técnico-administrativo, o quadro é formado por um total de 21
+
+servidores, conforme detalhado abaixo. As servidoras e servidores do corpo técnico-administrativo da
+
+Unidade são, na quase totalidade, graduados, especialistas, e mestres e/ou mestrandos.
+
+Tabela 2: Servidores técnicos-administrativos lotados na Faculdade de
+
+Comunicação35
+
+Nome Cargo Regime Ingresso
+
+ABEL LEANDRO MARTINS DOS SANTOS
+
+Assis. Admin. 40 horas 19/12/2011
+
+ALINE LUISA DE ANDRADE LEAL Assis. Admin. 40 horas 04/11/2004
+
+BARBARA SUELY GUIMARAES CAMERA
+
+Secr. Exec. 40 horas 14/10/2008
+
+CARLOS EDUARDO OLIVEIRA DA SILVA
+
+Assis. Admin. 40 horas 03/05/2011
+
+CARLOS JOSE SANTOS ALVES Assis. Admin. 40 horas 20/11/1985
+
+CAROLINE DUMAS OLIVEIRA Assis. Admin. 40 horas 05/10/2012
+
+CLEISON AQUINO DOS SANTOS NEVES
+
+Assis. Admin. 40 horas 19/01/2009
+
+DAVIDE JUNIOR SOUSA DE ARAUJO Editor Imagens 40 horas 21/11/2011
+
+FATIMA MARGARETH DA SILVA ABREU
+
+Assis. Admin. 40 horas 11/03/1994
+
+GUIDO ANDRE SAMPAIO DE ARAUJO Prod. Cultural 40 horas 01/01/1981
+
+JESSICA CARVALHO DA SILVA Jornalista 25 horas 01/08/2018
+
+LUCIANA FERNANDES SOUZA Assis. Admin. 40 horas 06/04/1994
+
+35 Pró-reitoria de Desenvolvimento de Pessoas: http://www.cgp.ufba.br/tecnicos.asp
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+55
+
+LUIS CARLOS LIMA BATISTA Tec. Audiovisual 40 horas 01/04/2021
+
+LUIS CLAUDIO NUNES DOS SANTOS Tec. Audiovisual 40 horas 01/11/1982
+
+MARA MERCIA DA FONSECA Tec. Audiovisual 40 horas 02/02/2010
+
+MICHELLE CAMPOS DE ALMEIDA Assis. Admin. 40 horas 04/11/2004
+
+NILSON DOS SANTOS Assis. Admin. 40 horas 03/11/2014
+
+ROMENIL CRISPINIANO SENA DA SILVA
+
+Aux. Admin. 40 horas 27/08/1982
+
+SUELI FONTES DE ARAUJO Assis. Admin. 40 horas 05/01/2009
+
+VERA LUCIA DE JESUS Contínuo 40 horas 25/01/1993
+
+WESLLEY ORRICO DE JESUS Assis. Admin. 40 horas 18/06/2018
+
+9 SISTEMA DE AVALIAÇÃO DO PPC
+
+A Faculdade de Comunicação possui, em sua estrutura administrativa, instâncias diversas
+
+responsáveis pelo acompanhamento e supervisão das atividades desempenhadas por docentes e
+
+técnicos-administrativos, dentre as quais a Congregação da Faculdade, o Departamento de
+
+Comunicação e o Colegiado de Graduação em Comunicação, conforme o Regimento Interno da
+
+Unidade aprovado pelo Conselho Universitário em 10 de setembro de 1998, reafirmado na atualização
+
+do Regimento Interno, aprovado em 21 de dezembro de 2018 pelo Conselho Universitário (CONSUNI)
+
+– Resolução Nº 06/201836.
+
+No âmbito da Universidade como um todo, o sistema de avaliação próprio da UFBA
+
+disponibiliza aos discentes, a cada semestre, um formulário para avaliação online dos docentes, bem
+
+como para que estes procedam uma avaliação do desenvolvimento das disciplinas sob sua
+
+responsabilidade. As avaliações integram a lista de documentos necessários para avaliação de
+
+desempenho e progressão docente e também são consultados e analisados pelas instâncias da unidade
+
+periodicamente.
+
+O Projeto Pedagógico do Curso de Jornalismo da Faculdade de Comunicação da UFBA será
+
+avaliado também pela Comissão Própria de Avaliação (CPA), instância prevista no art. 11 da lei
+
+10.861, de 14 de abril de 2004 e instituída na Universidade Federal da Bahia através da Portaria 140-
+
+Gabinete da Reitoria, em abril de 2004. A CPA é composta por um representante do Reitor, um
+
+representante do Corpo Docente, um representante do Corpo Técnico-administrativo, um representante
+
+36 https://www.facom.ufba.br/portal2017/pagina/4/regimento
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+56
+
+estudantil, um membro do Conselho Estadual de Educação representando a Sociedade Civil, dois
+
+membros especialistas em avaliação e/ou gestão da educação superior. Segundo o Art. 56. do
+
+Regimento desta Universidade, a CPA tem como função:
+
+I - coordenar processos internos de avaliação, sistematização e análise, em todos os níveis de atividade e áreas de atuação; II - realizar estudos e pesquisas pertinentes ao desempenho acadêmico, institucional e de gestão da Universidade Federal da Bahia; III - atuar como interface perante o Sistema Nacional de Avaliação da Educação Superior – SINAES; IV - prestar as informações solicitadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP); V - propor à Reitoria e demais órgãos deliberativos ações que promovam uma cultura de avaliação no âmbito da Universidade Federal da Bahia e que fortaleçam o desempenho de docentes, discentes e servidores técnico-administrativos; VI - zelar pelo cumprimento do Plano de Desenvolvimento Institucional; VII - assessorar, quando solicitada, os Conselhos Superiores da Universidade Federal da Bahia, a Reitoria, as Unidades Universitárias e outras instâncias acadêmicas no encaminhamento de questões referentes a desempenho acadêmico e institucional.
+
+Para além dos dispositivos legais e regimentais que estabelecem a importância e necessidade
+
+de avaliação do PPC de Jornalismo, o Núcleo Docente Estruturante do Curso de Jornalismo realizará
+
+um monitoramento permanente, com pelo menos uma reunião semestral, para avaliar o cumprimento
+
+deste projeto pedagógico.
+
+10 ORIENTAÇÃO ACADÊMICA
+
+Orientação Acadêmica “tem como objetivo contribuir para a integração dos estudantes à vida
+
+universitária, contemplando aspectos pedagógicos, itinerário curricular, informações sobre políticas e
+
+normas da Universidade, assistência estudantil, participação em projetos e eventos, realização de
+
+estágios e aconselhamento acadêmico-profissional” e está prevista no Regulamento de Ensino de
+
+Graduação e Pós-Graduação stricto sensu (REGPG), da Universidade Federal da Bahia, aprovado pela
+
+Resolução nº 01/2015 do Conselho Acadêmico de Ensino em reunião plenária do dia 17 de dezembro
+
+de 2014. Prevê, ainda, que compete ao Colegiado de Graduação da Unidade estabelecer mecanismos
+
+de orientação acadêmica por professores orientadores aos estudantes do curso.
+
+Para além dos eventos comumente realizados nas semanas de recepção dos calouros, a
+
+Orientação Acadêmica constitui-se como uma tutoria de um docente orientador a uma turma de
+
+ingressantes. Cabe à Orientação Acadêmica compartilhar aos estudantes aspectos pedagógicos e
+
+informações sobre políticas e normas da Universidade e do curso, bem como encaminha-los para os
+
+órgãos competentes a depender das suas demandas acadêmicas. O Departamento de Comunicação da
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+57
+
+FACOM/UFBA designará dois professores com carga horária específica para atendimento aos
+
+estudantes, conforme demanda e com horário previamente agendado.
+
+11 RECURSOS MATERIAIS EXISTENTES
+
+Quanto ao número de salas de aula e gabinetes, a Faculdade de Comunicação teve importante
+
+aumento com a inauguração da obra de reforma referente ao projeto CT-INFRA 2008 para instalação
+
+do INCT.Democracia Digital, em 2018. Com isso, a Unidade conta, atualmente, com 18 salas de aula,
+
+sendo 04 delas salas-laboratórios equipadas com computadores, dentre outros equipamentos; 02 salas
+
+com computadores utilizadas pelo INCT.DD; um auditório com 98 lugares; a sala-auditório
+
+proveniente da obra de reforma CT-INFRA 2008/CEADD-INCT.DD, de 42 lugares; 19 gabinetes de
+
+professores – que abrigam a totalidade dos docentes lotados no Departamento de Comunicação – e
+
+outros 02 gabinetes maiores (também provenientes da obra de reforma CT-INFRA 2008/CEADD) para
+
+professores visitantes, principalmente aqueles em missões no âmbito do INCT.DD.
+
+Nesse espaço da obra de reforma do CT-INFRA 2008 e de pequena parte correspondente ao
+
+Projeto CT-INFRA 2010 (subprojeto LIARTES), passamos a contar com 13 gabinetes para professores
+
+da Unidade (dois a mais em relação aos que havia antes desta obra), 04 novas salas para aulas – uma
+
+sala-auditório especialmente para bancas de defesas de mestrado e de doutorado, bem como para
+
+realização de cursos e minicursos; uma sala-laboratório equipada com computadores iMac que
+
+pretende ser uma redação convergente para as disciplinas e atividades de Jornalismo, a sala-ateliê de
+
+produção cultural e uma sala de aula convencional que segue o padrão das demais salas da Unidade,
+
+equipada com computador para professor, datashow e caixa de som; dois gabinetes específicos para
+
+professores-pesquisadores visitantes, conforme previsto no plano de implantação do INCT.DD do
+
+Centro de Estudos Avançados em Democracia Digital (CEADD) da Faculdade de Comunicação; nova
+
+sala para o Almoxarifado, copa e os vestiários para funcionários terceirizados. A copa dos servidores
+
+técnicos-administrativos fica localizada no andar Térreo, próximos às salas da parte administrativa.
+
+A Unidade possui, atualmente, os seguintes laboratórios multiusuários: Laboratório de
+
+Fotografia (Labfoto), Laboratório de Rádio e Laboratório de Audiovisual (LabAV). Para além dos 3
+
+laboratórios para atividades práticas mencionados, as salas-laboratórios (04) são consideradas como
+
+espaços laboratoriais já que são nelas que se desenvolvem as oficinas dos cursos de graduação, assim
+
+como cursos de extensão e atividades relacionadas às Linhas e Grupos de Pesquisa do PósCom e da
+
+Especialização em Comunicação Estratégica e Gestão da Marca.
+
+O quantitativo de computadores nos 3 laboratórios, assim como nas salas-laboratórios para
+
+aulas e atividades de ensino, pesquisa e extensão é o seguinte:
+
+. Sala 1: 19 computadores;
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+58
+
+. Sala 2: 23 computadores;
+
+. Sala 7A: 20 iMacs;
+
+. Sala 8: 18 computadores;
+
+. Laboratório de Fotografia (Labfoto): possui sala de aula com 16 computadores e sala de
+
+coordenação técnica, na qual ficam também os equipamentos fotográficos. O Labfoto conta, em seu
+
+quadro funcional, com um professor, Rodrigo Rossoni (seu coordenador), uma servidora técnico-
+
+administrativa e uma aluna estagiária, além de 13 monitores/fotógrafos voluntários;
+
+. Laboratório de Rádio: possui estúdio específico e sala de aula com 10 computadores, bem
+
+como sala para coordenação técnica. Em 2020, foi adquirida uma nova mesa para o estúdio de
+
+gravação, tendo sido também instalados os microfones de mesa. É coordenado pelo Prof. Maurício
+
+Tavares e conta com um servidor técnico-administrativo e monitores-bolsistas a cada semestre;
+
+. Laboratório de Audiovisual (LabAV): espaço com 5 ilhas de edição, sala para coordenação
+
+técnica; para guarda de equipamentos e um estúdio utilizado também Labfoto. Possui 8 computadores,
+
+entre iMacs e PCs. Coordenado pelo Prof. Marcos Carvalho, conta com 04 servidores técnicos-
+
+administrativos e monitores-bolsistas e voluntários a cada semestre.
+
+Os espaços destinados para as atividades administrativas somam 10, sendo que espaços para
+
+coordenações são 6. Os espaços nos quais se desenvolvem aulas teórico-práticas, e outras atividades
+
+de prática, incluindo o estúdio fotográfico também usado para filmagens, são 11 ao todo (aqui já
+
+incluída sala que está sendo adaptada para aulas de telejornalismo, com iluminação adequada e chroma
+
+key, adquiridos com recurso proveniente do Convênio que a FACOM integra ao lado da SEAD/UFBA
+
+com a Secretaria da Educação do Estado da Bahia). No que se refere a salas para estudo individual e
+
+para grupos são 11 (utilizados por instâncias como PETCOM; Programa Agenda Arte e Cultura;
+
+Agência Experimental e Agência de Notícias em CT&I; Produtora Jr; Centro Acadêmico; sala de
+
+estudo para alunos do PósCom; salas usadas por grupos de pesquisa do PósCom; pelo CCDC; e pelo
+
+Gig@).
+
+O conjunto documental da UFBA, formado de bens materiais e imateriais é organizado,
+
+divulgado, disponibilizado, e preservado através das bases de dados administradas ou desenvolvidas
+
+pelo Sistema Universitário de Bibliotecas – SIBI/UFBA, permitindo avanços na pesquisa, na criação
+
+e na inovação, contribuindo para conquistas nas áreas sócio culturais, na ciência e tecnologia. O acervo
+
+físico da área de Comunicação está atualmente disposto na Biblioteca Universitária Reitor Macedo
+
+Costa, sediada no Campus de Ondina. Com tais recursos materiais é possível implementar a nova
+
+proposta pedagógica apresentada.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+59
+
+No que diz respeito a outros tipos de acervos (patrimonial, cultural, cinematográfico), a
+
+Unidade dispõe de uma Multiteca com materiais audiovisuais produzidos por entes de sua Comunidade
+
+ao longo dos anos, bem como documentários e filmes nacionais e estrangeiros sobre assuntos diversos
+
+doados à FACOM e pertinentes à Comunicação, Jornalismo, Cinema, Audiovisual, Produção Cultural,
+
+bem como gravações com registros de diversos eventos realizados pela Faculdade. A Unidade possui
+
+01 cantina; 03 espaços/áreas de lazer/convivência. Outros espaços correspondem ao quantitativo de 35
+
+instalações.
+
+12 REFERÊNCIAS
+
+BARBOSA, Rui. A imprensa e o dever da verdade. São Paulo: EDUSP/Com Arte, 1990.
+
+BELTRÃO, Luiz. Iniciação à filosofia do Jornalismo. São Paulo: EDUSP, 1992.
+
+BEZERRA, Amilcar Almeida; SILVA, Izabela Domingues da; BARBOSA, Rodrigo Miranda. Mutações no Campo da Comunicação Social ou por que os Cursos e suas Habilitações do Século XX estão perdendo sentido. In: XXXIX Congresso Brasileiro de Ciências da Comunicação. São Paulo, 2016.
+
+BRASIL. Ministério da Educação. Diretrizes Curriculares Nacionais para o Curso de Jornalismo - Relatório da Comissão de Especialistas. Portaria N. 203/2009, de 12 de fevereiro de 2009. Brasília, 2009.
+
+COSTA et al. A formação em Jornalismo na Universidade Federal da Bahia: uma análise dos egressos. In: REBEJ - Revista Brasileira de Ensino de Jornalismo (no prelo)
+
+DEBORD, Guy. A sociedade do espetáculo. Rio de Janeiro: Contraponto, 1997.
+
+IBGE - Instituto Brasileiro de Geografia e Estatística. Perfil dos estados e dos municípios brasileiros: cultura 2014. Rio de Janeiro, IBGE, 2015.
+
+JENKINS, Henry. Cultura da Convergência. São Paulo: Editora Aleph, 2009.
+
+LEMOS, André. Cibercultura: alguns pontos para compreender a nossa época. In: LEMOS, André; CUNHA, Paulo (org.). Olhares sobre a Cibercultura. Porto Alegre: Sulina, 2003.
+
+PINHEIRO, Elton Bruno; VARÃO, Rafiza; BARCELLOS, Zanei (orgs). Práticas e tensionamentos contemporâneos no ensino de Jornalismo. Brasília: Universidade de Brasília, Faculdade de Comunicação, 2018.
+
+KNEIPP, Valquíria Aparecida Passos. Analógico, digital e transmídia: uma trajetória do ensino do Telejornalismo no Brasil. In:EMERIM, Cárlida; FINGER, Cristiane; PORCELLO, Flávio (orgs.). Desafios do Telejornalismo: ensino, pesquisa e extensão. Florianópolis: Insular, 2017.
+
+KITCHIN, R. Big Data, new epistemologies and paradigm shifts. Big Data & Society, v. 1, n. 1, 10 jul. 2014.
+
+MEDITSCH, Eduardo. O jornalismo é uma forma de conhecimento? Media & Jornalismo 1(1), 2002.
+
+NAKAGAWA, Fábio Sadao; BARBOSA, Suzana Oliveira; SOUZA FILHO, Washington José. O ensino do Jornalismo e a convergência: a integração das redações como proposta pedagógica. In: PINHEIRO, Elton Bruno: VARÃO, Rafiza; BARCELLOS, Zanei (orgs.). Práticas e tensionamentos
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+60
+
+contemporâneos no ensino de Jornalismo. Brasília: Universidade de Brasília, Faculdade de Comunicação, 2018.
+
+SANTAELLA, Lucia. Cultura das mídias. São Paulo: Experimento, 1996.
+
+SODRÉ, Muniz. Antropológica do Espelho - uma teoria da comunicação linear e em rede. Petrópolis, RJ: Vozes, 2002.
+
+SOUSA, Jorge Pedro. Uma história breve do jornalismo no ocidente. Universidade Beira Interior, Covilhã, Portugal, 2008. http://www.bocc.ubi.pt/pag/sousa-jorge-pedro-uma-historia-breve-do- jornalismo-no-ocidente.pdf
+
+THOMPSON, John B. A mídia e a modernidade. Uma teoria social da mídia. Petrópolis: Vozes, 2008.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA). Faculdade de Comunicação. Colegiado do Curso de Comunicação. Proposta de reforma curricular e de implantação de nova habilitação. Salvador, 10 de jul. 1995.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA). Pró-Reitoria de Planejamento e Orçamento. Diplomação e Evasão nos Cursos de Graduação da UFBA: 1993 a 2010. Salvador: UFBA, 2012.
+
+VAN DIJCK, J.; POELL, T.; DE WAAL, M. The Platform Society. New York: Oxford University Press, 2018.
+
+ZUBOFF, S. The age of surveillance capitalism: the fight for a human future at the new frontier of power. New York: Public Affairs, 2019.
+
+Salvador, 25 de abril de 2022.
+
+Aprovado pelo Colegiado de Curso em 31/05/2021 (Ata da Reunião em Anexo VIII) Homologado pela Congregação em 07/06/2021 (Ata da Reunião em Anexo VIII) Aprovado pelo Conselho Acadêmico de Ensino 23/03/2022
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+61
+
+ANEXO I – EMENTÁRIO *Novos componentes curriculares criados pelo Departamento de Comunicação da FACOM, aprovados em reunião ordinária de 15 de março de 2021.
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______)
+
+Código e nome do componente curricular: COMB79 – INTRODUÇÃO ÀS PRÁTICAS JORNALÍSTICAS
+
+Departamento ou equivalente: Comunicação
+
+Pré-requisito: Sem pré-requisitos
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P
+
+P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+O jornalismo como processo de produção de informação noticiosa, de conhecimento sobre a
+
+realidade social e como elemento de mediação na esfera pública. Introdução às práticas e rotinas
+
+do jornalismo em formatos e em ambientes multiplataformas. Introdução à deontologia e aos
+
+debates éticos do campo jornalístico. Contextos contemporâneos de atuação do jornalista e seus
+
+desafios e sua relação com as temáticas de direitos humanos, meio ambiente, questões étnico-
+
+raciais e de gênero.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+62
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB80 – INTRODUÇÃO AO TEXTO JORNALÍSTICO
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P
+
+P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+O texto jornalístico em seus aspectos estruturais, estéticos e éticos. Elementos fundamentais da
+
+configuração discursiva e narrativa do texto jornalismo. Gêneros e formatos do jornalismo. O texto
+
+jornalístico em suas dimensões audioverbovisuais. Textos clássicos do jornalismo.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+63
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______)
+
+Código e nome do componente curricular: COMB81 – JORNALISMO INTEGRADO I
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Introdução às práticas jornalísticas
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+120 120 120 120 120 Ementa:
+
+Conceitos, práticas e processos do Jornalismo voltados à apuração e produção de textos e
+
+imagens visuais, em formatos de notícia e entrevista. Noções básicas de pauta e de apuração
+
+para a redação de notícias. A notícia e sua estrutura. A entrevista como gênero e como técnica
+
+de apuração. Questões de ética jornalística relacionadas às etapas da produção jornalística.
+
+Desenvolvimento de produtos jornalísticos baseados nas linguagens verbal e visual, com a
+
+participação de comunidades externas à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+64
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______)
+
+Código e nome do componente curricular: COMB82 – JORNALISMO INTEGRADO II
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado I
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E T
+
+T/P P
+
+PP PEx E T T/P P PP PE
+
+x
+
+E T T/P
+
+P PP PEx E
+
+120 120 120 120 120 Ementa:
+
+Conceitos, práticas e processos jornalísticos voltados à produção de pautas, realização de
+
+apuração, redação e edição. Técnicas de redação, organização e hierarquização das
+
+informações para os diferentes formatos e linguagens. Produção textual, sonora e em torno de
+
+formatos de notícia, entrevista e perfil. Questões éticas, estéticas e técnicas para produção de
+
+reportagens. Desenvolvimento de produtos jornalísticos baseados nas linguagens verbal e
+
+sonora, com a participação de comunidades externas à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+65
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB83 – JORNALISMO INTEGRADO III
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado I
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+120 120 120 120 120
+
+Ementa:
+
+Conceitos, práticas e processos jornalísticos baseados nas linguagens escrita e visual, em torno
+
+dos formatos de reportagem e entrevista e para ambientes distintos. Técnicas de redação,
+
+organização e hierarquização das informações para os diferentes formatos e linguagens. A
+
+reportagem e sua estrutura. Design da informação. Questões éticas. Produção textual, fotográfica
+
+e gráfica/visual, com a participação de comunidades externas à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+66
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB84 – JORNALISMO INTEGRADO IV
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado I
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+120 120 120 120 120 Ementa:
+
+Conceitos, práticas e processos jornalísticos, em ambientes distintos, voltados para a produção
+
+de pautas, realização de apuração, redação, edição, organização e hierarquização da
+
+informação. Ênfase nas linguagens visual, audiovisual e multimídia, em torno dos formatos de
+
+projeto editorial, dossiês especiais e grandes reportagens. Questões éticas, estéticas e técnicas
+
+para produção de grandes reportagens. Desenvolvimento de produtos jornalísticos baseados nas
+
+linguagens supracitadas, com a participação de comunidades externas à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+67
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB85 – JORNALISMO INTEGRADO V
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado I
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+120 120 120 120
+
+Ementa:
+
+Práticas e processos jornalísticos em ambientes digitais e em rede. Produção de pautas,
+
+apuração, checagem, desenvolvimento e atualização de conteúdos e suas dinâmicas de
+
+circulação na ecologia digital. Perspectivas do jornalismo associadas à colaboração em rede,
+
+comunicação multiplataforma, jornalismo de dados e mensuração editorial. Desenvolvimento de
+
+produtos jornalísticos baseados nas linguagens verbal, sonora, visual e audiovisual, com a
+
+participação de comunidades externas à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+68
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COM86 – JORNALISMO INTEGRADO VI
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado I
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+120 120 120 120 120
+
+Ementa:
+
+Planejamento estratégico, execução e circulação de produtos comunicacionais.  Planejamento,
+
+pauta, apuração, redação, organização e hierarquização da informação para produtos
+
+corporativos e institucionais. Planejamento e ações de assessoria de imprensa. Linguagens
+
+escrita, visual, sonora e audiovisual, com ênfase na comunicação estratégica. Questões éticas
+
+do trabalho de assessoria de comunicação. Desenvolvimento de produtos jornalísticos baseados
+
+nas linguagens verbal, sonora, visual e audiovisual, com a participação de comunidades externas
+
+à universidade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+69
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______)
+
+Código e nome do componente curricular: COMB87 – ESTÁGIO SUPERVISIONADO EM JORNALISMO
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Jornalismo Integrado II
+
+Modalidade: Disciplina
+
+Submodalidade: Estágio em equipe
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+240 240 60 60 240 Ementa:
+
+Práxis profissional. Aspectos éticos, estéticos e técnicos da atividade jornalística. O ambiente
+
+de trabalho e o campo de atuação profissional. Perspectivas étnico-raciais, sociais e de gênero
+
+na prática profissional do jornalista. Elaboração de relatório de aplicação da atividade.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+70
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB88 - HISTÓRIA DO JORNALISMO
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórica
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+Fundação histórica da imprensa e do jornalismo. Processos de modernização do jornalismo. A
+
+historicidade de práticas e valores do jornalismo. Panorama histórico do jornalismo na Bahia e
+
+no Brasil. Perspectivas étnico-raciais, sociais e de gênero na construção da história da
+
+imprensa. Perspectivas das transformações do jornalismo em diferentes meios e ambientes
+
+sociotécnicos. A mediação da imprensa em contextos históricos e políticos mundiais.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+71
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______)
+
+Código e nome do componente curricular: COMB89 – GESTÃO DE PRÁTICAS E PROCESSOS JORNALÍSTICOS
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórica
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+Lógicas comunicacionais e modelos de negócios do jornalismo. Gestão de práticas, processos
+
+e produtos jornalísticos. Gestão de conteúdos jornalísticos online. Interfaces entre o Jornalismo
+
+e a Publicidade na ecologia midiática digital.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+72
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB90 – JORNALISMO ESPECIALIZADO
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórico-prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+Conceitos, práticas e processos do Jornalismo Especializado. As linguagens no jornalismo
+
+especializado. Segmentação no conteúdo jornalístico. Panorama brasileiro de veículos de
+
+comunicação especializados. Os diferentes tipos de jornalismo especializado, como político,
+
+econômico, esportivo, cultural, científico, ambiental, entre outras variações. Perspectivas étnico-
+
+raciais, sociais, de inclusão, de diversidade e de gênero no jornalismo especializado. Produção
+
+de textos jornalísticos especializados.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+73
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB91 – Trabalho de Conclusão de Curso em Jornalismo I
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Trabalho de Conclusão de Curso (TCC)
+
+Submodalidade: Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+30
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PE
+
+x
+
+E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa: Reflexão teórica e debate sobre temas e práticas relacionadas ao campo comunicacional e jornalístico. Temas e questões do Trabalho de Conclusão do Curso (TCC). Regras e funcionamento do TCC. Principais linhas de ação e propostas para o TCC. Orientação, elaboração e desenvolvimento das propostas de pesquisa e de produto na área da Comunicação e/ou Jornalismo.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+74
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB92 – Trabalho de Conclusão de Curso em Jornalismo II
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: COM XXX – TCC em Jornalismo I
+
+Modalidade: Trabalho de Conclusão de Curso (TCC) com acompanhamento individual
+
+Submodalidade: Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma Módulo de estudantes
+
+5
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60 Ementa: Revisão das propostas de pesquisa e de produto em Comunicação e/ou Jornalismo. Orientação, planejamento e execução da primeira fase do Trabalho de Conclusão de Curso (TCC) em Jornalismo.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+75
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB93 – Trabalho de Conclusão de Curso em Jornalismo III
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Todos os componentes do currículo
+
+Modalidade: Trabalho de Conclusão de Curso (TCC) com acompanhamento individual
+
+Submodalidade: Prática
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+5
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+360 360 60 60 360
+
+Ementa: Orientação e execução da fase final do Trabalho de Conclusão de Curso (TCC) em Jornalismo.
+
+Divulgação da pesquisa ou do produto em Comunicação e/ou Jornalismo. Apresentação pública
+
+e avaliação da banca examinadora do TCC em Jornalismo.
+
+Natureza:  Obrigatória
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+76
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB94 - TECNOLOGIA DIGITAL, GÊNERO, RAÇA
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórica
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma Módulo de estudantes
+
+45
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PEx E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+Os Estudos Feministas da Ciência e da Tecnologia (EFC&T) em relação à crítica à tecnologia.
+
+Ciência e tecnologia com enfoque interseccional. Conhecimentos situados, objetividade,
+
+neutralidade, androcentrismo e racismo epistêmico. Temas emergentes: brecha digital de gênero,
+
+raça, território. Interseccionalidade. Tecnofeminismos, ciberfeminismos, transrackfeminismos e
+
+os ativismos sexuais, de gênero e raciais. Intimidade, privacidade, vigilância distribuída nos
+
+dispositivos e redes digitais. Racismo, misoginia, heterocissexismo e outras formas de injustiça
+
+algorítmica.
+
+Natureza:  Optativa
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+77
+
+UNIVERSIDADE FEDERAL DA BAHIA PRO-REITORIA DE ENSINO DE GRADUAÇÃO
+
+FORMULÁRIO PARA CRIAÇÃO OU ALTERAÇÃO DE COMPONENTE CURRICULAR
+
+(Resolução _______) Código e nome do componente curricular: COMB95 – JORNALISMO E DIREITOS HUMANOS
+
+Departamento ou equivalente: COMUNICAÇÃO
+
+Pré-requisito: Sem pré-requisito
+
+Modalidade: Disciplina
+
+Submodalidade: Teórica
+
+Sistema de avaliação:
+
+Nota
+
+Carga Horária Carga Horária Docente/Turma
+
+Módulo de estudantes
+
+45
+
+T P E
+
+Total
+
+T P E
+
+Total
+
+T P E
+
+T
+
+T/P P
+
+PP PEx E T T/P P PP PE
+
+x
+
+E T T/P
+
+P PP PEx E
+
+60 60 60 60 60
+
+Ementa:
+
+Sociedade civil, cidadania, políticas públicas e jornalismo. Direitos humanos e direitos sociais.
+
+Noções introdutórias sobre diversidade, direitos humanos e democracia participativa. Temas
+
+relativos a direitos humanos e mídia: acessibilidade, gênero, relações étnico-raciais, inclusão
+
+social, populações vulneráveis, sustentabilidade e meio ambiente. Jornalismo cidadão e práticas
+
+de mídia comunitária, popular, ativista e alternativa. Perspectivas e desafios para a cobertura
+
+jornalística de políticas públicas sociais.
+
+Natureza:  Optativa
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+78
+
+ANEXO II – REGULAMENTO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM JORNALISMO
+
+MINUTA DE REGULAMENTO DE ESTÁGIO CURRICULAR SUPERVISIONADO EM JORNALISMO DO CURSO DE JORNALISMO DA
+
+FACULDADE DE COMUNICAÇÃO DA UFBA
+
+Minuta de regulamento de Estágio Curricular Supervisionado em Jornalismo do curso de Jornalismo da Faculdade de Comunicação da Universidade Federal da Bahia.
+
+Capítulo I DA DEFINIÇÃO E FINALIDADES Art. 1º - O Estágio Supervisionado em Jornalismo é componente curricular obrigatório de 240 horas do Curso de Graduação em Jornalismo da Universidade Federal da Bahia, sendo estabelecido e caracterizado no respectivo projeto pedagógico. Art. 2º - O estágio curricular supervisionado em Jornalismo tem como principais objetivos e finalidades: I -  Complementar a formação profissional do (a) estudante; II - Propiciar ao estudante a oportunidade de aprimorar a utilização de conhecimentos teóricos, práticos e metodológicos; III – Possibilitar a reflexão crítica das experiências vivenciadas e a capacidade de diagnóstico e compreensão dos processos e rotinas inerentes ao campo profissional do jornalismo e da comunicação; IV – Associar os conhecimentos adquiridos durante o curso de Jornalismo às habilidades que o profissional precisa dominar para atuar frente às exigências da sociedade e das organizações; V – Estimular no (a) estudante a capacidade de diagnosticar, avaliar e propor alternativas aos desafios profissionais encontrados na vivência em organizações, a partir da relação entre conhecimento teórico e a prática profissional; VI – Complementar o processo de ensino-aprendizagem promovido pelo curso de Jornalismo, mediante o fortalecimento das potencialidades do estudante e de seu aprimoramento profissional e pessoal; VII – Desenvolver o senso ético necessário no trato com a informação, para que ela seja devidamente transmitida aos variados perfis de público.
+
+Capítulo II DAS NORMAS GERAIS
+
+Art. 3º- O(A) estudante está habilitado(a) a realizar o estágio curricular em Jornalismo desde que regularmente matriculado no componente curricular Estágio Supervisionado em Jornalismo. Art. 4º - As atividades de estágio diretamente reconhecidas como estágio curicular em Jornalismo são aquelas desenvolvidas pelo(a) estudante matriculado(a) no componente curricular Estágio
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+79
+
+Supervisionado em Jornalismo, com o acompanhamento do(a) docente responsável e em atividades jornalísticas e suas interfaces, compatíveis com a formação acadêmica.
+
+Capítulo III DOS TIPOS, DURAÇÃO E INTEGRALIZAÇÃO
+
+Art. 5º - O estágio curricular supervisionado em Jornalismo deve ser realizado segundo um dos tipos a seguir:
+
+I. Estágio realizado em ente institucional nos ambientes internos da UFBA e fundações de
+
+apoio ligadas à UFBA; II. Estágio realizado em ente institucional público nos ambientes externos à UFBA; III. Estágio realizado em organizações da sociedade civil e do terceiro setor; IV. Estágio realizado em ente institucional privado legalmente constituído e ativo; V. Funcionário de empresa legalmente constituída e ativa, desde que exerça funções
+
+jornalísticas e/ou comunicacionais, mediante abertura de processo de convalidação e atendendo à presente resolução. § 1º A convalidação das atividades de estágio aplica-se aos casos em que o estudante comprovar exercer profissionalmente funções jornalísticas e/ou comunicacionais. § 2º  As atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas pelo(a) estudante, não poderão ser equiparadas a estágio curricular supervisionado em Jornalismo. Art.  6º - O total de horas mínimo exigido no âmbito do componente curricular Estágio Supervisionado em Jornalismo (240 horas) deve ser integralizado até o último dia de aulas do semestre letivo correspondente à matrícula nesse componente, conforme definido no Calendário Acadêmico da UFBA. Parágrafo Único - No caso de interrupção do estágio, para efeito de integralização, a carga horária faltante também deve ser completada até o último dia letivo do semestre, conforme definido no Calendário Acadêmico da UFBA. Art. 7º. O horário previsto para realização das atividades de estágio curricular supervisionado em Jornalismo deverá ser compatível com a grade horária do curso, evitando prejuízo à sua integralização. Parágrafo Único -  São vedadas atividades de estágio curricular supervisionado realizadas no horário de funcionamento do curso de Jornalismo da Faculdade de Comunicação. Art. 8º. A carga horária de estágio curricular supervisionado em Jornalismo não poderá exceder a 30 (trinta) horas semanais e seis horas diárias, de segunda-feira a sexta-feira, excluindo-se os feriados. Art. 9º - O estágio curricular supervisionado em Jornalismo somente tem validade para fins de integralização curricular caso seu início tenha sido aprovado pelo(a) docente responsável pelo componente curricular Estágio Supervisionado em Jornalismo, e o Termo de Compromisso de Estágio tenha sido assinado pelo Colegiado de Graduação.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+80
+
+Capítulo IV DAS RESPONSABILIDADES DE ESTAGIÁRIOS(AS) E SUPERVISORES(AS)
+
+PROFISSIONAIS Art. 10 - São deveres e responsabilidades dos(as) estagiários(as):
+
+I. Desenvolver as atividades exigidas no local de estágio e cumprir a carga horária, na forma
+
+estabelecida no plano de estágio; II. Agir com ética, zelo e responsabilidade no relacionamento com a organização propiciadora
+
+do estágio, a fim de preservar o bom relacionamento desta com a UFBA e, assim, contribuir para a manutenção da possibilidade de estágio para futuros(as) estudantes; III. Participar dos encontros, nos prazos estabelecidos, fixados pelo(a) professor(a)
+
+responsável pelo componente curricular Estágio Supervisionado em Jornalismo; IV. Elaborar plano de atividades de estágio; V. Preencher o Termo de Compromisso do Estágio; VI. Solicitar preenchimento e assinatura da Ficha de Avaliação do Estagiário ao (à)
+
+Supervisor(a) do Estágio na empresa, entidade ou setor da UFBA; VII. Apresentar, no final da carga horária total exigida (240 horas), um relatório final com as ações desenvolvidas durante o estágio, anexando os produtos desenvolvidos; VIII. Cumprir este Regulamento, o Regimento Geral da UFBA e o Regimento Interno da FACOM, no que couber. Art. 11 - São compromissos requeridos das partes concedentes de estágio:
+
+I. Celebrar termo de compromisso com a instituição de ensino e o educando, zelando por seu
+
+cumprimento; II. Ofertar instalações que tenham condições de proporcionar ao( à) educando(a) atividades
+
+de aprendizagem social, profissional e cultural; III. Contratar, quando se aplicar, em favor do estagiário, seguro contra acidentes pessoais, cuja
+
+apólice seja compatível com valores de mercado, conforme fique estabelecido no termo de compromisso; IV. Manter à disposição da fiscalização documentos que comprovem a relação de estágio; V. Enviar à instituição de ensino, com periodicidade adequada aos prazos do componente
+
+curricular de estágio, relatório de atividades, com vista obrigatória ao estagiário. VI. Observar, adicionalmente, para estágios obrigatórios na área de Jornalismo ou
+
+Comunicação, a obrigação de designar supervisor(a) de estágio que seja profissional da área de Jornalismo ou de Comunicação, com nível superior completo, pertencente ao quadro de funcionários(as) da empresa/parte concedente; VII. Por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho; VIII. Permitir e viabilizar o acompanhamento do estágio pelo(a) professor(a) orientador(a).
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+81
+
+IX. Elaborar e assinar Plano de Atividades de Estágio em conjunto com o (a) estudante-
+
+estagiário(a), preenchendo todos os campos; X. Fornecer os dados e assinar o Termo de Compromisso; XI. Preencher a Ficha de Avaliação do Estagiário, indicando uma nota para as atividades
+
+desenvolvidas no período avaliado, e assiná-la.
+
+Capítulo V DO COMPONENTE CURRICULAR E DA AVALIAÇÃO Art. 12 - O componente curricular Estágio Supervisionado em Jornalismo é disciplina obrigatória do Curso de Jornalismo e será oferecido semestralmente por um(a) professor(a) do Departamento de Comunicação, preferencialmente docente do curso de Jornalismo. Art. 13 - São atribuições do(a) docente responsável pelo componente curricular Estágio Supervisionado em Jornalismo:
+
+I. Acompanhar, orientar e avaliar os(as) estudantes estagiários (as); II. Orientar o(a) estudante  nos encaminhamentos necessários para viabilizar os estágios; III. Exigir do(a) estudante a apresentação de relatório das atividades, conforme cronograma
+
+estabelecido na disciplina; IV. Receber, analisar e aprovar o plano de estágio de cada discente matriculado(a) no
+
+componente curricular; V. Receber e avaliar os termos de compromisso de estágio; VI. Encaminhar os termos de compromisso para a coordenação do Colegiado de Graduação
+
+para assinatura; VII. Acompanhar o desenvolvimento do estágio do estudante por meio do recebimento da Ficha de Avaliação do Estagiário, preenchida pelo(a) profissional supervisor(a) do estágio; VIII. Receber e avaliar o plano de trabalho do(a) estagiário(a), relatórios elaborados durante o estágio e relatório final; IX. Realizar a avaliação final, bem como proceder registros e atribuição de notas e faltas. X. Receber e encaminhar à Secretaria do Colegiado de Graduação, ao final de cada semestre
+
+letivo: planos de trabalho, relatórios elaborados durante o estágio e relatório final de cada discente matriculado no componente curricular; XI. Cumprir e fazer cumprir este regulamento; XII. Zelar pela qualidade do estágio curricular supervisionado em Jornalismo da UFBA. Art. 14 - A avaliação do Estágio Supervisionado em Jornalismo é realizada pelo(a) docente responsável pelo componente curricular, com base nos documentos e critérios estabelecidos no artigo 10 deste regulamento. Art. 15 - O(a) estudante é considerado(a) aprovado(a) no componente curricular Estágio Supervisionado em Jornalismo somente quando comprovar o cumprimento da carga horária total mínima de 240 horas de estágio, documentada por meio de relatórios e fichas de avaliação; e atingir nota final mínima estabelecida no Regulamento de Ensino de Graduação e Pós-Graduação da UFBA.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+82
+
+Capítulo VI DA CONVALIDAÇÃO Art. 16 - Podem ser convalidadas como estágio curricular supervisionado as atividades realizadas nos termos do artigo 5º deste regulamento. Art. 17 - A convalidação será realizada por meio de processo de aproveitamento com objetivo de dispensa de cursar o componente curricular Estágio Supervisionado em Jornalismo, aberto no setor de registro das atividades acadêmicas da UFBA, com apresentação de justificativa e documentos comprobatórios que atendam às exigências estabelecidas neste regulamento. Parágrafo Único - O processo a que se refere o caput deste artigo deverá ser analisado pelo Colegiado de Graduação da Faculdade de Comunicação da UFBA.
+
+Capítulo VII DISPOSIÇÕES FINAIS Art. 18 - O estágio curricular supervisionado em Jornalismo deverá ser desenvolvido de acordo com as normas procedimentais estipuladas no Manual de Estágio da Faculdade de Comunicação da UFBA. Art. 19 - Os casos omissos neste Regulamento são analisados e julgados pelo Colegiado de Graduação e, excedendo seu poder de decisão, são encaminhados aos órgãos competentes para solução. Art. 20 - Este Regulamento entra em vigor na data de sua aprovação.
+
+Salvador, 31 de maio de 2021.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+83
+
+ANEXO III – REGULAMENTO DE ATIVIDADES COMPLEMENTARES MINUTA PARA NORMAS REGULAMENTARES DAS ATIVIDADES COMPLEMENTARES DO CURSO DE JORNALISMO
+
+Minuta de regulamento para realização das atividades complementares obrigatórias previstas no currículo do curso de Jornalismo da Faculdade de Comunicação da Universidade Federal da Bahia. Art. 1º As atividades complementares obrigatórias, previstas no currículo do curso de Jornalismo da Faculdade de Comunicação da Universidade Federal da Bahia, são atividades pedagógicas realizadas em modalidades distintas da forma de disciplina e com uma carga horária total de 360 (trezentos e sessenta) horas. Art. 2º As atividades complementares obrigatórias deverão ser realizadas pelos estudantes regularmente matriculados no curso de Jornalismo. Art. 3º Para fins de cômputo da carga horária das atividades complementares obrigatórias, serão consideradas as atividades desenvolvidas nas seguintes modalidades: 1) Extensão, 2) Pesquisa, 3) Programas, Projetos e Representações acadêmicos, 4) Didática.
+
+§ 1º A modalidade EXTENSÃO abrange a participação em atividades institucionais voltadas às comunidades externas, que são oferecidas pela UFBA ou entidades congêneres e estão sob a orientação e/ ou supervisão de um professor ou profissional da área. São atividades de extensão em forma de programas, projetos e similares e, também, atividades de monitorias (voluntárias ou não), que possibilitam e promovem a interação entre a comunidade acadêmica e a sociedade por meio da troca de conhecimentos e do diálogo e pelo enfrentamento de questões contemporâneas presentes no contexto social. § 2º A modalidade PESQUISA abrange a participação em atividades de pesquisa, oferecidas pela UFBA ou entidades congêneres, sob a orientação e/ ou supervisão de um professor ou pesquisador da área. São atividades que visam a realização, produção, promoção e divulgação da investigação e do conhecimento acadêmico-científico. Na modalidade pesquisa, os tipos de participação, atividade e função aceitos para efeito de validação da carga horária das atividades complementares são:
+
+I – Iniciação científica realizada pelo Programa Institucional de Iniciação Científica da UFBA ou de entidades congêneres. II – Participação em grupos de pesquisa ou de estudos institucionais. III - Congressos, encontros, jornadas, seminários, simpósios acadêmico-científicos e afins. IV- Coordenação, organização ou produção de eventos científicos relacionados à área de Comunicação e/ou Jornalismo. V – Apresentação de trabalhos em eventos científicos.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+84
+
+VI – Publicação em periódicos científicos, capítulos de livros e/ou anais de congressos acadêmicos, como autor ou coautor.
+
+§ 3º A modalidade PROGRAMAS, PROJETOS E REPRESENTAÇÕES ACADÊMICOS abrange a participação em programas e projetos institucionais, oferecidos pela UFBA ou entidades congêneres, sob a orientação e/ ou supervisão de um professor; tais como Programa de Educação Tutorial (PET), Programa Bolsas Trabalho, Empresa Júnior, Agência Experimental em Comunicação e Cultura, Agenda Arte e Cultura da UFBA e Agência de Notícias em Ciência e Cultura. Essa modalidade também contempla a atuação dos estudantes na representação estudantil em órgãos colegiados da universidade ou sua participação em entidades discentes, tais como o Centro Acadêmico, Diretório Central dos Estudantes (DCE) ou União Nacional dos Estudantes (UNE).
+
+§ 4º A modalidade DIDÁTICA abrange a realização de cursos extracurriculares que visam colaborar com a formação e com o melhor desempenho do estudante na área da comunicação e do jornalismo. Nessa modalidade estão contemplados cursos de idiomas em instituições de ensino; oficinas, cursos e/ ou workshops na área comunicacional e jornalística; e cursos de qualificação (software, programação, design). Art. 4º Não serão consideradas para efeito de cumprimento da carga horária das atividades complementares obrigatórias do curso de Jornalismo:
+
+I – As atividades que foram realizadas antes da data de ingresso do estudante no curso de Jornalismo II- As atividades realizadas como estágio curricular supervisionado e/ ou como estágio não obrigatório. III- As atividades desenvolvidas como Trabalho de Conclusão de Curso. IV – A carga horária de aulas de língua estrangeira cursada em componentes curriculares oferecidas pela UFBA ou por entidades congêneres. Art. 5º Cento e oitenta (180) horas é a carga horária MÁXIMA que cada modalidade descrita no Art. 3º poderá contribuir para fins de cômputo da realização total da carga horária das atividades complementares obrigatórias. Dessa maneira, o estudante deverá realizar atividades complementares que contemplem pelo menos duas (2) modalidades. Art. 6º Em hipótese alguma a carga horária de qualquer atividade complementar pode ser considerada e contabilizada mais de uma vez, mesmo que ela contemple mais de uma modalidade ou mais de um tipo de uma mesma modalidade que estão inscritos nesta resolução ou em normas similares a esta, existentes na UFBA. Art. 7º Nos limites estabelecidos por esta Resolução, as atividades complementares obrigatórias poderão ser desenvolvidas também fora da UFBA, em outras instituições de reconhecida competência. Cabe ao Colegiado de Graduação da Faculdade de Comunicação julgar a pertinência e a relevância das atividades para fins de acolhimento e reconhecimento de suas cargas horárias. Art. 8º Cabe ao estudante solicitar ao Colegiado de Graduação da Faculdade de Comunicação a
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+85
+
+análise das atividades complementares obrigatórias realizadas e o cômputo das suas cargas horárias, com fins de aproveitamento e inclusão de sua carga horária no histórico escolar. A solicitação deve acontecer com antecedência MÍNIMA de um semestre ANTES do semestre previsto para a conclusão do curso.
+
+§ 1º A solicitação ao Colegiado da análise das atividades complementares obrigatórias e o cômputo das suas cargas horárias, com fins de aproveitamento e inclusão de sua carga horária no histórico, só poderá ser solicitada caso o estudante tenha comprovação da totalidade da carga horária das atividades complementares. § 2º Para avaliação das atividades realizadas pelo estudante e de suas respectivas cargas horárias com a finalidade de convertê-las em horas de atividades complementares obrigatórias cumpridas, é necessário enviar à secretaria do Colegiado de Graduação da Faculdade de Comunicação da UFBA as cópias dos certificados, atestados, declarações ou documentos comprobatórios, que foram emitidos e devidamente assinados pela entidade promotora, pela organização do evento e/ou pelo professor, pesquisador, e/ou profissional responsável pela atividade.
+
+I – As principais informações que precisam constar no documento são: a) nome do estudante; b) nome da entidade promotora; c) nome, título ou tipo de atividade, programa, projeto, curso ou representação; d) local de realização do evento ou da atividade; e) Data ou período de realização do evento ou atividade/ data ou período de frequência no evento ou atividade; f) a quantidade total ou semanal da carga horária cumprida. II- No caso de publicações, é necessário entregar a cópia das páginas do livro, revista, caderno ou anais, que contenham os dados identificadores da publicação, o(s) nome(s) do(s) autor(es), o título do trabalho e a primeira página ou resumo do trabalho científico de autoria do estudante. Art. 9º A conversão de algumas atividades descritas nesse regulamento em carga horária de atividades complementares e, também, a equivalência valorativa entre as horas das atividades realizadas e as horas de atividades complementares; ambas serão determinadas pelo barema em vigência, que precisa ter sido aprovado, antes da sua implementação, em reunião do Colegiado de Graduação, a partir da minuta de barema elaborada pelo NDE de jornalismo. Art. 10º Casos omissos serão objeto de deliberação por parte do Colegiado do Curso.
+
+Salvador, 12 de abril de 2021.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+86
+
+Quadro das Atividades Complementares – Jornalismo
+
+(aprovado em reunião do Colegiado de Graduação de 12 de abril de 2021)
+
+As atividades complementares têm como objetivo estimular a participação do estudante em experiências
+
+diversificadas que contribuam para a sua formação profissional. Devem possuir relação direta com os objetivos de Curso e serem devidamente comprovadas
+
+Cód
+
+. Atividades desenvolvidas
+
+Horas válidas como atividade
+
+complementar Valorização máxima
+
+MODALIDADE:  EXTENSÃO
+
+E01
+
+Atividades de extensão oferecidas pela UFBA ou entidades congêneres, sob a orientação e/ ou supervisão de um(a) professor(a) ou profissional da área, voltadas às comunidades externas em forma de programas, projetos e similares.
+
+1h de atividade de extensão equivale a 1h de atividade complementar.
+
+E02 Monitorias (voluntárias ou não) em atividades oferecidas pela UFBA ou entidades congêneres.
+
+1h de monitoria equivale a 1h de atividade complementar.
+
+E03
+
+Coordenação, organização e/ou produção de atividades de extensão oferecidas pela UFBA ou entidades congêneres.
+
+1h de coordenação, organização e/ou produção equivale a 1h de atividade complementar. MÍNIMO de horas que devem ser contabilizadas na modalidade EXTENSÃO MÁXIMO de horas permitidas a serem contabilizadas na modalidade EXTENSÃO
+
+60 h 180 h
+
+MODALIDADE:  PESQUISA
+
+P01
+
+Iniciação científica realizada pelo Programa Institucional de Iniciação Científica da UFBA ou de entidades congêneres.
+
+Cada iniciação científica finalizada equivale a 120 h de atividade complementar.
+
+P02 Grupos de pesquisa ou de estudo institucionais.
+
+1h de participação em grupos de pesquisa equivale a 1 hora de atividade complementar.
+
+P03
+
+Congressos, encontros, jornadas, seminários, simpósios acadêmico-científicos e afins
+
+1h de participação como congressista em eventos científicos equivale a 1h de atividade complementar.
+
+P04
+
+Coordenação, organização ou produção de eventos científicos relacionados à área de Comunicação e/ou Jornalismo.
+
+Cada coordenação, organização e/ou produção equivale a 20h de atividade complementar.
+
+P05 Apresentação de trabalhos em eventos científicos. Cada apresentação equivale a 30h de atividade complementar.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+87
+
+P06
+
+Publicação em periódicos científicos, capítulos de livros e/ou anais de congressos acadêmicos, como autor ou coautor.
+
+\- Cada livro, capítulo e/ou artigo revista equivale a 50 h de atividade complementar. - Cada artigo completo publicado em anais de congressos equivale a 30h de atividade complementar. - Cada resumo ou resumo expandido publicado em anais de congressos equivale a 10 horas de atividade complementar. MÁXIMO de horas permitidas a serem contabilizadas na modalidade PESQUISA 180 h
+
+MODALIDADE:  PROGRAMAS, PROJETOS E REPRESENTAÇÕES ACADÊMICOS
+
+A01
+
+Programas e projetos institucionais, oferecidos pela UFBA ou entidades congêneres, sob a orientação e/ ou supervisão de um professor; tais como Programa de Educação Tutorial (PET), Programa Bolsas Trabalho, Empresa Júnior, Agência Experimental em Comunicação e Cultura, Agenda Arte e Cultura da UFBA e Agência de Notícias em Ciência e Cultura.
+
+1h de participação em programas e projetos institucionais equivale a 1h de atividade complementar.
+
+A02
+
+Representação estudantil em órgãos colegiados da Universidade ou participação em entidades discentes.
+
+1h de participação equivale a 1h de atividade complementar.
+
+MÁXIMO de horas permitidas a serem contabilizadas na modalidade PROGRAMAS
+
+E PROJETOS 180 h
+
+MODALIDADE: DIDÁTICA
+
+D01 Curso de idiomas (atividade extracurricular) em instituições de ensino.
+
+1h de curso equivale a 1h de atividade complementar. D02
+
+Oficinas, cursos e/ ou workshops na área da Comunicação e do Jornalismo.
+
+1h de oficina, curso e/ou workshop equivale a 1h de atividade complementar.
+
+D03 Cursos de qualificação (software, programação, design).
+
+1h de curso equivale a 1h de atividade complementar.
+
+MÁXIMO de horas permitidas a serem contabilizadas na modalidade DIDÁTICA 180 h
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+88
+
+ANEXO IV – REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO
+
+MINUTA DE REGULAMENTO DE TRABALHO DE CONCLUSÃO DO
+
+CURSO DE JORNALISMO DA FACULDADE DE COMUNICAÇÃO
+
+Minuta de regulamento de Trabalho de Conclusão de Curso de Jornalismo da Faculdade de Comunicação da Universidade Federal da Bahia.
+
+CAPÍTULO I DA DEFINIÇÃO E OBJETIVOS DO TRABALHO DE CONCLUSÃO DE
+
+CURSO
+
+Art. 1° O Trabalho de Conclusão de Curso (TCC) é componente curricular obrigatório do curso de Jornalismo e deve ser realizado sob a supervisão docente e avaliado por uma banca examinadora.
+
+Art. 2° O TCC resultará da concepção, planejamento e execução de uma pesquisa científica apresentada na forma de uma monografia ou de um trabalho prático de cunho jornalístico e/ou comunicacional, acompanhado necessariamente por memorial descritivo-analítico.
+
+§ 1° Considera-se monografia o trabalho teórico-reflexivo sobre temas relacionados ao Jornalismo e/ou à Comunicação. § 2° Considera-se trabalho prático de cunho jornalístico e/ou comunicacional produtos que demonstrem a capacidade de produzir narrativas, textos e discursos de acordo com a diversidade de linguagens possibilitadas pelas tecnologias da comunicação, pelas mídias e pela multiplicidade de plataformas, utilizando-se, para isso de técnicas e processos inerentes ao campo do Jornalismo e/ou da Comunicação § 3º Considera-se memorial o trabalho descritivo-analítico que contenha fundamentação teórica e reflexão crítica sobre o produto e seu processo de elaboração. Art. 3° O TCC deve ser realizado em três etapas (Trabalho de Conclusão de Curso em Jornalismo I, Trabalho de Conclusão de Curso em Jornalismo II e Trabalho de Conclusão de Curso em Jornalismo III), de forma a reunir e consolidar a experiência do estudante com os diversos conteúdos, práticas e processos apreendidos durante o curso de Jornalismo.
+
+§ 1° O trabalho prático de cunho jornalístico e/ou comunicacional poderá ser realizado individualmente, em dupla ou em grupo de até três pessoas, a critério do orientador, considerando a natureza e as atividades previstas para a elaboração do produto.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+89
+
+§2° A monografia deve ser desenvolvida individualmente. § 3° As etapas TCC II e TCC III são realizadas com acompanhamento de um/uma docente orientador(a) do quadro de professores do Departamento de Comunicação da Faculdade de Comunicação da UFBA.
+
+Art. 4° Para a obtenção do Grau de Bacharel em Jornalismo, o/a estudante deverá ter concluído todos os componentes curriculares do Curso de Jornalismo, ter cumprido, no mínimo, 360 horas de Atividades Complementares e ter o Trabalho de Conclusão de Curso em Jornalismo aprovado em avaliação perante banca examinadora.
+
+§ Único - A matrícula no componente curricular Trabalho de Conclusão de Curso em Jornalismo III está condicionada ao cumprimento de todas as demais disciplinas do currículo, assim como da comprovação da realização das Atividades Complementares.
+
+Art. 5° O Trabalho de Conclusão de Curso tem como objetivo permitir ao estudante desenvolver:
+
+I. A comunicação de forma pertinente e fundamentada por meio das expressões escrita, visual, sonora e/ou audiovisual; II. A análise crítica de temas e de produtos relacionados ao fenômeno da Comunicação e do Jornalismo; III. A capacidade de síntese e avaliação das áreas de formação intelectual com apropriação
+
+dos conhecimentos adquiridos; IV. A capacidade de produzir narrativas, textos e discursos de acordo com a diversidade de
+
+formatos e linguagens possibilitadas pelas tecnologias da comunicação.
+
+CAPÍTULO II DA COORDENAÇÃO DO TCC
+
+Art. 6º A Coordenação Geral do TCC é responsabilidade de um/a professor/a membro do Colegiado de Graduação da FACOM/UFBA, escolhido pelo órgão, em reunião ordinária.
+
+Art. 7º São atribuições da Coordenação do TCC:
+
+I. Propor e organizar o calendário, cronograma e demais atividades relativas à apresentação e defesa dos TCCs; II. Supervisionar o preenchimento e a distribuição de vagas para as atividades de orientação. Parágrafo único: Nos casos em que faltar um/uma orientador(a) para supervisionar um trabalho, caberá à Coordenação de TCC avaliar, junto ao Departamento de Comunicação da FACOM/UFBA, a disponibilidade dos/as professores/as para assumir novas orientações de TCC.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+90
+
+CAPÍTULO III DA ORIENTAÇÃO
+
+Art. 8º É obrigatório o acompanhamento de um/uma orientador/a durante o desenvolvimento, a apresentação e a defesa do Trabalho de Conclusão de Curso.
+
+§ 1° A orientação deverá ser feita apenas por professores/as pertencentes ao corpo docente permanente da FACOM/UFBA, sendo vedada a professores/as substitutos/as. Membros externos ao corpo docente permanente da FACOM/UFBA poderão atuar como coorientadores/as, desde que supervisionados pelo/a Orientador/a, e certificado/a pelo Colegiado, por meio da Coordenação de TCC. A certificação da coorientação depende de o Orientador/a informar ao Colegiado de Graduação o nome do coorientador/a, por meio do Termo de Aceite.
+
+§ 2° A orientação se dará em horários e locais a serem definidos pelo/a Orientador/a, em módulos semanais de 1 hora/aula para cada projeto.
+
+Art. 9º São atribuições do/a Orientador/a:
+
+I. Oferecer orientação acadêmica aos trabalhos sob sua responsabilidade; II. Verificar a coerência e qualidade do texto que está sendo desenvolvido, avaliando a redação e os conceitos desenvolvidos; III. Elaborar, junto com o/a orientando/a, o plano de trabalho, os conteúdos, etapas de desenvolvimento e cronograma de atendimento, em cumprimento aos prazos do calendário de TCC; IV. Controlar a frequência dos/as orientadores/as às reuniões de orientação; V. Informar ao Colegiado, para fins de homologação, dados para a realização da banca examinadora, conforme modelo e prazo previamente divulgado. VI. Preencher e encaminhar ao Colegiado de Graduação a Ata da Defesa Pública, de modo a comprovar a efetivação da Apresentação Pública do TCC. VII. Lançar a nota atribuída ao trabalho pela banca examinadora. Art. 10 São atribuições dos(as) orientandos(as):
+
+I. Buscar um/uma orientador(a) para supervisionar a elaboração do Trabalho de Conclusão de Curso; II. Preencher o Termo de Aceite, recolher a assinatura do/a Orientador/a e encaminhar à Coordenação de TCC no período estipulado; III. Realizar a matrícula no componente curricular correspondente; IV. Elaborar, junto com o/a orientador/a, o plano de trabalho, os conteúdos,
+
+etapas de desenvolvimento e cronograma de atendimento, em cumprimento aos prazos do calendário de TCC;
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+91
+
+V. Comparecer às reuniões de orientação VI. Desenvolver o trabalho de acordo com as normas procedimentais
+
+estipuladas no Manual do TCC; VII. Apesentar o trabalho em banca na data aprovada pelo Colegiado de
+
+Graduação; VIII. Entregar a versão definitiva do TCC ao Colegiado de Graduação da
+
+FACOM/UFBA até o último dia de aula do semestre em curso, de acordo com o calendário da UFBA.
+
+Art. 11 O limite máximo de orientações de TCCs em Jornalismo, permitido a cada professor/a, será de até quatro trabalhos individuais ou dois trabalhos em grupo ou dois trabalhos individuais mais um trabalho em grupo, por disciplina/semestre.
+
+§ 1º Será facultado ao/à docente propor alterações que julgue necessárias ao projeto de TCC para assumir a orientação. § 2º No caso do/a professor/a orientar TCCs no mesmo semestre em outros cursos do departamento, o número máximo de orientações seguirá deliberação do Departamento de Comunicação da FACOM/UFBA. Art. 12 O/a estudante poderá pleitear a troca de Orientador/a ao final da disciplina Trabalho de Conclusão de Curso em Jornalismo II, contanto que apresente novo Termo de Aceite. Em caso de não ter concluído ou ter sido reprovado em Trabalho de Conclusão de Curso em Jornalismo III, o/a estudante também pode trocar de Orientador.
+
+CAPÍTULO IV DA AVALIAÇÃO FINAL
+
+Art. 13 A avaliação final do Trabalho de Conclusão de Curso é realizada por banca examinadora em apresentação pública, feita em dia, local e horário compatíveis com o calendário determinado pela Coordenação de TCC.
+
+§ 1º O TCC deverá ser encaminhado à banca examinadora com a anuência do/a Orientador/a. § 2º A apresentação pública do TCC consiste na apresentação do trabalho desenvolvido pelo/a estudante, seguida de arguição pela banca examinadora e, por fim, leitura da Ata de Defesa Pública, constando a avaliação atribuída ao trabalho.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+92
+
+§ 3º O/a estudante estará aprovado/a se lhe for atribuída a nota mínima estabelecida pelo Regulamento do Ensino de Graduação e Pós-Graduação, na média das 3 (três) avaliações da banca examinadora. Em caso de reprovação, o/a estudante terá que cursar a disciplina TCC III novamente. Art. 14 As Bancas Examinadoras devem ser compostas por três membros: o/a Orientador/a e dois/duas outros/as avaliadores/as indicados pelo/a Orientador/a. § 1º A composição das bancas será objeto de avaliação do Colegiado de Graduação quanto à pertinência dos nomes apontados em relação às temáticas dos trabalhos a serem julgados. O/a Orientador/a pode interpor recurso à deliberação do Colegiado referente à composição da Banca Examinadora, devendo, neste caso, apresentar as justificativas da sua discordância. § 2º A composição das bancas deve ser apresentada em tempo hábil ao Colegiado de Graduação, conforme prazos definidos no Cronograma do TCC, para que seja discutida e submetida à homologação em reunião plenária. § 3º Apenas um dos membros poderá ser externo à Faculdade de Comunicação. Considera-se membro interno todo/a docente em exercício no Departamento de Comunicação, seja em caráter efetivo ou temporário (como docente substituto/a), assim como discentes de pós-graduação orientados por docente em exercício no Departamento de Comunicação e pós-doutorandos/as sob supervisão de docente em exercício no Departamento de Comunicação. Considera-se membro externo os/as docentes provenientes de outras unidades da UFBA, outras universidades ou faculdades, pesquisadores/as independentes e/ou profissionais com amplos conhecimentos e experiência na área. § 4º A indicação da Banca Examinadora deve ser acompanhada de currículo e/ou justificativa do/a Orientador/a, exceto no caso de membros docentes do Departamento de Comunicação. § 5º É exigido que cada membro tenha, no mínimo, concluído a graduação. Em casos excepcionais, o Colegiado de Graduação poderá aprovar a presença de membro Notório Saber, após avaliação prévia de justificativa do/a Orientador/a. § 6º Casos excepcionais de composição de bancas de TCC devem ser apreciados pelo Colegiado em reunião plenária, por meio de solicitação do/a orientador/a, acompanhada de justificativa para o caso.
+
+CAPÍTULO V DISPOSIÇÕES FINAIS
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+93
+
+Art. 15 O Trabalho de Conclusão de Curso deverá ser desenvolvido de acordo com as normas procedimentais estipuladas no Manual do TCC, a ser implementado pela Coordenação de TCC, a partir de proposta elaborada pelo NDE de jornalismo. Art. 16 Casos omissos serão objeto de deliberação por parte do Colegiado de Graduação.
+
+Salvador, 31 de maio de 2021.
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+94
+
+ANEXO V – NORMAS DE ADAPTAÇÃO E EQUIVALÊNCIAS ENTRE COMPONENTES NOVOS E ANTIGOS
+
+A nova matriz só deverá ser cumprida na íntegra pelos alunos ingressos após a aprovação e
+
+implantação deste Projeto. Os componentes curriculares obrigatórios do fluxograma anterior que
+
+possuem equivalência poderão não ser mais oferecidos a partir da aprovação deste Projeto. Desse
+
+modo, o currículo vigente não será alterado para os discentes em curso, exceto, nos componentes
+
+previstos no quadro de equivalência. Não haverá prejuízo aos estudantes para a sua integralização
+
+curricular.
+
+O discente em curso que se matricular em componentes da nova matriz deverá consultar o
+
+quadro abaixo de equivalência para a adaptação curricular:
+
+Quadro de equivalência entre componentes curriculares antigos e novos
+
+Componente antigo Componente novo
+
+COM102 – Semiótica COMB52 - Comunicação, Meios e Linguagens
+
+COM111 – Oficina de Comunicação Escrita COMB79 – Introdução às práticas jornalísticas
+
+COMB80 – Introdução ao texto jornalístico
+
+COM112 - Oficina de Comunicação Audiovisual COMB81 – Jornalismo Integrado I
+
+COM113 - Comunicação e Atualidade I COMB72 – Comunicação e Atualidade I – Brasil ou componente livre
+
+COM114 - Comunicação e Atualidade II COMB73 – Comunicação e Atualidade II – Bahia ou componente livre
+
+COM116 - Elaboração de Projeto em Comunicação
+
+COMB91 – TCC JOR I
+
+COM117 - Desenvolvimento Orientado de Projeto COMB92 - TCC JOR II
+
+COM118 - Trabalho de Conclusão de Curso em Comunicação
+
+COMB93 - TCC JOR III
+
+COM122 - Comunicação Jornalística COMB89 – Gestão de Práticas e Processos Jornalísticos
+
+UNIVERSIDADE FEDERAL DA BAHIA (UFBA) PROJETO POLÍTICO-PEDAGÓGICO DO CURSO DE GRADUAÇÃO EM JORNALISMO
+
+Aprovado em reunião do Conselho Acadêmico de Ensino em 23/03/2022, Parecer no. 027
+
+95
+
+COM123 - Oficina de Jornalismo Impresso COMB83 - Jornalismo Integrado III
+
+COM124 - Oficina de Radiojornalismo COMB82 - Jornalismo Integrado II
+
+COM125 - Oficina de Telejornalismo COMB84 - Jornalismo Integrado IV
+
+COM126 - Oficina de Jornalismo Digital COMB85 - Jornalismo Integrado V
+
+COM127 - Oficina de Assessoria de Comunicação COMB86 – Jornalismo Integrado VI

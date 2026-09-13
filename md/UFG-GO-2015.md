@@ -1,0 +1,3591 @@
+UNIVERSIDADE FEDERAL DE GOIÁS
+
+PRÓ-REITORIA DE GRADUAÇÃO FACULDADE DE INFORMAÇÃO E COMUNICAÇÃO
+
+CURSO DE JORNALISMO – BACHARELADO
+
+PROJETO PEDAGÓGICO DE CURSO
+
+JORNALISMO - BACHARELADO
+
+DEZEMBRO DE 2015
+
+2
+
+FICHA CATALOGRÁFICA COORDENAÇÃO DE JORNALISMO Título: Projeto Pedagógico do Curso de Jornalismo UFG / 2015. Total de folhas: 66 Diretor da FIC: Magno Luiz Medeiros Coordenadora de curso: Angelita Pereira de Lima Núcleo Docente e Estruturante: Ângela Teixeira de Moraes, Angelita Pereira de Lima, Luciene de Oliveira Dias, Sálvio Juliano Peixoto. Revisão: Alfredo José Lopes Costa, Luciene de Oliveira Dias.
+
+3
+
+SUMÁRIO
+
+I. APRESENTAÇÃO DO PROJETO .................................................... 4 II. EXPOSIÇÃO DE MOTIVOS .............................................................. 5 III. OBJETIVO GERAL ........................................................................... 7 3.1 . Objetivos específicos .................................................................. 7 IV. PRINCÍPIOS PARA A FORMAÇÃO PROFISSIONAL ..................... 8 V. EXPECTATIVA DA FORMAÇÃO PROFISSIONAL .......................... 10 VI. ESTRUTURA CURRICULAR ............................................................ 15 6.1. Matriz Curricular ...................................................................... 17 6.2. Fluxo dos componentes curriculares ....................................... 20 6.3. Componentes de ementa variável............................................ 22 6.4. Subturmas e número de professores....................................... 22 6.5. Horas complementares............................................................ 22 6.6. Ensino a distância ................................................................... 23 VII. POLÍTICA E GESTÃO DE ESTÁGIO CURRICULAR OBRIGATÓRIO E NÃO OBRIGATÓRIO...........................................
+
+23 7.1.     Estágio obrigatório .................................................................. 24 7.2.     Estágio não obrigatório ........................................................... 26 VIII. TRABALHO DE CONCLUSÃO DE CURSO ..................................... 26 8.1.     Dos Projetos Experimentais .................................................... 27 IX. INTEGRAÇÃO ENSINO, PESQUISA E EXTENSÃO........................ 28 X. SISTEMA DE AVALIAÇÃO DO PROCESSO DE ENSINO E DE APRENDIZAGEM ..............................................................................
+
+30 XI. SISTEMA DE AVALIAÇÃO DO PROJETO DE CURSO................... 32 XII. POLÍTICA DE QUALIFICAÇÃO DOCENTE E TÉCNICO- ADMINISTRATIVA DA UNIDADE ACADÊMICA ..............................
+
+33 XIII. REQUISITOS LEGAIS E NORMATIVOS .......................................... 34 XIV. DINÂMICA DAS ATIVIDADES .......................................................... 37 XV. EMENTAS, BIBLIOGRAFIAS BÁSICAS E COMPLEMENTARES DOS COMPONENTES CURRICULARES ........................................
+
+38 XVI. REFERÊNCIAS ................................................................................. 81 XVII. APÊNDICE I - QUADRO DE EQUIVALÊNCIA PARA POSSÍVEIS MIGRAÇÕES .....................................................................................
+
+83
+
+4
+
+UNIVERSIDADE FEDERAL DE GOIÁS
+
+PRÓ-REITORIA DE GRADUAÇÃO FACULDADE DE INFORMAÇÃO E COMUNICAÇÃO
+
+PROJETO PEDAGÓCIO DE CURSOJORNALISMO
+
+I – Apresentação do projeto
+
+a) área de conhecimento: Ciências Sociais Aplicadas
+
+b) modalidade: presencial
+
+c) nome do curso: Jornalismo
+
+d) grau acadêmico: Bacharelado
+
+e) título a ser conferido: Bacharel em Jornalismo
+
+f) habilitação, ênfase e/ou linhas de formação: Não se aplica
+
+g) unidade responsável pelo curso: Faculdade de Informação e
+
+Comunicação
+
+h) carga horária do curso: 3.000 (Três mil horas)
+
+i) turno de funcionamento: Predominantemente matutino
+
+j) funcionamento do curso (para EAD): Não se aplica
+
+k) número de vagas: 50 vagas
+
+l) duração do curso em semestres: mínimo de oito semestres e máximo de
+
+quatorze semestres
+
+m) forma de ingresso ao curso: Sistema de Seleção Unificado (SISU)
+
+n) público-alvo (para cursos a distância): Não se aplica
+
+o) número do ato de integração da IPES no Sistema UAB - Edital ou Portaria
+
+para cursos a distância: Não se aplica
+
+p) número do ato de credenciamento da IPES pelo MEC - para ofertar cursos
+
+a distância: Não se aplica
+
+q) polos onde o curso será ofertado -Não se aplica
+
+5
+
+II – Exposição de motivos
+
+De acordo com a Resolução nº 1, aprovada em 27 de setembro de 2013 pela
+
+Câmara de Educação Superior do Conselho Nacional de Educação, do Ministério da
+
+Educação, são instituídas as Diretrizes Curriculares Nacionais (DCNs) para o curso de
+
+graduação em Jornalismo, bacharelado. Essas novas Diretrizes estabelecem o prazo de
+
+dois anos, ou seja, até setembro de 2015, para que todos os cursos de graduação em
+
+Jornalismo no Brasil façam as atualizações necessárias. Junta-se a essa exigência, o fato
+
+de que a última alteração no currículo de Jornalismo da Universidade Federal de Goiás foi
+
+realizada em 2004, o que também demanda revisão e atualização, tendo em vista as
+
+mudanças na dinâmica do Jornalismo e das práticas sociais frente à inovação tecnológica
+
+e à regulação desse campo.
+
+A Comissão de Especialistas, instituída pelo Ministério da Educação em 2009
+
+para repensar o ensino de Jornalismo, apresentou sua proposta em 2013. Nesse
+
+documento está afirmado que, no contexto de uma sociedade em processo de
+
+transformação decorrente do fortalecimento da democracia, o Jornalismo, assim como
+
+outras áreas do conhecimento, desempenha papel decisivo, informando para a cidadania
+
+e formando as correntes de opinião pública. Os novos instrumentos legais balizam o
+
+atendimento a demandas específicas, no sentido de aperfeiçoar o ensino de Jornalismo,
+
+valorizar a profissão e qualificar para o seu exercício.
+
+As novas DCNs apontam, também, para a necessidade de corrigir as “Diretrizes
+
+Curriculares Nacionais para a área de Comunicação Social e suas habilitações” que,
+
+desde o título, e por todo o texto, conduzem a interpretações equivocadas, ao
+
+confundirem a área acadêmica da comunicação com os cursos de graduação voltados
+
+para a formação das profissões que dela fazem parte. A Comunicação Social não é uma
+
+profissão em nenhum país do mundo, mas sim um campo que reúne várias e diferentes
+
+profissões.
+
+A autonomia curricular para os cursos de graduação plena constitui imperativo
+
+para a constituição e atualização do atual projeto pedagógico. O percurso institucional
+
+6
+
+autônomo é imprescindível para restaurar a identidade do Jornalismo, demarcando bem
+
+sua especificidade profissional e social, sem abdicar, no entanto, de sua inserção
+
+histórica no campo da comunicação e de sua natureza acadêmica como ciência social
+
+aplicada.
+
+Os novos cenários do Jornalismo, conforme preconizado no relatório da
+
+Comissão, diagnosticam um mundo caracterizado pela capacidade discursiva das
+
+organizações e dos cidadãos. Os conteúdos da atualidade, veiculados pelos gêneros
+
+jornalísticos são, em sua esmagadora maioria, ações discursivas de sujeitos que agem no
+
+mundo e sobre o mundo por meio de acontecimentos, atos, falas e/ou silêncios.
+
+Valorizados pelas técnicas e pela identidade ética, esses conteúdos são socializados no
+
+tempo e no espaço do Jornalismo, pelos instrumentos de difusão instantânea universal. E
+
+assim, pelas vias confiáveis do procedimento de apuração e investigação jornalísticas se
+
+globalizam ideias, ações, mercados, sistemas, poderes, discussões, interesses,
+
+antagonismos, acordos.
+
+Nesse cenário, configura-se urgente tornar consistentes e compreensíveis
+
+conceitos plurais – éticos, técnicos, estéticos – para que o Jornalismo tente equacionar o
+
+principal problema que se coloca para a área que é o fenômeno da “revolução das
+
+fontes”. Um movimento acelerado pelas tecnologias de difusão, graças às quais a notícia
+
+se tornou a mais eficaz ferramenta do agir institucional, nos cenários e conflitos da
+
+atualidade.
+
+Constitui forte argumento para a atualização do currículo dos cursos de
+
+Jornalismo, também, a expectativa da sociedade que exige tanto o domínio das técnicas
+
+e da narração quanto o domínio da lógica e das teorias da argumentação. Exige-se o
+
+manejo competente das habilidades pedagógicas na prestação de serviço público, para
+
+que as pessoas possam tomar decisões responsáveis e conscientes, em consonância
+
+com a cidadania. O percurso formativo, estabelecido pelo projeto pedagógico, precisa dar
+
+conta eficazmente dessa demanda.
+
+7
+
+Para reforçar a dignidade do jornalista e da profissão, é indispensável uma noção
+
+de ética vinculada às razões da vida e da cidadania. E a ética que interessa à sociedade
+
+e ao Jornalismo é aquela definida e sintetizada na Declaração Universal dos Direitos
+
+Humanos. É o ideário de um mundo a se construir. É, também, o referencial cultural a que
+
+Jornalismo e jornalistas se devem ater, na relação crítica e prospectiva com a realidade.
+
+III – Objetivo Geral
+
+Formar profissionais de Jornalismo com competência teórica, técnica, ética e
+
+estética para atuarem em todas as linguagens jornalísticas, garantindo a autonomia da
+
+produção, seja em empresas, assessorias, consultorias e projetos de comunicação em
+
+geral.
+
+3.1 – Objetivos específicos
+
+Em sintonia com o que estabelece o Art. 3º das Diretrizes Curriculares Nacionais, o
+
+curso de graduação em Jornalismo da Universidade Federal de Goiás pretende:
+
+a) Oferecer uma formação humanística básica na área das ciências sociais e da
+
+linguagem, efetivando a interdisciplinaridade; b) Formar profissionais com sólida fundamentação epistemológica em Comunicação
+
+Social e Jornalismo, a partir da integração definitiva entre teoria e prática; c) Estimular o compromisso profissional com os princípios democráticos, da
+
+cidadania, dos direitos humanos e da sustentabilidade; d) Incentivar o empreendedorismo; e) Possibilitar a experiência com projetos de pesquisa e extensão; f) Favorecer o desempenho profissional em múltiplos contextos de atuação
+
+jornalística, possibilitando a inserção profissional em contextos institucionais, políticos, geográficos e sociais.
+
+8
+
+IV – Princípios para a formação profissional
+
+O Jornalismo é uma profissão reconhecida internacionalmente e, no Brasil,
+
+encontra-se regulamentada e descrita no Código Brasileiro de Ocupações do Ministério
+
+do Trabalho. Seu surgimento remonta ao século XVII, mas somente na segunda metade
+
+do século XIX é que essa prática deixou de ser uma ocupação secundária de escritores,
+
+políticos, advogados e religiosos, e de publicidade das atividades mercantilistas, para
+
+tornar-se uma profissão baseada em conhecimentos técnico, teórico e ético específicos,
+
+exigindo formação adequada por parte de quem deseja exercê-la.
+
+Essa qualificação e capacitação especiais, baseadas em um código de conduta,
+
+orienta o Jornalismo a relacionar-se com a sociedade dentro da esfera pública da
+
+informação e da opinião, a partir de certos parâmetros. Ou seja, o discurso sobre a
+
+realidade oferecido à sociedade envolve conceitos sobre o que seja notícia, bem como
+
+uma forma própria de hierarquização e estética narrativa dos acontecimentos a serem
+
+publicizados.
+
+No cenário atual, em que boa parte dos cidadãos pode produzir e disponibilizar
+
+suas próprias informações, graças ao acesso às novas tecnologias da comunicação e da
+
+informação, é imprescindível distinguir o discurso jornalístico dos demais circulantes. O
+
+relato e o comentário sobre os acontecimentos requerem, por parte do profissional de
+
+Jornalismo, compromissos com a verdade; com um sistema confiável de apuração e
+
+investigação; com a pluralidade de pontos de vista sobre um mesmo fato; e,
+
+sobremaneira, estar a serviço da defesa dos direitos humanos.
+
+Essa função social é o que legitima a prática jornalística, especialmente em um
+
+mundo cuja abundância de informações pode gerar dispersão, boatos e lacunas
+
+cognitivas. O Jornalismo, nesse sentido, propõe-se a ser uma esfera especializada na
+
+seleção de fatos relevantes, nas análises das circunstâncias de irrupção desses fatos, e
+
+na discussão dos juízos que florescem em seu entorno.
+
+9
+
+Tal proposta de o Jornalismo como organizador simbólico da realidade baseia-se
+
+nos seguintes fundamentos:
+
+a) Ético: fidelidade possível ao ocorrido, reconhecimento da diversidade de
+
+opiniões, viabilização do diálogo social;
+
+b) Estético: narrativas relevantes, atraentes e equilibradas;
+
+c) Técnico: adoção de padrões e procedimentos ágeis e confiáveis de
+
+captação, produção e disseminação de notícias; e
+
+d) Teórico: reflexão da prática profissional apoiada em estudos e pesquisas
+
+que possibilitam a crítica sobre o Jornalismo e sobre as temáticas diretamente
+
+relacionadas a ele.
+
+Neste projeto pedagógico, esses fundamentos articulam-se de forma
+
+interdisciplinar e por meio de uma intrínseca relação entre teoria e prática. As diferentes
+
+disciplinas e práticas pedagógicas integram ética, estética, técnica e teoria, seja em aulas
+
+de preleção, seja em atividades laboratoriais, de pesquisa e de extensão.
+
+Nesse sentido, são estratégias que estimulam a prática interdisciplinar e a não
+
+dissociação entre teoria e prática:
+
+a) O planejamento conjunto dos docentes do curso, visando à definição de
+
+projetos de ensino, pesquisa e extensão baseados em conhecimentos compartilhados
+
+pelas diferentes filiações teóricas e experiências profissionais desses docentes.
+
+b) A inserção no plano de ensino de componentes curriculares eminentemente
+
+de preleção de análises de casos práticos no âmbito do Jornalismo, além das tradicionais
+
+abordagens teóricas.
+
+c) A inserção no plano de ensino de componentes curriculares eminentemente
+
+laboratoriais de reflexão teórica quanto às políticas de produção adotadas.
+
+d) A promoção de encontros periódicos entre professores primariamente
+
+vinculados ao curso com aqueles vinculados a outros departamentos, especialmente às
+
+10
+
+áreas de ciências humanas, sociais e de linguagem, visando a integração dos conteúdos
+
+ministrados por estes últimos no âmbito do Jornalismo.
+
+e) A realização de eventos que prestigiem a presença de profissionais do
+
+mercado da comunicação e da informação, a fim que de o ambiente acadêmico se
+
+atualize em relação às novas competências do mundo do trabalho.
+
+f) Ter compromisso com a leitura e compreensão da realidade local, em que o
+
+curso e os estudantes (futuros jornalistas) estão inseridos, na perspectiva de gerar
+
+produtos jornalísticos que tenham consonância com as demandas locais.
+
+Esses princípios da formação profissional atendem às Diretrizes Curriculares
+
+Nacionais (Resolução nº 01, de 27 de dezembro de 2013), quando se referem à
+
+integração dos conteúdos ministrados no curso e aos eixos de desenvolvimento
+
+curricular.
+
+V – Expectativa da formação profissional
+
+O curso de Jornalismo da UFG propõe-se a qualificar o discente no âmbito da
+
+criticidade, das habilidades multimidiáticas, do desenvolvimento de habilidades dialógicas
+
+diante dos conflitos e da diversidade dos discursos sociais, e do respeito aos códigos
+
+deontológicos da profissão. Esta formação capacita o egresso a atuar como produtor
+
+intelectual e agente da cidadania, dando conta, por um lado, da complexidade e do
+
+pluralismo característicos da sociedade e da cultura contemporâneas e, por outro lado,
+
+dos fundamentos teóricos e técnicos especializados.
+
+No âmbito das competências gerais estão:
+
+a) Compreender e valorizar, como conquistas históricas da cidadania e indicadores
+
+de um estágio avançado de civilização, em processo constante de riscos e
+
+aperfeiçoamento: o regime democrático, o pluralismo de ideias e de opiniões, a
+
+11
+
+cultura da paz, os direitos humanos, as liberdades públicas, a justiça social e a
+
+sustentabilidade;
+
+b) Conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a
+
+realidade social, econômica e política brasileira, considerando especialmente a
+
+diversidade regional, os contextos latino-americano e ibero-americano, o eixo sul-
+
+sul e o processo de internacionalização da produção jornalística;
+
+c) Identificar e reconhecer a relevância e o interesse público entre os temas da
+
+atualidade;
+
+d) Distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas
+
+e profissionais;
+
+e) Pesquisar, selecionar e analisar informações em qualquer campo de conhecimento
+
+específico;
+
+f) Dominar a expressão oral e a escrita em língua portuguesa;
+
+g) Ter domínio instrumental de, pelo menos, dois outros idiomas –preferencialmente
+
+inglês e espanhol, integrantes que são do contexto geopolítico em que o Brasil está
+
+inserido;
+
+h) Interagir com pessoas e grupos sociais de formações e culturas diversas e
+
+diferentes níveis de escolaridade;
+
+i) Ser capaz de trabalhar em equipes profissionais multifacetadas;
+
+j) Saber utilizar as tecnologias de informação e comunicação;
+
+k) Pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+
+l) Cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação
+
+ao conhecimento;
+
+m) Compreender que o aprendizado é processual e permanente;
+
+n) Saber conviver com o poder, a fama e a celebridade, mantendo a independência e
+
+o distanciamento necessários em relação a eles;
+
+o) Perceber constrangimentos à atuação profissional e desenvolver senso crítico em
+
+relação a isso;
+
+p) Procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais;
+
+q) Atuar sempre com discernimento ético.
+
+12
+
+Em relação às competências específicas, no âmbito cognitivo, pragmático e
+
+comportamental, temos:
+
+Competências cognitivas:
+
+a) Conhecer a história, os fundamentos e os cânones profissionais do Jornalismo;
+
+b) Conhecer a construção histórica e os fundamentos da cidadania;
+
+c) Compreender e valorizar o papel do Jornalismo na democracia e no exercício da
+
+cidadania;
+
+d) Compreender as especificidades éticas, técnicas e estéticas do Jornalismo, em
+
+sua complexidade de linguagem e como forma diferenciada de produção e socialização
+
+de informação e conhecimento sobre a realidade;
+
+e) Discernir os objetivos e as lógicas de funcionamento das instituições privadas,
+
+estatais, públicas, partidárias, religiosas ou de outra natureza em que o Jornalismo é
+
+exercido, assim como as influências do contexto sobre esse exercício.
+
+Competências pragmáticas:
+
+a) contextualizar, interpretar e explicar informações relevantes da atualidade,
+
+agregando-lhes elementos de elucidação necessários à compreensão da
+
+realidade;
+
+b) Perseguir elevado grau de precisão no registro e na interpretação dos fatos
+
+noticiáveis;
+
+c) Propor, planejar, executar e avaliar projetos na área de Jornalismo;
+
+d) Organizar pautas e planejar coberturas jornalísticas;
+
+e) Formular questões e conduzir entrevistas;
+
+13
+
+f) Adotar critérios de rigor e independência na seleção das fontes e no
+
+relacionamento profissional com elas, tendo em vista o princípio da pluralidade, o
+
+favorecimento do debate, o aprofundamento da investigação e a garantia social da
+
+veracidade;
+
+g) Dominar metodologias jornalísticas de apuração, depuração, aferição, além das de
+
+produzir, editar e difundir;
+
+h) Conhecer conceitos e dominar técnicas dos gêneros jornalísticos;
+
+i) Produzir enunciados jornalísticos com clareza, rigor e correção e ser capaz de
+
+editá-los em espaços e períodos de tempo limitados;
+
+j) Traduzir em linguagem jornalística, preservando-os, conteúdos originalmente
+
+formulados em linguagens técnico-científicas, mas cuja relevância social justifique
+
+e/ou exija disseminação não especializada;
+
+k) Elaborar, coordenar e executar projetos editoriais de cunho jornalístico para
+
+diferentes tipos de instituições e públicos;
+
+l) Elaborar, coordenar e executar projetos de assessoria jornalística a instituições
+
+legalmente constituídas de qualquer natureza, assim como projetos de Jornalismo
+
+em comunicação comunitária, estratégica ou corporativa;
+
+m) Compreender, dominar e gerir processos de produção jornalística, bem como ser
+
+capaz de aperfeiçoá-los pela inovação e pelo exercício do raciocínio crítico;
+
+n) Dominar linguagens midiáticas e formatos discursivos, utilizados nos processos de
+
+produção jornalística nos diferentes meios e modalidades tecnológicas de
+
+comunicação;
+
+o) Dominar o instrumental tecnológico – hardware e software – utilizado na produção
+
+jornalística;
+
+p) Avaliar criticamente produtos e práticas jornalísticas.
+
+14
+
+Competências comportamentais
+
+a) Perceber a importância e os mecanismos da regulamentação político-
+
+jurídica da profissão e do campo da Comunicação Social;
+
+b) Identificar, estudar e analisar questões éticas e deontológicas no Jornalismo;
+
+c) Conhecer e respeitar os princípios éticos e as normas deontológicas da
+
+profissão;
+
+d) Avaliar, à luz de valores éticos, as razões e os efeitos das ações
+
+jornalísticas;
+
+e) Atentar para os processos que envolvam a recepção de mensagens
+
+jornalísticas e o seu impacto sobre os diversos setores da sociedade;
+
+f) Impor aos critérios, às decisões e às escolhas da atividade profissional as
+
+razões do interesse público;
+
+g) Exercer, sobre os poderes constituídos, fiscalização comprometida com a
+
+verdade dos fatos, o direito dos cidadãos à informação e o livre trânsito das
+
+ideias e das mais diversas opiniões.
+
+A partir dessas competências e habilidades, o curso de Jornalismo da UFG
+
+oferece, como elementos diferenciais, atividades de extensão visando ao
+
+desenvolvimento local, ao empreendedorismo e à inovação, à investigação jornalística a
+
+partir das análises de bancos de dados e à pesquisa acadêmica.
+
+Todos os projetos de extensão serão, prioritariamente, destinados a atender a
+
+população de Goiânia e de Goiás em suas necessidades de comunicação e informação.
+
+Incluem-se aí as entidades do terceiro setor, os movimentos sociais organizados, as
+
+instituições educacionais e as organizações do Estado. Vale ressaltar que todas as
+
+entidades devem pautar-se pelo respeito às diferenças e a observação do cumprimento
+
+dos preceitos constitucionais de cidadania e sustentabilidade.
+
+O empreendedorismo visa disponibilizar ao discente as ferramentas técnicas e
+
+teóricas que o tornem um profissional autônomo e que o favoreçam no desenvolvimento
+
+15
+
+de suas faculdades criativas para propor novos modelos de comunicação e de
+
+Jornalismo.
+
+Criar e acessar bases de dados constitui uma das inovações que as novas
+
+tecnologias da comunicação e da informação trouxeram ao Jornalismo. Hoje existe uma
+
+área específica denominada Jornalismo de Dados para suprir esse campo. Capacitar o
+
+discente a buscar, organizar e contextualizar dados disponíveis na Internet é fundamental
+
+para inseri-lo no mercado de trabalho cada vez mais dependente da tecnologia.
+
+Quanto à pesquisa, o curso de Jornalismo compromete-se no desenvolvimento da
+
+Iniciação Científica, com a proposta regular de projetos de pesquisa, visando preparar o
+
+discente para a pós-graduação e para a produção de novos conhecimentos nos campos
+
+da Comunicação Social e Jornalismo.
+
+VI – Estrutura curricular
+
+A estrutura curricular proposta neste PPC atende aos seis eixos de formação
+
+profissional que estão dispostos nas Diretrizes Curriculares do Curso de Jornalismo
+
+aprovadas pelo MEC. Esses eixos são:
+
+ Fundamentação Humanística: componentes que visam capacitar o
+
+jornalista para exercer a sua função intelectual de produtor e difusor de informações e
+
+conhecimentos de interesse para a cidadania, privilegiando a realidade brasileira, como
+
+formação histórica, estrutura jurídica e instituições políticas contemporâneas; sua
+
+geografia humana e economia política; suas raízes étnicas, regiões ecológicas, cultura
+
+popular, crenças e tradições; arte, literatura, ciência, tecnologia, bem como os fatores
+
+essenciais para o fortalecimento da democracia, entre eles as relações internacionais, a
+
+diversidade cultural, os direitos individuais e coletivos; as políticas públicas, o
+
+desenvolvimento sustentável, as oportunidades de esportes, lazer e entretenimento e o
+
+acesso aos bens culturais da humanidade, sem se descuidar dos processos de
+
+globalização, regionalização e das singularidades locais, comunitárias e da vida cotidiana.
+
+16
+
+ Fundamentação Específica: componentes que visam proporcionar ao
+
+jornalista clareza conceitual e visão crítica sobre a especificidade de sua profissão, tais
+
+como: fundamentos históricos, taxonômicos, éticos, epistemológicos; ordenamento
+
+jurídico e deontológico; instituições, pensadores e obras canônicas; manifestações
+
+públicas, industriais e comunitárias; os instrumentos de autorregulação; observação
+
+crítica; análise comparada; revisão da pesquisa científica sobre os paradigmas
+
+hegemônicos e as tendências emergentes.
+
+ Fundamentação Contextual: componentes que visam embasar o
+
+conhecimento das teorias da comunicação, informação e cibercultura, em suas
+
+dimensões filosóficas, políticas, psicológicas e socioculturais, o que deve incluir as rotinas
+
+de produção e os processos de recepção, bem como a regulamentação dos sistemas
+
+midiáticos, em função do mercado potencial, além dos princípios que regem as áreas
+
+conexas.
+
+ Fundamentação Profissional: componentes que visam fundamentar o
+
+conhecimento teórico e prático, familiarizando os estudantes com os processos de
+
+gestão, produção, métodos e técnicas de apuração, redação e edição jornalística,
+
+possibilitando-lhes investigar os acontecimentos relatados pelas fontes, bem como
+
+capacitá-los a exercer a crítica e a prática redacional em língua portuguesa, de acordo
+
+com os gêneros e os formatos jornalísticos instituídos, as inovações tecnológicas,
+
+retóricas e argumentativas.
+
+ Aplicação Processual: componentes que visam fornecer ao jornalista
+
+ferramentas técnicas e metodológicas, de modo que possa efetuar coberturas em
+
+diferentes suportes: jornalismo impresso, radiojornalismo, telejornalismo, webjornalismo,
+
+assessorias de imprensa e outras demandas do mercado de trabalho.
+
+ Prática Laboratorial: componentes que visam adquirir conhecimentos e
+
+desenvolver habilidades inerentes à profissão a partir da aplicação de informações e
+
+valores. Possui a função de integrar os demais eixos, alicerçado em projetos editoriais
+
+definidos e orientados a públicos reais, com publicação efetiva e periodicidade regular,
+
+tais como: jornal, revista e livro, jornal mural, radiojornal, telejornal, webjornal, agência de
+
+notícias, assessoria de imprensa, entre outros
+
+17
+
+6.1 Matriz Curricular
+
+A partir da análise dos eixos mencionados no item anterior, a matriz curricular fica
+
+assim definida:
+
+Componente
+
+Curricular
+
+Unidade Acadêmica
+
+Responsável
+
+Pré- requisito
+
+Co- requisit
+
+o
+
+CH semanal CH Total
+
+Núcleo Natureza CH
+
+PCC Teórica Prática
+
+\01. Produção de Texto Jornalístico I (PTJ I)
+
+FIC 16 48 64 NE OBR
+
+\02. Estudos da Imagem
+
+FIC 48 16 64 NC OBR
+
+\03. Introdução ao Jornalismo
+
+FIC 16 16 32 NE OBR
+
+\04. História do Jornalismo
+
+FIC 48 16 64 NE 0BR
+
+\05. Língua Portuguesa
+
+FIC 32 32 64 NC OBR
+
+\06. Cidadania e Direitos Humanos
+
+FIC 16 16 32 NC OBR
+
+\07. Produção em Áudio
+
+FIC 16 16 32 NE OBR
+
+\08. Produção de Texto Jornalístico II (PTJ II)
+
+FIC 16 48 64 NE OBR
+
+\09. Fotografia Básica
+
+FIC 16 48 64 NC OBR
+
+\10. Ética e Legislação da comunicação
+
+FIC 48 16 64 NE OBR
+
+\11. Cibercultura FIC 32 0 32 NC OBR 12. Política Brasileira
+
+FIC 48 16 64 NC OBR
+
+\13. Fotojornalismo
+
+FIC 16 48 64 NE OBR
+
+\14. Sociologia FCS 48 16 64 NC OBR 15. Produção Audiovisual
+
+FIC 16 48 64 NC OBR
+
+\16. Teorias do Jornalismo
+
+FIC 48 16 64 NE OBR
+
+\17. Jornalismo em Rádio
+
+FIC 16 16 32 NE OBR
+
+\18. Gestão da Comunicação nas Organizações
+
+FIC 16 16 32 NC OBR
+
+\19. Teorias da Comunicação
+
+FIC 48 16 64 NC OBR
+
+\20. Jornalismo Impresso
+
+FIC 16 48 64 NE OBR
+
+18
+
+Componente
+
+Curricular
+
+Unidade Acadêmica
+
+Responsável
+
+Pré- requisito
+
+Co- requisit
+
+o
+
+CH semanal CH Total
+
+Núcleo Natureza CH
+
+PCC Teórica Prática
+
+\21. Planejamento Gráfico e Editorial
+
+FI 32 32 64 NE OBR
+
+\22. Antropologia FCS 48 16 64 NC OBR 23. Jornalismo na Web
+
+FIC 16 48 64 NE OBR
+
+\24. Jornalismo em TV I
+
+FIC 16 48 64 NE OBR
+
+\25. Teorias e Métodos de Pesquisa em Comunicação
+
+FIC 48 16 64 NC OBR
+
+\26. Jornalismo em TV II
+
+FIC 16 48 64 NE OBR
+
+\27. Estágio Curricular Supervisionado
+
+FIC PTJ I, PTJ II,
+
+Jornalismo
+
+em Rádio, Jornalismo
+
+Impresso, Jornalismo
+
+na Web, Jornalismo
+
+em TV I, Fotojornalis
+
+mo
+
+16 192 208 NE OBR
+
+\28. Assessoria e Consultoria em Comunicação
+
+FIC 32 32 64 NC OBR
+
+\29. Iniciação Científica
+
+FIC 16 48 64 NC 0BR
+
+\30. Metodologia e Prática de Extensão
+
+FIC 16 48 64 NC OBR
+
+\31. Jornalismo Especializado
+
+FIC 32 32 64 NE OBR
+
+\32. Trabalho de Conclusão de Curso I (TCC I)
+
+FIC Teoria e Métodos de Pesquisa em
+
+Comunicaçã
+
+o
+
+16 48 64 NC OBR
+
+\33. Produção de Texto Jornalístico III (PTJ III)
+
+FIC 16 16 32 NE OBR
+
+\34. Laboratório Integrado
+
+FIC 16 48 64 NE OBR
+
+\35. Empreendedoris mo e Negócios em Comunicação
+
+FIC 32 32 64 NC OBR
+
+\36. Trabalho de FIC TCC I 16 48 64 NC OBR
+
+19
+
+Componente
+
+Curricular
+
+Unidade Acadêmica
+
+Responsável
+
+Pré- requisito
+
+Co- requisit
+
+o
+
+CH semanal CH Total
+
+Núcleo Natureza CH
+
+PCC Teórica Prática
+
+Conclusão de Curso II (TCC II)
+
+\37. Comunicação para a Sustentabilidade
+
+FIC 16 16 32 NC OBR
+
+\38. Tópicos em Comunicação
+
+FIC 32 0 32 NE OPT
+
+\39. Laboratório Orientado
+
+FIC 16 48 64 NE OPT
+
+\40. Espaço, Comunicação e Sociedade
+
+FIC/IESA 48 16 64 NE OPT
+
+\41. Jornalismo Compartilhado e Popular
+
+FIC 32 32 64 NE OPT
+
+\42. Recursos Visuais em Jornalismo
+
+FIC 16 48 64 NE OPT
+
+\43. Documentário
+
+FIC 16 48 64 NE OPT
+
+\44. História do Cinema
+
+FIC 48 16 64 NE OPT
+
+\45. Língua Estrangeira Instrumental
+
+FL 16 48 64 NE OPT
+
+\46. Geopolítica IESA 48 16 64 NE OPT 47. Psicologia FE 48 16 64 NE OPT 48. Libras FL 32 32 64 NE OPT 49. Educomunicaçã o
+
+FIC 32 32 64 NE OPT
+
+\50. Módulos Integrados de Introdução à Filosofia
+
+FAFIL 48 16 64 NE OPT
+
+O/A discente é obrigado a cursar o mínimo de 3.000 horas, sendo 2.256 horas de disciplinas obrigatórias dos núcleos comum e específico, 496 horas de disciplinas optativas, 128 horas de núcleo livre e 120 horas de atividades complementares.
+
+Esta matriz distribui a carga horária geral do curso da seguinte forma:
+
+COMPONENTES CURRICULARES CARGA HORÁRIA PERCENTUAL NÚCLEO COMUM (NC) 1.088 hs 36,26% NÚCLEO ESPECÍFICO OBRIGATÓRIO (NEOB)
+
+1.168 hs
+
+38,96%
+
+NÚCLEO ESPECÍFICO OPTATIVO 496 hs 16,53%
+
+20
+
+(NEOP)
+
+NÚCLEO LIVRE 128 hs 4,26% ATIVIDADES COMPLEMENTARES 120 hs 4% CARGA HORÁRIA TOTAL (CHT) 3.000 hs 100%
+
+6.2 Fluxo dos componentes curriculares
+
+O fluxo da oferta dos componentes curriculares obrigatórios por período segue no quadro abaixo.
+
+Disciplinas Obrigatórias Créditos Núcleo Unidade PRIMEIRO PERÍODO PTJ I 04 NE FIC Estudos da Imagem 04 NC FIC Introdução ao Jornalismo 02 NE FIC História do Jornalismo 04 NE FIC Língua Portuguesa 04 NC FL Cidadania e Dir. Humanos 02 NC FIC SEGUNDO PERÍODO Produção em áudio 02 NE FIC PTJ II 04 NE FIC Fotografia Básica 04 NC FIC Ética e legislação da Comunicação
+
+04 NE FIC
+
+Cibercultura 02 NC FIC Política Brasileira 04 NC FCS TERCEIRO PERÍODO Fotojornalismo 04 NE FIC Sociologia 04 NC FIC Produção Audiovisual 04 NC FIC Teorias do Jornalismo 04 NE FIC Jornalismo em Rádio 02 NE FIC Gestão da Comunicação nas Organizações
+
+02 NC FIC
+
+Jornalismo na web 04 NE FIC QUARTO PERÍODO Teorias da Comunicação 04 NC FIC Jornalismo Impresso 04 NE FIC Planejamento gráfico e editorial
+
+04 NE FIC
+
+21
+
+Disciplinas Obrigatórias Créditos Núcleo Unidade PRIMEIRO PERÍODO Antropologia 04 NC FCS Jornalismo em TV I 04 NE FIC QUINTO PERÍODO Teoria e Métodos de Pesquisa em Comunicação
+
+04 NC FIC
+
+Jornalismo em TV II 04 NE FIC
+
+Estágio Curricular Supervisionado
+
+13 NE FIC
+
+Assessoria e Consultoria em Comunicação
+
+04 NC FIC
+
+SEXTO PERÍODO Iniciação Científica 04 NC FIC Metodologia e Prática de Extensão
+
+04 NC
+
+SÉTIMO PERÍODO Jornalismo Especializado 04 NE FIC TCC I 04 NC FIC PTJ III- Jornalismo Opinativo 02 NE FIC Laboratório Integrado 04 NE FIC Empreendedorismo e Negócios em Comunicação
+
+04 NC FIC
+
+OITAVO PERÍODO TCC II 04 NC FIC Comunicação para a Sustentabilidade
+
+02 NC FIC
+
+PERÍODOS VARIADOS Optativas 31 NE Variadas Núcleo Livre 08 NL Variadas
+
+As disciplinas optativas previstas são:
+
+Disciplinas Optativas Créditos Período Núcleo Unidade Tópicos em Comunicação
+
+02 A partir
+
+do 1º
+
+NE FIC
+
+Laboratórios orientados 04 A partir
+
+do 2º
+
+NE FIC
+
+Espaço, Comunicação e Sociedade
+
+04 A partir
+
+do 2º
+
+NE FIC/IESA
+
+Jornalismo Compartilhado e Popular
+
+04 A partir
+
+do 4º
+
+NE FIC
+
+22
+
+Disciplinas Optativas Créditos Período Núcleo Unidade Recursos Visuais em Jornalismo
+
+04 A partir
+
+do 4º
+
+NE FIC
+
+Documentário 04 A partir
+
+do 6º
+
+NE FIC
+
+História do Cinema 04 A partir
+
+do 2º
+
+NE FIC
+
+Língua estrangeira instrumental
+
+04 A partir
+
+do 1º
+
+NE FL
+
+Geopolítica 04 A partir
+
+do 3º
+
+NE IESA
+
+Psicologia 04 A partir
+
+do 3ª
+
+NE PSI
+
+Libras 04 A partir
+
+do 1º
+
+NE FL
+
+Educomunicação 04 A partir
+
+do 4º
+
+NE FIC
+
+Módulos Integrados de Introdução à Filosofia
+
+04 A partir
+
+do 3º
+
+NE FAFIL
+
+6.3 Componentes de ementa variável
+
+As disciplinas Jornalismo Especializado, Laboratório Orientado e Tópicos em Comunicação são componentes curriculares de ementa variável, e visam atender às demandas contemporâneas de estudos e práticas da comunicação social e do jornalismo.
+
+6.4 Subturmas e número de professores
+
+A formação de subturmas para atender aos componentes curriculares que exigem laboratório será exigida quando o número de matriculados exceder em 25 alunos.
+
+As disciplinas Laboratório Integrado e TCC II serão necessariamente ministradas por dois ou mais professores.
+
+6.5 Horas complementares
+
+Para integralizar o curso, o/a discente deve apresentar certificação que corresponda a 120 horas de participação em eventos científicos, tais como: colóquios, conferências, congressos, convenções, minicursos, debates, palestras, fóruns, jornadas, feiras, simpósios, seminários, oficinas, mesas redondas e mostras.
+
+Participações em projetos de pesquisa, de extensão e monitorias também serão consideradas.
+
+23
+
+O aproveitamento para cada tipo de atividade é de no máximo 20 horas.
+
+Somente serão consideradas atividades complementares aquelas que configuram ensino, pesquisa, e extensão, a partir dos princípios da laicidade, dos direitos humanos, e que não firam a Constituição Brasileira.
+
+6.6 Ensino a distância
+
+A graduação em Jornalismo da UFG pode ter até 20% da carga horária total do curso, ou de seus componentes curriculares, ministrados a distância. Ou seja, das 3.000 horas previstas, 600 horas podem contar com o auxílio de plataformas digitais planejadas para esse fim. Contudo, em consonância ao Decreto nº 5.622, de 19 de dezembro de 2005, Art. 4º, Inciso II, § 2º, há que se respeitar a prevalência da avaliação presencial para fins de aprovação, conclusão de estudos e obtenção de diplomas ou certificados. A definição de disciplinas que serão ministradas a distância se dará por meio de aprovação em Conselho Diretor da Unidade.
+
+VII - Política e gestão de estágio curricular obrigatório e não obrigatório
+
+Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de
+
+trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam
+
+frequentando o ensino regular em instituições de educação superior, de educação
+
+profissional, de ensino médio, da educação especial e dos anos finais do ensino
+
+fundamental, na modalidade profissional da educação de jovens e adultos.
+
+De acordo com a Lei nº 11.788 de 25 de setembro de 2008, o estágio de
+
+estudantes faz parte do projeto pedagógico do curso, além de integrar o itinerário
+
+formativo do educando. O estágio visa ao aprendizado de competências próprias da
+
+atividade profissional e à contextualização curricular, objetivando o desenvolvimento do
+
+educando para a vida cidadã e para o trabalho.
+
+Conforme determinação das diretrizes curriculares, o estágio em Jornalismo é
+
+obrigatório. No presente Projeto prevê-se, também, a permanência do estágio não
+
+obrigatório que terá como pré-requisito a realização do estágio curricular obrigatório.
+
+24
+
+Estágio obrigatório é aquele definido como tal no projeto do curso, cuja carga
+
+horária é requisito para aprovação e obtenção de diploma. Estágio não obrigatório é
+
+aquele desenvolvido como atividade opcional, acrescida à carga horária regular e
+
+obrigatória.
+
+7.1 - Estágio Obrigatório
+
+As DCNs instituem o estágio obrigatório na formação do/a jornalista no Brasil. O
+
+estágio não obrigatório já vinha sendo praticado pela maioria das instituições baseado na
+
+Lei do estágio brasileiro e na regulamentação firmada entre Federação dos Jornalistas
+
+Profissionais do Brasil e instituições de ensino.
+
+A instituição do estágio obrigatório em 208 horas aponta para a necessidade da
+
+formação teórica e prática em todas as linguagens jornalísticas para que o/a discente
+
+possa se matricular na disciplina e realizar o estágio obrigatório. Dessa forma, para sua
+
+execução, foram adotadas as seguintes políticas no curso de Jornalismo:
+
+a) Definição do Campo de estágio obrigatório
+
+b) O fluxo da formação
+
+c) A supervisão de estágio
+
+d) A relação do estágio obrigatório com o não obrigatório
+
+O estágio obrigatório deverá ser cumprido na Universidade Federal de Goiás,
+
+prioritariamente. Os organismos de comunicação da UFG, tais como a Ascom, a Rádio
+
+Universitária e a TV UFG, se comprometem a ofertar semestralmente vagas, mediante
+
+edital, nas seguintes modalidades:
+
+ ASCOM– Todas as rotinas de produção em assessoria; vagas para os
+
+turnos matutino e vespertino, incluindo fotografia.
+
+ TV UFG –Vagas para as funções de redator/produtor, repórter, editor de
+
+texto e imagem, repórter cinematográfico, tanto para produção de programa
+
+específico quanto para outros tipos de produção.
+
+25
+
+ RÁDIO UNIVERSITÁRIA – Todas as rotinas de produção: vagas para
+
+produção de programa específico no período matutino.
+
+Além disso, os/as discentes poderão cumprir seu estágio em unidades
+
+acadêmicas, laboratórios de pesquisa e extensão da UFG, desde que sejam regulados o
+
+fluxo de ocupação das vagas e a oferta das mesmas.
+
+Instituições sem fins lucrativos de interesse público que realizem ações sociais
+
+condizentes com o estabelecido nas DCNs, no que se refere aos direitos humanos,
+
+cidadania, sustentabilidade, democracia, movimentos sociais, poderão constituir-se
+
+campo de estágio obrigatório, desde que sejam estabelecidos devidos critérios e
+
+convênios.
+
+O/a discente cursará o estágio obrigatório a partir do quinto ou do sexto período de
+
+seu curso, conforme o fluxo da matriz curricular e oferta de vagas para o estágio. Dessa
+
+forma, metade da turma poderá cumprir o estágio no semestre ímpar e a outra metade no
+
+semestre par. As disciplinas de NE obrigatórias, de formação básica e técnica em todas
+
+as linguagens jornalísticas, conforme o designado na Matriz Curricular, serão pré-
+
+requisitos para o estágio obrigatório.
+
+O estágio obrigatório terá um/a professor/a titular da disciplina e a orientação será
+
+de responsabilidade de todos/as os/as docentes do curso, de forma a garantir rotatividade
+
+e compartilhamento. O/a coordenador/a do estágio será o/a responsável pela disciplina
+
+Estágio Curricular Supervisionado. Para cumprir o estágio obrigatório o/a discente deverá:
+
+ Estar matriculado na disciplina de Estágio supervisionado obrigatório ou tê-
+
+la cursado;
+
+ Preencher o termo de compromisso;
+
+ Elaborar o plano de estágio;
+
+ Ter registro de frequência e apresentar relatório final.
+
+Todo/a estagiário/a terá direito ao seguro contratado pela UFG.
+
+26
+
+O estágio feito fora do país poderá ser aproveitado ou reconhecido como estágio
+
+curricular obrigatório, desde que garantidos os pré-requisitos acadêmicos e documentais
+
+e se adequem à proposta acadêmica do presente curso.
+
+7.2 - Estágio não obrigatório
+
+O estágio curricular não obrigatório só poderá ser realizado em empresas
+
+devidamente conveniadas com a UFG ou utilizar-se de agente de integração conveniados
+
+com a UFG. Além disso, é preciso ter um supervisor no local de estágio e um/a
+
+professor/a do curso como orientador/a do estágio. Para fazer o estágio não obrigatório o
+
+estudante deve estar cursando, no mínimo, o sexto período da graduação e comprovar
+
+por meio do histórico escolar que cursou estágio obrigatório.
+
+O aluno deve apresentar relatórios semestrais, preencher o termo de compromisso
+
+e o plano de estágio, além de apresentar a frequência. Nesse tipo de estágio o seguro é
+
+por conta do local de estágio. A carga horária do estágio não obrigatório não será
+
+computada como carga-horária curricular para o estudante.
+
+VIII – Trabalho de Conclusão de Curso
+
+Os Trabalhos de Conclusão do Curso de Jornalismo da UFG devem estimular a
+
+reflexão crítica e a criatividade que permitam entender e interferir nas novas práticas
+
+jornalísticas e comunicacionais. A finalidade dessas produções é tanto promover a
+
+integração entre a teoria e a prática quanto o aprofundamento da pesquisa, ancorado em
+
+elementos de natureza social, política e ética, pois o Jornalismo é uma atividade
+
+democrática, exigente no rigor da apuração e na divulgação das informações e pressupõe
+
+responsabilidade social.
+
+Conforme Resolução CNE/CES 1/2013, em seu artigo 11: “O Trabalho de
+
+Conclusão de Curso (TCC) é componente curricular obrigatório, a ser desenvolvido
+
+individualmente, realizado sob a supervisão docente e avaliado por uma banca
+
+27
+
+examinadora formada por docentes, sendo possível também a participação de jornalistas
+
+profissionais convidados”.
+
+O TCC abrangerá duas modalidades de trabalho: o monográfico, resultante de uma
+
+pesquisa científica; e o projeto experimental, em qualquer formato e linguagem
+
+jornalística, desde que aprovado pelo/a docente orientador/a. Nessa última modalidade, é
+
+obrigatória a apresentação de um relatório científico que dê sustentação ao processo de
+
+elaboração e execução do projeto, conforme regulamentação específica do curso de
+
+Jornalismo da UFG.
+
+Dessa forma, o Trabalho de Conclusão de Curso de Jornalismo será elaborado por
+
+meio de duas disciplinas a serem cursadas, obrigatoriamente, pelos/as discentes: TCC I e
+
+TCC II. A primeira deverá ser cursada a partir do 7º período, com caráter de concepção e
+
+elaboração do projeto de TCC. A segunda será ofertada a partir do 8º período e se
+
+destina à produção orientada do trabalho.
+
+O curso disponibilizará professores/as para o acompanhamento da execução do
+
+projeto de monografia/pesquisa ou projeto experimental, com avaliação periódica do seu
+
+desenvolvimento. O/a docente/a orientador/a também terá a função de indicar a
+
+bibliografia ao seu orientando, conforme a demanda do estudante e as necessidades da
+
+vertente acadêmica do trabalho.
+
+8.1 – Dos Projetos Experimentais
+
+O projeto experimental poderá ser desenvolvido individualmente ou em grupo de
+
+no máximo três discentes. Nesse último caso, ele poderá ser admitido nas seguintes
+
+situações:
+
+\1. quando a natureza do projeto necessitar de produção coletiva;
+
+\2. com a anuência dos/as  docentes de TCC-I e TCC-II;
+
+\3. com a aprovação prévia do colegiado de Jornalismo;
+
+28
+
+\4. cada integrante da equipe de produção do trabalho experimental deverá
+
+apresentar um relatório científico individual conforme preconizam as DCNs.
+
+Este item se sustenta no parágrafo terceiro do artigo 11 das DCNs de Jornalismo,
+
+que aponta para as singularidades das matrizes curriculares: “As instituições de educação
+
+superior deverão emitir e divulgar regulamentação própria, aprovada por colegiado
+
+competente, estabelecendo, necessariamente, critérios, procedimentos e mecanismos de
+
+avaliação do TCC, além das diretrizes técnicas relacionadas com a sua elaboração”.
+
+IX –Integração ensino, pesquisa e extensão
+
+O curso de Jornalismo da UFG integra ensino, pesquisa e extensão a partir de uma
+
+política que incentiva a participação docente e discente em práticas que façam convergir
+
+tais pilares no sentido de possibilitar a formação integral. Para isso, estimula docentes e
+
+discentes em diversas atividades relacionadas à pesquisa e à extensão, paralelamente ao
+
+cotidiano da sala de aula.
+
+O curso integra o Programa Jovens Talentos, do Ministério de Ciência e
+
+Tecnologia, e incentiva a participação em programas de natureza semelhante. Em
+
+atenção a editais internos e externos, os professores participam de projetos de pesquisa e
+
+extensão, na maioria das vezes prevendo bolsas acadêmicas. Além disso, viagens
+
+acadêmicas de estudos (trabalho de campo) e visitas técnicas são realizadas,
+
+proporcionando uma experiência prática com o ensino teórico.
+
+O curso promove e provoca o envolvimento com eventos acadêmicos e/ou em
+
+parceria com setores da comunidade, de forma a aproximar docentes e discentes do
+
+contexto em que estão inseridos e também contribuir para o desenvolvimento regional a
+
+partir de suas ações e projetos.
+
+A concepção de pesquisa no Jornalismo da UFG converge com a perspectiva da
+
+própria universidade, o que equivale a pesquisa voltada para a construção do
+
+29
+
+conhecimento científico básico e aplicado, de caráter interdisciplinar, que busca o
+
+estreitamento das relações com o ensino e a extensão. A construção da relação da
+
+pesquisa com o ensino e a extensão possibilita uma leitura contínua e crítica da realidade.
+
+Paralelamente, desenvolvem-se pesquisas focadas no aperfeiçoamento do
+
+conhecimento relativo ao campo da comunicação e do Jornalismo, de modo a produzir
+
+ciência na área de conhecimento em que o curso está inserido, sem negligenciar a
+
+interdisciplinaridade. Os docentes estão diretamente envolvidos na articulação de grupos
+
+de pesquisa, primando pela participação também de alunos e técnico-administrativos.
+
+Como resultado, diversos projetos têm-se originado dessas ações bem como publicação
+
+de livros e artigos.
+
+Também a extensão em Jornalismo acompanha as diretrizes da UFG, que assume
+
+o papel de promover a articulação entre a universidade e a sociedade, seja no sentido de
+
+levar o conhecimento até a sociedade, seja no de realimentar suas práticas acadêmicas a
+
+partir da dialogicidade. Em consonância com os princípios gerais da Universidade e da
+
+concepção de formação acadêmica, a extensão é pautada pelos seguintes princípios
+
+específicos: impacto e transformação, interação dialógica e interdisciplinaridade, além da
+
+necessária indissociabilidade entre ensino e pesquisa.
+
+O incentivo para as atividades de extensão envolve possibilidade de afastamento
+
+para a capacitação ou concessão de horário especial, quando necessário, bem como
+
+recursos para participação em eventos da área. Os discentes, por sua vez, também se
+
+beneficiam de recursos e/ou transporte para participar de eventos, seja no âmbito da
+
+Universidade – como o Conpeex (Congresso de Pesquisa, Ensino e Extensão) ou
+
+eventos de natureza similar – ou fora dela. Discentes do curso de Jornalismo já
+
+conquistaram diversos prêmios regionais e nacionais decorrentes da produção e
+
+apresentação de trabalhos de natureza científica ou produtos de finalidade jornalística.
+
+Os docentes e discentes do curso são estimulados a se candidatarem à
+
+distribuição de bolsas de pesquisa, ensino, monitoria e extensão feita pela UFG todos os
+
+30
+
+semestres. Para tanto, os docentes concorrem com projetos e, se aprovados nos editais,
+
+selecionam alunos para se incorporarem às atividades.
+
+X – Sistema de avaliação do processo de ensino e de aprendizagem
+
+A avaliação de ensino e aprendizagem em Jornalismo segue o que está
+
+estabelecido no Regulamento Geral dos Cursos de Graduação da UFG, Capítulo IV,
+
+artigo 79 e os parágrafos 1º, 2º, 5º, 6º, 7º e 8º, acrescidos da especificidade da formação
+
+do jornalista e a equidade ao processo de avaliação discente no que se refere à
+
+verificação da aprendizagem, a saber:
+
+Art. 79 – A nota final do estudante variará de zero vírgula zero (0,0) a dez vírgula
+
+zero (10,0), com uma casa decimal.
+
+§ 1º - A nota final será resultado de, no mínimo, duas avaliações que podem ser
+
+na forma de provas, trabalhos, seminários, relatórios ou outras formas de produção
+
+acadêmica escrita, oral, prática ou audiovisual do estudante.
+
+§ 2º - Será aprovado na disciplina ou no eixo temático/módulo o estudante que
+
+obtiver nota final igual ou superior a seis vírgula zero (6,0) e frequência igual ou superior
+
+a setenta e cinco por cento (75%) da carga horária da disciplina ou do eixo-
+
+temático/módulo, observado o disposto no artigo 83.
+
+§ 5º - O docente responsável pela disciplina ou pelo eixo temático/módulo só
+
+poderá realizar uma nova avaliação após divulgar a nota obtida na avaliação anterior
+
+com antecedência de pelo menos dois (2) dias letivos.
+
+§ 6º - Os originais de trabalhos ou provas deverão ser devolvidos ao estudante no
+
+momento da divulgação da nota de cada avaliação, exceto os trabalhos de conclusão de
+
+curso e relatórios de estágios, os quais deverão ser arquivados na Instituição.
+
+§ 7º - A nota final e a frequência serão registradas no sistema acadêmico
+
+correspondente pelo professor responsável pela disciplina ou pelo eixo temático/módulo,
+
+em prazos estabelecidos pelo calendário acadêmico;
+
+31
+
+§ 8º - As formas, os períodos e a divulgação das avaliações, bem como a forma
+
+de obtenção da nota final, relativos ao processo de ensino-aprendizagem, deverão estar
+
+previstos no plano de ensino ou de eixo temático/módulo.
+
+Porém, ao considerar o que preconizam as Diretrizes Nacionais para os Cursos de
+
+Graduação em Jornalismo em seu artigo 1º, Itens I a IV, sobre a organização curricular:
+
+I –ter como eixo de desenvolvimento curricular as necessidades de informação e
+
+de expressão dialógica dos indivíduos e da sociedade;
+
+II – utilizar metodologias que privilegiem a participação ativa do aluno na
+
+construção do conhecimento e a integração entre os conteúdos, além de estimular a
+
+interação entre o ensino, a pesquisa e a extensão, propiciando suas articulações com
+
+diferentes segmentos da sociedade;
+
+III – promover a integração teoria/prática e a interdisciplinaridade entre os eixos de
+
+desenvolvimento curricular;
+
+IV - inserir precocemente o aluno em atividades didáticas relevantes para a sua
+
+futura vida profissional;
+
+E, em seu artigo 16, que estabelece critérios para avaliação institucional do curso
+
+os itens:
+
+I – o conjunto da produção jornalística e de atividades de pesquisa e de extensão
+
+realizadas pelos alunos ao longo do curso;
+
+III – a contribuição do curso para o desenvolvimento local social e de cidadania
+
+nos contextos em que a instituição de educação superior está inserida, o PPC de
+
+Jornalismo propõe que sejam articuladas à avaliação discente, as metodologias de
+
+ensino e o processo de avaliação do curso.
+
+Recomenda-se que a produção de conhecimento e produção jornalística nas
+
+diferentes disciplinas sejam consideradas, mais do que a simples verificação de
+
+aprendizagem por meio de provas, como resultado de ensino-aprendizagem para o
+
+processo de avaliação discente, de acordo com os eixos formativos indicados nas DCNs
+
+de Jornalismo:
+
+32
+
+Eixo formativo da disciplina Formas de avaliação na disciplina Fundamentação Humanística artigos científicos, seminários, realização de pesquisa, relatos de experiência, relatórios de ações de extensão Fundamentação Específica Produções jornalísticas Fundamentação Contextual artigos científicos, seminários, realização de pesquisa, relatos de experiência, relatórios de ações de extensão Fundamentação Formação Profissional Produções jornalísticas (reportagens, programas de rádio e de tv, livros- reportagem, notícias, artigos opinativos, revistas, sites e blogs jornalísticos, agências de notícia. Fundamentação Aplicação Processual Produções jornalísticas (reportagens, programas de rádio e de tv, livros- reportagem, notícias, artigos opinativos, revistas, sites e blogs jornalísticos, agências de notícia. Fundamentação Prática Laboratorial Produções jornalísticas (reportagens, programas de rádio e de tv, livros- reportagem, notícias, artigos opinativos, revistas, sites e blogs jornalísticos, agências de notícia.
+
+XI – Sistema de avaliação do projeto de curso
+
+O Curso de Jornalismo da UFG, atendendo aos objetivos da Comissão de
+
+Avaliação Institucional (CAVI) da UFG e da Comissão Própria de Avaliação (CPA), institui
+
+as seguintes ações acadêmico-administrativas para a avaliação deste PPC:
+
+a) Após sua implementação, os integrantes da CPA farão uma avaliação anual,
+
+visando à identificação de possíveis problemas e potencialidades do novo currículo. b) Dessa avaliação anual participam estudantes, professores e técnico- administrativos. c) A CPA fará um relatório também anual das críticas e sugestões apresentadas pelo
+
+corpo docente, discente e administrativo, e o enviará ao Núcleo Docente Estruturante (NDE) para análise. d) Esse relatório deve considerar avaliações quanto à carga horária destinada a cada
+
+disciplina, ementa, pertinência da bibliografia e metodologia de ensino.
+
+33
+
+e) Após a análise de quatro relatórios anuais (tempo estimado de para a graduação
+
+em Jornalismo), o NDE proporá modificações no PPC e as apresentará ao colegiado do curso e ao Conselho Diretor da Unidade para que sejam aprovadas.
+
+A cada três anos, a CPA fará outro procedimento de avaliação, levando em conta
+
+os resultados obtidos pelo curso nas avaliações do MEC, tais como o Enade (Exame
+
+Nacional de Desempenho de Estudantes) e o CPC (Conceito Preliminar de Curso):
+
+a) Análise das notas obtidas pelos estudantes, mediante os dados de desempenho
+
+disponibilizados pelo MEC. b) Confrontação desses dados com o conteúdo trabalhado nas disciplinas e com as
+
+competências e habilidades exigidas no Exame. c) Análise das notas obtidas pelo curso nos quesitos que integram o CPC. d) Emissão de relatório sugerindo mudanças no PPC, caso sejam necessárias. e) Envio do relatório ao NDE para apreciação. f) O NDE, após análise, submeterá as possíveis mudanças ou adequações no PPC
+
+às instâncias deliberativas da Universidade.
+
+Todos os relatórios e pareceres deverão estar devidamente arquivados para o
+
+acompanhamento dos processos de mudanças e atualizações, além de servir como
+
+memória do sistema de auto-avaliação do curso, objetivando, ainda, a reincidências em
+
+erros, a garantia de melhorias possíveis no curso, e a transparência das críticas e
+
+propostas de todos os sujeitos envolvidos nesse processo.
+
+XII – Política de qualificação docente e técnico-administrativo da
+
+unidade acadêmica
+
+A política de qualificação docente da Faculdade de Informação e Comunicação da
+
+Universidade Federal de Goiás está em consonância com a Resolução Cepec nº 1286, de
+
+6 de julho de 2014, que disciplina o afastamento de docentes da UFG para a realização
+
+de cursos de Pós-Graduação Stricto Sensu e Estágios de Pós-Doutorado.
+
+34
+
+XIII – Requisitos Legais e Normativos
+
+Este Projeto Pedagógico sustenta-se em exigências legais e normativas lidas como
+
+aliadas no processo de construção de uma graduação em Jornalismo que contemple uma
+
+formação humanística, técnico-teórica e ética no sentido de garantir demandas de
+
+informação e expressão dialógicas na interação com a sociedade. Os requisitos legais e
+
+normativos aqui observados são:
+
+a) Resolução nº 1, de 27 de setembro de 2013 - Institui as Diretrizes Curriculares
+
+Nacionais para o curso de graduação em Jornalismo, bacharelado, e dá outras
+
+providências.
+
+Enquanto conjunto de orientações sobre princípios, fundamentos, condições de
+
+oferta e procedimentos para planejamento, implantação e avaliação do curso de
+
+Jornalismo, as DCNs estão na base de constituição deste documento, que pretende
+
+estruturar a graduação em Jornalismo na Universidade Federal de Goiás a partir da
+
+dialogicidade Jornalismo e sociedade, utilizando metodologias participativa se
+
+estimulando a interação entre ensino, pesquisa e extensão. As DCNs são fundamentais
+
+ainda para, a partir deste Projeto, orientar a integração teoria/prática e a
+
+interdisciplinaridade entre os eixos de desenvolvimento curricular, sem prejuízo à
+
+responsabilidade necessária para o grau de autonomia que o exercício do Jornalismo
+
+demanda.
+
+Os componentes curriculares, carga horária e estrutura da oferta aqui
+
+apresentados buscam formar para o que Chaparro (2001) categoriza como o “bom
+
+Jornalismo”, sendo aquele capaz de promover narração de conflitos de todo tipo, mas
+
+sempre manifestados por ações e falas que podem “transformar a realidade” e otimizar o
+
+“potencial transformador” deste campo do conhecimento. Daí ainda a necessidade de
+
+integrar graduação e pós-graduação, formar para a cidadania com competência teórica,
+
+técnica, tecnológica, ética e estética para atuar criticamente na profissão.
+
+b) Lei nº 11.645, de10 março de 2008 - Altera a Lei no 9.394, de 20 de dezembro de
+
+1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as
+
+35
+
+diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino
+
+a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.
+
+Por compreender que esta Lei regulamenta a obrigatoriedade do Ensino da História
+
+e Cultura Afro-Brasileira e Indígena em todos os níveis de formação no processo de
+
+conquista pelo respeito às diferenças, a mesma orienta a construção das ementas e
+
+transversaliza o interesse em fixar-nos, conforme apontam Pôrto Jr. E Neves (2007, p. 63)
+
+“nas brechas verticais na chamada História da Educação, indo em busca da diferença, e
+
+não do padrão”. Por isso, garantimos a inserção da proposta nas ementas, e mais que
+
+isso, o presente Projeto propõe práticas pedagógica e metodológica participativas, no
+
+sentido de contemplar o novo panorama desenhado marcadamente após a adoção de
+
+cotas nos cursos de graduação do Brasil, a partir da Lei nº 12.711, de 29 de agosto de
+
+2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais
+
+de ensino técnico de nível médio.
+
+Os espaços acadêmicos da graduação em Jornalismo são percebidos, assim,
+
+como locais por onde transitam diferentes sujeitos, atravessados pela diversidade cultural,
+
+e a docência é percebida enquanto mediação das relações de ensino-aprendizagem, de
+
+forma a garantir a percepção de que nossa realidade é pluriétnica e que nenhum grupo ou
+
+povo é superior ao outro. Os princípios aqui buscados são os da heterogeneidade
+
+cultural, diferença e respeito.
+
+c) Decreto nº 5.622, de 19 de dezembro de 2005 - Regulamenta o Art. 80 da Lei nº
+
+9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação
+
+nacional.
+
+Como o curso de graduação em Jornalismo da Universidade Federal de Goiás é
+
+presencial, mas sem abrir mão do direito de funcionar parcialmente pelos preceitos da
+
+educação a distância, o presente Decreto é fundamental para ressaltar, a partir do seu
+
+Art. 4º, Inciso II, §2º, a prevalência da avaliação presencial para fins de aprovação,
+
+conclusão de estudos e obtenção de diplomas ou certificados. Importante registrar que os
+
+resultados dos exames citados devem prevalecer sobre os demais obtidos em quaisquer
+
+outras formas de avaliação a distância. A graduação em Jornalismo da UFG entende que
+
+36
+
+ofertas parciais a distância podem trazer oportunidades educacionais para que camadas
+
+sociais menos privilegiadas economicamente possam participar do sistema formal de
+
+ensino.
+
+De acordo com os referenciais de qualidade para a educação a distância do MEC,
+
+no Brasil, a modalidade de educação a distância obteve respaldo legal para sua
+
+realização com a Lei de Diretrizes e Bases da Educação – Lei 9.394, de 20 de dezembro
+
+de 1996 –, que estabelece, em seu artigo 80, a possibilidade de uso orgânico da
+
+modalidade de educação a distância em todos os níveis e modalidades de ensino. Esse
+
+artigo foi regulamentado posteriormente pelos Decretos 2.494 e 2.561, de 1998, mas
+
+ambos revogados pelo Decreto 5.622, em vigência desde sua publicação em 20 de
+
+dezembro de 2005.
+
+De acordo com Landin (1997, p. 14), “o sistema a distância implica estudar por si
+
+mesmo, mas o aluno não está só; vale-se de um curso e de interação com instrutores e
+
+com uma organização de apoio”, acrescentando que esta é uma forma de produzir “uma
+
+espécie de diálogo em forma de tráfego de mão dupla”. Nessa construção de troca, e
+
+apresar dos avanços da educação a distância, é importante estar vigilante para o fato de
+
+que muitos de seus pontos estratégicos ainda não terem sido discutidos com a necessária
+
+profundidade. Um destes pontos é, sem dúvida, a carência de regulamentação do sistema
+
+de acompanhamento do aprendizado, sendo que a garantia das avaliações presenciais
+
+pode sustentar a insubst
+
+ituível dialogicidade no processo.
+
+d) Decreto nº 5.626, de 22 de dezembro de 2005 - Regulamenta a Lei no 10.436, de
+
+24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o Art. 18 da
+
+Lei no 10.098, de 19 de dezembro de 2000.
+
+Mesmo sendo um curso de bacharelado, a graduação em Jornalismo da
+
+Universidade Federal de Goiás respeita a Política Nacional de Educação Especial na
+
+perspectiva da Educação Inclusiva e busca se preparar para receber discentes, docentes
+
+37
+
+e técnicos administrativos surdos estimulando a qualificação em cursos de Língua
+
+Brasileira de Sinais - Libras ofertados pela Faculdade de Letras de UFG.
+
+Compreendemos que o curso não supre a necessidade de apoio especializado para
+
+casos concretos, mas alerta para a abertura de canais que garantam o direito da pessoa
+
+surda à educação.
+
+Para além desta orientação, os discentes de Jornalismo tem acesso à disciplina de
+
+Libras. Paralelamente a esta formação, está presente nas ementas das disciplinas, de
+
+forma transversalizada, a necessária construção do respeito às diferenças para que seja
+
+cumprido o preceito constitucional do dever do poder público, conforme Art. 208 da
+
+Constituição Federal, de I - garantir a universalização do atendimento especializado de
+
+educandos portadores de deficiência cuja situação não permita a integração em classes
+
+comuns de ensino regular; II - garantir, progressivamente, a inserção dos educandos
+
+portadores de deficiência nas classes comuns de ensino regular.
+
+e) Lei nº 9.795, DE 27 de abril 1999.Dispõe sobre a educação ambiental, institui a
+
+Política Nacional de Educação Ambiental e dá outras providências. E Decreto nº 4.281, de
+
+25 de junho de 2002 - Regulamenta a Lei no 9.795, de 27 de abril de 1999, que institui a
+
+Política Nacional de Educação Ambiental, e dá outras providências.
+
+Educação ambiental é aqui compreendida como os processos por meio dos quais o
+
+indivíduo e as coletividades constroem valores sociais, conhecimentos, habilidades,
+
+atitudes e competências voltadas para a conservação do meio ambiente, bem de uso
+
+comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade. A educação
+
+ambiental é um componente essencial e permanente da educação nacional, devendo
+
+estar presente, de forma articulada, em todos os níveis e modalidades do processo
+
+educativo. Neste sentido, o presente Projeto contempla esta preocupação na
+
+transversalização dos componentes curriculares e mais especificamente em “Cidadania e
+
+Direitos Humanos” e “Comunicação e Sustentabilidade”.
+
+XIV –  Dinâmica das Atividades
+
+38
+
+Como previsto no item 6.6 deste documento, cada disciplina ofertada pelo curso
+
+poderá ter até 20% de sua carga horária desenvolvida a distância, desde que essa
+
+metodologia conste no plano de ensino, com especificação do conteúdo e objetivo de
+
+cada atividade. No cronograma das aulas, também deve constar as datas destinadas a
+
+essas atividades a distância.
+
+XV- Ementas, bibliografias básicas e complementares dos componentes curriculares
+
+OBRIGATÓRIAS
+
+Disciplina: Produção de Texto Jornalístico I
+
+Créditos: 04 Núcleo:Específico
+
+Ementa:
+
+Conceito de notícia.  A notícia enquanto gênero fundador do jornalismo industrial. Técnicas de produção e apuração da notícia. A estrutura do texto noticioso. Tipos de lead. Produção laboratorial de notícias.
+
+Bibliografia Básica:
+
+CHAPARRO, Manuel Carlos. Pragmática do jornalismo. São Paulo: Summus, 2007.
+
+FORTES, Leandro. Os segredos das redações: O que os jornalistas só descobrem no dia-a-dia. São Paulo:Contexto, 2008.
+
+KOVACH, Bill & ROSENTIEL, Tom. Os elementos do jornalismo: O que os jornalistas devem saber e o público exigir. São Paulo: Geração Editorial, 2003.
+
+Bibliografia Complementar:
+
+ABRAMO, Cláudio. A regra do jogo. São Paulo: Cia das Letras, 1988
+
+ALCÂNTARA, Norma S.; CHAPARRO, Manuel Carlos; GARCIA, Wilson (orgs.). Imprensa na berlinda: A fonte pergunta. São Paulo: Celebris, 2005.
+
+AMARAL, Luiz. A objetividade jornalística. Porto Alegre: Sagra-Luzzatto, 1996.
+
+39
+
+EBC, Empresa Brasil de Comunicação. Manual de Jornalismo da EBC: Somente a verdade. Brasília, 2013. Disponível em: <http://www.ebc.com.br/sites/default/files/manual_de_jornalismo_ebc.pdf>. Acesso em 01.jul.2015.
+
+LAGE, Nilson. Ideologia e técnica da notícia. Florianópolis: Insular/UFSC, 2001.
+
+Disciplina: Estudos da Imagem Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+A natureza e definição da imagem; os elementos morfológicos; imagem: o espaço e o tempo representados; a imagem fotográfica, cinematográfica, eletrônica; as “novas imagens” no processo da cultura.
+
+Bibliografia Básica:
+
+JOLY, Martine.Introdução à Análise da Imagem - Papirus Editora, São Paulo, 2002.
+
+LEWIS, C. S. A Imagem descartada: para compreender a visão medieval do mundo. Coleção: História, Crítica e Teoria da Literatura.São Paulo: É Realizações, 2015.
+
+ZUNZUNEGUI, Santos. Pensar la imagen.Madrid: Catedra/Universidad del Pais Vasco, 1998.
+
+Bibliografia Complementar:
+
+JUSTO, Villafane Gallego.Introduction a la Teoria de la Imagen. 5. ed. São Paulo: Pirâmide, 2006.
+
+AUMONT, Jacques.A Imagem. São Paulo: Papirus, 2004.
+
+KRAUSS, Rosalind E.O fotográfico. São Paulo: GG Brasil, 2014.
+
+MACHADO, Arlindo.Arte e Mídia. São Paulo: Zahar, 2007.
+
+FRIZOT, Michel. The New History of Photography. Köln: Könemann, 1998.
+
+Disciplina: Introdução ao Jornalismo Créditos: 02 Núcleo:Específico
+
+40
+
+Ementa:
+
+Conceitos e características do jornalismo. História da profissionalização e de legitimação do jornalismo. Aspectos distintivos do jornalismo em relação a outras áreas da comunicação social. Formatos e gêneros no jornalismo. Informação e opinião no jornalismo. Jornalismo generalista, especializado e segmentado.  O processo de produção de notícias. As diferentes funções de atuação profissional. O mercado de trabalho. O jornalismo em diferentes suportes midiáticos.
+
+Bibliografia Básica:
+
+KUNCZINK, Michael. Conceitos de Jornalismo. São Paulo: Edusp, 2012.
+
+TRAQUINA, Nelson. Teorias do Jornalismo Vol. 1. Florianópolis: Insular, 2005.
+
+MELO, José Marques de; LAURINDO, Rosimei; ASSIS, Francisco de. Gêneros Jornalísticos. Blumenau:Edfurb, 2012.
+
+Bibliografia Complementar:
+
+KOVACH, Bill; ROSENSTIEL, Tom. Os elementos do jornalismo. São Paulo: Geração Editorial, 2004.
+
+HERNANDES, Nilton. A mídia e seus truques. São Paulo: Contexto, 2006.
+
+PENA, Felipe. Teoria do jornalismo. São Paulo: Contexto, 2005.
+
+RUDIN, Richard;IBBOTSON, Trevor. Introdução ao Jornalismo: técnicas essenciais e conhecimentos básicos. Curitiba: Roca, 2007.
+
+CAVERSAN, Luiz. Introdução do Jornalismo Diário. São Paulo: Saraiva, 2009.
+
+Disciplina: História do Jornalismo Créditos: 04 Núcleo:Específico
+
+Ementa:
+
+Conceito de História. O fazer histórico. O nascimento e o desenvolvimento da imprensa no ocidente e no Brasil. Contextos sociais, políticos econômicos e tecnológicos que afetaram a prática jornalística em diferentes momentos históricos. Processo de implantação dos veículos de jornalismo na América Latina, no Brasil, e no Estado de Goiás. Desenvolvimento dos veículos jornalísticos de mídia eletrônica no Brasil. Jornalismo, censura e controle da informação.
+
+Bibliografia Básica:
+
+41
+
+BARBOSA, Marialva. História cultural da imprensa. Rio de Janeiro: Mauad, 2007.
+
+BRIGGS, Asa; BURKE, Peter. Uma história social da mídia.  Rio de Janeiro: Zahar Editora, 2004.
+
+ROMANCINI, Ricard; LAGO, Cláudia. História do Jornalismo no Brasil. Florianópolis: Insular 2007.
+
+Bibliografia Complementar:
+
+BORGES, Rosana Maria Ribeiro; LIMA, Angelita Pereira. História da imprensa goiana: dos velhos tempos da colônia à modernidade mercadológica.Goiânia: Revista UFG, dezembro 2008, Ano X, nº 5, p. 68-87.
+
+MARTINS, Ana Luiza; LUCA, Tânia Regina. História da Imprensa no Brasil. São Paulo: Contexto, 2008.
+
+MATTOS, Sérgio. A televisão no Brasil: 50 anos de história.  Salvador: Ianamá, 2000.
+
+MOLINA, Matias. História dos jornais no Brasil. São Paulo: Companhia das letras, 2015.
+
+SODRÉ, Nelson Werneck. História da Imprensa no Brasil. Rio de Janeiro: Mauad, 1999.
+
+Disciplina: Língua Portuguesa Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+A leitura e a escrita como formas de comunicação e expressão. Gêneros e formatos do texto escrito. Linguagem, texto e discurso. Composição do texto escrito: coerência, coesão e elementos gramaticais. Argumentação. Práticas e estratégias de leitura e de produção textual.A escrita do texto acadêmico de acordo com as normas da Associação Brasileira de Normas Técnicas (ABNT).
+
+Bibliografia Básica:
+
+AIUB, Tânia. Português: Práticas de Leitura e Escrita. Porto Alegre: Penso, 2015.
+
+FREIRE, Paulo. A importância do ato de ler. São Paulo: Autores Associados:
+
+42
+
+Cortez, 1989.
+
+MOSS, Barbara; LOH, Virginia S. 35 estratégias para desenvolver a leitura com textos informativos. Porto Alegre: Penso, 2012.
+
+Bibliografia Complementar:
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: Informação e Documentação- Trabalhos acadêmicos - apresentação - Rio de Janeiro: ABNT, 2011.
+
+FÁVERO, Leonor Lopes. Coesão e coerência textuais. 11. ed. São Paulo: Ática, 2007.
+
+JOLIBERT, Josette; JEANNETTE, Jacob. Além dos muros da escola: a escrita como ponte entre alunos e comunidade. Porto Alegre: Penso, 2012.
+
+KAUFMAN, Ana Maria; RODRIGUEZ, Maria Elena. Escola: leitura e produção de textos. Porto Alegre: Artmed, 2007.
+
+KOCH, Ingedore Villaça; TRAVAGLIA, Luiz Carlos. A coerência textual. 17 ed. São Paulo: Contexto, 2008.
+
+Disciplina: Cidadania e Direitos Humanos Créditos: 02 Núcleo: Comum
+
+Ementa:
+
+Conceitos fundamentais de Cidadania e a Constituição Cidadã. Plano Nacional de Educação em Direitos Humanos. Educação para as Relações Étnico-Raciais. Sustentabilidade. Relações de Gênero. Direitos da pessoa com deficiência. Diferença, diversidade e equidade. Responsabilidade social do Jornalismo como elemento fundamental para garantir equidades. Declaração Universal dos Direitos Humanos.Estatuto da Criança e do Adolescente.Lei 10.639. Lei 11.645. Lei Maria da Penha.
+
+Bibliografia Básica:
+
+CANDAU, Vera Maria, et al. Oficinas Pedagógicas de Direitos Humanos. Petrópolis: Vozes, 1995.
+
+COVRE, Maria de Lourdes Manzini. O que é cidadania?Coleção Primeiros Passos. São Paulo: Brasiliense, 1995.
+
+DALLARI, Dalmo de Abreu. Direitos Humanos e Cidadania. São Paulo: Moderna,
+
+43
+
+\2001. Bibliografia Complementar:
+
+CANDAU, Vera Maria. Multiculturalismo e Direitos Humanos. In: REDE BRASILEIRA DE EDUCAÇÃO EM DIREITOS HUMANOS. Construindo a Cidadania: Desafios para o Século XXI. Capacitação em Rede. Recife: RBDH, 2001.
+
+COMPARATO, Fábio Konder. Afirmação Histórica dos Direitos Humanos. 2. ed. São Paulo: Saraiva, 2001.
+
+LUCIANO, Gersem dos Santos. O índio Brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de Hoje. Brasília: Ministério da Educação, Secretaria deEducação Continuada: LACED/Museu Nacional, 2006.LUCIANO, Gersem dos Santos. O índio Brasileiro: o que você precisa saber sobre os provos indígenas no Brasil de Hoje. Brasília: Ministério da Educação, Secretaria de Educação Continuada: LACED/Museu Nacional, 2006.
+
+ROSEMBERG, Fúlvia; e ANDRADE, Leandro Feitosa. Ação afirmativa no ensino superiorbrasileiro: a tensão entre raça/etnia e gênero. Cadernos Pagu (31), julho- dezembro de 2008:419-437.
+
+SODRÉ, Muniz. Claros e Escuros: identidade, povo e mídia no Brasil. Petrópolis: Vozes, 1999.
+
+Disciplina: Produção em Áudio Créditos: 02 Núcleo:Específico
+
+Ementa:
+
+A técnica no rádio: equipamentos, gravações e edição de som; operações em estúdio e externa.  Legislação e singularidades da radiodifusão brasileira. A audiência radiofônica. As funções da comunicação radiofônica: entretenimento, formativa e informativa. Natureza e formatos dos programas radiofônicos. As atividades do produtor. As webrádios e as novas tendências da comunicação em áudio. Elaboração de produto radiofônico.
+
+Bibliografia Básica:
+
+BARBOSA FILHO, André. Gêneros Radiofônicos: os formatos e os programas em áudio. São Paulo: Paulinas, 2003. MCLEISH, Robert. Produção de Rádio: Um guia Abrangente de Produção Radiofônica. São Paulo: Summus, 2002.
+
+PRADO, Magaly. Produção de rádio: um manual prático. São Paulo: Elsevier, 2006.
+
+44
+
+Bibliografia Complementar:
+
+CARVALHO, Juliano Maurício e MAGNONI, Antonio Francisco (orgs.). O novo rádio – cenários da radiodifusão na era digital. São Paulo: Senac, 2010.
+
+CEBRIÁN HERREROS, Mariano. La radioen Internet – de laciberradio a las redes sociales y la radio móvil. Buenos Aires: La Crujía, 2008.
+
+MEDITSCH, Eduardo; ZUCULOTO Valci (Orgs.). Teorias do Rádio: textos e contextos. vol. II. Florianópolis: Insular, 2008.
+
+MEDITSCH, Eduardo (Org.). Teorias do Rádio: textos e contextos. vol. 1. Florianópolis: Insular, 2005. VIGIL, J. I. L. Manual Urgente para radialistas apaixonados. São Paulo: Paulinas, 2003.
+
+Disciplina: Produção de Texto Jornalístico II
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Conceitos de Entrevista. Técnicas de entrevista para o Jornalismo. Conceito de Reportagem. Tipos de reportagens. Técnicas deapuração e elaboração de reportagens jornalísticas. A estrutura do texto da reportagem. O pluralismo discursivo. Prática laboratorial.
+
+Bibliografia Básica:
+
+MEDINA, Cremilda. Entrevista: O diálogo possível. São Paulo: Ática, 2007.
+
+SODRÉ, Muniz, FERRARI, Maria Helena. Técnica de reportagem: notas sobre a narrativa jornalística. São Paulo: Summus, 1986.
+
+VILAS BOAS, Sérgio. O estilo magazine: o texto em revista. São Paulo: Summus, 1996.
+
+Bibliografia Complementar:
+
+COIMBRA, Oswaldo. O texto da reportagem impressa: um curso sobre sua estrutura. São Paulo: Ática, 2004.
+
+ERBOLATO, Mário. Técnicas de codificação em jornalismo: redação, captação e edição no jornal diário. 5.ed.São Paulo: Ática, 2004.
+
+45
+
+LAGE, Nilson. A reportagem: teoria e técnica. 5.ed. Record: Rio de Janeiro, 2005.
+
+LOPES, Dirceu Fernandes; PROENÇA, José Luiz. Jornalismo investigativo. São Paulo, Publisher, 2003. MARQUES, José Nello. Perguntar ofende!. São Paulo: Disal Editora, 2003.
+
+Disciplina: Fotografia Básica Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Panorama histórico da fotografia, suas origens e expansão no Brasil. A fotografia social. A documentação fotográfica na segunda metade do século XIX. A linguagem e os processos fotográficos. Diferentes tipos de câmeras, seu funcionamento e uso. Objetivas (distância focal e diafragma) e obturador. Filmes (granulação e sensibilidade-ISO). Acessórios, uso do fotômetro, temperatura de cor e balança de branco, conceitos básicos de composição, a importância das cores e a fotografia em preto e branco, percepção da luz, acondicionamento e cuidados com equipamento fotográfico e o ensaio fotográfico.
+
+Bibliografia Básica:
+
+BAZIN, André. Ontologia da Imagem Fotográfica. In: Cinema-Ensaios. São Paulo: Brasiliense, 1990.
+
+BENJAMIN, Walter. Pequena História da Fotografia (Pág. 91-107) e A Obra de Arte na Era de sua Reprodutibilidade Técnica (Pág. 165-196). In: Obras Escolhidas:Magia e Técnica/Arte e Política. Vol. I. São Paulo: Brasiliense, 1996.
+
+CAMARGO, Isaac Antonio.Reflexões sobre o Pensamento Fotográfico: Pequena Introdução às Imagens e à Fotografia. Londrina: UEL, 1997.
+
+Bibliografia Complementar:
+
+FREUND, Gisele.La Fotografia como documento social. Barcelona: Gustavo Gili S.L., 2008.
+
+KOSSOY, Boris.Origens e Expansão da Fotografia no Brasil Século XIX. Rio de Janeiro: MEC/FUNARTE, 1980.
+
+SONTAG, Susan.Sobre Fotografia. Tradução Rubens Figueiredo. São Paulo: Companhia das Letras, 2004.
+
+SOUGEZ, Marie-Loup.História da Fotografia. Lisboa: Dinalivro, 2001.
+
+46
+
+REVISTA DISCURSOS FOTOGRÁFICOS. Na Biblioteca UFG (Campus II – Seção Periódicos – 2°. Andar) ou Online: http://www.uel.br/revistas/uel/index.php/discursosfotograficos
+
+Disciplina: Ética e Legislação da Comunicação
+
+Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Definições de ética, moral e moralidade. Direito à informação e à comunicação e fundamentos da democracia contemporânea. Responsabilidade e controle social. Interesses públicos e privados. Liberdade de expressão e liberdade de imprensa. Conflitos de interesse entre o jornalista, a empresa, a fonte e o público. Código de ética da atividade jornalística no Brasil. Legislação profissional: direitos e deveres do jornalista brasileiro. Legislação da Comunicação: Código Brasileiro de Telecomunicações, radiodifusão, teledifusão e direito de imagem. Crimes contra a honra (calúnia, injúria e difamação) e direitos autorais na atividade jornalística e nas redes sociais.
+
+Bibliografia Básica:
+
+BUCCI, Eugênio. Sobre ética e imprensa. São Paulo: Companhia das Letras, 2008.
+
+CHRISTOFOLETTI, Rogério. Ética no jornalismo. São Paulo: Contexto: 2008.
+
+TÓFOLI, Luciene. Ética no jornalismo. Petrópolis: Vozes, 2008
+
+Bibliografia Complementar:
+
+ABRAMO, Cláudio. A regra do jogo : o jornalismo e a ética do marceneiro. São Paulo: Companhia das Letras, 1999.
+
+BARROS FILHO, Clóvis de. Ética na comunicação. São Paulo: Summus, 2008.
+
+BITELLI, Marcos Alberto Sant'anna (org.). Coletânea de legislação de comunicação social. São Paulo: RT, 2010.
+
+KARAM, Francisco José. A ética jornalística e o interesse público. São Paulo: Summus Editorial, 2004.
+
+KUCINSKI, Bernardo. Jornalismo na era virtual : ensaios sobre o colapso da razão ética. São Paulo: Perseu Abramo : UNESP, 2005.
+
+47
+
+Disciplina: Cibercultura Créditos: 02 Núcleo: Comum
+
+Ementa:
+
+As teorias da cibercultura. Reflexão e discussão das práticas humanas no contexto das tecnologias convergentes da informação e da comunicação. Tecnologia e transformações culturais. O mundo digital e seus impactos nos diferentes campos e instituições sociais, tais como a política, a educação, o jornalismo e a economia. O midiativismo. Interatividade, redes sociais e comunidades virtuais.
+
+Bibliografia Básica:
+
+CASTELLS, Manuel. A sociedade em rede. São Paulo: Editora Paz e Terra, 2006.
+
+RÜDIGER, Francisco. As teorias da cibercultura: perspectivas, questões e autores. Porto Alegre: Sulinas, 2011.
+
+LEMOS, André.  Cibercultura: tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulinas, 2015.
+
+Bibliografia Complementar:
+
+BRITTO, RovilsonRobbi. Cibercultura: sob o olhar dos estudos culturais. São Paulo: Paulinas, 2009.
+
+JENKINS, Henry; GREEN, Joshua; FORD, Sam. Cultura da conexão: criando valor e significado por meio da mídia propagável. São Paulo: Aleth, 2014.
+
+LÉVY, Pierre. Cibercultura. São Paulo: Editora 34, 1999.
+
+RECUERO, Raquel. Redes sociais na internet. Porto Alegre: Sulinas, 2009.
+
+SANTAELA, Lúcia; LEMOS, Renata. Redes Sociais Digitais: a cognição conectiva do Twitter. São Paulo: Paulus, 2010.
+
+Disciplina: Política Brasileira Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Conceito de política. Regimes políticos, sistemas políticos e estruturas de poder.  O Estado brasileiro. Estruturas sociais e sua relação com a política nacional. Ideologia e política. Formação dos partidos brasileiros e a nova democracia. O sistema
+
+48
+
+representativo. Mídia e propaganda política.
+
+Bibliografia Básica:
+
+AVELAR, Lúcia; CINTRA, Antônio Octavio. Sistema Político Brasileiro: uma introdução. São Paulo: Unesp, 2015.
+
+AZAMBUJA, Darcy. Introdução à ciência política. Rio de Janeiro: Globo, 2008.
+
+GOULART, Clovis de Souto. Formas e sistemas de governo. Porto Alegre:Safe, 1995. Bibliografia Complementar:
+
+BOBBIO, Norberto. Liberalismo e democracia. Trad. M. A. Nogueira. São Paulo: Brasiliense, 1988.
+
+CHOMSKY. Noan. Mídia, propaganda e política. São Paulo: Martins Fontes, 2014.
+
+HEYWOOD, Andrew. Ideologias políticas: do liberalismo ao fascismo. São Paulo: Ática, 2010.
+
+PALERMO, Vicente. Como se governa o Brasil? O debate sobre instituições políticas e gestão de governo. Dados. V. 43 n. 3. 2000.
+
+SOUZA, Celina. Federalismo, Desenho Constitucional e Instituições Federativas no Brasil Pós-1988. Sociologia Política. N 24. 2005 (p. 105 a 121).
+
+Disciplina: Fotojornalismo Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Conhecer e dominar conceitos de fotojornalismo de acordo com a literatura atual; compreender as relações e interações do Fotojornalismo com os demais gêneros jornalísticos e destacar momentos importantes da história do Fotojornalismo.
+
+Bibliografia Básica:
+
+BURGI, Sergio; COSTA, Helouise.As Origens do Fotojornalismo no Brasil.São Paulo: IMS, 2013.
+
+KEENE, Martin. Fotojornalismo: guia profissional. São Paulo: Dinalivro, 2002.
+
+OLIVEIRA, ErivamMorais de;VICENTINI, Ari.Fotojornalismo: Uma viagem entre o analógico e o digital. São Paulo: Cengage, 2009.
+
+49
+
+Bibliografia Complementar:
+
+BARTHES. Roland.A câmara Clara. Rio de Janeiro: Nova Fronteira, 1984.
+
+FLUSSER, Vilem.A filosofia da caixa preta. São Paulo: Relume-Dumara, 2009.
+
+HORTON, Brian.Associated Press Guide to Photojournalism. New York: McGraw- Hill, 2000.
+
+LORENZO, Vilches. Teoria de la imagen periodistica. 2. ed.Paidós Ibérica, 1997.
+
+SOUSA, Jorge Pedro.Uma história crítica do fotojornalismo ocidental. Florianópolis: Grifos/Letras Contemporâneas, 2000.
+
+Disciplina: Sociologia Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Introdução à sociologia: organização e funcionamento das sociedades humanas; as relações sociais e as instituições; conceitos de grupos, comunidades, associações e redes sociais. Os fundadores da sociologia e suas principais contribuições teóricas: Durkheim, Marx e Weber. Os meios de comunicação como fenômeno social. Teorias sociais da comunicação e da mídia.
+
+Bibliografia Básica:
+
+DEMO, Pedro. Sociologia: uma introdução crítica. 2. ed. São Paulo: Atlas, 1995.
+
+THOMPSON, John. A Mídia e a Modernidade: teoria social da mídia. Petrópolis: Vozes, 2005.
+
+QUINTANEIRO, Tânia (org). Um toque de clássicos. Marx. Durkheim. Weber. Belo Horizonte, Editora da UFMG, 2002.
+
+Bibliografia Complementar:
+
+BENJAMIN, W.; HORKHEIMER, M.; ADORNO, T.; HABERMAS, J. Textos escolhidos. Coleção Os Pensadores. São Paulo, Abril Cultural, 1975.
+
+LAKATOS, Eva e MARCONI, Marina. Sociologia Geral. São Paulo, Atlas, 1999.
+
+MATTELART, Armand. A Comunicação-Mundo. Portugal: Instituto Piaget, 1997.
+
+MORIN, Edgar. Cultura de massa no século XX: Necrose – Vol. 1 e 2. Rio de
+
+50
+
+Janeiro: Forense Universitária, 2001.
+
+WEBER, Max. Conceitos básicos de Sociologia. São Paulo: Moraes, 1987.
+
+Disciplina: Produção Audiovisual Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Teorias e técnicas de produção de peças audiovisuais para veiculação em mídia eletrônica (televisão e internet). O avanço e reflexos das tecnologias de informação e comunicação (tics): convergência digital, hibridismo, concepções de criação, mudanças no comportamento e consumo. Classificação da programação na televisão brasileira: as categorias, gêneros e formatos dos programas. Conceitos e tipos de documentário (princípios básicos). A importância do planejamento, organização e etapas de realização do produto audiovisual: pré-produção, produção e pós‐produção. Elementos e regras básicas da captação e edição de imagem eletrônica: planos de enquadramento, técnicas de gravação, edição e finalização em audiovisual. Conceito, etapas e técnicas para escritura e formatação de roteiros. Laboratório: criação, roteirização e produção de um produto audiovisual (coletivamente), preferencialmente vídeo documentário ou programa de televisão jornalístico.
+
+Bibliografia Básica:
+
+BRASIL, Giba Assis. A Escritura do Roteiro. Rio Grande do Sul: Unisinos, 2003.
+
+COMPARATO, Doc. Da Criação ao Roteiro. São Paulo: Rocco, 2000.
+
+MARQUES, Aída. Idéias em movimento: produzindo e realizando filmes no Brasil. Rio de Janeiro: Rocco, 2007.
+
+Bibliografia Complementar:
+
+ARONCHI DE SOUZA, José Carlos. Gêneros e formatos na televisão brasileira. SP; Summus, 2004.
+
+DANCYGER, Ken. Técnicas de Edição para Cinema e Video. Rio de Janeiro: Campus Editora, 2003.
+
+MENEZES, Eduardo de Almeida. Apostila de Roteiro. Site Usina do Roteirista, s/d.
+
+NICHOLS, Bill. Introdução ao Documentário. São Paulo: Papirus, 2005.
+
+ZETTL, Herbert. Manual de produção de televisão. São Paulo: Cengage Learning, 2011.
+
+51
+
+Disciplina: Teorias do Jornalismo Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Estudos sistematizados sobre o jornalismo enquanto área do conhecimento. As diferentes teorias sobre a notícia e a prática jornalística e suas filiações epistemológicas. As contribuições do pensamento filosófico e sociológico europeu e americano para a compreensão do jornalismo. A produção teórica brasileira.
+
+Bibliografia Básica:
+
+GENRO FILHO, Adelmo. O segredo da pirâmide: para uma teoria marxista do jornalismo. Porto Alegre: Tchê Editora, 1987.
+
+TRAQUINA, Nelson. Teorias do Jornalismo Vol. 1. Florianópolis: Insular, 2005.
+
+TRAQUINA, Nelson. Teorias do Jornalismo Vol. 2. Florianópolis: Insular, 2005. Bibliografia Complementar:
+
+ALSINA, Miguel Rodrigo. A construção da notícia. Petrópolis: Vozes, 2009.
+
+BERGER, Crista; MAROCCO, Beatriz. A era glacial do jornalismo Vol. 1. Porto Alegre: Sulina, 2006.
+
+BERGER, Crista; MAROCCO, Beatriz. A era glacial do jornalismo Vol. 2. Porto Alegre: Sulina, 2008.
+
+GOMES, Wilson. Jornalismo, fatos e interesses: ensaios de uma teoria do jornalismo. Florianópilis: Insular, 2009.
+
+GROTH, Otto. O poder cultural desconhecido. Petrópolis: Vozes, 2011.
+
+Disciplina: Jornalismo em Rádio Créditos: 02 Núcleo: Específico
+
+Ementa:
+
+Diferentes estilos de noticiário radiofônico. Roteiro e script de programas radiojornalísticos. Produção e realizaçãode atividades radiojornalísticas: a pauta, a reportagem (ao vivo e montada), a redação e a edição, apresentação/locução,entrevista coletiva, debates, roteiros e scripts. Reportagem externa gravada. Prática laboratorial correspondente durante ocurso da disciplina.
+
+52
+
+Bibliografia Básica:
+
+BARBEIRO, Heródoto e LIMA, Paulo Rodolfo. Manual de Radiojornalismo. Rio de Janeiro: Campus, 2003.
+
+BARBOSA FILHO, André. Gêneros radiofônicos: Os formatos e os programas em áudio. São Paulo: Paulinas, 2003.
+
+CYRO, César. Rádio: a mídia da emoção. São Paulo: Summus Editorial, 2005. Bibliografia Complementar:
+
+EMPRESA BRASILEIRA DE COMUNICAÇÃO (RADIOBRÁS). Manual de jornalismo da Radiobrás: produzindo informação objetiva em uma empresa pública de comunicação. Organização de Celso Nucci. Brasília: Senado Federal, Subsecretaria de Edições Técnicas, 2006.
+
+FERRARETO, Luiz Arthur. Rádio: o veículo, a história e a técnica. Porto Alegre: Sagra Luzzatto, 2007.
+
+JUNG, Milton. Jornalismo em rádio. São Paulo: Contexto, 2004.
+
+KISCHINHEVSKY, Marcelo. O rádio sem onda:convergência digital e novos desafios na radiodifusão. Rio de Janeiro: e-papers, 2007.
+
+ORTIZ, Miguel Ángel; MARCHAMALO, Jesús. Técnicas de Comunicação pelo Rádio: a prática radiofônica. São Paulo: Edições Loyola, 2005.
+
+Disciplina: Gestão da Comunicação nas Organizações
+
+Créditos: 02 Núcleo: Comum
+
+Ementa:
+
+O planejamento estratégico da comunicação corporativa como a base para o estabelecimento do posicionamento de comunicação da organização. Análise de cenários, mapeamento de públicos, estratégias, investimentos e mensuração de resultados. Plano, projeto e programa de comunicação.
+
+Bibliografia Básica:
+
+BUENO, Wilson da Costa. Comunicação empresarial: políticas e estratégias. São Paulo:Summus, 2002.
+
+KUNSCH, Margarida Kroling. Comunicação Organizacional. Histórico,
+
+53
+
+fundamentos e processos. Vol. São Paulo: Saraiva.
+
+TORQUATO, Gaudêncio. Cultura, poder, comunicação e imagem. Fundamentos das organizações no século XXI. 2. ed.revista e ampliada.
+
+Bibliografia Complementar:
+
+ROSA, Mário. A reputação na velocidade do pensamento:Imagem e ética na era digital. Geração Editorial.
+
+YANAZE, MitsuruHigushi. Gestão de marketing e comunicação:avanços e aplicações.São Paulo:Saraiva, 2007.
+
+YANASE, MitsuruHigushi. Retorno dos investimentos e comunicação:avaliação e mensuração.São Caetano do Sul (SP): Difusão Editora, 2010.
+
+VASCONCELOS, Luciene Ricciotti. Planejamento de comunicação integrada. São Paulo:Summus, 2009.
+
+OLIVEIRA, Ivone de Lourdes; PAULA, Maria Aparecida de. O que é comunicação estratégica nas organizações?São Paulo:Paulus, 2007.
+
+Disciplina: Teorias da Comunicação Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+O objeto da comunicação social. A configuração da comunicação enquanto área do conhecimento.  A história do pensamento comunicacional: principais escolas e teorias, seus conceitos fundamentais e origens epistemológicas. Os diversos estudos sobre o processo comunicacional, com incidência sobre a produção, a circulação e a apropriação das mensagens. Abordagens teóricas contemporâneas.
+
+Bibliografia Básica:
+
+FERREIRA, Giovandro Marcus; HOHLFELDT, Antônio; MARTINO, Luiz C; MORAIS, Osvando J. de. Teorias da Comunicação. Trajetórias Investigativas. Porto Alegre: Edipucrs, 2010.
+
+POLIDTCHUK, Ilana& TRINTA, Aluízio Ramos. Teorias da Comunicação. O pensamento e a prática da Comunicação Social. Rio de Janeiro: Campus, 2003.
+
+WOLF, Mauro. Teorias da comunicação. Lisboa: Presença, 1987.
+
+54
+
+Bibliografia Complementar:
+
+GOMES, Pedro Gilberto. Tópicos da Teoria da Comunicação.  São Leopoldo: Unisinos, 1997.
+
+MARQUES DE MELO, José.  Teoria da Comunicação: Paradigmas Latino- americanos. Petrópolis: Vozes, 1998.
+
+MARTIN-BARBERO, Jesus. De losmedios a lasmediaciones. México: Gustavo Gilli, 1987
+
+MATTELART, Michèle e Armand. História das Teorias da comunicação. São Paulo: Loyola, 1999. MCLUHAN, M. Os meios de comunicação como extensão do Homem. 9.ed. São Paulo: Cultrix, 1998.
+
+Disciplina: Jornalismo Impresso Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Panorama geral do jornalismo impresso no Brasil. O contexto regional e local. Estrutura e funcionamento das redações de jornais, revistas e demais plataformas impressas. Agências de notícias. Regras de redação em jornalismo impresso. Gêneros jornalísticos relevantes em impressos (reportagem, entrevista, perfil, matéria-fria, notas, colunas). Argumentação e opinião no jornalismo. A especialização no jornalismo impresso. Elaboração do jornal laboratório impresso do curso de Jornalismo da UFG.
+
+Bibliografia Básica:
+
+COIMBRA, Oswaldo. O texto da reportagem impressa. São Paulo: Ática, 1993.
+
+DINES, Alberto. O papel do jornal: A tendência da comunicação e do jornalismo no mundo em crise. São Paulo: Summus, 2009.
+
+MARQUES, Luis Henrique. Teoria e prática de redação para jornalismo impresso. São Paulo: Edusc, 2003.
+
+Bibliografia Complementar:
+
+EISENSTEIN, Elizabeth. A revolução da cultura impressa. São Paulo, Ática, 1998.
+
+Manual de redação e estilo do estado de São Paulo. São Paulo, O estado de São
+
+55
+
+Paulo, 1990.
+
+MARTINS, Wilson. A palavra escrita: história do livro, da imprensa e da biblioteca. São Paulo, Ática, 1996.
+
+MELO, José Marques de. História social da imprensa. Porto Alegre: EDIPURS, 2003.
+
+SODRÉ, Muniz; FERRARI, Maria Helena. Técnica de reportagem: notas sobre a narrativa jornalística. São Paulo: Summus, 1986.
+
+Disciplina: Planejamento Gráfico e Editorial Créditos:
+
+04 Núcleo: Específico
+
+Ementa:
+
+O espaço gráfico e seus elementos de expressão: diagrama, imagem, tipografia e cor. O projeto gráfico: conceito e produção. O desenvolvimento do grid. A relação entre forma e conteúdo editorial. Editoração eletrônica e técnicas de reprodução. Desenvolvimento de projetos gráficos: folder, cartaz, cartilha e jornal.
+
+Bibliografia Básica:
+
+LUPTON, Ellen. Pensar com tipos. São Paulo: Cosac &Naify, 2006.
+
+RIBEIRO, Milton. Planejamento visual gráfico. Brasília: Linha gráfica, 1998.
+
+WILLIAMS, Robin. Design para quem não é designer: Noções básicas de planejamento visual. São Paulo: Callis, 1994.
+
+Bibliografia Complementar:
+
+BAER, Lorenzo. Produção gráfica. São Paulo: Editora Senac, 1999, 2 ed.
+
+GUIMARÃES, Luciano. As Cores na mídia: A organização da cor-informação no jornalismo. São Paulo: Annablume, 2003.
+
+JÚNIOR, José Ferreira. Capas de Jornal. São Paulo: Senac, 2002.
+
+MEGGS, Philip B. História do design gráfico. São Paulo: Cosac &Naify, 2009.
+
+SAMARA, Timothy. Grid: Construção e desconstrução. São Paulo: Cosac &Naify, 2011. 2ª reimpressão.
+
+56
+
+Disciplina: Antropologia Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Noções básicas de teoria e história da Antropologia. A etnografia enquanto possibilidade de instrumental metodológico no campo comunicacional. Leitura de etnografias. O conceito de Cultura. A diversidade cultural no Brasil. Ações afirmativas no Brasil e no mundo. Relações Étnico-Raciais e de Gênero: A construção da diferença.
+
+Bibliografia Básica:
+
+CARVALHO, José Jorge de. O Olhar Etnográfico e a Voz Subalterna. Horizontes Antropológicos, 17(15): 107-147, 2001.
+
+CLIFFORD, James. A experiência etnográfica: antropologia e literatura no século XX. José Reginaldo Santos Gonçalves (org.). Rio de Janeiro: Editora UFRJ, 2002.
+
+LARAIA, Roque.Cultura: Um Conceito Antropológico. Rio de Janeiro: Jorge Zahar Editores, 1986.
+
+Bibliografia Complementar:
+
+BENEDICT, Ruth. Padrões de Cultura. Lisboa: Edição Livros do Brasil, s/d[1934].
+
+DA MATTA, Roberto. 1983. Relativizando: Uma Introdução à Antropologia. Social. Petrópolis: Vozes, 1983.
+
+GEERTZ, Cliford. A Interpretação das Culturas. Rio de Janeiro: Zahar Editores, 1978.
+
+LÉVI-STRAUSS, Claude. Raça e História. In. LÉVI-STRAUSS, Claude. Antropologia Estrutural Dois. Rio de Janeiro: Tempo Brasileiro, 1976.
+
+MAUSS, Marcel. Sociologia e Antropologia. São Paulo: Edusp, 1974.
+
+Disciplina: Jornalismo na Web Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Webjornalismo: história e características das diferentes gerações. Implicações da tecnologia na captação, produção e disponibilização de informação jornalística na web. Criação de sites e arquitetura da informação. Formatos jornalísticos no ciberespaço. Segmentação, interatividade e relacionamento entre o jornalista e o
+
+57
+
+público. Hipertextualidade e hipermidialidade. Produção de narrativas transmidiáticas. Elaboração de produto jornalístico.
+
+Bibliografia Básica:
+
+SCHINGEL, Carla. Ciberjornalismo. São Paulo: Paulinas, 2012.
+
+SQUARISI, Dad. Como escrever na internet. São Paulo: Contexto, 2014.
+
+WARD, Mike. Jornalismo Online. São Paulo: Roca, 2006. Bibliografia Complementar:
+
+BARBOSA, Susana; MIELNICZUK,Luciana (org). Jornalismo e Tecnologias móveis. Salvador. UFBA/Labcom, 2013.
+
+BORGES, Juliano. Webjornalismo: política e jornalismo em tempo real. Rio de Janeiro: Apicuri, 2009.
+
+FERRARI, Pollyana. Hipertexto, Hipermídia. São Paulo: Contexto, 2007.
+
+PRADO, Magali. Webjornalismo.  Rio de Janeiro: LTC, 2011.
+
+MORETZSOHN, Sylvia. Jornalismo em Tempo Real. Rio de Janeiro: Revan, 2002.
+
+PINHO, J. B. Jornalismo na Internet. São Paulo: Summus, 2003.
+
+Disciplina: Jornalismo em TV I Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+A estrutura e funcionamento das emissoras de televisão (estrutura em redes, grade de programação, equipamentos e tipos de transmissão). Funções no telejornalismo: equipes, papéis e rotinas de trabalho. Papel do Repórter na redação. A produção e a escrituração na tevê: apuração da notícia, reuniões de pauta, pré-espelho e elaboração de pautas. As características do veículo televisão e a influência no texto. A linguagem: informação sonora e visual. Apostura do repórter: locução, estilo e participação na matéria. Entrevista: tipos de sonoras e técnicas básicas. A Reportagem: técnicas, estruturação das matérias e elaboração de relatórios de reportagem.  Princípios de Edição.Laboratório: produção, gravação e edição de reportagens.
+
+Bibliografia Básica:
+
+BARBEIRO, Heródoto, LIMA, Paulo Roberto. Manual de Telejornalismo. Rio de
+
+58
+
+Janeiro: Campus, 2005.
+
+CURADO, Olga. A notícia na TV. Rio de Janeiro: Campus, 2006.
+
+PATERNOSTRO, Vera Iris. O texto na TV- manual de telejornalismo. Rio de Janeiro, Campus, 1999.
+
+Bibliografia Complementar:
+
+CRUZ NETO, João Elias da.Reportagem de televisão. Como produzir, executar e editar. Rio de Janeiro: Vozes, 2008.
+
+MARCONDES FILHO, Ciro. Televisão. São Paulo: Scipione, 1994.
+
+PRADO, Flávio. Ponto eletrônico. São Paulo: Publisher Brasil, 1996.
+
+SQUIRRA, Sebastião. Aprender Telejornalismo. SP: Brasiliense, 1993.
+
+WHITE, Ted. Jornalismo eletrônico: redação, reportagem e produção. São Paulo: Roca, 2008.
+
+Disciplina: Teoria e Métodos de Pesquisa em Comunicação
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Introdução à pesquisa científica, nos diversos âmbitos: ciências em geral, ciências sociais e ciências sociais aplicadas. A inserção da comunicação no quadro das ciências no Brasil. Epistemologia da comunicação. O estado da arte da pesquisa em comunicação no Brasil. Teoria e método científico aplicado à comunicação: métodos quantitativos e qualitativos. As diferentes técnicas de pesquisa utilizadas no campo científico da comunicação. Instrumentos de coleta, análise e tratamento de dados. Consequências da pesquisa para o exercício profissional.
+
+Bibliografia Básica:
+
+COHN, Gabriel et ali. Campo da comunicação: caracterização, problematizações e perspectivas. João Pessoa : Editora UFPB, 2001.
+
+DUARTE, Jorge; BARROS, Antonio (orgs.) Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006.
+
+VASSALO DE LOPES, Maria I. (org) Epistemologia da comunicação. São Paulo: Loyola, 2003.
+
+59
+
+Bibliografia Complementar:
+
+BAUER, Martin W.; GASKELL, George. Pesquisa qualitativa com texto, imagem e som: um manual prático. Petrópolis: Vozes, 2002.
+
+BOOTH, W. C.; COLOMB, G. G.; WILLIAMS, J. M. A arte da pesquisa. São Paulo : Martins Fontes, 2000.
+
+FRAGOSO, Suely; RECUERO, Raquel; AMARAL, Adriana. Métodos de pesquisa para internet. Porto Alegre: Sulina, 2011.
+
+LAGO, Cláudia; BENETTI, Marcia. Metodologia da pesquisa em jornalismo. Petrópolis : Vozes, 2007
+
+NOCI, Javier D.; PALACIOS, Marcos (orgs) Metodologia para o estudo dos cibermeios: estado da arte e perspectivas. Salvador: Edufba, 2008.
+
+Disciplina: Jornalismo em TV II Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Informação, Opinião e a Interpretação em televisão. O Gênero Telejornal e os diferentes formatos da notícia: o modelo brasileiro. Audiência e tecnologias de informação: os reflexos no telejornalismo. A estrutura, modalidade e vocação dos telejornais. Análise teórica e prática dos telejornais. Modelos de escrituração: Espelho e Script. Critérios de seleção da notícia. Hierarquia na redação: o papel do editor. Edição de texto e seleção de som e imagem. Técnicas de redação e de adaptação da informação televisual. Fechamento e apresentação do telejornal. Laboratório: produção, redação, edição e apresentação de um telejornal.
+
+Bibliografia Básica:
+
+CURADO, Olga. A notícia na TV. Rio de Janeiro: Campus, 2006.
+
+PATERNOSTRO, Vera Iris. O texto na TV- manual de telejornalismo. Rio de Janeiro, Campus, 1999.
+
+REZENDE, Guilherme Jorge. Perfil editorial do telejornalismo brasileiro. São Paulo: Summus, 2000.
+
+Bibliografia Complementar:
+
+ARONCHI DE SOUZA, José Carlos. Gêneros e formatos na televisão brasileira. SP; Summus, 2004.
+
+60
+
+MACHADO, Arlindo. A Tv levada a sério. São Paulo: Ediusp, 2001.
+
+RODRIGUES, Ernesto (org). No Próximo Bloco: O jornalismo brasileiro na TV e na Internet. Rio de Janeiro: Ed. PUC-Rio/Loyola, 2005.
+
+VIZEU PEREIRA JÚNIOR, Alfredo. PORCELLO, Flávio Antônio de Camargo. Telejornalismo: a nova praça pública. SC: Insular, 2006
+
+VIZEU, Alfredo. PORCELLO, Flávio. COUTINHO, Iluska. 60 anos de Telejornalismo no Brasil. SC: Insular, 2010.
+
+Disciplina: Estágio Curricular Supervisionado
+
+Créditos: 13 Núcleo: Específico
+
+Ementa:
+
+Projetos de estágio em jornalismo; normas de estágio e legislação brasileira; socialização de experiências e prática de estágio.
+
+Bibliografia Básica:
+
+BRASIL. Lei 1.788/2008 (Lei do Estágio)
+
+FENAJ, FNPJ. Orientações gerais para construção de regulamentos de estágio curricular supervisionado em jornalismo. Brasilia (DF), 2015.
+
+MICK, Jackes (Coord..); LIMA, Samuel.Perfil do Jornalista Brasileiro: características demográficas, políticas e do trabalho Jornalístico em 2012. Florianópolis (SC), Editora Insular, 2013.
+
+Programa de Estágio Acadêmico do curso de Jornalismo da UFG.
+
+Política de Estágio da UFG. UFG. Política de Estágio. Bibliografia Complementar:
+
+Será específica para cada campo de estágio.
+
+Disciplina: Assessoria e Consultoria em Comunicação
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+A assessoria de comunicação, sua função produtiva e o seu papel social. O papel do
+
+61
+
+assessor de comunicação em uma sociedade que busca aperfeiçoar suas instituições. A comunicação integrada(assessoria de imprensa, assessoria de relações públicas, assessoria de publicidade e propaganda). Relacionamento entre profissionais de assessorias, veículos e fontes. Práticas de assessoria.
+
+Bibliografia Básica:
+
+ALMANSA, Ana Martinez. Assessoria de Comunicação. São Caetano do Sul (SP): Difusão Editora, 2010.
+
+DUARTE, Jorge (Org.). Assessoria de Imprensa e relacionamento com a mídia. Teoria e Técnica. São Paulo: Atlas, 2002.
+
+KUNSCH, Margarida Kroling. Planejamento de Relações Públicas na Comunicação Integrada. 2. ed.São Paulo: Summus Editorial, 2007.
+
+Bibliografia Complementar:
+
+BUENO, Wilson da Costa. Comunicação empresarial: teoria e prática.Barueri (SP): Editora Manole, 2003.
+
+CURVELLO, João José Azevedo. Comunicação Interna e Cultura Organizacional. Brasília:Casa das Musas, 2012.
+
+LUCAS, Luciene. Media Training: como agregar valor ao negócio melhorando a relação com a imprensa.São Paulo:Summus Editorial, 2007.
+
+PEREIRA, Silvana Coleta Santos. Bases para um relacionamento eficaz com a mídia. Goiânia:Mimeo, 2012.
+
+ROSA, Mário. A síndrome de Aquiles: como lidar com as crises de imagem.São Paulo: Gente, 2001.
+
+Disciplina: Iniciação Científica Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+A formação profissional do pesquisador em comunicação: pós-graduação e docência. A carreira científica no Brasil: Currículo Lattes, grupos de pesquisa, organizações e eventos científicos e publicações Quali. Práticas de pesquisa em comunicação: aplicação dos diferentes métodos científicos às pesquisas em comunicação e jornalismo. Laboratório de pesquisa: projeto, coleta de dados, análise e produção de resultados. O relatório de pesquisa. O artigo científico.
+
+62
+
+Bibliografia Básica:
+
+BAUER, Martin W.; GASKELL, George. Pesquisa qualitativa com texto, imagem e som: um manual prático. Petrópolis: Vozes, 2002.
+
+FRAGOSO, Suely; RECUERO, Raquel; AMARAL, Adriana. Métodos de pesquisa para internet. Porto Alegre: Sulina, 2011.
+
+NOCI, Javier D.; PALACIOS, Marcos (orgs) Metodologia para o estudo dos cibermeios: estado da arte e perspectivas. Salvador: Edufba, 2008.
+
+Bibliografia Complementar:
+
+BARDIN, Laurence. Análise de conteúdo. Lisboa: Edições 70, 2009.
+
+DUARTE, Jorge; BARROS, Antonio (orgs.) Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006.
+
+MATTAR, João. Metodologia científica na era da informática. São Paulo: Saraiva, 2008.
+
+MAZIÈRE, Francine. A análise do discurso: história e práticas. São Paulo: Parábola Editorial, 2007.
+
+ROSA, Maria V. de F. P. do C.; ALNOLDI, Marlene A. G. C. A entrevista na pesquisa qualitativa: mecanismos de validação dos resultados. Belo Horizonte: Autêntica, 2006.
+
+Disciplina: Metodologia e Prática de Extensão
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+O processo de construção histórico-social da extensão universitária no Brasil. A extensão universitária como instrumento de política pública. Pesquisa participante, pesquisa-ação e extensão universitária. O desenvolvimento das metodologias participativas em extensão universitária. Projetos e ações de extensão.
+
+Bibliografia Básica:
+
+BRANDÃO, Carlos Rodrigues; STRECK, Danilo Romeu (orgs). Pesquisa participante: a partilha do saber. Aparecida, SP: Idéias& Letras, 2006 (p.21- 54; 93-121).
+
+FARIA, Dóris Santos de (org.). Construção conceitual da extensão universitária
+
+63
+
+na América Latina. Brasília: Universidade de Brasília, 2001 (p. 57-72; 177-185).
+
+FREIRE, Paulo. Extensão ou comunicação? Rio de Janeiro: Paz e Terra, 1975 (93 p.).
+
+Bibliografia Complementar:
+
+ARAÚJO FILHO, Targino; THIOLLENT, Michel Jean-Marie (Orgs.). Metodologia para Projetos de Extensão: Apresentação e Discussão. São Carlos, SP: Cubo Multimídia, 2008. BRASIL. Ministério da Educação. Plano Nacional de Extensão Universitária. Brasília, DF, 2001.
+
+BROSE, Markus (Org.). Metodologia participativa: uma introdução a 29 instrumentos. Porto Alegre: Tomo Editorial, 2001.
+
+FÓRUM DE PRÓ-REITORES DE EXTENSÃO DAS UNIVERSIADES PÚBLICAS BRASILEIRAS. Extensão Universitária: Organização e Sistematização. Belo Horizonte: Coopmed, 2007. (Coleção Extensão Universitária v.6).
+
+THIOLLENT, Michel; ARAÚJO FILHO, Targino de. SOARES, Rosa Leonôra Salerno (Orgs.). Metodologia e experiências em projetos de extensão. Niterói, RJ: EdUFF, 2000.
+
+THIOLLENT, Michel; BRANCO, Alba Lúcia Castelo; GUIMARÃES, Regina Guedes Moreira; ARAÚJO FILHO, Targino de (Orgs.). Extensão universitária: conceitos, métodos e práticas. Rio de Janeiro: Universidade Federal do Rio de Janeiro. Sub- Reitoria de Desenvolvimento e Extensão, 2003 (p. 57-67).
+
+Disciplina: Jornalismo Especializado Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Disciplina de tema variável. Verticalização e especialização de conteúdo e práticas no jornalismo. Atualização ou aprofundamento, de acordo com as rotinas editoriais jornalísticas. Para cada tema será elencada bibliografia adequada. Temas a serem priorizados: Jornalismo político; jornalismo econômico; jornalismo internacional; jornalismo literário; Jornalismo ambiental; Jornalismo investigativo; Jornalismo de revista; jornalismo esportivo; jornalismo científico; jornalismo de dados; jornalismo em livro reportagem.  Produção jornalística.
+
+Bibliografia Básica:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta.
+
+64
+
+Bibliografia Complementar:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta.
+
+Disciplina: Trabalho de Conclusão de Curso I
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+O trabalho de conclusão de curso nos cursos de comunicação: conceito e finalidades. O projeto de TCC: estrutura e métodos de elaboração. A normalização da ABNT para a produção de trabalhos acadêmicos e científicos. Projeto de Pesquisa e Projeto Experimental: concepções, finalidades, elementos e regulamento. Orientações teóricas, metodológicas e instrumentais dirigidas à elaboração dos projetos. Elaboração de projeto.
+
+Bibliografia Básica:
+
+CRESSWELL, John. Investigação qualitativa e projeto de pesquisa: escolhendo entre cinco abordagens. São Paulo: Artmed, 2014.
+
+FIALHO, Francisco; OTANI, Nilo. TCC – Métodos e técnicas. Florianópolis: Visual Books, 2011.
+
+ISKANDAR, Jamil. Normas da ABNT comentadas para trabalhos. Curitiba: Juruá, 2012. Bibliografia Complementar:
+
+BAUER, Martin W.; GASKELL, George. Pesquisa qualitativa com texto, imagem e som: um manual prático. Petrópolis: Vozes, 2002.
+
+DUARTE, Jorge; BARROS, Antonio (orgs.). Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006.
+
+LAGO, Cláudia; BENETTI, Marcia. Metodologia da pesquisa em jornalismo. Petrópolis: Vozes, 2007
+
+MAZZILLI, Sueli. Orientação de dissertações e teses: em que consiste? Araraguara-SP:Junqueira&Marin, 2013.
+
+SIMKA, Sérgio; CORREIA, Wilson. TCC não é um bicho de sete cabeças. Rio de Janeiro: Ciência Moderna, 2009.
+
+65
+
+Disciplina: Produção de Texto Jornalístico III
+
+Créditos: 02 Núcleo: Específico
+
+Ementa:
+
+A opinião e a análise no jornalismo. A liberdade de manifestação do pensamento e seus limites. A construção da argumentação. Os diferentes gêneros textuais do jornalismo opinativo. Produção de textos jornalísticos opinativos.
+
+Bibliografia Básica:
+
+MELO, Jose Marques de. Jornalismo Opinativo: gêneros opinativos no jornalismo brasileiro. 3. ed. Campos de Jordão, RJ: Editora Mantiqueira, 2003.
+
+PIGNATARI, Nínive. Como escrever textos dissertativos. São Paulo: Senac, 2010.
+
+SILVA, Alexandre Assunção. Liberdade de expressão e crimes de opinião. São Paulo: Atlas 2011.
+
+Bibliografia Complementar:
+
+ALTMAN, Fábio. A arte da entrevista. 2ª ed. São Paulo: Boitempo, 2004. BELO, Eduardo. Livro-reportagem. São Paulo: Contexto, 2006. BELTRÃO, Luiz. Jornalismo Opinativo. Porto Alegre, Sulina, 2 ed. 1980. ____, Luiz. Jornalismo Interpretativo. Porto Alegre, Sulina, 2 ed., 1980.
+
+KOCHE, Vanilda;  BOFF, Odete;  MARINELLO, Adianef. Leitura e Produção Textual: gêneros textuais do argumentar e expor. Petrópolis: Vozes, 2010.
+
+MELO, José Marques. A opinião no jornalismo brasileiro. Petrópolis: Vozes, 1985.
+
+SAQUARISI, Dad.; SALVADOR, Arlet. A arte de escrever bem. São Paulo: Contexto, 2004.
+
+Disciplina: Laboratório Integrado Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Teorias e práticas no espaço laboratorial do curso de jornalismo.Práticas curriculares como exercício de jornalismo. As narrativas multimídias e o ensino de jornalismo no século XXI.Produção laboratorial como articulação interdisciplinar nos processos de aprendizados.  O documentário e auto-publicação como novas esferas do jornalismo. Co-produção e co-gestão de conteúdos em rede. A central de produção como
+
+66
+
+plataforma multimídia de práticas cotidianas no ensino de jornalismo.
+
+Bibliografia Básica:
+
+BONFANTI, Katiéllen e FREIRE, Pedro Ivo.Guia prático para a execução de projetos de WebTV baseado na experiência com o Complexo Magnífica Mundi. TCC do Curso de Jornalismo/UFG. Disponível em:<http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/Magni ficaT_V1.01.B_Windows.pdf>
+
+CASTELLS, Manuel. A era da intercomunicação. In: Caminhos para uma comunicação democrática. São Paulo, Instituto Paulo Freire, 2007.
+
+BARBEIRO, Heródoto; LIMA, Paulo: Manual de Jornalismo para rádio, TV e novas mídias. São Paulo: Campus, 2012.
+
+OLIVEIRA, Hugo Paulo Gandolfi. Redação Jornalística Multimeios: técnicas para o jornalismo impresso, jornalismo online, radiojornalismo, telejornalismo e fotojornalismo.Chapecó: Argos 2012.
+
+VEIGA , Maria Zaclis e FAXINA, Élson.Práticas Laboratoriais de uma Rede de Comunicação Acadêmica – Rede Teia de Jornalismo. In Forum Nacional em Defesa da Qaulidade do Ensino de Comunicação – ENDECOM/INTERCOM, ECA- USP, 11 a 13 maio, 2006. Disponível em: <http://www.portcom.intercom.org.br/pdfs/1057119366698257917358111085601114 91828.pdf>
+
+Bibliografia Complementar:
+
+AGUIAR, Pedro. Jornalista não é robô. In Grupo de Pesquisa PEIC – Políticas, Economia de Informação e Comunicação. ECO- UFRJ. 2014. Acesso em 5.07.2015. Disponível em <https://peicpesquisa.wordpress.com/2014/07/31/jornalista-nao-e- robo-por-pedro-aguiar/>
+
+LIMA, Angelita Pereira de e ROCHA, Nilton José dos Reis.A gente Fala com o Mundo, o webjornalismo na UFG. In Fórum Nacional dos Professores de Jornalismo,Natal, 2006. Disponivel em <https://books.google.com.br/books?id=RUoXkLi3bm0C&pg=PA451&lpg=PA451&dq =magnifica+mundi&source=bl&ots=Sx7SUG92Xp&sig=36U1Bf1eZCcgpUJUcR_p9n9
+
+67
+
+ufeQ&hl=pt-BR&sa=X&ei=38CQVbDuOovl-QH4q4HoAw&ved= 0CDkQ6 AEwBjg U #v=onepage&q=magnifica%20mundi&f=false>
+
+MONTIPÓ, Criselli Maria. Jornalismo e experiência partilhada: narrativas sobre célebres cidadãos. Intercom – Sociedade Brasileira de Estudos Interdisciplinares da Comunicação XVI Congresso de Ciências da Comunicação na Região Sul – Joinville - SC –jun. 2015. Disponível em <http://www.portalintercom.org.br/anais/sul2015/resumos/R45-0968-1.pdf>
+
+PEREIRA, Ariane Carla e FERNANDES, Márcio. Atividade laboratorial em jornalismo: para que e para quem?.Intercom – Sociedade Brasileira de Estudos Interdisciplinares da ComunicaçãoXVI Congresso de Ciências da Comunicação na Região Sul – Joinville - SC –  jun. 2015. Disponível em <http://www.portalintercom.org.br/anais/sul2015/resumos/R45-0714-1.pdf>
+
+ROCHA, Nilton José dos Reis; LACERDA, Carlos Felipe; OLIVEIRA, Lourdes Souza de e MENDES, Leandro de Souza.  O gol, o jornalismo e os preconceitos da academia- um casamento regido pela emoção e o incompreensível. In GtMidia Esportiva – XXIV Congresso Brasileiro da Comunicação, Intercom-Campo Grande, 2001. Disponível em <http://www.intercom.org.br/papers/nacionais/2001/papers/NP18ROCHA.PDF>
+
+Disciplina: Empreendedorismo e Negócios em Comunicação
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Mudanças nas relações de trabalho.  Empreendedorismo e espírito empreendedor. Habilidades, atitudes e características empreendedoras. Intra-empreendedorismo. Elementos essenciais para iniciar um novo negócio: estudo de viabilidade e plano de negócios. Funcionamento de um negócio. Cenários e tendências nos mercados de Comunicação. Agência de comunicação: gestão, desafios e oportunidades. Produção cultural e editorial. Terceiro setor e cooperativismo. Freelancer e comunicador-empreendedor individual.
+
+Bibliografia Básica:
+
+DOLABELA, Fernando. Oficina do empreendedor: metodologia de ensino que ajuda a transformar conhecimento em riqueza. São Paulo: Cultura, 2008.
+
+FÍGARO, Roseli (Org.); NONATO, Cláudia; GROHMANN, Rafael. As mudanças no
+
+68
+
+mundo do trabalho do jornalista. São Paulo: Atlas, 2013.
+
+SALIM, Cesar S.; RAMAL, Andrea Cecilia; HOCHMAN, Nelson. Construindo Planos de Negócios: todos os passos necessários para planejar e desenvolver negócios de sucesso. Rio de Janeiro: Campus, 20015.
+
+Bibliografia Complementar:
+
+CORAL, E. et alii. Gestão integrada da inovação: estratégia, organização e desenvolvimento de produtos. São Paulo: Atlas 2008.
+
+KOTLER, P. e KELLY, K.  L. Administração de marketing, Prentice-Hall, SP. 2012.
+
+OLIVEIRA Maurício. Manual do frila: o jornalista fora da redação. São Paulo: Contexto, 2010.
+
+PINCHOT III, Gifford; PELLMAN, Ron. Intra-empreendedorismo na prática. Rio de Janeiro: Campus, 2004.
+
+RAINHO, João Paulo. Jornalismo Freelance. São Paulo: Summus Editorial, 2008.
+
+Disciplina: Trabalho de Conclusão de Curso II
+
+Créditos: 04 Núcleo: Comum
+
+Ementa:
+
+Execução de projeto de pesquisa monográfica ou realização de projeto experimental, a partir dos pressupostos do pensamento científico e das técnicas profissionais de concepção de produtos comunicacionais e jornalísticos.
+
+Bibliografia Básica:
+
+Não se aplica Bibliografia Complementar:
+
+Não se aplica
+
+Disciplina:Comunicação para a Sustentabilidade
+
+Créditos: 02 Núcleo: Comum
+
+Ementa:
+
+Conceito, história e objetivos da “Comunicação para a Sustentabilidade”; as questões ambientais sob a ótica da Comunicação; atual situação da pesquisa no
+
+69
+
+campo da Comunicação para a Sustentabilidade; principais linhas de pensamento ligadas à Sustentabilidade e o papel da Comunicação no tratamento das questões socioambientais de nosso tempo.
+
+Bibliografia Básica:
+
+AZEVEDO, Elaine de (2012): Alimentos orgânicos - ampliando os conceitos de saúde humana, ambiental e social. Editora: Senac São Paulo, I.S.B.N. 9788539602636.
+
+CAPRA,Fritjof/ LUISI,Pier Luigi (2014): A visão Sistêmica da Vida – uma concepção unificada e suas implicações filosóficas, políticas, sociais e econômicas, São Paulo: Editora Cultrix/Amana-Key.
+
+SCHAUN,Angela/ UTSUNOMIYA, Fred (2010): Comunicação e Sustentabilidade, Rio de Janeiro: Ed. E-Papers
+
+Bibliografia Complementar:
+
+D’AMBROSIO, Ubiratan (2012): Transdisciplinaridade,3. Edição, S. Paulo: Ed. Palas-Athena.
+
+BRUNDTLAND, GroHarlem (1991): Nosso Futuro Comum, Editora FGV, 2. Edição.
+
+GARCIA, Jose Sixto (2011): Comunicacao ambiental para o seculo XXI, Comunicacao&Educacao. n. 2, v. 15, 2010. 69-76.
+
+GODEMANN, Jasmin/MICHELSEN, Gerd (2011): Sustainability Communication Interdisciplinary Perspectives and Theoretical Foundation, Springer. E-book:
+
+http://www.springer.com/978-94-007-1696-4
+
+SHIVA, Vandana (2003): Monoculturas da Mente - Perspectivas da Biodiversidade e Biotecnologia. Editora: GAIA (GLOBAL), 1a. Edição.
+
+DISCIPLINAS OPTATIVAS
+
+Disciplina:Tópicos em Comunicação Créditos: 02 Núcleo: Específico
+
+Ementa:
+
+70
+
+Estudos contemporâneos da comunicação e do jornalismo. Novos modelos e formatos de práticas comunicacionais. Linguagens e narrativas híbridas no campo das mídias. As transformações no jornalismo de referência e a emergência de novas formas do exercício profissional.Mecanismos atuais de controle da informação e de construção do discurso jornalístico. Sistemas de crítica midiática.
+
+Bibliografia Básica:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta.
+
+Bibliografia Complementar:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta.
+
+Disciplina: Laboratório Orientado Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Disciplina de práticas de jornalismo. Desenvolvimento de atividades interdisciplinares de jornalismo e comunicação. Projetos e temas transversais com as Ciências Humanas ou demais áreas do conhecimento. Essa disciplina é de caráter aberto, voltada para verter as produções jornalísticas oriundas de todas as disciplinas ofertadas no semestre letivo.
+
+Bibliografia Básica:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta. Bibliografia Complementar:
+
+Não se aplica, é variável de acordo com o conteúdo de cada oferta.
+
+Disciplina: Espaço, Comunicação e Sociedade
+
+Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+71
+
+Leituras e narrativas do espaço. Território e lugar. A cidade e seus sujeitos. Os repertórios sociais: movimentos organizados e segmentos sociais do campo e da cidade. As linguagens do espaço: literatura, cultura popular, juventude. Sujeitos sociais e narrativas jornalísticas. Comunicação e mobilidade social.
+
+Bibliografia Básica:
+
+BESSE, Jean Marc. Ver a Terra – seis ensaios sobre a paisagem e a Geografia, São Paulo: Perspectiva, 2006. COSTA, Paulo Cesar. O lugar do olhar – elementos para uma geografia da visibilidade. Rio de Janeiro: Saraiva, 2013. SANTOS, Milton. O Espaço do cidadão. São Paulo: Nobel, 1987. SOUZA, M. L. O desafio metropolitano: um estudo sobre a problemática sócio- espacial nas metrópoles brasileiras. RJ: Bertrand Brasil, 2000.
+
+Bibliografia Complementar:
+
+NEGRI, Caio et al.Rádios Livres e a Reforma Agrária no Ar. São Paulo: Brasiliense,1987
+
+MARTINS, Edilson. Nossos Índios, nossos mortos. Rio de Janeiro: Codecri,1979
+
+VASCONCELOS, Lauro. Santa Dica: o encantamento do mundo ou coisa do povo. Goiânia: Cegraf-UFG, 1991.
+
+GUATARI, F. Revolução molecular. São Paulo: Brasiliense, 1985.
+
+Disciplina:Jornalismo Compartilhado e Popular
+
+Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Jornalismo, poder e história.Teorias e práticas do fazer comunicativo nos movimentos sociais:midiativismo e  as redes colaborativas. Jornalismo popular e revolução tecnológica, a superação de um conceito. Jornalismo compartilhado, a profundidade depois da internet. Da alternatividade à competitividade no ciberespaço: as lutas simbólicas de outra natureza.  As plataformas compartilhadas na convergência entre jornalismo, cultura e conhecimento.Mobilização social e a produção imaterial participativa.Alternativas sustentáveis, financiamento colaborativo (crowdfunding )e a pós-tv. Jornalismo compartilhado e popular como esfera de
+
+72
+
+intervenção político-cultural e atuação profissional.
+
+Bibliografia Básica:
+
+GOMES, Pedro G. Jornalismo Alternativo no projeto popular. São Paulo:Paulinas, 1990.
+
+INTERNLANDI, Jean-MarieJornalismo Popular. Cadernos Intercom. São Paulo: Cortez, 1981.
+
+PERUZZO,Cicilia; TUFTE,Thomas; CASANOVA,Jair Veja. Trazos de una outra comunicaciónen América Latina: practicas comunitarias, teorias y demandas sociales. Barranquilla: Universidaddel Norte. 2011.
+
+MARTINS, Antônio. Muito além de Gutenberg. In: Caminhos para uma comunicação democrática. São Paulo: Instituto Paulo Freire, 2007.
+
+Bibliografia Complementar:
+
+ALMADA, Sandra. Mídia e comunidades de periferia: tensões e negociações em torno da visibilidade e mobilização políticas.In: Comunicação Comunitária é alternativa contra- hegemónica. Revista do LECC. Ano I, nº 1, v.1, jan-fev. p.46-51, 2007.
+
+BAKHTIN, Mikhail. A Cultura Popular na Idade Média e no Renascimento: o contexto de François Rabelais. São Paulo: Hucitec; Brasília: Editora da Universidade de Brasília, 1993.
+
+BENTES, Ivana. Redes colaborativas e precário produtivo.In:Caminhos para uma comunicação democrática. São Paulo: Livros Temáticos Diplô, 2007.
+
+BERGER, Christa. A comunicação emergente: popular e/ou alternativa no Brasil. Porto Alegre: UFRGS, 1989.
+
+BOLLÉME, Genevieve. O povo por escrito. São Paulo: Martins Fontes, 1988.
+
+CALLADO, Ana Arruda; Duque Estrada, Maria I.Como se faz um jornal comunitário. Petropólis: Vozes/Ibase, 1985.
+
+DI FELICE, Massimo.As armas comunicantes, o papel da comunicação nos novos movimentos revolucionários: o caso zapatista. In: PERUZZO, Cicilia( org).Vozes Cidadãs: Aspectos Teóricos e análises de experiências de Comunicação Popular e sindical na América Latina. São Paulo: Angellara, 2004.
+
+ESCOBAR, Arturo.Actores, redes e novos produtores de conhecimento: os
+
+73
+
+movimentos sociais e a transição paradigmática nas ciências. In: SANTOS, Boaventura de Souza. Conhecimento Prudente para uma Vida Decente(Org.). São Paulo: Cortez Editor, 2004.
+
+FESTA, Regina e LINS DA SILVA, Carlos Eduardo (Orgs.). Comunicação Popular e. Alternativa no Brasil. São Paulo: Edições Paulinas, 1986.
+
+ROCHA, Nilton José dos Reis. Por uma comunicação insubmissa. Movimentos sociais e redes populares na Web: Os grandes desafios do presente.O Cabo dos Trabalhos: Revista Electrónica dos Programas de Doutoramento do CES/ FEUC/ FLUC/ III, Nº 5, 2011
+
+http://cabodostrabalhos/ces.uc.pt/n5/ensaios.php
+
+SOUSA, Ana Lúcia Nunes de. Comunicación comunitaria y metodologías de realización audiovisual en Brasil y Argentina.Dissertação de Mestrado. Facultad de Ciencias Sociales Universidad de Buenos Aires, 2013.
+
+YAMAMOTO, Eduardo Yuji. Comunicação popular: por uma genealogia do povo”. In: http://www.eca.usp.br/caligrama/n_7/pdf/yamamoto.pdf  acesso em 07-05.2009.
+
+Disciplina: Recursos Visuais em Jornalismo
+
+Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+A editoria de arte e atividades afins. A edição de imagem para uso em projetos gráficos. Histórico e aplicações da ilustração editorial. A charge, o cartum e a caricatura. Infografia e recursos narrativos visuais. O pictograma e a economia visual. A fotografia ilustrativa.
+
+Bibliografia Básica:
+
+GOMES FILHO, João. Gestal do objeto:sistema de leitura visual da forma. São Paulo: Escrituras, 2000.
+
+LINDEN, Sophie Van der. Para ler o livro ilustrado. São Paulo: Cosac Naify, 2011.
+
+MELO, Chico Homem de; RAMOS, Elaine (orgs.). Linha do Tempo do design gráfico no Brasil. São Paulo: Cosac Naify, 2011.
+
+Bibliografia Complementar:
+
+BERGSTRÖM, Bo. Fundamentos da comunicação visual. São Paulo: Edições Rosari, 2009.
+
+74
+
+CORDEIRO, William Robson. Infografia interativa na redação: O exemplo do Diário do Nordeste. Mossoró, RN: Sarau das Letras, 2013.
+
+FARIAS,Salvio J. P. A sedução do infográfico: Texto, imagem e percurso narrativo. In: MAIA, Juarez Ferraz de. Atualidades – Estudos Contemporâneos em Jornalismo (Col I). Goiânia: Ed. da PUC Goiás, 2012.
+
+HOLLIS, Richard. Design gráfico: Uma história concisa. São Paulo: WMF Martins Fontes, 2010.
+
+OLIVEIRA, Ieda de (Org.). Com a palavra o ilustrador: O que é qualidade em ilustração no livro infantil e juvenil. São Paulo: DCL, 2008.
+
+Disciplina: Documentário Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Documentário como gênero audiovisual. Cinema e documentário: realidade, verdade e ficção. O documentário: o modelo sociológico, o cinema direto e o cinema verdade. O uso da imagem no documentário contemporâneo. Documentário e jornalismo: aproximações e diferenças.
+
+Bibliografia Básica:
+
+BERNARDETH, Jean-Claude. Cineastas e imagens do povo. São Paulo: Editora Cia. das Letras, 2003.
+
+DA-RIN, Silvio. Espelho Partido – Tradição e Transformação do Documentário. Rio de Janeiro: Azougue editorial, 2004.
+
+NICHOLS, Bill. Introdução ao documentário. São Paulo: Papirus, 2005 Bibliografia Complementar:
+
+LINS, Consuelo. O documentário de Eduardo Coutinho. Rio de Janeiro: Zahar, 2007.
+
+RAMOS, Fernão.  Afinal, o que é mesmo documentário?. São Paulo: Senac, 2008.
+
+RAMOS, Fernão. Teoria Contemporânea do Cinema: Pós-estruturalismo e filosofia analítica (vol1);  Documentário e Narratividade Ficcional (vol.2) (São Paulo, Editora SENAC, 2005).
+
+RAMOS, Fernão. “Cinema Verdade no Brasil”. In.: Teixeira, Francisco Elinaldo
+
+75
+
+(Org.). Documentário no Brasil – Tradição e Transformação. São Paulo: Summus, 2003.
+
+TEIXEIRA, Francisco Elinaldo. Cinemas “não narrativos”. São Paulo: Alameda, 2014.
+
+Disciplina: História do Cinema Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+O objetivo: apresentar um panorama da história do cinema, desde a introdução ao conceito de Narrativa Clássica, passando pelas escolas de referência (Neo- Realismo, Nouvelle vague) até o cinema brasileiro. Outros objetivos: discutir as relações entre o aparato cinematográfico (tecnologia), o cineasta, o espectador e a sociedade; O método de abordagem abrange o estudo das teorias (estilos e propostas) e análise de filmes.
+
+Bibliografia Básica:
+
+BAZIN, André. Cinema – ensaios. São Paulo: Brasiliense, 1988.
+
+BORDWELL, David. A arte do cinema. São Paulo: Edusp/Unicamp, 2014.
+
+CHARNEY, Leo &SCHWARTZ, Vanessa (Orgs). O cinema e a invenção da vida moderna. São Paulo: Cosac&Naify, 2001.
+
+Bibliografia Complementar:
+
+BORDWELL, David. Sobre a história do estilo cinematográfico. Campinas: Papirus, 2013.
+
+COUSINS, Mark. História do cinema. São Paulo: Martins Fontes, 2014.
+
+MARTIN, Marcel. A linguagem cinematográfica. São Paulo: Brasiliense, 1990.
+
+MASCARELLO, Fernando. História do cinema mundial. Campinas: Papirus, 2007.
+
+STAM, Robert. Introdução à teoria do cinema. Campinas: Papirus, 2004.
+
+Disciplina:Língua Estrangeira Instrumental Créditos: 04 Núcleo: Específico
+
+76
+
+Ementa:
+
+Ementa variável que visa à prática de leitura e interpretação de textos jornalísticos, científicos e de agências internacionais de notícias, além de jornais em língua estrangeira moderna, tais como inglês, francês, espanhol e italiano.
+
+Bibliografia Básica:
+
+Não se aplica, é variável de acordo com o conteúdo de cada componente curricular.
+
+Bibliografia Complementar:
+
+Não se aplica, é variável de acordo com o conteúdo de componente curricular.
+
+Disciplina: Geopolítica Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Geopolítica: temas atuais e discussões teóricas. Territórios e territorialidades. Conflitos territoriais e desigualdade social. Hegemonias e o contexto geopolítico internacional, América Latina, nacional e regional. Agrohidronegócio e Geopolítica do Cerrado: fronteiras, territórios, modos de vida e recursos naturais e hídricos. Geopolítica da Comunicação e da transferência de tecnologias.
+
+Bibliografia Básica:
+
+COSTA, Wanderley Messias. Geografia Política e Geopolítica, São Paulo: Edusp, 2008. RAFFESTIN, Claude. Por uma Geografia do Poder, São Paulo: Ed. Ática, 2001. HARVEY, David. A condição Pós-moderna, São Paulo: Loyola, 2008.
+
+Bibliografia Complementar:
+
+ÁGUAS, Carla; ROCHA, N. J. R. Grãos que não saciam. In:Colloque Josué de Castro dans le XXI siècle. Paris: Université Paris 8, 2009. v. 1. p. 78-78.
+
+BESSIS, Sophie. L'armealimentaire. Paris: François Maspero, 1979.
+
+CASTRO, Josué de. Geografia da fome. 10. ed. Rio de Janeiro: Edições Antares. 1984.
+
+77
+
+CECEÑA, Ana Esther. Frente al paradigma revolución verde – Monsanto . Integralidad en las integraciones descolonizadoras. In:Observatorio Latinoamericano de Geopolitica 2013. Disponível em
+
+http://www.geopolitica.ws/article/integridad-en-las-integraciones-descolonizadoras/
+
+CESARINO, Pedro de Niemeyer. Babel da floresta, cidades dos brancos? Os Marubo no trânsito entre dois mundos-Novos Estudos 82, 2008. In: www.scielo.br/pdf/nec/n82/07.pdf
+
+CHIAVENATTO, Julio.A guerra do Paraguai. São Paulo. Brasiliense, 1980.
+
+ESTERCI, Neide.Conflito do Araguaia: peões e posseiros contra a grande empresa. Petrópolis: Vozes, 1987.
+
+FISK, Robert. A grande guerra pela civilização. A conquista do OrienteMédio(The great war for civilisation - The conquest of the middle east).Harper Collins PublishersLtd.Tradução: Sandra Martha Dolinsky. São Paulo: Editora Planeta do Brasil, 2007. ISBN 978-85-7665-284-7. Disponível em http://g1.globo.com/platb/files/1045/theme/Grande%20guerra_final.pdf
+
+GONZÁLEZ CASANOVA,Pablo.El colonialismo interno. In: Sociología de la E xplotación.CLACSO,Consejo Latnoamericano de Ciencias Sociales,Buenos Aires, Argentina: 2006. 240p.ISBN: 97-1183-54-2.Disponible em la web: http://biblioteca virtual.clacso.org.ar/ ar/libros/secre/ GO n zalez/ coon i a. pdf
+
+KOTSCHO, Ricardo. O massacre de posseiros. São Paulo: Brasiliense, 1981.
+
+MELLO, Leonel Itaussu. Quem tem medo da geopolítica? São Paulo: Hucitec/Edusp, 1999.
+
+PORTO-GONÇALVES, Carlos Walter. O Latifúndio Genético e a R-existência Indígeno-Camponesa. In:GEOgraphia. Vol. 4, No 8 (2002). Disponível em:
+
+http://www.uff.br/geographia/ojs/index.php/geographia/article/viewArticle/86
+
+THOMAZ JÚNIOR, A. Por uma Geografia do Trabalho. Presidente Prudente (SP): Pegada, 2002. ZIEGLER, Jean. Destruição massiva: Geopolítica da fome. São Paulo: Cortez. 2012. Disponível em https://florestasdofuturo.files.wordpress.com/2013/06/geopolitica-da-fome.pdf
+
+78
+
+Disciplina: Psicologia Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+A relação do homem com os estímulos do meio, especialmente com os advindos dos meios de comunicação. Aspectos psicossociais da comunicação: percepção, motivação, emoção, persuasão, memória, condicionamento, inteligência, estados cognitivos. A construção de espaços virtuais e o imaginário humano. Impactos psicológicos da exposição da violência na mídia. A psicologia do consumidor: percepção da informação e comportamento de compra.
+
+Bibliografia Básica:
+
+MININNI, Giuseppe. Psicologia Cultural da Mídia. São Paulo: Sesc, 2008.
+
+SODRÉ. Sociedade, Mídia e Violência. Rio Grande do Sul: Sulina, 2006.
+
+VYGOTSKY. Lev Semenovich. A formação social da mente. São Paulo: Martins Editora, 2007.
+
+Bibliografia Complementar:
+
+AVENZ, Robert.Imaginação e realidade. Petrópolis: Vozes, 1993.
+
+CARLSSON, Ulla. Criança de Violência na Mídia. São Paulo: Cortez, 1999.
+
+GUEGEN, Nicolas. Psicologia do consumidor. São Paulo: Sesc, 2010.
+
+JUNG, Carl Gustav. Os arquétipos e o inconsciente coletivo. Petrópolis: Vozes, 2011.
+
+STROCCHI, Maria Cristina. Psicologia da comunicação. São Paulo: Paulus, 2007.
+
+Disciplina: Libras Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Introdução às práticas de compreensão e produção em Língua Brasileira de Sinais por meio do uso de estruturas e funções comunicativas elementares. Introdução ao sistema fonético e fonológico da LIBRAS.
+
+Bibliografia Básica:
+
+CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngüe da Língua de Sinais Brasileira, v 1. São Paulo: Editora da Universidade de São
+
+79
+
+Paulo, 2001.
+
+FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico. Brasília: Ministério da Educação e do Desporto/Secretaria de Educação Especial, 2001.
+
+PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 . Porto Alegre: Editora Pallotti, 2008. Bibliografia Complementar:
+
+BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro: Tempo Brasileiro, 1995. CAPOVILLA, F. C., RAPHAEL, W. D. Dicionário Enciclopédico Ilustrado Trilíngüe da Língua de Sinais Brasileira, v 2. São Paulo: Editora da Universidade de São Paulo, 2001.
+
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 1. São Paulo: EDUSP, 2004.
+
+CAPOVILLA, F. C.; RAPHAEL, W. D. (Ed.). Enciclopédia da Língua de Sinais Brasileira. v. 2. São Paulo: EDUSP, 2004.
+
+QUADROS, R. M. de & KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. ArtMed: Porto Alegre, 2004.
+
+Disciplina: Educomunicação Créditos: 04 Núcleo: Específico
+
+Ementa:
+
+Comunicação e educação, caminhos cruzados. Educação para os meios ou meios para educação?. A comunicação na escola, práticas e tendências na América Latina. A educomunicação, tecnologia e produção de conteúdos na educação popular. O sujeito social e a produção de sentidos. Práticas sociais e a educação emancipadora. As T.I.C.s e a escola como novo lugar do jornalista.
+
+Bibliografia Básica:
+
+FREIRE, Paulo. Pedagogia da Esperança: um reencontro com a pedagogia do oprimido. Rio de Janeiro.Paz e Terra. 1992.
+
+KRAN, Riva e TEIXEIRA,Rafaela.Todos os Contos: verificação do imaginário infanto-juvenil - Uma experiência de educomuniação. Goiânia:Kelps/Ayvu-Etã, 2004.
+
+80
+
+RANCIÉRE,Jacques. O mestre ignorante: Cinco lições sobre a emancipação Intelectual.Belo Horizonte: Autêntica, 2007.
+
+SHAUM, Ângela. Educomunicação: reflexões e princípios. Rio de Janeiro: Mauad, 2002
+
+GÓMEZ, Guilhermo Orozco. Educomunicação: recepção midiática, aprendizagem e cidadania. São Paulo: Paulinas, 2011
+
+Bibliografia Complementar:
+
+BRANDÃO, Carlos Rodrigues.  A pesquisa participante na docência: a busca do diálogo na construção do saber. In:Escritos abreviados. Série pesquisa, 2005.
+
+DEL PIORE, Mary (Org). História das Crianças no Brasil. São Paulo: Contexto, 2002.
+
+KAPLÚN, Mario. Hacia nuevas estratégias de comunicacion en la educación de adultos.Santiago: Oreal-Unesco, 1983.
+
+KOTSCHO, Ricardo. Essa Escola Chamada Vida. São Paulo: Brasiliense, 1986.
+
+HURTADO, Carlos Nuñez. Educar para Transformar.Petrópolis: Vozes, 1998.
+
+GUTIERREZ, Francisco.Linguagem total:uma pedagogia dos meios de comunicação. São Paulo: Summus, 1977.
+
+Disciplina: Módulos Integrados de Filosofia Créditos:
+
+04 Núcleo: Específico
+
+Ementa:
+
+Introdução a cinco núcleos centrais da tradição filosófica: (1) Lógica e Filosofia da Linguagem; (2) Ontologia e Teoria do Conhecimento; (3) Ética; (4) Política; (5) Estética.
+
+Bibliografia Básica:
+
+ARISTÓTELES. Metaísica (Livros I e II); Ética a Nicômaco; Poética.  Vários trads. In: Coleção os Pensadores. São Paulo: Abril Cultural, 1984.
+
+81
+
+ARISTÓTELES. Política. Trad. Antônio Campelo Amaral e Carlos de Carvalho Gomes. Lisboa: Veja, 1998.
+
+BAUMGARTEN, A. G. Estética – A lógica da Arte e do Poema. Trad. Miriam Sutter Medeiros. Petrópolis: Vozes, 1993.
+
+Bibliografia Complementar:
+
+KANT, I. Crítica da Faculdade do Juízo.  Trad. Valério Rohden e Antonio Marques. Rio de Janeiro: Forense Universitária, 1993.
+
+MAQUIAVEL, N. O príncipe. 2. Ed. Trad. Maria Júlia Goldwasser. São Paulo: Fontes, 2001.
+
+MORTARI, C.A. Introdução à Lógica. São Paulo: Unesp, 2013.
+
+PLATÃO. O banquete; Fédon; Sofista.In: Coleção os Pensadores. São Paulo: Abril Cultural, 1984.
+
+WITTGENSTEIN, L. TractatusLogico-Philosophicus. Trad. Luiz Henrique Lopes dos Santos. São Paulo: Editora da Universidade de São Paulo, 1994.
+
+XVI- Referências
+
+CHAPARRO, Manuel Carlos. Jornalismo: linguagem dos conflitos. Coimbra: Minerva, 2001.
+
+Decreto nº 5.622, de 19 de dezembro de 2005 - Regulamenta o Art. 80 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da educação nacional.
+
+Decreto nº 5.626, de 22 de dezembro de 2005 - Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o Art. 18 da Lei no 10.098, de 19 de dezembro de 2000.
+
+LANDIM, C. M. Educação a distância: algumas considerações.Rio de Janeiro: Edição do Autor, 1997.
+
+Lei nº 9.394, de 20 dedezembro de 1996.Estabelece as diretrizes e bases da educação nacional.
+
+82
+
+Lei nº 10.436, de 24 de abril de 2002 - Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências.
+
+Lei nº 10.845, de 5 de março de 2004 - Institui o Programa de Complementação ao Atendimento Educacional Especializado às Pessoas Portadoras de Deficiência, e dá outras providências.
+
+Lei nº 11.645, de 10 março de 2008 - Altera a Lei no 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.
+
+PÔRTO Jr., Gilson; NEVES, Aubergs Lopes. Possibilidades do fato histórico no pensamento educacional. História do tempo presente. In. PÔRTO Jr., Gilson (org.). Bauru-SP: Edusc, 2007.
+
+Resolução nº 1, de 27 de setembro de 2013 - Institui as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo, bacharelado, e dá outras providências.
+
+83
+
+APÊNDICE I – QUADRO DE EQUIVALÊNCIA
+
+COMPONENTE CURRICULAR. NOVA MATRIZ
+
+CH NÚCLEO DE
+
+ORIGEM
+
+E NATUREZA
+
+COMPONENTE
+
+CURRICULAR
+
+MATRIZ 777
+
+CH NÚCLEO DE
+
+ORIGEM
+
+E NATUREZA Produção de Texto Jornalístico I
+
+64 NE OBRITATÓRIO Produção de Texto
+
+Jornalístico I
+
+64 NC OBRITATÓRIO Estudos da Imagem 64 NC OBRITATÓRIO Teoria da Imagem 64 NC OBRITATÓRIO Introdução ao Jornalismo
+
+32 NE OBRITATÓRIO Teorias do Jornalismo
+
+64 NC OBRITATÓRIO História do Jornalismo
+
+64 NE OBRITATÓRIO História da Imprensa 64 NC OBRITATÓRIO Língua Portuguesa 64 NC OBRITATÓRIO Língua Portuguesa –
+
+Redação e Expressão I
+
+64 NC OBRITATÓRIO
+
+Cidadania e Direitos Humanos
+
+32 NC OBRITATÓRIO Não tem equivalência
+
+NC OBRITATÓRIO Produção em áudio 32 NE OBRITATÓRIO Produção Radiofônica
+
+64 NE OPTATIVO
+
+PTJ II 64 NE OBRITATÓRIO PTJ II 64 NC OBRITAGÓRIA Fotografia Básica 64 NC OBRITATÓRIO Fotojornalismo 64 NE OPTATIVO Ética e legislação da Comunicação
+
+32 NE OBRITATÓRIO Ética da Comunicação
+
+Direito da Comunicação
+
+64
+
+32
+
+NC OBRITATÓRIO
+
+NC OBRIGATÓRIO Cibercultura 64 NC OBRITATÓRIO Não tem equivalência
+
+Política Brasileira 64 NC OBRITATÓRIO Não tem equivalência
+
+Fotojornalismo 64 NE Fotojornalismo 64 NE OPTATIVO Sociologia 64 NC OBRITATÓRIO Cultura Brasileira II NE OPTATIVO Produção Audiovisual
+
+64 NC OBRITATÓRIO Produção Audiovisual
+
+64 NE OPTATIVO
+
+Teorias do Jornalismo
+
+64 NC OBRITATÓRIO Teorias do Jornalismo
+
+64 NE OBRIGATÓRIO Jornalismo em Rádio
+
+32 NE Radiojornalismo 64 NE OPTATIVO
+
+Gestão da Comunicação nas Organizações
+
+32 NC OBRITATÓRIO Não tem equivalência
+
+Teorias da Comunicação
+
+64 NC OBRITATÓRIO Teorias da Comunicação
+
+64 NC OBRITATÓRIO Jornalismo Impresso
+
+64 NE Jornal Impresso I 64
+
+Planejamento gráfico e editorial
+
+64 NE Planejamento Gráfico Editorial
+
+64 NE OPTATIVO
+
+Antropologia 64 NC OBRITATÓRIO Cultura Brasileira I 64 NE OPTATIVO
+
+84
+
+Jornalismo na web 64 NE Webjornalismo 64 NE OPTATIVO Jornalismo em TV I 64 NE Telejornalismo 64 NE OPTATIVO Teoria e Métodos de Pesquisa em Comunicação
+
+64 NC OBRITATÓRIO Teoria e Métodos de
+
+Pesquisa em Comunicação
+
+64 NC OBRITATÓRIO
+
+Jornalismo em TV II 64 NE Não tem equivalência
+
+\*Estágio Curricular Supervisionado
+
+208 NE OBRITATÓRIO Não tem equivalência
+
+Assessoria e Consultoria em Comunicação
+
+64 NC OBRITATÓRIO JE - Assessoria de
+
+Comunicação
+
+64 NE OPTATIVO
+
+Iniciação Científica 64 NC OBRITATÓRIO Laboratório de
+
+Pesquisa
+
+48 NE OPTATIVO
+
+Metodologia e Prática de Extensão
+
+64 NC OBRITATÓRIO Não tem equivalência
+
+TCC I (Elaboração de projeto e ABNT)
+
+64 NC OBRITATÓRIO Projeto de Pesquisa 32 NC OBRITATÓRIO PTJ III- Jornalismo Opinativo
+
+32 NE OPTATIVO PTJ II 64 NC OBRITATÓRIO Laboratório Integrado
+
+64 NE OPTATIVO Não tem equivalência
+
+Empreendedorismo e Negócios em Comunicação
+
+64 NC OPTATIVO Não tem equivalência
+
+TCC II 64 NCOBRITATÓRIO TCC 64 NC OBRITATÓRIO Jornalismo Especializado
+
+64 NE OPTATIVO Jornalismo Especializado
+
+64 NE OPTATIVO
+
+Tópicos em Comunicação
+
+32 NE OPTATIVO Tópicos em Comunicação
+
+32 NE OPTATIVO
+
+Comunicação para a Sustentabilidade
+
+32 NC OBRITATÓRIO JE – Jornalismo
+
+Ambiental
+
+64 NE OPTATIVO
+
+OPTATIVOS
+
+Laboratórios orientados
+
+(ementa aberta /várias possibilidades de oferta)
+
+64 NE OPTATIVO Laboratórios orientados
+
+(ementa aberta /várias possibilidades de oferta
+
+48 NE OPTATIVO
+
+Espaço, Comunicação e Sociedade
+
+64 NE OPTATIVO Tópicos comunicação ou
+
+seminário – Jornalismo e
+
+Sociedade
+
+32 NE OPTATIVO
+
+Comunicação Popular e Comunitária
+
+64 NE OPTATIVO Comunicação
+
+Comunitária
+
+64 NE OPTATIVO
+
+Recursos Visuais em Jornalismo
+
+64 NE OPTATIVO Não tem equivalência
+
+Documentário 64 NE OPTATIVO Cinema documentário
+
+64 NE OPTATIVO
+
+85
+
+História do Cinema 64 NE OPTATIVO História do cinema 64 NE OPTATIVO Língua estrangeira instrumental
+
+64 NE OPTATIVO Não tem equivalência
+
+Geopolítica 64 NE OPTATIVO Não tem equivalência
+
+Psicologia 64 NE OPTATIVO Psicologia Social 64 NE OPTATIVO Libras 64 NE OPTATIVO Não tem equivalência
+
+Educomunicação 64 NE OPTATIVO Não tem equivalência
+
+Módulos Integrados de Introdução à Filosofia
+
+64 NE OPTATIVO Filosofia 64 NE OPTATIVO

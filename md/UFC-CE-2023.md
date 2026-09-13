@@ -1,0 +1,8105 @@
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI INSTITUTO INTERDISCIPLINAR DE SOCIEDADE, CULTURA E ARTE
+
+PROJETO PEDAGÓGICO DO CURSO
+
+JORNALISMO
+
+JUAZEIRO DO NORTE
+
+ABRIL DE 2023
+
+PRESIDENTE DA REPÚBLICA
+
+Luiz Inácio Lula da Silva
+
+MINISTRO DA EDUCAÇÃO
+
+Camilo Santana
+
+UNIVERSIDADE FEDERAL DO CARIRI
+
+REITOR
+
+Profa. Ricardo Luiz Lange Ness
+
+VICE-REITORA
+
+Prof. Laura Hévila Inocêncio Leite
+
+PRÓ-REITOR DE GRADUAÇÃO
+
+Prof. Rodolfo Jakov Saraiva Lobo
+
+PRÓ-REITORA DE PESQUISA E INOVAÇÃO
+
+Profa. Laura Hévila Inocêncio Leite
+
+PRÓ-REITOR DE EXTENSÃO
+
+Prof. Fabiana Lazzarin
+
+PRÓ-REITOR DE ADMINISTRAÇÃO
+
+Prof. Silvério de Paiva Freitas Jr.
+
+PRÓ-REITOR DE PLANEJAMENTO
+
+Prof. Juscelino Pereira
+
+PRÓ-REITOR DE GESTÃO DE PESSOAS
+
+Prof. Mário Henrique Pacheco
+
+PRÓ-REITOR DE CULTURA
+
+Weber dos Anjos
+
+INSTITUTO INTERDISCIPLINAR DE SOCIEDADE, CULTURA E ARTE – IISCA
+
+Profa. Camila do Espírito Santo Prado de Oliveira
+
+Profª. Ivy Higino – Vice-Diretor
+
+COORDENADOR DO CURSO DE JORNALISMO
+
+Prof. Tiago Coutinho Parente
+
+NÚCLEO DOCENTE ESTRUTURANTE – NDE
+
+Prof. Tiago Coutinho Parente
+
+Profa. Ligia Coeli Silva Rodrigues
+
+Prof. Francisco das Chagas Alexandre
+
+Nunes de Sousa
+
+Prof. Edwin Carvalho
+
+Prof. Luis Celestino
+
+SUMÁRIO
+
+\1. APRESENTAÇÃO 6
+
+\2. JUSTIFICATIVA 8
+
+\3. MISSÃO 10
+
+\4. HISTÓRICO DO CURSO 11
+
+4.1 - BREVE HISTÓRICO DA PROFISSÃO DE JORNALISTA 11 4.2 - HISTÓRICO DO CURSO DE JORNALISMO DA UFCA 12 4.3 - AVALIAÇÃO DO CURSO DE JORNALISMO DA UFCA 13 4.4 - REFORMULAÇÕES CURRICULARES 14
+
+\5. PRINCÍPIOS NORTEADORES 15
+
+6 – OBJETIVOS DO CURSO 18
+
+6.1 – OBJETIVO GERAL 18 6.2 – OBJETIVOS ESPECÍFICOS 18
+
+\7. PERFIL DO EGRESSO 19
+
+\8. COMPETÊNCIAS E HABILIDADES 20
+
+I - COMPETÊNCIAS GERAIS 20 II - COMPETÊNCIAS COGNITIVAS 22 III - COMPETÊNCIAS PRAGMÁTICAS 22 IV - COMPETÊNCIAS COMPORTAMENTAIS 23
+
+\9. ASPECTOS LEGISLATIVOS DA PROFISSÃO E ATUAÇÃO PROFISSIONAL 24
+
+\10. INFRAESTRUTURA NECESSÁRIA 25
+
+A) ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA 25
+
+B) LABORATÓRIOS 26 I - Laboratório de Práticas em Jornalismo 27 II - Laboratório de Telejornalismo (planta em anexo) 28 III – Laboratório de Radiojornalismo 29 IV – Laboratório de Projetos Fotográficos 31
+
+\11. RECURSOS HUMANOS 33
+
+QUADRO 1 – EQUIPE DE DOCENTES E TÉCNICOS DO CURSO 35
+
+\12. METODOLOGIAS DE ENSINO-APRENDIZAGEM 37
+
+\12. 1 – APOIO AO DISCENTE 40 12.2 – INTEGRALIZAÇÃO Da EXTENSÃO 41
+
+\13. ARTICULAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E CULTURA
+
+\14. ACOMPANHAMENTO E AVALIAÇÃO 44
+
+14.1 ACOMPANHAMENTO E AVALIAÇÃO DOS PROCESSOS DE ENSINO-APRENDIZAGEM 44 14.2 ACOMPANHAMENTO E AVALIAÇÃO DO PROJETO PEDAGÓGICO
+
+\15. ORGANIZAÇÃO CURRICULAR 50
+
+QUADRO 2 – ORGANIZAÇÃO CURRICULAR DO CURSO DE JORNALISMO 51
+
+QUADRO 3 – CONTEÚDOS DE FUNDAMENTAÇÃO HUMANÍSTICA 52 QUADRO 4 – CONTEÚDOS DE FUNDAMENTAÇÃO ESPECÍFICA 53 QUADRO 5 – CONTEÚDOS DE FUNDAMENTAÇÃO CONTEXTUAL 53 QUADRO 6 - CONTEÚDOS DE FORMAÇÃO PROFISSIONAL 54 QUADRO 7 - CONTEÚDOS DE APLICAÇÃO PROCESSUAL 55 QUADRO 8 - CONTEÚDOS DE PRÁTICA LABORATORIAL 56 QUADRO 9 – COMPONENTES CURRICULARES OPCIONAIS DO CURSO DE JORNALISMO 58
+
+\16. UNIDADES CURRICULARES 59
+
+QUADRO 10 - COMPONENTES CURRICULARES, NATUREZA DAS DISCIPLINAS E PROFESSORES DA UNIDADE DE FUNDAMENTAÇÃO HUMANÍSTICA 59 QUADRO 11 - COMPONENTES CURRICULARES, NATUREZA DAS DISCIPLINAS E PROFESSORES DA UNIDADE DE FUNDAMENTAÇÃO HUMANÍSTICA 60 QUADRO 12 - COMPONENTES CURRICULARES, NATUREZA DAS DISCIPLINAS E PROFESSORES DA UNIDADE DE FORMAÇÃO PROFISSIONAL EM JORNALISMO 60 QUADRO 13 - COMPONENTES CURRICULARES, NATUREZA DAS DISCIPLINAS E PROFESSORES DA UNIDADE DE 61
+
+\17. EMENTÁRIO DOS COMPONENTES CURRICULARES 62
+
+17.1 – EMENTÁRIO DOS COMPONENTES CURRICULARES E UNIDADES ACADÊMICAS RESPONSÁVEIS 62
+
+\18. ESTÁGIO CURRICULAR SUPERVISIONADO 123
+
+18.1 - REGULAMENTAÇÃO DAS ATIVIDADES DE ESTÁGIO NO CURSO DE JORNALISMO 123 18.2 - ACOMPANHAMENTO DOS ESTÁGIOS SUPERVISIONADOS 124 18.3 - COMPETÊNCIAS DO PROFESSOR SUPERVISOR DE ESTÁGIO 124 18.4 - ORIENTADORES 125 18.5 ATRIBUIÇÕES DO ALUNO ESTAGIÁRIO 125 18.6 AVALIAÇÃO DOS ESTÁGIOS 126 18.7 FREQUÊNCIA 126 18.8 - REPROVAÇÃO 126 18.9 - DISPOSIÇÕES GERAIS 126
+
+\19. TRABALHO DE CONCLUSÃO DE CURSO DE CURSO (TCC) 127
+
+19.1 – MONOGRAFIA 127 19.2 - PRODUTO JORNALÍSTICO 128 19.3 - REGULAMENTAÇÃO: CRITÉRIOS E PARÂMETROS 128
+
+\20. ATIVIDADES COMPLEMENTARES 132
+
+\21. INTEGRALIZAÇÃO CURRICULAR 136
+
+21.1 – QUADRO DE COMPONENTES OBRIGATÓRIOS 136 21.2 - EQUIVALÊNCIA ENTRE AS DISCIPLINAS OBRIGATÓRIAS DO NOVO PPC (2023) E ANTIGO PPC (2016) ........................................................................................................................................................................    138 21.3 – DISCIPLINAS COM SEU CARÁTER MODIFICADO NA TRANSIÇÃO PARA O NOVO PPC 139 21.4 – QUADRO DE COMPONENTES OPCIONAIS DO CURSO DE JORNALISMO 140 20.4 – QUADRO DE COMPONENTES OPCIONAIS E RESPECTIVOS PROFESSORES RESPONSÁVEIS 141 20.5 – ESTRUTURA CURRICULAR 142
+
+FLUXOGRAMA DA ESTRUTURA CURRICULAR DO CURSO DE JORNALISMO 144
+
+\22. REFERÊNCIAS NORMATIVAS 145
+
+\1. APRESENTAÇÃO
+
+Este documento apresenta a revisão e atualização do Projeto Pedagógico do Curso de Graduação
+
+em Jornalismo, Bacharelado, ofertado pela Universidade Federal do Cariri, em seu Campus central,
+
+sediado na cidade de Juazeiro do Norte (CE). O projeto foi concebido a partir das orientações
+
+contidas na Resolução Nº 1, da Câmara de Educação Superior do Conselho Nacional de Educação,
+
+de 27 de setembro de 2013, que institui as Diretrizes Curriculares Nacionais para os cursos de
+
+Graduação em Jornalismo.
+
+A nova matriz curricular, aprovada pelo Instituto Interdisciplinar de Sociedade, Cultura e Arte
+
+(IISCA), Unidade Acadêmica da qual o curso de Jornalismo é vinculado, procura acompanhar as
+
+transformações ocorridas nos cenários acadêmico e profissional do campo do Jornalismo. A
+
+proposta de novo PPC vem alinhada com princípios que norteiam a formação acadêmica da UFCA,
+
+tais como flexibilidade curricular, interdisciplinaridade, formação generalista, articulação entre
+
+teoria e prática ao longo do curso e estímulo à pesquisa,  extensão e cultura. Também foram levadas
+
+em consideração, as determinações da Lei Nº 13.005, que cria o Plano Nacional da Educação (PNE),
+
+bem como aspectos da realidade local.
+
+Em linhas gerais, o novo Projeto Pedagógico do Curso não propõe uma ruptura com o PPC
+
+anterior, mas incorpora a Unidade Curricular de Extensão ampliando a participação da extensão na
+
+formação. Mantém, portanto, uma série de itens do antigo projeto, atualizando outros, em
+
+conformidade com as novas diretrizes curriculares e com os outros critérios de elaboração
+
+anteriormente citados.
+
+O bacharelado em Jornalismo é oferecido em regime semestral, na modalidade presencial, com
+
+ingresso anual de 50 estudantes, por meio de processo seletivo do Exame Nacional do Ensino Médio
+
+(ENEM). A realização das aulas ocorre prioritariamente no turno noturno, excetuando as disciplinas
+
+optativas, que são oferecidas nos turnos vespertino e noturno. Assim como no PPC anterior, o
+
+Estágio Supervisionado constitui um componente curricular obrigatório, regulamentado pela Lei nº
+
+11.788/2008 e pela Resolução CEPE/UFC nº 32/2009.
+
+O Projeto Pedagógico do Curso de Jornalismo leva em consideração a legislação vigente. A
+
+seguir, a descrição do conjunto de normas e legislações que orientaram a elaboração deste
+
+documento:
+
+\- Lei nº 13.005, de 25/06/2014, que aprova o Plano Nacional de Educação;
+
+\- Lei 12.722, de 28/12/2012, que dispõe sobre a estruturação do Plano de Carreiras e Cargos do
+
+Magistério Federal;
+
+\- Lei nº 10.861, de 14 de abril de 2004, que institui o Sistema Nacional de Avaliação da Educação
+
+Superior (SINAES);
+
+\- Lei de Diretrizes e Bases da Educação Nacional Nº 9.394/96 (LDB);
+
+\- Diretrizes Curriculares Nacionais do Curso de Graduação em Jornalismo (Resolução CNE/CES
+
+nº 1/2013, de 27/09/2013);
+
+\- Decreto Nº 83.284, de 13 de março DE 1979, que dispõe sobre o exercício da profissão de
+
+jornalista;
+
+\- Resolução CNE/CES nº 2, de 18 de junho de 2007, que dispõe sobre carga horária mínima e
+
+procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na
+
+modalidade presencial;
+
+\- Resolução CNE/CP nº 1, de 17 de junho de 2004, que institui as Diretrizes Curriculares Nacionais
+
+para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira
+
+e Africana;
+
+\- Resolução CNE/CP nº 1, de 30 de maio de 2012, que estabelece Diretrizes Nacionais para a
+
+Educação em Direitos Humanos;
+
+\- Resolução CNE/CP nº 2, de 15 de junho de 2012, que estabelece as Diretrizes Curriculares
+
+Nacionais para a Educação Ambiental;
+
+\- Decreto nº 5.626, de 22 de dezembro de 2005, que regulamenta a Lei nº 10.436, de 24 de abril de
+
+2002, que dispõe sobre a Língua Brasileira de Sinais –Libras, e o art. 18 da Lei nº 10.098, de 19 de
+
+dezembro de 2000;
+
+\- Resolução nº10/CONSUNI-UFC, de 24 de junho de 2009, que aprova a criação do curso de
+
+Graduação em Comunicação Social (Jornalismo) no Campus da UFC no Cariri.
+
+\- Resolução Nº 15/2014/CONSUP, de 23 de abril de 2014, que trata da Avaliação do Rendimento
+
+Escolar dos Cursos de Graduação da Universidade Federal do Cariri.
+
+\- Resolução Nº 25/2015/CONSUP, de 26 de agosto de 2015, que dispõe sobre as Atividades
+
+Complementares dos cursos de Graduação da Universidade Federal do Cariri.
+
+\2. JUSTIFICATIVA
+
+Desde que foi criado, o curso de Jornalismo apresentava uma estrutura curricular similar à
+
+que vem sendo adotada pela Universidade Federal do Ceará (UFC). Isso porque o Projeto
+
+Pedagógico original foi elaborado tendo por base o currículo do Curso de Comunicação Social da
+
+UFC em Fortaleza, aprovado pelas instâncias legais de acordo com o Decreto n° 71.332, de
+
+08/11/1972 do Conselho Federal de Educação (CFE). Vale salientar, porém, que desde a elaboração
+
+do projeto anterior, a equipe de professores do curso levou em consideração uma série de estudos e
+
+debates sobre a formulação e adequação de componentes curriculares à realidade atual da região do
+
+Cariri, sua sociedade e seu mercado de trabalho. O novo Projeto Pedagógico é concebido a partir
+
+de observações acerca do cenário local e sobre as transformações ocorridas no campo do Jornalismo
+
+no Brasil e no mundo nos últimos anos.
+
+A região do Cariri cearense é considerada um polo de desenvolvimento regional, com uma
+
+população estimada em mais de 2,5 milhões de habitantes. Segundo o Censo 2010 do IBGE,
+
+somente a cidade de Juazeiro do Norte, onde está localizado o Campus Central da UFCA e o curso
+
+de Jornalismo da instituição, possui uma população de 249.939 habitantes. Fatores como a
+
+localização estratégica, equidistante de diversos estados nordestinos, a segunda maior arrecadação
+
+do Estado do Ceará, o desenvolvimento de um dos três maiores polos calçadistas do país e o grande
+
+número de instituições de ensino superior, fazem da Região Metropolitana do Cariri um constante
+
+foco de investimentos públicos e privados, com uma demanda cada vez maior de profissionais
+
+qualificados.
+
+O polo universitário de Juazeiro do Norte é um dos maiores do interior do Nordeste, com
+
+mais de vinte mil alunos, conforme dados divulgados pela Prefeitura Municipal. O potencial na área
+
+acadêmica atrai pessoas vindas de todas as regiões do país, em busca de oportunidades de inserção
+
+nas instituições de ensino superior. Diante deste cenário, a Universidade Federal do Cariri desponta
+
+como uma das mais concorridas instituições. Somente no ano de 2014, o SISU registrou a inscrição
+
+de 35.861 candidatos que disputavam uma das 940 vagas disponibilizadas pela UFCA.
+
+O Projeto Pedagógico ora apresentado foi idealizado no sentido de suprir às necessidades
+
+do campo do Jornalismo, tanto do ponto de vista acadêmico, em sintonia com o modelo de formação
+
+do Jornalista em vigor nas matrizes curriculares das universidades brasileiras, quanto profissional.
+
+É preciso destacar que, para além do atendimento das demandas crescentes de um mercado de
+
+trabalho cada vez mais exigente e carente de profissionais tecnicamente qualificados, o novo PPC
+
+preocupa-se com as demandas sociais, com uma formação que não apenas reproduza a técnica, mas
+
+possibilite o exercício crítico e reflexivo da atividade jornalística, garantindo uma formação que
+
+contribua, efetivamente, com o desenvolvimento regional sustentável.
+
+O curso de Jornalismo da UFCA propõe uma formação pautada no princípio do interesse
+
+público, na garantia do direito constitucional de acesso à informação e da livre manifestação do
+
+pensamento. Uma formação que dê ao profissional domínio técnico para lidar com as
+
+transformações no cenário global do Jornalismo. Cenário que dialoga com as plataformas digitais
+
+de informação e que leva em consideração o avanço de áreas como as assessorias de comunicação
+
+e a comunicação visual. Neste sentido, a estrutura do curso de Bacharelado em Jornalismo deve
+
+atender às premissas contidas no Art. 2º das novas Diretrizes Curriculares Nacionais:
+
+I - ter como eixo de desenvolvimento curricular as necessidades de informação e de expressão
+
+dialógica dos indivíduos e da sociedade;
+
+II - utilizar metodologias que privilegiem a participação ativa do aluno na construção do
+
+conhecimento e a integração entre os conteúdos, além de estimular a interação entre o ensino, a
+
+pesquisa e a extensão, propiciando suas articulações com diferentes segmentos da sociedade;
+
+III - promover a integração teoria/prática e a interdisciplinaridade entre os eixos de
+
+desenvolvimento curricular;
+
+IV - inserir precocemente o aluno em atividades didáticas relevantes para a sua futura vida
+
+profissional;
+
+V - utilizar diferentes cenários de ensino-aprendizagem, permitindo assim ao aluno conhecer e
+
+vivenciar situações variadas em equipes multiprofissionais;
+
+VI - propiciar a interação permanente do aluno com fontes, profissionais e públicos do jornalismo,
+
+desde o início de sua formação, estimulando, desse modo, o aluno a lidar com problemas reais,
+
+assumindo responsabilidades crescentes, compatíveis com seu grau de autonomia.
+
+VII - incorporar a extensão como uma dimensão fundamental na formação;
+
+\3. MISSÃO
+
+Formar cidadãos comprometidos com um ideal de sociedade justo e guiado por princípios
+
+democráticos, refletidos em uma educação que promova o exercício profissional ético e a
+
+capacidade de atuar no campo do Jornalismo, unindo com qualidade os domínios reflexivo, técnico
+
+e crítico.
+
+\4. HISTÓRICO DO CURSO
+
+4.1 - Breve Histórico da Profissão de Jornalista
+
+A imprensa brasileira surgiu em 1808, com a edição do primeiro jornal impresso, o Correio
+
+Braziliense. O primeiro sindicato de Jornalistas foi criado em 1934, na cidade de Juiz de Fora, em
+
+Minas Gerais. Mas foi somente em 1938 que a profissão foi regulamentada. O jornalismo é
+
+classificado como atividade profissional que visa coletar, investigar, analisar e transmitir
+
+periodicamente ao grande público, ou a segmentos dele, informações da atualidade, utilizando
+
+jornal, revista, rádio, televisão, internet ou outros canais de comunicação para difundi-las.
+
+Durante muito tempo, o Jornalismo foi exercido por profissionais de outras áreas: jornais
+
+eram escritos por advogados, escritores e intelectuais com formações diversas. Radialistas também
+
+não possuíam formação específica na área. A instituição do curso de Jornalismo no sistema de
+
+ensino superior do Brasil ocorreu por meio do Decreto-Lei Nº 5.480, de 13 de maio de 1943,
+
+inicialmente, ministrado pela Faculdade Nacional de Filosofia com a cooperação da Associação
+
+Brasileira de Imprensa e dos sindicatos representativos das categorias de empregados e de
+
+empregadores das empresas jornalísticas. Porém, a regulamentação da profissão só veio em 1969,
+
+por meio do Decreto-Lei Nº 972, de 17 de outubro de 1969, reconhecendo, finalmente, o caráter
+
+das empresas jornalísticas.
+
+A partir dos anos 1970, outra área da comunicação passou a ser incorporada pelos jornalistas:
+
+as assessorias de imprensa, inicialmente comandadas pelos profissionais de Relações Públicas. Desde
+
+então, tem sido cada vez maior a atuação de egressos dos cursos de Jornalismo em atividades de
+
+divulgação institucional, constituindo outra área de atuação bastante comum para os jornalistas. Para
+
+atuar como jornalista profissional, era necessário a obtenção de registro expedido pelo Ministério do
+
+Trabalho.
+
+Em 2009, o Supremo Tribunal Federal determinou o fim da obrigatoriedade do diploma de
+
+jornalista para o exercício da profissão. Três anos antes, em novembro de 2006, o STF já havia
+
+garantido o exercício da atividade jornalística para profissionais que já atuavam no mercado e não
+
+possuíam diploma universitário na área. Atualmente, encontra-se em tramitação no Congresso
+
+Nacional, uma Proposta de Emenda à Constituição (PEC) que reinstitui a obrigatoriedade de
+
+diploma e registro profissional para o exercício da profissão de jornalista.
+
+Se por um lado, a queda da obrigatoriedade do diploma trouxe uma preocupação com a
+
+qualidade da atividade jornalística, por outro fez com que as universidades passassem a investir em
+
+projetos pedagógicos que levassem em consideração as transformações ocorridas no campo do
+
+Jornalismo, despertando novos interesses pela profissão. Transformações como o fim da
+
+predominância do Jornalismo Impresso e o desenvolvimento de novos canais de comunicação,
+
+possibilitados pelas novas mídias digitais, que trouxeram novas perspectivas para a área. O conjunto
+
+de componentes curriculares do PPC foi idealizado no intuito de refletir o campo da comunicação
+
+social direcionado para o exercício do Jornalismo de modo interdisciplinar, em permanente diálogo
+
+entre ensino, pesquisa e extensão.
+
+4.2 - Histórico do Curso de Jornalismo da UFCA
+
+O curso de Comunicação Social/Jornalismo da Universidade Federal do Ceará (UFC), Campus
+
+Cariri, começou a funcionar em fevereiro de 2010, como parte do projeto de expansão das Universidades
+
+Federais (Reuni). Em 2013 passou a fazer parte da lista de cursos oferecidos pela Universidade Federal
+
+do Cariri, criada pela Lei 12.826, de 05 de junho de 2013, a partir de um desmembramento da UFC.
+
+Funciona nos períodos da tarde (disciplinas opcionais) e da noite. Atualmente, conta com um quadro de
+
+dezessete professores efetivos, todos com títulos de Mestre ou Doutores, atuando em regime de 40h
+
+semanais e dedicação exclusiva.
+
+A estrutura organizacional da UFCA é dividida em Unidades Acadêmicas. O curso de
+
+Jornalismo é vinculado ao Instituto Interdisciplinar de Sociedade, Cultura e Arte (IISCA), Unidade
+
+Acadêmica que atualmente também inclui os cursos de Design de Produto, Música (Licenciatura) e
+
+Filosofia (Licenciatura e Bacharelado). A ideia das Unidades Acadêmicas é colocar em prática a
+
+interdisciplinaridade, promovendo uma interação e uma integração entre cursos, projetos de pesquisa e
+
+extensão correlatos.
+
+Na área da Comunicação, especificamente no campo do Jornalismo, o mercado cearense,
+
+em especial o do Cariri, vem absorvendo grande parte dos profissionais formados pela UFCA, que
+
+é a única instituição pública de ensino superior a oferecer o curso no interior do Ceará. O escasso
+
+número de cursos de Jornalismo no interior atrai estudantes de diversos municípios cearenses para
+
+a UFCA. O curso de Jornalismo também recebe diversos estudantes vindos dos estados da Paraíba
+
+e de Pernambuco.
+
+O Curso de Bacharelado em Jornalismo da UFCA visa a formação de profissionais aptos a
+
+atuarem em veículos de comunicação, assessorias de comunicação em empresas públicas, privadas
+
+e do terceiro setor, agências de propaganda, produtoras de rádio, vídeo e TV, blogs, sites, portais de
+
+comunicação e ambientes tecnológicos convergentes, além de mídias alternativas. Primeiro curso de
+
+Jornalismo do interior do Ceará e um dos cinco do interior do Nordeste, pauta suas atividades pelo
+
+compromisso com a ética, a responsabilidade social, a pluralidade de ideias e diversidade cultural da
+
+região do Cariri. As duas primeiras turmas, formadas em 2013 e 2014, totalizam 38 alunos diplomados.
+
+O ingresso anual é de 50 estudantes.
+
+4.2.1 A nova matriz é válida para os alunos que ingressarem em 2023. Porém os alunos que
+
+ingressaram antes de 2023 podem optar por uma das duas matrizes, 2016 ou a proposta constante
+
+neste PPC. Para tanto, os alunos que optarem em migrar à nova matriz terão que assinar um termo
+
+de anuência.
+
+4.3 - Avaliação do Curso de Jornalismo da UFCA
+
+O curso de Jornalismo da UFCA passou pelo processo de reconhecimento junto ao
+
+Ministério da Educação em 2016. A primeira visita de avaliadores do MEC aconteceu em setembro
+
+de 2014. Na ocasião, o curso obteve o conceito 3. Embora a nota final tenha sido considerada
+
+satisfatória, o desempenho não foi o ideal em duas dimensões avaliadas: infraestrutura (que obteve
+
+conceito 2,1) e organização didático-pedagógica (2,9). Já a dimensão “Corpo docente e tutorial”
+
+obteve conceito 3,9. Diante do resultado, o Colegiado do curso, em conjunto com outros setores da
+
+universidade, passou a elaborar um conjunto de medidas no sentido de solucionar os problemas
+
+identificados. Uma das intervenções diz respeito à atualização do Projeto Pedagógico, adequando-
+
+o às novas diretrizes curriculares nacionais. No tocante à infraestrutura, o curso também passa por
+
+um amplo processo de reestruturação, como será possível detalhar adiante.
+
+Após a visita dos avaliadores do MEC para reconhecimento do curso de Jornalismo da
+
+UFCA em 2014, o Colegiado do curso e o Núcleo Docente Estruturante têm cumprido uma agenda
+
+produtiva de sistematização das informações, fóruns de debates, coleta de observações e críticas
+
+dos estudantes, servidores docentes e servidores técnico-administrativos. A partir dessa agenda, foi
+
+possível traçar um diagnóstico do curso, baseado em três dimensões: o acumulado de reflexões
+
+realizadas pela comunidade acadêmica nos quatro anos que se seguiram, as novas diretrizes
+
+curriculares para os cursos de Jornalismo e o relatório de avaliação do MEC.
+
+4.4 - Reformulações Curriculares
+
+Embora o Projeto Pedagógico original tenha passado por alguns ajustes, em 2016 houve a
+
+segunda reformulação de matriz curricular do curso de Jornalismo. A construção do novo PPC foi
+
+baseada em algumas dimensões fruto do acumulado de reflexões realizadas pela comunidade
+
+acadêmica desde que o curso foi criado, em       2010; as novas diretrizes curriculares para os cursos
+
+de Jornalismo e o relatório de avaliação do MEC, que fez uma primeira visita de reconhecimento
+
+ao curso de Jornalismo da UFCA no ano de 2014; e a ampliação da carga horária obrigatória da
+
+extensão. Sugestões que foram debatidas, aprimoradas e aprovadas pelo Colegiado do Curso.
+
+Após uma série de discussões, o Projeto Pedagógico do Curso de Jornalismo foi aprovado
+
+pelos membros do Colegiado do Curso no dia 13 de junho de 2022, obtendo aprovação no Conselho
+
+do Instituto Interdisciplinar de Sociedade, Cultura e Arte no dia 14 do mesmo mês. O novo projeto
+
+contempla sobretudo a reestruturação do PPC anterior e a alteração da atual matriz curricular com
+
+a inserção da Unidade Curricular de Extensão e a ampliação da carga horária obrigatória para a
+
+extensão. A nova estrutura curricular passa a vigorar a partir de 2023 e será adotada de modo a
+
+coexistir com a antiga matriz, até que seja formada a última turma iniciada.
+
+\5. PRINCÍPIOS NORTEADORES
+
+O Art.4 das Diretrizes Curriculares Nacionais para os cursos de Bacharelado em Jornalismo
+
+apontam o seguinte conjunto de indicativos que devem nortear a elaboração de Projeto Pedagógico
+
+do Curso:
+
+I - formar profissionais com competência teórica, técnica, tecnológica, ética, estética para atuar
+
+criticamente na profissão, de modo responsável, produzindo assim seu aprimoramento;
+
+II - enfatizar, em sua formação, o espírito empreendedor e o domínio científico, de forma que sejam
+
+capazes de produzir pesquisa, conceber, executar e avaliar projetos inovadores que respondam às
+
+exigências contemporâneas e ampliem a atuação profissional em novos campos, projetando a
+
+função social da profissão em contextos ainda não delineados no presente;
+
+III - orientar a formação teórica e técnica para as especificidades do jornalismo, com grande atenção
+
+à prática profissional, dentro de padrões internacionalmente reconhecidos, comprometidos com a
+
+liberdade de expressão, o direito à informação, a dignidade do exercício profissional e o interesse
+
+público;
+
+IV - aprofundar o compromisso com a profissão e os seus valores, por meio da elevação da
+
+autoestima profissional, dando ênfase à formação do jornalista como intelectual, produtor e/ou
+
+articulador de informações e conhecimentos sobre a atualidade, em todos os seus aspectos;
+
+V - preparar profissionais para atuar num contexto de mutação tecnológica constante no qual, além
+
+de dominar as técnicas e as ferramentas contemporâneas, é preciso conhecê-las em seus princípios
+
+para transformá-las na medida das exigências do presente;
+
+VI - ter como horizonte profissional o ambiente regido pela convergência tecnológica, em que o
+
+jornalismo impresso, embora conserve a sua importância no conjunto midiático, não seja a espinha
+
+dorsal do espaço de trabalho, nem dite as referências da profissão;
+
+VII - incluir, na formação profissional, as rotinas de trabalho do jornalista em assessoria a
+
+instituições de todos os tipos;
+
+VIII - atentar para a necessidade de preparar profissionais que possam exercer dignamente a
+
+atividade como autônomos em contexto econômico cuja oferta de emprego não cresce na mesma
+
+proporção que a oferta de mão-de-obra;
+
+IX - instituir a graduação como etapa de formação profissional continuada e permanente.
+
+Para além das Diretrizes Curriculares Nacionais, o Colegiado do Curso de Jornalismo
+
+definiu, no Projeto Pedagógico, um conjunto de princípios norteadores que complementam as
+
+orientações da normativa. Esses princípios norteadores dialogam com os princípios institucionais
+
+da UFCA, definidos pela comunidade acadêmica da instituição em seu processo de elaboração do
+
+Plano de Desenvolvimento Institucional (PDI).
+
+O curso de Jornalismo da UFCA se estruturou a partir da perspectiva de ampliação do acesso
+
+ao Ensino Superior com igualdade e qualidade para todos, desde que foi criado em 2010. Essa
+
+dimensão se efetiva em uma série de princípios norteadores. Princípios que orientam a implantação
+
+do curso, sua organização político pedagógica e suas ações estratégicas desde o início de seu
+
+processo de criação.
+
+Fundamentado nos princípios de igualdade e qualidade para todos, o Curso de Jornalismo
+
+mantém seus princípios originalmente traçados, compreendendo como básicas as questões de
+
+preponderância da Educação sobre a instrução e o compromisso com a qualidade em suas
+
+atividades. Essas premissas possibilitam uma permanente reavaliação de paradigmas, o respeito à
+
+liberdade de expressão e criação, a reflexão, a articulação entre teoria e prática, uma ênfase na
+
+formação humanística, científica e técnica que fomente o ensino integrado à pesquisa e à extensão.
+
+O ensino na perspectiva de uma educação humanística, científica e técnica, tem uma relação
+
+direta com a inserção social e contempla uma atuação permanente com vistas ao exercício da
+
+cidadania plena. O aluno, na condição de futuro profissional no campo do jornalismo, constitui o
+
+centro do planejamento curricular, e para ele está voltada toda a ação pedagógica. As práticas
+
+pedagógicas atualizadas ao longo do curso possibilitam assegurar um percurso didático-pedagógico
+
+crítico, discutido e avaliado pelos eixos de formação, que serão explicitados nas próximas páginas.
+
+Reafirmando estes princípios, destacam-se, além dos indicativos anteriormente citados, os
+
+seguintes pressupostos que norteiam o Projeto Acadêmico do curso em Jornalismo:
+
+\- comprometimento com a ética e a liberdade de expressão, possibilitando uma ação técnica
+
+fundada em princípios teórico-metodológicos que assegurem uma sólida formação para o exercício
+
+profissional, como também o exercício da livre criação e expressão de ideias;
+
+\- autonomia universitária e crítica social: participação nas transformações sociais,
+
+políticas e culturais, dando condições aos profissionais, para o aperfeiçoamento de sua capacidade
+
+crítica, proporcionando-lhes a possibilidade de atuar e de transformar a realidade do mercado de
+
+trabalho, tendo em vista os avanços tecnológicos e os interesses sociais, políticos e culturais da
+
+maior parte da população. Neste sentido, a UFCA e o curso de Jornalismo exercerão de forma
+
+responsável a crítica social e as reflexões sobre o mercado, posicionando-se contra arbitrariedades,
+
+injustiças e preconceitos.
+
+\- incentivo à cultura acadêmica por intermédio da integração dos alunos a grupos de
+
+pesquisas, monitorias e participação em projetos de iniciação à pesquisa.
+
+\- gratuidade: toda atividade que envolva o curso de Jornalismo, seja de ensino, pesquisa
+
+e/ou extensão, é de caráter gratuito. A gratuidade integra um princípio da UFCA, como condição
+
+indispensável para impedir a segregação de alunos e/ou da comunidade em função de falta de
+
+recursos financeiros.
+
+\- respeito à diversidade: o respeito às diferenças, à pluralidade de ideias, deve ser
+
+perseguido pelo curso de Jornalismo, uma vez que o espaço para o contraditório é uma das
+
+características da formação humanística e parte essencial da práxis jornalística. Mais que defender
+
+o respeito às diferenças, o curso de Jornalismo deve estimular práticas pedagógicas que encorajem
+
+cada aluno a combater qualquer tipo de situação que envolva discriminação ou intolerância, dentro
+
+ou fora dos ambientes acadêmico e profissional.
+
+6 – OBJETIVOS DO CURSO
+
+6.1 – Objetivo Geral
+
+O curso de Jornalismo da UFCA tem como objetivo principal, o cumprimento de sua missão
+
+institucional, anteriormente citada, de formar cidadãos comprometidos com o ideal de sociedade
+
+justa e guiada por princípios democráticos, que sejam capazes de exercer a atividade jornalística a
+
+serviço do bem comum, unindo o conhecimento técnico a um exercício profissional ético, crítico e
+
+reflexivo.
+
+6.2 – Objetivos específicos
+
+O projeto acadêmico do curso de Jornalismo visa a formação de profissionais que estejam capacitados a:
+
+\- compreender as diversas dimensões e possibilidades da atuação profissional na área do Jornalismo;
+
+\- interagir em cenário multiprofissional e acompanhar os avanços e transformações ocorridos no campo do Jornalismo;
+
+\- estimular o exercício de uma visão crítica e criativa sobre os fatos e evidências ocorrentes na sociedade;
+
+\- conscientizar-se acerca da importância da educação continuada;
+
+\- realizar exercício profissional ético, competente, com capacidade de saber- pensar- atender - transformar as demandas/necessidades do mercado, bem como de intervir e transformar a realidade;
+
+\- desenvolver atividades de pesquisas e o interesse pela docência.
+
+\7. PERFIL DO EGRESSO
+
+A Resolução CNE/CES, nº 1, de 27 de setembro de 2013, que institui as Diretrizes
+
+Curriculares Nacionais para o Curso de Jornalismo, estabelece, em seu Art. 5º, qual o perfil esperado
+
+do egresso. De acordo com o documento, “o concluinte do curso de Jornalismo deve estar apto para
+
+o desempenho profissional de jornalista, com formação acadêmica generalista, humanista, crítica,
+
+ética e reflexiva, capacitando-o, dessa forma, a atuar como produtor intelectual e agente da
+
+cidadania, capaz de responder, por um lado, à complexidade e ao pluralismo característicos da
+
+sociedade e da cultura contemporâneas, e, por outro, possuir os fundamentos teóricos e técnicos
+
+especializados, o que lhe proporcionará clareza e segurança para o exercício de sua função social
+
+específica, de identidade profissional singular e diferenciada em relação ao campo maior da
+
+comunicação social”.
+
+Nessa perspectiva, os alunos são estimulados, desde os semestres iniciais, por meio de
+
+atividades que estimulem os sensos crítico e criativo, a exercitarem uma visão analítica sobre os
+
+fatos, circunstâncias e contextos da sociedade, conscientes de que o autoaprimoramento deve ser
+
+contínuo para que o profissional tenha competência num mercado dinâmico, complexo e cada vez
+
+mais sem fronteiras, bem como, de maneira multidisciplinar, desenvolver pesquisas sobre
+
+comunicação.
+
+O egresso do Curso de Jornalismo deverá apresentar desenvolvidas as seguintes
+
+características, atitudes, habilidades, conhecimentos e capacidades:
+
+\- Orientação permanente aos princípios universais de respeito aos sujeitos e suas
+
+diferenças;
+
+\- sentido de responsabilidade profissional pela melhoria constante de sua competência
+
+científica e técnica; - atualização e sintonia com as novas tendências do mercado;
+
+\- ampliação e diversificação de conhecimentos na área da Comunicação Social;
+
+\- domínio das linguagens dos meios de comunicação e das novas tecnologias relacionadas
+
+ao exercício da profissão, sendo capaz de se adaptar a processos de experimentação e inovação;
+
+\- capacidade de acompanhamento do trabalho jornalístico, analisando e comparando
+
+potencialidades do mercado a que se destina o produto ou serviço;
+
+\- competência na elaboração de estratégias de lançamento e sustentação de produtos e
+
+serviços jornalísticos, mediante o levantamento das expectativas do público a que se destinam;
+
+\- domínio do processo de planejamento e execução de projetos jornalísticos em diferentes
+
+suportes dos meios de comunicação;
+
+\- respeito às questões éticas no exercício profissional.
+
+\8. COMPETÊNCIAS E HABILIDADES
+
+O Projeto Pedagógico ora apresentado segue as determinações da Resolução CNE/CES, nº 1, de 27
+
+de setembro de 2013, que estabelece, no Art. 5º, as seguintes competências, habilidades,
+
+conhecimentos, atitudes e valores a serem desenvolvidos pelo egresso dos cursos de Jornalismo:
+
+I - Competências gerais:
+
+a) compreender e valorizar, como conquistas históricas da cidadania e indicadores de um estágio
+
+avançado de civilização, em processo constante de riscos e aperfeiçoamento: o regime democrático,
+
+o pluralismo de ideias e de opiniões, a cultura da paz, os direitos humanos, as liberdades públicas,
+
+a justiça social e o desenvolvimento sustentável;
+
+b) conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a realidade social,
+
+econômica e política brasileira, considerando especialmente a diversidade regional, os contextos
+
+latino-americano e ibero-americano, o eixo sul-sul e o processo de internacionalização da produção
+
+jornalística;
+
+c) identificar e reconhecer a relevância e o interesse público entre os temas da atualidade;
+
+d) distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas e profissionais;
+
+e) pesquisar, selecionar e analisar informações em qualquer campo de conhecimento específico;
+
+f) dominar a expressão oral e a escrita em língua portuguesa;
+
+g) ter domínio instrumental de, pelo menos, dois outros idiomas – preferencialmente inglês e
+
+espanhol, integrantes que são do contexto geopolítico em que o Brasil está inserido;
+
+h) interagir com pessoas e grupos sociais de formações e culturas diversas e diferentes níveis de
+
+escolaridade;
+
+i) ser capaz de trabalhar em equipes profissionais multifacetadas;
+
+j) saber utilizar as tecnologias de informação e comunicação;
+
+k) pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+
+l) cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação ao
+
+conhecimento;
+
+m) compreender que o aprendizado é permanente;
+
+n) saber conviver com o poder, a fama e a celebridade, mantendo a independência e o
+
+distanciamento necessários em relação a eles;
+
+o) perceber constrangimentos à atuação profissional e desenvolver senso crítico em relação a
+
+isso;
+
+p) procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais;
+
+q) atuar sempre com discernimento ético.
+
+II - Competências cognitivas:
+
+a) conhecer a história, os fundamentos e os cânones profissionais do jornalismo;
+
+b) conhecer a construção histórica e os fundamentos da cidadania;
+
+c) compreender e valorizar o papel do jornalismo na democracia e no exercício da cidadania;
+
+d) compreender as especificidades éticas, técnicas e estéticas do jornalismo, em sua complexidade
+
+de linguagem e como forma diferenciada de produção e socialização de informação e conhecimento
+
+sobre a realidade;
+
+e) discernir os objetivos e as lógicas de funcionamento das instituições privadas, estatais, públicas,
+
+partidárias, religiosas ou de outra natureza em que o jornalismo é exercido, assim como as
+
+influências do contexto sobre esse exercício.
+
+III - Competências pragmáticas:
+
+a) contextualizar, interpretar e explicar informações relevantes da atualidade,
+
+agregando-lhes elementos de elucidação necessários à compreensão da realidade;
+
+b) perseguir elevado grau de precisão no registro e na interpretação dos fatos noticiáveis;
+
+c) propor, planejar, executar e avaliar projetos na área de jornalismo;
+
+d) organizar pautas e planejar coberturas jornalísticas;
+
+e) formular questões e conduzir entrevistas;
+
+f) adotar critérios de rigor e independência na seleção das fontes e no relacionamento profissional
+
+com elas, tendo em vista o princípio da pluralidade, o favorecimento do debate, o aprofundamento
+
+da investigação e a garantia social da veracidade;
+
+g) dominar metodologias jornalísticas de apuração, depuração, aferição, além das de produzir,
+
+editar e difundir;
+
+h) conhecer conceitos e dominar técnicas dos gêneros jornalísticos;
+
+i) produzir enunciados jornalísticos com clareza, rigor e correção e ser capaz de editá- los em
+
+espaços e períodos de tempo limitados;
+
+j) traduzir em linguagem jornalística, preservando-os, conteúdos originalmente formulados em
+
+linguagens técnico-científicas, mas cuja relevância social justifique e/ou exija disseminação não
+
+especializada;
+
+k) elaborar, coordenar e executar projetos editoriais de cunho jornalístico para diferentes tipos de
+
+instituições e públicos;
+
+l) elaborar, coordenar e executar projetos de assessoria jornalística a instituições legalmente
+
+constituídas de qualquer natureza, assim como projetos de jornalismo em comunicação comunitária,
+
+estratégica ou corporativa;
+
+m) compreender, dominar e gerir processos de produção jornalística, bem como ser capaz de
+
+aperfeiçoá-los pela inovação e pelo exercício do raciocínio crítico;
+
+n) dominar linguagens midiáticas e formatos discursivos, utilizados nos processos de produção
+
+jornalística nos diferentes meios e modalidades tecnológicas de comunicação;
+
+o) dominar o instrumental tecnológico – hardware e software – utilizado na produção jornalística;
+
+p) avaliar criticamente produtos e práticas jornalísticas.
+
+IV - Competências comportamentais:
+
+a) perceber a importância e os mecanismos da regulamentação político-jurídica da profissão e da
+
+área de comunicação social;
+
+b) identificar, estudar e analisar questões éticas e deontológicas no jornalismo;
+
+c) conhecer e respeitar os princípios éticos e as normas deontológicas da profissão;
+
+d) avaliar, à luz de valores éticos, as razões e os efeitos das ações jornalísticas;
+
+e) atentar para os processos que envolvam a recepção de mensagens jornalísticas e o seu impacto
+
+sobre os diversos setores da sociedade;
+
+f) impor aos critérios, às decisões e às escolhas da atividade profissional as razões do interesse
+
+público;
+
+g) exercer, sobre os poderes constituídos, fiscalização comprometida com a verdade dos fatos, o
+
+direito dos cidadãos à informação e o livre trânsito das ideias e das mais diversas opiniões.
+
+\9. ASPECTOS LEGISLATIVOS DA PROFISSÃO E ATUAÇÃO PROFISSIONAL
+
+A profissão de Jornalista é regulamentada pelo Decreto-Lei Nº 972, de 17 de outubro de
+
+\1969. O título de Jornalista Profissional é concedido pelo Ministério do Trabalho, após a conclusão
+
+do curso de Graduação em Jornalismo, aprovado pelo Ministério da Educação. Diferente de outras
+
+áreas de atuação, os jornalistas não possuem Conselho específico que regulamente a profissão.
+
+Os profissionais da área são organizados pelo Sindicato dos Jornalistas, com escritórios
+
+espalhados pelo Brasil. No Ceará, a sede está localizada na capital, Fortaleza. Há também outras
+
+entidades representativas, como a Federação Nacional dos Jornalistas (Fenaj), que reúne
+
+profissionais de comunicação de todo o país e possui Comissões Nacionais de Ética, Direitos
+
+Humanos e Liberdade de Imprensa, e a Associação Nacional de Jornais (ANJ), formada por
+
+empresários do setor.
+
+O mercado de Jornalismo na região do Cariri possui diversos canais de comunicação, dentre
+
+os quais duas emissoras de televisão, sucursais dos principais jornais impressos do Estado do Ceará,
+
+veículos impressos locais (jornais e revistas), emissoras de rádio, sites, portais e outros canais de
+
+notícias. Outra área que tem crescido na região é a de assessorias de imprensa e comunicação, fruto
+
+do grande número de empresas de médio e grande porte de todo o Brasil que se instalam na região.
+
+Vale destacar ainda o crescente número de canais alternativos de comunicação, que não
+
+integram as grandes redes e absorvem parte dos jornalistas brasileiros, muitos atuando de forma
+
+autônoma, criando seus próprios canais de informação. Também é crescente o interesse dos alunos
+
+pela área da pesquisa, visível pelo grande número de egressos que ingressaram em cursos de Pós-
+
+Graduação (Mestrado) em universidades situadas em diferentes regiões do país
+
+\10. INFRAESTRUTURA NECESSÁRIA
+
+Para que seja adequadamente implantado, o Projeto Pedagógico do Curso precisa contar
+
+com uma infraestrutura que permita a professores e alunos a união entre a teoria e a prática como
+
+condição indispensável para uma formação plena. O Curso de Jornalismo, além de seu material
+
+humano, deve contar com laboratórios devidamente equipados e salas destinadas ao estudo e a
+
+formação dos estudantes dotados de material a ser utilizado durante as aulas. Vale destacar que a
+
+reestruturação do Curso de Jornalismo da UFCA foi apontada como essencial pelo Ministério da
+
+Educação, uma vez que a infraestrutura obteve desempenho insatisfatório durante visita de
+
+reconhecimento do curso, no ano de 2014. Desde então, a Universidade tem adotado medidas para
+
+ampliar a infraestrutura, especialmente de laboratórios, e melhorar os existentes.
+
+A seguir, uma descrição detalhada da infraestrutura necessária para o pleno funcionamento
+
+do curso:
+
+a) Organização didático-pedagógica:
+
+O Curso de Jornalismo possui, atualmente, quatro turmas regulares por semestre letivo, no
+
+período noturno. Além das aulas ministradas no turno noturno, há ainda os componentes
+
+curriculares (disciplinas) ofertados no turno vespertino. No novo PPC, a proposta é que continuem
+
+sendo oferecidas pelo menos cinco disciplinas optativas por semestre letivo.
+
+Somadas, as aulas nos turnos vespertino e noturno do curso de Jornalismo exigem da UFCA a
+
+reserva de 13 salas de aulas, sendo oito para o turno noturno e cinco para a oferta de optativas. Cada
+
+sala deverá ser equipada com quadro branco, aparelho de projeção multimídia, um
+
+microcomputador e uma caixa de som, tendo em vista o caráter do curso de Jornalismo, de ampla
+
+utilização de recursos audiovisuais durante as aulas. A capacidade de cada sala é para 50 alunos.
+
+Devem ser levados em consideração todos os padrões de acessibilidade que garantam a mobilidade
+
+de estudantes com algum tipo de deficiência.
+
+Tendo em vista o número ideal de professores para o curso – atualmente são dezessete, dos
+
+quais dois estão afastados para qualificação (Doutorado) – este Projeto Pedagógico recomenda nove
+
+gabinetes para professores. Cada gabinete será compartilhado por dois professores do curso e deverá
+
+estar equipado com dois microcomputadores e duas mesas de reunião para encontros com bolsistas,
+
+orientandos ou alunos que necessitem de atendimento individualizado. A sugestão é que os espaços
+
+possuam divisórias, uma vez que nesses gabinetes também irão funcionar os Projetos de Pesquisa
+
+e/ou Extensão dos respectivos professores. Com as divisórias é possível que cada docente utilize a
+
+mesma sala simultaneamente, recebendo alunos sem que as atividades provoquem transtornos ou
+
+incômodo.
+
+É necessária ainda uma sala para as atividades da Coordenação, com capacidade para, no
+
+mínimo, quatro pessoas, munida de dois microcomputadores e impressoras, além de uma mesa para
+
+reuniões. Vale salientar que a sala da Coordenação já existe e vem sendo utilizada. Outros espaços
+
+necessários como biblioteca, auditório e laboratório de informática são de uso comum entre os
+
+cursos da Universidade. Especificamente sobre laboratórios de informática, o curso de Jornalismo
+
+demanda, historicamente, dois laboratórios por semestre, com capacidade para 25 alunos, cada, uma
+
+vez que as turmas são duplicadas em função do grande número de estudantes matriculados. Com a
+
+implantação do Laboratório de Práticas em Jornalismo (detalhamento na seção “Laboratórios”), o
+
+curso passou a contar com um laboratório com capacidade para 32 microcomputadores e 30 alunos,
+
+o que irá demandar apenas mais um laboratório de informática.
+
+b) Laboratórios
+
+Embora esteja situado no campo das Ciências Sociais Aplicadas, o Curso de Jornalismo possui
+
+especificidades que exigem uma robusta estrutura laboratorial. Os laboratórios são pré-requisitos
+
+fundamentais para conciliar a teoria e a prática desde os semestres iniciais, conforme preveem as
+
+Diretrizes Curriculares Nacionais. Eles concentram as aulas práticas dos componentes curriculares
+
+dos setores de estudo de Jornalismo Impresso, Jornalismo Digital, Comunicação Visual, Assessoria
+
+de Imprensa, Telejornalismo, Radiojornalismo e Fotojornalismo. A seguir, a descrição de cada um
+
+desses laboratórios:
+
+I - Laboratório de Práticas em Jornalismo
+
+O Laboratório de Práticas em Jornalismo vai concentrar as atividades laboratoriais ligadas às
+
+áreas de Jornalismo Impresso (Jornalismo Impresso I e II e Laboratório de Jornalismo Impresso),
+
+Jornalismo Digital (Jornalismo Digital I e II), Assessoria de Imprensa (Comunicação Integrada,
+
+Assessoria de Imprensa e Laboratório de Assessoria de Imprensa) e Comunicação Visual
+
+(Comunicação Visual, Design de Notícias I e II). Vai funcionar na Sala 88 (bloco amarelo, piso
+
+superior), com uma área de 9,45x7,05m.
+
+O novo laboratório também vai receber alunos do segundo semestre letivo, matriculados na
+
+disciplina de Introdução às Práticas em Jornalismo, bem como pelos alunos que queiram
+
+desenvolver trabalhos de conclusão de curso na área, tais como livro-reportagem, revista ou jornal.
+
+Trata-se de um espaço que permitirá ainda pesquisas de áreas diversas nos meios digitais. A
+
+proposta é de que cada máquina seja ocupada por, no máximo, dois alunos. O espaço também pode
+
+ser utilizado pelos alunos para a leitura de jornais, revistas e periódicos. O espaço será utilizado
+
+ainda, no turno vespertino, como Sala dos Professores do Curso de Jornalismo, além de ser o
+
+ambiente de reuniões do Colegiado do Curso bem como de seu Núcleo Docente Estruturante.
+
+Equipamentos:
+
+Trinta e dois computadores com monitores, estabilizadores, e sistema operacional Windows. Todos
+
+os terminais deverão estar equipados com softwares de diagramação e produção de textos (pacotes
+
+Adobe e Office ou similares).
+
+Mobiliário: O Laboratório de Práticas em Jornalismo será dotado de 32 computadores, sendo trinta
+
+para os estudantes e dois para os técnicos que atuarão em conjunto com os professores, oito mesas
+
+para reuniões, 59 cadeiras giratórias e uma sala para os técnicos.
+
+Técnicos: Dois, ambos com experiência em Convergência Midiática, uma vez que irão atuar em
+
+diferentes disciplinas.
+
+II - Laboratório de Telejornalismo (planta em anexo)
+
+O Laboratório de Telejornalismo contará com equipamentos para realização de programas
+
+como documentários, programas, debates e outras produções jornalísticas televisivas. O local
+
+concentrará as aulas de Telejornalismo I e II e Laboratório de Telejornalismo, além de parte das
+
+aulas da disciplina de Introdução às Práticas em Jornalismo. No Laboratório discorrerão os
+
+conteúdos programáticos das disciplinas, apoio aos trabalhos dos corpos discentes e docentes, além
+
+de edição e produção de peças jornalísticas que venham a atender a comunidade em geral.
+
+O novo Laboratório de Telejornalismo vem a suprir uma lacuna existente no curso de
+
+Jornalismo desde sua criação. O novo espaço substitui o antigo laboratório de Telejornalismo, que
+
+ficava restrito a uma pequena sala de edição e a um escasso número de equipamentos. Ele foi
+
+construído em uma nova ala da UFCA, vizinho ao novo auditório. Possui dois pavimentos. No piso
+
+inferior possui um  estúdio de TV, medindo de 123,51 metros quadrados, camarim (12,87m²) com
+
+dois banheiros (medindo 3,24 m², cada), oficina (16,04m²), sala de controle e salas de apoio (9,92
+
+m²), e antecâmera (7,29 m²), além de um espaço de ar-condicionado (7,76 m²) e outro banheiro
+
+(2,22 m²). No piso superior fica a sala de controle, medindo 36,56 m², além de uma passarela (48,27
+
+m²).
+
+Equipamentos:
+
+FONE DE OUVIDO PROFISSIONAL. Fone de ouvido fechado, estéreo
+
+9 FILMADORAS FULL HD: Câmera de vídeo (filmadora) profissional, com um cartão de memória
+
+de 32 gigas compatível com a câmera.
+
+16 CARTÕES DE MEMÓRIA: Cartão de memória de 32GB micro SDHC.
+
+5 CASE PARA FILMADORA FULL HD: Bolsa para transporte de filmadora Camcorder para
+
+transporte de filmadoras profissionais camcorder. Referência: Softcase EZ Grip Luxo, equivalente
+
+ou similar.
+
+10 MICROFONES DE LAPELA SEM FIO: Microfone lapela sem fio com receptor e
+
+transmissor.
+
+11 MICROFONES DE MÃO SEM FIO: Especificações mínimas: Microfone de mão sem fio
+
+com receptor.
+
+6 MICROFONES DE MÃO COM FIO: Microfone de mão profissional para voz tipo polar
+
+cardioide.
+
+2 LUMINÁRIAS LED: Iluminador profissional.
+
+6 KITs ILUMINAÇÃO PROFISSIONAL: Kit de Iluminaçao (com bag). Referência: ATEK,
+
+equivalente ou similar.
+
+3 DOLLYS (RODAS PARA TRIPÉ DE ESTÚDIO): Dolly profissional em alumínio para tripé com
+
+corta cabo, trava de rodas, trava de pé com capacidade para até 60kg.
+
+1 ILUMINADOR E LUZ FRIA: Iluminador para filmagem. Kits de luz para estúdio
+
+TRIPÉ (TRIPÉ + CABEÇA + BOLSA): Referência: Tripé e Cabeça Manfrotto 502HD / 055XB,
+
+equivalente ou similar.
+
+TELEPROMPTER. TELEPROMPTER LCD: 19' WIDE.
+
+5 HD EXTERNO PORTÁTIL: HD Externo Portátil USB 3.0
+
+MONITOR (TV) PROFISSIONAL
+
+PLACA DE CAPTURA DE VÍDEO: Referência: Placa de Vídeo Captura Pinnacle Studio
+
+MovieBox HDUltimate, equivalente ou similar
+
+KIT DE ESTÚDIO COMPLETO
+
+CÂMERA DIGITAL SEMIPROFISSIONAL
+
+KIT - EQUIPAMENTO PORTÁTIL PARA OPERAÇÕES AO VIVO: Switcher de vídeo
+
+com painel de controle.
+
+Mobiliário: 32 poltronas giratórias, quadro branco.
+
+Técnicos: Dois, sendo um para gravação e outro para edição de imagens.
+
+III – Laboratório de Radiojornalismo
+
+O laboratório de Radiojornalismo da UFCA é composto por três ambientes interligados:
+
+estúdio de gravação com capacidade para dez pessoas, estúdio de transmissão com capacidade para
+
+seis pessoas e ilha de edição com capacidade para 25 pessoas. Tais espaços devem atender de
+
+maneira adequada às necessidades do curso de Jornalismo, no que diz respeito às produções das
+
+disciplinas de Radiojornalismo I, Radiojornalismo II e Laboratório de Radiojornalismo. O uso do
+
+laboratório de rádio deve priorizar as atividades dos alunos matriculados nas disciplinas
+
+supracitadas, porém, o espaço está disponível ao curso para outras disciplinas, desde que
+
+previamente agendadas. Produções relativas a projetos de extensão e trabalhos de conclusão de
+
+curso também podem ser realizadas nesse espaço. As peças e/ou programas gravados e/ou
+
+transmitidos no laboratório de rádio incluem todos os gêneros do veículo rádio, preferencialmente
+
+os pertencentes ao radiojornalismo.
+
+Equipamentos
+
+Estrutura Atual
+
+01 Mesa Presonus 16 canais
+
+03 Microfones dinâmicos Sennheiser 02
+
+Fones de ouvido Behringer
+
+01 Amplificador de fone Phonic 02
+
+Monitores de referência Phonic 03
+
+Pedestais de microfone
+
+01 Computador
+
+Nova Estrutura (Equipamentos solicitados)
+
+01 Mesa Digital Yamaha 01v96i
+
+04 Mesas analógicas Behringer 12 canais 15
+
+Microfones shure SM58
+
+15 Fones de ouvido AKG
+
+15 Pedestais de microfone Auratec 04
+
+Monitores de referência Ativos 01
+
+Controladora de DJ Numark
+
+Mobiliário
+
+\- Bancada em madeira, formato meia-lua para estúdio de gravação com capacidade para
+
+cinco pessoas.
+
+\- Bancada reta em madeira, formato em “L”, para ilha de edição com 02 (dois) gabinetes, 02
+
+(dois) monitores de áudio, 02 (dois)teclado e 01 (uma) mesa de áudio digital.
+
+\- Bancada reta para estúdio de transmissão de web rádio com 01 (um) gabinete, 01 (um) teclado e
+
+02 (dois) monitores de áudio.
+
+\- Duas cadeiras tipo diretor para os operadores na ilha de edição.
+
+\- Cadeira tipo secretária para o operador no estúdio de transmissão de web radio.
+
+\- Vinte e cinco cadeiras sem braço.
+
+\- Três portas duplas para isolamento da ilha de edição, dos estúdios de gravação e
+
+transmissão.
+
+\- Separatória em vidro de 15 mm para estúdio de gravação (aquário) Um projetor
+
+multimídia (datashow).
+
+\- Três revestimentos de esponja de absorção acústica (sonex) para todos os ambientes.
+
+Técnico: Um técnico de radiojornalismo
+
+IV – Laboratório de Projetos Fotográficos
+
+O laboratório de fotografia é necessário para a realização de trabalhos práticos nas
+
+disciplinas Fotojornalismo e Laboratório de Projetos Fotográficos, bem como, para uso dos alunos
+
+que pretendam realizar seus trabalhos de conclusão de curso na referida área ou disciplinas do curso
+
+que eventualmente necessitem do recurso fotográfico. O espaço total é dividido em quatro partes
+
+distintas, são elas: Área do Servidor Técnico, o Laboratório de Edição em Fotografia, Sala de
+
+Guarda de Equipamentos, Sala de Oficina Fotográfica e Sala de Pesquisa em Fotografia.
+
+O Laboratório de Edição em Fotografia é o principal espaço do Laboratório de Projetos
+
+Fotográficos, tendo capacidade para atender um total oito alunos editando simultaneamente
+
+fotografias, com orientação do técnico e (ou) do professor. O espaço do laboratório conta ainda com
+
+a sala de Oficina Fotográfica, que é um espaço multiuso, no qual são feitos trabalhos fotográficos
+
+de estúdio, desenvolvidos workshops, entre outras atividades de ensino ou extensão.
+
+Divisão do espaço
+
+\- Dimensões totais: 9,6 metros x 7,5 metros
+
+\- Laboratório de Edição em Fotografia, contando com dez computadores numa sala climatizada.
+
+\- Espaço para o Técnico em Fotojornalismo na entrada do laboratório.
+
+\- Sala de guarda de equipamentos.
+
+\- Sala de Oficinas Fotográficas, na qual estão, entre outros, o estúdio fotográfico.
+
+\- Sala de Pesquisa em Fotografia, voltada especificamente para a pesquisa na área da pesquisa em
+
+fotografia.
+
+Servidor Técnico
+
+O Laboratório de Projetos Fotográficos conta com um técnico com conhecimentos em
+
+fotografia digital, no manuseio dos equipamentos, orientações técnicas e entrega e recebimento dos
+
+itens aos alunos. Sendo o técnico aquele que se responsabiliza pelo controle dos materiais do
+
+espaço.
+
+Equipamentos
+
+Lentes e equipamentos auxiliares
+
+\- 30 câmeras SLR reflex, digitais Nikon, D3100 e D5100, com objetivas 55-80 mm.
+
+\- Oito objetivas do tipo 55-200mm.
+
+\- Leitor para cartão SD.
+
+\- Oito tripés de tamanho médio.
+
+\- Quatro monopés tamanho médio.
+
+\- Seis bolsas para transporte de equipamentos fotográficos com capacidade para uma objetiva, um
+
+corpo com objetiva e um flash.
+
+\- Nove flashes TTL para as câmeras digitais.
+
+\- Dois carregadores de baterias recarregáveis AA.
+
+\- Equipamentos de limpeza das câmeras.
+
+Laboratório de tratamento e análise de fotografia Digital.
+
+\- Oito computadores completos.
+
+Equipamentos de Estúdio fotográfico
+
+\- Geradores de luz (flash) 1.204 watts.
+
+\- Uma Sombrinha Rebatedora Branca.
+
+\- Uma Sombrinha Difusora Branca.
+
+\- Um direcionador de luz.
+
+\- Fundo fotográfico infinito móvel 2,5 x 3 metros.
+
+Mobiliário
+
+\- Dois balcões de granito nas laterais de ampla sala na qual funciona o Laboratório de Edição em
+
+Fotografia.
+
+\- 14 para todos os espaços.
+
+\- Uma mesa de reuniões, mesa para computador e armário de aço na sala de pesquisa em
+
+fotografia.
+
+\- Dois armários de aço para guarda de equipamentos.
+
+\- Birô de trabalho do Servidor Técnico.
+
+\- Armário de uso pessoal do servidor técnico.
+
+\- Mural para recados e lembretes.
+
+\- Lousa para aulas no Laboratório de Fotografia Digital.
+
+\11. RECURSOS HUMANOS
+
+Atualmente, o Curso de Jornalismo possui 17 professores efetivos, todos com títulos de
+
+Mestre ou Doutor e em regime de Dedicação Exclusiva. Porém, desse total, dois encontram-se
+
+afastados para qualificação. Além de ministrarem disciplinas no Jornalismo, os docentes também
+
+são convidados para lecionarem disciplinas em outros cursos da UFCA: Design de Produtos e
+
+Administração Pública. A prática é comum e vem ao encontro da lógica de divisão dos cursos de
+
+graduação em Unidades Acadêmicas, o que permite ao docente dar aulas em cursos que não são os
+
+seus de origem. Além dos professores efetivos do Jornalismo, o curso conta com professores
+
+convidados, normalmente na disciplina de Filosofia, uma vez que não há no quadro do curso,
+
+nenhum docente com formação nessa área.
+
+Com a reformulação do Projeto Pedagógico do Curso de 2016, foram criadas novas
+
+disciplinas práticas ou compostas por conteúdos teóricos e práticos (Introdução às Práticas em
+
+Jornalismo, Laboratório de Assessoria de Imprensa, Comunicação Visual, Design de Notícias II).
+
+Além disso,  houve uma elevação do número de disciplinas optativas ministradas por semestre, em
+
+conformidade com as sugestões dos avaliadores do INEP.
+
+Na matriz curricular de 2016, todas as turmas de práticas laboratoriais foram duplicadas,
+
+uma vez que os laboratórios, mesmo os que foram ou estão sendo construídos, não comportam o
+
+grande número de alunos por turma. A duplicação (limite de 25 alunos por turma) ocorre não apenas
+
+em função de limitações de infraestrutura, mas também porque o Colegiado do Curso compreende
+
+que o acompanhamento pedagógico de práticas laboratoriais com turmas superiores a 25 alunos
+
+compromete a qualidade do ensino.
+
+Na integralização da carga horária, em 2016, o curso de Jornalismo teve uma elevação de
+
+268 horas. A nova configuração acadêmica exigirá dos professores do curso uma significativa
+
+elevação de suas cargas horárias, que ainda incluem, além do ensino, o desenvolvimento de Projetos
+
+de Pesquisa e Extensão. A elevação da carga horária ocorre, principalmente, em função da
+
+implantação de uma matriz que contempla atividades práticas desde os semestres iniciais do curso,
+
+o que exige a duplicação das turmas. O projeto aprovado em 2016 indicava um quadro de 18
+
+professores, em regime de 40h/Dedicação Exclusiva. Atualmente, o curso possui 17, havendo ainda
+
+a necessidade de contratação de mais um docente.
+
+Além do corpo docente, o Curso de Jornalismo conta com o apoio de uma equipe de
+
+técnicos. Atualmente, seis profissionais atuam dando suporte técnico às práticas laboratoriais das
+
+áreas de Telejornalismo, Radiojornalismo, Jornalismo Multimídia e Fotojornalismo, cumprindo o
+
+previsto em 2016. A seguir (quadro 1), a lista de docentes e técnicos do curso de Jornalismo:
+
+Quadro 1 – Equipe de docentes e técnicos do curso
+
+Docente / Técnico Titulaç
+
+ão
+
+Regime de Trabalho
+
+Profa. Ligia Coeli Silva Rodrigues Profa. Adjunta
+
+Graduação em Comunicação Social (UEPB, 2009); Mestrado em Literatura e Interculturalidade ( UEPB, 2012); Doutorado em Comunicação (UFPE, 2022).
+
+40h (Dedicação Exclusiva)
+
+Profa. Amanda Teixeira da Silva Profa. Adjunta
+
+Graduação em História (URCA, 2009); Mestrado em História (UFPB, 2011); Doutorado em História (UFC, 2018).
+
+40h (Dedicação Exclusiva)
+
+Prof. Rodrigo Capistrano Camurça Prof. Adjunto
+
+Graduação em História (UECE, 2008); Mestrado em Comunicação (UFF, 2012); Doutorado em História (2018).
+
+40h (Dedicação Exclusiva)
+
+Prof. Marcelo Eduardo Leite Professor Associado
+
+Ciências Sociais (Unesp, 1998); Mestre em Sociologia (Unesp, 2002); Doutor em Multimeios (Unicamp, 2007)
+
+40h (Dedicação Exclusiva)
+
+Prof. Edwin dos Santos Carvalho Professor Assistente
+
+Comunicação Social – Jornalismo (2004, UFRN); Especialista em Jornalismo
+
+40h (Dedicação Exclusiva)
+
+Econômico (UFRN, 2007); Mestre em Estudos da Mídia (UFRN, 2011) Doutor em Jornalismo (UFSC, 2022)
+
+Prof. Francisco das Chagas Alexandre Nunes de Sousa Prof. Adjunto
+
+Serviço Social (UECE, 2005); Mestre em Políticas Públicas na área de Comunicação e Cultura (UECE, 2008); Doutor em Cultura e Sociedade (UFBA, 2019).
+
+40h (Dedicação Exclusiva)
+
+Prof. Diógenes D’Arce Cardoso de Luna Prof. Assistente
+
+Comunicação Social, com habilitação em Jornalismo, UFPB (2007); Mestre em Comunicação, UFPE (2010).
+
+40h (Dedicação Exclusiva)
+
+Prof. Tiago Coutinho Parente Prof. Adjunto
+
+Graduação em Comunicação Social, Unifor (CE), 2006; Mestre em Sociologia, UFC (2009), Doutor em Memória Social (UNirio, 2019).
+
+40h (Dedicação Exclusiva)
+
+Profa. Cleide Luciane Antoniutti Prof. Adjunto
+
+Graduação em Comunicação Social/Jornalismo, UEPG, 1995; Mestrado em Sociologia, UFPR, 2004; Doutorado em Ciência da Informação, UFRJ, 2015.
+
+40h (Dedicação Exclusiva)
+
+Profa. Juliana Lotif Araújo Professora Assistente
+
+Publicidade e Propaganda (Unifor,2003); Mestre em Design (UFPE, 2006).
+
+40h (Dedicação Exclusiva)
+
+Prof. José Anderson Freire Sandes
+
+Professor Assistente
+
+Jornalismo (Cent ro Universitário de Brasília, 1979); Mestre em Letras (UFC, 2004).
+
+40h (Dedicação Exclusiva)
+
+Prof. Luis Celestino de França Júnior
+
+Professor Adjunto
+
+Comunicação Social – Jornalismo (UFC, 2000); Mestre em Comunicação (UERJ, 2006); Doutor em Comunicação (UFPE, 2016)
+
+40h (Dedicação Exclusiva)
+
+Professor Ricardo Rigaud Salmito
+
+Professor Assistente
+
+Psicologia (UFC, 1996); Especialista em  Teorias da Comunicação e da Imagem (1998); Mestre em Comunicação e
+
+40h (Dedicação Exclusiva)
+
+Cultura Contemporâne a (UFBA, 2001).
+
+Profa. Rosane da Silva Nunes
+
+Professora Adjunta
+
+Comunicação Social – Jornalismo (UFC, 1997); Mestre em Desenvolvimento e Meio Ambiente (UFC, 2005); Doutora em Educação (UFRN, 2019)
+
+40h (Dedicação Exclusiva)
+
+Profa. Elane Abreu Profa. Adjunta
+
+Publicidade (Unifor); Mestre em Comunicação (UFPE); Doutorado em Comunicação (UFRJ)
+
+40h (Dedicação Exclusiva)
+
+Prof. Joubert Arrais Prof. Adjunto
+
+Graduação em Jornalismo (UFC); Mestrado em Dança (UFBA, 2008); Doutorado em Comunicação e Semiótica (PUC/SP, 2015)
+
+40h (Dedicação Exclusiva)
+
+Prof. Ivan Satuf Rezende Prof. Adjunto
+
+Graduação em Jornalismo (PUC/MG); Mestrado em Comunicação (UFMG); Doutorado em Comunicação (Universidade Beira Interior)
+
+40h (Dedicação Exclusiva)
+
+Técnica de Laboratório / Área: Fotojornalismo) Emanoella Callou Belém
+
+Comunicação Social – Jornalismo (UEPB, 2009)
+
+40h
+
+Técnica de Laboratório / Área: Multimídia Hanna França Menezes
+
+Sistemas de Informação (FJN, 2012) 40h
+
+Técnico de Laboratório / Área Telejornalismo Allisson José Soares Gomes
+
+Jornalismo (UFCA, 2015)
+
+40h
+
+Técnico de Laboratório / Ensino Médio 40h
+
+Área: Radiojornalismo Paulo Victor Silva Vaz
+
+Técnico de Laboratório Área: Audiovisual Lamonier Angelo de Souza
+
+Graduado em Cinema e Audiovisual (UFRB,2015)
+
+40h
+
+Técnico   em Laboratór io de Práticas Jornalísticas Paulo Anaximandro
+
+Graduado em Design do Produto (UFCA, 2014)
+
+40h
+
+\12. METODOLOGIAS DE ENSINO-APRENDIZAGEM
+
+A formação do profissional em Jornalismo será obtida por meio de um processo educacional
+
+voltado à reflexão e pautado no aprendizado das ciências humanas, visando proporcionar uma sólida
+
+formação intelectual, que faça jus à importância crescente dos meios de comunicação nos processos
+
+de mudança social. Reflexão e aprendizado que se estendem aos princípios e técnicas da
+
+comunicação, de tal forma que permitam a formação de um profissional com conhecimentos
+
+teórico-prático- analíticos, inseridos no atual contexto sócio-político e econômico no âmbito da
+
+realidade local, nacional e global.
+
+Na qualidade de instituição educacional, cuja preocupação central é elaborar um projeto que
+
+seja capaz de formar pessoas/profissionais que não se limitem apenas ao exercício técnico-
+
+profissional, mas estejam aptas a uma atuação ético-política, comprometida com as transformações
+
+qualitativas do mundo em que vivemos, assumimos como orientação curricular os seguintes
+
+princípios:
+
+▪ aprofundar o caráter interdisciplinar do Curso de Comunicação Social, vinculando a formação
+
+técnica à formação humanística;
+
+▪ pensar a formação acadêmica no sentido amplo, de maneira a incentivar o exercício crítico das
+
+práticas de comunicação social, numa perspectiva transformadora;
+
+▪ oferecer uma formação onde os domínios técnico e tecnológico permitam a qualificação de um
+
+profissional em condições de concorrer no mercado de trabalho;
+
+▪ articular, de forma mais adequada, a relação teoria-técnica-prática, dando ao currículo uma
+
+perspectiva de conjunto;
+
+▪ adequar a estrutura curricular às condições necessárias para implantação, futuramente, de novas
+
+habilitações;
+
+▪ promover conhecimentos teóricos e metodológicos da comunicação, relacionando-os sempre com
+
+o pensar e o fazer jornalístico;
+
+▪ desenvolver o aluno de forma a capacitá-lo a agir em condições de produção, ritmo e periodicidade
+
+similares às que se encontram no cotidiano da profissão;
+
+▪ investir na formação sociocultural e política do estudante com a expectativa de que venha a aplicar
+
+este conhecimento na atividade jornalística;
+
+▪ ministrar ensinamentos sobre as novas tecnologias especificamente no que concerne a sua
+
+aplicação à linguagem jornalística;
+
+▪ desenvolver a capacidade de reflexão do aluno e sua competência crítica para analisar os padrões
+
+e práticas vigentes no Jornalismo;
+
+▪ criar condições para que o aluno exercite sua capacidade criativa no sentido de experimentar
+
+novas linguagens e produtos de comunicação e se adaptar a diferentes situações de trabalho ou
+
+atuação;
+
+▪ promover sistematicamente a reflexão acerca da postura ética, social e profissional.
+
+Assim organizado, os conteúdos básicos são caracterizadores da formação geral da área e
+
+devem ser previstos nas especificações curriculares - incluindo o plano geral da Comunicação e os
+
+espaços específicos da habilitação. Envolvem tanto conhecimentos teóricos como práticos, tanto
+
+reflexões como aplicações relacionadas ao campo da Comunicação e à área configurada pela
+
+habilitação específica. São básicos, portanto, no sentido de que devem atravessar a formação dos
+
+graduandos de Comunicação em todas as suas especialidades. Estes conhecimentos são assim
+
+categorizados: conteúdos teórico-conceituais; conteúdos analíticos e informativos sobre
+
+a atualidade; conteúdos de linguagens, técnicas e tecnologias midiáticas; conteúdos ético-políticos.
+
+Estes conteúdos referem-se ao campo científico da Comunicação Social, mais
+
+especificamente ao campo do Jornalismo, inscrevendo-se sempre no contexto da sociedade
+
+contemporânea. Observa-se ainda que os quatro conjuntos de conhecimentos não são estanques e
+
+se inter-relacionam tanto por sua presença comum em problemas práticos e profissionais como nas
+
+reflexões teóricas sobre a área. As perspectivas críticas atravessam todas as categorias de
+
+conhecimentos, e ainda, o conhecimento de linguagens não se restringe a suas interações com as
+
+tecnologias, mas dependem também das questões interpretativas, analíticas e informativas da
+
+atualidade.
+
+Na formulação específica destes conteúdos, o Projeto Acadêmico do Curso deve adotar uma
+
+decidida e consistente perspectiva humanística. As próprias tecnologias, com a dimensão
+
+transformadora presente na atualidade, devem receber tratamento que faça sua compreensão pelo
+
+estudante ultrapassar os aspectos utilitários e alcançar as interações entre a comunicação e a cultura,
+
+a política e a economia, tendo como fio condutor a reflexão para atuação com qualidade na área do
+
+jornalismo.
+
+Conteúdos teórico-conceituais - Visam a desenvolver familiaridade com um raciocínio
+
+conceitual, que permita aos alunos apreender e lidar rigorosamente com teorias gerais e específicas,
+
+inclusive acionando-as quando do processo de interpretação da realidade social e profissional.
+
+Conteúdos analíticos e informativos sobre a atualidade - Objetivam propiciar aos alunos
+
+um rico estoque de informações sobre variados aspectos da atualidade, pois esta constitui a matéria-
+
+prima essencial para os futuros profissionais da comunicação. Estas informações devem,
+
+simultaneamente, assegurar a apreensão de interpretações consistentes da realidade e possibilitar
+
+aos estudantes a realização de análises qualificadas acerca dos fatos e contextos culturais, políticos,
+
+econômicos e sociais.
+
+Conteúdos de linguagens, técnicas e tecnologias midiáticas - Devem assegurar ao
+
+estudante o domínio das linguagens, das técnicas e tecnologias tipicamente empregadas nos
+
+processos e nas habilitações de comunicação, bem como assegurar uma reflexão rigorosa sobre suas
+
+aplicações e processos. Também devem possibilitar a pesquisa e a experimentação de inovações
+
+das linguagens, técnicas e tecnologias, visando a formação de um profissional versátil e em sintonia
+
+com as tendências de acelerada mutabilidade dos sistemas e práticas de comunicação e suas
+
+habilitações na contemporaneidade.
+
+Conteúdos ético-políticos - devem permitir ao estudante posicionar-se sobre a atuação dos
+
+profissionais da comunicação, sobre o exercício do poder da comunicação, sobre os
+
+constrangimentos a que a comunicação pode ser submetida, sobre as repercussões sociais que ela
+
+enseja e sobre as demandas e necessidades da sociedade contemporânea, sempre em uma
+
+perspectiva de fortalecimento da ideia de cidadania, com o estímulo do respeito aos direitos
+
+humanos, às liberdades, à pluralidade e à diversidade, à justiça social e à democracia, inclusive na
+
+área da comunicação.
+
+\12. 1 – Apoio ao Discente
+
+Os serviços acadêmicos de atendimento de grande parte das demandas dos estudantes são
+
+realizados pela Divisão de Informação, Atendimento e Protocolo (DIAP). O setor oferece
+
+orientações sobre rotinas e procedimentos acadêmicos, tais como solicitações   de   matrícula,
+
+reajuste    de    matrícula,    aproveitamento    de disciplinas, trancamentos parcial e total, quebra de
+
+pré-requisito, dentre outros.
+
+O aluno da UFCA também tem à disposição a Diretoria de Assistência Estudantil
+
+– (DAE), criada em 2013 com o objetivo de atender os diversos aspectos relativos à política de
+
+assistência aos estudantes da Universidade Federal do Cariri. A DAE vem atuando no
+
+desenvolvimento de programas que visam garantir a permanência, o bem- estar, a melhoria do
+
+desempenho acadêmico e o êxito na conclusão da graduação. Com especial atenção aos estudantes
+
+em situação de vulnerabilidade socioeconômica e aos que ingressaram na Universidade por meio
+
+de ação afirmativa. Neste sentido, estabelece parcerias com outras unidades para disponibilizar
+
+serviços que possam intervir em situações que dificultam a concretização do processo de ensino-
+
+aprendizagem.
+
+Entre as principais atividades da Diretoria, destacam-se os programas de concessão de
+
+bolsas e auxílios e o apoio às atividades organizadas pelos estudantes.
+
+Além das bolsas concedidas pela DAE, os estudantes de Jornalismo participam de diversos projetos
+
+de Pesquisa, Extensão e Cultura, desenvolvidos pelo próprio curso ou por outros cursos da UFCA.
+
+Alunos da graduação em Jornalismo também realizam estágios em setores da Universidade que
+
+desenvolvem ações na área, como a Coordenadoria de Comunicação.
+
+12.2 – Integralização da Extensão
+
+As atividades de extensão têm papel fundamental na formação do jornalista,
+
+proporcionando diferentes possibilidades de experiências extensionistas. Essas
+
+experiências podem levar o estudante a ter uma visão mais ampla da sua responsabilidade
+
+e do seu papel na sociedade, influenciando sua prática profissional e sua ação na sociedade.
+
+Na busca de desenvolver as atividades que possibilitem a atuação mais ampla e
+
+compreensão do jornalista no âmbito da extensão, o curso organizou as horas de extensão
+
+em uma Unidade Curricular de Extensão (UCE). Para fundamentar e orientar a organização
+
+das atividades de extensão, seguimos as seguintes resoluções:
+
+ A RESOLUÇÃO Nº 42/CONSUNI, DE 16 DE MAIO DE 2019, que dispõe sobre a
+
+integralização curricular das ações de extensão nos cursos de  graduação da Universidade
+
+Federal do Cariri (UFCA).
+
+ A RESOLUÇÃO N. 49/CONSUNI, de 16 de dezembro de 2021, que dispõe
+
+sobre a integralização curricular das ações de extensão nos cursos de graduação da
+
+Universidade Federal do Cariri (UFCA);
+
+ A RESOLUÇÃO Nº 53/CONSUP, DE 12 DE NOVEMBRO DE 2018, que
+
+regulamenta as ações de Extensão Universitária no âmbito da  Universidade Federal do
+
+Cariri (UFCA);
+
+ O Regulamento dos cursos de graduação da Universidade Federal do  Cariri,
+
+aprovado pela Resolução n° 4 /Consup, de 13 de janeiro de 2017 e alterado pela
+
+Resolução n° 23/Consup, de 19 de julho de 2018.
+
+Similar às atividades complementares, as atividades de extensão poderão ser
+
+desenvolvidas em todo o período do curso e podem ser realizadas por meio de programas,
+
+projetos, cursos e eventos, oferecidos pelo curso. Os estudantes podem cumprir sua carga
+
+horária em atividades de extensão fora do curso, mas só serão contabilizadas se forem
+
+realizadas em programas e projetos cadastrados na Pró-Reitoria de Extensão da UFCA. O
+
+registro das ações de extensão a serem desenvolvidas no decorrer do curso deve seguir o
+
+fluxo apresentado na Resolução n. 49/Consuni, de 16 de dezembro de 2021.
+
+Para o acompanhamento da UCE, o colegiado do curso designará um docente-
+
+coordenador da unidade curricular, responsável por acompanhar a participação dos
+
+estudantes, contabilizar as horas de extensão e analisar e validar o cumprimento das ações
+
+de extensão propostas. A carga horária das ações de extensão para integralizar a Unidade
+
+Curricular de Extensão não será considerada no cômputo da carga horária do componente
+
+‘atividades Complementares’, salvo na hipótese em que essas ações já tenham sido
+
+totalmente integralizadas para fins de creditação da extensão. Não há limites de períodos
+
+letivos em que o estudante poderá atuar em ações de extensão, devendo cumprir, para fins
+
+de integralização curricular, a carga horária prevista no PPC do curso para esta atividade
+
+até o último período, como condição para conclusão do curso. Para fins de integralização
+
+das atividades de extensão como condição obrigatória para a conclusão do curso, o aluno
+
+deverá contabilizar o percentual de 10% da carga horária total do curso, ou seja,  330 horas
+
+de extensão.
+
+Laboratório de Práticas em Jornalismo
+
+O Laboratório de Práticas em Jornalismo é um Programa de Extensão que tem como
+
+objetivo produzir conteúdo editorial em diferentes plataformas midiáticas, estimulado a elaboração
+
+de produtos jornalísticos voltados para a discussão de tema de interesse público. Trata-se de uma
+
+iniciativa que visa a integração dos alunos do curso com a comunidade, por meio da abordagem de
+
+temas que interessam diretamente à população, especialmente aquela marginalizada, que não tem
+
+espaços significativos de representação na mídia convencional.
+
+Embora seja um Programa de Extensão, o Laboratório de Práticas em Jornalismo propõe
+
+uma integração com as atividades de Ensino e Pesquisa do curso. Além de produzirem conteúdos
+
+para diferentes plataformas midiáticas, os alunos são estimulados a desenvolverem pesquisas na
+
+área, conciliando referencial teórico com a prática profissional. O Programa é ainda uma das
+
+possibilidades de estágio dos estudantes concluintes.
+
+\13. ARTICULAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E CULTURA
+
+Um levantamento feito pelo NDE do curso de Jornalismo aponta que o curso atualmente
+
+possui 10 projetos ligados à Pró-reitoria de Pesquisa, Pós-graduação e Inovação (PRPI/UFCA); 04
+
+projetos vinculados à PROCULT/UFCA e outros 04 vinculados à pró-reitoria de Extensão
+
+(PROEX/UFCA). Além disso, a produção de materiais como revistas, sites, podcast integralizam o
+
+ensino, a pesquisa, a extensão e a cultura em nosso curso. Os projetos/produtos, abaixo listados,
+
+foram realizados no curso ao longo dos últimos anos. Alguns já deixaram de existir e outros se
+
+mantêm em atividade, mas são um exemplo de nossa integração. Muitos desses projetos surgiram
+
+em sala de aula, durante as disciplinas práticas, e, posteriormente, se tornaram um projeto vinculado
+
+a alguma pró-reitoria.
+
+Revista Caracteres (produto experimental da disciplina de Laboratório de Jornalismo
+
+Impresso);
+
+Revista Memórias Kariri (criada em 2017, a revista tem como objetivo resgatar e preservar
+
+a história da região do Cariri cearense através de entrevistas, fotoreportagens, entre outros materiais.
+
+O “Kariri” com “K” faz referência a tribo indígena Kariri, remetendo a ancestralidade das terras da
+
+região); Revista Bárbaras (revista experimental impressa que tem como objetivo contar histórias de
+
+luta de mulheres do Cariri cearense);
+
+Revista Corte Seco (fruto de três projetos vinculados à PROCULT;
+
+Cineclube UFCA e Laboratório de Cultura e Visualidades e Fórum de audiovisual da
+
+UFCA);
+
+Jornal Entrelinhas (um produto jornalístico desenvolvido pelo laboratório do curso de
+
+Comunicação da UFCA, que reúne matérias sobre questões econômicas, urbanas, resenha de
+
+música, crônica, literatura e cordel);
+
+Jornal Sertão Transviado;
+
+Um dedo de Prosa;
+
+Podcast Geração 7 x 1 (projeto independente desenvolvido pelos estudantes do Curso de
+
+Jornalismo);
+
+Projeto Alheios (fruto de um trabalho em sala da disciplina Mídia Alternativa);
+
+Projeto Aviva Social.
+
+Os produtos feitos como exercícios e avaliações nas disciplinas são frequentemente
+
+divulgados através dos canais de comunicação oficiais da Instituição e redes sociais do curso de
+
+jornalismo, além de canais diversos, que derivam de atividades acadêmicas, a saber: Agência Cariri
+
+(que abrange as disciplinas de Assessoria de Imprensa, Laboratório de Assessoria de Imprensa e
+
+Comunicação Integrada); Cariri TV (canal para divulgar práticas das disciplinas relacionadas ao
+
+Telejornalismo).
+
+Além disso, anualmente, o curso de jornalismo realiza a Semana de Jornalismo. Organizada
+
+pelo corpo docente, técnico e discente, a semana agrega disciplinas como Assessoria de Imprensa
+
+e Comunicação Integrada, entre outras. O evento também funciona como um momento em que há
+
+oficinas e apresentações propostas pelos projetos do curso de pesquisa, extensão e cultura.
+
+\14. ACOMPANHAMENTO E AVALIAÇÃO
+
+14.1 Acompanhamento e Avaliação dos Processos de Ensino-Aprendizagem:
+
+A avaliação do Rendimento Escolar dos Cursos de Graduação da Universidade Federal do
+
+Cariri é regida pela Resolução Nº 15/2014 – CONSUP/UFCA, de 23 de abril de 2014. O curso
+
+adota um sistema de verificação do rendimento mediante frequência e aproveitamento
+
+nas atividades desenvolvidas pelo corpo docente. O rendimento escolar é composto
+
+por um processo de avaliações progressivas e contínuas, medidas por meio da
+
+participação dos alunos em atividades diversas do curso (aulas, palestras, presença
+
+em atividades interdisciplinares)  e/ou extraclasse (formações, estágios) para as quais
+
+são motivadas pelos professores. Fica a critério de cada docente a definição do
+
+número e das formas de avaliação, desde que a menção do rendimento e da
+
+frequência considere que:
+
+a) A frequência mínima para aprovação é de 75% (setenta e cinco por cento),
+
+vedado o abono de faltas; b) as notas das avaliações progressivas e final variam de 0
+
+a 10, podendo ser aproximadas até a primeira casa decimal; c) serão feitas no mínimo
+
+duas avaliações progressivas ao longo do período letivo (AV1 e AV2); d) a média
+
+aritmética das duas avaliações deverá ser igual ou superior a 7 (sete). Caso o
+
+estudante não obtenha a nota mínima para a aprovação, será realizada a avaliação
+
+final (AVF), por meio de prova aplicada somente após o cumprimento de pelo menos
+
+90% (noventa por cento) do conteúdo programado para a disciplina no respectivo
+
+período letivo. Será considerado aprovado (a), o (a) estudante cuja média final (que
+
+inclui a  média aritmética das duas avaliações progressivas mais a AVF) seja igual ou
+
+superior a 5 (cinco). O detalhamento desses cálculos e demais especificações
+
+constam na Resolução Nº 15/2014 – CONSUP/UFCA, de 23 de abril de 2014.
+
+Dentre os instrumentos para verificação do rendimento dos estudantes, os(as)
+
+docentes podem aplicar: provas objetivas e dissertativas, produção de artigos
+
+científicos, estudos dirigidos, estudos de casos de mídias locais, regionais, nacionais
+
+e internacionais, material jornalístico, trabalhos em grupo, seminários, exposições
+
+orais, entre outros. Quando pertinente, incentiva-se avaliações por meio de atividades
+
+que vinculem estudantes às práticas profissionais, através da produção de materiais
+
+relacionados a mídias impressas, programas de rádio e televisão e assessoria de
+
+imprensa. Não poderá ser diplomado o aluno que, no conjunto de tarefas previstas para a avaliação
+
+do rendimento na perspectiva do curso, apresentar frequência inferior a 90% (noventa por cento)
+
+ou nota inferior a 7,0 (sete vírgula zero).
+
+O acompanhamento dos processos de ensino-aprendizagem ocorre semestralmente por
+
+meio de Avaliação Institucional, disponibilizada via SIGAA e realizada por docentes e estudantes
+
+a respeito de cada disciplina.
+
+14.2 Acompanhamento e Avaliação do Projeto Pedagógico:
+
+A avaliação permanente do projeto pedagógico do curso de Jornalismo a ser implementado
+
+com esta proposta é importante para aferir o sucesso do novo currículo para o curso, como também
+
+certificar-se de alterações futuras que venham a melhorar este projeto, vez que o projeto
+
+político/pedagógico é dinâmico e deve passar por constantes avaliações. Os mecanismos de
+
+avaliação a serem utilizados deverão permitir uma avaliação institucional e uma avaliação do
+
+desempenho acadêmico - ensino/aprendizagem, de acordo com as normas vigentes, viabilizando
+
+uma análise diagnóstica e formativa durante o processo de implementação do referido projeto. A
+
+efetivação de um Núcleo Docente Estruturante (NDE), aprovado pelo Colegiado do curso, tem a
+
+missão precípua de estabelecer o acompanhamento e atualização permanente do Projeto Político-
+
+Pedagógico.
+
+Núcleo Docente Estruturante (NDE)
+
+O Núcleo Docente Estruturante é o órgão consultivo constituído pelo coordenador e por
+
+docentes do Curso Jornalismo em regime de tempo integral ou parcial, indicados pelo Colegiado
+
+do curso. Esse núcleo deve corresponder a 30% (trinta por cento) do Colegiado e seus membros
+
+têm mandato de um ano com possibilidade de recondução. O NDE é regulamentado na UFCA pelo
+
+art. 37 de seu estatuto, que institui o Núcleo Docente Estruturante (NDE) no âmbito dos Cursos de
+
+Graduação da Universidade Federal do Ceará e estabelece suas normas de funcionamento. O mesmo
+
+documento tem servido de base para a implantação de Núcleos Docente Estruturantes na UFCA.
+
+São atribuições do NDE:
+
+I – avaliar, periodicamente, pelo menos a cada três anos no período do ciclo avaliativo dos SINAES
+
+e, sempre que necessário, elaborar propostas de atualização para o Projeto Pedagógico do Curso
+
+(PPC) e encaminhá-las para apreciação e aprovação do colegiado do curso;
+
+II – fazer o acompanhamento curricular do curso, tendo em vista o cumprimento da missão e dos
+
+objetivos definidos em seu Projeto Pedagógico;
+
+III – zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino
+
+constantes no currículo;
+
+IV – contribuir para a consolidação do perfil profissional do egresso do curso;
+
+V – indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de
+
+necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas
+
+relativas à área de conhecimento do curso;
+
+VI – zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os cursos de graduação.
+
+VII – sugerir e fomentar ações voltadas para a formação e o desenvolvimento dos docentes
+
+vinculados ao curso.
+
+O NDE deve reunir-se de forma ordinária no mínimo duas (02) vezes por semestre (no início
+
+e final do período letivo) e extraordinariamente sempre que se faça
+
+necessário. As decisões devem ser tomadas por unanimidade ou maioria em votação simples com
+
+os presentes. Assim, dinamizando todo esse conjunto de elementos didáticos, humanos e de recursos
+
+materiais, o Curso de Graduação em Jornalismo - modalidade bacharelado - poderá ser aperfeiçoado
+
+visando alcançar os mais elevados padrões de excelência educacional e, consequentemente, da
+
+formação dos futuros profissionais da área. A pessoa a presidir o NDE será escolhida por seus
+
+membros, para um mandato de três anos, e na sua ausência ou impedimento, a presidência será
+
+exercida pelo docente integrante que apresente maior tempo de serviço na Instituição.
+
+\15. ORGANIZAÇÃO CURRICULAR
+
+No Projeto Pedagógico de 2010, a integralização curricular do curso de Jornalismo exigia um
+
+mínimo de 2.984 horas, distribuídas em disciplinas obrigatórias: 126 créditos (2.016h), Disciplinas
+
+Optativas:14 créditos (224h), Atividades Complementares: 12,5 créditos (200h), Disciplinas Livres:
+
+8 créditos (128h), Estágio Supervisionado: 6 créditos (96h), e Trabalho de Conclusão de Curso
+
+(Monografia ou Produto Jornalístico): 20 créditos (320h). Essas cargas horárias devem ser
+
+cumpridas no mínimo em oito semestres letivos, e no máximo em 12 semestres letivos.
+
+No Projeto Pedagógico de 2016, a integralização da carga horária permanece no mesmo prazo
+
+mínimo de oito e máximo de doze semestres letivos. Entretanto, houve elevação da carga horária
+
+total, em cumprimento ao que determinam as Diretrizes Curriculares Nacionais para os cursos de
+
+Jornalismo. A nova divisão ficou em 2.112 horas (disciplinas obrigatórias), 320 horas (entre
+
+disciplinas livres e optativas), 200 horas (Estágio Supervisionado), 300 horas (atividades
+
+complementares) e 320 horas (TCC), totalizando 3.252 horas. No projeto pedagógico a ser
+
+implementado a partir de 2023, a nova divisão ficou em 2.112 horas (disciplinas obrigatórias), 320
+
+horas (entre disciplinas livres e optativas), 200 horas (Estágio Supervisionado), 150 horas
+
+(atividades complementares), 180 horas (Trabalho de Conclusão de Curso) e 330 horas (Atividades
+
+de extensão), totalizando 3292 horas.
+
+A carga horária foi estabelecida com base em parâmetros previamente estabelecidos pelas novas
+
+Diretrizes Curriculares Nacionais para os cursos de graduação em Jornalismo. A seguir, ao quadro
+
+com a nova organização curricular do curso de Jornalismo:
+
+Quadro 2 – Organização Curricular do curso de Jornalismo
+
+Natureza Créditos Horas Percentual Disciplinas Obrigatórias 132 2.112 64,30% Disciplinas Optativas 12 No mínimo 192 320 5,00%
+
+Disciplinas Optativas Livres 8 No máximo 128 4,00% Estágio Curricular 12,5 200 6,20% Atividade de TCC 11,25 180 5,60% Atividade complementar 9,375 150 4,70% Atividade de Extensão (UCE) 20,625 330 10,20% Total 205,75 3.292h 100%
+
+A nova matriz curricular do curso de Jornalismo mantém a necessidade de valorização da
+
+integração da teoria e da prática já a partir dos semestres iniciais do curso e incorpora a
+
+obrigatoriedade de cumprimento do mínimo de 10% da carga horária total do curso em atividades
+
+de extensão. A proposta ora apresentada traz a divisão de disciplinas em eixos temáticos de
+
+formação previamente definidos pela Resolução Nº 1, de 27 de setembro de 2013, do Conselho
+
+Nacional de Educação, que institui as Diretrizes Curriculares Nacionais para os cursos de graduação
+
+em Jornalismo. De acordo com o documento, são seis os eixos de formação dos cursos de
+
+Jornalismo e suas respectivas conceituações:
+
+Eixo I – Conteúdos de Fundamentação humanística Eixo
+
+II – Conteúdos de Fundamentação específica Eixo III –
+
+Conteúdos de fundamentação contextual Eixo IV -
+
+Conteúdos de formação profissional
+
+Eixo V - Conteúdos de aplicação processual
+
+Eixo VI - Conteúdos de prática laboratorial
+
+Eixo I – Conteúdos de Fundamentação humanística
+
+Tem como objetivo capacitar o jornalista para exercer a sua função intelectual de produtor
+
+e difusor de informações e conhecimentos de interesse para a cidadania, privilegiando a realidade
+
+brasileira, como formação histórica, estrutura jurídica e instituições políticas contemporâneas; sua
+
+geografia humana e economia política; suas raízes étnicas, regiões ecológicas, cultura popular,
+
+crenças e tradições; arte, literatura, ciência, tecnologia, bem como os fatores essenciais para o
+
+fortalecimento da democracia, entre eles as relações internacionais, a diversidade cultural, os
+
+direitos individuais e coletivos; as políticas públicas, o desenvolvimento sustentável, as
+
+oportunidades de esportes, lazer e entretenimento e o acesso aos bens culturais da humanidade, sem
+
+se descuidar dos processos de globalização, regionalização e das singularidades locais, comunitárias
+
+e da vida cotidiana. No quadro 3 são apresentados os componentes curriculares obrigatórios
+
+relacionados ao Eixo I:
+
+Quadro 3 – Conteúdos de Fundamentação Humanística
+
+Área Componente curricular Crédit
+
+os
+
+CH Teóri
+
+ca
+
+CH Práti
+
+ca
+
+CH Total
+
+Metodologia Metodologia do Trabalho Científico
+
+4 64h - 64h
+
+Filosofia Filosofia 4 64h - 64h Sociologia Sociologia 4 64h - 64h Antropologia Antropologia 4 64h - 64h Comunicação Comunicação e Cultura Popular
+
+4 64h - 64h
+
+Comunicação Comunicação e Cidadania 4 64h - 64h Total 24 384h - 38 4h
+
+Eixo II – Conteúdos de Fundamentação específica
+
+Tem como função proporcionar ao jornalista clareza conceitual e visão crítica sobre a
+
+especificidade de sua profissão, tais como: fundamentos históricos, taxonômicos, éticos,
+
+epistemológicos; ordenamento jurídico e deontológico; instituições, pensadores e obras canônicas;
+
+manifestações públicas, industriais e comunitárias; os instrumentos de autorregulação; observação
+
+crítica; análise comparada; revisão da pesquisa científica sobre os paradigmas hegemônicos e as
+
+tendências emergentes. No quadro 4 é possível identificar os componentes curriculares obrigatórios
+
+e as respectivas cargas horárias do Eixo II.
+
+Quadro 4 – Conteúdos de Fundamentação Específica
+
+Ár ea
+
+Componen
+
+te curricula r
+
+Crédito
+
+s
+
+CH Teóri
+
+ca
+
+CH Práti
+
+ca
+
+CH Total
+
+Jornalismo Introdução ao Jornalismo
+
+4 64h - 64h
+
+Comunicação Comunicação Visual 4 64h - 64h Comunicação Ética na Comunicação 4 64h - 64h Comunicação Pesquisa em Comunicaçã o
+
+4 64h - 64h
+
+Comunicação Comunicaçã o Integrada
+
+4 32h 32h 64h
+
+Metodologia Projeto de Trabalho de Conclusão de Curso
+
+4 64h - 64h
+
+Total 24 352h 32h 384h
+
+Eixo III – Conteúdos de fundamentação contextual
+
+Devem embasar o conhecimento das teorias da comunicação, informação e cibercultura, em
+
+suas dimensões filosóficas, políticas, psicológicas e socioculturais, o que deve incluir as rotinas de
+
+produção e os processos de recepção, bem como a regulamentação dos sistemas midiáticos, em
+
+função do mercado potencial, além dos princípios que regem as áreas conexas. O quadro 5 apresenta
+
+os componentes curriculares obrigatórios do Eixo III:
+
+Quadro 5 – Conteúdos de Fundamentação Contextual
+
+Ár ea
+
+Componen
+
+te curricula r
+
+Crédito
+
+s
+
+CH Teóri
+
+ca
+
+CH Prática
+
+CH Total
+
+Comunicação Teorias da Comunicação I
+
+4 64h - 64h
+
+Comunicação Comunicação e Arte
+
+4 64h - 64h
+
+Comunicação Teorias da Comunicação II
+
+4 64h - 64h
+
+Comunicação Comunicação e Política
+
+4 64h - 64h
+
+Comunicação Fotografia 4 64h - 64h Total 20 320h 320h
+
+Eixo IV - Conteúdos de formação profissional
+
+Objetiva fundamentar o conhecimento teórico e prático, familiarizando os estudantes com
+
+os processos de gestão, produção, métodos e técnicas de apuração, redação e edição jornalística,
+
+possibilitando-lhes investigar os acontecimentos relatados pelas fontes, bem como capacitá-los a
+
+exercer a crítica e a prática redacional em língua portuguesa, de acordo com os gêneros e os
+
+formatos jornalísticos instituídos, as inovações tecnológicas, retóricas e argumentativas. O quadro
+
+a seguir apresenta os componentes curriculares obrigatórios que integram o Eixo IV:
+
+Quadro 6 - Conteúdos de Formação Profissional
+
+Ár ea
+
+Componen te curricular
+
+Crédit
+
+os
+
+CH Teórica
+
+CH Prática
+
+CH Total
+
+Comunicação Oficina de texto 4 32h 32h 6 4 h Jornalismo Radiojornalismo I 4 32h 32h 6 4 h Jornalismo Jornalism o Impresso I
+
+4 32h 32h 6 4 h
+
+Jornalismo Jornalism o Digital I
+
+4 32h 32h 6 4 h Jornalismo Telejornalismo I 4 32h 32h 6 4 h Total 20 160h 16 0h 320h
+
+Eixo V - Conteúdos de aplicação processual
+
+Devem fornecer ao jornalista ferramentas técnicas e metodológicas, de modo que possa
+
+efetuar coberturas em diferentes suportes: jornalismo impresso, radiojornalismo, telejornalismo,
+
+webjornalismo, assessorias de imprensa e outras demandas do mercado de trabalho. O quadro 7
+
+contém a lista de componentes curriculares obrigatórios pertencentes ao Eixo V:
+
+Quadro 7 - Conteúdos de Aplicação Processual
+
+Área Componen te curricular
+
+Créditos CH Teórica
+
+CH Prática
+
+CH Total
+
+Jornalismo Fotojornalismo 4 32h 32h 64h Jornalismo Radiojornalismo II 4 32h 32h 64h Jornalismo Jornalismo Impresso II 4 32h 32h 64h Jornalismo Jornalismo Digital II 4 32h 32h 64h Jornalismo Telejornalismo II 4 32h 32h 64h Jornalismo Assessoria de Imprensa
+
+4 32h 32h 64h
+
+Total 24 19 19 384h
+
+2h 2h
+
+Eixo VI - Conteúdos de prática laboratorial
+
+O objetivo é adquirir conhecimentos e desenvolver habilidades inerentes à profissão a partir
+
+da aplicação de informações e valores. Possui a função de integrar os demais eixos, alicerçado em
+
+projetos editoriais definidos e orientados a públicos reais, com publicação efetiva e periodicidade
+
+regular, tais como: jornal, revista e livro, jornal mural, radiojornal, telejornal, webjornal, agência
+
+de notícias, assessoria de imprensa, entre outros.
+
+As práticas laboratoriais serão iniciadas no segundo período, com a disciplina de Introdução
+
+às Práticas em Jornalismo. No sexto período, o aluno poderá optar entre as diversas possibilidades
+
+de Laboratório que o curso oferece, ampliando seu conhecimento prático na área do Jornalismo que
+
+possui maior aptidão. Há ainda a possibilidade de cursar mais de uma disciplina laboratorial (uma
+
+por semestre letivo), desde que haja disponibilidade de vagas e que o aluno já tenha cursado as
+
+disciplinas que são pré-requisitos da área específica do laboratório escolhido. A seguir, o quadro 8,
+
+apresenta o conjunto de disciplinas obrigatórias ligadas ao Eixo VI:
+
+Quadro 8 - Conteúdos de Prática Laboratorial
+
+Área Componente curricular Créditos CH Teórica
+
+CH Prátic a
+
+CH Total
+
+Jornalismo Introdução às Práticas em Jornalismo
+
+4 32 h
+
+32h 64h
+
+Jornalismo Design de Notícias 4 32 h
+
+32h 64h
+
+Jornalismo Laboratórios: Assessoria de Imprensa / Projetos Fotográficos / Radiojornalismo / Telejornalismo / Jornalismo Impresso / Jornalismo Digital
+
+8 - 128h 128 h
+
+Total 6 4 h
+
+192h 25 6h
+
+A divisão das disciplinas foi construída de modo a haver um equilíbrio entre os eixos
+
+temáticos. Desta forma, as cargas horárias dos três primeiros eixos, de caráter mais teóricos, somam
+
+1.088 horas enquanto os três últimos totalizam 960 horas. Para equilibrar esta equação, há
+
+disciplinas de diferentes eixos diluídas entre os semestres letivos. A nova matriz curricular traz
+
+alterações nas ofertas de disciplinas, permitindo que o estudante possa ter contato com experiências
+
+práticas em Jornalismo já nos semestres iniciais do curso, em consonância com as Novas Diretrizes
+
+Curriculares Nacionais. Abaixo, uma síntese das principais alterações nos componentes curriculares
+
+do curso de Jornalismo, em relação ao Projeto Pedagógico:
+
+Disciplinas Obrigatórias que saem da Matriz Curricular:ƒ
+
+● Semiótica (mantida como optativa em 2016 e em 2023, mas teve conteúdos incorporados
+
+a Teorias da Comunicação 2)
+
+● Psicologia da Comunicação (mantida como optativaem 2016 e em 2023)
+
+Disciplinas que se reconfiguraram em 2016 e se repetem em 2023
+
+● Cultura brasileira (inclusão de conteúdos de História da cultura indígena e afro brasileira)
+
+● Comunicação e arte (substitui Estética e Comunicação)
+
+● Jornalismo Digital 1 (substitui Cibercultura e acrescenta conteúdos)
+
+● Jornalismo Digital 2 (substitui Jornalismo na Internet e amplia dimensões)
+
+● Comunicação Integrada (passa a ser oferecida no sétimo semestre e não mais
+
+no quinto)
+
+● Pesquisa em Comunicação (ao invés de proporcionar a elaboração do projeto de TCC, passa
+
+a debater campo da pesquisa em comunicação e formatos e procedimentos metodológicos)
+
+Disciplinas Obrigatórias Novas em 2016 e mantidas em 2023:
+
+● Introdução às práticas em Jornalismo
+
+● Comunicação Visual
+
+● Antropologia
+
+● Laboratório de Assessoria de Imprensa
+
+● Projeto de TCC
+
+Na matriz curricular de 2016, mantida em 2023, o aluno tem, no primeiro período, a
+
+disciplina de Oficina de Texto, na qual irá exercitar a produção dos diferentes tipos de narrativas.
+
+Ela passa a equivaler à disciplina de Comunicação em Língua Portuguesa, que consta na matriz
+
+anterior.
+
+No segundo período, foi criada a disciplina de Introdução às Práticas em Jornalismo. Nela,
+
+o aluno terá as primeiras experiências na elaboração de produtos jornalísticos em diferentes
+
+plataformas midiáticas (rádio, TV, impresso, internet, câmeras fotográficas). Trata-se de uma
+
+disciplina que servirá de base para as disciplinas de áreas laboratoriais: telejornalismo,
+
+radiojornalismo, fotojornalismo, jornalismo digital, jornalismo impresso e assessoria de imprensa.
+
+A matriz de 2016, repetida em 2023, também dá uma maior ênfase à área de Comunicação
+
+Visual, por meio da criação da disciplina de Comunicação Visual e da reformulação da disciplina
+
+de Design de Notícias. Outra novidade é a criação do Laboratório de Assessoria de Imprensa, no
+
+sexto período, que dá ao estudante a opção de aprofundar-se em uma área com poucos profissionais
+
+qualificados na região.
+
+Na matriz de 2016, mantida em 2023, houve ainda a formalização de importantes conteúdos
+
+que estavam dispersos em disciplinas da matriz anterior, como os conteúdos das políticas de
+
+educação ambiental e para a educação étnico-raciais e para o ensino da história e da cultura afro-
+
+brasileira e indígena. Conforme será possível detalhar posteriormente, a história e a cultura afro-
+
+brasileira e indígena estão presentes na Ementa e no Conteúdo Programático da disciplina de
+
+Cultura Brasileira. Já as Políticas de Educação Ambiental e para a Educação Étnico-racial estão
+
+presentes na Ementa e no Conteúdo Programático da disciplina de Ética na Comunicação e na
+
+disciplina de Antropologia.
+
+Disciplinas opcionais (optativas)
+
+Além das disciplinas obrigatórias, o curso de Jornalismo oferece uma série de disciplinas
+
+optativas, que complementam os conteúdos dos componentes curriculares obrigatórios. Para
+
+integralização do curso, o aluno precisa cumprir uma carga horária mínima de 320 horas (20
+
+créditos) entre disciplinas optativas (oferecidas pelo curso de Jornalismo) e optativas livres
+
+(oferecidas por outros cursos da UFCA), das quais no mínimo 192 horas (12 créditos) devem ser de
+
+disciplinas optativas. Já a carga horária de disciplinas optativas livres não poderá ultrapassar o limite
+
+de 128 horas (8 créditos). A seguir, o quadro 9 apresenta o conjunto de componentes curriculares
+
+optativos do curso de Jornalismo.
+
+Quadro 9 – Componentes curriculares opcionais do Curso de Jornalismo
+
+Ár ea
+
+Componente curricular Créditos CH Teórica
+
+CH Prátic a
+
+CH Total
+
+Comunicação Semiótica 4 64h - 6 4 h Comunicação Psicologia e Comunicação 4 64h - 6 4 h Comunicação Comunicação e Cidades 4 64h - 6 4 h Comunicação Crônica, Observação e Cidade 4 64h - 6 4 h Jornalismo Jornalismo Cultural 4 64h - 6 4 h Oficina de Fotografia Documental
+
+4 64h - 6 4 h Jornalismo História do Jornalismo Brasileiro
+
+4 64h - 6 4 h Jornalismo Análise do Texto e do Discurso Jornalístico
+
+4 64h - 6 4 h Jornalismo Jornalismo e Literatura 4 64h - 6 4 h Jornalismo Jornalismo Econômico 4 64h - 6 4 h Jornalismo Jornalismo Esportivo 4 64h - 6 4 h Comunicação Cinema Brasileiro 4 64h - 6 4 h Língua Brasileira de Sinais - LIBRAS
+
+4 64h - 6 4 h Comunicação Comunicação e Educação 4 64h - 6 4 h 16. UNIDADES CURRICULARES
+
+A divisão por Unidades Curriculares permite à Universidade Federal do Cariri classificar suas
+
+disciplinas não mais apenas por cursos, de modo isolado, mas por Unidades Acadêmicas. Desta forma,
+
+unidades curriculares originalmente vinculadas ao curso de Jornalismo podem ser incorporadas por
+
+outros cursos. O curso de Jornalismo, em decisão do Colegiado, dividiu as unidades curriculares em
+
+quatro: Fundamentação Humanística, que envolve o conjunto de disciplinas que darão ao aluno
+
+conhecimentos essenciais no campo das ciências humanas, área da qual o Jornalismo faz parte;
+
+Fundamentação em Comunicação Social, que traz um conjunto de disciplinas voltadas à reflexão teórica
+
+acerca do campo específico da Comunicação Social; Formação Profissional em Jornalismo, que traz o
+
+elenco de disciplinas voltadas ao ensino específico da atividade jornalística em suas diferentes
+
+plataformas midiáticas; Práticas em Jornalismo, que concentra as práticas laboratoriais do curso e serve
+
+de base para a familiarização do aluno com a prática profissional. A Unidade Curricular de Extensão
+
+tem uma regulamentação própria explicitada no item 12.2 desse Projeto Pedagógico. A UCE deve
+
+concentrar as atividades de extensão tais como cursos, projetos e ações desenvolvidas no âmbito da
+
+extensão, tendo um professor responsável por ser o coordenador dessas ações.
+
+Os quadros 10, 11, 12 e 13 apresentam a disponibilização dos componentes curriculares em cada
+
+Unidade Curricular e os respectivos professores que ministram disciplinas nessas unidades.
+
+Quadro 10 - Componentes curriculares, natureza das disciplinas e professores da Unidade de Fundamentação Humanística.
+
+Unidade Curricular – Fundamentação Humanística Componente curricular Natureza Professores responsáveis Metodologia do Trabalho Científico
+
+Obrigatória Prof. Ivan Satuf
+
+Oficina de Texto Obrigatória Prof. José Anderson Freire Sandes Filosofia Obrigatória Prof. de Filosofia definido pelo IISCA Sociologia Obrigatória Prof. Francisco das Chagas Alexandre Nunes de Sousa; Profa. Amanda Teixeira Cultura Brasileira Obrigatória Prof. Francisco das Chagas Alexandre Nunes de Sousa; Profa. Amanda Teixeira. Antropologia Obrigatória Prof. Francisco das Chagas Alexandre Nunes de Sousa; Profa. Amanda Teixeira. Comunicação e Cultura Popular
+
+Prof. Francisco das Chagas Alexandre Nunes de Sousa
+
+Comunicação e Cidadania Prof. Tiago Coutinho
+
+Quadro 11 - Componentes curriculares, natureza das disciplinas e professores da Unidade de Fundamentação Humanística.
+
+Unidade Curricular – Fundamentação em Comunicação
+
+Social Componente curricular Natureza Professores responsáveis Teorias da Comunicação I Obrigatória Prof. Ricardo Rigaud Salmito; Prof. Tiago Coutinho Parente ; Prof. Joubert Arrais Teorias da Comunicação II
+
+Obrigatória Prof. Ricardo Rigaud Salmito; Prof. Tiago Coutinho Parente ; Prof. Joubert Arrais Comunicação e Arte Obrigatória Prof. Ricardo Rigaud Salmito; Prof. Joubert Arrais Comunicação Visual Obrigatória Profa. Juliana Lotif Araújo; Profa. Elane Abreu. Comunicação e Política Obrigatória Prof. Edwin dos Santos Carvalho; Prof. Luis Celestino de França Júnior; Prof. Rodrigo Capistrano Camurça Fotografia Obrigatória Prof. Marcelo Eduardo Leite; Profa. Elane Abreu Pesquisa em Comunicação Obrigatória Prof. Ricardo Rigaud Salmito; Prof. Tiago Coutinho Parente. Comunicação Integrada Obrigatória Prof. Edwin dos Santos Carvalho
+
+Quadro 12 - Componentes curriculares, natureza das disciplinas e professores da Unidade de Formação Profissional em Jornalismo.
+
+Unidade Curricular – Formação Profissional em Jornalismo Componente curricular Natureza Professores responsáveis Introdução ao Jornalismo Obrigatória Prof. Edwin dos Santos Carvalho; Prof. José Anderson Freire Sandes; Prof. Luis celestino de França Júnior Jornalismo Impresso I Obrigatória Prof. José Anderson Freire Sandes; Prof. Luis celestino de França Júnior Radiojornalismo I Obrigatória Profa. Rosane da Silva Nunes Telejornalismo I Obrigatória Profa. Ligia Coeli Silva Rodrigues; Profa. Cleide Luciane Antoniutti. Jornalismo Digital I Obrigatória Prof. Diógenes D’Arce Cardoso de Luna; Prof. Ivan Satuf. Ética na Comunicação Obrigatória Prof. José Anderson Freire Sandes; Prof. Tiago Coutinho Parente .
+
+Projeto de TCC Obrigatória Prof. Ricardo Rigaud Salmito; Profa. Lígia Coeli Silva Rodrigues.
+
+Quadro 13 - Componentes curriculares, natureza das disciplinas e professores da Unidade de
+
+Unidade Curricular – Fundamentação em Comunicação
+
+Social Componente curricular Natureza Professores responsáveis Introdução às Práticas em Jornalismo
+
+Obrigatória Prof. Edwin dos Santos Carvalho; Profa. Ligia Coeli Silva Rodrigues; Profa. Rosane da Silva Nunes; Prof. Luis Celestino de França; Prof. José Anderson Freire Sandes
+
+Jornalismo Impresso II Obrigatória Prof. José Anderson Freire Sandes; Prof. Luis Celestino de França; Fotojornalismo Obrigatória Prof. Marcelo Eduardo Leite; Profa. Elane Abreu. Radiojornalismo II Obrigatória Profa. Rosane da Silva Nunes; Profa. Cleide Luciane Antoniutti. Telejornalismo II Obrigatória Profa. Ligia Coeli Silva Rodrigues; Profa. Cleide Luciane Antoniutti Assessoria de Imprensa Obrigatória Prof. Edwin dos Santos Carvalho Jornalismo Digital II Obrigatória Prof. Ivan Satuf Prof. Diógenes D’Arce Cardoso de Lucena
+
+Design de Notícias Obrigatória Profa. Juliana Lotif Araújo; Profa. Elane Abreu. Laboratório Radiojornalismo/ Telejornalismo/Jornalismo Impresso/Jornalismo Digital/Projetos Fotográficos/Assessoria
+
+Obrigatória (Laboratório de Jornalismo Impresso) e optativas todas as demais disciplinas
+
+Prof. Edwin dos Santos Carvalho; Prof. Ligia Coeli Silva Rodrigues; Profa. Cleide Luciane; Prof. Ivan Satuf, Profa. Elane Abreu;  Profa. Rosane da Silva Nunes; Prof. Luis Celestino de França; Prof. José Anderson Freire Sandes Prof. Marcelo Eduardo Leite Trabalho de Conclusão de Curso
+
+Obrigatória Prof. Ricardo Rigaud Salmito; Prof. Francisco das Chagas Alexandre Nunes de Sousa
+
+Vale ressaltar que a divisão por unidades curriculares obedeceu à mesma lógica de classificação
+
+dos eixos temáticos, de modo que não houvesse divergências entre a proposta de unidades curriculares
+
+do curso e os eixos temáticos previamente estabelecidos nas Diretrizes Curriculares Nacionais.
+
+\17. EMENTÁRIO DOS COMPONENTES CURRICULARES
+
+17.1 – EMENTÁRIO DOS COMPONENTES CURRICULARES E UNIDADES
+
+ACADÊMICAS RESPONSÁVEIS
+
+1º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Filosofia (CSJ0005)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 1º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Entender a filosofia como uma construção simbólica e, portanto, como parte da cultura que determina o agir humano respondendo a necessidades e desejos do indivíduo e das comunidades humanas. Propiciar um âmbito de reconstrução crítica sobre a tarefa a desempenhar na área da cultura. Promover o debate filosófico sobre pressupostos e conceitos considerados fundamentais na história do pensamento.
+
+Ementa: A disciplina propõe o exame da formação da Filosofia e o debate introdutório sobre seus campos de investigação. Nesta perspectiva, a disciplina está voltada para as reflexões que abarcam os usos, as possibilidades e os limites da razão, do conhecimento, da ciência e da ética, especialmente a partir de um percurso histórico que possa contribuir para as tematizações referentes à cultura contemporânea.
+
+Bibliografia Básica ARANHA, Maria Lúcia de A. MARTINS, Maria Helena P. Temas de Filosofia. São Paulo, SP: Moderna, 2005. LARA, Tiago Adão. A filosofia ocidental do Renascimento aos nossos dias. Petrópolis RJ: Vozes, 2001 NAGEL, Thomas. Uma breve introdução à filosofia. São Paulo, SP: Martins Fontes,
+
+2001.
+
+Bibliografia Complementar
+
+BORNHEIM, Gerd A. Introdução ao filosofar. O pensamento filosófico em bases existenciais. São Paulo, SP: Globo, 1998. CHAUÍ, Marilena. Convite à Filosofia. São Paulo, SP: Ática, 2008. COMTE-SPONVELLE, André. A filosofia. São Paulo, SP: Martins fontes, 2005. DURANT, Will. A história da Filosofia. São Paulo, SP: Nova Cultural, 2000. OLIVEIRA, Manfredo A. de (Org.) Correntes fundamentais da ética contemporânea. Petrópolis, RJ: Vozes, 2001.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Introdução ao Jornalismo (CSJ0003)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 1º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: A Introdução ao Jornalismo se justifica pela importância do discente dos primeiros semestres em compreender como se estabelece o processo da comunicação nas questões jornalísticas. As teorias do Jornalismo que permeiam o processo comunicativo, suas pesquisas e a importância mediante a observação e desenvolvimento do pensar o jornalismo como mediação dos valores notícia. A disciplina contempla ainda aspectos da história do jornalismo. Do Império à República, o jornalismo passou por diversas etapas no País – do doutrinário à lógica do jornalismo de mercado. O objetivo é mostrar como o passado plasmou o jornalismo do presente. Sempre problematizando e contextualizando os jornais impressos. A disciplina esclarecerá principalmente as mudanças operadas no jornalismo brasileiro ao longo do tempo e fará com que o estudante entenda práticas do jornalismo atual a partir do jornalismo realizado no passado. O jornalismo no Século XIX – jornais áulicos e independentes. O império criado por Assis Chateaubriand. O rádio. Estado Novo. O jornalismo na Segunda Guerra Mundial. As grandes reformas do jornalismo no pós-guerra. Imprensa e regime militar. A TV Globo. O jornalismo na década de 90. A refiguração das revistas semanais. A revistalização dos jornais. Novo design gráfico. O Correio Braziliense. Jornalismo e Globalização.
+
+Ementa: O que é jornalismo. Função social do jornalismo, o conceito de notícia, o processo de produção da notícia. Fundamentos epistemológicos para uma teoria do jornalismo.
+
+Bibliografia Básica KUNCZIK, M. Conceitos de jornalismo. 2. ed. São Paulo: EDUSP, 2001. MARCONDES FILHO, Ciro. Comunicação e jornalismo. São Paulo: Hacker, 2000. SODRÉ, Nelson Werneck. História da Imprensa no Brasil. Porto Alegre: EdiPUCRS. 2012
+
+Bibliografia Complementar ABRAMO, Cláudio; ABRAMO, Cláudio Weber. A regra do jogo: o jornalismo e a étic do marceneiro. São Paulo: Companhia das Letras, 1988. BARBOSA, Marialva. História Cultural da Imprensa – Brasil 1900/200. Rio d Janeiro: Maud, 2009
+
+KOVACH, Bill; ROSENSTIEL, Tom. Os elementos do jornalismo: o que o jornalistas devem saber e o público exigir. 2. ed. São Paulo, SP: Geração editorial 2004. RODRIGO ALSINA, Miquel. A construção da notícia. Petrópolis, RJ: Vozes, 2009 351 p. (Clássicos da comunicação social). ROSSI, Clóvis. O que é jornalismo. São Paulo: Brasiliense, 1994.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Metodologia do Trabalho Científico (CSJ0002)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 1º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Iniciar a discussão sobre o mundo acadêmico e fomentar discussões sobre elaboração de trabalhos de científicos e normas técnicas.
+
+Ementa: Abordagem dos principais pressupostos teóricos e metodológicos para a utilização dos procedimentos e técnicas da investigação documental com vistas à elaboração de trabalhos técnico-científicos, oferecendo subsídios básicos que orientem o aluno na elaboração de textos técnicos e científicos. Etapas da pesquisa documental. Estrutura de trabalhos técnico-científicos.
+
+Bibliografia Básica LAKATOS, Eva Maria. MARCONI, Marina de Andrade. Fundamentos de Metodologia Científica São Paulo: Atlas, 2005 MINAYO, Maria Cecília de Souza. Pesquisa Social: teoria, método de criatividade. Petrópolis, RJ: Vozes, 2002. BARROS, Aidil   Jesus   da   Silveira;   LEHFELD,   Neide   Aparecida   de   Souza. Fundamentos de metodologia científica: um guia para a iniciação científica. 2. ed.
+
+ampliada. São Paulo: MAKRON, 2000.
+
+Bibliografia Complementar ANDRADE, Maria Margarida de. Introdução à Metodologia do trabalho científico 10. ed. São Paulo: Atlas, 2010.
+
+DUARTE, Jorge. BARROS, Antônio (org). Métodos e Técnicas de Pesquisa em
+
+Comunicação. São Paulo: Atlas, 2009.
+
+ECO, Umberto. Como se faz uma tese. São Paulo: Perspectiva, 1993. GIL, A.C. Como elaborar projetos de pesquisa. 5.ed. São Paulo : Atlas, 2010. SEVERINO, Antônio Joaquim. Metodologia do Trabalho Científico. São Paulo Cortez, 2007.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Oficina de Texto Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 1º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Comunicação em Língua Portuguesa (CSJ0001)
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos: A principal proposta da disciplina é a leitura, a interpretação e a redação de textos, habilitando o aluno a compreender as várias possibilidades de leitura – do texto literário ao texto não literário -, bem como a escrever textos com autonomia e competência. Será uma ferramenta importante para o aluno dentro do curso de jornalismo, especialmente por servir de base às disciplinas Jornalismo Impresso I e Jornalismo Impresso II.
+
+Ementa: Sujeitos ficcionais. Vozes do texto. O olhar da narrativa. Autor, texto, leitor. Denotação e Conotação. Modos de ordenar o tempo e o espaço na narrativa. Descrição, Narração e Dissertação. Texto de informação. Texto de opinião. Práticas de texto.
+
+Bibliografia Básica GARCIA, OTHON M. Comunicação em Prosa Moderna. Rio de Janeiro: FGV Editora., 2004 LAGE, Nilson. Teoria e Técnica do Texto Jornalístico. Rio de Janeiro: Campus, 2005 LIMA, Edvaldo Pereira. Páginas Ampliadas – o livro-reportagem como extensão
+
+do jornalismo. Manole. São Paulo, 2004.
+
+Bibliografia Complementar COSSON, Rildo. Fronteiras contaminadas. Brasília, DF: Editora Universidade d Brasília, 2007. FIORIN, José Luiz. SAVIOLI., Francisco Platão. Para entender o texto: leitura redação. São Paulo: Ática, 2009 FIORIN, José Luiz. MANDRIK, David. Língua Portuguesa. Prática de Redação par
+
+Estudantes Universitários. Rio de Janeiro: Vozes. 2000 KOCH, Ingedore Grunfeld Villaça. A coesão textual. São Paulo: Contexto, 2009. REMNICK, David. Dentro da floresta: perfis e outros escritos da revista The New Yorker. São Paulo: Companhia das Letras, 2006.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Sociologia (CSJ0006) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 1º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total:
+
+64 horas
+
+Teórica: 64 horas Prática:
+
+\-
+
+Objetivos: Desenvolver a capacidade de se compreender e praticar o olhar sociológico, por meio dos autores, teorias, temas e conceitos clássicos, além de promover o diálogo entre a sociologia e a comunicação.
+
+Ementa: Discussão das condições históricas e das grandes correntes do pensamento social que tornaram possível o surgimento da sociologia como ciência. Debate das polêmicas que constituem o campo de reflexão desta disciplina (objeto e método); visão geral e crítica das grandes correntes sociológicas e de seus respectivos conceitos.
+
+Bibliografia Básica DEMO, Pedro. Introdução à Sociologia: Complexidade, Interdisciplinaridade e Desigualdade Social. São Paulo, SP: Atlas, 2002. GIDDENS, Anthony. Sociologia. Porto Alegre, RS: Penso, 2002. QUINTANEIRO, Tania; BARBOSA, Maria Lígia; OLIVEIRA, Márcia Gardênia. Um toque de clássicos: Marx, Durkheim e Weber. Belo Horizonte, MG: Editora UFMG, 2010.
+
+Bibliografia Complementar COSTA, Cristina. Sociologia: Introdução a Ciência da Sociedade. 2ªed. São Paulo SP: Moderna, 2002. FERREIRA, Delson. Manual de Sociologia – Dos clássicos à Sociedade d comunicação. São Paulo, SP: Editora Atlas, 2003. LOWY, Michael. Ideologias e ciência social: elementos para uma análise marxista São Paulo, SP: Cortez, 2010 THOMPSON, John B. Ideologia e cultura moderna: teoria social crítica na era do meios de comunicação de massa. Petrópolis, RJ: Vozes, 2002. VILA NOVA, Sebastião. Introdução à sociologia. São Paulo, SP: Atlas, 2004.
+
+2º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Arte (CSJ0076)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 2º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Estética e Comunicação de Massa (CSJ0010)
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Possibilitar conhecimentos teóricos do campo da arte em interface com a cultura e a comunicação contemporâneas. Analisar o conceito de arte e sua relação com as práticas e processos comunicacionais.
+
+Ementa: Os fenômenos estéticos e a cultura de massa. As transformações da obra de arte em função da reprodutibilidade técnica. Os desdobramentos da arte a partir das vanguardas estéticas até os nossos dias. A ‘crise da arte’ contemporânea e a relação entre arte e comunicação na sociedade informacional.
+
+Bibliografia Básica GUIMARÃES, César, LEAL, Bruno, MENDONÇA, Carlos (org.) Comunicação e experiência estética. Belo Horizonte: UFMG, 2006. GUIMARÃES, César, LEAL, Bruno, MENDONÇA, Carlos (org.) Entre o sensível e o comunicacional. Belo Horizonte: Autêntica, 2010. PAREYSON, Luigi. Os problemas da estética. São Paulo: Martins Fontes, 1997.
+
+Bibliografia Complementar BENJAMIN, Walter. Obras escolhidas 1 – Magia e técnica, arte e política. São Paulo Brasiliense, 1996. BOURDIEU, Pierre. A distinção: Crítica social do julgamento. Porto Alegre: Zouk 2011. DOMINGUES, Diana (org). Arte, ciência e tecnologia. São Paulo: UNESP, 2009. GOMBRICH, Ernst. A história da arte. Rio de Janeiro: LTC, 2013. SANTAELLA, Lucia. Porque as comunicações e as artes estão convergindo? Sã Paulo: Paulus, 2005.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação Visual Tipo: Disciplina
+
+(CSJ0077)
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 2º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: A disciplina tem por objetivo introduzir os conhecimentos de linguagem visual, nos seus aspectos sintáticos, semânticos e pragmáticos, produção editorial e produção gráfica aos estudantes de jornalismo iniciando a discussão da construção de peças gráficas jornalísticas que serão trabalhadas na disciplina de Design de Notícias.
+
+Ementa: Estudos da sintaxe da linguagem visual, tipografia, linguagem das cores, hierarquia visual, composição gráfica (layout), infografia, criação de selos, visualização de dados e produção gráfica.
+
+Bibliografia Básica TEXTOS clássicos do design gráfico. São Paulo, SP: Martins Fontes, 2010. xix,311p. ISBN 9788578272814 (Broch.). LUPTON, Ellen; PHILLIPS, Jennifer Cole,. Novos fundamentos do design. São Paulo, SP: Cosac Naify, 2008. 245,[2]p. ISBN 9788575032398 (broch.). Donis, A. Dondis. Sintaxe da Linguagem Visual. São Paulo, Martins Fontes, 2007.
+
+Bibliografia Complementar Bettoni, Rogerio. Fundamentos da Comunicação Visual. São Paulo, Rosari, 2009. . Produção Gráfica. São Paulo, Prentice Hall Brasil, 2007. Cardoso, Rafael. O Design brasileiro antes do Design: aspectos da históri gráfica, 1870-1960. São Paulo, Cosac & Naify, 2005. Silva, Rafael Souza. Diagramação. O Planejamento visual gráfico na comunicaçã impressa. São Paulo, Summus, 1985. HORIE, Ricardo Minoru. 300 superdicas de editoração, design e artes gráficas
+
+5.ed. São Paulo: Ed. SENAC São Paulo, 2005. 179p.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Cultura Brasileira (CSJ0009) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de Oferta:
+
+2º semestre Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Apresentar ao estudante os conceitos basilares de cultura, permitindo a compreensão da formação histórica e social da Cultura nacional.
+
+Realizar uma análise da História e Cultura Afro-Brasileira e Indígena através da revisão dos clássicos da antropologia brasileira.
+
+Compreender alguns dos principais movimentos da cultura nacional como as chanchadas, o Cinema Novo, a Tropicália, o Mangue Beat entre outros.
+
+Analisar os movimentos da cultura popular local como a Literatura de cordel e a xilogravura.
+
+Ementa: Estudo da cultura brasileira a partir da revisão dos autores clássicos da Antropologia brasileira. História da cultura nacional. História e Cultura Afro-Brasileira e Indígena. Cultura popular caririense.
+
+Bibliografia Básica FREYRE, Gilberto. Casa Grande e Senzala. São Paulo: Global, 2003. HOLANDA, Sérgio B. de. Raízes do Brasil. São Paulo: Companhia das Letras, 1997. RIBEIRO, Darcy. O povo brasileiro. São Paulo, Companhia das Letras, 2006.
+
+Bibliografia Complementar BOSI, Alfredo. Cultura Brasileira. São Paulo, Ática, 1991. CARVALHO, Gilmar de. Madeira Matriz. São Paulo: Annablume, 1999 MATTA, Roberto da. Carnaval, Malandros e Heróis. Rio de Janeiro, Rocco, 1994. ORTIZ, Renato. A moderna tradição brasileira. Cultura brasileira e indústria cultural São Paulo, Brasiliense, 2001. RIDENTI, Marcelo. Em busca do povo brasileiro. Artistas da revolução, do CPC era da TV. Rio de Janeiro: Record, 2000.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Tipo: Disciplina obrigatória
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta:
+
+Habilitaçã
+
+o:
+
+Regime: Semestral
+
+2º semestre -
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número de Carga Horária
+
+Créditos
+
+: 04
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos: - Apresentar os conceitos básicos das áreas de telejornalismo, radiojornalismo, jornalismo impresso, fotojornalismo, jornalismo digital e assessoria de imprensa.
+
+\- Introduzir o estudante em seu contato com as diferentes plataformas midiáticas e possibilidades de atuação profissional no Jornalismo.
+
+\- Possibilitar o primeiro contato com as ferramentas de comunicação utilizadas pelos jornalistas.
+
+Ementa: Os campos de atuação do Jornalista: jornalismo impresso, telejornalismo, radiojornalismo, jornalismo digital e assessoria de imprensa; A narrativa jornalística: adequação da linguagem às diferentes plataformas midiáticas; Características e linguagem do Jornalismo na TV, no rádio, nos veículos impressos e na internet. Assessoria de Imprensa: conceitos básicos; A construção da notícia; A cobertura jornalística.
+
+Bibliografia Básica ALSINA, Miguel Rodrigo – A Construção da Notícia. Rio de Janeiro: Vozes, 2009. BARBEIRO, Heródoto. Manual de Radiojornalismo: produção, ética e internet. 2.ed. ver. Atual. Rio de Janeiro. Campus, 2003. PATERNOSTRO, Vera Iris. O texto na TV: manual de telejornalismo. 2.ed. rev. e atual. Rio de Janeiro, RJ: Elsevier, Campus, 2006.
+
+Bibliografia Complementar
+
+BARBEIRO, Herodoto. Manual de telejornalismo: os segredos da noticia na tv. 2.ed. rev. atualizada. Rio de Janeiro, RJ: Campus, 2002.
+
+BUITONI, Dulcilia Schroeder. Fotografia e jornalismo: a informação pela imagem. São Paulo, SP: Saraiva, 2011.
+
+CAPUTO, Stela Guedes. Sobre entrevistas: teoria, prática e experiências. Petropólis, RJ: Vozes, 2006. DALMONTE, Edson Fernando. Pensar o discurso no webjornalismo temporalidade, paratexto e comunidades de experiência. Salvador: EDUFBA, 2009. LAGE, Nilson. Linguagem jornalística. 8.ed. São Paulo: Ática, 2008.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Teorias da Comunicação I (CSJ0011)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 2º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número de Carga Horária
+
+Créditos
+
+: 04
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender o campo da Comunicação; Analisar diversas teorias que subsidiam o estudo dos processos comunicacionais.
+
+Ementa: Delimitações do objeto e campo da comunicação. Diferenças entre comunicação e comunicação midiatizada. A Sociedade de massas. Compreensão de diferentes correntes da teoria da comunicação: a) Os estudos norte-americanos e a perspectiva funcionalista; b) A teoria crítica da Escola de Frankfurt; c) A sociedade do espetáculo.
+
+Bibliografia Básica ADORNO, Theodor e HORKHEIMER, Max. A dialética do esclarecimento: fragmentos filosóficos. Rio de Janeiro: Jorge Zahar, 1991. HOHLFELDT, Antonio, MARTINO, Luiz & FRANÇA, Vera (org). Teorias da comunicação – conceitos, escolas e tendências. Petrópolis: Ed. Vozes, 2001. WOLF, Mauro. Teorias da comunicação. Lisboa: Presença, 2001.
+
+Bibliografia Complementar BARBERO, Jesus Martin. Dos meios às mediações: comunicação, cultura ideologia. Rio de Janeiro: Ed UFRJ, 2001. DEBORD, Guy. A sociedade do espetáculo. São Paulo: Contraponto, 1997. ECO, Umberto. Apocalípticos e integrados. São Paulo: Perspectiva, 2001 LIPOVETSKY, Gilles. O império do efêmero. São Paulo: Companhia das Letras 1999. WOLTON, Dominique. É preciso salvar a comunicação. São Paulo: Paulus, 2006.
+
+3º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Fotografia (CSJ0008) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 3º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Valorizar a educação estética, privilegiando a análise de imagens como forma de reconhecimento da representação da realidade. Permitir ao aluno o uso da fotografia
+
+como forma discursiva. Oferecer ao aluno, através de uma cultura visual, condições de obter uma atitude crítica no tocante a visualidade, que o permita avaliar a forma, o conteúdo e os sentidos da imagem fotográfica. Introduzir os conhecimentos técnicos.
+
+Ementa: História da fotografia e seus usos e funções na sociedade. A máquina fotográfica e seu funcionamento. A luz e os conceitos básicos. A iluminação artificial (flash e luz contínua) e luz natural. Abertura, velocidade e tipos de objetivas. O laboratório: a revelação e a cópia. A migração para a era digital. Os dispositivos móveis e a internet. A fotografia e suas várias aplicações na sociedade. A fotografia e a arte. As formas de leitura e interpretação das imagens fotográficas.
+
+Bibliografia Básica
+
+ANG, Tom. Manual de Fotografia Digital. Porto: DK Civilização, 2005.
+
+KOSSOY, Boris. Os tempos da fotografia: o efêmero e o perpétuo. São Paulo, SP: Ateliê, 2007. SONTAG, Susan. Sobre Fotografia. São Paulo, SP: Cia das Letras, 2008.
+
+Bibliografia Complementar
+
+ADAMS, Ansel. A Câmera. São Paulo, SP: Senac, 2000.
+
+KOSSOY, Boris. Realidades e ficções na trama fotográfica. São Paulo, SP: Ateliê Editorial, 2009.
+
+KOUTSOUKOS, Sandra Sofia Machado. Negros no estúdio do fotógrafo. Campinas, SP: Editora da Unicamp, 2010.
+
+ROUILLÉ, André. A fotografia – Entre o documento e a arte contemporânea. São Paulo, SP: Senac, 2009. SAMAIN, Etienne. O Fotográfico. São Paulo, SP: Senac, 2005.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Radiojornalismo I (CSJ00020)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 3º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Possibilitar ao aluno conhecer e praticar a linguagem do radiojornalismo para que possa desenvolver essa que até o momento é a mídia mais presente na região do Cariri.
+
+Ementa:
+
+História do Rádio no Brasil: emissoras de Rádio AM e FM. Ética no radiojornalismo. Rádio na Internet. Características do rádio. Elementos da linguagem radiofônica. Redação Jornalística. Princípios e técnicas de locução radiofônica. Gêneros e formatos do rádio. Entrevistas radiofônicas. Reportagem radiofônica. Produção e edição de noticiários.
+
+Bibliografia Básica CALABRE, Lia. A Era do Rádio: descobrindo o Brasil. São Paulo: Zahar, 2002. CÉSAR, Cyro. Como falar no rádio: prática de locução em AM e FM. São Paulo: Summus, 2009. PRADO, Emilio. Estrutura da informação radiofônica. Tradução de Marco Antonio
+
+de Carvalho. 4ª. ed. São Paulo: Summus, 1989.
+
+Bibliografia Complementar
+
+BARBERO, Heródoto; LIMA, Paulo Rodolfo de. Manual de radiojornalismo: produção, ética e internet. 2ª. ed. Rio de janeiro: Campus, 2003. BUCCI, Eugênio. Sobre ética e imprensa. Säo Paulo, Companhia das Letras, 2000. MCLEISH, Robert. Produção de Rádio: guia abrangente de produção radiofônica. São Paulo: Summus, 2001. CHANTLER, Paul, SIM, Harris. Radiojornalismo.São Paulo: Summus, 1992. FLORESTA, Cleide.; BRASLAUSKAS, Ligia.; PRADO, Magaly. Técnicas de reportagem e entrevista em Jornalismo: roteiro para uma boa apuração. São Paulo, SP: Saraiva, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Impresso I (CSJ0014)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 3º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Objetivos Gerais: Compreensão dos gêneros informativos, analisando sua gênese histórica e configuração a partir da tradição anglo-saxã, ibero-latino americana e as peculiaridades do gênero informativo. Estimular o desenvolvimento de um olhar crítico sobre aspectos sociopolíticos e culturais do mundo e sua devida expressão através dos gêneros informativos.
+
+Objetivos específicos: permitir ao aluno a apuração e a redação da notícia, entrevista, perfil, reportagens
+
+Ementa:
+
+A disciplina visa trabalhar a compreensão dos gêneros jornalísticos informativos. Entrevista e reportagem. Pauta e fontes de informação. Estilos de entrevista e técnicas de reportagem. Jornalismo Interpretativo.
+
+Bibliografia Básica CAPUTO, Stela Guedes. Sobre entrevistas. Teoria, prática e experiências. Petrópolis, Vozes, 2002. KOTSCHO, Ricardo. A Prática da Reportagem. São Paulo, Ática, 1998. PEREIRA, Luiz Costa Jr. A Apuração da Notícia – Métodos de Investigação na Imprensa. Rio de Janeiro: Vozes, 2006
+
+Bibliografia Complementar ALSINA, Miguel Rodrigo – A Construção da Notícia. Rio de Janeiro: AHIA, Juarez. Jornal, História e Técnica. As técnicas de jornalismo. São Paulo, Ática, 2002. KOVACH, Bill e Tom Rosenstiel. Os Elementos do Jornalismo – O que os jornalistas devem saber e o público exigir. São Paulo: Geração Editorial. 2003. LAGE, Nilson. A estrutura da notícia. São Paulo, Ática, 2006. NOBLAT, Ricardo. A arte de Fazer um Jornal Diário. São Paulo: Contexto, 2005 PINTO, Ana Estela de Souza. Jornalismo Diário – Reflexões, Recomendações, Dicas e Exercício. São Pulo: Publifolha, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Teorias da Comunicação II (CSJ 0017)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 3º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Teorias da Comunicação I (CSJ0011)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Possibilitar conhecimentos teóricos no campo da Comunicação;
+
+Compreender as Teorias da Comunicação a partir de suas bases dos Estudos Culturais, dos Estudos do signo e da Cibercultura.
+
+Ementa:
+
+Surgimento dos Estudos Culturais. Estudos Culturais na América Latina. O receptor e os produtos midiáticos. Introdução ao estudo dos signos. Elementos de Semiologia e Semiótica. Estudo da Cibercultura e a sociedade informacional.
+
+Bibliografia Básica CANCLINI, Nestor Garcia. Culturas híbridas: estratégias para entrar e sair da modernidade. São Paulo: EDUSP, 2008. CASTELLS, Manuel. A galáxia da Internet: reflexões sobre a internet, os negócios e a sociedade. Rio de Janeiro: Jorge Zahar, 2003. MARTINO, luiz, FRANÇA, Vera,   HOHLFELDT,   Antonio   (orgs) Teorias da Comunicação: conceitos, escolas e tendências. Petrópolis: Vozes, 2001.
+
+Bibliografia Complementar BARBERO, Jesus Martin. Dos meios às mediações: comunicação, cultura e ideologia. Rio de Janeiro: Ed UFRJ, 2001. CERTEAU, Michel de. A invenção do cotidiano - artes de fazer v.1. Petrópolis: Vozes, 2000. HALL, Stuart. Da diáspora: identidades e mediações culturais. Belo Horizonte: UFMG, 2003. LEMOS, André. Cibercultura: tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2002. NÕTH, Winfrid. Panorama da Semiótica: de Platão a Pierce. 3ª. Edição. São Paulo: Annablume, 2003.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Política (CSJ0013)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 3º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Conhecer os caminhos mediante os quais os meios de comunicação de massa influenciam a maneira como pensa e age politicamente o cidadão.
+
+Ementa:
+
+Comunicação em sociedades de massa e processos políticos. Comunicação e democracia. A esfera pública. O conceito de opinião pública. Cenário de Representação da Política, agendamento e espetacularização dos processos políticos. O marketing político como elemento de construção de opinião pública eleitoral. Discurso político. Jornalismo Político.
+
+Bibliografia Básica GOMES, Wilson, MAIA, Rousiley CM. Comunicação e democracia: problemas e perspectivas. São Paulo: Paulus, 2008. HABERMAS, Jürgen. Mudança estrutural da esfera pública. 2.ed. Rio de Janeiro. Tempo Brasileiro, 2003. THOMPSON, John B. A mídia e a modernidade: uma teoria social da mídia. 8.ed. Petrópolis: Ed. Vozes, 1995.
+
+Bibliografia Complementar MATTELART, Armand; MATTELART, Michèle. História das teorias d comunicação. 12.ed. São Paulo: Edições Loyola, 1999. ROSSEAU, Jean Jacques. Do contrato social. São Paulo: Ed. Martin Claret LTDA 2007. SILVERSTONE, Roger. Por que estudar a mídia? São Paulo, SP: Ed. Loyola, 2002. SOUSA, Mauro Wilton de. Sujeito: o lado oculto do receptor. São Paulo: Ed Brasiliense, 1995. WOLTON, Dominique. Informar não é comunicar. Porto Alegre: Ed. Sulina, 2010.
+
+.
+
+4º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Fotojornalismo (CSJ 0022) Tipo: Disciplina
+
+Caráter: Obrigatório
+
+Semestre de
+
+Oferta: 4º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Fotografia (CSJ0008)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número de
+
+Carga Horária
+
+Crédito
+
+s: 04
+
+Total : 64 horas
+
+Teórica:
+
+32 horas
+
+Práti
+
+ca:
+
+32
+
+hora
+
+s
+
+Objetivos:
+
+Buscar aprofundamento do conhecimento específico do fotojornalismo. Aprofundar o saber dos alunos no uso da fotografia por meio de informação. Dar maior autonomia quanto ao desenvolvimento prático dos trabalhos fotojornalísticos, iniciando na pesquisa do tema, indo até seu desenvolvimento e sua edição.
+
+Ementa:
+
+História do fotojornalismo no século XX. O fotojornalismo no Brasil. Distinção: a fotografia documental e a fotografia como documento. Processos fotográficos: trabalho editorial no jornalismo. Fazeres do ofício jornalístico. A era digital e os novos paradigmas na fotografia jornalística. A escolha do objeto e o desenvolvimento de do discurso fotográfico. Desenvolvimento de ensaios fotográficos. Análise crítica do material fotojornalístico.
+
+Bibliografia Básica
+
+BUITONI, Dulcilia Schroeder. Fotografia e Jornalismo. A informação pela imagem. São Paulo, SP: Saraiva, 2011.
+
+HEDGECOE, John. O novo manual de fotografia: guia completo para todos os formatos. São Paulo, SP: Editora Senac São Paulo, 2013.
+
+KOBRÉ, K. Fotojornalismo – Uma abordagem profissional. São Paulo, SP: Campus, 2011.
+
+Bibliografia Complementar
+
+ADAMS, Ansel. A Câmera. São Paulo, SP: Senac, 2000.
+
+ALVARENGA, André Luis de. A Arte da Fotografia Digital: Explorando Técnicas Com o Photoshop CS. Rio de Janeiro, RJ: Editora Ciência Moderna, 2008.
+
+KOSSOY, Boris. Os tempos da fotografia: o efêmero e o perpétuo. Cotia, SP: Ateliê Editorial, 2007.
+
+RUILLÉ, André. A fotografia – Entre o documento e a arte contemporânea. São Paulo, SP: Senac, 2009.
+
+TRIGO, Thales. Equipamento Fotográfico – Teoria e Prática. São Paulo, SP: Senac, 2005.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Impresso II (CSJ0019)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 4º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Jornalismo Impresso I (CSJ0014)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32horas
+
+Objetivos:
+
+Estudar a evolução dos gêneros opinativos no seu contexto histórico, já que muito antes de ser informativo ou interpretativo, o jornalismo foi opinativo. Através da pesquisa do espaço de opinião nos jornais o campo se abrirá com maior objetividade e clareza para o estudante de jornalismo. No artigo, editorial, coluna ou resenha a mensagem têm determinantes controladas pela instituição jornalística.
+
+Ementa: Estudo da opinião no jornalismo. Os gêneros jornalísticos na tradição ibero- latino- americana. Os gêneros opinativos no jornalismo brasileiro.
+
+Bibliografia Básica
+
+ALSINA, Miguel Rodrigo – A Construção da Notícia. Rio de Janeiro: Vozes, 2009. MELO, José Marques de. A opinião no jornalismo brasileiro. Petrópolis, Vozes, 1985. LAGE, Nilson. Teoria e técnica do texto jornalístico. São Paulo, Campus, 2005
+
+Bibliografia Complementar
+
+ABRAMO, Cláudio; ABRAMO, Cláudio Weber. A regra do jogo: o jornalismo e a étic do marceneiro. São Paulo: Companhia das Letras, 1988. BAHIA, Juarez. Jornal, História e Técnica. As técnicas de jornalismo. São Paul Ática, 2002. CASTRO, Gustavo de. Jornalismo e Literatura. São Paulo, Escrituras, 2002.
+
+COELHO, Marcelo. Crítica cultural. São Paulo, Publifolha, 2006.
+
+SILVA, Carlos Eduardo Lins da. O adiantado da hora: a influência americana sobre jornalismo brasileiro. São Paulo: Summus, 1991. 155p. (Novas buscas em comunicação. v.39)
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Radiojornalismo II (CSJ0041)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 4º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Radiojornalismo I (CSJ0020)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Possibilitar produção de programas de informação em profundidade de maneira a proporcionar ao aluno a maturidade necessária para dominar a linguagem radiofônica em todas as suas expressões.
+
+Ementa:
+
+Produção, edição, pós-produção de radiojornal e de documentário.
+
+Bibliografia Básica
+
+JUNG, Milton. Jornalismo de Rádio. São Paulo: Contexto, 2004. MCLEISH, Robert. Produção de Rádio: guia abrangente de produção radiofônica. São Paulo: Summus, 2001. MEDITSCH, Eduardo; ZUCOLOTO, Valci. Teorias do Rádio: textos e contextos. Florianópolis: Insular, 2008
+
+Bibliografia Complementar
+
+BARBERO, Heródoto; LIMA, Paulo Rodolfo de. Manual de radiojornalismo produção, ética e internet. 2ª. ed. Rio de janeiro: Campus, 2003.
+
+SODRÉ, Muniz; FERRARI, Maria Helena. Técnica de reportagem: notas sobre narrativa jornalistica. Sao Paulo: Summus, 1986.
+
+CHANTLER, Paul, SIM, Harris. Radiojornalismo. São Paulo: Summus, 1992.
+
+NICHOLS, Bill. Introdução ao documentário. 5. ed. Campinas, SP: Papirus, 2010.
+
+PRADO, Magaly. Produção de Rádio: manual prático para professores e alunos. Ri de Janeiro: Campus, 2006.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Telejornalismo I (CSJ0018) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 4º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer Carga Horária
+
+o de Crédit
+
+os: 04
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender o processo de produção jornalística em TV, sua história, aspectos conceituais de linguagem televisiva, o texto de TV aliado a imagem e a importância da notícia na sociedade.
+
+Ementa:
+
+A História do Telejornalismo. O telejornalismo brasileiro. A Televisão Pública. A Televisão Comercial. Os Gêneros e Formatos em TV. O texto em TV.
+
+Bibliografia Básica
+
+BARBEIRO, Heródoto. Manual de telejornalismo. Rio de Janeiro, Campus, 2002.
+
+PATERNOSTRO, Vera Isis. O texto na TV. Manual de Telejornalismo. 9 ed. Rio de Janeiro, Campus, 1999.
+
+VIZEU, Alfredo (org). A Sociedade do Telejornalismo. Petrópolis, RJ, Vozes, 2008
+
+Bibliografia Complementar
+
+MACHADO, Arlindo. A Televisão Levada a Sério. 5 ed. Ed. Senac, São Paulo, SP 2000. BOURDIEU, Pierre. Sobre a Televisão. Ed. Zahar, Rio de Janeiro, RJ, 1997. CAJAZEIRA, Paulo Eduardo Silva Lins. Manual de Jornalismo da UFCA: os doz passos em Telejornalismo. Disponível em: <http://telejornalismo.ufca.edu.br/wp content/uploads/sites/15/2015/06/Manual_Telejornalismo.pdf>. Editora: UFCA Juazeiro do Norte, Ceará. Brasil.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Digital I (CSJ0090)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 4º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Cibercultura (CSJ0021)
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender os fenômenos culturais recentes, nas sociedades contemporâneas, pautados pelas redes digitais de informação.
+
+\- Oferecer as bases teóricas da Cibercultura como disciplina científica;
+
+\- Fornecer fundamentos para uma crítica à disciplina;
+
+\- Apresentar a comunicação nos ambientes digitais;
+
+\- Identificar o Jornalismo no ciberespaço ;
+
+Compreender os fenômenos de convergência midiática
+
+Ementa:
+
+Compreensão e estudo da cibercultura. O ciberespaço e as novas tecnologias da comunicação. A convergência dos meios. A Mobilidade e a comunicação em rede. Socialidade e sociabilidade em redes digitais (redes sociais, cooperação e participação). O papel das mídias no ciberespaço. O jornalismo como produto cultural das mídias digitais. Aspectos filosóficos da cibercultura. Análise dos diversos aspectos da cibercultura (cidade, arte, corpo, sociabilidade, política, interatividade, redes sociais, economia, trabalho).
+
+Bibliografia Básica
+
+LÉVY, Pierre. Cibercultura. 2. ed. São Paulo, SP: Editora 34, 2000.
+
+ORDUÑA, Octavio I. Rojas. Blogs: revolucionando os meios de comunicação.São Paulo:
+
+Thomson Learning, 2007.
+
+RECUERO, Raquel. Redes sociais na internet. Porto Alegre: Sulina, 2010.
+
+Bibliografia Complementar
+
+LÉVY, Pierre. As tecnologias da inteligência: o futuro do pensamento na era da informática . Rio de Janeiro: Editora 34, 1993.
+
+MARCONDES FILHO, Ciro. Ser jornalista: a língua como barbárie e a notícia como mercadoria . São Paulo, SP: Paulus, 2009.
+
+KUCINSKI, Bernardo. Diálogos da perplexidade: reflexões críticas sobre a mídia. São Paulo: Editora Fundação Perseu Abramo, 2009.
+
+PALACIOS, Marcos. Manual de laboratório de jornalismo na internet. Salvador: EDUFBA, 2007.
+
+PINHO, J. B. (José Benedito). Jornalismo na internet: planejamento e produção da informação on-line. [3.ed.]. São Paulo: Summus, 2003.
+
+5º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Antropologia (CSJ0091) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 5º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Antropologia e Comunicação (CSJ 0034)
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender os pressupostos fundamentais da Antropologia como domínio de conhecimento;
+
+Compreender as interfaces entre Comunicação, Cultura e sociedade.
+
+Ementa:
+
+Antropologia como ciência. Formas simbólicas e de construção de discurso nas sociedades pré-capitalistas. Formas simbólicas de representação e suas implicações na vida das sociedades complexas. Manifestações sociais contemporâneas. Antropologia e a Comunicação. Visão global acerca das formas de construção de um discurso.
+
+Bibliografia Básica
+
+GEERTZ, Clifford. A interpretação das Culturas. Rio de Janeiro: LTC, 1999.
+
+LAPLANTINE, François. Aprender Antropologia. São Paulo: Brasiliense, 1987.
+
+LARAIA, Roque de Barros. Cultura. Um conceito Antropológico. Rio de Janeiro: Zahar, 2005.
+
+Bibliografia Complementar
+
+FREYRE, Gilberto. Casa Grande e senzala. São Paulo: Global, 2006.
+
+HOLANDA, Sérgio Buarque de. Raízes do Brasil. São Paulo: Companhia das Letras, 2010.
+
+MATTA, Roberto da. Relativizando: uma introdução à Antropologia Social. Petrópolis: Vozes, 1981.
+
+TRAVANCAS, Isabel e Patrícia FARIAS. Antropologia e Comunicação. Rio de Janeiro: Garamond , 2003.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Assessoria de Imprensa (CSJ0048)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 5º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Comunicação e Política (CSJ0013)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Identificar o papel e as possibilidades de atuação do assessor de imprensa junto às organizações públicas, privadas e do terceiro setor.
+
+Ementa:
+
+O que é e como funciona uma assessoria de imprensa. Qual o seu papel, objetivos e formas de atuação. As assessorias de imprensa de entidades públicas, privadas. A questão ética e a relação com os meios de Comunicação. O papel do assessor. O planejamento de projetos de comunicação. Comunicação Interna. Comunicação Externa. Estratégias de Comunicação. A produção de releases para diferentes plataformas midiáticas.
+
+Bibliografia Básica
+
+DUARTE, Jorge .Assessoria de Imprensa e Relacionamento com a Mídia. São Paulo: Atlas, 2006. : Comunicação pública: estado, mercado, sociedade e interesse público. 2. Ed. São Paulo: Atlas, 2009.
+
+KOPLIN, Elisa; FERRARETO, Luiz Artur. Assessoria de Imprensa: teoria e prática. São Paulo: Summus, 2009.
+
+Bibliografia Complementar
+
+CHARADEAU, Patrick. Discurso das mídias. 2. Ed. São Paulo: Contexto, 2012.
+
+DIAZ, Bordenave. O que é comunicação. São Paulo: Brasiliense, 1982.
+
+LIPPMAN, Walter. Opinião pública. 2.ed. Petrópolis, RJ: Vozes, 2010.
+
+MAFEI, Maristela, Assessoria de Imprensa: como se relacionar com a mídia. São Paulo: Contexto,2005.
+
+ROSA, Mário. A Era do Escândalo. São Paulo: Geração Editorial. 2003.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Design de Notícias (CSJ0043)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 5º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Comunicação Visual (CSJ0077)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Discutir assuntos relacionados a organização visual de Notícias em veículos de comunicação impressos e digitais e como estes layouts dialogam com o conteúdo textual verbal.
+
+Ementa:
+
+Estudo da programação visual de veículos de comunicação impresso e online. Estudos dos processos de diagramação.
+
+Bibliografia Básica
+
+SAMARA, Timothy. Guia de design editorial: manual prático para o design de publicações. [Porto Alegre, RS]: Bookman, 2011. 239p. HURLBURT, Allen. Layout: o design da página impressa . São Paulo: Nobel, 1986. 159 p. AMBROSE, Gavin; HARRIS, Paul. Fundamentos de Design Criativo. Porto Alegre,
+
+Bookman, 2009.
+
+Bibliografia Complementar
+
+MUNARI, Bruno,. Design e comunicação visual: contribuição para uma metodologia didática. Lisboa , Portugal: Edições 70, 2009. 374 p.
+
+RAIMES, Jonathan; BHASKARAN, Lakshmi. Design retrô: 100 anos de design gráfico. São Paulo: Senac São Paulo, 2007. 175 p.
+
+BROWN, Tim. Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias. Rio de Janeiro: Elsevier, c2010. 249 p.
+
+WONG, Wucius. Princípios de forma e desenho. 2. ed. São Paulo, SP: WMF Martins Fontes, 2010. 352 p.
+
+COLLARO, Antonio Celso. Projeto gráfico: teoria e prática da diagramação. 4. ed. São Paulo, SP: Summus, 2006. 181 p.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Digital II (CSJ0094)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 5º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Jornalismo Correquisito: Não tem
+
+Digital I (CSJ0090)
+
+Equivalência: Jornalismo na Internet (CSJ0044)
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Proporcionar aos alunos do curso de jornalismo conhecimentos teóricos e práticos sobre a mídia Internet e o ciberjornalismo. Mapear sua inserção com conteúdos informativos e as oportunidades de trabalho para jornalistas nos sites portais da rede mundial de computadores.
+
+Ementa:
+
+Introdução ao Ciberjornalismo. Redes Digitais. Jornalismo na Internet. Características do Ciberjornalismo. Formas da narrativa do Ciberjornalismo. Estudo de casos existentes. O ciberjornalismo e as relações pessoais. O ciberjornalismo e a sociedade. Agências de notícias: distribuição de material jornalístico em tempo real. Determinação da abordagem, planejamento das etapas e viabilidades. Produção de site para veiculação do material produzido.
+
+Bibliografia Básica
+
+DALMONTE, Edson Fernando. Pensar o discurso no webjornalismo: temporalidade, paratexto e comunidades de experiência. Salvador: EDUFBA, 2009.
+
+SOSTER, Lima Jr. JORNALISMO digital: audiovisual, convergência e colaboração. Santa Cruz Do Sul, RS: EDUNISC, 2011.
+
+MACHADO, Elias. O ensino de jornalismo na era da convergência: conceitos, metodologias e estudos de casos no Brasil. Salvador, BA: EDUFBA, 2011.
+
+Bibliografia Complementar
+
+LEMOS, André. O futuro da internet: em direção a uma ciberdemocracia planetária.
+
+LÉVY, Pierre. O que é o virtual? São Paulo: Editora 34, 1996.
+
+MARTINS, Nelson. A imagem digital na editoração: manipulação, conversão e fechamento de arquivos . Rio de Janeiro: Ed. Senac Nacional, 2005.
+
+PALACIOS, Marcos; MACHADO, Elias. O ENSINO do jornalismo em redes de alta velocidade:. metodologia e softwares. Salvador: EDUFBA, 2007.
+
+WOLF, Mauro. Teorias das comunicações de massa. 3.ed. São Paulo: Martins Fontes, 2008.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Telejornalismo II (CSJ0049) Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 5º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Telejornalismo I (CSJ0018)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Capacitar o estudante a pensar de forma crítica na notícia em TV, a importância social de interesse público, a imagem audiovisual e o texto televisivo, por meio de produções audiovisuais telejornalísticas.
+
+Ementa:
+
+O Telejornal e a produção de conteúdo. O telejornalismo das TVs abertas e fechadas. A entrevista no telejornal. O telejornalismo regional e local. A cobertura do telejornalismo em Rede. As novas tecnologias no telejornalismo. A convergência midiática na produção jornalística televisiva. O uso do conteúdo colaborativo no jornalismo de TV.
+
+Bibliografia Básica
+
+BARBEIRO, Heródoto E lima, Paulo Rodolfo. Manual de telejornalismo. Rio de Janeiro, Campus, 2002. PATERNOSTRO, Vera Isis. O texto na TV. Manual de Telejornalismo. 9 ed. Rio de Janeiro, Campus, 1999. VILLELA, Regina. Profissão: Jornalismo de TV. Telejornalismo aplicado a Era Digital. Rio de Janeiro. Editora Ciência Moderna, 2008.
+
+Bibliografia Complementar
+
+FILHO FREIRE, João. A TV em Transição – Tendências de programação no Brasil e no mundo. Porto Alegre. Editora Sulina, 2009.
+
+CANNITO. Newton. A Televisão na Era Digital – Interatividade , Convergência e Novos Modelos de Negócio. São Paulo. Summus Editorial, 2010.
+
+BUCCI, Eugênio. Sobre ética e imprensa. Säo Paulo, Companhia das Letras, 2000.
+
+6º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Cultura Popular (CSJ 0016)
+
+Tipo: Disciplina
+
+Caráter2: obrigatória
+
+Semestre de
+
+Oferta3:
+
+6º semestre
+
+Habilitaçã
+
+o4:
+
+\-
+
+Regime5:
+
+Semestral
+
+Pré-Requisito: Cultura Brasileira (CSJ0009)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+:
+
+04
+
+Carga Horária
+
+Total:
+
+64 horas
+
+Teóric
+
+a: 64
+
+horas
+
+Prátic
+
+a:
+
+\-
+
+Objetivos: Empoderar e transmitir reflexão ante as relações entre a cultura popular e a mídia e suas dinâmicas no contexto regional.
+
+Ementa: Estudo da cultura popular e das principais manifestações artísticas da região. A interface entre a comunicação e a cultura popular.
+
+Bibliografia Básica:
+
+ALBUQUERQUE JR. D. A invenção do nordeste. 3ª ed. Recife: FNJ, Ed. Massangana; São Paulo: Cortez, 2006.
+
+CANCLINI, N. Culturas híbridas. São Paulo: UNESP, 2003.
+
+MARTIN-BARBERO, J. Dos meios às mediações: comunicação, cultura e hegemonia. 5ª ed. Rio de Janeiro: UFRJ, 2008.
+
+Bibliografia Complementar
+
+ARANTES, A. O que é cultura Popular?. São Paulo: Brasiliense, 2006.
+
+BAKTHIN, M. A cultura popular na Idade Média e no Renascimento. Brasília, Hucitec, 2008.
+
+BOSI, A. Cultura Brasileira. São Paulo. Ática, 2008.
+
+BURKE, P. Cultura popular na Idade Moderna. São Paulo, Companhia das Letras, 1989. CARVALHO, G. Artes na Tradição. Fortaleza, UFC, 2004.
+
+THOMPSON, J. Ideologia e Cultura Moderna. Petrópolis: Vozes, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Ética na Comunicação (CSJ0049)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 6º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução ao Jornalismo (CSJ0003)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+A disciplina visa levantar discussões sobre o tema, permitindo ao aluno uma revisão de pressupostos filosóficos, bem como de problemas aplicados à atividade profissional. Além disso, a disciplina deve fazer uma revisão do ordenamento jurídico brasileiro em pontos que digam respeito ao assunto, seja na Constituição Federal ou em leis ordinárias. Outra questão abordada são as políticas de educação ambiental. O objetivo é levantar criticamente discussões sobre o meio ambiente, aproximando o estudante dos valores, conhecimentos, habilidades e competências para a conservação da biodiversidade.
+
+Ementa:
+
+Estudo da ética aplicada à atividade jornalística. Estudo do ordenamento jurídico brasileiro em questões relacionadas ao jornalismo. Estudo das práticas sociais e éticas ambientais.
+
+Bibliografia Básica
+
+BRASIL. Política Nacional de Educação Ambiental. 3ª edição. Brasília. Disponível em: http://www.mma.gov.br/estruturas/educamb/_arquivos/pronea_3.pdf. BUCCI, Eugênio. Sobre ética e imprensa. São Paulo, Companhia das Letras, 2001. COSTA, Caio Túlio. Ética, jornalismo e nova mídia. Uma moral provisória. Rio de Janeiro, Jorge Zahar, 2009.
+
+Bibliografia Complementar
+
+ABRAMO, Cláudio; ABRAMO, Cláudio Weber. A regra do jogo: o jornalismo e a ética do marceneiro. São Paulo: Companhia das Letras, 1988.
+
+ANGRIMAMI, Danilo. Espreme que sai sangue: um estudo do sensacionalismo na imprensa. São Paulo: Summus,1995.
+
+DI FRANCO, Carlos Alberto. Jornalismo, ética e qualidade. Petrópolis, Vozes, 1995.
+
+KARAM, Francisco J. Jornalismo, ética e liberdade. São Paulo: Summus, 1997.
+
+KUCINSKI, Bernardo. Jornalismo na era virtual: ensaios sobre o colapso da razão ética. São Paulo: Fundação Perseu Abramo.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Jornalismo Impresso (CSJ00052)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 6º semestre
+
+Habilitaç
+
+ão:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Jornalismo Impresso II
+
+Correquisito: Não tem
+
+(CSJ0019) Equivalência:
+
+Laboratório de Jornalismo digital (CSJ0109)
+
+Laboratório de projetos fotográficos (CSJ0107)
+
+Laboratório de telejornalismo (CSJ 0051)
+
+Laboratório de Assessoria de imprensa (CSJ 0108)
+
+Laboratório de Radiojornalismo (CSJ0050)
+
+Número
+
+de Créditos:
+
+08
+
+Carga Horária
+
+Total
+
+128 horas
+
+Teórica:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos: A disciplina permite a prática da reportagem fotográfica bem como do planejamento
+
+gráfico-visual de produtos impressos.
+
+Ementa:
+
+Planejamento, prática e edição de produto jornalístico impresso. Discussões sobre as opções e alternativas de elaboração do texto jornalístico, associado à fotografia e à edição e diagramação.
+
+Bibliografia Básica
+
+CAPUTO, Stela Guedes. Sobre entrevistas. Petrópolis, Vozes, 2009. LAGE, Nilson. Reportagem. Teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro, Record, 2001. PEREIRA, Luiz Costa. Guia para a edição jornalística. Petrópolis, Vozes, 2009.
+
+Bibliografia Complementar
+
+CRIPA, Marcus. Entrevista e Ética. Bauru, Edusc, 2001.
+
+NOBLAT, Ricardo. A arte de Fazer um Jornal Diário. São Paulo: Contexto, 2005
+
+PINTO, Ana Estela de Souza. Jornalismo Diário: Reflexões, Recomendações, Dicas e Exercício. São Pulo: Publifolha, 2009.
+
+PRADO MAGALY (Org). Técnicas de Reportagem e Entrevista: Roteiro para uma boa apuração. São Paulo: Saraiva, 2009.
+
+SQUASIRI, Dad e SALVADOR, Arlete. A Arte de Escrever Bem: Um guia para jornalistas e profissionais do texto. São Paulo: Contexto. 2004.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Pesquisa em Comunicação (CSJ0099)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 6º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Metodologia do Trabalho Científico (CSJ0002)
+
+Correquisito: Não tem
+
+Equivalência: Pesquisa em Comunicação (CSJ0053)
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 hora s
+
+Prática:
+
+\-
+
+Objetivos:
+
+Possibilitar conhecimentos teórico-práticos sobre pesquisa em Comunicação;
+
+Compreender as técnicas e procedimentos metodológicos de pesquisa.
+
+Ementa:
+
+O campo da Comunicação e suas interfaces. A pesquisa em Comunicação. O percurso tema- problema-pergunta-hipótese. Metodologias de pesquisa: quantitativa e qualitativa. Pesquisa de campo. Instrumentos de coleta de dados, entrevistas e questionários. A prática da pesquisa: seleção do corpus da pesquisa. A construção de categorias, os dados bibliográficos e documentais.
+
+Bibliografia Básica
+
+BARROS, Antonio, DUARTE, Jorge. Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006. GIL, Antônio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+
+LOPES, Maria Immacolata Vassalo. Pesquisa em comunicação: formulação de
+
+um modelo metodológico. São Paulo: Loyola, 2005.
+
+Bibliografia Complementar
+
+BRAGA, José Luiz; LOPES, Maria Immacolata Vassalo; MARTINO, Luiz (ORGS). Pesquisa empírica em comunicação. São Paulo: Paulus, 2010.
+
+ECO, Umberto. Como se faz uma tese. São Paulo: Perspectiva, 2007.
+
+FLICK, Uwe. Introdução à pesquisa qualitativa. São Paulo: Bookman, 2008.
+
+LAVILLE, Christian, DIONNE, Jean. A construção do saber: manual da metodologia de pesquisa em ciências humanas. Porto Alegre: ARTMED; Belo Horizonte: UFMG, 1999.
+
+SILVA, Juremir machado. O que pesquisar quer dizer: como pesquisar e escrever textos acadêmicos sem medo da ABNT e da CAPES. Porto Alegre: Sulina, 2010.
+
+7º SEMESTRE
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Cidadania (CSJ0054)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 7º semestre
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Ética na Comunicação (CSJ0049)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Abordar vieses da comunicação que permitam ao estudante perceber os diversos caminhos possíveis de seguir na busca de uma comunicação participativa.
+
+Ementa:
+
+A comunicação comunitária com base na organização de segmentos sociais. Os movimentos sociais e suas formas de comunicação. História e prática do sindicalismo no Brasil. Comunicação para o Terceiro Setor – fundamentos e práticas.
+
+Bibliografia Básica
+
+CANCLINI, Néstor García. Consumidores e cidadãos: conflitos multiculturais da globalizacao. 4. ed. Rio de Janeiro: Editora UFRJ, 2001.
+
+COSTA, Claudia. Comunicação Sindical no Brasil: breve resgate e desafios. São Paulo: Sundermann, 2010.
+
+PERUZZO, Cicilia Maria K. A . Comunicação nos Movimentos Populares: Participação na Construção da Cidadania. Petrópolis: Vozes, 1998.
+
+Bibliografia Complementar
+
+DOWNING, John D. H. Mídia Radical: Rebeldia nas Comunicações e Movimentos
+
+Sociais. São Paulo: Senac, 2002.
+
+DREYER, Lilian. O quinto poder. Porto Alegre: L &PM Editores, 2008.
+
+FESTA, Regina e LINS, Carlos Eduardo (orgs.).Comunicação Popular e alternativa
+
+no Brasil. São Paulo: Edições Paulinas, 1986.
+
+FERREIRA, Maria Nazareth. Imprensa operária no Brasil. São Paulo: Ática, 1987.
+
+GOHN, Maria da Glória. Os sem-terra; ONGs e Cidadania. Petrópolis: Vozes, 1997.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação Integrada (CSJ0045)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 7º semestre
+
+Habilitaç
+
+ão:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Assessoria de Imprensa
+
+Correquisito: Não tem
+
+(CSJ0048) Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Compreender o papel do jornalista na comunicação integrada e como relacionar o fazer jornalístico aos outros saberes do âmbito da comunicação institucional.
+
+Ementa:
+
+A sociedade e as organizações. Cultura Organizacional. Identidade e imagem institucional. Constituição da comunicação integrada. Planejamento da comunicação institucional. Gestão da comunicação nas crises.
+
+Bibliografia Básica
+
+DUARTE, Jorge .Assessoria de Imprensa e Relacionamento com a Mídia. São Paulo: Atlas, 2006.
+
+: Comunicação pública: estado, mercado, sociedade e interesse público. 2. Ed. São Paulo: Atlas, 2009.
+
+KOPLIN, Elisa; FERRARETO, Luiz Artur. Assessoria de Imprensa: teoria e prática. São Paulo: Summus, 2009.
+
+Bibliografia Complementar
+
+CHARAUDEAU, Patrick. Discurso das mídias. 2. Ed. São Paulo: Contexto, 2012. DIAZ, Bordenave. O que é comunicação. São Paulo: Brasiliense, 1982. LIPPMAN, Walter. Opinião pública. 2.ed. Petrópolis, RJ: Vozes, 2010. MAFEI, Maristela, Assessoria de Imprensa: como se relacionar com a mídia. Sã Paulo: Contexto,2005. ROSA, Mário. A era do escândalo. São Paulo: Geração Editorial, 2004.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Projeto de Trabalho de Conclusão de Curso (CSJ0121)
+
+Tipo: Disciplina
+
+Caráter: obrigatória
+
+Semestre de
+
+Oferta: 7º semestre
+
+Habilitação
+
+: -
+
+Regime: Semestral
+
+Pré-Requisito: Pesquisa em Comunicação (CSJ0099)
+
+Correquisito: Não tem
+
+Equivalência: CSJ0102
+
+Número
+
+de Créditos:
+
+04
+
+Carga Horária
+
+Total: 64 horas
+
+Teórica:
+
+64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender os formatos de Trabalho de Conclusão de Curso;
+
+Elaborar Projeto de Conclusão de Curso;
+
+Iniciar e qualificar parte do Trabalho de Conclusão de Curso.
+
+Ementa:
+
+As Modalidades de Trabalho de Conclusão de curso. Trabalho monográfico e trabalho de Produto em Jornalismo. Etapas de elaboração de projetos de pesquisa. Criação e desenvolvimento de projeto de pesquisa em comunicação Social e Jornalismo. Redação da proposta de projeto e início de sua realização.
+
+Bibliografia Básica
+
+BARROS, Antonio, DUARTE, Jorge (orgs). Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006.
+
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+
+LOPES, Maria Immacolata Vassalo. Pesquisa em comunicação: formulação de um modelo metodológico. São Paulo: Loyola, 2005.
+
+Bibliografia Complementar
+
+BRAGA, José Luiz; LOPES, Maria Immacolata Vassalo; MARTINO, Luiz (ORGS) Pesquisa empírica em comunicação. São Paulo: Paulus, 2010.
+
+ECO, Umberto. Como se faz uma tese. São Paulo: Perspectiva, 2007. FLICK, Uwe. Introdução à pesquisa qualitativa. São Paulo: Bookman, 2008.
+
+LAVILLE, Christian, DIONNE, Jean. A construção do saber: manual da metodologi de pesquisa em ciências humanas. Porto Alegre: ARTMED; Belo Horizonte: UFMG 1999.
+
+SILVA, Juremir machado. O que pesquisar quer dizer: como pesquisar e escreve textos acadêmicos sem medo da ABNT e da CAPES. Porto Alegre: Sulina, 2010.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: CSJ???? - Trabalho de Conclusão de Curso
+
+Tipo: Atividade Caráter: obrigatória
+
+Semestre de Oferta:
+
+8º semestre Habilitação:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Projeto de Correquisito: Não tem
+
+Trabalho de Conclusão de Curso (CSJ0121) Equivalência: Trabalho de Conclusão de Curso (CSJ0056)
+
+Número
+
+de Créditos:
+
+20
+
+Carga Horária
+
+Total:
+
+180 horas
+
+Teórica:
+
+\-
+
+Prática:
+
+180 horas
+
+Objetivos:
+
+Desenvolver o trabalho de conclusão de curso.
+
+Ementa:
+
+Revisão de literatura. Organização das seções. Escritura do texto. Apresentação para banca avaliadora.
+
+Bibliografia Básica
+
+BARROS, Antonio, DUARTE, Jorge (orgs). Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2006.
+
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+
+LOPES, Maria Immacolata Vassalo. Pesquisa em comunicação: formulação de um modelo metodológico. São Paulo: Loyola, 2005.
+
+Bibliografia Complementar
+
+BRAGA, José Luiz; LOPES, Maria Immacolata Vassalo; MARTINO, Luiz (ORGS) Pesquisa empírica em comunicação. São Paulo: Paulus, 2010.
+
+ECO, Umberto. Como se faz uma tese. São Paulo: Perspectiva, 2007. FLICK, Uwe. Introdução à pesquisa qualitativa. São Paulo: Bookman, 2008.
+
+LAVILLE, Christian, DIONNE, Jean. A construção do saber: manual da metodologi de pesquisa em ciências humanas. Porto Alegre: ARTMED; Belo Horizonte: UFMG 1999.
+
+SILVA, Juremir machado. O que pesquisar quer dizer: como pesquisar e escreve textos acadêmicos sem medo da ABNT e da CAPES. Porto Alegre: Sulina, 2010.
+
+COMPONENTES CURRICULARES OPCIONAIS (DISCIPLINAS OPTATIVAS)
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Radiojornalismo (CSJ0050)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Jornalismo Impresso II (CSJ0019)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 08
+
+Carga Horária
+
+Total: 128 horas
+
+Teóric
+
+a:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos:
+
+Formar equipes de produção radiofônica capazes de atender aos prazos e processos da mídia. A referida disciplina é o coroamento do processo de ensino- aprendizagem desenvolvido nas disciplinas Radiojornalismo I e II.
+
+Ementa:
+
+Aprofundamento de técnicas de radiojornalismo. Planejamento, produção e edição de programa radiojornalístico semanal ou diário que seja veiculado.
+
+Bibliografia Básica
+
+BARBERO, Heródoto; LIMA, Paulo Rodolfo de. Manual de radiojornalismo:
+
+produção, ética e internet. 2ª. ed. Rio de janeiro: Campus, 2003. PARADA, Marcelo. Rádio: 24 horas de jornalismo. São Paulo: Editora Panda, 2000. PRADO, Magaly. Produção de Rádio: manual prático para professores e alunos.
+
+Rio de Janeiro: Campus, 2006.
+
+Bibliografia Complementar
+
+MOHERDAUL, Luciana. Guia de estilo web: produção e edição de notícias on-line.2 ed. rev. amp. São Paulo: Senac São Paulo, 2002. MCLEISH, Robert. Produção de Rádio. São Paulo: Summus, 2001. PRADO, Emilio. Estrutura da informação radiofônica. Tradução de Marco Antoni de Carvalho. 4ª. ed. São Paulo: Summus, 1989. KUCINSKI, Bernardo. Jornalismo na Era Virtual. São Paulo, Unesp, 2005. CHANTLER, Paul, SIM, Harris. Radiojornalismo.São Paulo: Summus, 1992.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Telejornalismo (CSJ0051)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Telejornalismo II (CSJ0042)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 08
+
+Carga Horária
+
+Total: 128 horas
+
+Teóric
+
+a:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos:
+
+Proporcionar ao acadêmico, após ter cursado Telejornalismo I e Telejornalismo II, a capacidade de realização experimental de produções audiovisuais, novos formatos e formas, que possibilitem o entendimento da prática do jornalismo na televisão e preparando o futuro profissional para atuar como jornalista de TV.
+
+Ementa:
+
+Jornalismo especializado na TV. Programas temáticos. A grande reportagem. O
+
+debate em TV. A entrevista em estúdio de TV.  O documentário jornalístico. A Produção e edição de telejornais para múltiplas plataformas digitais.
+
+Bibliografia Básica
+
+Vizeu, Alfredo (org). A Sociedade do Telejornalismo. Editora Vozes. 2008. Petrópolis. RJ. Brasil. Machado, Arlindo. A Televisão levada a sério. Editora Senac. 2000. São Paulo. SP. Brasil. Paternostro, Vera Íris. O texto na TV: Manual de telejornalismo. Editora Campus. Rio
+
+de Janeiro, RJ, Brasil.
+
+Bibliografia Complementar
+
+Vizeu, Alfredo (org). Telejornalismo em questão. Editora Insular. 2014. Florianópolis SC. Brasil. Cajazeira, Paulo Eduardo Silva Lins. A audiência convergida do telejornal na Redes Sociais. Disponível em http://www.livroslabcom.ubi.pt/pdfs/20150302 201506_pcajazeira_audenciaconvergida.pdf. Editora: Livros Labcom, Covilhã Portugal. Serra, Paulo, Sá, Sónia, Souza Filho, Washington. A Televisão Ubíqua http://www.livroslabcom.ubi.pt/pdfs/20150529- 201507_pserrassawfilho_tvubiqua.pdf. Editora: Livros Labcom, Covilhã, Portugal.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Projetos Fotográficos (CSJ0107)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Fotojornalismo (CSJ0022)
+
+Correquisito: Não tem
+
+Equivalência: Laboratório de Fotojornalismo (CSJ0047)
+
+Númer
+
+o de Crédit
+
+os: 08
+
+Carga Horária
+
+Total: 128 horas
+
+Teóric
+
+a:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos:
+
+A disciplina permite a prática da realização de projetos na área do fotojornalismo, permitindo ao mesmo contato com a pluralidade das possibilidades existentes na atualidade. A disciplina permite o planejamento, execução e finalização do conteúdo imagético, sobretudo séries que abordem um determinado tema em profundidade.
+
+Ementa:
+
+Pesquisa e recorte do objeto. Planejamento e produção de séries imagéticas. Acompanhamento de trabalhos individuais, recepção de material, edição e curadoria. Construção de narrativas e ensaios. Adequação das imagens para espaços expositivos e (ou) slides shows.
+
+Bibliografia Básica
+
+ANG, Tom. A fotografia digital: uma introdução. São Paulo, SP: Senac,
+
+\2007. SAMAIN, Etienne. O Fotográfico. São Paulo, SP: Senac, 2005.
+
+TRIGO, Thales. Equipamento Fotográfico – Teoria e Prática. São Paulo, SP: Senac, 2005.
+
+Bibliografia Complementar
+
+ADAMS, Ansel. A Câmera. São Paulo, SP: Senac, 2006.
+
+KOBRÉ, K. Fotojornalismo – Uma abordagem profissional. São Paulo, SP: Campus, 2011.
+
+KOSSOY, Boris. Realidades e Ficções na Trama Fotográfica. São Paulo, SP: Ateliê Editorial, 2009.
+
+RUILLÉ, André. A fotografia – Entre o documento e a arte contemporânea. São Paulo, SP: Senac, 2009.
+
+SOUSA, Jorge Pedro. Uma história Crítica do Fotojornalismo Ocidental. Florianópolis, SC: Letras Contemporâneas, 2000.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Assessoria de
+
+Tipo: Disciplina
+
+Imprensa (CSJ0108)
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Assessoria de Imprensa (CSJ0048)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 08
+
+Carga Horária
+
+Total: 128 horas
+
+Teóric
+
+a:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos:
+
+\- Possibilitar ao estudante a experiência de organizar uma agência de comunicação.
+
+\- Elaboração de Planos de Comunicação para a Imprensa.
+
+\- Orientar o futuro jornalista a lidar adequadamente com situações de crise.
+
+\- Preparar o jornalista para intermediar a relação entre as instituições e a imprensa, utilizando os suporte e ferramentas de comunicação adequadas para esse fim.
+
+Ementa:
+
+Organização de uma Agência de Comunicação. A elaboração de Planos de Comunicação. Comunicação Interna. Comunicação Externa. Estratégias de Comunicação. A produção de releases eletrônicos, impressos e digitais. Media Training. Elaboração de Planos de Gerenciamento de Crises.
+
+Bibliografia Básica
+
+DUARTE, Jorge .Assessoria de Imprensa e Relacionamento com a Mídia. São Paulo: Atlas, 2006.
+
+: Comunicação pública: estado, mercado, sociedade e interesse público. 2. Ed. São Paulo: Atlas, 2009.
+
+KOPLIN, Elisa; FERRARETO, Luiz Artur. Assessoria de Imprensa: teoria e prática. São Paulo: Summus, 2009.
+
+Bibliografia Complementar
+
+CHARADEAU, Patrick. Discurso das mídias. 2. Ed. São Paulo: Contexto, 2012.
+
+DIAZ, Bordenave. O que é comunicação. São Paulo: Brasiliense, 1982.
+
+LIPPMAN, Walter. Opinião pública. 2.ed. Petrópolis, RJ: Vozes, 2010.
+
+MAFEI, Maristela, Assessoria de Imprensa: como se relacionar com a mídia. São Paulo: Contexto,2005.
+
+ROSA, Mário. A Era do Escândalo. São Paulo: Geração Editorial. 2003.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Laboratório de Jornalismo Digital (CSJ0109)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Jornalismo digital II (CSJ0094)
+
+Correquisito: Não tem
+
+Equivalência: Laboratório de Jornalismo Multimídia (CSJ0046)
+
+Númer
+
+o de Crédit
+
+os: 08
+
+Carga Horária
+
+Total: 128 horas
+
+Teóric
+
+a:
+
+\-
+
+Prática:
+
+128 horas
+
+Objetivos:
+
+Preparar o discente para atuar como jornalista em plataformas de mídias digitais, quer seja em empresas de comunicação existentes, na iniciativa pública, atuando em redes sociais ou partindo para a iniciativa própria, gerindo e gerando conteúdos noticiosos para as diversas plataformas de mídia digital.
+
+Ementa:
+
+Mapeamento das inovações e novidades em mídias digitais e sua aplicação ao jornalismo. Prática dos roteiros em hipermídia. Manutenção de blogs e de perfis em redes sociais. Prática em ferramenta de software para edição e gerenciamento de notícias no portal da disciplina na web. Prática no portal de notícias da UFC Cariri. Produção/edição de conteúdo audiovisual em sites na web. YouTube. Produção/edição de áudio digital (podcasts, streaming). Produção textual – técnicas de redação em ambientes digitais. Reportagem hipermídia.
+
+Bibliografia Básica
+
+MACHADO, Elias e PALACIOS, Marcos (org.). O Ensino do Jornalismo em Redes de Alta Velocidade: Metodologias & Softwares. Salvador: EDUFBA, 2007
+
+LÈVY, Pierre. O que é o virtual? Rio de janeiro: editora 34, 1996. RECUERO,
+
+Raquel. Redes Sociais na Internet. Porto Alegre: Sulina, 2009.
+
+Bibliografia Complementar
+
+JENKINS, Henry. Cultura da Convergência. São Paulo: Aleph, 2008.
+
+LÈVY, Pierre. O que é o virtual? Rio de janeiro: editora 34, 1996.
+
+MIELNICZUK, Luciana. Considerações para o estudo do formato da notícia na web: o link como elemento paratextual. 2001. Disponível em: http://reposcom.portcom.intercom.org.br/handle/1904/17332. Acesso em: 20/03/2009.
+
+. Webjornalismo de terceira geração: continuidades e rupturas no jornalismo desenvolvido para a web. 2004. Disponível em: http://reposcom.portcom.intercom.org.br/handle/1904/17332. Acesso em: 22/05/2009.
+
+. O link como recurso na narrativa jornalística hipertextual. 2005. Disponível em: http://sec.adaltech.com.br/intercom/2005/resumos/R1441-1.pdf. Acesso em: 14/05/2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Psicologia e Comunicação (CSJ0007)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Psicologia e Comunicação (CSJ0007)
+
+Número de
+
+Carga Horária
+
+Crédito
+
+s:
+
+4
+
+Total : 64 horas
+
+Teóri ca: 64 hora s
+
+Prática:
+
+\-
+
+Objetivos:
+
+Compreender o campo da Psicologia. Entender as interfaces da Psicologia com o campo da Comunicação Social. Analisar temas cruciais da Psicologia na contemporaneidade.
+
+Ementa:
+
+Reflexão sobre saúde, doença e a subjetividade. O estudo da Psicologia como campo científico. As correntes da Psicologia. Interfaces entre a Psicologia e a Comunicação. Estudo de temas cruciais em Psicologia.
+
+Bibliografia Básica
+
+FLUSSER, Vilém. O mundo codificado: por uma filosofia do design e da comunicação. São Paulo, SP: Cosac Naify, 2007.
+
+GADAMER, Hans Georg. A razão na época da ciência. Rio de Janeiro: Tempo Brasileiro, 1983.
+
+SOUSA, Mauro Wilton de. Sujeito, o lado oculto do receptor. São Paulo: ECA: Brasiliense, 2009.
+
+Bibliografia Complementar
+
+ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. Sã
+
+Paulo: Cengage Learning, 1980.
+
+FREUD, Sigmund; PAVLOV, Ivan Petrovitch. Cinco lições de psicanálise; A históri
+
+do movimento psicanalítico; Esboço de psicanálise. São Paulo: Abril Cultural 1974.
+
+MARTÍN-BARBERO, Jesús. Ofício de cartógrafo: travessias latino-americanas d
+
+comunicação na cultura . São Paulo, SP: Loyola, 2006.
+
+PEREIRA, José Haroldo. Curso básico de teoria da comunicação. 5. ed. Rio d
+
+Janeiro: Quartet, 2009.
+
+SANTAELLA, Lúcia. Culturas e artes do pós-humano: da cultura das mídias
+
+cibercultura . [3. ed.]. São Paulo: Paulus, 2008.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Semiótica Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Semiótica (CSJ0015)
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri
+
+ca: hor as
+
+Prática:
+
+horas
+
+Objetivos:
+
+Avaliação dos signos verbais e não verbais presentes na formação do acadêmico de Jornalismo, contribuindo para observação e desenvolvimento do espírito crítico dos discentes.
+
+Ementa:
+
+Semiótica conceito. O lugar da semiótica. O que é signo. Tipos de signos.Primeiridade, Secundidade, Terceiridade. Paradigma e sintagma, Eixos de Linguagem. Funções de Linguagem. A conotação, denotação. Polifonia, dialogismo. Semiótica da cultura.
+
+Bibliografia Básica
+
+PERUZZOLO, A. C. Elementos de Semiótica da Comunicação - quando aprender é fazer. Bauru/SP: EDUSC, 2004.
+
+NÖTH, W. A semiótica no século XX. São Paulo: Annablume, 1996.
+
+BARROS, D. L. P. de. Teoria semiótica do texto. São Paulo: Ática, 1997.
+
+Bibliografia Complementar
+
+AUMONT, Jacques. A imagem. Campinas/SP: Papirus, 1995. BARTHES, Roland. Elementos de semiologia. São Paulo: Cultrix, 1992. FABRI, P. El giro semiotico. Barcelona: Gedisa, 2000. KOCH, Ingedore. V. A interação pela linguagem. São Paulo: Contexto, 2003.
+
+MAINGUENEAU, Dominique. Novas tendências em análise do discurso. Campinas 1997.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Cidades (CSJ0037)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Não tem
+
+Carga
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Analisar a Cidade como pano de fundo das práticas comunicacionais; Reconhecer a comunicação alternativa nos ambientes urbanos; Entender a Mídia como produtora de sociabilidade na cidade.
+
+Ementa:
+
+As relações entre a comunicação e a cidade. Os usos da cidade na circulação urbana. As mídias na rua e suas interferências na vida cotidiana. As práticas culturais das tribos urbanas e suas tramas midiáticas. A cidade e sua pluralidade de trocas comunicacionais.
+
+Bibliografia Básica
+
+CANEVACCI, Massimo. A cidade polifônica – Ensaio sobre a antropologia da comunicação urbana. São Paulo: Studio Nobel, 1993.
+
+CERTEAU, Michel de. A invenção do cotidiano - Artes de fazer. Petrópolis: Vozes, 2000.
+
+RISERIO, Antonio. A cidade no Brasil. São Paulo: Ed.34, 2012.
+
+Bibliografia Complementar BRANDAO, Antonio Carlos. Território e desenvolvimento: as múltiplas escalas entr o local e o global. Campinas, SP: UNICAMP, 2012.
+
+GARCIA CANCLINI, Nestor. Culturas híbridas: estratégias para entrar e sair d modernidade. São Paulo: EDUSP, 2008.
+
+LIPOVETSKY, Gilles. O império do efêmero: a moda e seus destinos nas sociedade modernas. São Paulo: Companhia das Letras, 2002.
+
+RIO, João do. A alma encantadora das ruas. São Paulo: Companhia das Letras 2008.
+
+VASCONCELLOS, Eduardo Alcântara. Transporte urbano, espaço e eqüidade análise das políticas . 2.ed. São Paulo, SP: Annablume, 2001.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Comunicação e Educação (CSJ0035)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 32 horas
+
+Prática:
+
+32 horas
+
+Objetivos:
+
+Aproximar os campos da comunicação e educação de maneira a capacitar o estudante a trabalhar a leitura crítica da mídia nos espaços de educação formal e não-formal, bem como desenvolver práticas pedagógicas de letramento midiático.
+
+Ementa:
+
+Entender as relações cada vez mais imbricadas entre educação, comunicação e tecnologia. Conhecer a prática de educação dialógica, proposta por Paulo Freire. Conhecer experiências no Brasil e no mundo de educação e comunicação. Estudos de recepção e leitura crítica dos meios de comunicação. Desenvolver uma experiência de campo de educação e comunicação.
+
+Bibliografia Básica
+
+FREIRE, Paulo. Extensão ou comunicação. 15. ed. Rio de Janeiro: Paz e Terra, 2011.
+
+KARAM, Francisco José. Jornalismo, ética e liberdade. [3. ed.]. São Paulo, SP: Summus, 1997.
+
+LOPES, Dirceu Fernandes. Jornal-laboratório: do exercício escolar ao compromisso com o público leitor. São Paulo, SP: Summus, 1989.
+
+Bibliografia Complementar
+
+BARROS FILHO, Clovis de. Ética na Comunicação. 6. ed. São Paulo: Summus 2008 FREIRE, Paulo. Pedagogia da Autonomia: saberes necessários à prátic educativa. São Paulo: Paz e Terra, 1996. PAIVA, Raquel. Comunicação e cultura das minorias. 2. ed. São Paulo: Paulus SP, 2009. PAIVA, Raquel; BARBALHO, Alexandre. Comunicação e cultura das minorias. Sã Paulo: Paulus, 2005. SEVERINO, Antonio Joaquim. Filosofia da educação: construindo a cidadania. Sã Paulo: FTD, 1994.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Crônica, Observação e Cidade (CSJ0067)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaç
+
+ão:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri
+
+ca: hor as
+
+Prática:
+
+horas
+
+Objetivos:
+
+Possibilitar conhecimentos teóricos no debate sobre o gênero Crônica; Refletir sobre a observação continuada e interessada do cotidiano para compreensão da cidade; Favorecer a produção textual dos estudantes.
+
+Ementa:
+
+Definição de Crônica. A presença da Crônica na mídia brasileira. O espaço urbano e as formas de descrevê-lo. A Crônica e a observação do cotidiano.
+
+Bibliografia Básica
+
+CERTEAU, Michel de. A invenção do cotidiano: Artes de fazer. Petrópolis: Vozes, 2000.
+
+NASCIMENTO, Patricia Ceolin. Técnicas de redação em jornalismo: o texto da notícia. São Paulo: Saraiva, 2009.
+
+RIO, João do. A alma encantadora das ruas. São Paulo: Companhia das Letras, 2008.
+
+Bibliografia Complementar
+
+ECO, Umberto. Lector in fabula: a cooperação interpretativa nos textos narrativos São Paulo: Perspectiva, 2004.
+
+FIORIN, José Luiz; SAVIOLI, Francisco Platão. Para entender o texto: leitura redação. São Paulo, : Ática, 2007.
+
+LAGE, Nilson. Teoria e técnica do texto jornalístico. São Paulo: Elsevier, 2005.
+
+CANEVACCI, Massimo. A cidade polifônica – Ensaio sobre a antropologia d comunicação urbana. São Paulo: Studio Nobel, 1993.
+
+MITCHELL, Joseph. O Segredo de Joe Gould: no segredo de um boêmio culto excêntrico e pobre, a revelação de uma Nova York desconhecida. Uma obra-prima d jornalismo literário. São Paulo, SP: Companhia das Letras, 2003.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Cultural (CSJ0033)
+
+Tipo: Disciplina optativa
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Cultura Brasileira (CSJ0009)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos:
+
+Tornar o estudante apto a praticar a especialidade Jornalismo Cultural nos diversos gêneros textuais.
+
+Ementa:
+
+Entender a cultura como um fenômeno do cotidiano e não apenas como arte. Buscar diálogos do jornalismo com a Antropologia. Praticar e compreender os diversos gêneros possíveis no jornalismo cultural. Compreender a relação entre estado e cultura e analisar as políticas públicas de cultura praticadas no Brasil.
+
+Bibliografia Básica
+
+ADORNO, Theodor W.; ALMEIDA, Jorge M. B. de. Indústria cultural e sociedade. 5. ed. São Paulo, SP: Paz e Terra, 2009.
+
+COELHO, Marcelo. Crítica Cultural: Teoria e Prática. São Paulo: Publifolha Editora, 2006.
+
+COSTA, Cristiane. Pena de aluguel: escritores jornalistas no Brasil 1904-2004. São Paulo, SP: Companhia das Letras, 2005.
+
+Bibliografia Complementar
+
+AZZOLINO, Adriana Pessate (org). Sete propostas para o jornalismo cultural reflexões e experiências. São Paulo: Miró Editoria, 2009. GADINI, Sérgio Luiz. Interesses cruzados: A produção da cultura no jornalism brasileiro. São Paulo: Paulus, 2009. GUIRADO, Maria Cecília. Reportagem: a arte da investigação. São Paulo, SP: Arte Ciência, 2004 MITCHELL, Joseph. O Segredo de Joe Gould: no segredo de um boêmio culto
+
+excêntrico e pobre, a revelação de uma Nova York desconhecida. Uma obra-prima d jornalismo literário. São Paulo, SP: Companhia das Letras, 2003. WAGNER, Roy. A invenção da cultura. São Paulo: Cosac & Naify, 2010.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Oficina de Fotografia Documental (CSJ0071)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta: A partir do 4º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito:
+
+Fotografia (CSJ0008)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número Carga Horária
+
+de Crédito
+
+s:
+
+4
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: O objetivo da disciplina é promover a realização de projetos avançados na área dando continuidade ao aprendizado obtido na disciplina Fotojornalismo. É nosso objetivo realizar séries que tragam o aprofundamento nas questões trazidas pelos próprios alunos, com escolha de um tema e orientação do professor por todo semestre. O resultado final da disciplina será uma série fotográfica.
+
+Ementa: Trabalho prático em fotografia documental. Escolha, pesquisa e desenvolvimento de um tema/assunto. Questões relativas ao planejamento e execução de séries fotográficas. Acompanhamento e orientação dos projetos. Edição fotográfica.
+
+Bibliografia Básica
+
+KOSSOY, Boris. Realidades e ficções na trama fotográfica. 4. ed. São Paulo, SP: Ateliê Editorial, 2009. ROUILLÉ, André.A fotografia: entre documento e arte contemporânea. São Paulo, SP: Senac São Paulo, 2009. TACCA, Fernando de. Imagens do Sagrado. Campinas, SP: Editora da Unicamp, 2009.
+
+Bibliografia Complementar
+
+HEDGECOE, John. O novo manual de fotografia: guia completo para todos os formatos. São Paulo, SP: Editora Senac São Paulo, 2013.
+
+KOSSOY, Boris. Os tempos da fotografia: o efêmero e o perpétuo. Cotia, SP: Ateliê, 2007.
+
+MARTINS, José de Souza. Sociologia da fotografia e da imagem. 2. ed. São Paulo, SP: Contexto, 2011.
+
+SAMAIN, Etienne. O Fotográfico. São Paulo, SP: Senac, 2005. SONTAG, Susan. Sobre Fotografia. São Paulo, SP: Cia das Letras, 2004.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: História do Jornalismo Brasileiro (CSJ0012)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta: A partir do 2º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução ao Jornalismo (CSJ0003)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Estudo do jornalismo nos séculos XIX e XX assim como as mudanças do jornalismo doutrinário para o informativo. Análise das relações entre imprensa e regime militar, imprensa e abertura política e o jornalismo nos anos 1990.
+
+Ementa: O jornal como documento histórico. Imprensa e Historia do Brasil. Nascimento da imprensa. O papel do jornal no I e II Império. Imprensa em tempos de ditadura. Imprensa e democracia. Jornalismo e globalização.
+
+Bibliografia Básica
+
+BARBOSA, Marialva. História cultural da imprensa: Brasil - 1800-1900. Rio de Janeiro: Mauad X, 2010.
+
+BARBOSA, Marialva. História cultural da imprensa: Brasil - 1900-2000. 2. ed.
+
+Rio de Janeiro: Mauad X, 2010.
+
+SODRÉ, Nelson Werneck. Historia da imprensa no Brasil. São Paulo. Intercom, 2011.
+
+Bibliografia Complementar
+
+COSTA, Cristiane. Pena de aluguel: escritores jornalistas no Brasil 1904-2004 . São Paulo, SP: Companhia das Letras, 2005.
+
+LUSTOSA, Isabel. Imprensa, humor e caricatura: a questão dos estereótipos culturaris. Belo Horizonte: UFMG, 2011.
+
+LUSTOSA, Isabel. Insultos impressos: a guerra dos jornalistas na Independência (1821-1823). São Paulo: Companhia das Letras, 2000.
+
+MARCONDES FILHO, Ciro. Ser jornalista: o desafio das tecnologias e o fim das ilusões. São Paulo, SP: Paulus, 2009.
+
+RIBEIRO, Lavina Madeira. Imprensa e espaço público: a institucionalização d jornalismo no Brasil 1808-1964. Rio de Janeiro: E-papers, 2004.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Análise do Texto e do Discurso Jornalístico (CSJ0072)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta: A partir do 3º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Análise do Texto e do Discurso Jornalístico (CSJ0031)
+
+Número
+
+de Crédito
+
+s:
+
+4
+
+Carga Horária
+
+Tota l: 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Estudos sobre discurso, ideologia e mensagens subliminares da mídia. Análise do discurso de produtos jornalísticos veiculados em TV, jornal impresso, radiojornalismo e jornalismo nas mídias digitais.
+
+Ementa: Ideologia e poder. As bases metodológicas para Análise do Discurso. Escola Francesa de Análise do Discurso. Discurso das Mídias. Processo de construção discursiva nas diferentes plataformas midiáticas (TV, rádio, impresso, internet, fotografia).
+
+Bibliografia Básica
+
+CHARAUDEAU, Patrick. Discurso das mídias. 2. ed. São Paulo, SP: Contexto, 2012.
+
+DALMONTE, Edson. Pensar o discurso no webjornalismo: temporalidade, paratexto e comunidades de experiência. Salvador: Edufba, 2009.
+
+SANTAELLA, Lúcia. Semiótica aplicada. São Paulo, SP: Cengage Learning, 2002.
+
+Bibliografia Complementar
+
+COELHO, Teixeira. Semiótica, informação e comunicação: diagrama da teoria do signo. 7. ed. São Paulo, SP: Perspectiva, 2007. LAGE, Nilson. Linguagem jornalística. 8.ed. São Paulo: Ática, 2008. LAGE, Nilson. Teoria e técnica do texto jornalístico. São Paulo: Elsevier, 2005. PATERNOSTRO, Vera Iris. O texto na TV: manual de telejornalismo. 2.ed. rev. e atual. Rio de Janeiro, RJ: Elsevier, Campus, 2006. SILVERSTONE, Roger. Por que estudar a mídia? São Paulo: Loyola, 2002.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo e Literatura (CSJ0032)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta: A partir do 3º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito:
+
+Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número Carga Horária
+
+de Crédito
+
+s:
+
+4
+
+Total : 64 horas
+
+Teóri ca: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Estudos sobre Literatura e jornalismo e fronteiras e gêneros. Produção e análise de reportagens, entrevistas e críticas.
+
+Ementa:
+
+Focos narrativos. Sujeito do enunciado e sujeito da enunciação. Tempo, espaço e sujeitos ficcionais. Características do romance-reportagem. O novo jornalismo. Divergências e convergências entre o jornalismo e a literatura. O livro- reportagem como gênero jornalístico. Perfil, biografia e memorialismo.
+
+Bibliografia Básica COSSON, Rildo. Romance-reportagem: o gênero. Brasília: Imprensa Oficial, 2001.
+
+COSTA, Cristiane. Pena de aluguel: escritores jornalistas no Brasil 1904-2004. São Paulo, SP: Companhia das Letras, 2005.
+
+MALCOLM, Janet. Jornalista e o Assassino. São Paulo: Companhia das Letras, 2011.
+
+Bibliografia Complementar
+
+CÂNDIDO, António. Literatura e Sociedade: estudos de teoria e história literária. 12.ed. Rio de Janeiro, RJ: Ouro sobre azul, 2011.
+
+GUIRADO, Maria Cecília. Reportagem: a arte da investigação. São Paulo, SP: Arte & Ciência, 2004.
+
+LUKÁCS, György. A teoria do romance: um ensaio histórico-filosófico sobre as formas da grande épica . São Paulo, SP: Duas Cidades, Ed. 34, 2006.
+
+MITCHELL, Joseph. O Segredo de Joe Gould: no segredo de um boêmio culto, excêntrico e pobre, a revelação de uma Nova York desconhecida. Uma obra-prima do jornalismo literário.. São Paulo, SP: Companhia das Letras, 2003.
+
+SANDES, José Anderson Freire. Diálogos com Pedro Nava: a sedução da palavra na literatura, na história e no jornalismo. Fortaleza, CE: OMNI, 2005.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Econômico (CSJ0065)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+A partir do 3º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Eqivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teórica:
+
+64 horas Prática:
+
+\-
+
+Objetivos: Apresentar os conceitos básicos de economia e a forma como esses conceitos devem ser decodificados para a cobertura de pautas jornalísticas; Refletir sobre as relações que se travam entre a economia, a política e a sociedade; Preparar o estudante de jornalismo para atender à crescente demanda por profissionais com conhecimento na área de jornalismo econômico; Refletir sobre o papel do jornalismo econômico na atual conjuntura econômica e social; Possibilitar o desenvolvimento de pesquisas voltadas ao jornalismo econômico e com a intenção de formar jornalistas que possam atuar tanto no mercado quanto na academia nesse campo de atividade.
+
+Ementa: Introdução ao Jornalismo Econômico. Princípios de economia. Formação Econômica do Brasil. Economia, política e sociedade. Economia Internacional e comércio exterior. Tecnologias da Informação, economia e governabilidade. Finanças Públicas. Comunicação estatística. Microeconomia. Macroeconomia. Economia política da mídia.
+
+Bibliografia Básica BASILE, Sidnei. Jornalismo econômico: a sociedade bem informada é uma sociedade melhor. 2.ed. Rio de Janeiro, RJ: Elsevier, 2011.
+
+FURTADO, Celso. Formação econômica do Brasil. São paulo: Companhia das Letras, 2011.
+
+VASCONCELOS, Marco Antônio Sandoval de. Economia: micro e macro. São Paulo: Atlas, 2008.
+
+Bibliografia Complementar GIAMBIAGI, Fabio. ALÉM, Ana Cláudia. Finanças públicas: teoria e prática no Brasil Rio de Janeiro: Elsevier Editora, 2011.
+
+GREMAUD, Amaury Patrick; VASCONCELLOS, Marco Antonio Sandoval de TONETO JÚNIOR, Rudinei. Economia brasileira contemporânea. 7. ed. Sao Paulo Atlas, 2009.
+
+MAIA, Jayme de Mariz. Economia internacional e comércio exterior. São Paulo SP: Atlas, 2011. MARX, Karl. O capital: crítica da economia política, livro primeiro : o processo d produção do capital, volume I. 24. ed. Rio de Janeiro: Civilização Brasileira, 2006.
+
+WEBER, Max. Economia e sociedade. Brasília: Editora UnB, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Jornalismo Esportivo (CSJ0061)
+
+Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+A partir do 3º
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Introdução às Práticas em Jornalismo (CSJ0079)
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teórica:
+
+64 horas Prática:
+
+\-
+
+Objetivos: Tornar o estudante apto a praticar a especialidade Jornalismo Esportivo nos diversos gêneros textuais.
+
+Ementa: Estudo das relações entre mídia, esportes e cultura brasileira.
+
+Bibliografia Básica PEREIRA JUNIOR, Luiz Costa. Guia para a edição jornalística. Petrópolis, RJ: Vozes, c2006. PEREIRA JUNIOR, Luiz Costa. A apuração da notícia: métodos de investigação na imprensa. 2.ed. Petropólis, RJ: Vozes, 2006. SOARES, Edileuza. A bola no ar: O rádio esportivo em São Paulo. São Paulo, SP: Summus, 1994.
+
+Bibliografia Complementar ARBEX JUNIOR, José. Showrnalismo: a notícia como espetáculo. 4. ed. São Paulo Casa Amarela, 2005. BARROS FILHO, Clovis de. Ética na Comunicação. 6. ed. São Paulo: Summus 2008. GUIRADO, Maria Cecília. Reportagem: a arte da investigação. São Paulo, SP: Arte Ciência, 2004. LAGE, Nilson. Teoria e técnica do texto jornalístico. São Paulo: Elsevier, 2005 RODRIGO ALSINA, Miquel. A construção da notícia. Petrópolis, RJ: Vozes, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Cinema Brasileiro (CSJ0036) Tipo: Disciplina
+
+Caráter: optativa
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaçã
+
+o:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem
+
+Correquisito: Não tem
+
+Equivalência: Não tem
+
+Número
+
+de Créditos
+
+: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teóric a: 64 horas
+
+Prática:
+
+\-
+
+Objetivos: Possibilitar conhecimentos de imaginários narrativos, sonoros e visuais da produção brasileira. Sensibilizar o olhar para a produção audiovisual nacional. Debater grandes temas da realidade brasileira a partir do cinema.
+
+Ementa: Breve história do cinema brasileiro. Visões da sociedade brasileira através do cinema. Indústria cinematográfica, cinema de autor e cinema alternativo no Brasil. Cinema e História. Cinema e Cidade. Cinema e Política. Cinema e Violência. Cinema e Subjetividade.
+
+Bibliografia Básica ANG, Tom. Vídeo digital: uma introdução. 2. ed. São Paulo: Senac São Paulo, c2007.
+
+DANCYGER, Ken. Técnicas de edição para cinema e vídeo: história, teoria e prática. 4.
+
+ed. Rio de Janeiro, RJ: Elsevier, Campus, 2007.
+
+MIGLIORIN, César. Ensaios no real:. o documentário brasileiro hoje. Rio de Janeiro, RJ:
+
+Beco do Azouque, 2010.
+
+Bibliografia Complementar CANEVACCI,   Massimo. Comunicação   visual: olhares fetichistas, polifônicos sincréticos sobre corpos. São Paulo, SP: Brasiliense, 2009.
+
+COMPARATO, Doc. Da criação ao roteiro: teoria e prática. 2.ed. rev., atual. e ampl São Paulo, SP: Summus, 2009.
+
+MARTÍN-BARBERO, Jesús; REY, Germán. Os exercícios do ver: hegemoni audiovisual e ficção televisiva. 2. ed. São Paulo: SENAC, 2004. NICHOLS, Bill. Introdução ao documentário. 5. ed. Campinas, SP: Papirus, 2010.
+
+PUCCINI, Sérgio. Roteiro de documentário. 3. ed. Campinas, SP: Papirus, 2011.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Língua Brasileira de Tipo:Disciplina
+
+Sinais – LIBRAS (CSJ0010)
+
+Caráter: optativa livre
+
+Semestre de
+
+Oferta:
+
+\-
+
+Habilitaç
+
+ão:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Não tem Correquisito: Não tem
+
+Equivalência: LIBRAS (DES0014)
+
+Númer
+
+o de Crédit
+
+os: 04
+
+Carga Horária
+
+Total : 64 horas
+
+Teórica:
+
+64 horas Prática:
+
+\-
+
+Objetivos: Compreender os principais aspectos da Língua Brasileira de Sinais, língua oficial da comunidade surda brasileira, contribuindo para a inclusão educacional dos alunos surdos e desenvolvendo a habilidade básica para uma comunicação em Libras.
+
+Ementa: Aspectos da Língua Brasileira de Sinais: cultura e história. Identidade surda. Introdução aos aspectos linguísticos na Língua Brasileira de sinais: fonologia, morfologia, sintaxe. Vocabulário.
+
+Bibliografia Básica GESSER, Audrei. Libras? que língua é essa? crenças e preconceitos em torno da língua
+
+de sinais e da realidade surda. São Paulo, SP: Parábola Editorial, 2009.
+
+HOMEM DE MELO, Francisco Inácio Marcondes Barão. Compendio para o ensino
+
+dos surdos-mudos. 3. ed. Rio de Janeiro, RJ: Typographia Universal de H. Laemmert &
+
+C., 1881. 400 p. (Série Histórica. Instituto Nacional de Educação de Surdos v. 3 (2012).
+
+LEITAO, Vanda Magalhaes; VIANA, Tania Vicente. ((org.)) UNIVERSIDADE FEDERAL
+
+DO CEARA. Acessibilidade na UFC: tessituras possíveis. Fortaleza,
+
+CE: Edições UFC, 2014.
+
+Bibliografia Complementar BARROS FILHO, Clovis de. Ética na Comunicação. 6. ed. São Paulo: Summus 2008. BRASIL. SECRETARIA DE EDUCAÇÃO ESPECIAL. O Ensino de Língu portuguesa para surdos: caminhos para a prática pedagógica. Colaboração d Heloisa Moreira Lima Sales. Brasília:DF: MEC/SEESP, 2004. V1, V2. CAPOVILLA, Fernando César; RAPHAEL, Walkíria Duarte. Dicionário Enciclopédic Ilustrado Trilíngüe da Língua de Sinais Brasileira, Volume I: Sinais de A a L. 3 ed São Paulo: Editora da Universidade de São Paulo, 2001. DAMÁZIO, mirlene Ferreira Macedo. Pessoa com Surdez. São Paulo: MEC/SEESP 2007. PAIVA, Raquel. Comunicação e cultura das minorias. 2. ed. São Paulo: Paulus SP, 2009.
+
+Unidade Acadêmica Responsável: IISCA
+
+Componente Curricular: Estágio supervisionado (CSJ0104)
+
+Tipo: Atividade
+
+Caráter: Obrigatório
+
+Semestre de Oferta:
+
+8 Habilitação:
+
+\-
+
+Regime: Semestral
+
+Pré-Requisito: Laboratório de Jornalismo Impresso (CSJ0052)
+
+Correquisito: Não tem
+
+Equivalência: Estágio Supervisionado (CSJ0055)
+
+Número
+
+de Créditos:
+
+12,5
+
+Carga Horária
+
+Total:
+
+200 horas
+
+Teórica:
+
+\-
+
+Prática:
+
+200 horas
+
+Objetivos:
+
+Desenvolver atividade prática no campo do Jornalismo em sua dimensão de atuação profissional;
+
+Iniciar sua inserção no mundo do trabalho.
+
+Ementa: Leis e diretrizes gerais de Estágio. O cotidiano das práticas profissionais nos setores de produção, redação e edição jornalísticas.
+
+Bibliografia Básica
+
+ALSINA, Miguel Rodrigo – A Construção da Notícia. Rio de Janeiro: Vozes, 2009. COSTA, Caio Túlio. Ética, jornalismo e nova mídia. Uma moral provisória. Rio de Janeiro, Jorge Zahar, 2009. LAGE, Nilson. Linguagem jornalística. 8.ed. São Paulo: Ática, 2008.
+
+Bibliografia Complementar
+
+ABRAMO, Cláudio; ABRAMO, Cláudio Weber. A regra do jogo: o jornalismo e a ética do marceneiro. São Paulo: Companhia das Letras, 1988.
+
+BARBEIRO, Heródoto. Manual de Radiojornalismo: produção, ética e internet. 2.ed. ver. Atual. Rio de Janeiro. Campus, 2003.
+
+BARBEIRO, Herodoto. Manual de telejornalismo: os segredos da noticia na tv. 2.ed. rev. atualizada. Rio de Janeiro, RJ: Campus, 2002.
+
+KOTSCHO, Ricardo. A Prática da Reportagem. São Paulo, Ática, 1998.
+
+PINTO, Ana Estela de Souza. Jornalismo Diário – Reflexões, Recomendações, Dicas e Exercício. São Paulo: Publifolha, 2009.
+
+\18. ESTÁGIO CURRICULAR SUPERVISIONADO
+
+18.1 - Regulamentação das Atividades de Estágio no Curso de Jornalismo
+
+O estágio supervisionado é componente curricular obrigatório previsto nas Diretrizes
+
+Curriculares Nacionais para o Curso de Jornalismo. A atividade busca aproximar a formação de
+
+ambientes de prática profissional levando em consideração o respeito à Lei n. 11.788/2008 e as
+
+premissas elaboradas pela Federação Nacional dos Jornalistas (Fenaj) e pelo Fórum Nacional dos
+
+Professores de Jornalismo (FNPJ) reunidas no documento “Orientações gerais para construção de
+
+regulamentos de estágio curricular supervisionado em jornalismo”, divulgado em maio de 2015.
+
+No curso de Jornalismo, a carga horária mínima destinada ao estágio curricular obrigatório
+
+deve ser de 200 (duzentas) horas. O objetivo geral é estabelecer experiências de iniciação à prática
+
+jornalística e comunicacional permitindo um diálogo acadêmico com diferentes ambientes em que
+
+sejam estimulados momentos de intercâmbio complementares a uma formação profissional crítica
+
+e ética. Os objetivos específicos incluem a realização de prática jornalística com supervisão de
+
+um(a) jornalista com formação em nível superior propiciando um olhar diferenciado para os(as)
+
+alunos(as) para além das professoras e professores do curso. Além disso, trata-se de permitir a
+
+observação sobre o funcionamento de diferentes ambientes de trabalho com suas rotinas produtivas
+
+particulares permitindo aos alunos incorporarem em seus relatórios tanto as experiências de práticas
+
+como as observações críticas em relação a essas experiências.
+
+A Coordenação do Curso Jornalismo da Universidade Federal do Cariri, em cumprimento
+
+da lei 11.788 de 25 de 20 setembro de 2008 e da resolução nº 32 do Conselho de Ensino, Pesquisa
+
+e Extensão (CEPE) de 30 de outubro de 2009 da UFC, regulamenta as atividades de estágio
+
+supervisionado obrigatório e não-obrigatório para os estudantes regularmente matriculados no
+
+Curso:
+
+Art. 1° - Estágio em Comunicação Social é ato educativo escolar – supervisionado diretamente por
+
+um jornalista (graduado em Comunicação Social) e por um professor do curso – desenvolvido no
+
+ambiente de trabalho, que visa à preparação profissional dos estudantes de Comunicação que
+
+regularmente matriculados na Universidade Federal do Cariri.
+
+Art. 2° - O estágio poderá ser obrigatório ou não-obrigatório:
+
+§ 1° - Estágio obrigatório acontece no sétimo semestre, com a carga horária de 200 horas semestrais
+
+e é requisito para a aprovação e a obtenção de diploma.
+
+§ 2º - Estágio não obrigatório é aquele desenvolvido a partir do quinto semestre como atividade
+
+opcional do estudante, acrescida à carga horária regular e obrigatória do currículo escolar.
+
+Art. 3º - Serão considerados estágios em comunicação atividades profissionais realizadas nas áreas
+
+de assessoria de imprensa/comunicação, redação de jornal impresso, redação de rádio, redação de
+
+televisão, redação de portais e atividades fotográficas. O estágio pode ocorrer em empresas
+
+privadas, associações da sociedade civil e órgãos públicos.
+
+Art. 4º - As atividades de ensino, pesquisa e extensão desenvolvidas pelos estudantes poderão ser
+
+equiparadas ao estágio, desde que a atividade seja diretamente relacionada à uma das áreas citadas
+
+no Art. 3º. O estudante que optar por estagiar em um projeto de extensão ficará submetido às
+
+obrigações da Lei 11.788.
+
+As DCNs orientam as instituições de ensino a incluírem, em seus projetos
+
+pedagógicos, “a natureza do estágio curricular supervisionado, através de
+
+regulamentação própria aprovada por colegiado, indicando os critérios, procedimentos e
+
+mecanismos de avaliação, observada a legislação e as recomendações das entidades
+
+profissionais do jornalismo”. Neste sentido, em documento posterior, elaborado pelo
+
+colegiado do curso, serão especificadas as normas e regulamento de funcionamento dos
+
+estágios, detalhando os procedimentos de acompanhamento, relatório final e avaliação
+
+da atividade.
+
+Art. 5º - Os estágios não obrigatórios poderão ser aproveitados como Atividades Complementares
+
+em até 64h (vide regulamentação de Atividades Complementares).
+
+Art. 6º - Será instituída anualmente uma Coordenadoria do Estágio composta por três professores
+
+do curso que ficará responsável por acompanhar e avaliar o desempenho dos estudantes, assim como
+
+elaborar, em conjunto, o plano de atividades do estagiário a ser desenvolvido na área escolhida. A
+
+coordenadoria também será responsável pelos casos omissos deste regulamento.
+
+Conforme o art. 8º da lei 11788, é facultado às instituições de ensino celebrar com entes públicos e
+
+privados convênio de concessão de estágio que explicitem o processo educativo. Para efetivar o
+
+estágio é necessária a celebração de termo de compromisso entre o educando, a parte concedente
+
+do estágio e a instituição de ensino, conforme inciso II do caput do art. 3º da lei 11.788.
+
+18.2 - Acompanhamento dos estágios supervisionados
+
+Os estágios serão coordenados por um professor, denominado Supervisor de Estágio, que
+
+poderá ser o próprio Coordenador do Curso e/ou Professor a ser indicado pela Coordenação do
+
+Curso.
+
+18.3 - Competências do Professor Supervisor de Estágio:
+
+\- Coordenar todas as atividades inerentes ao desenvolvimento do Estágio Supervisionado;
+
+\- Manter o Coordenador do Curso, permanentemente, informado a respeito do andamento das
+
+atividades do estágio, através de um relatório semestral, bem como providenciar pronto atendimento
+
+de suas solicitações;
+
+\- Manter contato permanente com o Supervisor da Empresa responsável pelo Estagiário;
+
+\- Manter contato permanente com os orientadores, procurando dinamizar o funcionamento do
+
+estágio;
+
+\- Avaliar as condições de exequibilidade do estágio, bem como as atividades conjuntas
+
+(orientador/estagiário) em andamento.
+
+18.4 - Orientadores
+
+O aluno poderá ser orientado pelo Coordenador de Estágio, por um Professor (a), com
+
+competência reconhecida na sua área de atuação, ou por um Profissional qualificado pela
+
+Empresa ou Instituição responsável pelo estágio;
+
+a) O orientador deverá avaliar o aluno através do preenchimento da ficha de
+
+avaliação;
+
+b) Fica assegurado ao aluno o direito de escolha do local de estágio e do orientador;
+
+c) Em caso de desistência do estágio pelo aluno, orientador e/ou aluno deverão
+
+comunicar à Coordenação do Curso, via ofício;
+
+Competências do Orientador
+
+a) Prestar assistência ao estagiário, desde a formulação do plano de trabalho até
+
+elaboração e a apresentação do relatório técnico;
+
+b) Realizar reuniões semanais para encaminhamento das atividades a serem
+
+desenvolvidas, avaliações do material adquirido, definições e correções;
+
+18.5 Atribuições do aluno estagiário
+
+a) Buscar o local ou empresa para a realização do estágio;
+
+b) Apresentar a declaração de estágio e ou contrato;
+
+c) Realizar as atividades previstas no plano de trabalho;
+
+d) Comparecer às reuniões e às aulas programadas com seu orientador;
+
+e) Entregar o Relatório Técnico-Científico redigido segundo as
+
+normas gráficas estabelecidas e as normas da ABNT;
+
+f) Informar, imediatamente, ao seu orientador, qualquer impossibilidade de cumprir os prazos e
+
+procedimentos previstos nesse Manual e alterações no seu trabalho;
+
+g) Manter atualizada as informações referentes ao seu plano de trabalho, junto ao seu orientador
+
+e;
+
+h) Cumprir as regulamentações previstas nesse manual.
+
+18.6 Avaliação dos Estágios
+
+A avaliação das atividades práticas do estágio supervisionado está focada no conhecimento,
+
+nas habilidades, na capacidade de resolução de problemas e nas atitudes adotadas pelo aluno,
+
+supervisionada pelo professor supervisor de estágio; Somente será aprovado o aluno que alcançar
+
+média aritmética 7,0 (sete) atribuída aos itens abaixo discriminados, ambos aferidos numa escala
+
+de zero (0,0) a dez (10,0): a) Entrega do relatório para o Coordenador do Estágio; b) Avaliação,
+
+pelo Orientador, Empresa ou Instituição, das atividades desenvolvidas pelo estagiário (ficha de
+
+avaliação de estágio em empresa; para estágio em Laboratórios/Grupos de Pesquisa).
+
+18.7 Frequência
+
+A frequência ao estágio é obrigatória. Somente será aprovado pelo critério de assiduidade
+
+o aluno que cumprir no mínimo 75% da carga horária total prevista para essa atividade acadêmica.
+
+18.8 - Reprovação
+
+O aluno será considerado reprovado se:
+
+\- Não apresentar a declaração de estágio ou contrato, devidamente preenchida e dentro do
+
+prazo estipulado;
+
+\- Não entregar plano de trabalho; - Não entregar relatório final/artigo de estágio;
+
+\- Não cumprir a carga horária mínima ( 75%) do estágio supervisionado.
+
+18.9 - Disposições gerais
+
+a) O presente manual será fornecido aos alunos matriculados nas Atividades Estágio
+
+Supervisionado, no início do desenvolvimento dessas atividades;
+
+b) Estágios em Empresas serão realizados mediante a celebração de um Termo de Convênio
+
+entre a UFCA e a Instituição/Empresa interessada, com assinatura do Termo de Compromisso de
+
+Estágio e do Plano de Trabalho;
+
+c) Caberá à Coordenação do Curso de Bacharelado em Jornalismo da UFCA tomar
+
+providências cabíveis destinadas à oferta das atividades Estágio Supervisionados;
+
+d) O aproveitamento escolar no Estágio deverá ser enviado a PROGRAD, pelo Coordenador
+
+do Curso, ao final de cada semestre, nos prazos estabelecidos no calendário escolar da UFCA;
+
+e) Essas normas poderão ser modificadas por iniciativa da Coordenação do Curso, obedecidos
+
+trâmites legais e vigentes, na UFCA;
+
+f) Os casos omissos serão analisados e julgados pelos professores Supervisores das
+
+atividades, Coordenação do Curso de Bacharelado em Jornalismo e encaminhado aos órgãos
+
+competentes para solução, quando escaparem as suas esferas de ação.
+
+\19. TRABALHO DE CONCLUSÃO DE CURSO DE CURSO (TCC)
+
+O Trabalho de Conclusão de Curso (TCC) é uma atividade que promove o coroamento da
+
+vida universitária, momento de maior esforço por parte do estudante. Está localizado no oitavo
+
+semestre e tem carga horária de 180 horas. Existem duas modalidades de TCC: a modalidade
+
+Monografia e a modalidade Produto Jornalístico. Quando o aluno estiver no sétimo semestre deve,
+
+durante a disciplina de Pesquisa em Comunicação, escolher uma das modalidades e direcionar seu
+
+projeto e posterior orientação docente.
+
+19.1 – Monografia:
+
+Considera-se como Trabalho de Conclusão de Curso a Monografia que desenvolva uma reflexão
+
+teórica a partir de atividades de pesquisa, sua análise e procedimentos metodológicos, organizados
+
+de forma técnica adequada às normas de produção de um trabalho cientifico. A Monografia escrita
+
+e individual deverá apresentar um texto acabado, expressão do desenvolvimento do projeto
+
+executado, tendo seus elementos textuais um mínimo de 50 laudas digitadas em espaço 1,5 (um e
+
+meio), além de anexos, apêndices e ilustrações que eventualmente sejam incluídos conforme
+
+normas da ABNT. 13.2
+
+19.2 - Produto Jornalístico:
+
+Produto Jornalístico permite que o (a) aluno (a) desenvolva, de forma experimental, a criação de
+
+um produto jornalístico que possa contribuir para o amadurecimento profissional. A disciplina está
+
+relacionada ao campo da experimentação, mas exige rigor necessário à realização dos trabalhos,
+
+partindo do pressuposto de que o (a) aluno (a) esteja apto (a) a ingressar formalmente no mercado
+
+de trabalho. É premissa fundamental para o desenvolvimento do projeto, que o trabalho a ser
+
+desenvolvido tenha ou viabilidade comercial (mercadológica) ou relevância cultural.
+
+Com efeito, poderão ser desenvolvidos trabalhos para criação dos seguintes produtos: livro-
+
+reportagem, revista, jornal, plano de comunicação de uma assessoria de comunicação, fotografia
+
+(fotojornalismo), documentário televisivo, grande reportagem (TV), documentário radiofônico,
+
+produção de programa em formato radiorevista ou produto multimídia. As normas gerais que regem
+
+o TCC estão em regulamento próprio disponíveis para os alunos e interessados.
+
+Embora o prazo para elaboração do Trabalho de Conclusão de Curso (Monografia ou
+
+Produto Jornalístico) permaneça o mesmo na integralização da carga horária, na prática, o estudante
+
+terá maior tempo para elaboração do TCC. Isso porque a disciplina de Pesquisa em Comunicação,
+
+ambiente por excelência da elaboração do projeto para TCC, é liberada com o acréscimo de uma
+
+disciplina específica para este fim. Passam a existir três disciplinas para tal fim, a de Pesquisa em
+
+Comunicação, que ficou destinada a uma preparação para as diversas possibilidades de se pesquisar
+
+no campo da comunicação e do Jornalismo e foi acrescida a disciplina de Projeto de TCC, para em
+
+dois semestres, o estudante possa preparar e realizar o seu trabalho final.
+
+19.3 - Regulamentação: critérios e parâmetros
+
+Em conformidade com o Projeto Político Pedagógico (PPP) do Curso de Jornalismo da
+
+UFCA, o (a) aluno (a) poderá desenvolver o Trabalho de Conclusão de Curso – Produto Jornalístico,
+
+desenvolvendo qualquer um dos produtos supracitados. De antemão, pode-se estabelecer como
+
+condição precípua para realização do trabalho final do curso o exercício do jornalismo em
+
+profundidade, em conformidade com o que se segue:
+
+A) Livro-reportagem: com o objetivo de realizar um livro-reportagem, o (a) aluno (a) deverá
+
+desenvolver um projeto em que deverá constar a redação final e edição do material no suporte livro.
+
+Os textos devem ser escritos em Fonte Times New Roman, Corpo 12, espaçamento 1,5 (1 e ½ ). O
+
+livro-reportagem deverá ter entre 50 (cinqüenta) e 60 (sessenta) páginas (lauda padrão) ou 150 mil
+
+caracteres. Pode ser feito individualmente ou em dupla, sendo a avaliação individual.
+
+B) Revista: com o objetivo de produzir uma revista, o (a) aluno (a) deverá desenvolver um projeto
+
+(com escolha definida entre o projeto redacional e o projeto gráfico) em que deverá constar a
+
+captação das informações a partir das premissas estabelecidas no item anterior, sem permissão de
+
+inserção de publicidade. Redação final e edição do material no suporte revista, a qual deverá ter um
+
+mínimo 30 páginas editoradas. Pode ser feito por até quatro alunos, sendo a avaliação individual.
+
+C) Jornal: com o objetivo de produzir um jornal, o (a) aluno (a) deverá desenvolver um projeto
+
+(com escolha definida entre o projeto redacional e o projeto gráfico) em que deverá constar a
+
+redação final e edição do material no suporte jornal. O jornal deve ter entre 16 e 24 páginas, seja
+
+em formato tablóide, seja em formato convencional. Pode ser feito por até quatro alunos, sendo a
+
+avaliação individual.
+
+D) Plano de Comunicação: Com o objetivo de realizar um Plano de Comunicação, o (a) aluno
+
+(a) deverá desenvolver um projeto em que deverá constar a execução de um Plano capaz de
+
+contemplar os diferentes públicos a serem atingidos (interno, externo e imprensa), com estratégias
+
+específicas para cada um deles. O projeto deverá ter entre 50 e 60 laudas ou 150 mil caracteres. Os
+
+textos devem ser escritos em Fonte Times New Roman, Corpo 12, espaçamento 1,5 (1 e ½ ). O
+
+projeto deve ser desenvolvido de forma individual ou por equipe formada por, no máximo, três
+
+alunos. O trabalho terá que compreender todas as etapas de um Plano de Comunicação: Análise da
+
+Situação (histórico, forças externas, concorrência, pontos fortes e pontos fracos da instituição ou
+
+projeto assessorado), Orientação Estratégica (os objetivos do Plano, definição do público-alvo e
+
+metas), Escolha dos Meios (ferramentas que serão utilizadas para o alcance dos objetivos e
+
+adequação do discurso às diferentes plataformas midiáticas escolhidas), Orientação Criativa (a
+
+mensagem transmitida e as estratégias para veiculá-
+
+la de modo mais eficiente) Orçamento (otimização dos recursos financeiros) e, caso tenha sido
+
+colocado em prática, a avaliação dos resultados obtidos.
+
+E) TV (documentário jornalístico): Com o objetivo de desenvolver um documentário
+
+televisivo, o (a)aluno (a) deverá desenvolver um projeto em que conste a captação e edição final do
+
+documentário. O documentário deverá ter um mínimo de quinze minutos. Pode ser feito por até três
+
+pessoas, sendo a avaliação individual. O documentário televisivo pode receber a colaboração de
+
+técnicos, cenógrafos e sonoplastas, mas a criação, o roteiro e a direção do documentário devem ser
+
+necessariamente realizados pelos alunos.
+
+F) TV (grande reportagem): Consiste numa série de cinco videorreportagens temáticas, que
+
+abordem o mesmo assunto. Ou seja, o aluno, até o número de quatro, realizará cinco
+
+videorreportagens que constituirão uma série jornalística televisiva com tempo total de 15 minutos.
+
+Não há regulação individual de tempo das videorreportagens.
+
+G) Rádio: Com o objetivo de desenvolver um documentário radiofônico, o (a)aluno (a) deverá
+
+desenvolver um projeto em que conste a captação e edição final do documentário. O documentário
+
+deverá ter um mínimo de trinta minutos. Pode ser feito por até três pessoas, sendo a avaliação
+
+individual. O documentário radiofônico pode receber a colaboração de técnicos, mas a criação, o
+
+roteiro e a direção do documentário devem ser necessariamente realizados pelos alunos.
+
+H) Produto Multimídia: O aluno (a) deverá desenvolver um projeto que contemple uma narrativa
+
+jornalística numa perspectiva multimidiática, sendo esta compreendida como um conjunto
+
+convergente dos modos enunciativos vídeo, áudio, texto, imagem estática e interatividade, de
+
+maneira que a combinação destas diversas modalidades enunciativas criem uma narrativa
+
+jornalística em suporte hipertextual digital. Dessa maneira, o (a) aluno (a) poderá desenvolver um
+
+documentário para a web. O suporte para tal produto deverá ser um sítio na Internet. Deve haver a
+
+redação final e edição do material para posterior inclusão no formato final do suporte multimídia.
+
+Neste caso, o produto necessariamente deverá conter no mínimo 10 vídeos, 05 laudas de texto para
+
+edição final, sendo este o somatório de todo o texto do webdocumentário, uma seqüência narrativa
+
+com, no mínimo, 20 fotografias, 05 arquivos de áudio, em podcast, de,mínimo, um minuto. Este
+
+projeto deve ser realizado por apenas um aluno, com o auxílio dos técnicos do curso de Jornalismo
+
+na UFC-Cariri para edição do material.
+
+I) Fotografia: Com o objetivo de apresentar um projeto fotográfico, o (a) aluno (a) deverá
+
+desenvolver uma série que contemple tema de relevância jornalística e (ou) documental. O produto
+
+poderá ser um ensaio ou fotorreportagem, com proposta apontando para a relevância do tema
+
+escolhido, detendo aprofundamento no assunto e perspectivas plurais de investigação. Este trabalho
+
+deverá ser acompanhado de uma apresentação do assunto a ser abordado. A apresentação final
+
+poderá ser uma reportagem fotográfica ou uma fotodocumentação. Este poderá ser apresentado de
+
+forma impressa ou digital, sendo obrigatório um mínimo de 20 e máximo de 30 ampliações (no
+
+tamanho mínimo de 20 x 30) na série impressa e um mínimo de 40 e máximo de 50 fotografias (no
+
+caso de produtos apresentados por meio de slide show).
+
+Os trabalhos serão analisados por uma Banca Julgadora, composta por três membros, sendo um
+
+deles o professor orientador e os outros dois professores convidados, dos quais um,
+
+necessariamente, deve ser do curso de Jornalismo e o outro pode ser de qualquer curso da UFCA
+
+ou de outra instituição de ensino superior, a critério do professor orientador, em comum acordo com
+
+o aluno orientando.
+
+Para efeito de julgamento pela Banca Julgadora, avaliados com base nos seguintes critérios:
+
+a) Capacidade técnica e / ou de análise lógica e reflexão = 4,0 pontos b) Empenho do (a) aluno (a)
+
+na atividade investigativa e na busca e aplicação de procedimentos metodológicos adequados e, no
+
+caso de projeto experimental, na busca de inovações = 3,0 pontos c) Comunicabilidade e correção
+
+do texto = 2,0 pontos d) Aplicação e frequência nos encontros programados do orientador = 1,0
+
+ponto.
+
+\20. ATIVIDADES COMPLEMENTARES
+
+Para fins de integralização curricular, o aluno deve cumprir 150 horas de atividades
+
+complementares como condição obrigatória para a conclusão do curso. A Coordenação do Curso
+
+de Jornalismo regulamenta as Atividades Complementares em suas modalidades, divisão de cargas
+
+horárias e sistematização com base na Resolução nº 25/CONSUP de 26 de agosto de 2015, que
+
+institui a seguinte normatização:
+
+Art. 1º As atividades complementares têm a finalidade de enriquecer o processo de ensino-
+
+aprendizagem, privilegiando a complementação da formação social e profissional. O que caracteriza
+
+este conjunto de atividades é a flexibilidade de carga horária semanal, com controle do tempo total
+
+de dedicação do estudante durante o semestre ou ano letivo.
+
+Art. 2º São consideradas atividades complementares aquelas ações distribuídas entre os seguintes
+
+grupos:
+
+I. Atividades de iniciação à docência e outras ligadas ao ensino;
+
+II. Atividades de iniciação à pesquisa, produção técnica e/ou científica;
+
+III. Atividades de participação e/ou organização de eventos, tais como: participação em eventos
+
+internos e externos à instituição de educação superior, semanas acadêmicas, congressos,
+
+seminários, palestras, conferências, atividades artístico- culturais e esportivas;
+
+IV. Experiências ligadas à formação profissional e/ou correlatas inclusive estágio não
+
+obrigatório;
+
+V. Participações em órgãos colegiados;
+
+Parágrafo único. Para validação da atividade será necessária comprovação por meio de documento
+
+legal emitido por esta Instituição ou outra legalmente constituída.
+
+Art. 3º As coordenações de cursos de graduação poderão aprovar normatizações específicas,
+
+incluindo estratégias pedagógico-didáticas e estipulando carga horária mínima integralizada ou
+
+período cursado das Atividades Complementares
+
+Art. 4º As coordenações de cursos serão responsáveis pela implementação, acompanhamento e
+
+avaliação das Atividades Complementares, com o suporte de outras instâncias administrativas e/ou
+
+acadêmicas da universidade, quando aplicável.
+
+Parágrafo único. As coordenações de cursos estipularão a carga horária referente às Atividades
+
+Complementares que serão integralizadas nos currículos até o percentual máximo conforme a
+
+regulamentação específica do MEC.
+
+Art. 5º O aproveitamento das atividades complementares será feito pelas coordenações de cursos,
+
+mediante a devida comprovação.
+
+§ 1º O estudante deverá cumprir, no mínimo, atividades em três grupos distintos, dentre os
+
+estabelecidos nos itens do Art. 2º.
+
+§ 2º A carga horária máxima que pode ser cumprida em um único grupo de atividades é de 60% da
+
+carga horária total para a integralização das Atividades Complementares do curso.
+
+Art. 6º Para a participação dos estudantes nas Atividades Complementares, serão observados os
+
+seguintes critérios, que poderão ser complementados pelas normatizações internas aos cursos,
+
+previstas no Artigo 3º desta resolução:
+
+I. Serem realizadas a partir do primeiro semestre;
+
+II. Serem compatíveis com o Projeto Pedagógico do Curso;
+
+III. Serem compatíveis com o período que o aluno estiver matriculado na instituição, ou o
+
+nível de conhecimento requerido para a aprendizagem;
+
+IV. Serem integralizadas até sessenta dias da conclusão do curso.
+
+§ 1º O calendário universitário estipulará período para a solicitação de integralização de Atividades
+
+Complementares junto às coordenações de cursos.
+
+§ 2º As coordenações de cursos avaliarão se as Atividades Complementares desenvolvidas seguem
+
+os critérios estabelecidos nesta Resolução e nos normatizações específicas de seu curso, emitindo
+
+conceito satisfatório ou insatisfatório e contabilizando
+
+a carga horária a ser aproveitada, e tomará as providências para o seu registro junto ao sistema
+
+acadêmico.
+
+§ 3º Estudantes ingressos no curso por meio de transferência de outra IES ou mudança interna de
+
+curso que já tiverem participação em Atividades Complementares poderão requerer à Coordenação
+
+do Curso Atual a análise e a contabilização destas atividades desde que cumpram com o
+
+estabelecido no parágrafo anterior deste artigo 6º. Dessa forma, o período válido para o
+
+desenvolvimento das atividades complementares é desde o primeiro semestre do curso de origem
+
+até 60 dias antes da conclusão do curso atual.
+
+§ 4º Os estudantes ingressos por meio de admissão de graduado deverão desenvolver as Atividades
+
+Complementares requeridas por seu atual curso, ou seja, não podem solicitar aproveitamento de
+
+atividades desenvolvidas antes de seu ingresso no curso atual.
+
+§ 5º Os estudantes reingressos em outra modalidade ou habilitação do mesmo curso poderão ter
+
+suas atividades complementares aproveitadas desde que haja equivalência prevista no PPC de
+
+ingresso.
+
+Art. 7º Os casos omissos serão resolvidos pela Câmara de Ensino, usando de pareceres de outros
+
+órgãos colegiados, quando aplicável.
+
+A partir das orientações da Resolução nº 25/CONSUP, o curso de Jornalismo definiu a
+
+seguinte carga horária máxima para cada subgrupo de atividades complementares:
+
+1) Atividades de Iniciação à Docência e/ou à Pesquisa, produção técnica e/ou científica até 96 horas
+
+contemplando as seguintes atividades: a) Programa de Monitoria Remunerada e Voluntária da Pró-
+
+Reitoria de Graduação: 48 horas por semestre. b) Programa de Iniciação Científica, com bolsa ou
+
+como voluntário, vinculado à Pró- Reitoria de Pesquisa e Pós-Graduação e / ou à pesquisa de um
+
+professor, cadastrada em um dos departamentos acadêmicos da UFC: 48 horas por semestre. 18 c)
+
+Laboratório ou Grupo de Pesquisa cadastrado na Pró-Reitoria de Pesquisa e Pós- Graduação: 48
+
+horas por semestre. d) Grupos de Estudos: até 48 horas para o conjunto de atividades, que poderão
+
+serás seguintes: Participação em grupos de estudo, sob a responsabilidade de um professor e
+
+vinculado a um dos departamentos acadêmicos da UFCA: 24 horas por semestre.
+
+2) Atividades de participação e / ou organização de eventos: até 80 horas para o conjunto de
+
+atividades. As atividades constantes neste item são: a) Participação em eventos científicos e / ou
+
+culturais. b) Organização de eventos científicos e / ou culturais.
+
+c) Participação em projetos culturais: 40 horas por semestre. d) Participação em atividades
+
+esportivas: 40 horas por semestre.
+
+3) Experiências ligadas à formação profissional e/ou correlatas inclusive estágio não obrigatório
+
+em até 64 horas (04 créditos) e atestadas por um profissional da área, mediante preenchimento de
+
+um formulário padrão a ser depositado na Coordenação.
+
+4) Participações em órgãos colegiados: até 48 horas para o conjunto de atividades, as quais podem
+
+ser as que se seguem: a) Representação estudantil nas instâncias da UFCA, tais como CONSUP: 48
+
+horas por dois semestres. b) Participação na gestão do Diretório Acadêmico (DA) e / ou Diretório
+
+Central dos Estudantes (DCE): 48 horas por dois semestres. c) Participação na gestão de entidades
+
+vinculadas à área da Comunicação, a exemplo de: Sindicato dos Jornalistas Profissionais no Estado
+
+do Ceará, Federação Nacional dos Jornalistas (FENAJ), Associação Cearense de Imprensa (ACI),
+
+Executiva Nacional dos Estudantes de Comunicação (ENECOS): 48 horas por dois semestres. d)
+
+Representação estudantil no Colegiado do Curso: 48 horas
+
+Para efeito do cômputo no histórico escolar do estudante, a análise das Atividades
+
+Complementares ocorrerá em duas etapas: a primeira ao final dos dois (02) primeiros anos do curso
+
+e a segunda, no último semestre, até sessenta (60) dias antes da conclusão do curso. A análise será
+
+feita por comissão de cinco (05) professores instituída pela Coordenação, incluindo o próprio
+
+coordenador. O resultado dessa análise deverá ser submetida ao Colegiado do Curso, a quem caberá
+
+a aprovação da contagem das horas realizada pela comissão designada para este fim.
+
+\21. INTEGRALIZAÇÃO CURRICULAR
+
+21.1 – Quadro de componentes obrigatórios
+
+DISCIPLINAS DO
+
+1º PERÍODO CARGA HORÁRI A / CRÉDIT OS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Oficina de Texto 64h/a Comunicação
+
+em Língua Portuguesa
+
+Teórico-
+
+Prática
+
+Metodologia do
+
+Trabalho Científico
+
+64h/a Teórica
+
+Introdução ao Jornalismo 64h/a Teórica Filosofia 64h/a Teórica Sociologia 64h/a Teórica TOTAL 320h/a DISCIPLINAS DO
+
+2º PERÍODO CARGA HORÁRI A / CRÉDIT OS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Introdução às Práticas em
+
+Jornalismo
+
+64h/a Teórico-
+
+Prática Teorias da Comunicação I 64h/a Teórica Comunicação e Arte 64h/a Estética e Comunicaçã o
+
+Teórica
+
+Cultura Brasileira 64h/a Teórica Comunicação Visual 64h/a Teórica TOTAL 320h/a DISCIPLINAS DO
+
+3º PERÍODO CARGA HORÁRIA / CRÉDITOS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Teorias da Comunicação II 64h/a Teorias da Comunicação I
+
+Teórica
+
+Comunicação e Política 64h/a Teórica Radiojornalismo I 64h/a Introdução às
+
+Práticas em
+
+Jornalismo
+
+Teórico-
+
+Prática
+
+Fotografia 64h/a Teórico-
+
+Prática
+
+Jornalismo Impresso I 64h/a Introdução às
+
+Práticas em
+
+Jornalismo
+
+Teórico-
+
+Prática
+
+TOTAL 320h/a DISCIPLINAS DO
+
+4º PERÍODO CARGA HORÁRIA / CRÉDITOS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Radiojornalismo II 64h/a Radiojornalism
+
+o I
+
+Teórico-
+
+Prática Telejornalismo I 64h/a Introdução às
+
+Práticas
+
+em Jornalism o
+
+Teórico-
+
+Prática
+
+Jornalismo Impresso II 64h/a Jornalism
+
+o Impresso I
+
+Teórico-
+
+Prática
+
+Jornalismo Digital I 64h/a Cibercultura Introdução às
+
+Práticas em
+
+Jornalismo
+
+Teórico-
+
+Prática
+
+Fotojornalismo 64h/a Introdução às
+
+Práticas
+
+em Jornalism o
+
+Teórico-
+
+Prática
+
+TOTAL 320h/a DISCIPLINAS DO
+
+5º PERÍODO CARGA HORÁRIA / CRÉDITOS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Antropologia 64h/a Teórica Telejornalismo II 64h/a Telejornalismo I
+
+Teórico-
+
+Prática Design de Notícias 64h/a Comunicaçã
+
+o Visual
+
+Teórico-
+
+Prática Jornalismo Digital II 64h/a Jornalismo
+
+na Internet
+
+Jornalism
+
+o Digital I
+
+Teórico-
+
+Prática
+
+Assessoria de Imprensa 64h/a Comunicação
+
+e Política
+
+Teórico-
+
+Prática TOTAL 320h DISCIPLINAS DO
+
+6º PERÍODO CARGA HORÁRI A / CRÉDIT OS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Laboratório de Radiojornalism o
+
+128h/a Radiojornalism
+
+o II
+
+Prática
+
+Laboratório de Telejornalism o
+
+Telejornalism
+
+o II
+
+Prática
+
+Laboratório de
+
+Projetos Fotográficos
+
+Fotojornalismo Prática
+
+Laboratório de Jornalismo
+
+Digital
+
+Jornalism
+
+o Digital II
+
+Prática
+
+Laboratório de Jornalismo
+
+Impresso
+
+Jornalism o Impresso II
+
+Prática
+
+Laboratório de Assessoria
+
+de Imprensa
+
+Assessoria
+
+de Imprensa
+
+Prática
+
+Comunicação e Cultura
+
+Popular
+
+64h/a Teórica
+
+Ética na Comunicação 64h/a Introdução
+
+ao Jornalismo
+
+Teórica
+
+Pesquisa em Comunicação 64h/a Teorias da Comunicação II
+
+Teórica
+
+TOTAL 320h DISCIPLINAS DO
+
+7º PERÍODO CARGA HORÁRI A / CRÉDIT OS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Comunicação e Cidadania 64h/a Teórica
+
+Projeto de Trabalho de
+
+Conclusão de Curso
+
+64h/a Pesquisa em Comunicaçã o
+
+Teórica
+
+Estágio Supervisionado em
+
+Jornalismo
+
+200h/a
+
+Comunicação Integrada 64h/a Assessoria
+
+de Imprensa
+
+Teórico-
+
+Prática
+
+TOTAL 392h DISCIPLINAS DO
+
+8º PERÍODO CARGA HORÁRI A / CRÉDIT OS
+
+Equivalências Pré- Requisitos
+
+Caráter
+
+Trabalho de Conclusão de
+
+Curso
+
+180h/a Trabalho de
+
+Conclusão de Curso I
+
+Prática
+
+Estágio Supervisionado 200h/a Laboratório de
+
+Jornalismo
+
+Impresso
+
+Prática
+
+TOTAL 620h TOTAL DE HORAS
+
+OBRIGATÓRIAS
+
+2.932h
+
+21.2 - Equivalência entre componente curricular PPC (2023) e antigo PPC (2016)
+
+PPC (2023) Período PPC (2016) Período CSJ??? - Trabalho de Conclusão de Curso (180h)
+
+8º Trabalho de Conclusão de Curso (320h)
+
+8º
+
+21.3 – Quadro de componentes opcionais do Curso de Jornalismo DISCIPLINAS OPTATIVAS
+
+CRÉDIT
+
+OS
+
+CARGA HORÁRI A
+
+Equivalências Pré-Requisitos
+
+Semiótica 4 6 4 h
+
+Semiótica -
+
+Psicologia e Comunicação
+
+4 6 4 h
+
+Psicologia e Comunicação
+
+\-
+
+Comunicação e Cidades
+
+4 6 4 h
+
+Comunicação e Cidades
+
+\-
+
+Crônica, Observação e Cidade
+
+4 6 4 h
+
+Crônica, Observação e Cidade
+
+\-
+
+Jornalismo Cultural 4 6 4 h
+
+Jornalismo Cultural Introdução
+
+às Práticas em
+
+Jornalismo Oficina de Fotografia Documental
+
+4 6 4 h
+
+Oficina de Fotografia Documental
+
+Fotografia
+
+História do Jornalismo Brasileiro
+
+4 6 4 h
+
+História do Jornalismo Brasileiro
+
+Introdução
+
+ao Jornalismo Análise do Texto e do Discurso Jornalístico
+
+4 6 4 h
+
+Análise do Texto e do Discurso Jornalístico
+
+Introdução às Práticas
+
+em Jornalismo Jornalismo e Literatura 4 6 4 h
+
+Jornalismo e Literatura Introdução às Práticas
+
+em Jornalismo Jornalismo Econômico 4 6 4 h
+
+Jornalismo Econômico Introdução às
+
+Práticas
+
+em Jornalism o Jornalismo Esportivo 4 6 4 h
+
+Jornalismo Esportivo Introdução
+
+às Práticas em
+
+Jornalismo Cinema Brasileiro 4 6 4 h
+
+Cinema Brasileiro -
+
+Comunicação e Educação
+
+4 6 4 h
+
+Comunicação e Educação
+
+\-
+
+Língua Brasileira de Sinais – LIBRAS*
+
+4 6 4 h
+
+Língua Brasileira de Sinais – LIBRAS
+
+\-
+
+\*A disciplina Língua Brasileira de Sinais – LIBRAS compõe um componente curricular opcional (disciplina optativa livre) oferecido regularmente pelo IISCA. Os outros componentes opcionais livres dependem da oferta dos outros cursos da UFCA. Todos os outros componentes opcionais são oferecidos pelo curso de Jornalismo.
+
+20.4 – Quadro de componentes opcionais e respectivos professores responsáveis
+
+DISCIPLINAS OPTATIVAS
+
+CRÉDIT
+
+OS
+
+CARGA HORÁRIA
+
+PROFESSORES RESPONSÁVEIS
+
+Semiótica 4 64h Ricardo Rigaud Salmito Joubert Arrais
+
+Tiago Coutinho Parente Psicologia e Comunicação
+
+4 64h Ricardo Rigaud Salmito Francisco das Chagas Alexandre Nunes de Sousa Comunicação e Cidades
+
+4 64h Ricardo Rigaud Salmito Tiago Coutinho Parente Crônica, Observação e Cidade
+
+4 64h Ricardo Rigaud Salmito Tiago Coutinho Parente
+
+Jornalismo Cultural 4 64h Francisco das Chagas Alexandre Nunes de Sousa Edwin dos Santos Carvalho Oficina de Fotografia Documental
+
+4 64h Marcelo Eduardo Leite
+
+História do Jornalismo Brasileiro
+
+4 64h José Anderson Freire Sandes Edwin dos Santos Carvalho Luis Celestino de França Júnior Análise do Texto e do Discurso Jornalístico
+
+4 64h Edwin dos Santos Carvalho Diógenes D’Arce Cardoso de Luna
+
+Jornalismo e Literatura
+
+4 64h Tiago Coutinho Parente José Anderson Freire Sandes Luis Celestino de França Júnior Jornalism o Econômic o
+
+4 64h Edwin dos Santos Carvalho
+
+Jornalismo Esportivo 4 64h Luis Celestino de França Júnior Cinema Brasileiro 4 64h Francisco das Chagas Alexandre
+
+Nunes de Sousa Comunicação e Educação
+
+4 64h Rosane da Silva Nunes
+
+Língua Brasileira de Sinais – LIBRAS*
+
+4 64h Professor convidado – IISCA
+
+20.5 – ESTRUTURA CURRICULAR
+
+ESTRUTURACURRICULAR (2023.1)- BACHARELADO EM JORNALISMO
+
+A N O
+
+S E M
+
+CÓDIGO
+
+Componentes Curriculares
+
+Pré- Requisito
+
+Equivalências
+
+Créditos Carga Horária
+
+Total Teó Pr át Total Acumul
+
+1
+
+1
+
+CSJ0005 Filosofia Acumul. - - 4 - 64
+
+320
+
+CSJ0003 Introdução ao Jornalismo - - 4 - 64
+
+CSJ0002 Metodologia do Trabalho Científico - - 4 - 64
+
+CSJ0062
+
+Oficina de Texto
+
+\-
+
+Comunicação em Língua Portuguesa
+
+(CSJ0001)
+
+2 2 64
+
+CSJ0006 Sociologia - - 4 - 64
+
+Total do Semestre 1 20 320
+
+2
+
+CSJ0076
+
+Comunicação e Arte
+
+\-
+
+Estética e Comunicação
+
+de Massa (CSJ0010)
+
+4 -
+
+64
+
+640
+
+CSJ0077 Comunicação Visual - - 4 - 64
+
+CSJ0009 Cultura Brasileira - - 4 - 64
+
+CSJ0079 Introdução às Práticas em Jornalismo - - 2 2 64
+
+CSJ0011 Teorias da Comunicação I - - 4 - 64
+
+Total do Semestre 2 20 320
+
+2
+
+3
+
+CSJ0008 Fotografia CSJ0079 - 2 2 64
+
+960
+
+CSJ0020 Radiojornalismo I CSJ0079 - 2 2 64
+
+CSJ0014 Jornalismo Impresso I CSJ0079 - 2 2 64
+
+CSJ0017 Teorias da Comunicação II CSJ0011 - 4 - 64
+
+CSJ0013 Comunicação e Política - - 4 - 64
+
+Total do Semestre 3 20 320
+
+4
+
+CSJ0022 Fotojornalismo CSJ0008 - 2 2 64
+
+1280
+
+CSJ019 Jornalismo Impresso II CSJ0014 - 2 2 64
+
+CSJ0041 Radiojornalismo II CSJ0020 - 2 2 64
+
+CSJ0018 Telejornalismo I CSJ0079 - 4 - 64
+
+CSJ0090 Jornalismo Digital I CSJ0079 Cibercultura
+
+(CSJ0021) 4 - 64
+
+Total do Semestre 4 20 320
+
+5
+
+CSJ0091 Antropologia
+
+\-
+
+Antropologia e
+
+Comunicaçã
+
+(CSJ0034)
+
+4 - 64
+
+1600
+
+CSJ0048 Assessoria de Imprensa CSJ0013 - 2 2 64
+
+CSJ0043 Design de Notícia CSJ0077 - 2 2 64
+
+CSJ0094 Jornalismo Digital II CSJ0090 Jornalismo na Internet (CSJ0044) 2 2 64
+
+CSJ0042 Telejornalismo II CSJ0018 - 2 2 64 Total do Semestre 5 20 320
+
+3 6
+
+CSJ0049 Ética na Comunicação CSJ0003 - 4 - 64
+
+1920
+
+CSJ0052
+
+Laboratório de Jornalismo Impresso
+
+CSJ0019
+
+Laboratório de Jornalismo digital
+
+(CSJ0109)
+
+Laboratório de projetos fotográficos
+
+(CSJ0107)
+
+Laboratório de telejornalismo (CSJ
+
+0051) Laboratório de
+
+Assessoria de imprensa (CSJ
+
+0108) Laboratório de Radiojornalismo
+
+(CSJ0050)
+
+\-
+
+8
+
+128
+
+CSJ0099
+
+Pesquisa em Comunicação
+
+CSJ0002
+
+Pesquisa em
+
+Comunicação
+
+(CSJ0053)
+
+4 - 64
+
+CSJ0016 Comunicação e Cultura Popular CSJ0009 - 4 64
+
+Total do Semestre 6 20 320
+
+4
+
+7
+
+CSJ0054 Comunicação e Cidadania CSJ0049 - 4 - 64
+
+2112
+
+CSJ0045 Comunicação Integrada CSJ0048 - 2 2 64
+
+CSJ0121 Projeto de Trabalho de Conclusão de
+
+Curso CSJ0099 CSJ0102 4 64
+
+Total do Semestre 7 12 192
+
+8
+
+CSJ???? Trabalho de Conclusão de Curso CSJ0121 TCC (CSJ0056) - 11,25 180 2492
+
+CSJ0104
+
+Estágio Supervisionado CSJ0052
+
+ESTAGIO SUPERVISIONAD
+
+O (CSJ0055)
+
+\- 12,5 200
+
+Total do semestre 8 23,75 380
+
+TOTAL DE COMPONENTES CURRICULARES OBRIGATÓRIOS 2112
+
+EXTENSÃO (UNIDADE CURRICULAR DE EXTENSÃO) 330
+
+TOTAL DE COMPONENTES CURRICULARES OPTATIVOS (DISCIPLINAS OPTATIVAS E LIVRES) 320
+
+ATIVIDADES COMPLEMENTARES 150
+
+TOTAL DE COMPONENTES CURRICULARES (OBRIGATÓRIOS E OPTATIVOS) 3292
+
+FLUXOGRAMA DA ESTRUTURA CURRICULAR DO CURSO DE JORNALISMO
+
+1º período 2º período 3º período 4º período 5º período 6º período 7º período
+
+8º períod o Oficina de texto 64h
+
+Introdução às práticas em Jornalismo 64h
+
+Radiojornalis mo I 64h
+
+Radiojornalis mo II 64h
+
+Antropolo gia 64h
+
+Laboratório de Radiojornalis mo / Telejornalismo /Jornalis mo Impresso /Jornalismo na Internet / Projetos Fotográfic os / Assessoria de Imprensa 128h*
+
+Comunicaç ão Integrada 64h
+
+Trabalho de Conclus ão de Curso 180h
+
+Metodolog ia do Trabalho Científico 64h
+
+Teorias da Comunicação I 64h
+
+Teorias da Comunicação II 64h
+
+Telejornalism o I 64h
+
+Telejornalis mo II 64h
+
+Comunicação e Cultura Popular 64h
+
+Comunicaçã o e Cidadania 64h
+
+Optativa III 64h
+
+Introdução ao Jornalismo 64h
+
+Comunicaçã o e Arte 64h
+
+Jornalis mo Impresso I 64h
+
+Jornalis mo impresso II 64h
+
+Design de Notícias 64h
+
+Ética na comunicaçã o 64h
+
+Projeto de Trabalho de Conclusão de Curso 64h
+
+Optati va IV 64h
+
+Filoso fia 64h
+
+Cultura Brasilei ra 64h
+
+Comunicação e Política 64h
+
+Jornalis mo Digital I 64h1
+
+Jornalis mo Digital II 64h
+
+Pesquisa em Comunicaçã o 64h
+
+Optativ a I 64h
+
+Optativa V 64h
+
+Sociolog ia 64h
+
+Comunicaçã o Visual 64h
+
+Fotograf ia 64h
+
+Fotojornalis mo 64h
+
+Assessoria de Imprensa 64h
+
+Optativa II 64h
+
+Disciplina s Obrigatóri as
+
+2.112h
+
+Disciplinas Optativas
+
+192h
+
+Disciplinas Livres
+
+128h
+
+Estágio Supervisiona do
+
+200h
+
+Atividades complement a res
+
+150h
+
+Extensão (Unidade Curricular de Extensão)
+
+330h
+
+TCC 180
+
+TOTAL 3.392
+
+\*Em função de limitações no Sigaa, a estrutura curricular consta apenas a disciplina “Laboratório de Jornalismo Impresso” como obrigatória. Mas o(a) aluno(a) deverá optar entre uma das modalidades de Laboratório existentes, cadastradas como optativas, mas todas equivalentes ao Laboratório de Jornalismo Impresso.
+
+\22. REFERÊNCIAS NORMATIVAS
+
+\- Lei nº 13.005, de 25/06/2014, que aprova o Plano Nacional de Educação;
+
+\- Lei 12.722, de 28/12/2012, que dispõe sobre a estruturação do Plano de Carreiras e Cargos do
+
+Magistério Federal;
+
+\- Lei nº 10.861, de 14 de abril de 2004, que institui o Sistema Nacional de Avaliação da Educação
+
+Superior (SINAES);
+
+\- Lei de Diretrizes e Bases da Educação Nacional Nº 9.394/96 (LDB);
+
+\- Diretrizes Curriculares Nacionais do Curso de Graduação em Jornalismo (Resolução CNE/CES
+
+nº 1/2013, de 27/09/2013);
+
+\- Decreto Nº 83.284, de 13 de março DE 1979, que dispõe sobre o exercício da profissão de
+
+jornalista;
+
+\- Resolução CNE/CES nº 2, de 18 de junho de 2007, que dispõe sobre carga horária mínima e
+
+procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na
+
+modalidade presencial;
+
+\- Resolução CNE/CP nº 1, de 17 de junho de 2004, que institui as Diretrizes Curriculares Nacionais
+
+para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira
+
+e Africana;
+
+\- Resolução CNE/CP nº 1, de 30 de maio de 2012, que estabelece Diretrizes Nacionais para a
+
+Educação em Direitos Humanos;
+
+\- Resolução CNE/CP nº 2, de 15 de junho de 2012, que estabelece as Diretrizes Curriculares
+
+Nacionais para a Educação Ambiental;
+
+\- Decreto nº 5.626, de 22 de dezembro de 2005, que regulamenta a Lei nº 10.436, de 24 de abril de
+
+2002, que dispõe sobre a Língua Brasileira de Sinais –Libras, e o art. 18 da Lei nº 10.098, de 19 de
+
+dezembro de 2000;
+
+\- Art. 37 do estatuto da UFCA, Institui o Núcleo Docente Estruturante (NDE) no âmbito dos Cursos
+
+de Graduação da Universidade Federal do Cariri
+
+\- Resolução nº10/CONSUNI-UFC, de 24 de junho de 2009, que aprova a criação do curso de
+
+Graduação em Comunicação Social (Jornalismo) no Campus da UFC no Cariri.
+
+\- Resolução nº 51/2022, de 17 de dezembro de 2020. Estabelece normas visando a fortalecer o
+
+ensino de graduação e de pós-graduação, a pesquisa, a extensão e a cultura, ao fixar o regime de
+
+trabalho e carga horária dos professores do Magistério Superior da Universidade Federal do Cariri
+
+(UFCA).
+
+\- Resolução Nº 15/2014/CONSUP, de 23 de abril de 2014, que trata da Avaliação do Rendimento
+
+Escolar dos Cursos de Graduação da Universidade Federal do Cariri.
+
+\- Resolução Nº 25/2015/CONSUP, de 26 de agosto de 2015, que dispõe sobre as Atividades
+
+Complementares dos cursos de Graduação da Universidade Federal do Cariri.
+
+Serviço Público Federal
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI SISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E CONTRATOS
+
+PROCESSO 23507.004002/2023-77
+
+Cadastrado em 31/08/2023
+
+Processo disponível para recebimento com
+
+código de barras/QR Code
+
+Nome(s) do Interessado(s): E-mail: Identificador:
+
+COORDENAÇÃO DO CURSO DE JORNALISMO jornalismo.iisca@ufca.edu.br 111104
+
+JESSICA BARBOSA DE SOUSA jessica.barbosa@ufca.edu.br 3243754
+
+Tipo do Processo: CRIAÇÃO DE DISCIPLINA OPTATIVA
+
+Assunto Detalhado: SOLICITAÇÃO DE CRIAÇÃO DA DISCIPLINA OPTATIVA PROGRAMAÇÃO APLICADA A JORNALISMO DE DADOS DO CURSO DE JORNALISMO.
+
+Unidade de Origem: SEÇÃO DE APOIO ADMINISTRATIVO (11.11.27)
+
+Criado Por: JESSICA BARBOSA DE SOUSA
+
+Observação: ---
+
+MOVIMENTAÇÕES ASSOCIADAS
+
+Data Destino
+
+31/08/2023 COORDENADORIA DE ENSINO DE GRADUAÇÃO (11.07.07)
+
+Data Destino
+
+SIPAC | Diretoria de Tecnologia da Informação - --------- | Copyright © 2005-2023 - UFRN - sig02-prd-jne.ufca.edu.br.sig2
+
+Para visualizar este processo, entre no em e acesse a Consulta de Portal Público https://sipac.ufca.edu.br/public Processos.
+
+Visualizar no Portal Público
+
+UNIVERSIDADE FEDERAL DO CARIRI INSTITUTO INTERDISCIPLINAR DE SOCIEDADE, CULTURA E ARTES
+
+COORDENAÇÃO DO CURSO DE JORNALISMO
+
+ATA DA REUNIÃO ORDINÁRIA DO NÚCLEO DOCENTE ESTRUTURANTE (NDE) DO CURSO DE JORNALISMO DA UNIVERSIDADE FEDERAL DO CARIRI, REALIZADA EM 21/08/2023. Aos vinte e um dias do mês de agosto de dois mil vinte e três, às quinze horas e oito minutos, reuniram-se no laboratório de radiojornalismo, os(as) servidores(as) docentes Tiago Coutinho Parente, Coordenador do Curso e Presidente do NDE, Diógenes D’Arce Cardoso de Luna, Edwin dos Santos Carvalho, Francisco das Chagas Alexandre Nunes de Sousa e Ligia Coeli Silva Rodrigues. A servidora técnico-administrativa Jéssica Barbosa de Sousa. I. PAUTAS: 1.Equivalência de Jornalismo Impresso II na matriz curricular JOR01: aprovação da equivalência entre a disciplina CSJ0029 - Jornalismo Impresso II e a disciplina CSJ0019 - Jornalismo Impresso II; 2.Equivalências de disciplinas na matriz curricular 2010.1: aprovação, por unanimidade, das seguintes equivalências: a) CSJ0021 - Cibercultura equivale a CSJ0090 - Jornalismo Digital I; b) CSJ0044 - Jornalismo na Internet equivale a CSJ0094 - Jornalismo Digital II; c) CSJ0053 - Pesquisa em Comunicação equivale a CSJ0099 - Pesquisa em Comunicação; d) CSJ0055 - Estágio Supervisionado equivale a CSJ0104 - Estágio Supervisionado e e) CSJ0056 - Trabalho de Conclusão de Curso equivale tanto a CSJ0103 - Trabalho de Conclusão de Curso quanto a CSJ0127- Trabalho de Conclusão de Curso; 3. Criação de disciplina optativa: aprovada, por todos os presentes, a criação da disciplina Programação Aplicada ao Jornalismo de Dados. 4. Reformulação do PPC: a pauta foi adiada para a próxima reunião do NDE. Nada mais havendo a tratar, o professor Tiago Coutinho encerrou a reunião às dezesseis horas e três minutos. Eu, Jéssica Barbosa de Sousa, assistente em administração do Curso de Jornalismo do Instituto Interdisciplinar de Sociedade, Cultura e Artes, lavrei a presente ata que, após lida e aprovada, será assinada por mim e pelo presidente do NDE. Juazeiro do Norte-CE, 21 de agosto de 2023.
+
+__________________________________________
+
+Tiago Coutinho Parente Coordenador de curso e Presidente do NDE
+
+__________________________________________
+
+Jéssica Barbosa de Sousa Assistente em Administração
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI SISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E CONTRATOS
+
+FOLHA DE ASSINATURAS
+
+Emitido em 21/08/2023
+
+ATA Nº 5/2023 - SAA-JORNALISMO (11.11.27)
+
+NÃO PROTOCOLADO) (Nº do Protocolo:
+
+(Assinado digitalmente em 31/08/2023 14:07 )
+
+JESSICA BARBOSA DE SOUSA
+
+CHEFE DE SECAO - TITULAR
+
+SAA-JORNALISMO (11.11.27)
+
+Matrícula: 3243754
+
+Para verificar a autenticidade deste documento entre em informando seu https://sipac.ufca.edu.br/documentos/ número: , ano: , tipo: , data de emissão: e o código de verificação: 5 2023 ATA 31/08/2023 c359a0d750
+
+UNIVERSIDADE FEDERAL DO CARIRI INSTITUTO INTERDISCIPLINAR DE SOCIEDADE, CULTURA ARTES
+
+COORDENAÇÃO DO CURSO DE JORNALISMO
+
+ATA DA REUNIÃO ORDINÁRIA DO COLEGIADO DO CURSO DE JORNALISMO DA UNIVERSIDADE FEDERAL DO CARIRI, REALIZADA EM 15/05/2023. Aos quinze dias do mês de maio de dois mil vinte e três, às quatorze horas e vinte e três minutos, reuniram-se, no laboratório de radiojornalismo no campus da UFCA em Juazeiro do Norte, os(as) servidores(as) docentes Tiago Coutinho Parente, Coordenador do curso e Presidente do Colegiado, Amanda Teixeira da Silva, Diógenes D’Arce Cardoso de Luna, Elane Abreu de Oliveira, Francisco das Chagas Alexandre Nunes de Sousa, Ivan Satuf Rezende, Ligia Coeli Silva Rodrigues, Luan Matheus dos Santos Santana, Luis Celestino de França Júnior, Marcelo Eduardo Leite e Rodrigo Capistrano Camurça. Os servidores técnico-administrativos Jéssica Barbosa de Sousa e Paulo Anaximandro Tavares. Representando os discentes: Danilo Oliveira Pereira e João Vitor Silva. I. INFORMES: 1. O discente Danilo Oliveira informou que há demanda de alunos para abertura de turma de férias; 2. O professor Rodrigo Capistrano convidou todos a participarem do evento de lançamento de um filme que ocorrerá no dia 25 de maio; 3. O professor Luis Celestino informou que o evento da turma de Ética ocorrerá dia 17 de maio via Youtube; 4. O professor Tiago Coutinho informou que a DLA disponibilizou um ônibus para os alunos participarem do Intercom Nordeste; 5. Tiago Coutinho informou também que o lançamento da revista Memórias Kariri será realizado no dia 22 de maio às 19 horas. II. PAUTA(S): 1. Aprovação da ata anterior: o documento foi aprovado por unanimidade pelo Colegiado; 2. Novo Projeto Pedagógico do Curso: o presidente solicitou que o Colegiado apresentasse sugestões de melhorias no PPC e as sugestões recebidas serão analisadas na próxima reunião do NDE; 3. Atividades complementares: sobre o tema, deliberou-se que: a) Uma comissão ficará responsável por analisar os documentos pendentes no SIGAA e elaborar um formulário que instruirá os alunos no momento de cadastrar as atividades complementares; b) A comissão será formada pelas professoras Elane Abreu e Amanda Teixeira; 4. Prorrogação de afastamento do professor Joubert Arrais: o presidente iniciou a pauta expondo as motivações do professor Joubert e a legislação que permite a prorrogação do afastamento para pós-doutorado. Após realizar as mudanças necessárias na carga horária do semestre 2023.1, o Colegiado aprovou por unanimidade o pedido de prorrogação de afastamento do professor Joubert Arrais, no período de 14/08/2023 a 14/11/2023; 5. Demandas do IISCA: sobre o tema, decidiu-se que: a) O docente Diógenes D’Arce será coordenador de extensão do curso de jornalismo; b) A professora Ligia Coeli representará o curso no GT de estágio e TCC e c) Rodrigo Capistrano ficará responsável por discutir a demanda de novos cursos do IISCA; 6. Laboratório de práticas jornalísticas (E02): após deliberação do
+
+Colegiado decidiu-se que: a) No turno da manhã, o empréstimo do laboratório será exclusivo para disciplinas dos demais cursos da UFCA; b) A coordenação encaminhará Ofício autorizando alguns alunos do curso a retirarem a chave na portaria no turno da tarde, de forma a garantir o uso contínuo do laboratório; 7. Criação de nova disciplina: o Colegiado aprovou por unanimidade a criação da disciplina Programação Aplicada ao Jornalismo de Dados, incluindo como pré-requisito a disciplina Introdução às Práticas em Jornalismo. III ENCAMINHAMENTO(S): 1. A carga horária do semestre 2023.1 foi alterada, de forma que o professor Luan Matheus assumirá uma das turmas de Oficina de Texto, o professor Rodrigo Capistrano ministrará a disciplina Comunicação e Política e a professora Fernanda Cunha assumirá a turma de Teorias da Comunicação II; 2. A disciplina Cinema Brasileiro foi retirada da grade do próximo semestre. Nada mais havendo a tratar, o Presidente encerrou a reunião às dezessete horas e vinte minutos. Eu, Jéssica Barbosa de Sousa, assistente em administração do Curso de Jornalismo do Instituto Interdisciplinar de Sociedade, Cultura e Artes, lavrei a presente ata que, após lida e aprovada, será assinada por mim e pelo presidente do colegiado. Juazeiro do Norte-CE, 15 de maio de 2023.
+
+__________________________________________
+
+Tiago Coutinho Parente Coordenador do curso e Presidente do Colegiado
+
+__________________________________________
+
+Jéssica Barbosa de Sousa Assistente em Administração
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI SISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E CONTRATOS
+
+FOLHA DE ASSINATURAS
+
+Emitido em 15/05/2023
+
+ATA Nº 6/2023 - SAA-JORNALISMO (11.11.27)
+
+NÃO PROTOCOLADO) (Nº do Protocolo:
+
+(Assinado digitalmente em 31/08/2023 14:07 )
+
+JESSICA BARBOSA DE SOUSA
+
+CHEFE DE SECAO - TITULAR
+
+SAA-JORNALISMO (11.11.27)
+
+Matrícula: 3243754
+
+Para verificar a autenticidade deste documento entre em informando seu https://sipac.ufca.edu.br/documentos/ número: , ano: , tipo: , data de emissão: e o código de verificação: 6 2023 ATA 31/08/2023 96f03f0c16
+
+Unidade Acadêmica Responsável: Instituto Interdisciplinar de Sociedade, Cultura e Artes – IISCA
+
+Código (Se houver)
+
+Componente Curricular: Programação Aplicada ao Jornalismo de Dados
+
+1Tipo: Disciplina
+
+2Caráter: Optativa
+
+3Semestre de Oferta: 5
+
+4Modalidade de Oferta Presencial
+
+5Habilitação: 6Regime: Semestral
+
+Pré-Requisito: (CSJ0049) - Introdução às Práticas em Jornalismo
+
+Correquisito: -
+
+Equivalência: -
+
+Número de
+
+Créditos:
+
+04
+
+Carga Horária Total: 64 horas Teórica: 32 horas Prática: 32 horas EAD: Extensão7
+
+10 horas
+
+Objetivos: Capacitar o aluno a utilizar linguagens de programação para a investigação jornalística em bases de dados. Oferecer, ao estudante, conhecimento teórico e prático em programação, com ênfase em metodologia para o trabalho com o jornalismo de dados.
+
+Ementa: 1. Noções de informática básica, algoritmos e lógica de programação; 2. Linguagens de programação: conceitos e aplicações no Jornalismo; 3. Introdução à programação: dado, informação, processamento de dados, variáveis e estruturas de dados, operadores, estruturas condicionais e de repetição, funções e bibliotecas; 4. Bases de dados, Sistemas Gerenciadores de Bancos de Dados e linguagem Structured Querry Language (SQL); 5. Programação em linguagem Python e bibliotecas para manipulação de dados.
+
+Bibliografia Básica
+
+GRAY, Johnatan; BOUNEGRU, Liliana (Orgs.). Manual de jornalismo de dados. Rumo a uma prática crítica de dados (online). Disponível em: https://datajournalismcom.s3.eu-central- 1.amazonaws.com/handbooks/The-Data-Journalism-Handbook-2_PT.pdf. Acesso em: 09/12/22.
+
+HEUSER, Carlos Alberto. Projeto de banco de dados. Porto Alegre: Bookman, 2009.
+
+MCKINNER, Wes. Python para Análise de Dados. Tratamento de dados com Pandas, NumPy e IPython. São Paulo: Novatec, 2018.
+
+MENEZES, Nilo. Introdução à programação com Python. Algoritmo e lógica de programação para iniciantes. São Paulo, NOVATEC, 2014.
+
+Bibliografia Complementar
+
+Amorim, A. D., Brito, L. S., Dias, A. F., Duarte, A., França, J. B. S., Tardelli, A. V., Vivacqua, A. S. (2021). Técnicas e práticas de jornalismo de dados para aquisição e gerenciamento de dados em MySQL aplicadas ao domínio da violência contra a mulher. In: Minicursos da VII Escola Regional de Sistemas de Informação. Porto Alegre: Sociedade Brasileira de Computação.
+
+Costa, A. B. F., Cubas, M. G., Gehrke, M., Menegat, R. (2020). Fluxo do trabalho com dados: do zero à prática. São Paulo: Open Knowledge Brasil.
+
+MEYER, Phillip. Precision Journalism. A reporter’s introduction to social science methods. Rowman & Littlefield Publishers, New York, 2002.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI SISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E CONTRATOS
+
+FOLHA DE ASSINATURAS
+
+Emitido em 31/08/2023
+
+PROGRAMA DE DISCIPLINA Nº 1/2023 - SAA-JORNALISMO (11.11.27)
+
+NÃO PROTOCOLADO) (Nº do Protocolo:
+
+(Assinado digitalmente em 31/08/2023 14:07 )
+
+JESSICA BARBOSA DE SOUSA
+
+CHEFE DE SECAO - TITULAR
+
+SAA-JORNALISMO (11.11.27)
+
+Matrícula: 3243754
+
+Para verificar a autenticidade deste documento entre em informando seu https://sipac.ufca.edu.br/documentos/ número: , ano: , tipo: , data de emissão: e o código de 1 2023 PROGRAMA DE DISCIPLINA 31/08/2023 verificação: b356cf1aaf
+
+Unidade Acadêmica Responsável: Instituto Interdisciplinar de Sociedade, Cultura e Artes – IISCA
+
+Código (Se houver)
+
+Componente Curricular: Programação Aplicada ao Jornalismo de Dados
+
+1Tipo: Disciplina
+
+2Caráter: Optativa
+
+3Semestre de Oferta: 5
+
+4Modalidade de Oferta Presencial
+
+5Habilitação: 6Regime: Semestral
+
+Pré-Requisito: (CSJ0079) - Introdução às Práticas em Jornalismo
+
+Correquisito: -
+
+Equivalência: -
+
+Número de
+
+Créditos:
+
+04
+
+Carga Horária Total: 64 horas Teórica: 27 horas Prática: 27 horas EAD: Extensão7
+
+10 horas
+
+Objetivos: Capacitar o aluno a utilizar linguagens de programação para a investigação jornalística em bases de dados. Oferecer, ao estudante, conhecimento teórico e prático em programação, com ênfase em metodologia para o trabalho com o jornalismo de dados.
+
+Ementa: 1. Noções de informática básica, algoritmos e lógica de programação; 2. Linguagens de programação: conceitos e aplicações no Jornalismo; 3. Introdução à programação: dado, informação, processamento de dados, variáveis e estruturas de dados, operadores, estruturas condicionais e de repetição, funções e bibliotecas; 4. Bases de dados, Sistemas Gerenciadores de Bancos de Dados e linguagem Structured Querry Language (SQL); 5. Programação em linguagem Python e bibliotecas para manipulação de dados.
+
+Bibliografia Básica (Sugere-se a inclusão de pelo menos 3 títulos. Priorizar bibliografia existente nas bibliotecas da UFCA, pois facilita o acesso do discente ao material e evita prejuízo na avaliação do curso pelo MEC).
+
+GRAY, Johnatan; BOUNEGRU, Liliana (Orgs.). Manual de jornalismo de dados. Rumo a uma prática crítica de dados (online). Disponível em: https://datajournalismcom.s3.eu-central- 1.amazonaws.com/handbooks/The-Data-Journalism-Handbook-2_PT.pdf. Acesso em: 09/12/22.
+
+HEUSER, Carlos Alberto. Projeto de banco de dados. Porto Alegre: Bookman, 2009.
+
+MCKINNER, Wes. Python para Análise de Dados. Tratamento de dados com Pandas, NumPy e IPython. São Paulo: Novatec, 2018.
+
+MENEZES, Nilo. Introdução à programação com Python. Algoritmo e lógica de programação para iniciantes. São Paulo, NOVATEC, 2014.
+
+Bibliografia Complementar (Sugere-se a inclusão de pelo menos 05 títulos – de acordo com instrumento de avaliação de Curso de Graduação, INEP/agosto-2015 ou legislação posterior). Priorizar a bibliografia existente nas bibliotecas da UFCA, pois facilita o acesso do discente ao material e evita prejuízo na avaliação do curso pelo MEC).
+
+Amorim, A. D., Brito, L. S., Dias, A. F., Duarte, A., França, J. B. S., Tardelli, A. V., Vivacqua, A. S. (2021). Técnicas e práticas de jornalismo de dados para aquisição e gerenciamento de dados em
+
+MySQL aplicadas ao domínio da violência contra a mulher. In: Minicursos da VII Escola Regional de Sistemas de Informação. Porto Alegre: Sociedade Brasileira de Computação.
+
+Costa, A. B. F., Cubas, M. G., Gehrke, M., Menegat, R. (2020). Fluxo do trabalho com dados: do zero à prática. São Paulo: Open Knowledge Brasil.
+
+MEYER, Phillip. Precision Journalism. A reporter’s introduction to social science methods. Rowman & Littlefield Publishers, New York, 2002.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO CARIRI SISTEMA INTEGRADO DE PATRIMÔNIO, ADMINISTRAÇÃO E CONTRATOS
+
+FOLHA DE ASSINATURAS
+
+Emitido em 22/09/2023
+
+PROGRAMA DE DISCIPLINA Nº 1/2023 - CEG (11.07.07)
+
+NÃO PROTOCOLADO) (Nº do Protocolo:
+
+(Assinado digitalmente em 25/09/2023 09:24 )
+
+ERIVAN CANDIDO FLOR ASSISTENTE EM ADMINISTRACAO
+
+DIRC (11.07.09) Matrícula: 1880126
+
+Para verificar a autenticidade deste documento entre em informando seu https://sipac.ufca.edu.br/documentos/ número: , ano: , tipo: , data de emissão: e o código de 1 2023 PROGRAMA DE DISCIPLINA 25/09/2023 verificação: 5f6fe4f487
