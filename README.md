@@ -14,7 +14,7 @@ md/    versão em Markdown do mesmo texto, para leitura e indexação mais fáce
 
 ## Cobertura
 
-75 documentos, entre PPCs completos e alguns anexos específicos de disciplina (identificados no próprio nome do arquivo). Os documentos foram coletados a partir das páginas públicas de cada instituição.
+55 cursos de Jornalismo, todos vigentes e efetivamente analisados na pesquisa. Os documentos foram coletados a partir das páginas públicas de cada instituição.
 
 **Observações sobre o conjunto:**
 
@@ -22,7 +22,7 @@ md/    versão em Markdown do mesmo texto, para leitura e indexação mais fáce
 - `UEMG-MG-2022` foi renomeado para `UEMG-MG-DIVINOPOLIS-2022` — o curso é oferecido pela UEMG em três unidades (Divinópolis, Frutal e Passos), cada uma com PPC próprio, agora todas incluídas.
 - `UNEMAT-MT-2021` foi renomeado para `UNEMAT-MT-RONDONOPOLIS-2021`, para diferenciar da turma de Tangará da Serra (`UNEMAT-MT-2021-TANGARAS`).
 - `UFSM-RS-2022` e `UFSM-RS-2023` contêm o mesmo documento, catalogado sob os dois anos de referência.
-- `UFRRJ-RJ-2017`, `UFRRJ-RJ-2017-PDI` e `UFRRJ-RJ-2024` são versões/documentos distintos do mesmo curso, mantidos separadamente por representarem estágios diferentes do PPC.
+- Este acervo mantém só a versão vigente e efetivamente analisada de cada curso: PPCs antigos (substituídos por uma versão mais recente), anexos de disciplina isolada e documentos ainda não incorporados à análise não entram aqui — ficam apenas no arquivo de trabalho local.
 - Da UFPB, mantém-se apenas `UFPB-PB-2016` (versão vigente do PPC); a versão `UFPB-PB-2010`, superada, foi removida.
 - Os nomes dos arquivos seguem a mesma grafia usada na planilha pública de classificação de disciplinas (`Análise das Disciplinas`), incluindo `UESPI-PI-PICOS-2024` e `UNIFESSPA-PA-2026`.
 - Os PDFs escaneados (sem camada de texto nativa) foram processados por OCR; nesses casos, `txt/` e `md/` podem conter ruídos de reconhecimento típicos do processo.
