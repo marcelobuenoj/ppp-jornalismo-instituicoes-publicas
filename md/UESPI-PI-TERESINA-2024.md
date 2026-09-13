@@ -1,0 +1,93 @@
+https://sigaa.uespi.br/sigaa/public/curso/curriculo.jsf
+
+Optativas
+| CCECAJORNALISM46 - ANALISE DE DISCURSO - 60h            |           | Optativa  |     |
+| ------------------------------------------------------- | --------- | --------- | --- |
+| CCECAJORNALISM47 - ESPANHOL INSTRUMENTAL - 60h          |           | Optativa  |     |
+| CCECAJORNALISM48 - JORNALISMO AMBIENTAL - 60h Optativa  |           |           |     |
+| CCECAJORNALISM49 - JORNALISMO DE DADOS - 60h Optativa   |           |           |     |
+| CCECAJORNALISM50 - LIBRAS - 60h                         | Optativa  |           |     |
+| CCECAJORNALISM51 - CULTURA CONTEMPORÂNEA - 60h          |           | Optativa  |     |
+| CCECAJORNALISM52 - EDUCOMUNICAÇÃO - 60h                 |           | Optativa  |     |
+CCECAJORNALISM53 - ESTATÍSTICA APLICADA AO JORNALISMO - 60h  Optativa
+
+| CCECAJORNALISM54 - GÊNEROS JORNALÍSTICOS - 60h  |     | Optativa  |     |
+| ----------------------------------------------- | --- | --------- | --- |
+| CCECAJORNALISM55 - JORNALISMO ESPORTIVO - 60h   |     | Optativa  |     |
+| CCECAJORNALISM56 - JORNALISMO POLÍTICO - 60h    |     | Optativa  |     |
+CCECAJORNALISM57 - ORIENTAÇÃO À DOCÊNCIA EM JORNALISMO - 60h  Optativa
+
+| CCECAJORNALISM58 - SEMIÓTICA - 60h Optativa  |     |     |     |
+| -------------------------------------------- | --- | --- | --- |
+CCECAJORNALISM59 - COMUNICAÇÃO AUDIOVISUAL - 60h  Optativa
+| CCECAJORNALISM60 - JORNALISMO LITERÁRIO - 60h Optativa  |     |           |     |
+| ------------------------------------------------------- | --- | --------- | --- |
+| CCECAJORNALISM61 - JORNALISMO CIENTÍFICO - 60h          |     | Optativa  |     |
+Carga Horária Total: 960h
+
+1º Nível
+| CCECAJORNALISM01 - OFICINA DE TEXTO - 90h  |     | Obrigatória  |     |
+| ------------------------------------------ | --- | ------------ | --- |
+CCECAJORNALISM02 - INTRODUÇÃO À COMUNICAÇÃO E AO JORNALISMO - 60h
+Obrigatória
+CCECAJORNALISM03 - MÉTODOS E TÉCNICAS DE PESQUISA EM JORNALISMO - 60h
+  Obrigatória
+CCECAJORNALISM04 - SOCIOLOGIA DO JORNALISMO - 60h  Obrigatória
+CCECAJORNALISM05 - FUNDAMENTOS DA FILOSOFIA - 60h  Obrigatória
+Carga Horária Total: 330h
+
+2º Nível
+CCECAJORNALISM07 - HISTÓRIA DO JORNALISMO - 60h  Obrigatória
+CCECAJORNALISM08 - ÉTICA, DEONTOLOGIA E LEGISLAÇÃO EM JORNALISMO - 60h
+  Obrigatória
+CCECAJORNALISM10 - TEORIA DA COMUNICAÇÃO I - 60h  Obrigatória
+CCECAJORNALISM11 - TEXTO E APURAÇÃO JORNALÍSTICA - 90h  Obrigatória
+CCECAJORNALISM12 - FOTOGRAFIA E FOTOJORNALISMO - 90h  Obrigatória
+Carga Horária Total: 360h
+
+3º Nível
+CCECAJORNALISM13 - PSICOLOGIA APLICADA À COMUNICAÇÃO - 60h Obrigatória
+CCECAJORNALISM14 - DESIGN JORNALÍSTICO - 75h Obrigatória
+CCECAJORNALISM15 - REDAÇÃO PRODUÇÃO, EDIÇÃO PARA MÍDIAS IMPRESSAS -
+90h Obrigatória
+CCECAJORNALISM16 - JORNALISMO DIGITAL: MULTIFORMA E MULTIMEIOS - 90h
+Obrigatória
+CCECAJORNALISM18 - TEORIAS DA COMUNICAÇÃO II - 60h Obrigatória
+Carga Horária Total: 375h
+4º Nível
+CCECAJORNALISM19 - JORNALISMO, ANTROPOLOGIA E SOCIEDADE - 60h Obrigatória
+CCECAJORNALISM20 - TEORIAS DO JORNALISMO - 60h Obrigatória
+CCECAJORNALISM21 - ECONOMIA POLÍTICA DA COMUNICAÇÃO - 60h Obrigatória
+CCECAJORNALISM22 - MÍDIAS SONORAS E JORNALISMO - 60h Obrigatória
+CCECAJORNALISM23 - JORNALISMO PARA TELAS - 60h Obrigatória
+Carga Horária Total: 300h
+5º Nível
+CCECAJORNALISM25 - JORNALISMO MULTIPLATAFORMAS - 75h Obrigatória
+CCECAJORNALISM26 - GESTÃO E EMPREENDEDORISMO EM JORNALISMO - 60h
+Obrigatória
+CCECAJORNALISM27 - ASSESSORIA DE COMUNICAÇÃO INTEGRADA - 90h Obrigatória
+CCECAJORNALISM28 - POLÍTICAS PÚBLICAS E DESENVOLVIMENTO DO SEMIÁRIDO
+- 60h Obrigatória
+CCECAJORNALISM29 - CRÍTICA DA MÍDIA - 60h Obrigatória
+Carga Horária Total: 345h
+6º Nível
+CCECAJORNALISM31 - TÓPICOS AVANÇADOS: PRÁTICAS LABORATORIAIS EM
+JORNALISMO - 120h Obrigatória
+CCECAJORNALISM32 - JORNALISMO COMUNITÁRIO - 90h Obrigatória
+CCECAJORNALISM34 - TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO I -
+90h Obrigatória
+Carga Horária Total: 300h
+7º Nível
+CCECAJORNALISM36 - TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO II -
+90h Obrigatória
+CCECAJORNALISM37 - FUNDAMENTOS DE RELAÇÕES PÚBLICAS - 90h Obrigatória
+CCECAJORNALISM39 - TÓPICOS ESPECIAIS EM JORNALISMO - 60h Obrigatória
+
+CCECAJORNALISM40 - DIÁLOGOS COM O MERCADO DE TRABALHO - 60h Obrigatória
+Carga Horária Total: 300h
+8º Nível
+CCECAJORNALISM42 - TRABALHO DE CONCLUSÃO DE CURSO EM JORNALISMO III -
+120h Obrigatória
+CCECAJORNALISM43 - ESTÁGIO SUPERVISIONADO EM JORNALISMO - 200h
+Obrigatória
+Carga Horária Total: 320h

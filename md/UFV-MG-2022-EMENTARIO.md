@@ -1,0 +1,439 @@
+UFV - UNIVERSIDADE FEDERAL DE VIÇOSA
+
+CCH - CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES
+
+DCM - DEPARTAMENTO DE COMUNICAÇÃO SOCIAL
+
+ANEXO II
+
+EMENTÁRIO DAS DISCIPLINAS DO
+
+DEPARTAMENTO DE COMUNICAÇÃO SOCIAL
+
+COM 100 – TEORIAS DA COMUNICAÇÃO
+Introdução às teorias da comunicação: os paradigmas. A perspectiva informacional da comunicação nos Es-
+
+tados Unidos. Interfaces entre comunicação, tecnologia e cultura: entre abordagens informacionais e relacionais.
+
+COM 102 – INTRODUÇÃO AO CURSO DE COMUNICAÇÃO SOCIAL - JORNALISMO
+O curso de Comunicação Social - Jornalismo da UFV: sujeitos, áreas e atividades. Oficinas de produção
+
+textual. O potencial de práticas e projetos de extensão na UFV. Princípios básicos do campo do Jornalismo: papel
+
+social, desafios e perspectivas contemporâneas.
+
+COM 103 – COMUNICAÇÃO E EXPERIÊNCIA (OPTATIVA)
+A relação entre comunicação e experiência. Experiência, acontecimento, reverberações. Textualidades: a
+
+experiência comunicacional com o texto e as prescrições relacionais do dispositivo.
+
+COM 110 – COMUNICAÇÃO E CULTURA
+Comunicação e cultura. História e teoria da imagem. Estudos visuais. Formas de ver. Cultura midiática.
+
+COM 190 – METODOLOGIA DA PESQUISA EM COMUNICAÇÃO
+Universidade e Ciência. Noções gerais sobre o campo da comunicação no Brasil. Diferenças da Pesquisa
+
+Quantitativa e Qualitativa. Fundamentos e Técnicas da Pesquisa Qualitativa. Tipos de níveis de pesquisa. Noções
+de Objeto de Estudo. Hipóteses, questões e formulação do problema de pesquisa. Métodos mais utilizados no
+
+campo da Comunicação. Estrutura do artigo científico. Etapas de um Projeto de Pesquisa e de uma Monografia.
+
+Pesquisa e Organização. Tipos e Formas de Análise. Práticas assistidas via orientações à produção de fichamen-
+
+tos, revisões de literatura, exercícios de redação científica, de identificação de problemática, de construção de
+
+justificativas, objetivos, cronogramas, referenciais teórico e metodológico da proposta da pesquisa. Seminário de
+
+Apresentação das Propostas de Pesquisa em Comunicação.
+
+COM 211 - NARRATIVAS JORNALÍSTICAS I
+Categorias comunicacionais e estudo de gêneros jornalísticos. Planejamento, pesquisa e redação de pauta.
+
+Estudo e classificação de fontes. Conceitos básicos, dinâmicas e formatos de entrevista jornalística. Práticas de
+
+produção, edição e publicação de entrevistas. Seminário de apresentação de pesquisas.
+
+8
+
+COM 212 - NARRATIVAS JORNALÍSTICAS II
+Definição de Notícia no jornalismo comercial e público; Pauta e Apuração da Reportagem em profundida-
+
+de; O Objeto Noticioso; Lead, Pirâmides e Titulação; Editorias no Jornalismo; Gêneros no Jornalismo; Jornalis-
+
+mo de Revista e Especializado; Diferenças do Jornalismo Popular e Referencial; Manual de Redação Jornalística;
+
+Aspectos sobre as Teorias do Jornalismo. Oficinas de Redação de Notas Jornalísticas. Planejamento da Produção
+
+da Pauta, Apuração, Pesquisa, Redação e Edição de Reportagem para uma Revista em flash, em PDF, impressa ou
+
+online. Seminário de Apresentação das Reportagens.
+
+COM 232 – LABORATÓRIO DE IMAGEM E PRODUÇÃO GRÁFICA
+Comunicação Visual: Fundamentos, conceitos e bases técnicas. Proposta visual no Jornalismo. Projeto Grá-
+
+fico e edição gráfica. Recursos Gráficos e Possibilidades de linguagem. Introdução à prática da produção gráfica.
+
+COM 260 – FOTOJORNALISMO
+A disciplina contém na ementa obrigatória conteúdos que percorrem a evolução da fotografia enquanto
+
+linguagem, arte e técnica na etapa inicial do curso. Além das discussões teóricas sobre movimentos fotográficos
+
+e fotojornalísticos no Brasil e no Mundo, pretende-se tratar questões técnicas da linguagem visual, como técni-
+
+cas de controle do equipamento e composição da imagem. Outros tópicos abordam a imagem produzida pela
+
+câmera enquanto recurso informativo, com aplicação direta aos fenômenos comunicacionais e jornalísticos; e as
+
+possibilidades criativas de uso da convergência midiática para produção de sentido ficcional e factual. Os alunos
+
+serão apresentados às técnicas digitais de edição e manipulação de imagens através da perspectiva do sujeito e da
+
+estética da imagem, além de se inteirarem do Journalism Mobile. Por fim, os estudantes vão produzir fotos para o
+
+Foto-jornal impresso e para as redes sociais, além de organizarem um evento com a participação de profissionais
+
+e pesquisadores.
+
+COM 261 – FOTOGRAFIA (OPTATIVA)
+Fotografia, história e percursos. Técnica, composição e linguagem fotográficas. A imagem. O ficcional e o
+
+factual na fotografia. Fotografia e convergência de mídias.
+
+COM 270 – COMUNICAÇÃO E CULTURA DIGITAL
+Princípios da comunicação em rede e da cultura digital. Cultura da participação. Plataformização e algorit-
+
+mos. Sociabilidade online. Ferramentas digitais para produção de conteúdo online.
+
+COM 271 – ARTE E COMUNICAÇÃO
+História da Arte. Cultura visual. Meios de Comunicação.
+
+COM 280 – TEORIAS DO JORNALISMO (OPTATIVA)
+As principais abordagens teóricas dos estudos de jornalismo e da notícia. A estrutura do campo jornalístico e
+
+o fazer jornalístico. Jornalismo e articulações com suas temáticas fundamentais. Jornalismo, Realidade e Sociedade.
+
+9
+
+COM 281 – ÉTICA EM JORNALISMO (OPTATIVA)
+Fundamentos da moral e da ética normativa. Estudo de causas, da essência, alcance ou fim das normas le-
+
+gais. Ética na comunicação da informação e do jornalismo.
+
+COM 290 – COMUNICAÇÃO E ORGANIZAÇÕES
+Comunicação e organizações pelo paradigma relacional. Perspectivas dos estudos em comunicação e orga-
+
+nizações. Discurso, identidade e diálogo nos contextos organizacionais. O planejamento da comunicação orga-
+
+nizacional.
+
+COM 295 – EMPREENDEDORISMO E COMUNICAÇÃO (OPTATIVA)
+Aspectos Gerais sobre empreendedorismo e aprendizagem baseada em problemas. Aspectos sobre empre-
+
+endedorismo social e comunicação. Contato com empreendedores sociais locais para identificação de problemas,
+
+levantamento e análise; Proposição de ações, intervenções e/ou transformações inovadoras para empreendedores
+
+sociais locais.
+
+COM 296 – COMUNICAÇÃO E EMOÇÕES (OPTATIVA)
+Perspectivas teóricas sobre emoções nas ciências humanas. Emoções e relações de poder. A mídia e as emo-
+
+ções. Estudos de caso.
+
+COM 297 – MÍDIA E NARRATIVAS DE VIDA (OPTATIVA)
+Definições e estudos sobre narrativas de vida. Narrativas de vida como percursos de reconfiguração de si.
+
+Espaço biográfico. A narrativa de vida como estratégia discursiva. Regimes de visibilidade midiática das narrati-
+
+vas de vida. Narrativa de vida e memória.
+
+COM 340 – LABORATÓRIO DE RADIOJORNALISMO
+Linguagem e características do rádio. Técnicas de locução e apresentação. Gêneros e Formatos radiofônicos.
+
+A notícia no rádio. Planejamento, roteiro, edição e criação de programas e peças na mídia radiofônica. As rotinas
+
+de produção. O radiojornalismo no cenário da convergência de mídias. Visita técnica à emissora de rádio.
+
+COM 350 – JORNALISMO ESPORTIVO (OPTATIVA)
+O Esporte e o Futebol como Fatos Sociais; Discussões Contemporâneas sobre Esporte e Futebol; Conceito
+
+de Acontecimento Jornalístico dos Fatos Esportivos; Cobertura Jornalística, Fato Jornalístico Esportivo e a Edi-
+
+toria de Esportes; O uso dos Gêneros Jornalísticos para cobrir esportes e Diferentes linguagens; Planejamento da
+
+Produção, Apuração, Redação e Edição de Notas, Matérias factuais e Reportagens para o Projeto “Na Área” (Rádio
+
+Universitária FM) ou similar.
+
+COM 351 – JORNALISMO CULTURAL (OPTATIVA)
+Conceitos no campo da Comunicação sobre Memória e Cultura das Mídias, breve histórico do Jornalismo
+
+Cultural no Brasil. Prática do jornalismo cultural. Aprofundamento de alguns eixos temáticos: Literatura, Ar-
+
+10
+
+tes visuais, Teatro, Cinema e Música. Novos universos: TV, games, gastronomia e moda. Dicotomias principais
+
+do Jornalismo Cultural. Artigos científicos e trabalhos de congresso sobre jornalismo cultural. Planejamento da
+
+produção, apuração, redação e edição: divulgação, reportagens e análises críticas sobre fatos culturais da cidade.
+
+Suporte técnico às redes sociais da disciplina ou de projeto.
+
+COM 352 – JORNALISMO AMBIENTAL (OPTATIVA)
+História e Desenvolvimento Social. Conceitos e funções gerais. Paradigmas. Teorias associadas. Comunica-
+
+ção e meio ambiente urbano e rural. Características e Temáticas atuais.
+
+COM 353 – NARRATIVAS JORNALÍSTICAS III
+Identidade e fronteiras entre Jornalismo e Literatura. Gêneros litero-jornalísticos. Técnicas e métodos de
+
+apuração e redação para livro-reportagem. Produção, redação e edição de produtos. Viagem de campo/excursão
+
+investigativa.
+
+COM 362 – COMUNICAÇÃO ESTRATÉGICA E MARKETING EM CONTEXTOS DIGITAIS
+Comunicação,  organizações  e  estratégia.  Modelos  referenciais  de  comunicação.  Marcas  e  construção  de
+
+sentido  e  de  valor.  Posicionamentos  institucionais.  Dinâmicas  de  interfaces  e  interação  em  contextos  digitais.
+
+Comunicação estratégica e marketing em contextos digitais.
+
+COM 365 – JORNALISMO ONLINE
+Jornalismo online: definições, desenvolvimento e características. Formatos do jornalismo online. Práticas e
+
+processos jornalísticos para a internet. Produção de conteúdo para jornalismo online.
+
+COM 382 – LABORATÓRIO DE ASSESSORIA DE COMUNICAÇÃO E IMPRENSA
+Estudo das diretrizes gerais do Assessoramento em Comunicação Social, seus conceitos e variações. Análi-
+
+ses das técnicas e atividades comunicacionais de ligação entre entidades, indivíduos, instituições ou produtos e o
+
+público. Produtos e serviços das assessorias de imprensa. A administração de informação em prol da construção,
+
+manutenção ou reposicionamentos de imagem. Processos de gestão de identidade. Utilização de resultados de
+pesquisas de mercado de avaliação da satisfação e aceitação de produtos e serviços ou imagens públicas, como
+
+ferramenta  de  divulgação  em  mídia  espontânea.  A  Comunicação  empresarial  e  o  endomarketing.  Jornalismo
+
+empresarial.
+
+COM 385 - LABORATÓRIO DE TELEJORNALISMO
+História da televisão e do telejornalismo no Brasil. Técnicas de produção, redação e edição para jornalismo
+
+televisivo. Os gêneros telejornalísticos. A linguagem audiovisual. O telejornalismo no cenário de convergência e
+
+de inovações tecnológicas. Criação de produtos jornalísticos para TV e/ou web. Visita técnica à emissora de TV.
+
+11
+
+COM 390 – TRABALHO DE CONCLUSÃO DE CURSO I
+Diretrizes metodológicas para a elaboração do projeto de TCC. A escolha do/a professor/a orientador/a e
+
+do tema. Elaboração da justificativa. Definição dos objetivos. Construção da problemática. Procedimentos meto-
+
+dológicos. Construção do referencial teórico.
+
+COM 394 - LABORATÓRIO DE JORNALISMO CONVERGENTE
+Noções de convergência. Convergência midiática e convergência jornalística. Tecnologias digitais e tendên-
+
+cias do jornalismo. Narrativa transmídia e distribuição multiplataforma. Desenvolvimento de produto de jorna-
+
+lismo convergente.
+
+COM 400 – COMUNICAÇÃO COMUNITÁRIA
+A Comunicação Comunitária e a cidadania no contexto social. Planejamento e execução de projetos de
+
+extensão. Desenvolvimento e operacionalização de atividades extensionistas com comunidades, movimentos so-
+
+ciais, coletivos, Ongs e outras configurações populares a partir do interesse dos agentes sociais em relação aos
+
+recursos de comunicação.
+
+COM 401 – COMUNICAÇÃO E PODER
+Perspectivas teóricas sobre mídia e poder no campo comunicacional. O poder como relação: verdade, sujei-
+
+to e racionalidade governamental. Transformações históricas do poder. Formas de resistência ao poder.
+
+COM 408 – COMUNICAÇÃO E DISCURSO
+As relações entre a Comunicação e as Ciências da Linguagem. Conceituação de discurso e da análise do
+
+discurso. Discurso Midiático: produção, organização e circulação de sentido. As identidades e as representações
+
+projetadas pelo discurso das mídias. O discurso midiático e os elementos retóricos.
+
+COM 456 – PROJETOS EM COMUNICAÇÃO E JORNALISMO
+Nesta disciplina, o/a estudante deverá ser capaz de buscar soluções para as situações problemas apresenta-
+
+dos, refletir sobre os temas trabalhados e desenvolver habilidades de autonomia e trabalho em grupo nas diversas
+áreas do jornalismo. Poderão ser desenvolvidos projetos conceituais, projetos básicos ou projetos executivos a
+
+depender da demanda e proposta da turma e dos professores envolvidos. A disciplina contará com a participação
+
+de pelo menos dois/duas professores/as do Departamento de Comunicação Social e tem como característica o uso
+
+da metodologia projetos e demais estratégias metodológicas que favoreçam a aprendizagem ativa.
+
+COM 464 – FICÇÃO EM RÁDIO
+O cenário radiofônico - característica, linguagem, produção de texto para rádio. As potencialidades da mí-
+
+dia radiofônica na construção do cenário imaginário. A criatividade e adaptação no processo produtivo de peças
+ficcionais. O entretenimento e a prestação de serviço por meio da ficção em rádio. A Radionovela: o entreteni-
+
+mento no cenário ficcional.
+
+12
+
+COM 465 – APRESENTAÇÃO E INTERPRETAÇÃO EM RÁDIO E TV
+A oralidade e suas matrizes históricas. A emoção de estar no ar. Especificidades das mídias radiofônica e
+
+televisiva. O roteiro e a interpretação.
+
+COM 470 – PROJETO DE EXTENSÃO I
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM 471 – PROJETO DE EXTENSÃO II
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM 472 – PROJETO DE EXTENSÃO III
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM 473 – PROJETO DE EXTENSÃO IV
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM 474 – PROJETO DE EXTENSÃO V
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM 475 – PROJETO DE EXTENSÃO VI
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM476 – PROJETO DE EXTENSÃO VII
+Esta  disciplina  organiza-se  pelo  uso  da  metodologia  projetos  com  temática  variável.  Caracteriza-se  pela
+
+busca de soluções para as situações problema apresentadas, reflexão sobre os temas trabalhados e desenvolvimen-
+
+to de habilidades de autonomia e trabalho em grupo nas diversas áreas do jornalismo.
+
+COM477 – PROJETO DE EXTENSÃO VIII
+Esta disciplina visa promover atividades de extensão relacionadas à área de Comunicação Social de forma a
+
+propiciar o intercâmbio entre os saberes acadêmico e popular.
+
+COM480 – TÓPICOS ESPECIAIS I
+Disciplina sobre temas de atualização, de conteúdo variável, escolhido a cada oferecimento para cobrir áreas
+
+13
+
+da comunicação não atendidas pelas disciplinas regulares do curso. O programa poderá incluir aulas teóricas e/ou
+
+atividades práticas, e deverá ser, obrigatoriamente, analisado pela Comissão Coordenadora do curso de Comuni-
+
+cação Social/Jornalismo, e aprovado pelo Colegiado do Departamento.
+
+COM 481 – TÓPICOS ESPECIAIS II
+Disciplina sobre temas de atualização, de conteúdo variável, escolhido a cada oferecimento para cobrir áreas
+
+da comunicação não atendidas pelas disciplinas regulares do curso. O programa poderá incluir aulas teóricas e/ou
+
+atividades práticas, e deverá ser, obrigatoriamente, analisado pela Comissão Coordenadora do curso de Comuni-
+
+cação Social/Jornalismo, e aprovado pelo Colegiado do Departamento.
+
+COM 482 – TÓPICOS ESPECIAIS III
+Disciplina sobre temas de atualização, de conteúdo variável, escolhido a cada oferecimento para cobrir áreas
+
+da comunicação não atendidas pelas disciplinas regulares do curso. O programa poderá incluir aulas teóricas e/ou
+
+atividades práticas, e deverá ser, obrigatoriamente, analisado pela Comissão Coordenadora do curso de Comuni-
+
+cação Social/Jornalismo, e aprovado pelo Colegiado do Departamento.
+
+COM 483 – TÓPICOS ESPECIAIS IV
+Disciplina sobre temas de atualização, de conteúdo variável, escolhido a cada oferecimento para cobrir áreas
+
+da comunicação não atendidas pelas disciplinas regulares do curso. O programa poderá incluir aulas teóricas e/ou
+
+atividades práticas, e deverá ser, obrigatoriamente, analisado pela Comissão Coordenadora do curso de Comuni-
+
+cação Social/Jornalismo, e aprovado pelo Colegiado do Departamento.
+
+COM 485 – ATIVIDADES DE EXTENSÃO
+Creditação de Atividades de Extensão.
+
+COM 486 – ATIVIDADES COMPLEMENTARES
+Aproveitamento de experiências pré-profissional que apresentem relação com os conteúdos ministrados re-
+
+alizadas ao longo do Curso, dando oportunidade aos alunos de vivenciar problemas e conhecimentos adquiridos
+nas disciplinas, ampliando, assim, sua formação profissional em uma ou mais áreas de trabalho.
+
+COM 487 – ESTÁGIO SUPERVISIONADO
+Esta disciplina visa dar ao/à estudante experiência pré-profissional, colocando-o/a em contato com a reali-
+
+dade de sua área de atividade, proporcionando-lhe oportunidade de vivenciar problemas e aplicar, em empresas
+
+públicas ou privadas, conhecimentos adquiridos, ampliando, assim, sua formação profissional em uma ou mais
+
+áreas de trabalho.
+
+COM 488 – CINEMA (OPTATIVA)
+Introdução aos estudos em Cinema. Aspectos do Cinema Contemporâneo. Processos e funções de produ-
+
+ção cinematográfica. Discussão e interpretação de filmografias e de movimentos cinematográficos.
+
+14
+
+COM 490 – TRABALHO DE CONCLUSÃO DE CURSO II
+A disciplina consiste na elaboração do trabalho final de conclusão do Curso de Comunicação Social – Jor-
+
+nalismo.
+
+COM 492 – JORNALISMO CIENTÍFICO (OPTATIVA)
+Divulgação  e  jornalismo  científico.  A  ética  no  jornalismo  científico.  Linguagem  leiga  e  especializada.  O
+
+discurso narrativo do jornalismo. Pautas e fontes. Práticas de apuração, edição e disseminação. Temas contem-
+
+porâneos em ciência e tecnologia.
+
+COM 493 – ARTES PLÁSTICAS E VISUAIS NO BRASIL (OPTATIVA)
+Arte rupestre e arte indígena. Arte europeia no Brasil. O Barroco. O Neoclássico. O Romantismo. O Moder-
+
+no e o Contemporâneo.
+
+COM 494 – TEMAS DE ARTE CONTEMPORÂNEA (OPTATIVA)
+Introdução: pintura, escultura e arquitetura. Arte Contemporânea: conceitos. Impressionismo. Vanguardas
+
+e Movimentos. Meios de Comunicação e Arte. Crítica de Arte.
+
+COM 495 – ARTE CONTEMPORÁNEO EM LATINOAMÉRICA (OPTATIVA)
+Producción artística contemporánea en América Latina desde el siglo XX hasta la actualidad.
+
+COM 496 – MUSEUS E COLEÇÕES DE ARTE (OPTATIVA)
+Museus de arte. Coleções de arte moderna e contemporânea.
+
+DISCIPLINA EM EXTINÇÃO (PROCESSO JÁ ABERTO)
+
+COM 360 - LABORATÓRIO DE JORNALISMO IMPRESSO
+Estudo, planejamento e produção de veículos jornalísticos impressos. Manual de estilo. Linha Editorial. Pú-
+blico-alvo. Projeto gráfico. Difusão de produtos jornalísticos. Produção e Edição de jornal impresso. Projeto Ou-
+
+trOlhar. Visitas Técnicas. Digitação e convergência de mídias. A linguagem da ‘novas’ e ‘velhas’ mídias em termos
+
+de convergência. Convergência e produção jornalística: possibilidades e desafios. Planejamento e/ou execução de
+
+projeto convergente.
+
+15
+
+

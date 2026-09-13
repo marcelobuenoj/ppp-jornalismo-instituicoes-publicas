@@ -1,0 +1,5781 @@
+UNIVERSIDADE FEDERAL DO SUL DA BAHIA
+
+CENTRO DE FORMAÇÃO EM ARTES E
+
+COMUNICAÇÃO (CFAC)
+
+PROJETO PEDAGÓGICO DO CURSO (PPC)
+
+BACHARELADO EM JORNALISMO
+
+Porto Seguro
+
+2023
+
+Reitora da UFSB Joana Angélica Guimarães da Luz
+
+Pró-Reitor de Gestão Acadêmica Francesco Lanciotti Jr.
+
+CENTRO DE FORMAÇÃO EM ARTES E COMUNICAÇÃO - CFAC
+
+Decano do Centro de Formação em Artes e Comunicação Bernard Pego Belisário
+
+Coordenação do Curso Bacharelado em Jornalismo Joana Brandão Tavares – Coordenadora Spensy Kmitta Pimentel - Vice-Coordenador
+
+Colegiado do Curso (2023)
+
+Joana Brandão Tavares Spensy Kmitta Pimentel Célia Regina da Silva Celso Francisco Gayoso Alemar Silva Araújo Rena Rafael Nunes da Silva (discente) Thauane Viana Souza (discente)
+
+Núcleo Docente Estruturante do Curso (2023)
+
+Celso Francisco Gayoso Spensy Kmitta Pimentel Joana Brandão Tavares Ariane de Souza Stolfi Célia Regina da Silva
+
+2
+
+Equipe de Atualização do PPC
+
+Celso Francisco Gayoso (coordenador da equipe) Graduação em Com. Social/Jornalismo (UFMT); Especialização em Gestão Cultural Contemporânea (Itaú Cultural/Inst. Singularidades), Mestrado em Estudos de Linguagem (UFMT); Doutorado em Comunicação e Cultura (UFRJ). Professor Adjunto da UFSB.
+
+Spensy Kmitta Pimentel (coordenador do colegiado) Graduação em Com. Social/Jornalismo (ECA-USP), Mestrado e Doutorado em Antropologia Social (USP). Professor Adjunto da UFSB
+
+Joana Brandão Tavares (vice-coordenadora do colegiado) Graduação em Com. Social/Jornalismo (UFBA), Mestrado em Jornalismo (UFSC), Doutorado em Est. Interdisciplinares sobre Mulheres, Gênero e Feminismo (UFBA). Professora Adjunta da UFSB.
+
+Célia Regina da Silva Graduação em Com. Social/Jornalismo (ECO/UFRJ); Mestrado em Ciências Sociais (UERJ); Doutorado em Comunicação Social (UMESP). Professora Adjunta da UFSB.
+
+Ariane de Souza Stolfi Graduação e Mestrado em Arquitetura e Urbanismo (FAU/USP); Doutorado em Música (ECA/USP). Professora Adjunta da UFSB.
+
+Colaboração
+
+Alemar Silva Araújo Rena
+
+Graduação em Letras (UFMG); Mestrado em Teoria da Literatura (UFMG); Doutorado em Estudos Literários (UFMG). Professor Adjunto da UFSB.
+
+.
+
+Felipe Soares de Moraes
+
+Graduação no Bacharelado Interdisciplinar em Humanidades (UFSB). Estudante do Bacharelado em Jornalismo da UFSB.
+
+Rafael Andrés Patiño Orozco
+
+Graduação em Psicologia (Univ. de Antioquia – Colômbia); Mestrado em Psicologia (Universidad de San Buenaventura - Colômbia); Doutorado em Psicologia (UFBA). Professor adjunto da UFSB.
+
+Lívia Fernanda Morales
+
+Graduação em Estudos Literários e Licenciatura em Espanhol (UFPR); Mestrado em Educação (UFPR). Professora assistente da Unila.
+
+Outros integrantes e colaboradores da equipe responsável pela versão original do PPC
+
+Hamilton Richard Alexandrino Ferreira dos Santos (coordenador), Bernard Pego Belisário, Sergio Barbosa de Cerqueda (parecerista), Jenner da Cruz de Souza, Pedro Andrade, Anne Greice Soares Ribeiro Macedo, Cristiane da Silveira Lima, Rodrigo Barreto, Silvia La Regina
+
+3
+
+SUMÁRIO
+
+\1. DADOS DA INSTITUIÇÃO 2
+
+\2. IDENTIFICAÇÃO DO CURSO 2
+
+\3. BASES LEGAIS DO PROJETO PEDAGÓGICO DO CURSO (PPC) 3
+
+\4. APRESENTAÇÃO 5
+
+\5. JUSTIFICATIVA DE OFERTA DO CURSO 8
+
+\6. POLÍTICAS INSTITUCIONAIS NO ÂMBITO DO CURSO 14
+
+6.1 Políticas de acesso ao curso e de mobilidade acadêmica 15
+
+6.2 Políticas de ensino 18
+
+6.3 Políticas de pesquisa 21
+
+6.4 Políticas de extensão 21
+
+6.5. Políticas de atendimento ao/à estudante 21
+
+6.6 Políticas de internacionalização 23
+
+\7. OBJETIVOS DO CURSO 23
+
+7.1 Objetivo geral 23
+
+7.2 Objetivos específicos 24
+
+\8. PERFIL DO/A EGRESSO/A 24
+
+\9. PROPOSTA PEDAGÓGICA 26
+
+\10. ARQUITETURA CURRICULAR 32
+
+10.1 Formação geral 32
+
+10.2 Matriz curricular 33
+
+10.3 Representação gráfica de um perfil de formação 54
+
+\11. PLANO DE TRANSIÇÃO 55
+
+\12. PROCEDIMENTOS DE AVALIAÇÃO DE ENSINO E APRENDIZAGEM 56
+
+\13. PROCEDIMENTOS DE AVALIAÇÃO DO PROJETO PEDAGÓGICO DE CURSO 58
+
+\14. GESTÃO DO CURSO 59
+
+14.1 Coordenação do colegiado do curso 59
+
+14.2 Colegiado do curso 59
+
+14.3 Núcleo Docente Estruturante (NDE) 60
+
+14.4 Coordenação de extensão 60
+
+\15. INFRAESTRUTURA 61
+
+\16. CATÁLOGO DE EMENTAS DOS COMPONENTES CURRICULARES 63
+
+\17. REFERÊNCIAS 136
+
+ANEXOS 136
+
+4
+
+\1. DADOS DA INSTITUIÇÃO
+
+IES: Universidade Federal do Sul da Bahia Sigla: UFSB CNPJ: 18.560.547/000107 Categoria Administrativa: Pública Federal Organização Acadêmica: Universidade Lei de Criação: Lei 12.818, de 05 de junho de 2013 Endereço do sítio: http://www.ufsb.edu.br
+
+Para operação institucional da oferta diversificada dos cursos em Regime de Ciclos, a estrutura institucional da UFSB compreende três esferas de organização, respeitando a ampla cobertura regional da instituição, com a seguinte distribuição de unidades acadêmicas:
+
+UNIDADES ACADÊMICAS
+
+Campus Jorge Amado – Itabuna Instituto Jorge Amado de Humanidades, Artes e Ciências (IHAC) Centro de Formação em Políticas Públicas e Tecnologias Sociais (CFPPTS) Centro de Formação em Tecno-ciências e Inovação (CFCTI) Centro de Formação em Ciências Agroflorestais (CFCAf)
+
+Rede CUNI Litoral Sul [Coaraci, Ibicaraí, Ilhéus e Itabuna]
+
+Endereço: Rod. Ilhéus-Vitória da Conquista, BR 415, km 39, Itabuna, BA, CEP: 45600-00
+
+Campus Sosígenes Costa – Porto Seguro Instituto Sosígenes Costa de Humanidades, Artes e Ciências (IHAC) Centro de Formação em Artes e Comunicação (CFAC) Centro de Formação em Ciências Humanas e Sociais (CFCHS) Centro de Formação em Ciências Ambientais (CFCAm)
+
+Rede CUNI Costa do Descobrimento [Porto Seguro, Eunápolis e Santa Cruz Cabrália]
+
+Endereço: Rodovia Porto Seguro-Eunápolis, BR 367, km 10, Porto Seguro, BA, CEP: 45810-000
+
+Campus Paulo Freire – Teixeira de Freitas Instituto Paulo Freire de Humanidades, Artes e Ciências (IHAC) Centro de Formação em Saúde (CFS) Centro de Formacão em Desenvolvimento Territorial (CFDT) Rede CUNI Extremo Sul [Teixeira de Freitas, Itamaraju e Posto da Mata]
+
+Endereço: Pça. Joana Angélica, 250, Bairro São José, Teixeira de Freitas, BA, CEP: 45996-115
+
+\2. IDENTIFICAÇÃO DO CURSO Curso: Jornalismo Diplomação: Bacharelado em Jornalismo Carga horária total do curso: 3.170 horas (Art 10. Resolução Nº1, 27/09/2013)
+
+2
+
+Tempo mínimo e máximo para integralização: 8 Semestres (mínimo) e 12 semestres (máximo) Estágio obrigatório: 210 horas de carga horária. Parágrafo único do artigo 10º da Resolução 1/2013 do CNE/CES Carga horária de extensão: 320 horas. Resoluções 13 e 14/2021/UFSB Turno de oferta: Noturno Número de vagas anuais: 40 Campus de oferta: CSC/Porto Seguro
+
+\3. BASES LEGAIS DO PROJETO PEDAGÓGICO DO CURSO (PPC)
+
+A oferta do Bacharelado em Jornalismo responde ao previsto na Lei nº 9.394, de 20 de dezembro de 1996, ao determinar que:
+
+“Art. 53. No exercício de sua autonomia, são asseguradas às universidades, sem prejuízo de outras, as seguintes atribuições:
+
+I – Criar, organizar e extinguir, em sua sede, cursos e programas de educação superior previstos nesta Lei, obedecendo às normas gerais da União e, quando for o caso, do respectivo sistema de ensino;
+
+II – Fixar os currículos dos seus cursos e programas, observadas as diretrizes gerais pertinentes”.
+
+O presente PPC responde assim ao previsto na Resolução nº 04/2017 da UFSB que dispõe sobre os procedimentos para a criação de cursos no âmbito da Universidade. Dentro desta perspectiva, o Decanato do Centro de Formação em Artes publicou ainda a Portaria Nº 013/2018 – Nomear comissão de elaboração de PPC do Curso de Jornalismo do Centro de Formação em Artes e Comunicação (CFAC).
+
+A proposição do curso Jornalismo do CFAC considera, para fins das diferentes possibilidades de integralização curricular, as orientações e apontamentos presentes nos documentos normativos que regem as informações constantes no projeto pedagógico e completam-se com a seguinte legislação:
+
+Lei n° 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos.
+
+Lei no. 9.795, de 27 de abril de 1999. Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências.
+
+Lei n° 10.098 de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
+
+Lei n° 10.639, de 9 de janeiro de 2003. Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos.
+
+3
+
+Lei n° 11.645, de 10 de março de 2008. Altera a Lei no 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos.
+
+Lei no 11.788, de 25 de setembro de 2008. Dispõe sobre o estágio de estudantes.
+
+Lei no 12.711, de 29 de agosto de 2012. Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências.
+
+Lei n° 12.764, de 27 de dezembro de 2012. Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos. Altera o § 3o do art. 98 da Lei no 8.112, de 11 de dezembro de 1990.
+
+Lei n. 13.005, de 25 de junho de 2014, que aprova o Plano Nacional de Educação (PNE) 2014-2024 e dá outras providências.
+
+Decreto n. 4.281, de 25 de junho de 2002. Regulamenta a Lei no 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências.
+
+Decreto nº 5.622. Regulamenta o art. 80 da Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos.
+
+Decreto n° 5.626, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais – Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000. Presidência da República. Casa Civil. Subchefia para Assuntos Jurídicos.
+
+Portaria Normativa n° 40, de 12 de dezembro de 2007. Institui o e-MEC, sistema eletrônico de fluxo de trabalho e gerenciamento de informações relativas aos processos de regulação, avaliação e supervisão da educação superior no sistema federal de educação, e o Cadastro e-MEC de Instituições e Cursos Superiores e consolida disposições sobre indicadores de qualidade, banco de avaliadores (Basis) e o Exame Nacional de Desempenho de Estudantes (ENADE) e outras disposições. Ministério da Educação. Gabinete do Ministro.
+
+Resolução n° 1, de 17 de junho de 2004. Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Ministério da Educação. Conselho Nacional de Educação. Conselho Pleno.
+
+Resolução n° 2, de 18 de junho de 2007. Dispõe sobre carga horária mínima e procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Superior.
+
+Resolução n° 1, de 17 de junho de 2010. Normatiza o Núcleo Docente Estruturante e dá outras providências. Comissão Nacional de Avaliação da Educação Superior.
+
+4
+
+Resolução n° 1, de 30 de maio de 2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. Ministério da Educação. Conselho Nacional de Educação. Conselho Pleno.
+
+Resolução nº 1, de 27 de setembro de 2013. Institui as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo, bacharelado, e dá outras providências. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Superior.
+
+Resolução n. 7, de 18 de dezembro de 2018, do Conselho Nacional de Educação (CNE), que estabelece diretrizes para a Extensão na Educação Superior Brasileira.
+
+Parecer CNE/CP n° 003, de 10 mar. 2004. Ministério da Educação. Conselho Nacional de Educação. Conselho Pleno.
+
+Parecer CNE/CES n° 266, de 5 jul. 2011. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Superior.
+
+Parecer 39/2013 da Câmara de Ensino Superior do Conselho Nacional de Educação de 27 de setembro de 2013. Diretrizes Curriculares Nacionais para o Curso de Graduação de Jornalismo.
+
+Referenciais Orientadores para os Bacharelados Interdisciplinares e Similares. 2010. Ministério da Educação. Secretaria da Educação Superior.
+
+Resolução nº 13/2021 Dispõe sobre a curricularização das atividades de extensão nos cursos de graduação da Universidade Federal do Sul da Bahia.
+
+Lei nº 13.005, de 25 de junho de 2014. Aprova o Plano Nacional de Educação – PNE e dá outras providências.
+
+Resolução CNE/CES Nº 7/2018, publicada no Diário Oficial da União, Brasília,19 de dezembro de 2018, Seção1, pp. 49 e 50. Estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Estratégia 12.7 da Meta 12 da Lei nº 13.005/2014.
+
+Política Nacional de Extensão Universitária. Gráfica da UFRGS. Porto Alegre, RS, 2012 (Coleção Extensão Universitária; v. 7.
+
+\4. APRESENTAÇÃO
+
+A primeira versão do PPC do BJ/UFSB foi desenvolvida entre 2018 e 2019, no âmbito do processo de implantação dos cursos de 2º ciclo e dos centros de formação - em nosso caso, o Centro de Formação em Artes e Comunicação, sediado no Campus Sosígenes Costa, em Porto Seguro (BA).
+
+O projeto anterior já incorporava diversas preocupações que permaneceram na nova versão, ora apresentada, como a busca por uma integração dentro do sistema de ciclos da UFSB e a harmonização com os cursos interdisciplinares de 1º ciclo, combinada com a reflexão sobre as vertentes de atuação profissional mais identificadas com o perfil de nossa região - o Sul e Extremo Sul da Bahia. Foi a partir desse fundamento que se definiram as ênfases do BJ em Jornalismo Cultural, Jornalismo Científico e Comunicação Comunitária.
+
+5
+
+O então CFA, posteriormente denominado CFAC, justamente em função da criação do Bacharelado em Jornalismo, iniciou a construção do BJ em julho de 2018, com a publicação de portaria 013/2018 de criação da Comissão de Elaboração de PPC do Curso, em conformidade com a decisão prévia da Congregação do Centro de Formação em Artes tomada em abril daquele mesmo ano. Sob a coordenação do Prof. Richard Santos e após o investimento de centenas de horas de trabalho de uma equipe de 9 docentes, um TA e um estudante (representantes das respectivas categorias), pelo menos 4 dos/das quais se dedicando numa frequência de várias horas por semana ao projeto de curso, acumulando essa criação às atividades de docência e pesquisa, o PPC do curso foi o primeiro a ser apresentado à Pró-reitoria de Gestão Acadêmica (Progeac) e à reitoria, sem haver indicação destas partes de desacordo institucional com a proposta em construção.
+
+Em 05 de novembro de 2018 o PPC do curso foi apreciado favoravelmente em reunião de Congregação do CFA, a partir do detalhado e minucioso parecer do prof. Sérgio Cerqueda. Muitas outras horas foram investidas na melhoria do projeto a fim de se adequar às dezenas de correções e complementações solicitadas pelo parecerista.
+
+Ainda no ano de 2018, a pedido da Progeac, o CFA fez contato com o diretor da Faculdade de Comunicação da Universidade de Brasília, Fernando Paulino, que teceu parecer sobre o PPC proposto. O documento foi entregue por ele à UFSB em 29 de março de 2019, com conclusão favorável e mais algumas correções e melhorias a serem realizadas pela equipe. As correções foram revistas e solucionadas pela comissão de criação do curso e reenviado à Progeac.
+
+Em 15 de abril de 2019 recebemos parecer técnico adicional da Progeac, igualmente favorável à aprovação do PPC, e com demais solicitações de adequações, para além das que originalmente indicou o prof. Fernando Paulino, as quais a Comissão de PPC do curso mais uma vez se empenhou em realizar com o máximo de cuidado e agilidade.
+
+Ainda naquele mês, isto é, em abril de 2019, o Decanato do CFA enviou, em processo de número 23746.007709/2018-57, o PPC definitivo para a Progeac para que a mesma pudesse submetê-lo ao Consuni para apreciação.
+
+No dia 19/08/2020 o Conselho Universitário da Universidade Federal do Sul da Bahia (Consuni) aprovou o PPC do curso de jornalismo apresentado por meio do decanato do CFA. Com a publicação em 27/08/2020 da portaria 022/2020 instituindo a coordenação pró-tempore do referido curso, tem-se início os trabalhos para a estruturação administrativo-pedagógica do novo curso e oferta de entradas no terceiro quadrimestre desse ano letivo, 2020.3.
+
+O Colegiado pró-tempore composto pelos professores doutores Richard Santos, Bernard Belisário, Spensy Pimentel e Alemar Rena, teve como coordenadores o prof. Richard Santos e Spensy Pimentel como Vice-coordenador.
+
+A aprovação do curso foi considerada um grande passo para a consolidação da UFSB no território e na relação com as demandas da comunidade, que, em pesquisa de interesse pelo curso de Jornalismo levada a cabo pelo CFAC, a pedido da Progeac, com 422 participantes, de dentro e de fora da UFSB, demonstrou uma taxa total de interesse no curso de 72% dos consultados, além de aprovação de sua criação de 97%.
+
+Consideramos que uma inovação importante no PPC do curso de Jornalismo do CFAC foi o fato de que estudantes de quaisquer grandes áreas de primeiro ciclo de formação podem se candidatar a uma vaga no curso, já que este prevê possibilidade de aproveitamento semelhante em todas as áreas de primeiro ciclo (saúde, ciências, artes, humanidades e linguagens).
+
+6
+
+Em 2022, o BJ já havia aprovado, junto à Progeac, uma versão do PPC com pequenas alterações. Basicamente, essa versão buscou realizar pequenos ajustes em alguns dos componentes do eixo de Prática Laboratorial, em função de dificuldades operacionais que vinham sendo observadas nos períodos de matrícula.
+
+Esta nova versão do PPC do BJ foi construída entre 2022 e 2023 por parte de seu Núcleo Docente Estruturante (NDE). A exigência para a construção desta nova versão provém, sobretudo, de uma série de alterações promovidas pela gestão da UFSB, durante o chamado processo de “reestruturação”, iniciado em 2020. A reestruturação envolveu: 1) a mudança dos Bacharelados Interdisciplinares, dos Institutos de Humanidades, Artes e Ciências (IHACs) para os Centros de Formação; 2) uma revisão da chamada Formação Geral, que passou a ser obrigatória para todos os cursos de graduação da UFSB, sejam de 1º ou de 2º ciclo, inicialmente com 420 horas e, mais recentemente, com o mínimo de 300 horas; 3) a mudança do regime letivo na UFSB, que deixou de ser quadrimestral para tornar-se semestral a partir de 2024, envolvendo ainda a redução da hora-aula padrão na universidade, de 60 para 50 minutos - com impacto considerável para os cursos noturnos, como o BJ.
+
+Além da promoção da “reestruturação”, a UFSB também buscou, nos últimos anos, regulamentar a aplicação das Diretrizes para a Extensão no Ensino Superior Brasileiro - resolução do CNE/CES de 18/12/2018. Assim, estabeleceu-se que, em maio de 2023, todos os cursos de graduação da UFSB apresentariam novas versões de seus PPCs incorporando as mudanças listadas acima.
+
+Assim, a maior parte das mudanças verificadas nesta nova versão está associada a esses tópicos. As cargas horárias de diversos CCs foram alteradas com o objetivo de harmonizar as possibilidades de conclusão do curso no tempo previsto por este PPC. Assim, mesmo com a adoção do regime letivo semestral pela UFSB, um estudante que provenha, via edital de migração, de um dos quaisquer cursos de 1º ciclo poderá concluir o BJ em cinco semestres - o que fará de forma ainda mais efetiva se seguir as indicações para cursar alguns dos CCs próprios do 1º ano do BJ como optativos ao longo de seu percurso de 1º ciclo (3 CCs, num total de 165h).
+
+No caso do Estágio Supervisionado, há, ainda, mudanças que se devem a ajustes operacionais - como se trata de uma atividade individualizada, dadas as particularidades estabelecidas pelas DCNs do curso, deixamos de considerar o estágio como um conjunto de Componentes Curriculares, transformando-o em uma sequência de duas Atividades Orientadas. De forma semelhante, o TCC também consistirá de duas atividades orientadas.
+
+Ainda, um novo Componente Curricular novos foi introduzido a fim de potencializar a integração do curso com os bacharelados interdisciplinares ao longo do 1º ano de curso (Introdução ao Jornalismo). Os CCs de Extensão, optativos, também são indicados para o 1º ano a fim de potencializar essa integração. Da mesma forma, como dito acima, passamos a contar com a Formação Geral no 1º ano, incluindo-se alguns CCs propostos pelo próprio NDE e Colegiado de Jornalismo – aproveitando nova resolução da UFSB (02/2023) que facultou aos cursos de graduação proporem novos CCs da FG mais adequados a seus perfis. Outro eixo de integração com os cursos de 1º ciclo do CFAC é a adoção destacada de componentes associados à história e cultura indígenas e afrodescendentes no eixo de Formação Humanística.
+
+Na área de design gráfico e mídias digitais, ainda, reestruturamos a oferta, criando novos CCs que incorporam os antigos Processos Gráficos em Jornalismo e Laboratório de Jornalismo: Web, direcionando o processo de aprendizagem para incluir temas como design digital, infografia e história e teoria das mídias digitais, além de edição e tratamento da
+
+7
+
+imagem digital.
+
+\5. JUSTIFICATIVA
+
+Este Projeto Pedagógico de Curso (PPC), em sua essência, é o instrumento que define as diretrizes básicas de organização, estruturação e funcionamento do curso de Jornalismo do Centro de Formação em Artes e Comunicação) da UFSB, integradas ao Plano Orientador e à Carta de Fundação da Universidade Federal do Sul da Bahia e obedecendo às regulamentações da área de Jornalismo definidas pelo Ministério da Educação. Outra finalidade deste PPC é definir uma identidade para o curso, a partir de sua matriz curricular e de sua linha de atuação integrada nos eixos de ensino, pesquisa e extensão.
+
+Além de trazer um histórico do curso e as justificativas para a implementação da graduação em Jornalismo, este PPC informa sobre suas bases legais, objetivos, perfil do egresso, competências e habilidades esperadas do graduando, matriz curricular, formas de avaliação do curso e da avaliação do ensino e aprendizagem, bem como oferece dados sobre a infraestrutura do curso. Além disso, ele regulamenta o funcionamento do curso, tanto em termos de matriz curricular, como de atividades laboratoriais referentes aos componentes curriculares de caráter prático. Este PPC também define o funcionamento das Atividades Complementares e do Estágio Supervisionado, assim como as regras do Trabalho de Conclusão do Curso (TCC). Evidencia-se aqui, ainda, a preocupação com a formação centrada em um ensino de qualidade e o investimento permanente em projetos integrados de pesquisa e extensão.
+
+Este projeto apresenta grande importância diante da carência de profissionais da área da Comunicação no extremo sul baiano, e é um passo significativo na busca da consolidação da Universidade Federal do Sul da Bahia como uma instituição formadora de profissionais em áreas-chave para o desenvolvimento local e regional, com participação efetiva na vida das comunidades onde está inserida. A implantação do Curso de Jornalismo no campus Sosígenes Costa é concebida a partir de três eixos norteadores: a) sintonia do projeto acadêmico com as DCNs para a área de Jornalismo; b) foco na prática, visando promover a formação de profissionais capacitados e atualizados no domínio da técnica jornalística, contemplando as atuais discussões presentes no meio acadêmico, social e no campo de trabalho do jornalista; c) contribuição na transformação da realidade local e regional, colaborando significativamente com o seu desenvolvimento.
+
+Nesse sentido, coadunando com as linhas fundamentais de atuação da UFSB, o Centro de Formação em Artes e Comunicação, proponente deste PPC, tem buscado envolver o seu corpo discente e docente na construção de uma nova concepção de formação profissional, onde a/o estudante, enquanto sujeito da aprendizagem, torna-se o referencial do planejamento curricular e da ação pedagógica.
+
+Deste modo, ao ampliar as possibilidades de percurso formativo dos discentes, aumenta-se também o leque de opções tecnológicas disponíveis para sua atuação junto à comunidade acadêmica e a sociedade. As novas tecnologias digitais exigem do profissional da comunicação uma busca constante pelo aprimoramento profissional, aprofundando questões sociais, econômicas, políticas e culturais do mundo a sua volta. Esse cenário apresenta enormes desafios ao estudante de Jornalismo, que tem experimentado, nos últimos anos, uma mutação acelerada da realidade, a exigir-lhe um aperfeiçoamento contínuo das habilidades técnicas, humanas, gerenciais e criativas.
+
+8
+
+Segundo a PNAD 2012, naquele momento, no país 88,9% das casas tinham ao menos um aparelho de rádio, enquanto outras 95,1% tinham um aparelho de televisão, mostrando que mais de 90% dos brasileiros continuam tendo algum tipo de acesso diário a produtos informacionais tradicionais. Consequentemente, continua havendo necessidade de jornalistas para a realização desse tipo de atividade informacional.
+
+É importante, contudo, que à busca por ampliar as possibilidades de formação no campo do Jornalismo some-se também um trabalho a ser implementado pelo poder público no sentido de diminuir a concentração da propriedade dos meios de comunicação no país, abrindo espaço para a criação de mais e melhores postos de trabalho no campo da Comunicação Social e do Jornalismo, e democratizando o acesso à informação plural, garantida por lei.
+
+Responsável por mudanças relevantes no perfil do acesso à informação no Brasil, a utilização crescente de aparelhos celulares, mais especificamente os smartphones, têm revolucionado o mercado da comunicação, dando espaço a canais que possibilitam a multiplicação das vozes participantes no debate público nacional e global – frequentemente contestando os canais tradicionais. Nesse sentido, outro fator que potencializa o consumo do jornalismo no Brasil é a utilização cada vez mais abrangente das redes sociais, hoje plenamente consolidadas como canais alternativos para fatos e opiniões não veiculados pelos meios tradicionais.
+
+Dessa forma, a Universidade Federal do Sul da Bahia reafirma a missão de produzir e compartilhar conhecimentos, saberes e práticas, formando cidadãos, profissionais e intelectuais dotados de consciência crítica, capacidade técnica e responsabilidade social. Reafirma, ainda, seu engajamento com a transformação das realidades econômica, social e política da região, do país e do mundo, na perspectiva de uma cidadania plena e agregadora.
+
+O Bacharelado em Jornalismo e seu contexto
+
+Como notamos, o Bacharelado em Jornalismo do Centro de Formação em Artes e Comunicação da UFSB preenche importante lacuna acadêmica no que concerne à formação profissional no campo da Comunicação na região sul e extremo sul da Bahia. Trata-se de uma área de abrangência composta de 48 municípios, em sua maioria de pequeno porte – exceto por Itabuna, que ultrapassa 200 mil habitantes, e Ilhéus, Teixeira de Freitas, Porto Seguro e Eunápolis, que têm mais de 100 mil habitantes –, ocupando 40.384 km, situada na costa meridional do território baiano, com uma população de 1.520.037 habitantes (dados do Censo 2010).
+
+Uma região de grande patrimônio cultural, de variadas comunidades tradicionais, porém com indicadores educacionais bastante precários. Cerca de 290 mil estudantes encontram- se matriculados em 1878 estabelecimentos de ensino fundamental e 66 mil estudantes no ensino médio, em 165 escolas públicas, em sua maioria da rede estadual. No âmbito da educação superior, seja em instituições públicas ou particulares, são restritas as opções de estudo na área da Comunicação Social e do Jornalismo em toda a região, restando apenas uma graduação em área similar: Comunicação Social, com habilitação em Rádio e TV, na UESC (Ilhéus).
+
+A escassa oferta na região de cursos superiores nas áreas de conhecimento abrangidas pela Comunicação Social, por si só, seria razão suficiente para justificar a criação do curso que aqui se apresenta. Contudo, a proposta deste PPC se reveste de importância ainda maior em se considerando o perfil do público almejado e sua relação com as oportunidades
+
+9
+
+geradas pela formação na área. Primeiro, quanto ao público, nota-se uma singularíssima diversidade sociocultural, formada no trânsito entre o rural, o urbano e o periférico, entre o sudeste e o nordeste do país, entre numerosas comunidades rurais, extrativistas, quilombolas e indígenas e estruturas indubitavelmente modernas, como as da atividade comercial e agropecuária nas cidades de Teixeira de Freitas, Eunápolis e Itabuna, ou do turismo em Porto Seguro, Ilhéus e Itacaré. Essa característica regional faz emergir em profusão manifestações culturais igualmente diversas, desde a intensa produção musical e gráfica, mais próximas das modernas estruturas urbanas, até a radicalidade estética e política do documentário e do cinema indígena. As instituições culturais e de organização comunitárias do sul da Bahia também são muitas e plurais.
+
+No caso específico da cidade-sede do curso (Porto Seguro), por exemplo, há o Centro de Cultura de Porto Seguro, a recém-inaugurada unidade do Serviço Social do Comércio (SESC), o sofisticado Anfiteatro Mozarteum e uma série de grandes eventos já consolidados, tais como Arraial Cine Fest, Música em Trancoso, Carnaporto e São João Elétrico, bem como constantes apresentações de artistas de relevo nos contextos nacional e regional, em função da indústria do turismo. De fato, grande parte das manifestações culturais que ocorrem na região de Porto Seguro ainda traz demasiada ênfase no aspecto turístico e mercadológico, muitas vezes deixando em último plano um compromisso com o desenvolvimento do campo da Comunicação em si, seja no âmbito de uma sensibilização ou (in)formação cultural da população local, seja no âmbito da promoção de debates, reflexões e atividades públicas, também, através dos aparelhos públicos de comunicação e informação. A partir da presença e atuação de profissionais do jornalismo na região, o campo de práticas estéticas e discursivas pode se diversificar, enriquecendo-se o debate público com a multiplicação dos espaços de promoção, produção e divulgação da informação e também facilitando a fruição artística e cultural em âmbito regional.
+
+Os cursos da UFSB – e aqui incluímos Jornalismo – devem, desse modo, assumir com as comunidades de Porto Seguro e região um compromisso de, a partir das demandas e das características particulares, contribuir para fomentar políticas sociais, comunitárias e ocorrências artístico-culturais atentas ao desenvolvimento humano, ambiental e político, e geradoras de diversidade e respeito às riquezas simbólicas das diversas minorias – econômicas, religiosas ou étnicas – que habitam esse território.
+
+Outro objetivo do curso é o desenvolvimento de experiências de produção partilhada entre discentes e grupos comunitários do entorno da UFSB no sul e extremo sul da Bahia, numa perspectiva extensionista, de modo a criar novas maneiras de alimentar os fluxos e contra- fluxos comunicativos por meio dos quais essas comunidades se narram, refletem sobre si mesmas e se reinventam. As atividades práticas e laboratórios do curso constituem um espaço de experimentação e de práticas do acesso público às tecnologias de informação e comunicação, capacitando os estudantes, por meio de projetos de pesquisa e extensão, a atuar junto a entidades e comunidades interessadas em desenvolver estratégias comunicacionais integradas, dialógicas e comunitárias; a promover atividades de sensibilização, informação, reflexão e discussão pública acerca da democratização dos espaços midiáticos e da ampliação das mídias de acesso público e comunitárias, além de acompanhar e atuar nas discussões políticas acerca dessas questões.
+
+Destarte, o curso bacharelado em Jornalismo contribuirá com a formação de profissionais que dominem as diferentes linguagens jornalísticas, de acordo com as modalidades e meios de comunicação. Aliados a teoria, é por meio de laboratórios que os alunos exercitam a profissão na prática. Três veículos com potencial de ação de extensão estão previstos no curso: jornais murais (que poderão estar no campus, ou associados ao trabalho junto aos bairros da cidade de Porto Seguro); uma emissora educativa de rádio; um portal de internet que funciona como uma agência pública de notícias, fornecendo gratuitamente aos veículos da região materiais de cunho científico e cultural (textos, fotos, boletis de rádio, podcasts
+
+10
+
+etc.) associados às ações das universidades da região, e particularmente da UFSB - trata-se da Agência de Notícias do Sul da Bahia (www.ansuba.org).
+
+Os veículos em questão devem possuir independência e liberdade editorial para atuar conforme o interesse público regional, não se tratando de publicações institucionais. Nesse sentido, tornam-se, eles próprios, espaços de extensão, abrindo-se ao diálogo com a comunidade regional para definir suas pautas e linhas editoriais e, ao mesmo tempo, representando um diálogo com a região e mantendo presença constante de seus atores no seio da própria comunidade acadêmica, entendida como arena pública. Objetivos como estes, certamente, impactarão positivamente na formação profissional e no processo histórico de desenvolvimento jornalístico da região.
+
+Ao observar-se a história do jornalismo na região Sul da Bahia associada à prática contemporânea, será possível constatar a relação imprensa X desenvolvimento da burguesia local. Durante a colonização portuguesa a imprensa regional surge e se consolida com o objetivo de afirmar os interesses da classe dominante à qual serve até os dias atuais, mesmo que de formas diversas da inicial, como constatam Lene e Lopes (2018). Albuquerque (2014) aponta que, na região sul da Bahia, os primeiros jornais surgem mais de 100 anos depois da chegada da Família Imperial ao Brasil em 1808, para defender posições políticas e interesses dos cacauicultores, o que é determinante para a escrita de uma página particularmente passional na história do jornalismo baiano.
+
+A autora nota ainda que a maioria minorizada (SANTOS, 2018) vem sendo excluída sistematicamente das decisões e das oportunidades de ascensão social – sendo seus interesses confundidos e/ou publicizados como os interesses da minoria dominante. O jornalismo, seus profissionais e dirigentes atuam, nesse sentido histórico, como mediador interessado na manutenção do status quo, da qual se beneficia financeiramente. A falta de uma formação plural e de meios democráticos e diversificados de acesso à informação leva à propagação de fatos organizados de acordo com interesses corporativos, ideológicos ou pessoais, numa clara deformação do que seja o interesse público.
+
+Este fenômeno, originado no poder coronelista que foi moldado no inconsciente coletivo ao longo dos séculos, continua pautando as ações da sociedade que, empobrecida e sem referenciais, encontra dificuldade em ver-se como cidadã e atuar para assegurar seu direito à liberdade de pensamento e de expressão. A classe dominante local, formada nos dias atuais por políticos, líderes religiosos, funcionários públicos graduados e empresários, reflete a conformação nacional da área (SANTOS, 2017) e aparenta ter, de modo geral, uma visão semelhante à dos coronéis do passado e compreende o trabalho jornalístico e a força econômica como instrumentos para manter os meios na posição de reprodutores de seus interesses.
+
+Parte dos profissionais no âmbito nacional, mas com reflexos regionais, termina se acomodando e, igualmente, reproduzindo a ideologia dos que historicamente controlam os meios de comunicação. A baixa qualificação1, o desconhecimento sobre a função social do jornalista e, em alguns casos, a falta de escolaridade necessária à produção da informação, somados ainda aos baixos salários e à carga horária excessiva de trabalho, agrava a situação do mercado de trabalho.
+
+Na outra ponta desse fenômeno, está o público que, ao receber a informação local de baixa qualidade, termina por buscar informações adicionais por meio das redes nacionais, quase sempre distanciadas do efetivo debate público regional. O resultado desse processo é o enfraquecimento dos laços sociais regionais, das possibilidades de desenvolvimento humano, social e econômico, perdendo-se, pouco a pouco, a chance de registrar na
+
+1 Ver dados do Sindicato dos Jornalistas da Bahia (Sinjorba). Disponível em: www.sinjorba.org.br/entrevista05.php. Acesso em 20 nov. 2018.
+
+11
+
+memória coletiva a história de sujeitos plurais que formam a rica cultura e sociedade do Sul e Extremo Sul baiano.
+
+Fundamentação teórica
+
+O jornalismo contemporâneo está pari passu associado às novas tecnologias da informação e ao advento da internet. Desde a popularização da internet, no decorrer da década de 90, previa-se uma revolução sem limites na sociedade, fosse pelo salto tecnológico ou pela mudança brusca no imaginário cultural da população. Assim como qualquer novo conceito, o tempo é o único curador para adaptar e habilitar as novas ferramentas para o uso comum. Com a nova tecnologia, surgiram formas de comunicação, expressão, interação e relação entre os usuários na internet, principalmente quanto à manifestação da opinião e busca de informações na rede. Após mais de duas décadas de desenvolvimento e aprendizagem da nova comunicação, a internet evoluiu para um patamar em que o usuário é a peça-chave do sistema, e as escolas de jornalismo e comunicação precisam dialogar com essas novas plataformas interativas para reconfiguração da profissão.
+
+Muitos afirmam que na sociedade pós-industrial não há bem mais valioso que a informação, essa que já era um valor e capital essencial na sociedade industrializada. Pode-se afirmar que, assim como o capital financeiro flutuante e especulativo muda de pátria em frações de segundo, e um simples acesso à internet nos coloca como integrantes do estratégico banco de dados do mercado global, atualmente, o bem social mais valioso é justamente a própria informação; afinal, nunca foi tão fácil e rápido produzir, obter e gerenciar qualquer tipo de informação a qualquer tempo e em qualquer lugar, graças ao advento da Internet. Paralela ao poder concedido inicialmente pela Web 2.0, a disseminação da venda de aparelhos “inteligentes” e popularização de acessos em território brasileiro é consequência direta da utilização da Web como fonte de propagação de informações e meio de comunicação ativo.
+
+A partir da década de 2000, ocorre a popularização do termo Web 2.0, que, em linhas gerais, refere-se a uma nova etapa da rede, com comunidades e serviços que possibilitaram novos patamares para a interação entre os usuários e ferramentas colaborativas de conteúdo, informações e comunicação. A Web 2.0, grosso modo, permite que as pessoas reconheçam umas às outras, que construam comunidades e criem conexões de uma forma que não conseguiam antes. É um discurso social público que permite às pessoas se conectarem, que dá a oportunidade de ter um compartilhamento “aberto” de ideias, num circuito fechado. Qualquer pessoa pode, fazendo uso de um celular ou uma câmera digital, produzir fotos ou vídeos e compartilhá-los instantaneamente na rede, dando a milhões de pessoas o acesso a esse conteúdo (JONES, 2009, p. 82).6
+
+Para os meios de comunicação, a introdução de conceitos e utilização dos mecanismos de interação audiência/mídia começou a se desenvolver em meados de 2004, quando veículos de TV, impressos, revistas, portais, blogs, entre outros, lançaram mão da internet para informar e criar laços entre o público consumidor. Alguns desses veículos hoje permitem que o próprio leitor publique suas notícias ou ofereça sugestões de pautas. Esta prática recebeu a denominação de Jornalismo Participativo, Jornalismo Cidadão ou Open Source Journalism, cuja principal função é publicar conteúdo produzido exclusivamente por uma pessoa não habilitada em jornalismo ou em parceria com um jornalista profissional.
+
+Autores como Dan Gillmor (2006), ávido defensor do princípio da liberdade de informação, jornalista e um dos gurus do jornalismo participativo preconiza que passamos de uma Era em que os jornalistas noticiavam para uma plateia enquadrada e pouco reativa – caracterizada como “massa” – para uma nova Era, em que as pessoas fazem a notícia, gerando discussão e ativismo em vez de passividade.
+
+12
+
+Com a explosão da Web participativa, qualquer pessoa pode passar de consumidora de informações para produtora, e isso influencia sobremaneira os cursos de formação em jornalismo e a não obrigatoriedade do diploma para exercício da profissão. A opinião não é mais particular, é compartilhada nas redes de aplicativos, blogs, fóruns de discussão, redes sociais ou games online.
+
+Assim mesmo, com a difusão da internet e das ferramentas da Web 2.0, a rede permanece sendo um espaço passível de dinâmicas e frequentes mudanças sejam no âmbito do jornalismo e/ou na troca de informações pelos/as usuários e/ou profissionais nas redes sociais. Essas mudanças, antes baseadas na tecnologia empregada, agora encabeçadas pelos/as usuários/as e pelas ferramentas de interação, são responsáveis pelos caminhos e tendências da nova rede, e do novo jornalismo. Agora as reuniões em comunidades online, espaços de aplicativos, salas de bate-papo, fóruns de discussão, ambientes de games virtuais ou redes sociais também levam a alcunha de “públicas”, mesmo sem o contato face-a-face. Novos desafios estão postos aos novos profissionais da comunicação e aos que formam os formadores.
+
+Um desses desafios postos é o da credibilidade das redes e comunidades da informação. Com tantos produtores, não seria o jornalista profissional o responsável credível pela mediação do conteúdo ético e plural? Talvez a resposta dependa do canal em que é formulada a questão. Se o princípio é só a mediação, ou seja, o fato de escolher o que é ou não publicado, o que é digno ou não de atenção, o próprio usuário torna-se o mediador de seu espaço virtual. Mas, quando essa escolha de conteúdo se reflete na esfera jornalística, mais explicitamente em ramificações que apontam para a ética e a credibilidade, surge a dúvida de quem deve ser o moderador das informações. Pode continuar sendo o próprio usuário, como também o jornalista profissional. No entanto, mesmo com o crescente consumo de informações jornalísticas e as pesquisas apontando para mais adeptos que preferem acompanhar os acontecimentos pela rede, a confiabilidade do canal ainda é questionada.
+
+Com relação à mediação no campo dos fatos, outro ponto para reflexão parece se dar no crescimento do ceticismo no olhar da audiência em relação às informações, já que a mídia democratizada possibilita a todos serem críticos, editores profissionais e amadores ao mesmo tempo. Em um cenário em que o usuário é “dono” de seu meio de produção e tem facilidade na transmissão de conteúdos, a democratização da informação coloca em jogo um dos principais pilares do jornalismo: a credibilidade. Aqui está um dos potenciais de um curso voltado para a formação de profissionais plurais e reflexivos das demandas contemporâneas da profissão e exigências sociais.
+
+Por fim, nos últimos quinze anos, vimos a emergência de novos mecanismos de captura e controle desse potencial, com o uso de algoritmos, robôs e outros artifícios, propiciando fenômenos como as bolhas em redes sociais fechadas e o direcionamento de conteúdo – inicialmente utilizado pela publicidade comercial e, mais recentemente, aplicado à propaganda político-eleitoral. Esse uso político, justamente, enseja importante debate contemporâneo sobre urgentes limites éticos e legais para a difusão de informações falsas, deliberadamente apresentadas como se fossem material jornalístico, as chamadas “fake news”.
+
+O BJ/CFAC/UFSB nasce ciente das complexidades contemporâneas e técnicas no âmbito das tecnologias digitais e em rede, e está orientado à construção de ambientes de reflexão e práticas que levem em consideração tal contexto nas potencialidades profissionais do jornalismo hoje.
+
+Ainda nesse sentido, é preciso garantir, à luz de uma realidade técnica fortemente ancorada em interesses econômicos, corporativos e políticos, o compromisso da universidade pública,
+
+13
+
+popular e pluriepistêmica de formar profissionais comprometidos com a comunicação como ferramenta para a emancipação, conforme diretrizes do relatório MacBride2 da UNESCO (1983) sobre o papel da comunicação e do jornalismo nas sociedades contemporâneas.
+
+Comunicação e Poder
+
+Os aportes trazidos acima incitam uma reflexão sobre o poder da/na comunicação e a natureza da atividade jornalística. Faz pensar que a inclusão de artigos que tratam da comunicação e do jornalismo na Constituição de 1988 não encerra a desgastante batalha pelo direito humano à comunicação. Ao contrário, ao se observarem as transformações políticas do tempo percebe-se que o fundamento dos direitos humanos não repousa exatamente sobre os códigos e as leis, mas sim numa constante luta social cuja eficácia está associada diretamente à capacidade de mobilização dos atores sociais interessados.
+
+Embora garantidos na letra da lei, os pontos constitucionais que versam sobre a diversidade, a pluralidade e a desconcentração dos meios são constantemente violados. Entre as grandes corporações da radiodifusão observa-se com frequência uma defesa da “liberdade de expressão”, quando, na verdade, reivindicam o direito à propriedade privada dos veículos de comunicação e à comercialização desregulada da informação tratada como um produto. Em meio a esse debate enviesado, silencia-se a concentração da mídia para normalizar a liberdade de empresa, em contraponto à liberdade de imprensa, o que acaba por limitar a liberdade de expressão ao impedir a concretização dos ideais de cidadania previstos na Constituição brasileira. Os interesses financeiros, por sua vez, ao dominar o cenário midiático interferem na formação dos profissionais que atuarão em suas empresas e grupos de interesse. Para além das disputas discursivas sobre os direitos humanos à comunicação plural e democrática, há outro agravante: a dificuldade de se pautar o tema para formulação de políticas públicas.
+
+A despeito do cenário acima descrito, o Bacharelado em Jornalismo do Centro de Formação em Artes e Comunicação da UFSB assume o desafio da formação de profissionais comprometidos com o meio, o território, sua comunidade e com o desenvolvimento regional, evidenciando a pluralidade étnica e cultural local e proporcionando soluções criativas para o mercado da informação e comunicação.
+
+\6. POLÍTICAS INSTITUCIONAIS NO ÂMBITO DO CURSO
+
+O curso de Jornalismo está estruturado desde o início para inserir estudantes no processo de aprendizagem prática, a partir de laboratórios baseados em metodologias ativas, com estágios em projetos da universidade, empresas e associações parceiras em consonância com o conjunto de políticas nacionais e da UFSB. Além disso, contamos com professores doutores pesquisadores que desenvolvem projetos de pesquisa com bolsas PIBIC, bem como uma série de acordos – formais ou não – com grupos ligados à sociedade civil, ao poder público ou mesmo à iniciativa privada na região. No processo de reformulação deste PPC, orientou-se sua proposição a partir das resoluções 13/2021 e 14/2021 que tratam da curricularização da extensão em atendimento à Política Nacional de Extensão. Para isso, designou-se uma comissão entre os NDEs do CFAC para oferta conjunta de CCEXs, de
+
+2 O Relatório MacBride (UNESCO, 1983) adveio de um interesse coletivo pela identificação de problemas relacionados à maneira como a informação era produzida e distribuída pelo mundo. Trata-se de uma crítica ao fluxo unidirecional da informação da época, quiçá, ainda hoje, e ao consequente estímulo à imposição de ideologias por parte das nações hegemônicas. A concentração dos grandes meios de comunicação e as desigualdades sociais e tecnológicas, acentuadas pela globalização, foram temas do Relatório MacBride, assim como a formação e o papel do profissional jornalista nesse mecanismo. Muitas das avaliações do relatório, depois de quatro décadas, seguem atuais e pertinentes. Foram várias as sugestões do documento, abrangendo setores da política, da educação e da economia, e propondo a reconfiguração das características de muitas instituições. Dentre as soluções aludidas destaca-se a maior participação da sociedade civil no cenário midiático.
+
+14
+
+modo a possibilitar a estudantes e comunidade externa a participação em experiências formativas. Tendo em vista a discussão contemporânea dos usos da comunicação e a problemática da desinformação, o NDE em Jornalismo propôs a oferta sistemática do CCEX em Educação Midiática, o que permite a partir de bases de produção do conhecimento jornalística a reflexão sobre compartilhamento de notícias falsas e tematiza o fenômeno das fake news. Soma-se à proposta do CCEX em Educação Midiática, o alinhamento com os princípios da educação cidadã contida no Plano Orientador, com perspectiva de autonomia dos indivíduos no percurso formativa e em diálogo contínuo com os setores da sociedade para além dos muros da universidade.
+
+Estão ainda previstas parcerias entre o Centro de Formação em Artes e Comunicação (CFAC), a Reitoria e entidades de meios de comunicação no estado da Bahia a fim de se implementar um canal universitário que disponibilizará conteúdos gratuitos e de interesse público e regional para canais públicos de TV locais. Essa proposta já se encontra consolidada por meio de um Regimento aprovado no Conselho Universitário e propõe a criação de Núcleos de Produção Audiovisual nos campi, responsáveis pela produção de conteúdos multimídia de divulgação científica e extensão. Deste modo, busca-se com o fortalecimento da extensão na UFSB, impacto na qualidade do curso a partir de uma iniciativa que permite a reflexão e produção de conteúdos educativos e jornalísticos que permitem à sociedade ter acesso às funções sociais da universidade, bem como suas ações e modos de atuação no território.
+
+No âmbito do campus Sosígenes Costa, onde está situado o CFAC, pretende-se estabelecer parcerias diversas com o curso Som, Imagem e Movimento, que traz entre outras uma habilitação em Audiovisual, bem como com os demais Centros de Formação deste campus (Ciências Ambientais e Ciências Humanas e Sociais), a fim de se estabelecer trocas no âmbito da produção de conteúdos provenientes das diversas demandas de cada curso ou unidade, para a divulgação científica.
+
+As políticas de ensino, pesquisa e extensão do Bacharelado em Jornalismo seguem atentamente as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo (resolução CES/CNE/MEC n. 1, de 27/09/2013). Nosso BJ enquadra-se, pois, perfeitamente, em diversos tópicos indicados para os PPCs de um BJ: utilizando metodologias ativas; estimulando a interação entre ensino, pesquisa e extensão; propiciando articulações dos alunos com diferentes segmentos da sociedade; promovendo a integração entre teoria e prática e a interdisciplinaridade.
+
+Particularmente, nesse âmbito da valorização da interdisciplinaridade, vale observar que, além das DCNs, observamos as diretrizes e determinações constantes do Projeto Institucional da UFSB, materializadas no Regimento Interno e no Plano de Desenvolvimento Institucional. Nelas, o ensino, a pesquisa e a extensão se interligam organicamente no currículo do curso, tendo como alicerces as formulações de teóricos como: Anísio Teixeira (com suas ideias sobre a Universidade Popular); Paulo Freire (e sua Pedagogia da Autonomia); Milton Santos e sua Geografia Nova; Boaventura de Sousa Santos e suas reflexões sobre a ecologia de saberes; Pierre Lévy, com suas contribuições em torno da cibercultura e da "inteligência coletiva".
+
+Tais quadros conceituais foram estruturadores da própria criação da UFSB, conforme descreve extensamente nosso Plano Orientador. Nesse documento, destacam-se, ainda, duas importantes questões: o tema da sustentabilidade e da cidadania planetária; as discussões acerca da complexidade no processo da afiliação dos estudantes às instituições universitárias, consideradas a partir da constatação de que, para sujeitos antes excluídos do ambiente universitário, o acesso à escolaridade superior implica uma profunda mudança pessoal, cultural e política. Tais questões, segundo a elaboração coletiva em vigor na UFSB, são fundamentais para refletir sobre o vínculo do curso com o território em que nossa universidade se insere e com estratégias diferenciadas de acesso e permanência
+
+15
+
+estudantis.
+
+6.1 Políticas de acesso ao curso e de mobilidade acadêmica
+
+Além da seleção padrão de ingresso na universidade (atualmente realizada por meio do Sistema de Seleção Unificada - Sisu/MEC), condicionada pela nota obtida no Exame Nacional de Ensino Médio (Enem), o curso possui as formas específicas de acesso:
+
+\- seleção regional para ingresso na universidade pela Rede Anísio Teixeira de Colégios Universitários (Rede CUNI), realizada em processo seletivo gerenciado internamente, considerando as notas dos/as candidatos/as correspondentes aos últimos anos do Enem. A Rede CUNI é constituída por núcleos acadêmicos descentralizados, fora dos campi-sedes, que integram a UFSB ao seu território de abrangência mediante um programa de acesso à Universidade que visa, prioritariamente, à inserção de estudantes da rede pública de ensino. Atualmente, a seleção para ingresso via CUNI contempla unicamente pretendentes às Licenciaturas Interdisciplinares (LIs), os quais também estão aptos a migrar, posteriormente, para o curso de 2º ciclo em Jornalismo;
+
+\- ingresso de portadores/as de diploma, regido por edital próprio;
+
+\- mobilidade interna, considerando a possibilidade de alteração do percurso acadêmico (mudança de turno, curso e campus), mediante processo seletivo interno;
+
+\- transferência de estudantes de outras IES para a UFSB, regida por edital próprio.
+
+A Lei de Cotas, n. 12.711/2012, regulamenta a aplicação de, no mínimo, 50% das vagas do ensino superior para estudantes oriundos das escolas públicas. A UFSB, contudo, no uso de sua autonomia e por meio da atualização mais recente de seu Programa de Ações Afirmativas – a Resolução 12/2021 – registra a reserva maior de vagas para cotistas. Nos Bacharelados Interdisciplinares e demais cursos de 2º ciclo, como o BJ, reservam-se 75% de cotas para essas ações afirmativas. Essa reserva busca representar a proporção de pretos, pardos e indígenas da população do sul e extremo sul do estado da Bahia, conforme o último censo do IBGE. Além disso, nas seleções via SISU ou Editais de ingresso nos Colégios Universitários são destinadas vagas supranumerárias a candidatas/os egressas/os de escola pública pertencentes a minorias sociais, políticas e sexuais: 1. povos indígenas aldeados; 2. povos de comunidades remanescentes de quilombos ou comunidades identitárias tradicionais; 3. povos de origem cigana; 4. pessoas transexuais, travestis e transgêneros; 5. pessoas em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas. As vagas supranumerárias serão no número de 01 (uma) vaga por curso da UFSB, em cada turno e campus, para cada segmento, com a quantidade podendo ser ampliada por decisão do Conselho Universitário.
+
+Progressão
+
+O BJ permite o ingresso de estudantes oriundos de outros cursos da UFSB, desde que estes participem da seleção aberta por edital específico em cada processo de progressão para o curso. As regras que regem a progressão interna dos estudantes na UFSB do primeiro para o segundo ciclo, bem como o aproveitamento de estudos nesse processo, estão descritas ao longo deste PPC.
+
+Conforme Art. 3º da Resolução 08/2021 da UFSB, são elegíveis para inscrição no processo de seleção para o segundo ciclo:
+
+I- estudantes dos cursos de primeiro ciclo da UFSB que tenham integralizado seu curso até o momento da inscrição no processo seletivo; II- egressos/as dos cursos de primeiro ciclo da UFSB que tenham colado grau nos cinco
+
+16
+
+anos anteriores ao processo seletivo.
+
+Ainda segundo a resolução, o/a estudante de curso de segundo ciclo poderá participar de novo processo seletivo para ingresso em cursos de 2º ciclo, desde que não tenha ultrapassado 75% de carga horária integralizada em seu curso atual no momento da inscrição no processo seletivo e, caso aprovado/a, o/a estudante deverá optar por uma das matrículas.
+
+Ainda quanto ao acesso via progressão, do 1º para o 2º ciclo, em caso de haver mais solicitantes que vagas disponíveis, as seguintes regras adicionais sao aplicadas: os estudantes serão classificados de acordo com o Coeficiente de Rendimento Médio Ponderado (CRMP) e a nota obtida em sua Carta de Intenção. O CRMP e a Carta de Intenção valem 5 pontos cada, somando-se 10 pontos no total. As maiores notas, resultantes desta soma, e respeitando-se as regras abaixo, garantirão uma vaga no BJ, respeitando-se o limite de vagas disponíveis.
+
+\1. Ainda conforme a resolução 08/2021, o Coeficiente de Rendimento Médio Ponderado (CRMP) do BI/LI deve ser calculado conforme a fórmula e regras abaixo:
+
+CRMP = 1 X CRG + 1,5 X CRGA + 2,0 X CRAC + TP
+
+1 + 1,5 + 2,0 + 0,3
+
+I- Coeficiente de Rendimento Geral (CRG) no Bacharelado Interdisciplinar (BI) / Licenciatura Interdisciplinar (LI). Peso 1,0; II- Coeficiente de Rendimento na Grande Área (CRGA). Peso 1,5; III- Coeficiente de Rendimento na Área de Concentração (CRAC). Peso 2,0; IV- Tempo de Permanência: bônus a ser acrescentado de acordo com o tempo de permanência do/a estudante no curso de primeiro ciclo: a) maior ou igual a 9 quadrimestres de permanência: 3,0 pontos; b) maior ou igual a 6 e menor que 9 quadrimestres de permanência: 2,0 pontos.
+
+A resolução estabelece ainda as seguintes observações: a) para uso do CRGA na composição do cálculo, a Grande Área à qual o curso pertence deve estar indicada no Projeto Pedagógico do Curso; b) para uso do CRAC na composição do cálculo, a Área de Concentração deve estar indicada no Projeto Pedagógico do Curso e esse deve estabelecer de forma explícita o seu uso; c) o CRMP terá valor numérico final entre 0 (zero) e 10,00 (dez) pontos; d) em caso de empate, serão considerados os seguintes critérios de desempate nesta ordem: I- Número de Componentes Curriculares obrigatórios cumpridos no BI/LI, pertencentes à estrutura curricular do curso de segundo ciclo pretendido; II- Número de Componentes Curriculares optativos cumpridos no BI/LI, pertencentes à estrutura curricular do curso de segundo ciclo pretendido; III- CRG
+
+Observação adicional:
+
+A. Como o CR é calculado com base em 10 pontos (coeficiente máximo), deve-se dividi-lo por dois, uma vez que ele soma apenas 5 pontos (nota máxima) de um total de 10 pontos no presente cálculo.
+
+\2. A Carta de Intenção deve ser avaliada de acordo com os critérios e regras abaixo:
+
+O estudante deve apresentar, por escrito, uma carta de intenção para sua graduação no BJ. Essa carta deve trazer uma descrição, justificativa, contextualização e discussão conceitual de sua proposta de trabalho dentro do BJ. A Carta de Intenção deve ter, no máximo, 5.000
+
+17
+
+palavras.
+
+Critérios de avaliação da Carta de Intenção:
+
+I. Conformidade do plano de trabalho do/a estudante com o programa do segundo ciclo (1,5 pt);
+
+II. Conformidade do plano de trabalho do/a estudante com no mínimo dois dos seguintes eixos norteadores (1,5 pt):
+
+A. Trabalhos com comunidade; B. Trabalhos que levem em conta aspectos regionais; C. Trabalhos que levem em conta conceitos e temáticas negrodescendentes, ameríndios ou periféricos.
+
+III. Clareza da escrita e da proposta (1 pt);
+
+IV. Consistência conceitual e/ou teórica (1 pt).
+
+\3. Em caso de empate, será utilizado o Coeficiente de Rendimento da Formação Geral (CRFG). Persistindo o empate, terá prioridade o candidato de maior idade.
+
+Acessibilidade e diversidade
+
+A UFSB atua na perspectiva da acessibilidade considerando um processo inclusivo que compreenda uma visão de que a diversidade humana seja acolhida. Sendo assim, o conceito de acessibilidade aparece de forma ampla, e não apenas restrito a questões físicas e arquitetônicas, uma vez que o vocábulo expressa um conjunto de dimensões diversas, complementares e indispensáveis para que haja um processo de efetiva inclusão (INEP, 2013).
+
+Para tanto, embora a UFSB seja uma universidade nova, ainda em pleno processo de consolidação de sua estrutura física e de seu quadro de recursos humanos compatíveis com suas metas e funções sociais, o compromisso com a implantação da formação inclusiva e com o atendimento dos dispositivos legais encontram-se contemplados em diferentes perspectivas a serem consolidadas na estrutura universitária.
+
+Para cumprir a regulamentação das Políticas de Inclusão (Dec. N° 5.296/2004) e da legislação relativa às questões étnico-raciais (Leis 10.639/03 e 11.645/08; e Resolução CNE/CP N° 01 de 17 de junho de 2004), a UFSB se propõe a atender a essas demandas a partir da inserção destas temáticas como CCs de seus cursos de formação, bem como em suas atividades de pesquisa e integração social.
+
+Além da transversalidade desses temas nos currículos de formação de BIs e LIs, a UFSB investe em programa de apoio ao discente sobretudo em sua relação direta com a equipe de orientadores e fomenta a participação dos estudantes em intercâmbios nacionais e internacionais e centros acadêmicos.
+
+6.2 Políticas de ensino
+
+Apresentamos inicialmente uma síntese da organização da oferta de cursos pelo sistema de ciclos, com explicitação de seu objetivo principal: a formação de cidadãos/ãs conscientes do seu papel social, que considerem o ser humano em suas dimensões afetivas, cognitivas, espirituais, econômicas, sociais e ambientais (v. Plano Orientador e PDI).
+
+18
+
+Na UFSB, a/o estudante pode realizar dois ciclos de graduação. Ao concluir um curso de primeiro ciclo, a/o estudante poderá optar, de acordo com o seu percurso e o cumprimento das exigências para ingresso, por realizar um curso de segundo ciclo ofertado nos Centros de Formação (CF). Cada curso concluído em cada um dos ciclos confere um diferente diploma de Bacharelado ou Licenciatura na área cursada. O modelo pedagógico da UFSB está pautado na pluralidade pedagógica articulada a modelos formativos e avaliativos modulares e progressivos, com o intenso uso de tecnologias digitais de ensino- aprendizagem e o regime letivo semestral multiturno.
+
+Primeiro Ciclo
+
+No primeiro ciclo, são ofertados os Bacharelados Interdisciplinares (BI), que oferecem uma formação generalista, polivalente, capacitando o aluno para atuar em uma grande área de formação, e as Licenciaturas Interdisciplinares (LI), que formam docentes para atuar no ensino básico em grandes áreas ou blocos de conhecimento. Os BIs têm duração mínima de 3 anos (6 semestres) e as LIs de 4 anos (8 semestres). Os cursos interdisciplinares ofertados são:
+
+Licenciatura Interdisciplinar (LI): Artes e suas tecnologias Ciências da Natureza e suas tecnologias Ciências Humanas e Sociais e suas tecnologias Linguagens e Códigos e suas tecnologias Matemática e Computação e suas tecnologias
+
+Bacharelado Interdisciplinar (BI): Artes Ciências Humanidades
+
+Segundo Ciclo
+
+No segundo ciclo de formação, a/o estudante que ingressar poderá prosseguir com seus estudos para obtenção de uma graduação profissional. Neste ciclo, a formação é voltada para atuação em campos ou áreas de formação mais específicos e destinada à habilitação de trabalhadores e intelectuais em carreiras profissionais, atividades ocupacionais, culturais ou artísticas de nível superior. O ingresso ocorrerá por meio de processos seletivos definidos por editais de progressão próprios e pelos PPCs de cada curso. A duração dos cursos deste ciclo é definida em seus projetos pedagógicos. O Bacharelado em Jornalismo do CFAC/UFSB é um dos diversos cursos de segundo ciclo ofertados na instituição.
+
+UFSB: sua visão
+
+A UFSB compreende o ensino superior como tarefa civilizadora e emancipatória, a um só tempo formadora e transformadora do ser humano. Nossa jovem universidade foi concebida para atender às exigências educacionais do mundo contemporâneo, bem como às especificidades culturais, sociais, artísticas e econômicas da Região Sul do Estado da Bahia, sem negligenciar o desenvolvimento nacional e planetário. Anima esta Universidade a possibilidade de recriação da educação pública brasileira como vetor de integração social e como fator de promoção da condição humana, aspectos pouco valorizados no modelo educacional vigente.
+
+A razão de ser desta instituição está alicerçada na solidariedade e no compartilhamento de conhecimentos, habilidades, desejos, impasses e utopias que, em suma, constituem a
+
+19
+
+riqueza imaterial que chamamos de saberes ou espírito de uma época. Nessa perspectiva, pauta-se nos seguintes princípios político-institucionais: eficiência acadêmica, com uso otimizado de recursos públicos; compromisso inegociável com a sustentabilidade; ampliação do acesso à educação como forma de desenvolvimento social da região; flexibilidade e criatividade pedagógica, com diversidade metodológica e de áreas de formação; interface sistêmica com a Educação Básica; articulação interinstitucional na oferta de educação superior pública na região e promoção da mobilidade nacional e internacional de sua comunidade.
+
+A matriz político-pedagógica funda-se em três aspectos: regime curricular semestral; arquitetura curricular organizada em ciclos de formação, com modularidade progressiva e certificações independentes a cada ciclo, além de articulação entre graduação e pós-graduação; combinação de pluralismo pedagógico e uso intensivo de recursos tecnológicos de informação e comunicação.
+
+Anteriormente funcionando em regime quadrimestral, a partir de 2024, segundo a resolução n. 22/2022 do Conselho Universitário, a UFSB opera com regime letivo semestral, com períodos letivos de no mínimo 100 dias, totalizando ao menos 200 dias letivos a cada ano (Ato decisório da Câmara de Graduação n. 01/2022).
+
+Estrutura Institucional
+
+A estrutura institucional da UFSB conta com quatro níveis de organização, correspondendo a ciclos e níveis de formação:
+
+· Colégio Universitário (CUNI) · Instituto de Humanidades, Artes e Ciências (IHAC) · Centros de Formação Profissional (CF) · Complexos Integrados de Educação, compreendendo: Colégios Universitários, Centros de Ensino Médio Integral, Centros Estaduais Noturnos de Educação e Núcleos de Formação de Professores da Educação Básica.
+
+Como a organização institucional baseia-se em forte interligação entre níveis e ciclos de formação, a estrutura administrativa reflete essa interconexão estruturante da própria estrutura multicampi. Fortemente pautada na utilização de tecnologias digitais, a gestão da UFSB tem como base uma estrutura administrativa enxuta e descentralizada, autonomizando os campi, sem, entretanto, perder a articulação de gestão com os diversos setores da Administração Central. Ou seja, tanto no plano acadêmico como administrativo, combinam-se, de modo orgânico, a descentralização da gestão de rotina com a centralização dos processos de regulação, avaliação e controle de qualidade.
+
+Para ampliar a oferta de vagas públicas no nível superior de formação, em paralelo e em sintonia com a melhoria dos indicadores pertinentes ao ensino básico, a UFSB oferece cobertura no território da região sul e extremo sul da Bahia por meio da Rede Anísio Teixeira de Colégios Universitários (CUNIs). Os CUNIs funcionam preferencialmente em turno noturno, em instalações da rede estadual de Ensino Médio. Para viabilizar uma integração pedagógica efetiva, com aulas, exposições e debates, transmitidos em tempo real e gravados em plataformas digitais, cada ponto da Rede CUNI conta com um pacote de equipamentos de tele-educação de última geração, conectado a uma rede digital de alta velocidade.
+
+O Programa de Acompanhamento Acadêmico (Proa) é uma política institucional de permanência estudantil que tem por objetivo instruir as trajetórias acadêmicas e proporcionar aos estudantes condições de obter maior conhecimento do modelo institucional e das possibilidades de construção de percurso formativo. São, ainda, objetivos do Proa: viabilizar a filiação acadêmica dos ingressantes, acolhendo-os no contexto
+
+20
+
+universitário; contribuir para a realização profissional e acadêmica dos discentes, orientando-os quanto ao currículo do curso e aos percursos formativos; estimular a autonomia e o protagonismo dos estudantes na busca de soluções para os desafios do cotidiano universitário; reduzir a retenção, a evasão e o abandono; promover a permanência qualificada, encaminhando os/as estudantes aos serviços de atendimento psicológico, social e de saúde oferecidos pela UFSB, em caso de necessidade; apoiar a educação inclusiva e a acessibilidade na UFSB, em articulação com as instâncias responsáveis por essa demanda e demais políticas institucionais da universidade.
+
+O programa de monitoria é uma prática pedagógica exercida por estudantes de graduação em Componente Curricular (CC), supervisionada por docente responsável pela submissão de projeto de monitoria, cujo planejamento deve almejar os objetivos de formação acadêmica do/a estudante que se habilita ao papel de monitor/a e dos/as estudantes matriculados/as no CC ao qual se vincula. O Programa de Monitoria da UFSB tem como objetivos: possibilitar aos/às estudantes da graduação experiências relacionadas à docência, por meio de sua inserção como mediador/a dos processos de ensino-aprendizagem desenvolvidos nos CCs; estimular a integração entre o corpo docente e discente, por meio da participação do/a estudante no desenvolvimento de projetos de apoio à docência; auxiliar o desenvolvimento das atividades didáticas nos cursos de graduação, com o intuito de atingir a excelência acadêmica; ampliar os conhecimentos relacionados ao CC; propor formas de acompanhamento dos/as discentes que apresentem dificuldades nos seus processos de aprendizagem, contribuindo para a redução dos índices de retenção e de evasão e melhorando o desempenho acadêmico discente.
+
+Já o Programa de Tutorias objetiva ofertar a estudantes de cursos de graduação apoio acadêmico-pedagógico em diversas áreas de conhecimento reconhecidas como sensíveis para a formação de estudantes na Universidade. Ele prevê encontros frequentes entre tutores e tutorandos, sob a supervisão de coordenadores de equipes de tutoria, nos quais serão trabalhados conteúdos e temas desenvolvidos em diferentes áreas de conhecimento para estudantes ingressantes ou veteranos/as que apresentem dificuldades de aprendizagem.
+
+6.3 Políticas de pesquisa
+
+A política de pesquisa no BJ agrega-se à Política Institucional de Pesquisa da Universidade Federal do Sul da Bahia, atualmente expressa na Resolução 15/2021, e passa necessariamente pela articulação com ensino e extensão. Tem-se como principal ação o Programa de Iniciação à Pesquisa, Criação e Inovação (PIPCI-UFSB), que oferta anualmente bolsas de iniciação científica e tecnologia por meio de editais específicos lançados pela Pró-Reitoria de Pesquisa e Pós-Graduação (PROPPG).
+
+6.4 Políticas de extensão
+
+No que se refere à política de extensão, o curso atende às diretrizes normativas do Plano Nacional de Extensão (2012), que propõe a extensão universitária como processo acadêmico definido e efetivado em função das exigências da realidade, indispensável na formação do aluno, na qualificação do professor e no intercâmbio com a sociedade. Para isso, a UFSB, por meios de instrumentos normativos, expressos nas resoluções 13/2021 e 14/2021 orienta diretrizes e estabelece referenciais para a implementação da curricularização da extensão, assegurando a relação bidirecional entre universidade e sociedade, de modo a estimular a cultura extensionista.
+
+Nesta nova versão, o PPC do BJ incorpora ainda o que está disposto nas Diretrizes para a Extensão na Educação Superior Brasileira (resolução n. 7, de 18/12/2018), as quais orientam a inserção de, no mínimo, 10% de atividades de extensão como parte da carga horária total das graduações no país. Segundo as normas da UFSB, até 50% desse total
+
+21
+
+(5% da CH do curso) podem estar associados aos chamados CCs optativos de extensão (CCEx), previstos em nossa arquitetura curricular adiante apresentada.
+
+Deve-se destacar, ainda, que todo esse arcabouço é coordenado pela Pró-Reitoria de Extensão e Cultura (Proex), que oferta periodicamente bolsas de extensão voltadas aos estudantes de graduação, por meio de editais específicos.
+
+6.5 Políticas de atendimento aos estudantes
+
+A UFSB destina recursos do Programa Nacional de Assistência Estudantil (PNAES) e emprega fontes orçamentárias próprias para garantir a permanência estudantil. A universidade tem diversas políticas de atendimento a estudantes criadas e mantidas pela Pró-reitoria de Ações Afirmativas (PROAF).
+
+Programa de apoio à permanência
+
+NA UFSB, as políticas destinadas à retenção e à diminuição da evasão escolar são consideradas prioritárias. Os editais de auxílio permitem, sobretudo, que os estudantes com renda familiar bruta per capita de até 1,5 salário mínimo recebam bolsas e auxílios para que possam prosseguir em sua trajetória acadêmica. Na atualidade, já se encontram devidamente implementadas as seguintes modalidades de bolsas e auxílios, tais quais previstas no Plano de Desenvolvimento Institucional (PDI) 2020-2024: · Bolsa de Apoio à Permanência (BAP): forma de auxílio destinada a prover as condições para
+
+a manutenção dos/as estudantes em situação de vulnerabilidade socioeconômica; · Auxílio Instalação: trata-se de subvenção financeira de desembolso mensal e por tempo determinado, em que o/a estudante recém-ingresso na UFSB poderá obter um auxílio, mediante a comprovação de gastos com moradia, enquanto aguarda a realização do processo regular de seleção para outros auxílios; · Auxílio Eventos: espécie de auxílio que consiste no apoio à realização e à participação de
+
+integrantes do corpo discente ou de entidades estudantis em eventos culturais, políticos e esportivos nacionais ou internacionais; · Auxílio Emergencial: consiste em subvenção financeira, com periodicidade de desembolso
+
+mensal e por tempo determinado, destinada a casos excepcionais de vulnerabilidade e risco social avaliados pela equipe multiprofissional da Pró-Reitoria de Sustentabilidade PROSIS; · Auxílio Creche: modalidade de auxílio que se destina ao/à estudante que tenha filho(a) em idade pré-escolar (zero a cinco anos e onze meses) e necessite de apoio de instituições ou terceiros para desempenhar suas atividades acadêmicas para subsidiar despesas com creche ou outras relacionadas aos cuidados com a guarda e a manutenção infantil; · Auxílio Alimentação: trata-se de auxílio com valores pagos por dia letivo conforme a faixa de renda familiar per capita do estudante, destina-se à complementação de despesas com alimentação do/a estudante da UFSB; · Auxílio Transporte: dividido em quatro modalidades com valores diferenciados conforme a
+
+distância entre cidades até às sedes ou à Rede CUNI, tem por objetivo subsidiar as despesas com transporte de estudantes no deslocamento de casa ou do trabalho para desempenhar suas atividades acadêmicas; · Auxílio Moradia: consiste em subvenção financeira, pré-fixada pela universidade, destinando-se ao apoio ao/à estudante para que possa se alojar em condições satisfatórias nos municípios sede da UFSB, individual ou coletivamente, com o intuito de auxiliar na cobertura de despesas com locação e eventuais gastos relacionados à moradia, prioritariamente as de uso coletivo; · Auxílio Material Pedagógico: disponibiliza auxílio financeiro em parcela única a estudante de graduação, cadastrada/o na PROAF, para aquisição de materiais de consumo voltado às atividades acadêmicas; · Bolsa Monitoria Inclusiva: tem como objetivo auxiliar na permanência, participação e aprendizagem de estudantes público-alvo da Educação Especial, como pessoas com
+
+22
+
+deficiência, transtornos globais do desenvolvimento, altas habilidades e superdotação na UFSB; · Auxílio Acessibilidade e Inclusão: com o objetivo de fornecer um valor financeiro destinada à aquisição de materiais de consumo ou prestação de serviços de caráter didático-pedagógicos adaptados, tecnologias assistivas e/ou outros materiais necessários ao desenvolvimento das atividades acadêmicas regulares das/os estudantes da graduação com deficiência, transtornos globais do desenvolvimento, altas habilidades e superdotação.
+
+Programa de inclusão e ações afirmativas
+
+A UFSB, conforme estabelecido em seu Plano de Desenvolvimento Institucional (PDI), promove a inclusão de estudantes provenientes de escolas públicas e grupos vulnerabilizados por meio da garantia de cotas para ingresso nos cursos da Universidade. No caso de vagas supranumerárias, como já citado, existem políticas que destinam vagas para estudantes indígenas, quilombolas, ciganos e travestis, transexuais ou transgêneros na universidade. A universidade adota políticas inovadoras, como a criação do programa TRANSforme, implementado em 2018, para permanência de pessoas transgêneras na universidade. Ainda, uma parte das vagas supranumerárias é destinada a pessoas em situação de privação de liberdade ou egressas do sistema prisional ou refugiadas, como já visto.
+
+Plano de promoção da acessibilidade e atendimento diferenciado a pessoas com deficiência
+
+Como foco na acessibilidade e inclusão, atua com o objetivo de executar ações, tais como aquisição de tecnologias assistivas/execução com o intuito de garantir o acesso e a permanência dos estudantes com deficiência.
+
+Qualidade de Vida
+
+Segundo o PDI 2020-2024, a atenção da universidade à permanência discente ultrapassa o apoio financeiro, englobando ações que se destinem a promover a saúde, a acessibilidade, o lazer e as demais dimensões ligadas à qualidade de vida em correlação com o cotidiano das atividades acadêmicas. Assim, a UFSB desenvolve medidas de apoio à saúde, assistência social, atendimento educacional especializado e fortalece continuamente ações ligadas à saúde estudantil e cuidado. Nesse caso, a UFSB conta com a Coordenação de Qualidade de Vida (CQV) no âmbito da Pró-reitoria de Ações Afirmativas (PROAF) e, no Campus, também atua o Setor Técnico de Saúde, Assistência Estudantil, Acessibilidade e Sustentabilidade.
+
+6.6 Políticas de internacionalização
+
+Em atendimento às DCNs do curso de Jornalismo, oferecemos, ao longo do curso de Jornalismo, a oportunidade de o estudante realizar Componentes Curriculares básicos das línguas inglesa e espanhola. Esses CCs estão ligados à Formação Geral.
+
+Os estudantes também são estimulados pelos docentes a acessar cursos extracurriculares que promovam uma formação em línguas estrangeiras, como os oferecidos pela Rede Andifes-Idiomas sem Fronteiras ou pelo Programa de Mobilidade Virtual em Rede de Instituições Federais de Ensino Superior (Promover – Andifes). No caso desse tipo de formação, vale observar que há possibilidade de creditação via Atividades Complementares.
+
+Ainda, segundo a Resolução 25/2019, que estabelece a Política Linguística da UFSB, vale mencionar que está garantida na UFSB a possibilidade de redação de trabalhos
+
+23
+
+acadêmicos em outras línguas que não o português. A PL/UFSB ainda busca estimular o acesso dos alunos à formação em Língua Brasileira de Sinais (Libras) e línguas indígenas, de origem afrodescendente e de outros povos tradicionais (como os ciganos) – as quais contam com número significativo de comunidades de falantes no território da UFSB.
+
+A UFSB integra, atualmente, programas de intercâmbio nacional e internacional, permitindo que os seus estudantes frequentem outras instituições de ensino. Em nível internacional, a UFSB conta com a atuação de sua Assessoria de Relações Internacionais (ARI) na busca de novas oportunidades, acordos e bolsas de estudos. Atualmente, ela faz parte do Projeto Paulo Freire, uma rede de Instituições ibero-americanas, e mantém parcerias com diversas universidades estrangeiras, como Université du Québec à Trois-Rivières (UQTR), University of Saskatchewan (USask) e Universidad Autónoma de México (UNAM).
+
+\7. OBJETIVOS DO CURSO
+
+7.1 Objetivo geral
+
+A meta do curso é a formação de jornalistas tecnicamente qualificados e com ampla formação humanística e capacidade crítico-reflexiva, para atuar nos setores público e privado, com foco no desenvolvimento sustentável, social e humano prioritariamente na região sul e extremo Sul da Bahia, mas também em outras regiões do país. Os profissionais formados, além de desenvolverem as capacidades necessárias para atuar na apuração e disseminação de informações de interesse público, fundamentais no fortalecimento da democracia, na vigilância dos atores de poder e na defesa dos direitos humanos, deverão cultivar uma visão ética, crítica e analítica, podendo responder às exigências de um mercado competitivo e de uma sociedade em transformação, num contexto em que a democratização da informação possui papel fundamental.
+
+7.2 Objetivos específicos
+
+● Contribuir para a formação de profissionais com postura ética e participativa, que obtenham o domínio dos processos comunicativos, considerando-se as técnicas de produção e de transmissão dos fatos de interesse público, sejam eles científicos, institucionais, comunitários, culturais ou comerciais; ● Formar profissionais aptos a enfrentar um contexto em que, para traçar um percurso profissional no jornalismo, deverão ser capazes de analisar e compreender os avanços das novas mídias digitais e sua influência em relação às mídias tradicionais, compreendendo a complexidade dos processos comunicacionais na atualidade, por meio de teorias e práticas em âmbitos globais; ● Formar estudantes com domínio da utilização de novas tecnologias de comunicação e informação, considerando a ampla gama possível de linguagens e técnicas disponíveis; ● Capacitar os estudantes para promoverem o diálogo entre o saber científico e os saberes populares e tradicionais, em particular os saberes negros e indígenas, usando diferentes linguagens e métodos de acordo com o contexto social;
+
+● Formar profissionais capacitados a contribuir com a preservação da memória cultural, histórica e social em seu território de atuação; Disponibilizar e incentivar o acesso a ferramentas e métodos adequados para viabilizar a atuação profissional do jornalista em nível local e nacional, sempre se considerando a
+
+24
+
+realidade econômica e política de seu entorno, bem como a sociodiversidade urbana e rural;
+
+● Promover, por meio dos instrumentos de ensino, pesquisa e extensão, a atuação dos alunos junto aos diferentes segmentos sociais, comunidades urbanas e rurais, e a toda a diversidade de formas organizativas dos povos residentes na região Sul e Extremo Sul da Bahia.
+
+\8. PERFIL DO EGRESSO
+
+O perfil do egresso em Jornalismo foi traçado a partir dos objetivos do curso, considerando os contextos socioeducacionais e econômicos e com base nas Diretrizes Curriculares Nacionais para o Curso de Graduação em Jornalismo, a fim de formar profissionais críticos, com autonomia intelectual e que contribuam para a emancipação por meio da comunicação.
+
+Em conformidade com a DCN do curso de Jornalismo, as competências, habilidades, conhecimentos, atitudes e valores a serem desenvolvidos incluem:
+
+I – Competências gerais:
+
+a) compreender e valorizar, como conquistas históricas da cidadania e indicadores de um estágio avançado de civilização, em processo constante de riscos e aperfeiçoamento: o regime democrático, o pluralismo de ideias e de opiniões, a cultura da paz, os direitos humanos, as liberdades públicas, a justiça social e o desenvolvimento sustentável; b) conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a realidade social, econômica e política brasileira, considerando especialmente a diversidade regional, os contextos latino-americano e ibero-americano, o eixo sul-sul e o processo de internacionalização da produção jornalística; c) identificar e reconhecer a relevância e o interesse público entre os temas da atualidade; d) distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas e profissionais; e) pesquisar, selecionar e analisar informações em qualquer campo de conhecimento específico; f) dominar a expressão oral e a escrita em língua portuguesa; g) ter domínio instrumental de, pelo menos, dois outros idiomas – preferencialmente inglês e espanhol, integrantes que são do contexto geopolítico em que o Brasil está inserido; h) interagir com pessoas e grupos sociais de formações e culturas diversas e diferentes níveis de escolaridade; i) ser capaz de trabalhar em equipes profissionais multimídia e multidisciplinares; j) saber utilizar as tecnologias de informação e comunicação; k) pautar-se pela inovação permanente de métodos, técnicas e procedimentos; l) cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação ao conhecimento; m) compreender que o aprendizado é permanente; n) saber conviver com o poder, a fama e a celebridade, mantendo a independência e o distanciamento necessários em relação a eles; o) perceber constrangimentos à atuação profissional e desenvolver senso crítico em relação a isso; p) procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais; jornalismo; q) atuar sempre com discernimento ético.
+
+25
+
+II - Competências cognitivas:
+
+a) conhecer a história, os fundamentos e os cânones profissionais do jornalismo; b) conhecer a construção histórica e os fundamentos da cidadania; c) compreender e valorizar o papel do jornalismo na democracia e no exercício da cidadania; d) compreender as especificidades éticas, técnicas e estéticas do jornalismo, em sua complexidade de linguagem e como forma diferenciada de produção e socialização de informação e conhecimento sobre a realidade; e) discernir os objetivos e as lógicas de funcionamento das instituições privadas, estatais, públicas, partidárias, religiosas ou de outra natureza em que o jornalismo é exercido, assim como as influências do contexto sobre esse exercício.
+
+III – Competências pragmáticas:
+
+a) contextualizar, interpretar e explicar informações relevantes da atualidade, agregando- lhes elementos de elucidação necessários à compreensão da realidade; b) perseguir elevado grau de precisão no registro e na interpretação dos fatos noticiáveis; c) propor, planejar, executar e avaliar projetos na área de jornalismo; d) organizar pautas e planejar coberturas jornalísticas; e) formular questões e conduzir entrevistas; f) adotar critérios de rigor e independência na seleção das fontes e no relacionamento profissional com elas, tendo em vista o princípio da pluralidade, o favorecimento do debate, o aprofundamento da investigação e a garantia social da veracidade; g) dominar metodologias jornalísticas de apuração, depuração, aferição, além das de produzir, editar e difundir; h) conhecer conceitos e dominar técnicas dos gêneros jornalísticos; i) produzir enunciados jornalísticos com clareza, rigor e correção e ser capaz de editá-los em espaços e períodos de tempo limitados; j) traduzir em linguagem jornalística, preservando-os, conteúdos originalmente formulados em linguagens técnico-científicas, mas cuja relevância social justifique e/ou exija disseminação não especializada; k) elaborar, coordenar e executar projetos editoriais de cunho jornalístico para diferentes tipos de instituições e públicos; l) elaborar, coordenar e executar projetos de assessoria jornalística a instituições legalmente constituídas de qualquer natureza, assim como projetos de jornalismo em comunicação comunitária, estratégica ou corporativa; m) compreender, dominar e gerir processos de produção jornalística, bem como ser capaz de aperfeiçoá-los pela inovação e pelo exercício do raciocínio crítico; n) dominar linguagens midiáticas e formatos discursivos, utilizados nos processos de produção jornalística nos diferentes meios e modalidades tecnológicas de comunicação; o) dominar o instrumental tecnológico – hardware e software – utilizado na produção jornalística; p) avaliar criticamente produtos e práticas jornalísticas.
+
+IV – Competências comportamentais:
+
+a) perceber a importância e os mecanismos da regulamentação político-jurídica da profissão e da área de comunicação social; b) identificar, estudar e analisar questões éticas e deontológicas no jornalismo; c) conhecer e respeitar os princípios éticos e as normas deontológicas da profissão; d) avaliar, à luz de valores éticos, as razões e os efeitos das ações jornalísticas; e) atentar para os processos que envolvam a recepção de mensagens jornalísticas e o
+
+26
+
+seu impacto sobre os diversos setores da sociedade; f) impor aos critérios, às decisões e às escolhas da atividade profissional as razões do interesse público; g) exercer, sobre os poderes constituídos, fiscalização comprometida com a verdade dos fatos, o direito dos cidadãos à informação e o livre trânsito das ideias e das mais diversas opiniões.
+
+Além dos componentes comuns do campo do jornalismo, acima descritos, consideram-se neste PPC as seguintes competências, habilidades e valores:
+
+\1. desenvolver projetos comunicacionais junto a comunidades periféricas, indígenas e afrodescendentes, rurais e urbanas, do entorno da UFSB, de modo a se engajar nas dinâmicas das lutas e demandas dessas populações na diversidade das redes e das tramas comunicacionais. 2. conhecer o contexto social, cultural e histórico, além da realidade econômica e política no contexto local, nacional e internacional; 3. exercer atuação interdisciplinar no diálogo com as realidades as quais o profissional de jornalismo deve acessar, visando ao conhecimento transversal para a produção de pautas e textos.
+
+\9. PROPOSTA PEDAGÓGICA
+
+Na UFSB, o currículo dos cursos está assentado nas seguintes bases: flexibilidade, pluralidade pedagógica, atualização e conexão interdisciplinar, em permanente relação com a produção do conhecimento e das práticas profissionais e de ofícios, visando à construção de autonomia por parte do estudante. Assim concebida, nossa proposta pedagógica oferece opções de trajetórias acadêmicas singularizadas. Compreendemos o curso como um percurso a ser construído, apropriado e sistematizado pelo/a estudante sob orientação, desde que atendidos requisitos mínimos para sua integralização. Deve-se ainda oferecer orientação para que o/a estudante possa construir autonomia para adquirir conhecimentos, habilidades específicas e atitudes formativas. Esse entendimento vai ao encontro do que é demandado pelas DCNs do curso de Jornalismo e também se adequa, por exemplo, à proposta da Política Nacional de Extensão (2012) que propõe o protagonismo estudantil como tônica dos processos formativos, atendendo a uma proposta contemporânea de educação, em que indivíduos se tornam autores dos processos, capazes de produzir reflexão e crítica aos conteúdos, obtendo competências necessárias à atuação profissional com vistas à formação cidadã e à possibilidade de transformação social.
+
+O curso de Jornalismo, como um bacharelado com ampla fundamentação humanística interdisciplinar que, ademais, dá continuidade a uma formação interdisciplinar para aqueles que ingressarem por meio do regime de ciclos, se propõe a expandir as bases de uma formação comunicacional ampla e arejada, mas ao mesmo tempo aprofundar em práticas, conceitos e teorias específicas do jornalismo. É o momento na formação do/da estudante em que o amplo horizonte de possibilidades se define melhor em um campo mais específico. Além desse foco mais restrito, práticas e técnicas específicas da produção da notícia, do texto, da imagem e do som são aprofundadas e tratadas com muito mais dedicação.
+
+É dessa concepção fundadora que este PPC apresenta um amplo leque de práticas e técnicas em forma de Componentes Curriculares, integrados a extensão e relação com a comunidade externa, que permitirá ao/à estudante aprofundar os conhecimentos abordados durante a LI e/ou BI.
+
+Flexibilidade e autonomia
+
+Como sujeito ativo do processo de aprendizagem, o / a estudante deve ser acompanhado/a
+
+27
+
+e motivado/a no desenvolvimento da autonomia em suas escolhas e direcionamentos durante o curso, visto que essa é uma condição básica para a consolidação da sua competência para aprender a aprender. A conquista dessa habilidade é absolutamente necessária a sujeitos/ as que atuarão em realidade complexa em permanente transformação. Assim, será possível para o/a estudante posicionar-se mediante a escolha de Componentes Curriculares, dentre uma proporção significativa de conteúdos de natureza optativa durante o curso, possibilitando-lhe definir, em parte, o seu percurso de aprendizagem. Com esse intuito, no curso de Jornalismo da UFSB, somente alguns dos CCs laboratoriais exigem pré-requisitos, e a carga horária dos CCs obrigatórios corresponde a uma parte apenas da carga horária total de CCs ofertados. O/a estudante tem ainda a oportunidade de direcionar seu percurso para uma das três ênfases possíveis no curso, decidindo por fazer um maior aproveitamento do primeiro ciclo cursado, ou tecer um novo direcionamento para sua formação.
+
+Na relação com colegas, assim como com os docentes e servidores técnico- administrativos, é fundamental que o/a estudante esteja aberto à interação, compartilhe o respeito às diferenças, desenvolva habilidade de lidar com o outro em sua totalidade, incluindo suas emoções. Entende-se que a experiência de ser universitário deve ser vivenciada em sua plenitude, envolvendo a participação em entidades de categoria, instâncias decisórias, grupos de pesquisa, projetos de cooperação técnica e de integração social, eventos socioculturais e artísticos, entre outros fóruns de discussão e diferentes atividades.
+
+Interação entre discentes de diferentes níveis de formação e CCs
+
+Como forma de potencializar a interação entre discentes nos seus diferentes níveis de formação e entre CCs, este PPC propõe que a produção de exercícios, seminários e eventos científicos conjuntos entre as turmas, docentes e discentes seja prática recorrente a fim de fortalecer o diálogo entre as práticas curriculares. Um exemplo disso é pedir que estudantes em seus primeiros semestres não apenas tenham acesso aos conteúdos laboratoriais produzidos por outros colegas, como enviem sugestões e críticas para os/as docentes e estudantes responsáveis pela elaboração dos materiais elaborados, emulando algo que marcará a trajetória profissional dos futuros jornalistas e estimulando a conexão entre comunicação e cidadania.
+
+Repositório institucional para publicação e guarda dos trabalhos
+
+Uma diretriz importante para os coordenadores de curso do Jornalismo é a criação de repositório institucional para publicação e guarda dos Trabalhos de Conclusão de Curso (TCC) e também de projetos experimentais que sejam desenvolvidos. Nessa mesma linha de atuação, sugere-se que os/as docentes exponham seus TCCs e projetos experimentais não apenas na UFSB. Anualmente, a Sociedade Brasileira de Estudos Interdisciplinares da Comunicação (Intercom) organiza periodicamente a Exposição de Pesquisa Experimental em Comunicação (Expocom) durante seus congressos regionais e nacionais. É importante que o corpo docente da UFSB organize e promova a participação dos/as discentes em fóruns como este para que sejam estimulados a apresentar os resultados do curso e tenham suas obras acessadas por colegas de outras universidades. Outra recomendação ligada à divulgação científica é que a produção laboratorial desenvolvida pelas/os estudantes e triada pelos/as docentes esteja disponível em sites próprios e que haja cuidado para que tais materiais estejam a salvo quando de atualizações tecnológicas. Seguramente, a produção jornalística dos/as estudantes e docentes vai se constituir como material factual e histórico da região. A dimensão de promoção da memória que também justifica a criação do curso é mais um vetor para a valorização da iniciativa e tem forte
+
+28
+
+impacto na comunicação e na mobilização social.
+
+EIXOS CURRICULARES
+
+Para melhor gestão e organização dos conteúdos, em atendimento às Diretrizes Curriculares Nacionais do Curso de Jornalismo, os CCs do BJ foram divididos em eixos temáticos, conforme explicitação a seguir.
+
+Eixo de Formação Humanística
+
+Este eixo corresponde a uma parte expressiva dos componentes de formação geral do/a estudante – um conjunto de CCs que está associado tanto ao primeiro como ao segundo ciclo na UFSB, sendo obrigatório para todos os cursos. A formação humanística se complementa com os componentes de extensão (CCEx) ofertados pelo Centro de Formação em Artes e Comunicação (CFAC) e com componentes destinados a complementar a formação dos estudantes em relação a temas relevantes para os estudantes de Jornalismo, como política, legislação, direitos humanos etc. Além disso, damos espaço privilegiado às relações étnico-raciais – eixo fundamental de todos os cursos do CFAC, por razões que já foram expostas acima, ligadas às características gerais da população do Sul e Extremo Sul da Bahia. Vale observar, ainda, que CCs de primeiro ciclo associáveis a esse eixo podem, adicionalmente, ser aproveitados como Atividades Complementares, conforme se explanará adiante.
+
+Eixo de Fundamentação Contextual
+
+Neste eixo os/as estudantes terão contato com algumas principais discussões, teorias e saberes que contextualizam a Comunicação Social no passado e hoje. Além das Teorias da Comunicação, a lista abrange CCs provenientes do campo da linguística e da psicologia social e outros que discutem, especificamente, os fundamentos das linguagens sonora, fotográfica e audiovisual. Em seu conjunto, os CCs dão profundidade à formação do estudante e sua capacidade de pensar criticamente e elaborar os diversos tipos de produções da comunicação.
+
+Eixo de Fundamentação Específica
+
+Contempla CCs cuja função é proporcionar ao jornalista clareza conceitual e visão crítica sobre a especificidade de sua profissão, tais como: fundamentos históricos, taxonômicos, éticos, epistemológicos; ordenamento jurídico e deontológico; instituições, pensadores e obras canônicas; manifestações públicas, industriais e comunitárias; os instrumentos de autorregulação; observação crítica; análise comparada; revisão da pesquisa científica sobre os paradigmas hegemônicos e as tendências emergentes.
+
+Eixo de Formação Profissional
+
+O Eixo de formação profissional objetiva fundamentar o conhecimento teórico e prático, familiarizando os estudantes com os processos de gestão, produção, métodos e técnicas de apuração, redação e edição jornalística, possibilitando-lhes investigar os acontecimentos relatados pelas fontes, bem como capacitá-los a exercer a crítica e a prática redacional em língua portuguesa, de acordo com os gêneros e os formatos jornalísticos instituídos, as inovações tecnológicas, retóricas e argumentativas.
+
+Destacamos que, neste eixo, oferecemos aos estudantes CCs optativos específicos que tratam das ênfases principais das quais tratamos acima e que atendem a demandas e
+
+29
+
+peculiaridades da região da Costa do Descobrimento e extremo sul da Bahia: Jornalismo Cultural, Comunicação Comunitária e Jornalismo Científico a Ambiental.
+
+Também estão incluídos, neste eixo, componentes optativos da Formação Geral que tratam das produções textuais acadêmicas.
+
+Eixo de aplicação processual
+
+O objetivo deste eixo é fornecer ao futuro jornalista ferramentas técnicas e metodológicas, de modo que possa efetuar coberturas em diferentes suportes: texto, fotografia, produções sonoras, produções audiovisuais. No âmbito dos componentes, vários deles oferecidos em parceria com o Bacharelado em Som, Imagem e Movimento, os estudantes poderão adquirir conhecimentos técnicos fundamentais para seu ingresso no mundo profissional. Complementam o eixo componentes da Formação Geral (eixo de Matemática e Computação).
+
+Eixo de Prática Laboratorial
+
+Este eixo tem por objetivo oferecer conhecimentos e desenvolver habilidades inerentes à profissão jornalística. Possui a função de integrar os demais eixos, alicerçado em projetos editoriais definidos e orientados a públicos reais, com publicação efetiva e periodicidade regular, tais como: jornal, revista e livro, jornal mural, radiojornal, telejornal, webjornal, agência de notícias, entre outros. Neste eixo o/a estudante também poderá colocar em prática de forma mais consistente e aprofundada reflexões, análises e percursos teóricos desenvolvidos.
+
+Lista de Laboratórios (LABs) do Bacharelado em Jornalismo
+
+Lista de LABs do BJ Projetos a serem desenvolvidos
+
+Laboratório de jornalismo: notícia Agência de Notícias do Sul da Bahia (www.ansuba.org)
+
+Laboratório de jornalismo: reportagem
+
+Reportagens para a Ansuba ou editadas em páginas especiais para a web
+
+Laboratório de jornalismo: Rádio Produção de conteúdo para aproveitamento pelas rádios da região, via Ansuba ou outros projetos; podcasts
+
+Laboratório de jornalismo: TV Jornalismo para WebTV/TV, vídeos para internet etc.
+
+Laboratório de projeto gráfico Diagramação para on-line e impresso, e produção de projetos gráficos para produtos virtuais.
+
+30
+
+Laboratório de design digital e infografia
+
+Produção de infográficos para impresso e on-line, design para meios virtuais.
+
+Jornal mural (CC de extensão) Desenvolvimento de jornal mural (para o campus, ou bairros da cidade) em interação interdisciplinar com alunos de outros cursos do CFAC
+
+Nesses espaços de desenvolvimento de projetos coletivos, que abarcam propostas individuais, de acordo com os projetos editoriais desenvolvidos, teoria e prática são indissociáveis. Os aspectos técnicos ou teóricos abordados na matriz curricular são aqui trazidos para o contexto de cada projeto, a partir de suas singularidades, da motivação e do desejo de estudantes e docentes, visando potencializar a ação pedagógica e técnico- investigativa, o que inclui necessariamente a pesquisa. Constrói-se assim uma experiência significativa para a formação, em que ao mesmo tempo práticas pedagógicas no âmbito da criação comunicacional e desenvolvimento de projetos dialogam com componentes curriculares teóricos e práticos.
+
+Um elemento essencial da proposta dos Laboratórios com perspectiva extensionista consiste no desenvolvimento de ações em parcerias, internas e externas, operadas em diferentes níveis institucionais. O estudante será incentivado a ir a campo, a conhecer o entorno, e tecer vínculos e parcerias com comunidades, artistas, instituições públicas e privadas no desenvolvimento de seus projetos.
+
+Importante salientar que, desta forma, docentes e discentes do Bacharelado em Jornalismo estarão incidindo positivamente no espaço público, no fortalecimento das relações interinstitucionais, públicas, principalmente, e contribuindo para o aprimoramento da comunicação pública na região.
+
+Ênfases do curso (e dos percursos)
+
+No curso de Jornalismo, a formação do estudante poderá se dar em pelo menos três ênfases, identificadas com as vocações da UFSB e de nossa região, o Sul da Bahia: Comunicação Comunitária, Jornalismo Cultural ou Jornalismo Científico e Ambiental.
+
+Estas ênfases cumprem uma dupla função. Em primeiro lugar, elas oportunizam aos estudantes do primeiro ciclo da UFSB nas áreas de Ciências, Saúde, Linguagens, Artes, Matemática e Computação e Humanidades a entrada para o Bacharelado em Jornalismo no CFAC, aproveitando parte da carga horária já cursada em seus bacharelados ou licenciaturas interdisciplinares (BI e LI). Deste modo, por exemplo, após a graduação no primeiro ciclo, um/a estudante das Artes ou Linguagens poderá com muita propriedade trabalhar, em seu percurso formativo no curso Jornalismo, a ênfase de formação em Jornalismo Cultural, cursando, além dos CCs da área das artes e cultura integrais de sua primeira formação, o CC Jornalismo Cultural, no segundo ciclo, bem como direcionando seus projetos, pesquisas e práticas para o campo da cultura. O mesmo se passaria com estudantes graduados nas grandes áreas das Ciências no primeiro ciclo, que poderão buscar uma formação em Jornalismo no segundo ciclo com ênfase em Jornalismo Científico e Ambiental, ou com graduados em Humanidades ou Artes, que poderão preferir desenvolver um percurso e empenho no campo da Comunicação Comunitária.
+
+O desenvolvimento da ênfase ao longo do curso é livre e não está obrigatoriamente vinculado à formação do primeiro ciclo (até porque, tendo em vista as muitas possibilidades
+
+31
+
+da interdisciplinaridade do primeiro ciclo, muitos/as estudantes realizam percursos relativamente híbridos entre as grandes áreas). Para que a implementação das ênfases seja bem-sucedida, coordenadores do curso e docentes devem estar atentos aos percursos de formação passados e futuros escolhidos pelos/as estudantes, aos interesses gerais dos/ das estudantes, bem como às possibilidades didáticas, teóricas e práticas de se trabalhar tais ênfases ao longo dos processos de ensino, pesquisa e extensão.
+
+Em segundo lugar, a tripla ênfase (Comunicação Comunitária, Jornalismo Cultural ou Jornalismo Científico e Ambiental) atende a demandas e peculiaridades da região da Costa do Descobrimento e extremo sul da Bahia, um território marcado pela presença de comunidades indígenas, remanescentes quilombolas, culturas periféricas e urbanas, movimentos sociais do campo e comunidades extrativistas, num estado que tem cerca de 80% de sua população formada por não brancos (negros e indígenas, sobretudo). Este território é ainda atravessado por iniciativas desenvolvimentistas expressas nos setores do turismo, cultura e agronegócio. Sendo assim, o curso tem a preocupação de formar estudantes para atuarem, desde o inicio de sua formação, nas distintas possibilidades que a prática jornalística abarca, como autogestão comunicativa, comunicação organizacional, produção de conteúdos para distintos suportes midiáticos, além dos empregos possíveis da comunicação como saber(es) da cultura.
+
+Nesse sentido, entende-se comunicação comunitária como as práticas jornalísticas e de comunicação social que se conectam a formas coletivas de autonomia sociocultural, política e econômica, e os processos comunicacionais baseados em princípios públicos, de modo a ampliar o exercício das cidadanias em âmbito local. Tais práticas têm como norte o direito à comunicação – direito de todo indivíduo ou coletividade ao acesso aos meios, à produção, à distribuição e à recepção de conteúdos comunicativos de qualquer natureza.
+
+Como jornalismo cultural, compreende-se o fazer jornalístico que parte da diversidade cultural e epistêmica para promover o diálogo entre diferentes práticas culturais – como culturas artísticas, populares, urbanas, rurais, quilombolas, indígenas –, referenciais na construção das identidades locais e regionais. Parte-se aqui, também, de um gesto crítico- analítico frente à produção simbólica da indústria cultural, evitando-se, contudo, binarismos reducionistas como margem/centro, popular/erudito, tradicional/contemporâneo.
+
+Como jornalismo científico, compreende-se, em primeiro lugar, um conjunto de práticas jornalísticas conectadas à difusão de informações ligadas ao campo das Ciências, o que inclui o trabalho junto aos sistemas da educação básica e do ensino superior, fomentando o desenvolvimento sustentável, além do trabalho ligado ao campo da Saúde, no que tange ao SUS – sistema em que o acesso à informação também joga importante papel em âmbito local/comunitário. Além disso, agrega-se a esse campo o jornalismo ambiental, especialização jornalística no acompanhamento de fatos relacionados ao meio ambiente, à ecologia, à natureza em geral (fauna, flora, paisagem - o mundo dos não humanos), e na participação no debate público sobre as consequências de iniciativas de desenvolvimento para o meio ambiente, a biodiversidade, o clima. Esses dois campos – jornalismo científico e ambiental – estão entrelaçados porque, para ser um jornalista ambiental, é preciso ter bom entendimento da linguagem científica, além de ser capaz de acompanhar as organizações ambientais e as decisões do mundo da política que afetam o meio ambiente.
+
+Atendendo os preceitos acima, três componentes curriculares (CCs) foram introduzidos na matriz curricular, correspondendo a cada uma das ênfases: Comunicação Comunitária (CC de Extensão), Jornalismo Cultural e Jornalismo Científico e Ambiental. Os estudantes terão a oportunidade de ampliar os conhecimentos e reflexões sobre tais vertentes da prática jornalística nos CCs de práticas do eixo de Prática Laboratorial e de Formação Profissional – também terão a oportunidade de propor seus próprios trabalhos autorais específicos, no campo de sua preferência, em seus Trabalhos de Conclusão de Curso.
+
+32
+
+TCC
+
+Complementando o eixo de prática laboratorial e o estágio supervisionado, no âmbito da formação e prática profissional está o TCC – Trabalho de Conclusão de Curso, dividido em uma fase preparatória (I) e outra de execução). Nele devem culminar os saberes, experiências, conhecimentos profissionais adquiridos ao longo do curso.
+
+TCC I 60
+
+TCC II 150
+
+\10. ARQUITETURA CURRICULAR
+
+Os cursos de Primeiro Ciclo na UFSB compreendem: componentes curriculares (CCs) de Formação Geral; CCs Obrigatórios; CCs Optativos; CCs Livres. CCs Livres são componentes de qualquer área ou ciclo de estudos, ou CCs de tópicos variados. O BJ inclui CCs obrigatórios, optativos e livres, deixando, ainda, margem para que os estudantes possam realizar parte de sua formação cursando CCs de primeiro ciclo que serão validados por meio das Atividades Complementares. Além disso, parte dos CCs do BJ pode ser cumprida como CCs Optativos ou Livres durante as graduações em 1º ciclo, abreviando o tempo necessário para a conclusão do curso de 2º ciclo.
+
+10.1 Formação Geral
+
+A partir da edição das resoluções 10/2020 e 02/2023, ambas do Conselho Universitário da UFSB, a Formação Geral (FG) passa a ser parte integrante de todos os cursos de graduação da UFSB. No caso do curso de Jornalismo, por deliberação do Colegiado do Curso, ela é composta por 360 horas, incluindo os cinco eixos preconizados pela portaria 15/2021, da Pró-Reitoria de Gestão Acadêmica (Progeac), como explanaremos a seguir.
+
+Buscando integrar as exigências das DCNs da área de Jornalismo com as condições próprias propostas pelo modelo da UFSB, o projeto pedagógico do curso de Jornalismo organiza-se a partir de uma estrutura curricular que divide os componentes curriculares (CCs) que o integram – inclusive os que fazem parte da formação interdisciplinar de 1º ciclo – a partir dos seis eixos apresentados nas DCNs.
+
+Segundo a resolução 10/2020: “A Formação Geral é um currículo comum aos cursos da UFSB composto por Componentes Curriculares obrigatórios que visam auxiliar na transição da educação básica para o ensino superior a partir do reconhecimento da Universidade como espaço heterogêneo de compartilhamento de saberes que têm como princípio a interação dialógica, criativa e crítica”. Esse conjunto objetiva: “preparar o/a estudante para a vivência acadêmica e cidadã, com ênfase na complexidade das relações entre ciência, tecnologia e sociedade; no aprimoramento de práticas contemporâneas de interação; e no reconhecimento da importância da arte e da cultura na constituição dos sujeitos”.
+
+Parte da Formação Geral, bem como um conjunto de CCs de primeiro ciclo de caráter
+
+33
+
+interdisciplinar, integra-se no eixo de formação humanística (que, no total, tem carga horária de 390 horas), das quais 180 horas integrantes da FG, dos seguintes eixos: Artes e Humanidades na formação cidadã; Ciências na formação cidadã; Línguas estrangeiras (60h cada).
+
+Outra parcela dos CCs da FG indicados para os alunos do curso é compreendida como parte dos eixos de Formação Profissional e Aplicação Processual. São os CCs da Formação Geral (optativos entre os quais o estudante deve totalizar 180 horas), nos eixos de Matemática e Computação e Produções Textuais Acadêmicas (60h cada).
+
+10.2 Matriz curricular
+
+A Matriz curricular do curso Jornalismo do CFAC busca atender às demandas das DCNs para o curso de Jornalismo, bem como as idiossincrasias da UFSB, sua proposta pedagógica e curricular, e sua estrutura acadêmica e institucional, com a presença de formação em ciclos.
+
+Em sua proposta curricular, o curso tece importantes laços com o Bacharelado Interdisciplinar em Artes, oferecendo como optativos para esses alunos de 1º ciclo diversos CCs. Para que o estudante de 1o ciclo interessado em migrar para o curso de Jornalismo após o término de seu BI possa posteriormente concluir seu 2o ciclo em cinco semestres, recomenda-se que ele curse os seguintes Ccs optativos para o 1o ciclo (correspondentes ao que é oferecido no 2o semestre do curso de Jornalismo): Introdução ao Jornalismo, além de pelo menos um CC obrigatório dos eixos de Fundamentação Contextual ou Específica – preferencialmente, Teorias da Comunicação. Há, além disso, uma série de CCs do BI Artes – obrigatórios ou optativos – passíveis de aproveitamento pelos alunos de Jornalismo: Artes e comunicação nas sociedades contemporâneas; Cinema, criação e educação audiovisual; Estéticas dos Povos Originários das Américas; Estéticas Negrodescendentes.
+
+O 1o ano em Jornalismo inclui ainda a recomendação de que os alunos cursem CCs optativos de Extensão, totalizando 160h aproveitáveis. Esses CCs, vale observar, são comuns aos cursos de 1o ciclo e, nesse sentido, trata-se, também, de carga horária que, se já integralizada ao longo de um BI ou LI, permite que o estudante que migra para o curso de Jornalismo finalize seu curso no período previsto.
+
+O curso de Jornalismo possui, ainda, uma conexão forte com outro curso de 2o ciclo do CFAC, o bacharelado em Som, Imagem e Movimento, uma vez que este apresenta formações nos campos da produção sonora, artes visuais e audiovisual. São aproveitados e trabalhados conjuntamente entre os dois cursos o equivalente a 690 horas. Trata-se de uma cuidadosa seleção de CCs que compõem um campo possível e pertinente de interação entre os cursos, que podem não somente aproximar os estudantes do Som, Imagem e Movimento do campo da comunicação, como, principalmente, aproximar o estudante do Jornalismo do campo das Artes, do Audiovisual e do Design, sensibilizando-o para aspectos fundamentais da produção de linguagens inerentes, em muitos momentos, também às práticas do jornalismo, além de oportunizar a relação intrínseca com a extensão. Exemplos desses pontos de interação são CCs como Criação Editorial e Tipografia, no âmbito das Artes Gráficas, Teoria da Imagem e Fotografia, no âmbito da Produção Imagética, Montagem e Edição ou Filmagem e Gravação em Vídeo, no campo do Audiovisual, entre outros.
+
+Finalmente, para propiciar ao estudante a possibilidade de complementar sua formação, sobretudo no campo da Fundamentação Humanística e as Aplicações Processuais, ainda oferecemos como optativos alguns CCs ligados ao Bacharelado Interdisciplinar em Humanidades: Ciência Política; Teorias Econômicas Clássicas e Contemporâneas; Estatística e Sociedade.
+
+Para além dessas parcerias com os demais cursos do CFAC e de outros centros de formação da UFSB, o eixo central de formação no campo do Jornalismo, com grande variedade de conteúdos planejados e ofertados especificamente para os estudantes do
+
+34
+
+Jornalismo, inclui os CCs:
+
+Introdução ao Jornalismo História do Jornalismo Ética e Jornalismo Políticas de Comunicação Teorias do Jornalismo Teorias da Comunicação Apuração e Texto Jornalístico Teorias e Práticas das Narrativas Jornalísticas Teorias da Linguagem Psicologia Social da Comunicação Jornalismo em Rádio e TV Fotojornalismo Jornalismo Cultural Comunicação Comunitária (Extensão) Educação Midiática (Extensão) Jornal Mural (Extensão) Comunicação Antirracista Jornalismo Científico e Ambiental Metodologia de Pesquisa em Comunicação Mídias digitais: histórias e teorias Edição e tratamento de imagem digital Laboratório de Jornalismo: Notícia Laboratório de Jornalismo: Reportagem Laboratório de Jornalismo: Rádio Laboratório de Jornalismo: TV Laboratório de projeto gráfico Laboratório de design digital e infografia Tópicos avançados em Jornalismo Temas contemporâneos em Jornalismo Assessoria de Comunicação e Comunicação integrada Modelos de Gestão e Projetos Autorais em Jornalismo e Comunicação Libras
+
+10.2.1 Percurso de primeiro ciclo passível de aproveitamento
+
+ESTUDANTE PODE APROVEITAR ATÉ 1640 HORAS
+
+Abaixo é apresentada a lista de CCs de primeiro ciclo, em diversas as áreas de formação, que integram o percurso do curso de Jornalismo da UFSB. Importante perceber que a Formação Geral está assinalada tanto como percurso de 1º como de 2º ciclo porque deve ser cursada tanto por quem ingressa de forma direta no BJ, via Sisu, como por quem acessa o curso via progressão, tendo cursado antes um BI ou LI. Além disso, CH extra na FG pode ser computada dentre os CCs optativos ou como atividade complementar.
+
+Observemos, ainda, que, em atendimento à Resolução 13/2021, que dispõe sobre a curricularização das atividades de extensão nos cursos de graduação da Universidade Federal do Sul da Bahia (UFSB), os Componentes Curriculares de Extensão que são optativos para os cursos de 1º ciclo, bem como a carga horária em Atividades Curriculares de Extensão, poderão ser aproveitados para o BJ. Desta forma, é possível a um estudante de 1º ciclo que progrida para o BJ aproveitar até 320h em CCEx e ACEx.
+
+35
+
+Somando-se, então, os Componentes Curriculares, os CCEx, as ACEx e as Atividades Complementares, o estudante que progride do 1º para o 2º ciclo na UFSB, para cursar o BJ, pode aproveitar mais de 1.600 horas das 2.400h que compõe um BI ou das pelo menos 3.200h que compõem uma LI.
+
+FORMAÇÃO GERAL
+
+Universidade e Sociedade 60
+
+Arte e território 60
+
+Experiência do sensível 60
+
+Humanidades, interculturalidades e metamorfoses sociais 60
+
+Ciência e Cotidiano 60
+
+Ciência, sociedade e ética 60
+
+Saúde única: humana, animal e ambiental 60
+
+Ambientes virtuais e colaborativos de ensino-aprendizagem 30
+
+Fundamentos de estatística 30
+
+Fundamentos de matemática 30
+
+Estratégias de leitura em língua inglesa 60
+
+Estratégias de leitura em língua espanhola 45
+
+Língua inglesa e cultura 60
+
+Oficina de textos acadêmicos 30
+
+Artigo científico e exposição oral 30
+
+Autoria na produção do texto acadêmico 30
+
+Oficina de escrita criativa 75
+
+Estratégias de leitura em língua espanhola 45
+
+Brasil: Cidadania, democracia e políticas públicas 45
+
+Territorialidades e sustentabilidade no contexto regional 45
+
+TOTAL DE HORAS OFERTADAS 975H
+
+CH A SER CUMPRIDA 360H
+
+BI LI ARTES
+
+Artes e comunicação nas sociedades contemporâneas 30
+
+Estéticas dos Povos Originários das Américas 75
+
+36
+
+Estéticas Negrodescendentes 75
+
+Cinema, criação e educação audiovisual 75
+
+Produção cultural e economia criativa 75
+
+BI LI CIÊNCIAS
+
+Divulgação científica 60
+
+BI LI HUMANIDADES
+
+Introdução aos estudos sobre os povos negros e indígenas no Brasil 75
+
+Ciência Política 60
+
+Libras 60
+
+GESTÃO PÚBLICA E SOCIAL – 2º ciclo (OPTATIVAS OFERECIDAS AO BIH)
+
+Teorias econômicas clássicas e contemporâneas 60
+
+Estatística para Gestão 75
+
+CCS DE EXTENSÃO
+
+Artes e Comunicação: Extensão universitária e Interdisciplinaridade (CCEx) 75
+
+Educação Midiática (CCEx) 45
+
+Comunicação comunitária (CCEx) 75
+
+Jornal Mural (CCEx) 45
+
+Vivências em saberes tradicionais e populares (CCEx) 75
+
+TOTAL DE HORAS DE CCEX OFERTADAS 315H
+
+CH A SER CUMPRIDA 160H
+
+TOTAL DE HORAS OFERTADAS PELOS BI E LI (CCs + CCEx) 1035
+
+CH DO 1º CICLO QUE PODE SER APROVEITADA (Optativas, incluindo CCEx + FG) 1240
+
+ATIVIDADES DE EXTENSÃO 160
+
+ATIVIDADES COMPLEMENTARES 240
+
+CH MÁXIMA DO 1º CICLO A SER APROVEITADA 1640
+
+37
+
+10.2.2 Percurso para ingresso direto no 2º ciclo
+
+EIXO 1 - FORMAÇÃO HUMANÍSTICA
+
+Universidade e Sociedade (FG) 60 Optativo
+
+Experiências do sensível (FG) 60 Optativo
+
+Arte e território (FG) 60 Optativo
+
+Humanidades, interculturalidades e metamorfoses sociais (FG) 60 Optativo
+
+Ciência e Cotidiano (FG) 60 Optativo
+
+Ciência, sociedade e ética (FG) 60 Optativo
+
+Saúde única: humana, animal e ambiental (FG) 60 Optativo
+
+Estratégias de leitura em língua inglesa (FG) 60 Optativo
+
+Língua inglesa e cultura (FG) 60 Optativo
+
+Estratégias de leitura em língua espanhola (FG) 45 Optativo
+
+Educação midíatica (CCEx) 45 Optativo
+
+Introdução aos estudos sobre os povos negros e indígenas no Brasil (BIH) 75 Optativo
+
+Brasil: Cidadania, democracia e políticas públicas (FG) 45 Optativo
+
+Territorialidades e sustentabilidade no contexto regional (FG) 45 Optativo
+
+Estéticas dos Povos Originários (BI Artes) 75 Optativo
+
+Estéticas Negrodescendentes (BI Artes) 75 Optativo
+
+Ciência Política (BIH) 60 Optativo
+
+Teorias econômicas clássicas e contemporâneas (BIH/GPS) 60 Optativo
+
+Artes e Comunicação: Extensão universitária e Interdisciplinaridade (CCEx) 75 Optativo
+
+Vivências em saberes tradicionais e populares (CCEx) 75 Optativo
+
+Libras 60 Optativo
+
+TOTAL DE HORAS OFERTADAS 1275
+
+CH A SER CUMPRIDA 345
+
+EIXO 2 - FUNDAMENTAÇÃO CONTEXTUAL
+
+Teorias da comunicação 75 Obrigatório
+
+38
+
+Teorias da linguagem 75 Optativo
+
+Psicologia social da comunicação 45 Optativo
+
+Metodologias de pesquisa em comunicação 45 Optativo
+
+Teorias da imagem (SIM) 75 Optativo
+
+Teorias do som (SIM) 75 Optativo
+
+Teorias da imagem em movimento (SIM) 75 Optativo
+
+Arqueologia da imagem (SIM) 45 Optativo
+
+Artes e comunicação nas sociedades contemporâneas (BI Artes) 30 Optativo
+
+Divulgação científica (BI Ciências) 60 Optativo
+
+TOTAL DE HORAS OFERTADAS 600
+
+CH A SER CUMPRIDA 330
+
+EIXO 3 - FUNDAMENTAÇÃO ESPECÍFICA
+
+Eixo fundamentação específica
+
+Introdução ao Jornalismo 45 Obrigatório
+
+Teorias do Jornalismo 75 Obrigatório
+
+História do Jornalismo 75 Obrigatório
+
+Ética e Jornalismo 45 Obrigatório
+
+Modelos de Gestão e Projetos Autorais em Jornalismo e Comunicação 45 Optativo
+
+Políticas de comunicação 45 Optativo
+
+Direitos autorais e Legislação (SIM) 30 Obrigatório
+
+Temas contemporâneos em jornalismo 45 Optativo
+
+Mídias digitais: histórias e teorias 45 Optativo
+
+Comunicação Antirracista 45 Optativo
+
+TOTAL DE HORAS OFERTADAS 495
+
+CH A SER CUMPRIDA 330
+
+EIXO 4 - FORMAÇÃO PROFISSIONAL
+
+39
+
+Apuração e texto jornalístico 75 Obrigatório
+
+Teorias e práticas das narrativas jornalísticas 45 Optativo
+
+Jornalismo em rádio e TV 45 Optativo
+
+Jornalismo científico e ambiental 75 Optativo
+
+Jornalismo cultural 45 Optativo
+
+Comunicação comunitária (CCEx) 75 Optativo
+
+Assessoria de comunicação e comunicação integrada 45 Optativo
+
+Tópicos avançados em jornalismo 45 Optativo
+
+Oficina de escrita criativa (FG) 75 Optativo
+
+Oficina de textos acadêmicos (FG) 60 Optativo
+
+Artigo científico e exposição oral (FG) 30 Optativo
+
+Autoria na produção do texto acadêmico (FG) 30 Optativo
+
+TOTAL DE HORAS OFERTADAS 645
+
+CH A SER CUMPRIDA 330
+
+EIXO 5 - APLICAÇÃO PROCESSUAL
+
+Fotojornalismo 45 Obrigatório
+
+Edição e tratamento de imagem digital 45 Optativo
+
+Gravação e edição de áudio (SIM) 75 Optativo
+
+Filmagem e gravação em vídeo (SIM) 75 Optativo
+
+Montagem e edição de vídeo (SIM) 75 Optativo
+
+Oficina de fotografia e vídeo (SIM) 30 Obrigatório
+
+Mixagem e masterização (SIM) 45 Optativo
+
+Fotografia (SIM) 45 Optativo
+
+Roteiro para cinema e audiovisual (SIM) 75 Optativo
+
+Produção cultural e economia criativa (BI Artes) 75 Optativo
+
+Cinema, criação e educação audiovisual (BI Artes) 75 Optativo
+
+Cinema documentário (SIM) 75 Optativo
+
+Criação editorial (SIM) 45 Optativo
+
+Publicação, distribuição, conservação e acervo (SIM) 30 Optativo
+
+40
+
+Tipografia (SIM) 30 Optativo
+
+Ambientes virtuais e colaborativos de ensino-aprendizagem (FG) 30 Optativo
+
+Fundamentos de matemática (FG) 30 Optativo
+
+Fundamentos de estatística (FG) 30 Optativo
+
+Estatística para Gestão (BIH/GPS) 45 Optativo
+
+Oficina de Leitura Expressiva e Narração Oral (SIM/ACC) 75 Optativo
+
+TOTAL DE HORAS OFERTADAS 1050
+
+CH A SER CUMPRIDA 330
+
+EIXO 6 - PRÁTICA LABORATORIAL
+
+Laboratório de jornalismo: Notícia 75 Obrigatório
+
+Laboratório de jornalismo: Reportagem 75 Obrigatório
+
+Laboratório de jornalismo: Rádio 75 Obrigatório
+
+Laboratório de jornalismo: TV 75 Obrigatório
+
+Laboratório de projeto gráfico 45 Obrigatório
+
+Laboratório de design digital e infografia 45 Optativo
+
+CCEx Jornal Mural 45 Optativo
+
+Laboratório de jornalismo: projetos especiais 45 Optativo
+
+TOTAL DE HORAS OFERTADAS 480
+
+CH A SER CUMPRIDA 345
+
+CCS DE LIVRE ESCOLHA ENTRE OS EIXOS
+
+CH A SER CUMPRIDA 180
+
+ESTÁGIO
+
+41
+
+Estágio I (Atividade orientada) 90
+
+Estágio II (Atividade orientada) 120
+
+CH A SER CUMPRIDA 210
+
+TCC
+
+TCC(OBRIGATÓRIOS) CH
+
+Os TCCs são desenvolvidos fora dos horários regulares de aula, com acompanhamento de um (a) orientador(a) e horários por agendamento
+
+TCC (Atividade orientada) 60
+
+TCC (Atividade orientada) 150
+
+CH A SER CUMPRIDA 210
+
+ATIVIDADES COMPLEMENTARES/ EXTENSÃO
+
+ATIVIDADES COMPLEMENTARES CH
+
+CH A SER CUMPRIDA 240
+
+ATIVIDADES DE EXTENSÃO CH
+
+CCs de extensão (até o máximo de) 160
+
+Atividades de extensão* 160
+
+CH A SER CUMPRIDA 320
+
+A SER INTEGRALIZADO:
+
+COMPONENTES CURRICULARES 2190h TRABALHO DE CONCLUSÃO DE CURSO 210h ESTÁGIO SUPERVISIONADO 210h ATIVIDADES COMPLEMENTARES 240h EXTENSÃO (CCs + ATIVIDADES) 320h TOTAL DE HORAS A SEREM INTEGRALIZADAS 3170h
+
+42
+
+10.2.3 Atividades complementares
+
+Segundo as Diretrizes Curriculares Nacionais para a graduação em Jornalismo (artigo 13) são as seguintes as possibilidades de aproveitamento de atividades complementares no âmbito do curso:
+
+“I - atividades didáticas: frequência e aprovação em disciplinas não previstas no currículo do curso, ampliando o conhecimento dos estudantes de Jornalismo sobre conteúdos específicos, como economia, política, direito, legislação, ecologia, cultura, esportes, ciência, tecnologia etc. II - atividades acadêmicas: apresentação de relatos de iniciação científica, pesquisa experimental, extensão comunitária ou monitoria didática em congressos acadêmicos e profissionais”.
+
+A UFSB adota uma compreensão mais ampla sobre a natureza das Atividades Complementares, que não se choca com as DCNs, mas acrescenta uma série de outras possibilidades de aproveitamento. Segundo a resolução 16/2015 do Consuni/UFSB:
+
+"Atividades Complementares compreendem participação do/a estudante em atividades artísticas, culturais, esportivas, científicas e de representação estudantil seja na Universidade, na comunidade, em instituições, organizações ou outros espaços, visando à aquisição e/ou produção de conhecimentos e habilidades importantes para o exercício profissional, o voluntariado e a cidadania, e que contribuam para a complementação da sua formação pessoal, social, cultural e acadêmica."
+
+A carga horária mínima obrigatória destinada às Atividades Complementares no Bacharelado em Jornalismo será de 240 horas.
+
+Os casos omissos e de adaptação curricular (“Outros”, na tabela abaixo) serão resolvidos pelo Colegiado do Jornalismo, conforme o Artigo 8o. da Res. 16/2015.
+
+Segue abaixo quadro de atividades e respectivas pontuações para o cálculo das Atividades Complementares no BJ.
+
+ATIVIDADES COMPLEMENTARES
+
+HUMANA E SOCIAL CARGA HORÁRIA VÁLIDA
+
+Participação em atividades esportivas
+
+Carga horária total da atividade, limitadas a 120h
+
+Participação em projetos ou ações sociais promovidas pela UFSB, ou por ela reconhecidos, ou ações de voluntariado
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+43
+
+Participação efetiva em trabalhos voluntários ou beneficentes, atividades comunitárias, CIPAs, associações de bairros ou similares, brigadas de incêndio, associações escolares ou similares
+
+Carga horária total da atividade, limitadas a 120h
+
+Atuação como instrutor em palestras técnicas, seminários, desde que não remunerados e de interesse da sociedade
+
+Carga horária total da atividade, limitadas a 120h
+
+Engajamento como docente não remunderado em cursos preparatórios, de reforço escolar ou outros cursos de formação
+
+Carga horária total da atividade, limitadas a 120h
+
+Participação em atividades de extensão, não remuneradas e de interesse social*
+
+\* somente pode ser aproveitada a CH quando ultrapassar a CH mínima requerida para ACEx
+
+Carga horária do certificado de participação, limitadas a 120h
+
+Participação em projetos institucionais multidisciplinares ou interdisciplinares
+
+Carga horária máxima do certificado de participação, limitadas a 120h
+
+Modo de comprovação: Certificado da instituição responsável.
+
+ACADÊMICA CARGA HORÁRIA VÁLIDA
+
+Frequência e aprovação em CCs não previstos no currículo do curso, ampliando o conhecimento dos estudantes sobre conteúdos específicos, como economia, política, direito, legislação, ecologia, cultura, esportes, ciência, tecnologia
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 150h
+
+44
+
+Participação em atividades de Orientação Acadêmica
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Participação em eventos de natureza acadêmica, de divulgação ou de atualização cultural, internos ou externos à UFSB
+
+Para cada hora de atividade comprovada será computada 1 hora de AC. Média: 4 horas por evento, até no máximo 120h
+
+Participação em Palestras, Conferências
+
+Para cada hora de atividade comprovada será computada 1 hora de AC. Média: 2 horas por palestra, até no máximo 120h
+
+Participação em Congressos, Simpósios, Fóruns, Encontros, Colóquios, Seminários
+
+Para cada hora de atividade comprovada será computada 1 hora de AC. Média: 8 horas por evento, até no máximo 120h
+
+Participação em cursos de componentes curriculares desta ou de outras instituições.
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Participação em Cursos, Oficinas, Ateliês livres ou de outras instituições para aperfeiçoamento técnico
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Participação em projetos de pesquisa, Iniciação Científica, Bolsa de Auxílio à Permanência
+
+Carga horária máxima proporcional de IC de 150h por ano, até no máximo 150h
+
+Participação em comissões de organização de eventos e atividades didáticas, artísticas, científicas ou culturais na UFSB
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Publicação de resumos em eventos de caráter técnico-científico-artístico (autoria ou co-autoria)
+
+10h por resumo publicado, até no máximo 120h
+
+45
+
+Publicação em Anais de eventos de caráter técnico-científico-artístico (autoria ou co-autoria)
+
+25h por artigo publicado em Anais, até no máximo 120h
+
+Monitoria, Iniciação à Docência Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Cursos de Línguas Até no máximo 120h
+
+Participação em atividades de divulgação do Projeto da UFSB
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Modo de comprovação: Para o caso da Orientação Acadêmica vale o registro de “Aprovado” no histórico escolar. Declaração da coordenação do evento, com carga horária, local, período e profissional responsável pela atividade. No caso de resumo ou artigo publicado, o comprovante é o próprio objeto da publicação.
+
+PROFISSIONAL CARGA HORÁRIA VÁLIDA
+
+Realização de trabalho autoral independente de natureza jornalística (documentário, podcast, reportagem etc.)
+
+10h por produto (ou, em caso de dedicação suprerior, comprovar) - até no máximo 120h
+
+Publicação em veículo jornalístico de produção pessoal (reportagem, artigo, podcast etc.)
+
+10h por produto (ou, em caso de dedicação suprerior, comprovar) - até no máximo 120h
+
+Proferir palestra, ministrar curso, treinamento ou oficina sobre temas relacionados a Comunicação/ Jornalismo
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Realização de entrevistas e visitas técnicas a artistas, comunicadores e/ou grupos artísticos e/ou de comunicação
+
+Para cada hora de atividade comprovada será computada 1 hora de AC. Média: 4 horas por visita, até no máximo 120h
+
+Estágio não obrigatório na área do curso ou trabalho com vínculo empregatício na área de comunicação*
+
+\* caso ocupação seja a mesma em que está sendo validada CH de Estágio Curricular Supervisionado, somente pode ser aproveitada a CH que ultrapassar o
+
+Carga horária máxima de 120h
+
+46
+
+requerido para o ECS
+
+Trabalho como empreendedor em Jornalismo/ Comunicação
+
+Carga horária máxima de 120h
+
+Modo de comprovação: Para eventos: folder, folheto, programa ou bilhete, documentação fotográfica, acompanhado de relatório para cada evento conforme modelo em anexo. Para atividades e eventos, o certificado, Atestado ou Declaração com carga horária, local, período e profissional responsável pela atividade. Para dedicação profissional, produto e comprovação de tempo dedicado a sua criação (relatório, fotos, prints etc.).
+
+POLÍTICA ESTUDANTIL CARGA HORÁRIA VÁLIDA
+
+Participação em Diretórios Estudantis, Centros Acadêmicos (como representante eleito), Entidades de Classe, Conselhos e Colegiados da UFSB como Representante Discente
+
+Até 60h por participação anual e no máximo 120h
+
+Participação em Órgãos e Entidades de Classe na sociedade.
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Participação em representação oficial de sua comunidade em órgãos públicos ou em associações comunitárias ou de caráter étnico
+
+Para cada hora de atividade comprovada será computada 1 hora de AC, até no máximo 120h
+
+Outros Até o máximo de 120h
+
+10.2.4 Estágio curricular supervisionado
+
+A carga horária mínima obrigatória do Estágio Supervisionado no BJ será de 210 horas, em concordância com as DCNs para o curso de Jornalismo, a Resolução nº 1, de 27 de setembro de 2013 do Ministério da Educação (MEC/CNE/CES), que estabelece carga horária mínima (200 horas) a ser destinada ao estágio curricular supervisionado nos cursos de graduação/bacharelado em Jornalismo; e com a Resolução nº 2, de 18 de junho de 2007 do MEC/CNE/CES, que dispõe sobre carga horária mínima e procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial. A CH está distribuída em duas atividades orientadas de 90 e 120 horas, respectivamente. Os/as estudantes inscritos nessas atividades serão acompanhados/as por um/a professor/a orientador/a, além de também dever contar, no ambiente do estágio, com a supervisão de um jornalista profissional (DCNs, artigo 12, § 4º).
+
+O estágio tem como objetivo a consolidação de práticas de desempenho profissional e consiste em atividades práticas realizados pelo/a estudante dentro ou fora da unidade em
+
+47
+
+que o curso é ministrado, sob a supervisão de um/a docente. Tais atividades permitem ao/à discente atuar diretamente no mercado profissional ou em projetos na universidade junto aos quais poderá exercitar atividades jornalísticas. São consideradas atividades de estágio pelo Bacharelado em Jornalismo aquelas realizadas no âmbito da UFSB ou em instituições com as quais o Centro de Formação em Artes e/ou a própria Universidade possuam convênio, com atuação nos municípios em que estão localizados os campi ou CUNIs da UFSB. A carga horária do Estágio Supervisionado poderá ser cumprida pelo/a estudante do curso de Jornalismo da UFSB em atividades como:
+
+a) atividades de natureza jornalística junto a projetos de extensão ou de pesquisa no âmbito da
+
+própria universidade ou outras instituições de ensino superior; b) trabalho regular em empresas jornalísticas, assessorias de imprensa ou outras instituições no campo da Comunicação Social em que se exerça atividade de natureza jornalística; c) trabalho jornalístico temporário em equipes de produção; d) atividades jornalísticas em incubadoras de empresas/cooperativas, e/ou empresas juniores no âmbito da Universidade.
+
+No caso de o estágio ocorrer fora da área de atuação das atividades dos cursos e projetos do campus Sosígenes Costa da UFSB em Porto Seguro, onde está a sede do curso, um/a professor/a da área de Artes e/ou Comunicação autorizado pelo Centro de Formação em Artes e Comunicação (CFAC) no campus em que o/a estudante estiver matriculado/a, deve orientá-lo/a.
+
+Segundo o artigo 10º da Resolução 21/2015 da UFSB, “a realização do Estágio se dá mediante Termo de Compromisso de Estágio (TCE) celebrado, no início das atividades de Estágio, entre a/o estudante, a parte concedente e a UFSB, representada pelo/a Coordenador/a de Curso, no qual são definidas as condições para o Estágio e o Plano de Atividades do estagiário”.
+
+No início de cada Estágio Supervisionado o/a estudante deve preparar, juntamente ao responsável por supervisionar o Estágio na instituição, laboratório ou projeto vinculado ao CFA, o Plano de Trabalho que deve ser aprovado pelo/a professor/a orientador/a do Estágio do CFA.
+
+Ao final de cada CC de Estágio Supervisionado, o/a estudante deve entregar um Relatório Final, que será avaliado pelo/a orientador/a. O/a supervisor/a do estágio no laboratório, projeto ou instituição conveniada deve entregar ao/à professor/a orientador/a uma Avaliação de Desempenho do/a estagiário/a. O/a professor/a orientador/a deve avaliar o desempenho do/a estudante no Estágio a partir da análise da sua produção durante o período, a implementação do Plano de Trabalho previsto, a assiduidade, a Avaliação de Desempenho entregue pelo/a supervisor/a e o Relatório Final entregue pelo/a estagiário/a até 30 dias após o término do CC de Estágio Supervisionado a cada semestre. Ao final, o/a estudante será aprovado ou não aprovado.
+
+As atividades de Estágio Supervisionado do curso de Jornalismo seguem as diretrizes determinadas por Lei e pelo Conselho Nacional de Educação. O artigo 2º da Lei nº 11.788 da Constituição Federal, de 25 de setembro de 2008, dispõe o seguinte sobre o estágio de estudantes do ensino superior:
+
+§ 3º As atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas pelo estudante, somente poderão ser equiparadas ao estágio em caso de previsão no projeto pedagógico do curso.
+
+48
+
+No artigo 3º da mesma Lei nº 11.788, dispõe-se que o estágio não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos:
+
+I – Matrícula e frequência regular do educando em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos e atestados pela instituição de ensino;
+
+II – Celebração de termo de compromisso entre o educando, a parte concedente do estágio e a instituição de ensino;
+
+III – Compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
+
+O CFAC, juntamente do BJ, deve celebrar os devidos convênios de Estágio Supervisionado com instituições, produtoras, agências, estúdios e espaços de cultura que possam receber os/as estudantes, respeitando-se os requisitos acima, e em conformidade com os seguintes artigos da Lei nº 11.788:
+
+Art. 8º É facultado às instituições de ensino celebrar com entes públicos e privados convênio de concessão de estágio, nos quais se explicitem o processo educativo compreendido nas atividades programadas para seus educandos e as condições de que tratam os Artigos. 6º a 14º desta Lei.
+
+Art. 12º O estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório.
+
+Ainda que desejável, as atividades de Estágio Supervisionado realizadas no âmbito da UFSB, tais como extensão, iniciação científica, monitoria e outras, não estão condicionadas à concessão de bolsa por parte da UFSB, do CFAC ou do BJ.
+
+As obrigações das instituições de ensino, em relação aos estágios de estudantes do ensino superior, estão definidas pelos incisos do art. 7º da Lei nº 11.788:
+
+I – Celebrar termo de compromisso com o educando ou com seu representante ou assistente legal, quando ele for absoluta ou relativamente incapaz, e com a parte concedente, indicando as condições de adequação do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar;
+
+II – Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando;
+
+III – Indicar professor orientador, da área a ser desenvolvida no estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário;
+
+IV – Exigir do educando a apresentação periódica, em prazo não superior a 6 (seis) meses, de relatório das atividades;
+
+V – Zelar pelo cumprimento do termo de compromisso, reorientando o estagiário para outro local em caso de descumprimento de suas normas;
+
+VI – Elaborar normas complementares e instrumentos de avaliação dos estágios de seus educandos;
+
+49
+
+VII – Comunicar à parte concedente do estágio, no início do período letivo, as datas de realização de avaliações escolares ou acadêmicas.
+
+Além das diretrizes específicas estabelecidas neste PPC, e das diretrizes gerais estabelecidas em Lei ou pelo Conselho Nacional de Educação, acima elencadas, o Estágio Supervisionado no curso de Jornalismo deve considerar atentamente as diretrizes dispostas na Resolução nº 21/2015 da UFSB, que detalha os procedimentos necessários para o Estágio Supervisionado na instituição, sendo atribuições do/a professor/a orientador/a de estágio, de acordo com o artigo 24º da Resolução nº 21/2015:
+
+I – Planejar, juntamente com a/o estagiária/o, acompanhar, organizar, coordenar, supervisionar e avaliar as atividades do estágio; II – Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional da/o educanda/o; III – Orientar técnica e pedagogicamente as/os estudantes no desenvolvimento de todas as atividades do estágio; IV – Receber e analisar o controle de frequência, relatórios e outros documentos das/os estagiárias/os; V – Encaminhar à Secretaria Acadêmica do Campus os documentos relacionados aos estágios; VI – Zelar pela celebração e pelo cumprimento do Termo de Compromisso de Estágio; VII – Informar à parte concedente do estágio as datas de realização de avaliações acadêmicas, em conjunto com a Secretaria Acadêmica; VIII – Prestar informações adicionais quando solicitada/o.
+
+Ainda de acordo com os artigos 13º a 17º dessa mesma Resolução, são direitos e deveres do estagiário:
+
+Art. 13º. A jornada de atividade em estágio, a ser cumprida pela/o estudante, deverá compatibilizar-se com o seu horário escolar e com o funcionamento do órgão ou empresa concedente do estágio.
+
+§ 1º A carga horária do estágio é reduzida quando a/o estagiária/o estiver realizando verificações de aprendizagem periódicas ou finais, nos períodos de avaliação, devendo esta cláusula estar estipulada no Termo de Compromisso, para garantir o bom desempenho da/o estudante;
+
+§ 2º A jornada de estágio, nos períodos de férias escolares, deve estar devidamente estabelecida de comum acordo entre o estagiário, a parte concedente do Estágio e a UFSB, e estar presente no Termo de Compromisso;
+
+§ 3º A jornada de atividade em estágio não poderá́ ultrapassar 6 (seis) horas diárias e 30 (trinta) horas semanais, exceto nos quadrimestres previstos nos Projetos Pedagógicos de Cursos que serão em tempo integral ou em períodos sem aulas;
+
+§ 4º A duração do estágio, na mesma parte concedente, não poderá́ exceder 2 (dois) anos, exceto quando se tratar de estagiária/o com deficiência;
+
+§ 5º Quadrimestralmente e a cada renovação de estágio, a/o estudante deve apresentar relatório das atividades aos/às professores/a supervisores/as da instituição e da UFSB, que encaminha o relatório à Secretaria Acadêmica do Campus;
+
+50
+
+§ 6º O relatório deve conter a avaliação da/o profissional que supervisionou a/o estudante no local do estágio durante a sua realização;
+
+§ 7º Cada renovação do estágio está condicionada à aprovação do relatório do período anterior pela/o professor/a supervisor/a;
+
+§ 8º A renovação deve ser realizada antes do final da vigência do estágio, sendo indeferida se for entregue a documentação após o encerramento do prazo de vigência.
+
+Art. 14º Não é permitido à/ao estudante realizar estágios concomitantes.
+
+Art. 15º A/o estudante, antes de iniciar o estágio, deve preencher o Plano de Estágio, em conjunto com o/a professor/a supervisor/a e a/o supervisor/a da parte concedente, no qual constam os dados cadastrais da unidade concedente do estágio, as descrições do estágio, uma prévia avaliação da/o estudante e da parte concedente, pelo/a supervisor/a, e as responsabilidades de cada parte.
+
+Art. 16º A cada renovação, ou ao término do estágio, devem ser entregues à Secretaria Acadêmica de cada Campus os seguintes relatórios:
+
+I – Relatório de Atividades do/a Estagiário/a – preenchido pelo/a estagiário/a, com o relato das principais atividades desenvolvidas e sua avaliação das principais aprendizagens, problemas enfrentados e sugestões para o/a professor/a supervisor/a, com vista obrigatória ao/à professor/a supervisor/a e ao/à supervisor/ a da parte concedente;
+
+II – Relatório de Atividades da Parte Concedente – preenchido pela parte concedente, com relato das atividades desenvolvidas pelo/a estagiário/a e as principais contribuições e recomendações para o desenvolvimento do/a estagiário;
+
+III – Termo de Realização de Estágio – preenchido pela parte concedente com a avaliação de desempenho do/a estagiário/a.
+
+Art. 17º O/a estagiário/a deve entregar, até 30 (trinta) dias após o final do estágio, um relatório final contendo as atividades desenvolvidas, a avaliação do estágio, as principais aprendizagens, devendo o Relatório ser aprovado pelo/a supervisor/a e pela parte concedente, podendo variar o modelo de relatório de acordo com cada Colegiado de Curso.
+
+O Estágio Supervisionado do curso de Jornalismo deve ser realizado tendo em vista o cumprimento das diretrizes definidas pela legislação federal e resoluções específicas da área e da UFSB citadas neste PPC. A resolução 52/2023 do CFAC apresenta as regras específicas do Estágio em Jornalismo.
+
+10.2.5 Trabalho de conclusão de curso
+
+A finalização da formação acadêmica profissionalizante do BJ se concretiza pela produção de um Trabalho de Conclusão de Curso (TCC) pelo/a estudante, sob a orientação de um/a professor/a da UFSB com dedicação comprovada ao Bacharelado em Jornalismo nos últimos 3 anos, além de histórico de pesquisa e/ou atuação profissional na área, com a possibilidade de um co-orientador, professor da UFSB ou de outra instituição de ensino superior com reconhecido saber ligado à temática do trabalho, e sua avaliação por uma
+
+51
+
+banca ad hoc. Os professores aptos a orientar o trabalho de TCC serão autorizados pelo Colegiado de Curso, mediante credenciamento.
+
+A materialização do processo formativo por meio de um produto efetivo de jornalismo, associado a uma reflexão crítica sobre o processo de produção, ou por uma reflexão teórica acerca de questões referentes ao jornalismo, constitui uma etapa decisiva na vida acadêmica dos estudantes que, além de comprovar seu processo de aprendizagem e concluir seu ciclo de formação, têm aqui a possibilidade de lançar sua produção ao mundo, bem como para o curso que assim constrói um acervo de suas atividades e posiciona sua identidade publicamente.
+
+Entre as diversas possibilidades de produtos jornalísticos a serem desenvolvidos para o TCC podemos enumerar: reportagens jornalísticas apresentadas no formato livro ou site especial; documentários; ensaios fotográficos com caráter noticioso; projetos gráficos; séries de podcasts; monografias etc.
+
+Tendo em vista a dimensão de equipe ou de coletividade que pode ser necessária para muitas dessas produções, os trabalhos poderão ser desenvolvidos individualmente ou em parceria com outros estudantes, mas sua avaliação se dará no âmbito individual, considerando-se as atividades e práticas desenvolvidas pelo aluno no projeto de TCC.
+
+O estudante cursará dois semestres de TCC, sendo o primeiro dedicado ao desenvolvimento do projeto e início de sua preparação e execução, e o segundo ao desenvolvimento do projeto e sua apresentação. O projeto de TCC apresentará os objetivos do trabalho, a justificativa, as metodologias a serem seguidas, as referências midiáticas e as referências bibliográficas, assim como o nome do orientador e eventual co-orientador. Tendo em vista a sequência de laboratórios de desenvolvimento de projetos cursados por cada estudante antes de apresentar seu Projeto de TCC, este consiste numa proposta de culminância do processo de formação do jornalista desenvolvido ao longo do curso que se efetiva num produto de caráter jornalístico acompanhado de um artigo reflexivo sobre o trabalho realizado ou numa reflexão teórica na forma de monografia. O projeto de TCC será avaliado por uma banca, indicada pelo orientador/a e o/a estudante, e homologada pelo colegiado do curso.
+
+O desenvolvimento do TCC se efetua em 2 Componentes Curriculares de 60 e 150 horas (TCC 1 e TCC 2) e duração de um semestre cada. A repartição da carga horária de trabalho e dos encontros entre estudante e orientador se dará em concordância entre os dois.
+
+O TCC de cada estudante será avaliado por uma banca convidada pelo orientador e o estudante e composta pelo orientador do trabalho e mais dois membros, sendo um deles professor do CFAC e o outro podendo ser um profissional convidado da área de pertinência do trabalho apresentado e com titulação mínima de graduação. Um mestre de saberes tradicionais ou populares ou um membro da comunidade onde o trabalho foi desenvolvido poderá ser convidado a integrar a banca. O eventual co-orientador será também convidado a integrar a banca. As bancas de defesa serão realizadas em sessões públicas e os trabalhos desenvolvidos para o TCC de cada estudante deverão ter uma exposição ou exibição pública individual ou coletiva.
+
+A avaliação do TCC de cada estudante será realizada pela banca seguindo critérios gerais estabelecidos pelo colegiado de curso e divulgado para a comunidade do curso de Jornalismo do CFAC. A resolução 55/2023 CFAC apresenta o regulamento do TCC do BJ.
+
+10.2.6 Extensão
+
+52
+
+Segundo a resolução 13/2021, que dispõe sobre a curricularização das atividades de extensão nos cursos de graduação da UFSB, e em atendimento à legislação federal, as atividades de extensão deverão corresponder ao percentual mínimo de 10% da carga horária total de todos os cursos de graduação da universidade. Portanto, considerando que o BJ possui 3.170 horas, a carga mínima de atividades de extensão seria de 320h.
+
+As modalidades previstas para inserção curricular da extensão nos PPCs da UFSB são: Componentes Curriculares de Extensão (CCEx) e Atividades Curriculares de Extensão (ACEx). O BJ adotará as duas modalidades a partir de 2024.
+
+Todo estudante do Bacharelado em Jornalismo deve cursar 320h em atividades extensionistas. Essas atividades são regidas pelos princípios indicados na política institucional e na proposta pedagógica apresentadas em seções anteriores. Duas são as formas de inserção das atividades de extensão no currículo do BJ. A primeira delas é por meio das Atividades Curriculares de Extensão (ACEx), que consistem na participação de discentes em projetos e/ou programas de extensão sob supervisão ou colaboração de servidores da UFSB, devidamente submetidos e homologados nas instâncias competentes. O registro da CH e dos créditos nas ACEx é feita pela coordenaçao de extensão (com suporte do Colegiado), com base na certificação e avaliação dos supervisores dos projetos e/ ou programas. Caso deseje, o/a discente do BJ pode compor a totalidade da CH exigida em atividades de extensão (isto é, 320h) com ACEx.
+
+A segunda modalidade de inserção da extensão no currículo do BJ é a de Componentes Curriculares de Extensão (CCEx). Os CCEx são componentes registrados como módulos, com horário definido, docentes alocados e formação de turmas. Ele pode englobar uma parte dedicada a discussões teóricas sobre o conteúdo e sobre os conceitos de extensão universitária, mas seu objetivo central é preparar a turma para a realização de atividades de extensão, sendo importante frisar que a extensão deve primar pela interação horizontal entre comunidade acadêmica e sociedade e pelo protagonismo estudantil. A UFSB permite que no máximo 50% da CH exigida em extensão seja realizada por meio dos CCEx, ou seja, ao optarem por CCEX, os/as discentes do BI-Humanidades apenas poderão creditar 160h nesta modalidade.
+
+O BJ oferece 05 CCEx constantes do seu ementário, cuja oferta acontecerá de maneira regular. Conforme a resolução 13/2021, o estudante poderá aproveitar quaisquer CCEx oferecidos por outros cursos de graduação da UFSB, bem como ACEx.
+
+Componentes curriculares de Extensão oferecidos pelo Bacharelado em Jornalismo
+
+Nome do CCEx CH Natureza
+
+Artes e Comunicação: Extensão Universitária e Interdisciplinaridade
+
+75 Optativa
+
+Educação Midiática 45 Optativa
+
+Comunicação Comunitária
+
+75 Optativa
+
+Jornal Mural 45 Optativa
+
+Vivências em Saberes Tradicionais e Populares
+
+75 Optativa
+
+53
+
+10.3 Representação gráfica de um perfil de formação
+
+Eixo 1 - Formação Humanística – 345h Eixo 2 – Fundamentação Contextual – 330h
+
+Eixo 3 – Fundamentação Específica – 330h
+
+Eixo 4 – Formação Profissional – 330h
+
+Eixo 5 – Aplicação processual – 330h
+
+Eixo 6 – Prática Laboratorial – 345h CCs optativos livres entre os eixos – 180h Estágio obrigatório supervisionado – 210h
+
+Trabalho de Conclusão de Curso – 210h
+
+10.3.1 Explicações sobre o gráfico
+
+Sobre os CCs livres entre eixos
+
+Na tabela acima, é possível perceber como a lógica para o percurso no BJ está associada ao cumprimento das cargas horárias dos 6 diferentes eixos que compõem o curso. Assim sendo, o/a estudante, ao alcançar as 2.190 horas previstas para esses eixos terá, ainda, a
+
+54
+
+possibilidade de cursar 180h de forma livre, escolhendo CCs pertencentes a quaisquer dos 6 eixos. Entendemos que essa carga horária colabora para flexibilizar minimamente as trajetórias de formação possíveis, possibilitando um pouco mais de autonomia.
+
+Sobre diferentes trajetórias possíveis – entrada direta via SISU ou migração
+
+No gráfico acima, percebemos que os dois primeiros semestres compõem-se de CCs que são todos viáveis para serem cursados por um aluno de 1º ciclo. Desta forma, espera-se que os alunos com ingresso direto via migração interna para o 2º ciclo iniciem seu processo de formação no BJ no 3º semestre, conforme acima desenhado. Em função, ainda, de esses alunos já terem completado as horas referentes às atividades complementares e às ações de extensão, compreende-se que estariam aptos a concluir o curso em um mínimo de 5 semestres, dispensando o 8º semestre apresentado no gráfico acima (desde que adiantem sua apresentação do TCC).
+
+\11. PLANO DE TRANSIÇÃO
+
+As mudanças previstas nesta nova versão do PPC do BJ não devem ocasionar maiores transtornos para os estudantes matriculados no curso até 2022. Aos estudantes com ingresso em 2022 e 2023 já estão sendo oferecidos, nos quadrimestres 2023.2 e 2023.3, os CCs necessários para que, a partir do semestre 2024.1, possam integrar-se no fluxo previsto pelo novo PPC, em regime semestral. São os CCs Introdução ao Jornalismo e Jornal Mural. Também serão oferecidos como optativos CCs de Extensão por parte do CFAC, de forma a minimizar maiores dificuldades para que os estudantes possam integrar-se ao novo fluxo, que tem a introdução da CH de Extensão como uma das principais inovações. Os estudantes com ingresso em 2020 e 2021 que estimem não ter completado 80% da CH do PPC antigo até 2023.3 também estão sendo orientados a buscar os CCs citados.
+
+Quatro CCs do PPC antigo oferecem uma dificuldade adicional, pois passarão de 30h para 45h no PPC novo (Ética e Jornalismo; Metodologias de pesquisa em comunicação; Psicologia Social da Comunicação; Políticas de Comunicação). Nesse caso, a equivalência entre as duas versões não seria possível, pois a antiga (30h) tem menos de 75% da CH da nova. Assim, criamos dois CCs livres transitórios, equivalentes tanto aos antigos como aos novos CCs: Ética Jornalística e Políticas de Comunicação (75h) e Metodologias de pesquisa em comunicação e tópicos em Psicologia Social da Comunicação (60h), a serem oferecidos em 2023.2 e 2023.3, de tal maneira a eliminar eventuais dificuldades de equivalência por parte dos estudantes.
+
+Quanto à mudança na orientação em relação ao eixo de Fundamentação Humanística, que anteriormente previa uma ampla lista de CCs do primeiro ciclo com possibilidade de aproveitamento, de até 810h, vale dizer que continuamos prevendo o aproveitamento de CCs do primeiro ciclo, mas agora como Atividades Complementares, conforme indicado na seção dedicada a este tópico. Desta maneira, entendemos que será amplamente minimizada qualquer chance de transtorno para os estudantes. Além disso, com a introdução da Formação Geral como item obrigatório para todos os cursos da UFSB, como se viu, uma parte expressiva dessa CH está direcionada para esta nova exigência. Finalmente, some-se a isso a adoção da CH obrigatória de extensão (10% do curso, podendo até metade disso ser cumprida por meio de CCEx).
+
+Finalmente, quanto à FG, a qual prevemos, neste novo PPC, que conte com 360h, destaque-se que a aplicação da nova configuração, de forma plena, depende da aprovação, pela Pró-reitoria de Gestão Acadêmica (Progeac), de novos CCs específicos que
+
+55
+
+pretendemos que sejam adotados a partir de 2024. Enquanto essa aprovação não acontece, permaneceremos oferecendo os CCs já aprovados da FG.
+
+Abaixo, apresentamos a tabela de equivalências entre os CCs antigos e os novos:
+
+CURRÍCULO ANTERIOR CURRÍCULO NOVO
+
+CÓDIGO
+
+COMPONENTE ANTIGO
+
+C H COMPONENTE NOVO CH
+
+CFA0156
+
+APURAÇÃO E TEXTO JORNALÍSTICO 60 APURAÇÃO E TEXTO JORNALÍSTICO 75
+
+CFA0171 ASSESSORIA DE COMUNICAÇÃO 60 ASSESSORIA DE COMUNICAÇÃO E COMUNICAÇÃO INTEGRADA 45
+
+CFA0173 COMUNICAÇÃO COMUNITÁRIA 60 COMUNICAÇÃO COMUNITÁRIA 75
+
+CFA0150
+
+EMPREENDEDORISMO E GESTÃO DA COMUNICAÇÃO 60
+
+MODELOS DE GESTÃO E PROJETOS AUTORAIS EM JORNALISMO E COMUNICAÇÃO 45
+
+CFA0151 ÉTICA E JORNALISMO 30 ÉTICA E JORNALISMO 45
+
+CFA0149 HISTÓRIA DO JORNALISMO 60 HISTÓRIA DO JORNALISMO 75
+
+CFA0178 JORNALISMO CIENTÍFICO 60 JORNALISMO CIENTÍFICO E AMBIENTAL 75
+
+CFA0177 JORNALISMO CULTURAL 60 JORNALISMO CULTURAL 45
+
+CFA0167 JORNALISMO EM RÁDIO 60 Incorporado a Jornalismo em Rádio e TV
+
+CFA0168 JORNALISMO EM TV 60 JORNALISMO EM RÁDIO E TV 45
+
+CFA0170
+
+JORNALISMO IMPRESSO E FOTOJORNALISMO 60 FOTOJORNALISMO 45
+
+CAC0744
+
+LABORATÓRIO DE JORNALISMO: RÁDIO 60 LABORATÓRIO DE JORNALISMO: RÁDIO 75
+
+CAC0745
+
+LABORATÓRIO DE JORNALISMO: TV 60 LABORATÓRIO DE JORNALISMO: TV 75
+
+CAC0746
+
+LABORATÓRIO DE JORNALISMO: WEB 60 LABORATÓRIO DE DESIGN DIGITAL E INFOGRAFIA 45
+
+CFA0027
+
+LABORATÓRIO DE PROJETOS: TECNOPOLÍTICAS
+
+60
+
+LABORATÓRIO DE JORNALISMO: NOTÍCIA
+
+75
+
+CFA0061
+
+LABORATÓRIO DE PROJETOS: NARRATIVAS
+
+60
+
+LABORATÓRIO DE JORNALISMO: REPORTAGEM
+
+75
+
+CFA0172
+
+METODOLOGIA DE PESQUISA EM COMUNICAÇÃO 30 METODOLOGIA DE PESQUISA EM COMUNICAÇÃO 45
+
+CFA0152 POLÍTICAS DE COMUNICAÇÃO 30 POLÍTICAS DE COMUNICAÇÃO 45
+
+CFA0180
+
+PROCESSOS GRÁFICOS EM JORNALISMO 60 LABORATÓRIO DE PROJETO GRÁFICO 45
+
+CFA0176
+
+PSICOLOGIA SOCIAL DA COMUNICAÇÃO 30 PSICOLOGIA SOCIAL DA COMUNICAÇÃO 45
+
+CFA0154 TEORIAS DA COMUNICAÇÃO 60 TEORIAS DA COMUNICAÇÃO 75
+
+CFA0175
+
+CFA0174
+
+ANÁLISE DO DISCURSO
+
+TEORIAS DA LINGUAGEM
+
+30
+
+30 TEORIAS DA LINGUAGEM
+
+75
+
+CFA0153 TEORIAS DO JORNALISMO 60 TEORIAS DO JORNALISMO 75
+
+CFA0179
+
+TEORIAS E PRÁTICAS DA NARRATIVA 60 TEORIAS E PRÁTICAS DAS NARRATIVAS JORNALÍSTICAS 45
+
+CFA0008
+
+LABORATÓRIO DE PROJETOS: TERRITÓRIOS 60 JORNAL MURAL 45
+
+56
+
+\12. PROCEDIMENTOS DE AVALIAÇÃO DO PROCESSO DE ENSINO E APRENDIZAGEM
+
+É importante ter como referência que a avaliação dos estudantes deve estar pautada tanto no processo de aprendizagem (avaliação formativa), como no seu produto (avaliação somatória). Na avaliação do processo, a meta é identificar potencialidades dos estudantes, falhas da aprendizagem, bem como buscar novas estratégias para superar dificuldades identificadas.
+
+As notas, que refletem desempenho nas avaliações de resultado, permitem ao Colegiado do curso verificar o grau de domínio que os estudantes adquiriram acerca dos diversos saberes e conteúdos previstos em cada etapa do curso. Para os concluintes, será aplicado um questionário com a finalidade de identificar opinião em relação a itens que foram investigados no seu ingresso na universidade (seus interesses culturais, satisfação em relação ao curso e à universidade, concepção de universidade, espaços preferidos de convívio, imagens de futuro etc.).
+
+Com essa análise será possível identificar lacunas e dificuldades no processo ensino- aprendizagem, bem como avaliar e planejar coletivamente estratégias de superação. Outra forma de avaliação do curso pode ser a aplicação de exames anuais, a fim de obter informações acerca do alcance dos objetivos e competências estabelecidos no projeto.
+
+Para acompanhar a aprendizagem no processo, o docente lança mão de atividades e ações que envolvem os estudantes ativamente, a exemplo de seminários, relatos de experiências, entrevistas, coordenação de debates, produção de textos, práticas de laboratório, elaboração de projetos, relatórios, memoriais, portfólios, dentre outros.
+
+Na avaliação dos produtos, devem-se reunir as provas de verificação da aprendizagem ou comprovações do desenvolvimento das competências. O objetivo dessas provas é fornecer elementos para que o educador elabore argumentos consistentes acerca do desempenho e da evolução dos estudantes. Esses instrumentos de avaliação podem ser questionários, exames escritos com ou sem consulta a materiais bibliográficos, arguições orais, experimentações monitoradas em laboratórios, relatórios e descrições de processos produtivos, visitas, elaboração de pôsteres ou outros materiais para apresentação, fichas de aula, instrumento de autoavaliação, relatórios de estágio e monografias. Ao pontuar e atribuir nota ao produto, o docente deve explicitar com clareza os critérios adotados quanto aos objetivos esperados.
+
+Na UFSB e no curso de Jornalismo, avaliação é entendida como dispositivo imprescindível do processo ensino-aprendizagem e contém – mas não se limita a – a verificação de aprendizagem como testes, provas, trabalhos, e outras atividades pontuais que conduzem a notas ou conceitos.
+
+Os seguintes princípios do Plano Orientador norteiam os processos de avaliação na UFSB e no curso de Jornalismo:
+
+\1. Interdisciplinaridade: os docentes são estimulados a planejar avaliações conjuntas, envolvendo conhecimentos e saberes trabalhados nos diferentes CCs do semestre, evitando multiplicar produtos avaliativos.
+
+\2. Compromisso com aprendizagem significativa: coerente com metodologias ativas de ensino-aprendizagem, evitando a ênfase conteudista e pontual.
+
+57
+
+\3. Criatividade e inovação: são valorizadas mediante a instigação à reflexão crítica e propositiva.
+
+\4. Ética: critérios justos, transparentes, com objetivos claros e socializados desde o início de cada CC.
+
+\5. Espírito colaborativo: trabalhos em grupo e promoção do compartilhamento e da solidariedade são atitudes exercitadas em todas as atividades universitárias.
+
+Durante a primeira semana de aula do semestre, dedicada ao acolhimento, o processo avaliativo é apresentado e discutido com os estudantes, evidenciando razões e critérios de avaliação.
+
+Como já dito, a avaliação do processo de ensino-aprendizagem dentro do Bacharelado em Jornalismo inclui tanto a avaliação processual como a avaliação de produtos. No Plano de Ensino e Aprendizagem de cada componente curricular, o docente explicita com clareza os critérios adotados para pontuar e atribuir nota, bem como os objetivos esperados. A periodicidade das atividades avaliativas também é explicitada no Plano de Ensino e fica a critério de cada docente.
+
+Na UFSB, o desempenho mínimo necessário para aprovação é 6.0, que indica aproveitamento de 60%. A recuperação na UFSB é regida por resolução que dispõe sobre Recuperação de Crédito Condicional (RCC) para Componentes Curriculares de Conhecimento (CCCs), a qual deve ser observada. Segundo a resolução 14/2020 do Conselho Universitário da UFSB, poderão pleitear crédito condicional os estudantes que obtiverem nota final entre 3,0 e 5,9 e possuam, no mínimo, 75% de frequência escolar no CCC em questão. Os prazos para solicitação de RCC são definidos no calendário acadêmico da instituiçao, divulgado anualmente.
+
+Apresentações públicas dos trabalhos produzidos nos componentes curriculares serão praticadas e estimuladas, entendidas como dispositivos importantes na profissionalização dos estudantes. Desta forma, serão realizadas de forma constante apresentações para a comunidade acadêmica e para o público em geral.
+
+Finalmente, deve-se destacar, no processo de avaliação do desempenho dos estudantes e também de sua satisfação com o desempenho dos docentes, o trabalho da Comissão Própria de Avaliação (CPA) da UFSB, que se trata da chamada "avaliação institucional": estabelece mecanismos operacionais para levantamento, sistematização e avaliação das políticas institucionais, sistema de ensino e modelo pedagógico na universidade. Estudantes e docentes do Curso são convidados/as ao preenchimento de questionários online relacionados à qualidade do ensino, pesquisa e extensão, bem como da estrutura física e administrativa da universidade e das respectivas unidades acadêmicas. O relatório de avaliação institucional é disponibilizado pela CPA e poderá ser discutido em Colegiado, NDE e na Congregação do CFAC para providências e encaminhamentos de reconhecimento dos aspectos positivos e superação dos aspectos negativos.
+
+\13. PROCEDIMENTOS DE AVALIAÇÃO DO PROJETO PEDAGÓGICO DE CURSO
+
+A Avaliação do projeto de curso Jornalismo será implementada principalmente por meio de:
+
+Reuniões periódicas do Colegiado do Curso; reuniões periódicas do Núcleo Docente Estruturante (NDE) do curso; avaliação dos componentes curriculares pelos estudantes, realizada de forma oral e por escrito (vide o citado trabalho da CPA); seminários de
+
+58
+
+avaliação do curso, com a participação de docentes, discentes e representantes/membros das instituições parceiras; seminários do curso com a participação de docentes/pesquisadores convidados.
+
+Demais processos de avaliação do curso em suas diversas instâncias ficarão a cargo da Comissão Própria de Avaliação da UFSB, que no Artigo 2 de seu Regimento Interno, anexado à Resolução N. 03/2017 da UFSB, estabelece suas funções gerais:
+
+"Art. 2o. A CPA tem por finalidade elaborar e coordenar junto à comunidade universitária e aos Conselhos Superiores, a autoavaliação institucional dentro dos princípios e diretrizes do Sistema Nacional de Avaliação da Educação Superior (SINAES).
+
+Parágrafo único. Outras dimensões institucionais além daquelas previstas na legislação da qual trata o Art. 1o deste Regimento poderão ser objeto de avaliação e propositura pela CPA, incluindo o Plano de Desenvolvimento Institucional, o Projeto Pedagógico Institucional e outros".
+
+\14. GESTÃO DO CURSO
+
+A gestão do curso é realizada em colaboração com diversas instâncias, desde a Administração Central da UFSB, com suas pró-reitorias, diretorias e secretarias, passando pelos órgãos de representação, como os conselhos superiores, câmaras e comitês. Também compartilham essa tarefa de gestão a Comissão Gestora do Campus Sosígenes Costa e a Unidade Acadêmica a que se vincula o curso (Decanato e Congregação do CFCHS). O principal órgão de gestão do BJ é o seu Colegiado de curso, órgão representativo de gestão acadêmica, de natureza deliberativa. O Colegiado de curso do BJ, em suas atribuições, é apoiado pelo Núcleo Docente Estruturante, pela Coordenação de Extensão e pela Comissão Própria de Assessoria Comissão Própria de Assessoria à Coordenação de Extensão.
+
+14.1 Coordenação do colegiado do curso
+
+As competências da coordenação de colegiado de curso estão definidas no Regimento Geral da UFSB (Resolução 22/2021). Compete ao/à coordenador/a do colegiado de curso e, em suas ausências e impedimentos, ao/a Vice-Coordenador/a: - realizar a organização pedagógica do curso junto com o colegiado de curso; - convocar e presidir as reuniões; - zelar pela aplicação do PPC; - designar relatores/as para assuntos de pauta que demandem deliberação da plenária, quando julgar necessário; - dar voto de qualidade, nos casos de empate, nas decisões do colegiado; - participar como membro/a nato da Congregação da Unidade Universitária; - representar o colegiado junto aos demais órgãos da UFSB e de outras instituições.
+
+14.2 Colegiado do curso
+
+Segundo o Regimento Geral da UFSB (Resolução 22/2021), o Colegiado de Curso tem como competências a implantação do Projeto Pedagógico de Curso (PPC), aprovado pelo
+
+59
+
+CONSUNI; a análise e emissão de parecer das recomendações de atualização do PPC, encaminhadas pelo NDE; a proposição de políticas para o desenvolvimento do ensino, da pesquisa, da criação, da inovação e da cooperação técnica no âmbito do curso; a proposição da expansão, modificação e extinção de curso, bem como redução ou ampliação da oferta de vagas; análise e aprovação dos Planos de Ensino- Aprendizagem, Programas e Planos de Atividades dos CC, propondo alterações, quando necessário; apresentação de propostas de atividades extracurriculares necessárias ao bom funcionamento do curso; auxílio no planejamento pedagógico dos CC ofertados a cada semestre-letivo; deliberação sobre processos administrativos de natureza acadêmica; avaliação semestral da execução dos Planos de Ensino-Aprendizagem, Programas e Planos de Atividades dos CCs.
+
+O Colegiado do BJ é composto por:
+
+I. Um mínimo de cinco docentes com atuação comprovada em Componentes Curriculares no curso; II. Um/a representante dos/as servidores/as técnico-administrativos; III. Representantes do corpo discente do Curso, na proporção de um/a estudante para cada quatro membros docentes, eleitos entre seus pares.
+
+O Colegiado de Curso terá Coordenador/a e Vice-Coordenador/a escolhidos/as dentre os membros docentes para um mandato de dois anos.
+
+14.3 Núcleo Docente Estruturante (NDE)
+
+Conforme o Parecer CONAES N° 4, de 17 de junho de 2010, o Núcleo Docente Estruturante (NDE) foi um conceito criado pela Portaria Nº 147, de 2 de fevereiro de 2007, com a finalidade de qualificar o envolvimento docente no processo de concepção e consolidação de um curso de graduação. Ele deve ser considerado não como exigência ou requisito legal, mas como elemento diferenciador da qualidade do curso, no que diz respeito à interseção entre as dimensões do corpo docente e Projeto Pedagógico do Curso.
+
+Na UFSB, a Resolução nº 04/2018, estabelece que o Núcleo Docente Estruturante (NDE) constitui segmento da estrutura de gestão acadêmica em cada curso de graduação com atribuições consultivas, propositivas e de assessoria sobre matérias de natureza acadêmica, corresponsável pela concepção, elaboração e implementação de políticas relativas ao desenvolvimento do curso.
+
+O Art. 4 (UFSB, Resolução 04/2018) aponta para a seguinte composição:
+
+05 (cinco) docentes atuantes no curso, devendo preencher os seguintes requisitos:
+
+I. contratação em regime de trabalho de 40 horas semanais ou em Dedicação exclusiva; II. titulação acadêmica de doutor; III. experiência de docência no Ensino Superior; IV. produção acadêmica na grande área de conhecimento do curso e acerca do caráter interdisciplinar das áreas.
+
+O Art. 4 traz ainda os seguintes parágrafos:
+
+§ I O/A coordenador/a de curso é membro nato do Núcleo Docente Estruturante, devendo os outros 4 (quatro) membros serem eleitos pelo Colegiado de Curso, observando-se os requisitos citados.
+
+60
+
+§ 2 O Núcleo Docente Estruturante terá uma coordenação composta por 02 (dois) membros (coordenador/a e vice-coordenador/a eleitos/as na primeira reunião de trabalho do NDE).
+
+§ 3 O/A coordenador/a do NDE será substituído/a em seus impedimentos pelo/a vice- coordenador/a.
+
+14.4 Coordenação de Extensão
+
+A Coordenação de extensão e Comissão Própria de Assessoria à Coordenação de Extensão são instituídas pela resolução que dispõe sobre a curricularização das atividades de extensão nos cursos de graduação da UFSB. O/A coordenador/a de extensão será designado/a pelo colegiado de curso para organizar o planejamento e a oferta curricular das atividades de extensão em quantidade suficiente para permitir a integralização curricular do curso. Também é designada uma Comissão Própria de Assessoria ao/à coordenador/a de extensão do curso para validação da documentação para fins de integralização curricular da extensão, com o número de membros/as e tempo de designação definidos pelo colegiado de curso.
+
+\15. INFRAESTRUTURA
+
+15.1 Infraestrutura Física
+
+A UFSB – Campus Sosígenes Costa, em Porto Seguro, onde o CFAC está localizado e onde o Bacharelado em Jornalismo ocorrerá, conta com a seguinte infraestrutura acadêmica à disposição dos Centros de Formação:
+
+Secretaria Acadêmica Secretaria Executiva Sala de professores/as Gabinetes dos/as professores/as Sala de coordenador/a Sala do/a decano/a Salas de aula com equipamento multimídia Biblioteca Auditório com palco para apresentações artísticas Refeitório Campo de futebol
+
+15.2 Infraestrutura Acadêmica
+
+Para o pleno funcionamento do curso Bacharelado em Jornalismo, a seguinte estrutura física é prevista:
+
+Estúdio de práticas sonoras e gravação / Rádio (50 m2)
+
+61
+
+Pé direito mínimo 4m Ar condicionado silencioso Tratamento acústico Piso acústico de madeira sobre berços de borracha Isolamento acústico Porta acústica dupla (1m40)
+
+Estúdio de TV, Imagem e vídeo (50 m2)
+
+Pé direito mínimo 4M Ar condicionado silencioso Tratamento acústico Isolamento acústico Porta acústica dupla (1M40)
+
+Estúdio de edição de imagem e vídeo (30 m2)
+
+Espaço para 6 estações de edição de vídeo Ar condicionado silencioso Tratamento acústico
+
+Agência de comunicação (30m2)
+
+Iluminação e ventilação natural, bancadas com 8 estações de trabalho, mesas de reuniões, armários, quadro branco, quadro de avisos, espaço para impressora A3 colorida, espaço para mesa de corte.
+
+Sala de coordenação (12m2)
+
+Iluminação e ventilação natural
+
+Almoxarifado (9 m2)
+
+Porta dupla (1m40) Circulações e banheiros com acessibilidade para portadores de deficiência.
+
+Superfície estimada: 654 m2 + 15 % de circulação e serviços (banheiros, shafts, etc.) = 752 m2
+
+Salas de aula
+
+2 salas de aula para 40 estudantes cada com equipamento multimídia, mesas-pranchetas com bancos, quadro branco, escaninhos e armários.
+
+I. Recursos Tecnológicos
+
+Ver em anexo a lista de equipamentos necessários ao curso.
+
+II. Acervo bibliográfico
+
+62
+
+Os livros referentes às bibliografias da matriz de componentes curriculares (CCs) específicos do curso de jornalismo vêm sendo adquiridos ao longo da implantação do curso. Contudo, o processo de aquisição de livros referentes aos CCs do primeiro ciclo e aos CCs do curso Som, Imagem e Movimento já está em curso, e os livros já adquiridos poderão ser prontamente consultados pelos estudantes do curso de Jornalismo.
+
+O acervo bibliotecário da UFSB já conta com títulos referentes ao Jornalismo e à Comunicação; esse acervo tem crescido desde a criação da universidade, e temos hoje muitas aquisições e doações em fase de catalogação. Tem-se um Sistema de Bibliotecas, órgão complementar vinculado à Reitoria, responsável por coordenar os processos, atividades e recursos das bibliotecas dos campi Jorge Amado, Sosígenes Costa e Paulo Freire na UFSB e dar suporte à Biblioteca do CEPEC/CEPLAC a fim de apoiar as atividades de Ensino, Pesquisa, Extensão, Inovação e Criação no âmbito dos três ciclos de formação acadêmica da universidade.
+
+As Bibliotecas da UFSB mantêm seu catálogo também online. Por meio do sistema adotado pela instituição, o interessado pode encontrar a obra desejada de forma rápida e simples. Disponível na página da Biblioteca, o catálogo possui livros cadastrados em diversas áreas. A identificação dos exemplares de cada biblioteca estão sendo inseridas no sistema e, em breve, estarão disponíveis para os três campi.
+
+III. Comitê de Ética em Pesquisa
+
+A UFSB possui um Comitê de Ética em Pesquisas com Seres Humanos. O CEP/UFSB teve seu registro inicial aprovado pela Comissão Nacional de Ética (CONEP) por meio da Carta Circular Nº 64/2018- CONEP/SECNS/MS, recebida no dia 21 de março de 2018, por email. O requisito do curso obrigatório consta do documento, bem como a indicação de busca de instrutores junto a um CEP de instituição próxima. O Comitê de Ética em Pesquisa da UFSB possui caráter consultivo, deliberativo, educativo e voluntário, estando encarregado principalmente de avaliar a ética em protocolos de pesquisa envolvendo seres humanos, cadastrados na Plataforma Brasil. A composição conta com 12 membros de todos os segmentos e campus da UFSB e um membro representante da comunidade, do Conselho Municipal de Saúde de Teixeira de Freitas, além de uma secretaria executiva.
+
+\16. CATÁLOGO DE EMENTAS DOS COMPONENTES CURRICULARES
+
+16.1 Componentes curriculares da Formação Geral
+
+16.1.1- Eixo Artes e Humanidades na Formação Cidadã
+
+Arte e Território
+
+Carga horária 60 horas
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+63
+
+Ementa Discussões em torno dos conceitos de arte, território e paisagem. Modos de atuação das artes na paisagem contemporânea, tendo como enfoque as relações territoriais tratadas pela geografia humana. Presença das artes na investigação acadêmica, na educação, nos saberes e práticas dos povos tradicionais e dos povos marginais ao campo urbano e em pesquisas das humanidades de modo geral.
+
+Bibliografia básica
+
+CAUQUELIN, A. A invenção da paisagem. Trad. M. Marcionilo. São Paulo: Martins Fontes, 2007. LAGROU, E. Arte indígena no Brasil: agência, alteridade e relação. Belo Horizonte: C/Arte, 2009. SANTOS, M. Metamorfoses do espaço habitado. 6ª ed. São Paulo: Edusp, 2014.
+
+Bibliografia complementar
+
+AUGÉ, M. Não-lugares: introdução a uma antropologia da supermodernidade. Trad. M. L. Pereira. 9ª ed. Campinas: Papirus, 2012. GOMBRICH, E. H. A história da arte. Trad. A. Cabral. 16ª ed. São Paulo: LTC, 2000. NAVARRO, L.; FRANCA, P. (org.). Concepções contemporâneas da Arte. Belo Horizonte: UFMG, 2006. PEIXOTO, N. B. Intervenções urbanas: arte/cidade. 2ª ed. São Paulo: SENAC, 2012. SCHAFER, R. M. A afinação do mundo. Trad. M. T. de O. Fonterrada. 2ª ed. São Paulo: UNESP, 2001.
+
+Experiências do Sensível
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Construção, análise, diálogo e articulação de experiências sensíveis destinadas a instigar a curiosidade e a formulação de saberes corporalizados. Atravessamentos do tempo, da memória, da cultura e do território por experiências do sensível e pelos modos de subjetivação. Observação de matizes e processos do sensível que tensionam os métodos científicos normativos e fundamentam formas de investigação sobre o mundo.
+
+Bibliografia básica
+
+BADIOU, A. Pequeno manual de inestética. Trad. M. Appenzeller. São Paulo: Estação Liberdade, 2002. DUARTE JÚNIOR, J. F. A montanha e o videogame: escritos sobre educação. Campinas, SP: Papirus, 2010. RANCIÈRE, J. A partilha do sensível: estética e política. Trad. M. C. Netto. 2ª ed. São Paulo: Ed. 34, 2009.
+
+Bibliografia complementar
+
+AGAMBEN, G. Infância e história – Destruição da experiência e origem da história. Trad. H. Burigo. Belo Horizonte: Editora UFMG, 2005. DIDI-HUBERMAN, G. Sobrevivência dos vaga-lumes. Trad. V. Casa Nova e M. Arbex. Belo Horizonte: Editora UFMG, 2011. GUIMARÃES, C.; MENDONÇA, C.; SOUSA LEAL, B. (org.). Entre o sensível e o comunicacional. Belo Horizonte: Autêntica, 2010. LEVI-STRAUSS, C. O pensamento selvagem. Trad. T. Pelegrini. 12ª ed. Campinas, SP: Papirus, 2012. MATURANA, H.; VARELA, F. A árvore do conhecimento: as bases
+
+64
+
+biológicas da compreensão humana. 9ª ed. São Paulo: Palas Athena, 2011.
+
+Humanidades, Interculturalidades e Metamorfoses Sociais
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa A construção do conhecimento nas Humanidades. Experimentações de interdisciplinaridade, interculturalidade e territorialidade. Alteridade, diferença e convivência.
+
+Bibliografia básica
+
+LARAIA, R. de B. Cultura: um conceito antropológico. 6ª ed. Rio de Janeiro: Zahar, 1992. NUNES, E. (org.) A aventura sociológica: objetividade, paixão, improviso e método na pesquisa social. Rio de Janeiro: Jorge Zahar Editor, 2019. SANTOS, M. Metamorfoses do espaço habitado: fundamentos teórico e metodológico da geografia. 6ª ed. São Paulo: EDUSP, 2014.
+
+Bibliografia complementar
+
+HOBSBAWN, E. A era dos extremos: o breve século XX. Trad. M. Santa Rita. 2ª ed. São Paulo: Companhia das Letras, 1995. REIS, J. C. As identidades do Brasil: de Varnhagen a FHC. 9ª ed. Rio de Janeiro: FGV, 2014. SANTOS, B. de S. Um discurso sobre as ciências. 7ª ed. São Paulo: Cortez, 2010. SENNETT, R. O declínio do homem público: as tiranias da intimidade. Trad. L. A. Watanabe. São Paulo: Companhia das Letras, 2014. WHYTE, W. F. Sociedade de esquina: a estrutura social de uma área urbana pobre e degradada. Trad. M. L. de Oliveira. Rio de Janeiro: Jorge Zahar, 2005.
+
+Universidade e Sociedade
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Presença da Universidade no Ocidente, na América Latina e no Brasil. Universidade e Estado. Universidade e pluralismo dos saberes. Vida estudantil na formação da Universidade e da sociedade.
+
+Bibliografia básica
+
+COULON, A. A condição de estudante: a entrada na vida universitária. Trad. G. G. dos Santos; S. M. R. Sampaio. Salvador: EDUFBA, 2008. SANTOS, M. O espaço do cidadão. 7ª ed. São Paulo: Edusp, 2014. TEIXEIRA, A.; FÁVERO, M. L.; BRITTO, J. M. (org.). Educação e Universidade. 2ª ed. Rio de Janeiro: UFRJ, 2010.
+
+Bibliografia complementar
+
+ARAÚJO, U. F.; SASTRE, G. Aprendizagem baseada em problemas no ensino superior. 3ª ed. São Paulo: Summus, 2016.
+
+65
+
+FREIRE, P. Pedagogia da autonomia: saberes necessários à prática educativa. 52ª ed. Rio de Janeiro: Paz e Terra, 2015. SANTOS, B. de S. A Universidade no século XXI: para uma reforma democrática e emancipatória da universidade. 3ª ed. São Paulo: Editora Cortez, 2011. SANTOS, F. S.; ALMEIDA FILHO, N. A quarta missão da universidade: internacionalização universitária na sociedade do conhecimento. Brasília: Universidade de Brasília; Coimbra: Imprensa da Universidade de Coimbra, 2012.
+
+Territorialidades e sustentabilidade no contexto regional
+
+45 horas/ 03 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Estudo de questões socioambientais de relevância planetária e suas incidências no Sul e Extremo Sul da Bahia. Possibilidades de atuação no território de abrangência da UFSB, guiada por reflexão crítica sobre conceitos de desenvolvimento e sustentabilidade, seus limites, contradições e alternativas.
+
+Bibliografia básica
+
+DILGER, Gerhard; LANG, Miriam; PEREIRA FILHO, Jorge (org.). Descolonizar o imaginário: debates sobre pós-extrativismo e alternativas ao desenvolvimento. São Paulo: Fundação Rosa Luxemburgo, 2016. Disponível em https://rosalux.org.br/wp-content/uploads/2016/08/Descolonizar_o_Imaginario _web.pdf (acesso em 28/02/23) DOWBOR, Ladislao. O que é poder local. Imperatriz: Ética, 2016. Disponível em: https://dowbor.org/wp-content/uploads/2012/06/Dowbor-_Poder-Local-portal. pdf (acesso em 28/02/23) MARQUES, Luiz. Capitalismo e colapso ambiental. Campinas: Unicamp, 2018.
+
+Bibliografia complementar
+
+BAIARDI, A.; TEIXEIRA, F. O Desenvolvimento dos Territórios do Baixo Sul e do Litoral Sul da Bahia: a Rota da Sustentabilidade, Perspectivas e Vicissitudes, Salvador: Repositório UFBA, 2011. CANDEIAS, Cezar Nonato Bezerra. MACDONALD, José Brendan e MELO, José Francisco de (org.). Economia solidária e autogestão: ponderações teóricas e achados empíricos. Maceió: Editora da UFAL, 2005. Disponível em: https://www.rededegestoresecosol.org.br/wp-content/uploads/2015/11/livro_e
+
+conomia_solidaria_e_autogestao.pdf (acesso em 28/02/23) FERREIRA, Joelson e FELÍCIO, Erahsto. Por Terra e território. Arataca: Teia dos Povos, 2021. FURTADO, Celso. O Mito do Desenvolvimento Econômico. Rio de Janeiro, Paz e Terra. 1974.
+
+Brasil: Cidadania, Democracia e Políticas Públicas
+
+45 horas/ 03 créditos
+
+66
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa A construção da cidadania no Brasil: dimensões políticas, sociais, raciais e jurídicas. A Constituição Federal de 1988: Constituição cidadã e democrática. Representação política e participação popular no Brasil. Movimentos sociais, conquista de direitos e participação cidadã. Políticas públicas, Estado e sociedade civil no contemporâneo.
+
+Bibliografia básica
+
+AVRITZER, Leonardo. Experiência democrática, sistema político e participação popular. São Paulo: Perseu Abramo, 2013. CARVALHO, José Murilo de. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2021, 27a ed. SANTOS, Boaventura Souza; CHAUÍ, Marilena. Direitos Humanos, Democracia e Desenvolvimento. São Paulo: Cortez, 2013.
+
+Bibliografia complementar
+
+ALMEIDA, Silvio Luiz. Racismo estrutural. São Paulo: Pólen, 2019. BENEVIDES, Maria Victoria de Mesquita. Cidadania e Democracia. In: Lua Nova, nº 33, 94. Disponível em: http://www.scielo.br/pdf/ln/n33/a02n33.pdf BONETI, Lindomar Wessler. Políticas Públicas por dentro. Ijuí: Ed. Unijuí, 2018. GENTILI, Pablo; FRIGOTTO, Gaudêncio. A cidadania negada. Buenos Aires: Clacso, 2000. Disponível em: http://biblioteca.clacso.edu.ar/clacso/gt/20101010020526/gentili.pdf TENÓRIO, F. G. Descentralização político-administrativa, gestão social e participação cidadã. In: DALLABRIDA, V. R. Governança territorial e desenvolvimento. Rio de Janeiro: Garamond, 2011, p. 73-93.
+
+16.1.2- Eixo Ciências na Formação Cidadã
+
+Ciência e Cotidiano
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa O que é ciência. Introdução às diversas áreas da ciência. Papel do cientista na sociedade. Cultura científica e cidadania. Análise crítica de temas atuais relacionados à ciência e tecnologia no cotidiano.
+
+Bibliografia básica
+
+CHALMERS, A. F. O que é ciência, afinal? Trad. R. Filker. São Paulo: Brasiliense, 1993. FOUREZ, G. A construção das ciências: uma introdução à filosofia e ética das ciências.Trad. L. P. Rouanet. São Paulo: Editora Unesp, 1995. PASTERNAK, N.; ORSI, C. Ciência no cotidiano: Viva a razão. Abaixo a ignorância! São Paulo: Editora Contexto, 2020.
+
+Bibliografia complementar
+
+BACHELARD, G. A formação do espírito científico: contribuição para uma psicanálise do conhecimento. Trad. E. dos S. Abreu; A. L. de A. Guerreiro. Rio de Janeiro: Contraponto, 1996. CARNEIRO DA CUNHA, M. Cultura com aspas e outros ensaios. São Paulo: Cosac e Naify, 2009. DAWKINS, R. Desvendando o arco-íris. Trad. R. Eichenberg. 1ª ed. São Paulo: Companhia das Letras, 2000.
+
+67
+
+PINKER, S. O novo iluminismo. Trad. L. T. Motta; P. M. Soares. 1ª ed. São Paulo: Companhia das Letras, 2018. SAGAN, C. O mundo assombrado pelos demônios: a ciência vista como uma vela acesa no escuro. Trad. R. Eichenberg. São Paulo: Companhia das Letras, 1999.
+
+Ciência, Sociedade e Ética
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Tipos de conhecimento. Qual a utilidade do conhecimento científico? O método científico e a observação. A ética na produção, aplicação e publicação do conhecimento científico. A relação entre ciência e as transformações da sociedade: desenvolvimento, paradigma biotecnocientífico, biossegurança e pós-modernidade. Proposição das políticas de ciência, tecnologia e inovação: formação de recursos humanos e financiamento de pesquisa. A importância das universidades públicas na produção do conhecimento científico.
+
+Bibliografia básica
+
+CLOTET, J. Ciência e ética: onde estão os limites? Episteme, Porto Alegre, n. 10, pp. 23-29, 2000. FEYERABEND, P. A ciência em uma sociedade livre. São Paulo: Ed. Unesp, 2011. VOLPATO, G. Ciência: da filosofia à publicação. São Paulo: Ed. Cultura Acadêmica, 2013.
+
+Bibliografia complementar
+
+ALVES-MAZZOTTI, A. J.; GEWANDSZNAJDER, F. O método nas ciências naturais e sociais: pesquisa quantitativa e qualitativa. São Paulo: Pioneira, 1998. BUZZI, A. Introdução ao pensar: o ser, o conhecimento. 35ª ed. São Paulo: Vozes, 2012. COMTE-SPONVILLE, A. A Felicidade, desesperadamente. São Paulo: Martins Fontes, 2015. KUHN, T. S. A estrutura das revoluções científicas. São Paulo: Pioneira.1992. OLIVA, A. É a ciência a razão em ação ou ação social sem razão? Scientiae Studia, v. 7, n. 1, pp. 105-134, 2009. SANTOS, B. de S. Um discurso sobre as ciências. 7ª ed. São Paulo: Cortez, 2010.
+
+Saúde única: humana, animal e ambiental
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Prática/ Laboratório
+
+Pré-requisitos Nenhum
+
+68
+
+Ementa Conceitos básicos, histórico e contemporaneidade. Perspectiva holística, integrativa e interdisciplinar de temas atuais envolvendo Saúde Única e interfaces com a vida e os ecossistemas. Contribuições e impactos nos determinantes sociais, econômicos, culturais, políticos e ambientais dos seres vivos. Educação e tecnologias em Saúde Única.
+
+Bibliografia básica
+
+BRONFENBRENNER, U. Bioecologia do desenvolvimento humano: tornando os seres humanos mais humanos. Trad. A. de Carvalho-Barreto. Porto Alegre: Artmed, 2011. GALVAO, L. A. C.; FINKELMAN, J.; HENAO, S. Determinantes ambientais e sociais da saúde. Rio de Janeiro: Fiocruz, 2011. ROUQUAYROL, M. Z.; SILVA, M. G. C. (org.). Epidemiologia e saúde. 7ª ed. Rio de Janeiro: Medbook, 2013.
+
+Bibliografia complementar
+
+COURA, J. R. Dinâmica das doenças infecciosas e parasitárias. 2ª ed., vol. I e II. Rio de Janeiro: Guanabara Koogan, 2013. FORATTINI, O. P. Ecologia, epidemiologia e sociedade. São Paulo: Artes Médicas; Editora da Universidade de São Paulo, 1992. RICKLEFS, R.; RELYEA, R. A economia da natureza. 6ª ed. São Paulo: Guanabara Koogan, 2011.
+
+16.1.3- Eixo Matemática e Computação
+
+Ambientes Virtuais e Colaborativos de Ensino-Aprendizagem
+
+Carga horária/ creditação
+
+30 horas/ 02 créditos
+
+Natureza Obrigatório/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Conhecimentos necessários para o uso de tecnologias digitais no processo de aprendizagem. Ambientes colaborativos e sistemas de gerenciamento de conteúdo digital. Interação e comunicação em ambientes virtuais. Monitoramento de atividades e recursos para avaliação. Produção e desenvolvimento de conteúdos digitais. Tecnologias digitais na universidade: direitos e deveres de estudantes e professores. Ambientes colaborativos mediados por tecnologias digitais: limites e possibilidades.
+
+Bibliografia básica
+
+BEHAR, P. A. Modelos pedagógicos em educação a distância. Porto Alegre: ArtMed, 2011. RIBEIRO, A. E. Letramento digital: aspectos sociais e possibilidades pedagógicas. 3ª ed. São Paulo: Autêntica, 2007. TAJRA, S. F. Desenvolvimento de projetos educacionais: mídias e tecnologias. São Paulo: Erica, 2014.
+
+Bibliografia complementar
+
+BEHAR, P. A. Competências em educação a distância. Porto Alegre: Penso, 2013. CARMO, V. O. Tecnologias educacionais. São Paulo: Cengage Learning, 2015. FERREIRA, A. R. Comunicação e aprendizagem: mecanismos, ferramentas e comunidades digitais. São Paulo: Erica, 2014. ROSINI, A. M. As novas tecnologias da informação e a educação a distância. 2ª ed. São Paulo: Cengage Learning, 2014. VELOSO, R. Tecnologia da informação e comunicação. São Paulo: Saraiva, 2008.
+
+69
+
+Fundamentos de Estatística
+
+Carga horária/ creditação
+
+30 horas/ 02 créditos
+
+Natureza Obrigatório/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Leitura e interpretação de textos multimodais (infográficos e tabelas). Estatística descritiva: conceitos fundamentais.
+
+Bibliografia básica
+
+DEVORE, J. L. Probabilidade e estatística para engenharia e ciências. 2ª ed. São Paulo: Cengage Learning, 2017. MORETTIN, P. A.; BUSSAB, W. O. Estatística básica. 9ª ed. São Paulo: Saraiva, 2017. TRIOLA, M. F. Introdução à estatística. 12ª ed. Rio de Janeiro: LTC, 2017.
+
+Bibliografia complementar
+
+CAMPOS, C. R.; WODEWOTZKI, M. L. L.; JACOBINI, O. R. Educação estatística: teoria e prática em ambientes de modelagem matemática. Belo Horizonte: Autêntica, 2011. COSTA, S. F. Introdução ilustrada à estatística. 5ª ed. São Paulo: Harbra, 2013. GUPTA, B. C.; GUTTMAN, I. Estatística e probabilidade com aplicações para engenheiros e cientistas. Rio de Janeiro: LTC, 2017. NOVAES, D. V.; COUTINHO, C. Q. S. Estatística para educação profissional e tecnológica. 2ª ed. São Paulo: Atlas, 2013. OLIVEIRA, P. H. F. C. Amostragem básica: aplicação em auditoria com práticas em microsoft excel e acl. 2ª ed. Rio de Janeiro: Ciência Moderna, 2014.
+
+Fundamentos de Matemática
+
+Carga horária/ creditação
+
+30 horas/ 02 créditos
+
+Natureza Obrigatório/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Conhecimentos e raciocínios matemáticos (aritmético, algébrico, proporcional e combinatório). Transição dos temas tratados na educação básica com aplicação de forma contextualizada nas diferentes áreas do conhecimento (Ciências, Humanidades, Saúde, Artes e Educação).
+
+Bibliografia básica
+
+BATSCHELET, E. Introdução à matemática para biocientistas. Trad. V. M. A. P. da Silva; J. M. P. de A. Quitete. Rio de Janeiro: Interciência; São Paulo: Universidade de São Paulo, 1978. IEZZI, G.; MURAKAMI, C. Fundamentos de matemática elementar: conjuntos, funções. 9ª ed. São Paulo: Atual, 2013. SILVA, L. M. O.; MACHADO, M. A. S. Matemática aplicada à administração, economia e contabilidade: funções de uma e mais variáveis. São Paulo: Cengage Learning, 2016.
+
+Bibliografia ARAÚJO, U. F.; SASTRE, G. (org.). Aprendizagem baseada em
+
+70
+
+complementar problemas no ensino superior. 3ª ed. São Paulo: Summus, 2016. ÁVILA, G.; ARAÚJO, J. L. L. Cálculo: ilustrado, prático e descomplicado. Rio de Janeiro: LTC, 2015. DEMANA, F. D.; WAITS, B. K.; FOLEY, G. D.; KENNEDY, D. Pré-cálculo. Trad. S. M. Yamamoto. 2ª ed. São Paulo: Pearson, 2013. HOFFMANN, L. D. et al. Cálculo: um curso moderno e suas aplicações. Trad. P. P. de Lima e Silva. 10ª ed. Rio de Janeiro: LTC, 2018. LANDAU, E. Teoria elementar dos números. Trad. G. dos S. Barbosa. Rio de Janeiro: Ciência Moderna, 2002. (Coleção clássicos da matemática)
+
+71
+
+16.1.4- Eixo Produções Textuais Acadêmicas
+
+Oficina de Textos Acadêmicos
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Obrigatório/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Integridade na pesquisa e na escrita científica. Estudos sobre construção frasal, paragrafação, coesão e coerência textuais com base na leitura e produção de gêneros acadêmicos: fichamento, resumo e resenha.
+
+Bibliografia básica
+
+MACHADO, A. R. (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S. Resumo. São Paulo: Parábola Editorial, 2004. MACHADO, A. R. (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S. Resenha. São Paulo: Parábola Editorial, 2004. MACHADO, A. R. (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros acadêmicos. São Paulo: Parábola Editorial, 2005.
+
+Bibliografia complementar
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e documentação – referências – elaboração. Rio de Janeiro, 2002. MARCONI, M. de A.; LAKATOS, E. M. Fundamentos de metodologia científica. São Paulo: Atlas, 2003. MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. 10ª ed. São Paulo: Cortez, 2017. MOTTA-ROTH, D.; HENDGES, G. R. Produção textual na universidade. São Paulo: Parábola Editorial, 2010. RESENDE, V. de M.; VIEIRA, V. Leitura e produção de texto na universidade: roteiros de aula. Brasília: EdUNB, 2014. WEG, R. M. Fichamento. São Paulo: Paulistana Editora, 2006.
+
+Oficina de Escrita Criativa
+
+Carga horária/ creditação
+
+75 horas/ 05 créditos
+
+Natureza Optativo de escolha restrita / Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Introdução à escrita criativa. Autoria e escrita. Gêneros literários. Tipologias textuais: descrição, narração e dissertação. Criação e criatividade. Experimentações com textos narrativos, poéticos, jornalísticos e imagéticos. Avaliação de textos literários. Ateliê de escrita.
+
+72
+
+Bibliografia básica
+
+ADICHIE, Chimamanda Ngozi. O perigo de uma história única. São Paulo: Companhia das Letras, 2019.
+
+BARTHES, Roland. Aula. Trad. Leyla Perrone-Moisés. São Paulo: Cultrix, 2013.
+
+PROSE, Francine. Ler como um Escritor. Rio de Janeiro: Zahar, 2008.
+
+Bibliografia complementar
+
+ABREU, Caio Fernando. Morangos mofados. Companhia das Letras, 2019.
+
+BARBOSA, Amilcar Bettega. Da leitura à escrita: a construção de um texto, a formação de um escritor. Tese (Doutorado em Letras) – Programa de Pós-Graduação em Letras, Pontifícia Universidade Católica do Rio Grande do Sul/ Université Sorbonne
+
+CHARTIER, Roger. “escutar os mortos com os olhos” In: http://www.scielo.br/pdf/ea/v24n69/v24n69a02.pdf
+
+FOUCAULT, Michel. O que é um Autor? Lisboa: Vega, 1992.
+
+FLUP 2016 - Desde que o samba é samba - Tenda Morangos Mofados https://www.youtube.com/watch?v=DCKpri9PgbA
+
+MIGLIAVACCA, Adriano Moraes. Um continente e sua escrita https://estadodaarte.estadao.com.br/um-continente-e-sua-escrita/
+
+REINACH, Fernando. O cérebro não é uma folha de papel em branco. Estado de S. Paulo, 26jun. 2008. p.A-24.
+
+SQUARISI, Dad & SALVADOR, Ariete. A arte de escrever bem- um guia para jornalistas e profissionais do texto. São Paulo : Contexto, 2005.
+
+Artigo Científico e Exposição Oral
+
+Carga horária/ creditação
+
+30 horas/ 02 créditos
+
+Natureza Obrigatório/ Módulo
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Leitura, compreensão e análise de artigos científicos. Práticas de retextualização a partir de diferentes propósitos comunicativos: do artigo científico à exposição oral.
+
+Bibliografia básica
+
+MACHADO, A. R. (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S. Trabalhos de pesquisa: diários de leitura para a revisão bibliográfica. São Paulo: Parábola Editorial, 2007. MARCUSCHI, L. A. Da fala para a escrita: atividades de retextualização. 10. ed. São Paulo: Cortez, 2017. MOTTA-ROTH, D.; HENDGES, G. R. Produção textual na universidade. São Paulo: Parábola Editorial, 2010.
+
+Bibliografia GUSTAVII, B. Como escrever e ilustrar um artigo científico. Trad. M.
+
+73
+
+complementar Marcionilo. São Paulo: Parábola Editorial, 2017. MACHADO, A. R. (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S. Planejar gêneros acadêmicos. São Paulo: Parábola Editorial, 2005. MATTOSO CÂMARA, J. Manual de expressão oral & escrita. 27ª ed. Petrópolis: Vozes, 2010. PRODANOV, C. C.; FREITAS, E. C. de. Metodologia do trabalho científico: métodos e técnicas da pesquisa e do trabalho acadêmico. 2ª ed. Novo Hamburgo: Feevale, 2013. Disponível em: https://www.feevale.br/institucional/editora-feevale/metodologia-dotrabalho-ci entifico---2-edicao RIBEIRO, R. M. A construção da argumentação oral no contexto de ensino. São Paulo: Cortez, 2009.
+
+Autoria na produção do texto acadêmico
+
+Carga horária/ creditação
+
+30 horas/ 02 créditos
+
+Natureza Optativo
+
+Modalidade Presencial
+
+Pré-requisitos Nenhum
+
+Ementa Autoria na produção dialógica do texto escrito. Os usos da palavra do outro: paráfrase, citação e plágio. Processos de revisão e reescrita
+
+Bibliografia básica
+
+KROKOSCZ, Marcelo. Autoria e plágio: um guia para estudantes, professores, pesquisadores e editores. São Paulo: Atlas, 2012.
+
+PERROTTA, Claudia. Um texto para chamar de seu: preliminares sobre a produção do texto acadêmico. São Paulo: Martins Fontes, 2004.
+
+VIEIRA, Francisco Eduardo; Faraco, Carlos Alberto. Escrever na universidade 1 – fundamentos. São Paulo: Parábola, 2019.
+
+Bibliografia complementar
+
+D’ALMEIDA, Mônica. A revisão do texto: parte integrante do processo de produção textual. São Paulo: Scortecci Editora, 2017.
+
+HARTMANN, Schirley Horácio de Gois; SANTAROSA, Sebastião Donizete. Práticas de escrita para o letramento no ensino superior. Curitiba: InterSaberes, 2015.
+
+KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Escrever e argumentar. São Paulo: Editora Contexto, 2016.
+
+QUEIROZ, Atauan Soares de. Autoria e produção de texto: uma perspectiva discursiva. São Paulo: Pimenta cultural, 2021.
+
+VIEIRA, Francisco Eduardo; Faraco, Carlos Alberto. Escrever na universidade 2 – Texto e discurso. São Paulo: Parábola, 2019.
+
+74
+
+16.1.5 Eixo Línguas estrangeiras
+
+Estratégias de Leitura em Língua Inglesa
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Técnicas e estratégias de leitura de textos em língua inglesa e compreensão de estruturas linguísticas básicas com vistas ao desenvolvimento de habilidades interculturais.
+
+Bibliografia básica
+
+NASH, G. M.; FERREIRA, W. R. Real English. Vocabulário, gramática e funções a partir de textos em inglês. Barueri, SP: Disal, 2010. PASSWORD – English Dictionary for Speakers of Portuguese. 4ª edição. São Paulo: Martins Fontes, 2013. SOUZA, A. G. F. et al. Leitura em Língua Inglesa: uma abordagem instrumental. 2ª edição atualizada. Barueri, SP: DISAL, 2010.
+
+Bibliografia complementar
+
+CIRANDA CULTURAL. Dicionário Escolar Português-Inglês/ Inglês-Português. Barueri, SP: Ciranda Cultural, 2015. LOPES, M. C. (coord.) Dicionário da Língua Inglesa. Inglês-Português, PortuguêsInglês. São Paulo: Rideel/Bicho Esperto, 2015. MORAES, R. De C. B. T. de. Ler para compreender textos em inglês: algumas estratégias. São Carlos, SP: UAB-UFSCar, 2014. THOMPSON, M. A. Inglês instrumental: estratégias de leitura para informática e internet. São Paulo: Érica. 2016. TORRES, N. Gramática prática da língua inglesa: o inglês descomplicado. 11ª ed. São Paulo: Saraiva, 2014.
+
+Estratégias de Leitura em Língua Espanhola
+
+Carga horária/ creditação
+
+45 horas/ 03 créditos
+
+Natureza Optativo de escolha restrita/ Módulo (40 vagas)
+
+Modalidade Seminário
+
+Pré-requisitos Nenhum
+
+Ementa Técnicas e estratégias de leitura de textos em língua espanhola e compreensão de estruturas linguísticas básicas com vistas ao desenvolvimento de habilidades interculturais.
+
+Bibliografia básica
+
+AMENDOLA, Roberta. Nuevo Listo: español a través de textos. São Paulo: Moderna, 2012
+
+PINHEIRO-CORREA, Paulo; LAGARE, Xoán Carlos. Confluencia – Língua Estrangeira moderna – Espanhol. São Paulo: Moderna, 2018.
+
+MATTE BON, Francisco. Gramática comunicativa del español – tomo I.
+
+75
+
+Madrid: Edelsa, 2020.
+
+Bibliografia complementar
+
+BRANDÃO, E.; BELINER, C. (trad.). SEÑAS. Diccionario para la enseñanza de la lengua española para brasileños. Universidad de Alcalá de Henares. 3. ed. São Paulo: Editora WMF Martins Fontes, 2010.
+
+CORPAS, Jaime. Socios 2: nueva edition – cuaderno de ejercicios. Buenos Aires: Difusion, 2008.
+
+COXMAN, Monica. Voces del sur I. Buenos Aires: Suvoces del Sur, 2010.
+
+ESPAÑOL LENGUA VIVA 2: libro del alumno. Moderna, 2015.
+
+FRAGO GARCIA, Juan Antonio. Historia del espanol de America: textos y contextos. Madrid: Gredos, 1999.
+
+MARTÍN, Ivan. Síntesis – curso de lengua española. São Paulo: Ática, 2019.
+
+Língua Inglesa e Cultura
+
+Carga horária/ creditação
+
+60 horas/ 04 créditos
+
+Natureza Obrigatório/ Módulo (40 vagas)
+
+Modalidade Oficina
+
+Pré-requisitos Nenhum
+
+Ementa Introdução às práticas de compreensão e produção oral e escrita da língua inglesa através do uso de estruturas linguísticas e funções comunicativas elementares em uma perspectiva cultural.
+
+Bibliografia básica
+
+MILNER, M.; CHASE, R. T.; JOHANNSEN, K. L. World English. Heinle Cengage Learning, 2015. MURPHY, R. Essential Grammar in Use. 3 ª ed. Cambridge: CUP, 2004 . SOARS, L.; SOARS J.; HANCOCK, P. Headway, Beginner, 5 th edition. Oxford: Oxford University Press, 2018.
+
+Bibliografia complementar
+
+BYRAM, M.;GRUNDY, P. Context and cultures in language teaching and learning. Clevedon: Multilingual Matters, 2003. CRYSTAL, D. English as a Global Language. Cambridge: Cambridge University Press,1997. NASH, M. G.; FERREIRA, W. R. Real english: vocabulário, gramática e funções a partir de textos em inglês. São Paulo: Disal Editora, 2015. SPENCER-OATEY, H. What is culture? A compilation of quotations. Global PAD CoreConcepts, 2012.
+
+16.2 Componentes próprios do Bacharelado em Jornalismo
+
+B - Componentes próprios do Bacharelado em Jornalismo
+
+76
+
+Metodologia de Pesquisa em Comunicação
+
+Carga horária/ creditação
+
+45h/ 03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Bases epistemológicas, metodológicas, teóricas e práticas para a formulação e desenvolvimento de pesquisa em comunicação. Identificação da natureza do conhecimento científico, das características e etapas da pesquisa científica. Elaboração do projeto de pesquisa: formulação de problema, definição dos objetivos, justificativa etc. Análise de métodos quantitativos e qualitativos em comunicação, estudos de recepção, pressupostos teóricos e técnicas de análise de conteúdo, análise de imagem em movimento, análise de discurso, observação participante, pesquisa-ação e etnografia de mídia.
+
+Bibliografia básica
+
+BAUER, M. W. & GASKELL, George (Orgs.). Pesquisa qualitativa com texto, imagem e som. Petrópolis: Vozes, 2002. DUARTE, Jorge; BARROS, Antonio (Orgs.). Métodos e técnicas de pesquisa em comunicação. São Paulo: Atlas, 2005. SÁ, Celso Ferreira de. A construção do objeto de pesquisa em representações sociais. Rio de Janeiro: EDUERJ, 1998. .
+
+Bibliografia complementar
+
+FERREIRA, Marieta de Moraes; AMADO, Janaina. Usos & abusos da história oral. 5ª.ed.Rio de Janeiro: FGV,2002. PEREIRA, Júlio César R. Análise de dados qualitativos: estratégias metodológicas. São Paulo: Edusp/Fapesp, 1999. RUDIO, Franz Victor. Introdução ao projeto de pesquisa científica. 20ªed. Petrópolis: Vozes, 1996. THIOLLENT, Michel. Metodologia da pesquisa-ação. S. Paulo, Cortez/Autores associados,1988. TUFTE, Thomas. Questões a serem estudadas em estudos etnográficos de mídia: mediação e hibridização cultural na vida cotidiana. In: LOPES, Maria Immacolata V. (org.) Temas contemporâneos em comunicação. São Paulo: Edicon/Intercom, 1997
+
+Ética e Jornalismo
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Obrigatória
+
+77
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Compreensão do conceito de ética na cultura. Noções de ética e direitos humanos aplicadas à sociedade contemporânea. Ética e deontologia no jornalismo. Reconfigurações jornalísticas e o surgimento de novos dilemas éticos. O discurso propositivo acerca de cidadania e ética no jornalismo do Brasil e da Bahia
+
+Bibliografia básica
+
+ABRAMO, Cláudio. A regra do jogo. O jornalismo e a ética do marceneiro. São Paulo: Cia das Letras, 1999. ISBN- 9788571640153
+
+CHRISTOFOLETTI, R. Ética no jornalismo. São Paulo: Contexto, 2008. ISBN- 9788572441803
+
+BUCCI, Eugênio. Sobre ética e imprensa. São Paulo: Companhia das Letras, 2000. ISBN – 9788535900569
+
+Bibliografia complementar
+
+FILHO, Clóvis. Ética na Comunicação. Summus, 2003. ISBN – 9788532308443
+
+KARAM, F. J. Ética Jornalística e Interesse Público. SP: Summus, 2004- ISBN- 9788532308580
+
+KARAM, F. J. C; LIMA, S. Jornalismo, Crítica e Ética. Florianópolis: Insular, 2016. ISBN – 9788574748979
+
+MARCONDES FILHO, Ciro. Ser jornalista: a língua como barbárie e a notícia como mercadoria. São Paulo: Paulus, 2009. ISBN – 9788534930017
+
+COSTA, C. T. Ética, jornalismo e uma nova mídia: uma moral provisória. Rio de Janeiro: Jorge Zahar, 2009. ISBN – 9788537801246
+
+Teorias da Comunicação
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Comunicação: conceitos possíveis. Modelos comunicativos. Pesquisa sociológica norte-americana: Escola de Chicago e o Mass Communication Research. Análise crítica da sociedade e modernização: a Escola de Frankfurt. Perspectiva culturalista das relações sociais: O CCCS. Perspectivas pós-coloniais. Emergência do pensamento latino-americano. Folkcomunicação.
+
+78
+
+Bibliografia básica
+
+FILHO, Ciro Marcondes. Teorias da comunicação, hoje. São Paulo: Editora Paulus, 2016. ISBN – 9788534944731
+
+FRANÇA, Vera et al. (orgs). Teorias da comunicação: conceitos, escolas e tendências. Petrópolis: Vozes, 2011. ISBN: 9788532626158
+
+POLITSCHUK, Ilana & TRINTA, Aluizio Ramos. Teorias da comunicação: o pensamento e a prática da comunicação social. Rio de Janeiro: Editora Campus, 2003.
+
+Bibliografia complementar
+
+DEFLEUR, Melvin L.; BALL-ROKEACH, Sandra J. Teorias da comunicação de massa. Rio de Janeiro: Jorge Zahar, 1993. ISBN – 9788571102026 GOMES, Itania & JANOTTI JR., Jeder (orgs.). Comunicação e Estudos Culturais. Salvador: EDUFBA, 2011.ISBN – 978-85-232-0854-7
+
+MACIEL, Betânia; MELO, José Marques de; LIMA, Maria Érica de Oliveira. Território da folkcomunicação. Natal: UFRN, Departamento de Comunicação Social, 2011. ISBN – 978-85-64594-00-5. 1
+
+MARTIN-BARBERO, Jesus. Ofício de cartógrafo: travessias latino-americanas da comunicação na cultura. São Paulo: Loyola, 2004.ISBN – 9788515028917
+
+MARTINO, Luis Mauro Sá. Teorias da comunicação: ideias, conceitos e métodos. Petrópolis: Editora Vozes, 2014. ISBN – 97885765127691
+
+Teorias do Jornalismo
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Evolução histórica das práticas jornalísticas: pré-jornalismo ao jornalismo pós- industrial. O conceito de noticiabilidade. A ideia do agendamento-setting. Gatekeeping e newsmaking. Principais teorias do jornalismo: teoria organizacional, teoria do espelho, teoria da ação pessoal, teoria de ação política, teoria estruturalista, teoria interacionista e teoria gnóstica. Tendências contemporâneas: novos modos do fazer jornalístico. New Journalism. Gonzo journalism. Jornalismo em quadrinhos (JHQ). Fake news e pós-verdade.
+
+Bibliografia básica
+
+BARSOTTI, Adriana. Jornalista em mutação: do cão de guarda ao mobilizador de audiência. Florianópolis: Insular, 2014. ISBN 978-85-7474-802-3 PENA, Felipe. Teorias do jornalismo. São Paulo: Editora Contexto, 2005.
+
+79
+
+ISBN 978-85-7244-284-8
+
+TRAQUINA, Nelson. Teorias do jornalismo. vol 1: Por que as notícias são como são? Florianópolis: Insular, 2004. ISBN 9788574746272
+
+Bibliografia complementar
+
+D'ANCONA, Matthew. Pós-verdade: a nova guerra contra os fatos em tempos de fake news. Barueri: Faro Editorial, 2018. ISBN 9788595810174
+
+MELO, José Marques de. Teorias do jornalismo: identidades brasileiras. São Paulo: Editora Paulus, 2006. ISBN 9788534925129
+
+STEADMAN, Ralph. Delírio na era gonzo: como um repórter e um ilustrador maluco a porra-louquice dos anos 70. Disponível em https://piaui.folha.uol.com.br/ materia/delirio-da-era-gonzo/. Acessado em 06 de outubro de 2018.
+
+GOMES, Iuri Barbosa. Jornalismo em quadrinhos: mediações experimentais entre comunicação e artes. In: Congresso na Sociedade Brasileira de Estudos Interdisciplinares de Comunicação, 15f. Artigo, 2008, Natal. Anais eletrônicos, Natal: Intercom, 2008.
+
+SOUZA, Jorge Pedro. Teorias da notícia e do jornalismo. Chapecó: Argos, 2002. ISBN 9789896540654
+
+Modelos de Gestão e Projetos Autorais em Jornalismo e Comunicação
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa O empreendedorismo público e privado. A gestão em comunicação pública e privada. Planejamento e ação estratégica. O mercado e as empresas da comunicação social. Pesquisa de mercado e descoberta das oportunidades. Os produtos da comunicação pública e privada.
+
+Bibliografia básica
+
+COSTA, Maria Cristina Castilho. Gestão da Comunicação: projetos de intervenção. São Paulo: Paulinas, 2009. ISBN 9788535624489
+
+GARO, Roseli. Gestão da comunicação. São Paulo: Atlas, 2005. ISBN 9788539703128.
+
+IASBECK, Luiz Carlos Assis (org.). Ouvidoria: mídia organizacional. Porto Alegre: Sulina, 2012.ISBN 9788520506400
+
+Bibliografia BACCEGA, Maria Aparecida; COSTA, Maria Cristina Castilho. Gestão da
+
+80
+
+complementar Comunicação: epistemologia e pesquisa teórica. São Paulo: Paulinas, 2009. ISBN 97885326-2447-2
+
+CURVELLO, João José Azevedo. Comunicação interna e cultura organizacional. Brasília: Scortecci editora, 2016. ISBN 9788573727454
+
+MARSHALL, Leandro. O jornalismo na era da publicidade. São Paulo: Summus, 2003.
+
+PAULINO, Fernando Oliveira. SILVA, Luiz Martins da. (orgs). Comunicação pública em debate: ouvidoria e rádio. Brasília: Editora Universidade de Brasília, 2013. ISBN 9788523010973
+
+Políticas de Comunicação
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Perspectivas entre política e mídia. Monopólio da comunicação. Marcos referenciais em Políticas de Comunicação. União Internacional de Telecomunicações (UIT). Processo de midiatização na América Latina. Comunicação pública na América do Sul. Outras propostas: NOMIC / CONFECOM / FNDC. Marco regulatório e liberdade de imprensa. Panorama brasileiro: os casos PNBL e EBC. Convergência e sociedade da informação. Indústria cultural na era digital.
+
+Bibliografia básica
+
+BRITTOS, Valério Cruz & LOPES, Ruy Sardinha. Políticas de comunicação e sociedade. São Paulo: INTERCOM, 2012. ISBN 978-85-88537-95-8
+
+LIMA, Venício Artur de. Regulação das comunicações: história, poder e direitos. São Paulo: Paulus Editora, 2011. ISBN 9788534919555
+
+SANTOS, Suzy & RAMOS, Murilo César. Políticas de comunicação: buscas teóricas e práticas. São Paulo: Paulus Editora, 2007. ISBN 978-85-349-3868-6
+
+Bibliografia complementar
+
+CASTELLS, Manuel. O poder da comunicação. São Paulo: Paz e Terra, 2015. ISBN: 9788577533213 CASTRO, Daniel & MELO, José Marques de. Panorama da comunicação e das telecomunicações no Brasil. vol 1. Brasília: IPEA, 2010. ISBN 978-85-7811-084-0
+
+FABRINO MENDONÇA, Ricardo et al. Democracia Digital: Publicidade, Instituições e Confronto Político. Belo Horizonte: UFMG, 2016. ISBN: 9788542301694
+
+UNESCO. Um mundo e muitas vozes: comunicação e informação na nossa
+
+81
+
+época. Rio de Janeiro: FGV, 1983. ISBN 9788522500738
+
+INTERVOZES & REPÓRTERES SEM FRONTEIRAS. Monitoramento da propriedade da mídia no Brasil. 2018. http://brazil.mom-rsf.org/br/sobre/equipe/ Acessado em 08 de outubro de 2018.
+
+SARAVIA, Enrique; MATOS, Paulo Emílio; PIERANTI, Octavio Penna (orgs.). Democracia e regulação dos meios de comunicação de massa. Rio de Janeiro: FGV Editora, 2008. ISBN 9788522506647
+
+Assessoria de Comunicação e Comunicação Integrada
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Comunicação institucional e imprensa: o jornalista trabalhando como fonte. Estratégias de comunicação integrada – elaboração e execução de planos de comunicação estratégica. Jornalismo entre as áreas das Relações Públicas e da Publicidade. Relacionamento da organização com públicos estratégicos e preferenciais.
+
+Bibliografia básica
+
+DUARTE, Jorge. Assessoria de Imprensa e Relacionamento com a Mídia: teoria e técnica. São Paulo: Atlas, 2018. ISBN: 9788597014648
+
+KOPLIN, Elisa & FERRARETO, Luiz Arthur. Assessoria de Imprensa: teoria e prática. Porto Alegre: Sagra Luzzato, 2002. ISBN: 9788532305288
+
+KUNSCH, Margarida Krohling & KUNSCH, Waldemar Luiz. Relações Públicas Comunitárias: A Comunicação em uma Perspectiva Dialógica e Transformadora. São Paulo: Summus, 2007. ISBN: 9788532303615
+
+Bibliografia complementar
+
+KUNSCH, Margarida (org.). Comunicação organizacional: histórico, fundamentos e processos. São Paulo: Saraiva, 2009. ISBN: 9788502083134
+
+KUNSCH, Margarida. Planejamento de relações públicas na comunicação integrada. São Paulo: Summus, 2003. ISBN: 9788532302632
+
+MAFEI, Maristela. Assessoria de Imprensa: como se relacionar com a mídia. São Paulo: Contexto, 2004. Disponível online em:
+
+82
+
+http://www.acmcomunicacao.com.br/wp-content/midias/Assessoria-de-Impre nsa- Como-se-relacionar-com-a-Midia-Maristela-Mafei.pdf
+
+TORQUATO, Francisco Gaudêncio. Tratado de comunicação organizacional e política. São Paulo: Pioneira Thompson Learning, 2002. ISBN: 9788522110094
+
+. Jornalismo empresarial: teoria e prática. São Paulo: Summus, 1987. ISBN: 9788532301871
+
+____________. Comunicação empresarial, comunicação institucional: conceitos, estratégias, sistemas estruturais, planejamento e técnicas. São Paulo: Summus, 1986. ISBN: 9788532302403
+
+Apuração e texto jornalístico
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Pauta e apuração na produção da notícia, nos processos de pesquisa e de estruturação do texto jornalístico. Entrevista e reportagem em suporte impresso ou digital. Normas de redação em diferentes plataformas e códigos: textuais, imagéticos e gráficos.
+
+Bibliografia básica
+
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro: Record, 2011. ISBN: 9788501060909
+
+LEAL, Bruno Souza. Formação em jornalismo: da prospecção dos acontecimentos à edição. Belo Horizonte: UFMG, 2018. ISBN: 9788542302516
+
+PEREIRA JÚNIOR, Luiz Costa. A apuração da notícia: métodos de investigação na imprensa. Petrópolis: Vozes, 2009. ISBN: 9788532633538
+
+Bibliografia complementar CAPUTO, Stela Guedes. Sobre entrevistas: teoria, prática e experiências. Petrópolis: Vozes, 2010. ISBN: 9788532633064
+
+FLOSI, Edson. Por trás da notícia: o processo de criação das grandes reportagens. São Paulo: Summus, 2012. ISBN: 9788532307811
+
+FOLHA DE S. PAULO. Manual da Redação. São Paulo: Publifolha, 2018. ISBN: 9788594111012
+
+MÜHLHAUS, Carla. Por trás da entrevista. Rio de Janeiro: Record, 2007. ISBN: 9788501077943
+
+83
+
+PEREIRA JÚNIOR, Luiz Costa. Guia para a edição jornalística. Petrópolis: Vozes, 2012. ISBN: 9788532633545
+
+Comunicação Comunitária (CCEx)
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa O comum, a comunidade e a comunicação. O direito à comunicação. Comunicação alternativa, popular e comunitária: características e experiências. A comunicação e o jornalismo produzido no contexto dos movimentos sociais e da comunicação pública. Educomunicação e o contexto escolar. Estudos de caso: das rádios e TVs comunitárias ao ciberativismo. Possibilidades de ação de extensão ligadas à comunicação comunitária
+
+Bibliografia básica
+
+BAUMAN, Zygmunt. Comunidade – a busca por segurança no mundo atual. Rio de Janeiro: Jorge Zahar, 2003.ISBN 9788571106991
+
+PAIVA, Raquel (org.). O retorno da comunidade: os novos caminhos do social. Rio de Janeiro: Mauad X, 2007.ISBN 978-85-7478-212-6
+
+LIMA, Rafaela (org.). Mídias Comunitárias, Juventude e Cidadania. Belo Horizonte: Autêntica, 2007. ISBN: 978-8575262429
+
+Bibliografia complementar
+
+ALVARENGA, Clarisse Maria Castro de. Vídeo e experimentação social. Um estudo sobre o vídeo comunitário contemporâneo no Brasil. Dissertação (Mestrado em Multimeios) – Universidade Estadual de Campinas, Campinas, 2004. LEONEL, Juliana & FABRINO MENDONÇA, Ricardo. Audiovisual Comunitário e educação: histórias, processos e produtos. Belo Horizonte: Autêntica, 2010. ISBN: 9788575264980
+
+PAIVA, Raquel. O espírito comum. Comunidade, mídia e globalismo. 2.ed. Petrópolis: Vozes, 1998.ISBN 9788574781105
+
+PERUZZO, Cicilia Maria Krohling. Revisitando os Conceitos de Comunicação Popular, Alternativa e Comunitária. Intercom – XXIX Congresso Brasileiro de Ciências da Comunicação. UnB, 6 a 9 de setembro de 2006.
+
+SHERER-WARREN, Ilse. Das mobilizações às redes de movimentos sociais. Sociedade e Estado, Brasília, v.21, n.1, p.109-130, jan./abr. 2006. Disponível em: <http://periodicos.unb.br/index.php/estado/article/view/3565>.
+
+SOARES, Ismar de Oliveira. Educomunicação: o conceito, o profissional, a aplicação: contribuições para a reforma do ensino médio. São Paulo, SP :
+
+84
+
+Paulinas , 2011. ISBN 978-85-356-2752-7
+
+VILLAÇA, Nízia. A periferia pop na idade mídia. São Paulo: Espaço das Letras e Cores, 2011. ISBN 9788578120892
+
+Jornalismo Cultural
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Processos de compreensão do fenômeno de mediação jornalística entre comunicação, sociedade e cultura. A informação e suas interfaces culturais a partir das seguintes perspectivas: representações sociais; práticas socioculturais e narrativas sociais. Conceito de sociabilidade cotidiana. Análise de processos de produção, recepção, circulação, consumo e apropriação de bens culturais e simbólicos relacionados às práticas jornalísticas em diferentes meios, suportes, grupos e contextos socioculturais. A emissão de signos.
+
+Bibliografia básica BALLERINI, Franthiesco. Jornalismo cultural no século 21. São Paulo: Summus Editorial, 2015.
+
+LINDOSO, Felipe (org.). Rumos do jornalismo cultural. São Paulo: Summus/Itaú Cultural, 2007.
+
+PIZA, Daniel. Jornalismo cultural. São Paulo: Contexto, 2003.
+
+Bibliografia complementar
+
+AZZOLINO, Adriana Pessatte (org.) 7 Propostas para o Jornalismo Cultural: reflexões e experiências. São Paulo: Miró Editorial, 2009.
+
+CASTELLO, José. Inventário das sombras: 17 retratos de grandes escritores. Record: Rio de Janeiro, 2022.
+
+85
+
+COELHO, Marcelo. Crítica cultural: teoria e prática. São Paulo: Publifolha, 2006.
+
+ROLLEMBERG, Marcello. Papel-jornal: artigos de jornalismo cultural. São Paulo: Ateliê Editorial, 2000.
+
+ZILBERMAN, Regina. Jornalismo cultural. Florianópolis: FCC Edições, 2002.
+
+Teorias e Práticas das Narrativas Jornalísticas
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Estudos das teorias da narrativa aplicadas à narrativa jornalística. Sujeito, tempo e espaço na narrativa. Narrador e personagem. A narrativa literária e a narrativa jornalística: encontros e desencontros. A crônica. O jornalismo literário. Referências de grandes autores em reportagem e jornalismo literário: fatores de estilo e construção textual que configuram as estratégias de alguns grandes nomes do jornalismo ao longo do século XX.
+
+Bibliografia básica LEAL, Bruno S. Introdução às narrativas jornalísticas. Porto Alegre: Sulina, 2022.
+
+SANTOS, Joaquim Ferreira dos (org.). As 100 melhores crônicas brasileiras. Rio de Janeiro: Objetiva, 2007.
+
+TCHÉKHOV, Anton. Um Bom Par de Sapatos e Um Caderno de Anotações (como fazer uma reportagem). São Paulo: Martins Fontes, 2007
+
+Bibliografia complementar
+
+BARCELLOS, Caco. Abusado – O dono do morro Dona Marta. São Paulo: Record, 2003.
+
+CALLADO, Antonio. Esqueleto da Lagoa Verde. São Paulo: Companhia das Letras, 2010.
+
+CAPOTE, Truman. A sangue frio: relato verdadeiro de um homicídio múltiplo e suas consequências. São Paulo: Companhia das Letras, 2003.
+
+KAPUSCINSKI, Ryszard. Minhas viagens com Heródoto. São Paulo: Cia das Letras. 2006
+
+86
+
+LONDON, Jack. O povo do abismo: fome e miséria no coração do império britânico. São Paulo: FPA, 2004.
+
+MALCOLM, Janet. O jornalista e o assassino. São Paulo: Companhia das Letras, 2011.
+
+MÁRQUEZ, Gabriel García. Notícias de Um Sequestro. Rio: Record, 1996.
+
+REMNICK, David. O rei do mundo. São Paulo: Cia. das Letras, 2006.
+
+RESENDE, Fernando. O olhar às avessas: a lógica do texto jornalístico. Encontro Compós. 13. 2004. Anais. São Bernardo do Campo. Disponível em: <http:// www.compos.org.br/data/biblioteca_668.pdf>.
+
+SILVEIRA, Joel. A Feijoada que Derrubou o Governo. São Paulo: Companhia das Letras, 2004.
+
+WALLACE, Richard Foster. Ficando longe do fato de estar meio que longe de tudo. São Paulo: Cia das Letras. 2012
+
+WALSH, Rodolfo. Operação Massacre. São Paulo: Cia das Letras. 2010
+
+História do Jornalismo
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Jornalismo e História: intersecções epistêmicas. Das práticas comunicativas à produção informacional. Da informação à sistematização jornalística. História cultural da imprensa. Libelos, panfletos e gazetas: a ideologização dos conteúdos jornalísticos. Imprensa no Brasil: da ilegalidade às ordens do príncipe. Sistemas de governo e imprensa. Configurações contemporâneas das práticas do jornalismo.
+
+Bibliografia básica
+
+BARBOSA, Marialva. História cultural da imprensa: Brasil 1900-2000. Rio de Janeiro: Mauad, 2007. ISBN 9788574782249
+
+BRIGGS, A. & BURKE, P. Uma história social da mídia: de Gutenberg à internet. Rio de Janeiro: Jorge Zahar Editor, 2006. ISBN 97885378537
+
+ROMANCINI, Richard & LAGO, Claudia. História do jornalismo no Brasil. Florianópolis: Editora Insular, 2007. ISBN 9788574743455
+
+Bibliografia complementar
+
+AMORIM, Paulo Henrique. O quarto poder: uma outra história. São Paulo:
+
+87
+
+Hedra, 2015. ISBN: 9788577154098 DARNTON, Robert. O beijo de Lamourette: mídia, cultura e revolução. São Paulo: Companhia de Bolso, 2010. ISBN 9788535917086
+
+RIBEIRO, Ana Paula Goulart & HERSCHMANN, Micael. Comunicação e História: interfaces e novas abordagens. Rio de Janeiro: Globo Universidade e Editora Mauad X, 2008. ISBN 9788574782782
+
+SODRÉ, Nelson Werneck. História da imprensa no Brasil. Porto Alegre: EDIPUCRS, 2011. ISBN 9788588537842
+
+THOMPSON, John B. Mídia e modernidade: uma teoria social da mídia. Petrópolis: Vozes, 1998. ISBN 9788532620798
+
+Fotojornalismo
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Funções da fotografia no Jornalismo; História do Fotojornalismo; Equipamento Fotográfico; A imagem digital; Linguagem fotográfica e informação; Gêneros do Fotojornalismo: feature, retrato, ensaio, fotorreportagem, foto ilustrativa; Fotojornalismo na era da internet.
+
+Bibliografia básica HARAZIM, Dorrit. O instante certo. São Paulo: Cia. Das Letras, 2016.
+
+SOUSA, Jorge Pedro. Fotojornalismo: introdução à história, às técnicas e à linguagem da fotografia na imprensa. Florianópolis: Letras Contemporâneas, 2004.
+
+OLIVEIRA, Erivam Morais de. Fotojornalismo: uma viagem entre o analógico e o digital. São Paulo: Cengage Learning, 2009.
+
+Bibliografia complementar
+
+BOROSKI, Marcia. Fotojornalismo: técnicas e linguagens. Curitiba: InterSaberes, 2020.
+
+GIACOMELLI, Ivan Luiz. A transição tecnológica do fotojornalismo: da câmara escura ao digital. Florianópolis: Insular, 2012.
+
+LANGFORD, Michael J.; FOX, Ann; SMITH, Richard. Fotografia básica de Langford: guia completo para fotógrafos. 8ª ed. São Paulo: Bookman, 2009
+
+KOBRE, Kenneth. Fotojornalismo: uma abordagem profissional. São Paulo, Campus, 2011.
+
+88
+
+TRIGO, Thales. Equipamento fotográfico: teoria e prática. 4ª ed. São Paulo: Senac, 2010.
+
+Teorias da Linguagem
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Estudo das linguagens: noções básicas. Língua e cultura. Gramática tradicional, Linguística Formal e Linguística Funcional. Variação linguística. Língua Padrão. Atitudes e preconceitos linguísticos. Aquisição da língua. Competência comunicativa. Noção de discurso. Textos e contextos. Práticas discursivas: produção, distribuição e consumo de textos. Construção discursiva das identidades sociais. Tecnologias discursivas. Gênero discursivo e intertextualidade, Mudança discursiva na sociedade contemporânea. Linguagem e gênero: conceito cultural
+
+Bibliografia básica
+
+BAGNO, M. A língua de Eulália (novela sociolinguística). São Paulo: Contexto, 1999. ISBN 978857244081X
+
+BRANDÃO, H. H. N. Introdução à análise do discurso. Campinas, SP: UNICAMP, 2004. ISBN 978852680670X
+
+SAUSSURE, F. Curso de linguística Geral. 27. ed. Organizado e editado por Charles Bally e Albert Sechehaye. Tradução de Antônio Chelini, José Paulo Paes e Izidoro Blikstein. São Paulo: Cultrix, 2006. ISBN 978-85-316-0102-6
+
+Bibliografia complementar
+
+BAKHTIN, Mikhail. Marxismo e filosofia da linguagem. 12º edição. São Paulo: HUCITEC, 2006. ISBN 9788527100410
+
+DUBOIS, J. et alii. Dicionário de linguística. São Paulo: Cultrix, 2014, 2ª edição. ISBN 978-85-316-1279-4
+
+MARTEL, Fréderic. Mainstream: a guerra global das mídias e das culturas. Tradução de Clóvis Marques. Rio de Janeiro: Civilização Brasileira, 2012. ISBN 9788520010761
+
+SANTAELLA, Lucia. O que é Semiótica. São Paulo: Coleção Primeiros Passos, Ed. Brasiliense, 1998. ISBN 9788511011036
+
+VIGOTSKI, L.S. Pensamento e linguagem. São Paulo: Martins Fontes,
+
+89
+
+\2005. ISBN 978853361361X
+
+ORLANDI, Eni & LAGAZZI-RODRIGUES, Suzy. Discurso e textualidade. Campinas Pontes Editores, 2010. ISBN 9788571132275
+
+Jornalismo Científico e Ambiental
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Jornalismo Científico, conceitos e funções. Os sistemas de produção científica e de produção jornalística. Interesses políticos e econômicos na produção e na divulgação da ciência, tecnologia e inovação. Fontes, contextos e temas em Jornalismo Científico. História, conceitos, características, funções e técnicas do jornalismo ambiental. A prática do jornalismo ambiental: pauta, apuração, redação e edição.
+
+Bibliografia básica
+
+MEDINA, Cremilda. Ciência e Jornalismo: da herança positivista ao diálogo dos afetos. São Paulo: Summus, 2008.
+
+OLIVEIRA, Fabíola de. Jornalismo científico. São Paulo: Contexto, 2007. ISBN: 9788572442121
+
+FROME, Michael. Green Ink: uma introdução ao jornalismo ambiental. Curitiba: UFPR, 2008
+
+Bibliografia complementar
+
+ARAÚJO, Inesita Soares de; CARDOSO, Janine Miranda. Comunicação e saúde. Rio de Janeiro: Fiocruz, 2007. ISBN 978-85-7541-125-4 BROTAS, Antonio Marcos Pereira; BORTOLIERO, Simone Terezinha; PORTO, Cristiane de Magalhães. Diálogos entre ciência e divulgação científica: leituras contemporâneas. Salvador: Edufba, 2011. ISBN 978-85-232-0776-2
+
+LEITE, Marcelo. Ciência: use com cuidado. Campinas-SP: Unicamp, 2008. ISBN 9788526808010
+
+VILAS BOAS, Sérgio. Formação e informação científica: jornalismo para iniciados e leigos. São Paulo: Summus, 2005.
+
+VILAS BOAS, Sergio. Formação & Informação ambiental: jornalismo para iniciados e leigos. São Paulo: Summus, 2004.
+
+90
+
+Psicologia Social da Comunicação
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução aos conceitos básicos da psicologia social da comunicação. Aplicação dos princípios da psicologia social e da psicanálise na comunicação de massas, publicidade e propaganda. Influência persuasão e mudança de atitudes. Representações sociais e comunicação. Psicologia social discursiva e análise da comunicação. Psicologia social da comunicação, jornalismo e política. Comunicação e novas tecnologias de informação. A psicologia social da comunicação aplicada à análise de fenômenos contemporâneos: fake news, emoções coletivas, discursos de ódio e relações de poder.
+
+Bibliografia básica
+
+GUARESCHI, P. A; AMON, D.; GUERRA, A (Org.). Psicologia, comunicação e pós-verdade. Florianópolis: ABRAPSO, 2019.
+
+JACÓ-VILELA, AM.;SATO, L., (Orgs). Diálogos em psicologia social [online]. Rio de Janeiro: Centro Edelstein de Pesquisas Sociais, 2012.
+
+MOSCOVICI, S Representações sociais: investigações em psicologia social. Rio de Janeiro: Vozes, 2003.
+
+Bibliografia complementar
+
+ALMEIDA, A., SANTOS, M., TRINIDADE, Z. Teoria das representações sociais 50 anos. Technopolitik Editora, 2014. Ebook.
+
+ÁLVARO, J. L.; GARRIDO, A. Psicologia social: Perspectivas psicológicas e sociológicas. São Paulo: Mc Graw Hill, 2006
+
+FREUD, Sigmund. Psicologia das massas e análise do eu e outros textos (1920-1923). São Paulo: Companhia das Letras, 2011
+
+M. OLIVEIRA, Érico. O modus operandi das fake news na Psicologia das Massas. Estudos Universitários: revista de cultura, UFPE/Proexc, Recife, v. 39, n. 1, p. 161-192, jan./ jun., 2022.
+
+PASTOR RUIZ, Y. Psicología social de la comunicación: aspectos básicos e aplicados. Madrid, Ediciones Pirámide, 2006
+
+Jornalismo em Rádio e TV
+
+Carga horária/ 45h/035 créditos
+
+91
+
+creditação
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Debates teóricos sobre as características da comunicação sonora no rádio e os diferentes formatos radiojornalísticos, bem como sobre a comunicação audiovisual na TV e os diferentes formatos do jornalismo televisivo. Desafios da prática profissional em um contexto de convergência e mídias sociais. Webrádio, rádio expandido e podcasting. Aspectos históricos do rádio e do telejornalismo no Brasil e na Bahia. Marcos regulatórios para TV digital no Brasil e América Latina. Aspectos atuais do telejornalismo.
+
+Bibliografia básica
+
+GUTMANN, Juliana Freire. Formas do telejornal; linguagem televisiva, jornalismo e mediações culturais. Salvador/BA: EDUFBA, 2014.
+
+MEDITSCH, Eduardo (org.) Teorias do rádio – textos e contextos. Vol.1. Florianópolis: Insular, 2005.
+
+VALIM, Silvia; MARQUES, Alan. Do áudio ao visual: produção, técnica e panorama contemporâneo do rádio e da Tv no Brasil. Curitiba: InterSaberes, 2020.
+
+Bibliografia complementar
+
+AMORIM, Paulo Henrique. Manual Inútil da Televisão e Outros Bichos Curiosos. São Paulo: Hedra, 2016.
+
+BRASIL, A. C. Telejornalismo, Internet e Guerrilha Tecnológica. Rio de Janeiro: Ciência Moderna, 2002.
+
+KISCHINHEVSKY, Marcelo. Rádio e mídias sociais. Mediações e interações radiofônicas em plataformas digitais de comunicação. Rio de Janeiro: Mauad X, 2016.
+
+LOPEZ, Débora Cristina. Radiojornalismo hipermidiático – tendências e perspectivas do jornalismo de rádio all news brasileiro em um contexto de convergência tecnológica. Covilhã: Livros LabCom, 2010.
+
+SANTOS, Richard. Televisão e Branquitude: A nova (?) África na TV Brasil. Rio de Janeiro: Gramma, 2018.
+
+Estágio I
+
+Carga horária/ creditação
+
+90h/06 créditos
+
+Natureza Obrigatória
+
+Modalidade Prática
+
+Pré-requisitos
+
+92
+
+Ementa Prática profissional obrigatória desenvolvida em projeto na universidade ou em empresa conveniada sob orientação de docente do curso e supervisão de jornalista profissional.
+
+Bibliografia básica
+
+LOPEZ, Débora Cristina. Radiojornalismo hipermidiático – tendências e perspectivas do jornalismo de rádio all news brasileiro em um contexto de convergência tecnológica. Covilhã: Livros LabCom, 2010. GUTMANN, Juliana Freire. Formas do telejornal; linguagem televisiva, jornalismo e mediações culturais. Salvador/BA: EDUFBA, 2014.ISBN 978-85-232-1224-7 GARO, Roseli. Gestão da comunicação. São Paulo: Atlas, 2005. ISBN 9788539703128.
+
+Bibliografia complementar
+
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro: Record, 2011. ISBN: 9788501060909
+
+PEREIRA JÚNIOR, Luiz Costa. A apuração da notícia: métodos de investigação na imprensa. Petrópolis: Vozes, 2009. ISBN: 9788532633538 SCHWINGEL, Carla & ZANOTTI, Carlos (orgs). Produção e colaboração no jornalismo digital. Florianópolis: Insular, 2010. ISBN: 9788574745299
+
+KOPLIN, Elisa & FERRARETO, Luiz Arthur. Assessoria de Imprensa: teoria e prática. Porto Alegre: Sagra Luzzato, 2002. ISBN: 9788532305288.
+
+MACHADO, E.. O Ensino de Jornalismo na era da convergência. (Conceitos, Metodologias e estudos de casos no Brasil). 1. ed. Salvador: EDUFBA, 2012. v. 1. 258p
+
+PAULINO, Fernando Oliveira. SILVA, Luiz Martins da. (orgs). Comunicação pública em debate: ouvidoria e rádio. Brasília: Editora Universidade de Brasília, 2013. ISBN 9788523010973
+
+Estágio II
+
+Carga horária/ creditação
+
+120h/08 créditos
+
+Natureza Obrigatória
+
+Modalidade Prática
+
+Pré-requisitos Estágio I
+
+Ementa Prática profissional obrigatória desenvolvida em projeto na universidade ou em empresa conveniada sob orientação de docente do curso e supervisão de jornalista profissional.
+
+Bibliografia básica
+
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro: Record, 2011. ISBN: 9788501060909
+
+PEREIRA JÚNIOR, Luiz Costa. A apuração da notícia: métodos de
+
+93
+
+investigação na imprensa. Petrópolis: Vozes, 2009. ISBN: 9788532633538
+
+SCHWINGEL, Carla & ZANOTTI, Carlos (orgs). Produção e colaboração no jornalismo digital. Florianópolis: Insular, 2010. ISBN: 9788574745299
+
+Bibliografia complementar
+
+CURVELLO, João José Azevedo. Comunicação interna e cultura organizacional. Brasília: Scortecci editora, 2016. ISBN 9788573727454
+
+IASBECK, Luiz Carlos Assis (org.). Ouvidoria: mídia organizacional. Porto Alegre: Sulina, 2012.ISBN 9788520506400
+
+KOPLIN, Elisa & FERRARETO, Luiz Arthur. Assessoria de Imprensa: teoria e prática. Porto Alegre: Sagra Luzzato, 2002. ISBN: 9788532305288
+
+KUNSCH, Margarida Krohling & KUNSCH, Waldemar Luiz. Relações Públicas Comunitárias: A Comunicação em uma Perspectiva Dialógica e Transformadora. São Paulo: Summus, 2007. ISBN: 9788532303615
+
+PAULINO, Fernando Oliveira. SILVA, Luiz Martins da. (orgs). Comunicação pública em debate: ouvidoria e rádio. Brasília: Editora Universidade de Brasília, 2013. ISBN 9788523010973
+
+TCC I
+
+Carga horária/ creditação
+
+60h/04 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Trabalho de Conclusão de curso a ser desenvolvido em dois momentos: TCC I e TCC II. O TCC é atividade orientada obrigatória para conclusão do curso de Jornalismo e conta com orientação individual por professores do curso. Durante o TCC I o/a estudante deve iniciar os levantamentos para a realização do seu TCC, definir uma linha de trabalho, cronograma de execução, metodologia a ser utilizada, material de referência, etc. Mais detalhes sobre o TCC podem ser encontrados no PPC do curso.
+
+Bibliografia básica
+
+ALVES, Magda. Como escrever teses e monografias: um roteiro passo a passo. Rio de Janeiro: Elsevier, 2007. ISBN 9788535222128
+
+94
+
+BENETTI, Márcia; LAGO, Claudia. Metodologias de Pesquisa em Jornalismo: São Paulo: Vozes, 2010
+
+Bibliografia complementar
+
+ALMEIDA, Mário de Souza. Elaboração de Projeto, TCC, Dissertação e Tese. Uma Abordagem Simples, Prática e Objetiva. São Paulo: Atlas, 2014. ISBN-13: 978-8522491155
+
+TCC II
+
+Carga horária/ creditação
+
+150h/10 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos TCC I
+
+Ementa Trabalho de Conclusão de curso a ser desenvolvido em dois momentos: TCC I e TCC II. O TCC é obrigatório para conclusão do curso de Jornalismo e conta com orientação individual por professores do curso. Durante o TCC II o/a estudante deve, conforme planejamento iniciado no TCC I, efetivamente realizar e finalizar o trabalho de conclusão de curso. Mais detalhes sobre o TCC podem ser encontrados no PPC do curso.
+
+Bibliografia básica
+
+ALVES, Magda. Como escrever teses e monografias: um roteiro passo a passo. Rio de Janeiro: Elsevier, 2007. ISBN 9788535222128
+
+BENETTI, Márcia; LAGO, Claudia. Metodologias de Pesquisa em Jornalismo: São Paulo: Vozes, 2010
+
+Bibliografia complementar
+
+ALMEIDA, Mário de Souza. Elaboração de Projeto, TCC, Dissertação e Tese. Uma Abordagem Simples, Prática e Objetiva. São Paulo: Atlas, 2014. ISBN-13: 978-8522491155
+
+Laboratório de Jornalismo: Notícia
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+95
+
+Pré-requisitos
+
+Ementa O laboratório consiste em atividades de pesquisa, apuração, entrevista e escrita jornalística com a criação de notícias por parte dos alunos, a partir de entrevistas com pesquisadores da UFSB e de outras instituições de pesquisa da região. Os textos serão publicados na Agência de Notícias do Sul da Bahia (www.ansuba.org), vinculada ao curso de Jornalismo.
+
+Bibliografia básica
+
+LEAL, Bruno Souza (org.). Formação em jornalismo: da prospecção dos acontecimentos à edição.. Belo Horizonte: Editora da UFMG. 2018 PEREIRA JR. Luiz Costa. Guia para a edição jornalística. 4ª edição. Petrópolis, Vozes. 2012 PEREIRA JR., Luiz Costa. A apuração da notícia: métodos de investigação na imprensa. 4ª edição. Petrópolis: Vozes. 2010
+
+Bibliografia complementar
+
+LAGE, Nilson. A estrutura da notícia. . http://nilsonlage.com.br. 2021
+
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística.. 10ª edição. Record. 2012. NUCCI, Celso (org.). Manual de Jornalismo da Radiobrás. 1ª. Radiobrás. 2006 Vários autores. Curso online de Jornalismo Científico. Federação Mundial dos Jornalistas Científicos, s.d. Disponível em: http://www.wfsj.org/course/pt/
+
+Laboratório de Jornalismo: Reportagem
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos Laboratório de jornalismo: notícia; Apuração e texto jornalístico
+
+Ementa Teoria e prática da reportagem escrita, por meio da criação e execução de pautas que exercitem a criação de textos que consistam no levantamento de assuntos, enquanto ampliação da notícia, e que, numa abordagem estilística, gerem aprofundamento do conteúdo informativo.Para participar do componente, é imprescindível ter conhecimentos anteriores de escrita jornalística, sobretudo notícia.
+
+Bibliografia básica
+
+LAGE, Nilson. A reportagem. Rio de Janeiro: Record. 2012, 10ª ed. LEAL, Bruno Souza. Introdução às narrativas jornalísticas. Porto Alegre:
+
+96
+
+Ed. Sulina. 2022 MEDINA, Cremilda. A arte de tecer o presente: narrativa e cotidiano. São Paulo: Summus, 2003, 2ª ed.
+
+Bibliografia complementar
+
+LAGE, Nilson. Teoria e técnica do texto jornalístico. Rio de Janeiro: Elsevier, 2005.
+
+LEAL, Bruno Souza (org.). Formação em Jornalismo - da prospecção dos acontecimentos à edição. Belo Horizonte: Ed. da UFMG. 2018
+
+PEREIRA JR., Luiz Costa. A apuração da notícia. Petrópolis: Vozes. 2010
+
+TCHÉKHOV, Anton. Um Bom Par de Sapatos e Um Caderno de Anotações (como fazer uma reportagem). São Paulo: Martins Fontes, 2007
+
+Laboratório de Jornalismo: TV
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos Laboratório de jornalismo: notícia; Laboratório de jornalismo: reportagem; Apuração e texto jornalístico; Oficina de Fotografia e Vídeo
+
+Ementa Aspectos técnicos do telejornalismo: produção e apuração de pauta, o texto para telejornal, elementos do telejornalismo da TV. A estrutura do telejornal: script, espelho, fechamento. Edição de reportagem telejornalística.
+
+Bibliografia básica EMERIM, C.; PAULINO, R. C. R. (Org.) . Ensaios sobre Televisão e Telejornalismo. Florianópolis: Insular, 2013. ISBN: 978-85-7474-782-8
+
+EMERIM, C.; PEREIRA, A. (Org.) ; COUTINHO, I. (Org.) . Telejornalismo 70 anos: o sentido das e nas telas. Florianópolis: Insular, 2020. ISBN 978-6588401156
+
+GUTMANN, Juliana Freire. Formas do telejornal; linguagem televisiva, jornalismo e mediações culturais. Salvador: EDUFBA, 2014. ISBN 978-85-232-1224-7
+
+Bibliografia complementar
+
+AMORIM, Paulo Henrique. Manual Inútil da Televisão e Outros Bichos Curiosos. São Paulo: Hedra, 2016. ISBN: 9788577155187
+
+BARBERO, H. & LIMA, P. R. Manual de Telejornalismo: os segredos da notícia na TV. São Paulo: Campus, 2002. ISBN 9788535215656
+
+97
+
+BRASIL, A. C. Telejornalismo, Internet e Guerrilha Tecnológica. Rio de Janeiro: Ciência Moderna, 2002. ISBN 9788573936872
+
+SODRÉ, Muniz. A narração do fato: notas para uma teoria do acontecimento, 2ª edição. Petrópolis, RJ: Vozes, 2012. ISBN 9788532638441
+
+SANTOS, Richard. Televisão e Branquitude: A nova (?) África na TV Brasil. Rio de Janeiro: Gramma, 2018. ISBN 9788559684797
+
+Laboratório de Jornalismo: Rádio
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos Laboratório de jornalismo: notícia; Laboratório de jornalismo: reportagem: Apuração e texto jornalístico
+
+Ementa As características da comunicação sonora no rádio e os diferentes formatos radiojornalísticos. As especificidades da redação jornalística para o rádio: o texto para o radiojornalismo, construção do roteiro, estrutura da notícia e da reportagem para rádio. A voz como suporte da informação radiofônica e sua articulação com outros elementos sonoros (música, ruído, efeitos, silêncio): exercícios de locução. Edição e fechamento de noticiário radiofônico. Estrutura e produção de conteúdo para webrádio, rádio expandido e podcasting.
+
+Bibliografia básica
+
+KISCHINHEVSKY, Marcelo. Rádio e mídias sociais. Mediações e interações radiofônicas em plataformas digitais de comunicação. Rio de Janeiro: Mauad X, 2016. ISBN 9788574788241
+
+98
+
+MEDITSCH, E. B. V.. O Rádio na Era da Informação: Teoria e Técnica do Novo Radiojornalismo. 2ª ed. Florianópolis: Editora da UFSC/Editora Insular, 2007.
+
+PRATA, Nair. Webradio - 2ª Edição. Florianópolis: Insular, 2012. 978-8574743974
+
+Bibliografia complementar
+
+BRUCK, Kátia Teotônio de Castro. Retórica midiatizada: estratégias discursivas do âncora no jornalismo radiofônico all news. (Dissertação de mestrado). Belo Horizonte: Programa de Pós-Graduação em Comunicação Social/PUC Minas, 2013.
+
+FERRARETTO, Luiz Artur e KISCHINHEVSKY, Marcelo. Rádio e Convergência. Uma abordagem pela economia política da comunicação. XIX Encontro da Compós. Rio de Janeiro: Pontifícia Universidade Católica do Rio de Janeiro, Junho de 2010. pp.1-14.
+
+MEDITSCH, Eduardo (org.) Teorias do rádio – textos e contextos. Vol.1. Florianópolis: Insular, 2005. ISBN 9788574742694
+
+SANT’ANNA, Francisco. Radiojornalismo no Brasil: um jornalismo sem jornalistas. Líbero – Ano XI – nº 22 – Dez 2008. pp. 75-92. Disponível em: http:// seer.casperlibero.edu.br/index.php/libero/article/view/564/536.
+
+Laboratório de Projeto Gráfico
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Princípios de design gráfico, comunicação visual e criação de projeto gráfico aplicados ao jornalismo. Princípios de legibilidade de texto e organização espacial de textos e imagens. Introdução ao uso de softwares específicos para diagramação aplicados a um projeto editorial de jornalismo.
+
+99
+
+Bibliografia básica
+
+BRAGA, Marcos da Costa. Papel Social do Design Gráfico: história, conceitos e atuação profissional. São Paulo, Senac, 2011
+
+HALUCH, Guia prático de design editorial: criando livros completos. Rio de Janeiro, Senac, 2018
+
+LUCCA, Marisa. A produção gráfica e seu papel na comunicação. São Paulo, Senac, 2022
+
+Bibliografia complementar ALBUQUERQUE, Cecilia O. Produção gráfica: princípios fundamentais. Curitiba, Intersaberes, 2022
+
+ARAUJO, Emanuel. A construção do livro. Princípios da técnica de editoração. Rio de Janeiro: Lexikon, 2008.
+
+DONDIS, Donis A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2015.
+
+GATTER, Mark. Produção gráfica para designers. Cotia; Ateliê editorial, 2016.
+
+ROCHA, Erika Amaro. Design editorial de revista. Curitiba, Intersaberes, 2022
+
+Laboratório de Design Digital e Infografia
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Produção de peças gráficas para sites e mídias sociais, infográficos, diagramas e edição de gráficos e mapas para comunicação e jornalismo. Teoria da forma e semiótica aplicada à comunicação visual. Introdução ao uso de softwares para ilustração digital e produção de animações e infográficos.
+
+Bibliografia básica
+
+BANKS, Adam, Caplin, Steve. O essencial da Ilustração. São Paulo,
+
+100
+
+Senac, 2012
+
+CESAR, Newton. Direção de arte em propaganda. São Paulo, Senac, 2006
+
+FERREIRA, L. T. Infografia. Curitiba, Intersaberes, 2021
+
+Bibliografia complementar
+
+ANTERO, K. Design e novas mídias. Curitiba: Intersaberes, 2021
+
+ARMSTRONG, Helen. Teoria do design gráfico. São Paulo: Ubu, 2020
+
+DONDIS, Donis A. Sintaxe da linguagem visual. São Paulo: Martins
+
+Fontes, 1997
+
+MINSKY, T. Fundamentos do design. Curitiba: Intersaberes, 2021
+
+MORAES, A. Costa, C. Z. Braga, M. Farias, P.. Infografia, história e
+
+projeto. São Paulo: Blucher, 2013
+
+SANTAELLA, Lúcia. Estética & Semiótica. Curitiba: Intersaberes, 2019
+
+Laboratório de Projetos Especiais
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos Laboratório de Jornalismo: notícia; Laboratório de Jornalismo: reportagem
+
+Ementa Projetos coletivos avançados em jornalismo, em mídias diversas.
+
+Bibliografia básica
+
+BRUNO, Gabriel; SUMER ELÍAS, Miguel. Introducción a OSINT - Cómo empezar en el periodismo de Inteligencia de Fuentes abiertas. Disponível em:
+
+https://periodistasambientales.org/wp-content/uploads/2020/11/Introduccion_ a_OSINT.pdf
+
+CRUCIANELLI, Sandra. Ferramentas digitais para jornalistas. Moçambique: Irex, 214. Disponível em: https://knightcenter.utexas.edu/books/FerramentasDigitaisparaJornalistas.pdf
+
+RIBEIRO, Alexsandro et al. Jornalismo de dados: conceitos, rotas e
+
+101
+
+estrutura produtiva. Curitiba: InterSaberes, 2018.
+
+Bibliografia complementar
+
+FERGUSSON, Kirby. Everything is a Remix. Série de vídeos, Vimeo, 2012. http://baixacultura.org/baixatv/.
+
+NICHOLS, Bill. Introdução ao documentário. São Paulo: Papirus, 2010.
+
+RIP Remix Manifesto. https://www.youtube.com/watch?v=LRw8abLSXJ8&t=42s.
+
+ILVERMAN, C; TSUBAKI, R; (2017)​Manual de Verificación. Un guía definitiva para verificar contenido digital para cubrir emergencias​, European Journalism -
+
+Emergency Journalism. ​Disponível em: http://verificationhandbook.com/downloads/manual.de.verificacion.pdf
+
+STORYTELLING by Pixar. https://www.khanacademy.org/partner-content/pixar/storytelling.
+
+CCEx Jornal Mural
+
+Carga horária/ creditação
+
+745h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa O Projeto laboratorial interdisciplinar pretende proporcionar aos estudantes a experiência de participar de uma produção coletiva, reunindo diversos gêneros textuais acolhidos pelo jornalismo, como notícia, crônica, artigo de opinião, poemas, contos curtos etc., além de charges, tiras e outras produções de arte visual. Jornal mural como comunicação dirigida: usos possíveis
+
+Bibliografia básica
+
+BOCCHINI, Maria Otília, Para escrever bem. S. Paulo: Manole, 2010 (e-book).
+
+CAPUTO, Stella Guedes. Sobre entrevistas. Petrópolis: Vozes, 2006
+
+GIANOTTI, Vitor. Muralhas da linguagem. Rio de Janeiro: Mauad, 2004
+
+Bibliografia complementar
+
+LAGE, Nilson. A estrutura da notícia. Disponível no site do autor: nilsonlage.com.br
+
+LEAL, Bruno Souza (org.). Formação em Jornalismo - da prospecção dos acontecimentos à edição. UFMG. 2018
+
+102
+
+NUCCI, Celso (org.). Manual de Jornalismo da Radiobrás. 1ª. Radiobrás. 2006
+
+PEREIRA JR, Luiz Costa. Apuração da notícia. Petrópolis: Vozes, 2006
+
+PINTO, Ana Estela S. Jornalismo Diário. São Paulo: Publifolha, 2009.
+
+CCEx Educação Midiática
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Letramento da informação: técnicas de busca curadoria e produção de conhecimento. Memes na comunicação. Análise crítica da mídia: o papel da mídia na sociedade. Muito além das fake news. Fluência digital: ferramentas digitais e ampliação de repertório de recursos. Checagem de informações. Autoexpressão: técnicas para uso e compartilhamento de imagens, dados, textos e áudio. Informação para a democracia. Cidadania digital: combate à desinformação e mecanismos de denúncia, segurança e privacidade. Participação cívica: habilidades criativas da construção de narrativas.
+
+Bibliografia básica BUCKINGHAM, David. Manifesto pela educação midiática. São Paulo: Edições Sesc São Paulo, 2022.
+
+FERRARI, Ana Claudia; OCHS, Mariana & MACHADO, Daniela. Guia da educação midiática. São Paulo: Instituto Palavra Aberta, 2020.
+
+JENKINS, Henry. Cultura da convergência. São Paulo: Editora Aleph, 2022.
+
+Bibliografia complementar
+
+BEIGUELMAN, Gisele. Políticas da imagem: vigilância e resistência na dadosfera. São Paulo: Ubu Editora, 2021.
+
+GRIZZLE, Ailton & WILSON, Carolyn. Alfabetização midiática e informacional: currículo para formação de professores. Brasília: UNESCO, UFTM, 2013. Livro digital CC BY-SA 3.0. Disponível em https://unesdoc.unesco.org/ark:/48223/pf0000220418.locale=en
+
+PARISIER, ELI. O filtro invisível: o que a internet está escondendo de você. São Paulo: Editora Zahar, 2012.
+
+SOARES, I. de O. Educomunicação e Educação Midiática: vertentes
+
+103
+
+históricas de aproximação entre comunicação e educação. Comunicação & Educação, [S. l.], v. 19, n. 2, p. 15-26, 2014. DOI: 10.11606/issn.2316-9125.v19i2p15-26. Disponível em: https://www.revistas.usp.br/comueduc/article/view/72037. Acesso em: 23 fev. 2023.
+
+Tópicos Avançados em Jornalismo
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Formação prática em técnicas emergentes no jornalismo, como jornalismo de dados, uso de inteligência artificial, novos softwares, inteligência de código aberto (OSINT), checagem de fatos etc.
+
+Bibliografia básica BOUNEGRU, Liliana; CHAMBERS, Lucy; GRAY, Jonathan. Manual de Jornalismo de Dados 1.0. 2012.
+
+CRUCIANELLI, Sandra. Ferramentas digitais para jornalistas. Moçambique: Irex, 214. Disponível em: https://knightcenter.utexas.edu/books/FerramentasDigitaisparaJornalistas.pdf
+
+RIBEIRO, Alexsandro; MARTINS, Rafael M.; LÁZARO JR., José; FREY, João Guilherme. Jornalismo de dados: conceitos, rotas e estrutura produtiva. Curitiba: Intersaberes, 2018.
+
+Bibliografia complementar
+
+BRUNO, Gabriel; SUMER ELÍAS, Miguel. Introducción a OSINT - Cómo empezar en el periodismo de Inteligencia de Fuentes abiertas. Disponível em: https://periodistasambientales.org/wp-content/uploads/2020/11/Introduccion_ a_OSINT.pdf
+
+CAIRO, Alberto. El Arte Funcional – Infografía y visualización de informacíon. Alamut, 2011
+
+HOLANDA, A., QUADROS, C., SILVA, J. A. B., & PALÁCIOS, M. (2008). Metodologias de pesquisa em jornalismo participativo no Brasil. Brazilian Journalism Research, 4(2), 57–76.
+
+LIMA, Walter T. Jornalismo computacional em função da “Era do Big Data”. Líbero 28, 2011.
+
+SILVERMAN, C; TSUBAKI, R; (2017)​Manual de Verificación. Un guía definitiva para verificar contenido digital para cubrir emergencias​, European
+
+104
+
+Journalism - Emergency Journalism. ​Disponível em: http://verificationhandbook.com/downloads/manual.de.verificacion.pdf
+
+Temas Contemporâneos em Jornalismo
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Jornalismo como instrumento para a democracia. Politização e polarização da imprensa. Jornalismo antirracista. Diversidade na pauta e redações jornalísticas. Desinformação e fact-checking. Sustentabilidade dos jornais na era digital. Engajamento e relevância. Digitalização da informação e universalização da internet.
+
+Bibliografia básica COSTA, Caio Túlio et al. Tempestade perfeita: sete visões da crise do jornalismo profissional. Rio de Janeiro: Editoria Intríseca, 2021.
+
+D’ANCONA, Matthew. Pós-verdade: a nova guerra contra os fatos em tempos de fake news. Barueri: Faro Editorial, 2018.
+
+RIBEIRO, Alexsandro et al. Jornalismo de dados: conceitos, rotas e estrutura produtiva. Curitiba: InterSaberes, 2018.
+
+Bibliografia complementar BUCCI, Eugênio. A superindústria do imaginário: como o capital transformou o olhar em trabalho e se apropriou de tudo que é visível. São Paulo: Autêntica, 2021.
+
+CONDE, Mariana Guedes. Temas em jornalismo digital. Curitiba: Intersaberes, 2018.
+
+EMPOLI, Giuliano Da. Os engenheiros do caos: como as fake news, as teorias da conspiração e os algoritmos estão sendo utilizados para disseminar ódio, medo e influenciar eleições. São Paulo: 2019.
+
+MELLO, Patrícia Campos. A máquina do ódio : notas de uma repórter sobre fake news e violência digital. São Paulo : Companhia das Letras, 2020.
+
+MORAES, Fabiana. A pauta é uma arma de combate: subjetividade, prática reflexiva e posicionamento para superar um jornalismo que desumaniza. Porto Alegre: Arquipélago Editorial, 2021.
+
+105
+
+Comunicação Antirracista
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa A comunicação como ferramenta de combate ao racismo midiático. Conceituar raça, racismo e etnia. Análise das práticas, costumes e falas no contexto da produção de conhecimento sobre grupos racializados. As representações da população negra na mídia hegemônica. A atuação de grupos minorizados na produção de conteúdos contra- hegemônicos. Diversidade na mídia e o jornalismo profissional.
+
+Bibliografia básica
+
+BORGES, Rosane & Carraça, Flávio. (Orgs). Espelho infiel: o negro no jornalismo brasileiro. Imprensa Oficial. São Paulo: Imprensa Oficial do Estado de São Paulo: Sindicato dos Jornalistas no Estado de São Paulo, 2006, 189p.
+
+HOOKS, bell. Olhares negros. São Paulo: Elefante, 2019.
+
+SODRÉ, Muniz. Claros e escuros: identidade, povo e mídia no Brasil. Petrópolis (RJ): Vozes.1999.
+
+Bibliografia complementar ALEIXO, Ricardo.Negro midiático: construção e desconstrução do afro-brasileiro na mídia impressa. Disponível em: https://www.revistas.usp.br/revusp/article/view/13515.
+
+BOSI, Alfredo. Poesia versus racismo. Estudos Avançados, São Paulo,v. 16, n. 44, p. 235-253, abr. 2002. Disponível em: <http://www.scielo.br/scielo.php.
+
+FREITAS, Ricardo (Org). Mídia alter{n}ativa: estratégias e desafios para a comunicação hegemônica. Disponivel em : http://www.uesc.br/editora/livrosdigitais2016/midia_alternativa.pdf
+
+FUCHS, Christian- Mídias Sociais e a Esfera Pública Social. Media and the Public Sphere- CONTRACAMPO- Revista do Programa de Pós Graduação em Comunicação -UFF. Disponível em https://periodicos.uff.br/contracampo/article/download/17552/pdf.
+
+GUIMARÃES, Antonio Sérgio. Racismo e Anti-Racismo no Brasil. São Paulo: Editora 34, 1999 - 238 páginas . Disponível em https://books.google.com.br/books/about/Racismo_e_anti_racismo_no_ Brasil.html?id=jA4hnXoxMNIC&redir_esc=y.
+
+KILOMBA, Grada. Memórias da plantação - episódios de racismo cotidiano. Rio de Janeiro: Cobogó, 2019.
+
+106
+
+Edição e Tratamento de Imagem Digital
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução a técnicas de edição e tratamento de imagens digitais, composição e fotomontagem. Conceitos de cor, resolução, formatos de compressão, pesquisa de imagens, direitos autorais e preparação de imagens para diferentes tipos de mídia. Digitalização e restauração de imagens. Introdução ao uso de softwares de edição de imagem.
+
+Bibliografia básica
+
+BAVISTER, Steve. Guia de Fotografia digital. São Paulo, Senac, 2011
+
+PEDROSA, Israel. Da cor à cor inexistente. São Paulo, Senac, 2022
+
+SCHNAIDER, Silvia. Composição visual fundamentos gerais. Curitiba,
+
+Intersaberes, 2022
+
+Bibliografia complementar FRASES, Tom; BANKS, Adam. O essencial da cor no design. São Paulo,
+
+Senac, 2012
+
+GALLETI, L. S.; SOARES, R. V. Captura e tratamento de imagens. São
+
+Paulo, SENAI-SP, 2018.
+
+GATTER, Mark. Produção gráfica para Designers.São Paulo, Ateliê
+
+Editorial, 2016
+
+Mídias Digitais: histórias e teorias
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+107
+
+Ementa Histórias do desenvolvimento das tecnologias de comunicação, da mídia impressa ao digital. Relações entre o desenvolvimento das mídias digitais e a indústria da comunicação. Debate sobre as implicações éticas, estéticas, técnicas e políticas do desenvolvimento da internet e das redes sociais.
+
+Bibliografia básica
+
+BEIGUELMAN, Giselle. Políticas da imagem – Vigilância e resistência na dadosfera. São Paulo, Ubu, 2021
+
+GUERRA, F, Terce, M. Design Digital: Conceitos e aplicações para
+
+websites, animações, vídeos e webgames. São Paulo, Senac, 2019
+
+HUI, Yuk. Tecnodiversidade. São Paulo, Ubu, 2020
+
+Bibliografia complementar
+
+SATI, Cesar Ricardo e Sarmento, Camila Freitas. Experiência do usuário
+
+(UX). Curitiba, Intersaberes, 2021
+
+SAAD, Beth. Estratégias para a mídia digital 2.0: internet, informação e
+
+comunicação. São Paulo, Senac, 2003
+
+STOLFI, Ariane. World Wide Web: Forma aparente e forma oculta,
+
+webdesign da interface ao código. São Paulo, Faculdade de Arquitetura e
+
+Urbanismo da Universidade de São Paulo, 2005.
+
+SIMONDON, Gilbert. Do modo de existência dos objetos técnicos [1958].
+
+CTeME, 2008 disponível em:
+
+<https://cteme.wordpress.com/publicacoes/do-modo-de-existencia-dos-objeto
+
+s-tecnicos-simondon-1958/>
+
+TERRA, Carolina Frazon. Mídias Sociais… e agora? Rio de Janeiro, Senac,
+
+2012.
+
+Introdução ao Jornalismo
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa O campo do jornalismo. Principais aspectos da profissão jornalística. Identificação e
+
+108
+
+análise de diferentes mídias jornalísticas. A formação profissional e os campos de atuação no cenário convergente. Podcasts, conteúdos multiplataforma e dados. A função social do jornalismo. Abordagem crítica do jornalismo. Painel profissional de novas frentes de atuação em jornalismo.
+
+Bibliografia básica LEAL, Bruno Souza; ANTUNES, Elton & VAZ, Paulo Bernardo. Para entender o jornalismo. Belo Horizonte: Editora Autêntica, 2014.
+
+SILVA, Gislene et al. (org.) Jornalismo_contemporâneo: figurações, impasses e perspectivas . Salvador : EDUFBA; Brasília : Compós, 2011.
+
+TRAVANCAS, Isabel. O mundo dos jornalistas. São Paulo: Summus Editorial, 2021.
+
+Bibliografia complementar
+
+BALLERINI, Franthiesco. Jornalismo cultural no século 21. São Paulo: Summus Editorial, 2015.
+
+GRAY, Jonathan & BOUNEGRU, Liliana. Manual de jornalismo de dados: rumo a uma prática crítica de dados. São Paulo: Abraji, 2021.
+
+NONATO, Cláudia & GROHMANN, Rafael. As mudanças no mundo do trabalho do jornalista. São Paulo: Atlas , 2013
+
+PARRY, Roger. A ascensão da mídia – a história dos meios de comunicação de gilgamesh ao google. Rio de Janeiro: Elsevier, 2012.
+
+SILVA, Gilmar Silva de. Novos jornalistas: para entender o jornalismo hoje. Creative Commons 2.0. Disponível em https://fasam.edu.br/wp-content/uploads/2020/07/Novos-jornalistas-para-ente nder-o-jornalismo-hoje.pdf. Acessado em 22 de fevereiro de 2023.
+
+16.3 Componentes compartilhados com o curso Som, Imagem e Movimento
+
+109
+
+Direitos autorais e legislação
+
+Carga horária/ creditação
+
+30h/02 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Estudos sobre autoria, direitos autorais e legislação no âmbito das práticas criativas em som, imagem e imagem em movimento. Internet, direitos de propriedade e direitos autorais. Copyleft, Creative Commons, formas de contestação e alternativas ao direito de propriedade e intelectual nas artes.
+
+Bibliografia básica AFONSO, Otávio. Direito autoral: conceitos essenciais. Barueri: Manole, 2009.
+
+BITTAR, Carlos Alberto. Direito de Autor. Forense Universitária. 2019.
+
+SANTOS, Manoel J. Pereira dos. Direito autoral. 2. São Paulo: Saraiva Jur, 2020.
+
+Bibliografia complementar
+
+ARANTES, Priscila. Reescrituras da arte contemporânea: história, arquivo e mídia. Porto Alegre: Sulina, 2015.
+
+BAKHTIN, Mikhail. Estética da criação verbal. São Paulo: Martins Fontes, 2011.
+
+BARTHES, Roland. O rumor da língua. Trad. Mário Laranjeira. São Paulo: Martins Fontes, 2012.
+
+CERTEAU, Michel de. A invenção do cotidiano: 1. artes de fazer. Tradução de Ephraim Ferreira Alves, 9 edição, Petrópolis: Vozes, 1994.
+
+CHARTIER, Roger. O que é um autor? São Carlos: Edufscar, 2014.
+
+COSTA NETTO, José Carlos. Direito autoral no Brasil. 3. São Paulo: Saraiva, 2018.
+
+DELEUZE, Gilles e GUATTARI, Félix. Mil platôs - vol. 1: capitalismo e esquizofrenia. São Paulo: Editora 34, 1995.
+
+GIACOMELLI, Cinthia Louzada Ferreira. Direito autoral. porto Alegre: SAGAH, 2018.
+
+PERLOFF, Marjorie. O gênio não original; poesia por outros meios no novo século. Tradução de Adriano Scandolara. Belo Horizonte: UFMG, 2013.
+
+RENA, Alemar. Do autor tradicional ao agenciador cibernético: do biopoder à biopotência. São Paulo: Annablume: 2008.
+
+SCHREIBER, Anderson. Direito e Mídia. São Paulo: Atlas, 2013.
+
+110
+
+Teorias da imagem
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa A origem, a presença e o destino das imagens. Iconoclasmo e iconofilia. A imagem como representação, presença, aparição. Imagens ativas. Construção e representação do imaginário contemporâneo. Do real ao virtual, passagens da imagem
+
+Bibliografia básica
+
+AUMONT, Jacques. A imagem. 16ª ed. Trad. Estela dos Santos Abreu, Cláudio César Santoro. Campinas: Papirus, 2004.
+
+RANCIÈRE, Jacques. O destino das imagens. Rio de Janeiro; Contraponto, 2012.
+
+SANTAELLA Lucia; NÖTH, Winfried. Imagem: cognição, semiótica, mídia. São Paulo: Iluminuras, 2005.
+
+Bibliografia complementar
+
+ALLOA, Emmanuel (org.). Pensar a imagem. Belo Horizonte, MG: Autêntica, 2015.
+
+CASA NOVA, Vera; MAIA, Andréa Casa Nova (orgs). Ética e imagem. Belo Horizonte, C/Arte, 2010.
+
+DIDI-HUBERMAN, Georges. Diante da imagem. Trad.: Paulo Neves. São Paulo; Editora 34, 2013.
+
+DIDI-HUBERMAN, Georges. Imagens apesar de tudo. Trad.: Vanessa Brito e João Pedro Cachopo. São Paulo; Editora 34, 2020.
+
+MONDZAIN, Marie José. Imagem, ícone, economia: as fontes bizantinas do imaginário contemporâneo. Trad. Vera Ribeiro. Rio de Janeiro: Ed. Contraponto, 2013.
+
+SERRA, Alice; DUARTE, Rodrigo; FREITAS, Romero (org.) Imagem, imaginação, fantasia. 20 anos sem Vilém Flusser. Belo Horizonte, MG: Relicário, 2014.
+
+111
+
+Teorias da imagem em movimento
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Teorias formativas e teorias realistas. Poéticas e estéticas da imagem em movimento. Atrações, ficções, experimentações e documentários. Abordagens metodológicas e tipologias imagéticas. Demarcações midiáticas e contextuais. Audiovisual expandido.
+
+Bibliografia básica
+
+AUMONT, Jacques et alii. A estética do filme. 9. ed. Trad. Marina Appenzeller. Campinas: Papirus, 2005.
+
+BAZIN, André. O que é o cinema? São Paulo: Editora Ubu/Cosac Naify. 2014.
+
+BORDWELL, David; THOMPSON, Kristin. A arte do cinema: uma introdução. São Paulo: EDUSP, 2014.
+
+BURCH, Noel. Práxis do cinema. Trad.: Marcelle Pithon e Regina Machado. São Paulo: Perspectiva, 2015.
+
+DELEUZE, Gilles. Cinema 1 – A imagem-movimento. São Paulo: Editora 34, 2018.
+
+DELEUZE, Gilles. Cinema 2 – A imagem-tempo. São Paulo: Editora 34, 2018.
+
+GAUTHIER, Guy. O documentário: um outro cinema. Trad. Eloisa Araújo Ribeiro. Campinas: Papirus, 2011.
+
+NICHOLS, Bill. Introdução ao documentário. Campinas: Papirus, 2005.
+
+STAM, Robert. Introdução à teoria do cinema. 2. ed. Trad. Fernando Mascarello. Campinas: Papirus, 2006.
+
+XAVIER, Ismail. O discurso cinematográfico: a opacidade e a transparência. São Paulo: Paz e Terra, 2008.
+
+Bibliografia complementar
+
+ANDREW, J. Dudley. As Principais Teorias do Cinema. Rio de Janeiro: Jorge Zahar Editor, 1989.
+
+ARMES, Roy. On Video: O Significado do Vídeo nos Meios de Comunicação. São Paulo: Summus Editorial, 1999.
+
+AUMONT, Jacques. A imagem. 16a ed. Trad. Estela dos Santos Abreu, Cláudio César Santoro. Campinas: Papirus, 2004.
+
+BAZIN, André. O realismo impossível. Belo Horizonte: Autêntica Editora, 2016.
+
+112
+
+EISENSTEIN, Sergei. O sentido do filme. Rio de Janeiro: Jorge Zahar, 1990.
+
+ELSAESSER, Thomas; HAGENER, Malte; e MARTINS, Mônica Saddy. Teoria do cinema: uma introdução através dos sentidos. 1a. reimpressão. Campinas: Papirus Editora, 2021.
+
+MARIE, Michel et al. A Nouvelle Vague e Godard. Campinas: Papirus Editora, 2012.
+
+OLIVEIRA Jr., Luiz Carlos. A mise en scène no cinema: do clássico ao cinema de fluxo. 6a. reimpressão. Campinas: Papirus Editora, 2020. RANCIÈRE, Jacques. As distâncias do cinema. São Paulo: Contraponto Editora, 2012.
+
+SANTAELLA, Lucia; NÖTH, Winfried. Imagem: cognição, semiótica, mídia. São Paulo: Iluminuras, 2005.
+
+Teorias do som
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introduzir o estudante às diferentes teorias do som: ondulatória, acústica, psicoacústica, tipomorfologia e espectromorfologia, síntese sonora e áudio digital, de modo a embasar de forma propedêutica todas as demais disciplinas do campo da criação e produção sonora. Compreender o som e a escuta em suas dimensões artística, científica, histórica e filosófica em um processo de diálogo permanente entre teoria e prática. Apresentar os principais desenvolvimentos teóricos acerca do som e da escuta, ativar habilidades relacionadas, necessárias à formação, e desenvolver a compreensão e manipulação dos conceitos fundamentais. Ecologia do som e bioacústica: audição em humanos e outros seres vivos; características da escuta. Acústica e Psicoacústica: parâmetros, grandezas e descritores do som; audibilidade e parâmetros subjetivos; propagação do som, isolamento e conforto acústico; transdução e digitalização. Fenomenologia da escuta: escuta reduzida e tipomorfologia do som, espectromorfologia do som. Som e escuta a partir de diferentes matrizes culturais: interculturalidade; relações sociais, intersubjetividade; aspectos histórico-político-sociais e filosóficos.
+
+Bibliografia básica
+
+BRANDÃO, E. Acústica de Salas, Projeto e modelagem. São Paulo: Editora Blucher, 2016.
+
+113
+
+SCHAEFFER, P. Ensaio Sobre o Rádio e o Cinema: estética e técnica das artes-relé 1941-1942. Texto estabelecido por Carlos Palombini e Sophie Brunet com a colaboração de Jacqueline Schaeffer. Belo Horizonte: UFMG, 2010.
+
+SCHAFER, R. Murray. A afinação do mundo. São Paulo: UNESP, 2001.
+
+VALLE, Solon do. Manual prático de acústica. Rio de Janeiro: Música & Tecnologia, 2009
+
+Bibliografia complementar
+
+BISTAFA, S. Acústica Aplicada ao Controle do Ruído. São Paulo: Editora Blucher, 2018.
+
+CAGE, J. Silêncio - Conferências e escritos de John Cage. São Paulo: Cobogó, 2019.
+
+CHION, Michel. El sonido. Barcelona: Paidós, 1999.
+
+GONZÁLEZ, Juan Pablo. Pensando a música a partir da América Latina: problemas e questões. São Paulo: Letra e Voz, 2016.
+
+SCHAEFFER, P. Tratado dos objetos musicais. Brasília: Editora Universidade de Brasília, 1993.
+
+SMALLEY, Denis. Spectromorphology: Explaining Sound-shapes. In: Organised Sound. vol.2, n.2, pp.107-126. Cambridge: Cambridge University Press, 1997.
+
+WISNIK, José Miguel. O Som e o sentido: uma outra história das músicas. São Paulo: Companhia das Letras, 2006.
+
+Cinema documentário
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa O real e o mundo que se organiza como relato audiovisual. A invenção de uma escritura documentária. O espectador do filme documentário e o regime do espetáculo. Mise-en-scène e partilha na filmagem. Poéticas e pragmáticas do índice. Montagem e políticas do cinema. Derivas da ficção no cinema documentário. Arquivo e documento.
+
+Bibliografia básica
+
+GAUTHIER, Guy. O documentário: um outro cinema. Trad. Eloisa Araújo Ribeiro. Campinas: Papirus, 2011.
+
+NICHOLS, Bill. Introdução ao documentário. Campinas: Papirus, 2005.
+
+VIÉRTOV, Dziga. Cine-olho: manifestos, projetos e outros escritos. São Paulo: Editora 34, 2022.
+
+114
+
+Bibliografia complementar
+
+ARANTES, Priscila. Reescrituras da arte contemporânea: história, arquivo e mídia. Porto Alegre: Sulina, 2015.
+
+LUCENA, Luiz Carlos. Como fazer documentários: conceito, linguagem e prática de produção. 2ª edição. São Paulo: Summus Editorial, 2011.
+
+PUCCINI, Sérgio. Roteiro de documentário: da pré-produção à pós-produção. Campinas: Papirus, 2009.
+
+ROUILLÉ, André. A fotografia: entre documento e arte contemporânea. Trad. Constancia Egrejas. São Paulo: SENAC/SP, 2009.
+
+TEIXEIRA, Elinaldo (org.). Documentário no Brasil: tradição e transformação. 2ª edição. São Paulo: Summus Editorial, 2004.
+
+YAKHNI, Sarah. Cinensaios Agnès Varda: o documentário como escrita para além de si. São Paulo: Hucitec, 2014.
+
+Arqueologia da imagem
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Prospecções sobre os processos artísticos de criação com a imagem e com a imagem em movimento. Estudo de práticas artísticas com a imagem e com a imagem em movimento na contemporaneidade.
+
+Bibliografia básica
+
+ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo; Cengage do Brasil, 2016.
+
+BARTHES, Roland. A Câmera Clara. Nota sobre a fotografia. 5. ed. Trad. Júlio Castanõn Guimarães. Rio de Janeiro: Nova Fronteira, 2015.
+
+RANCIÈRE, Jacques. A partilha do sensível. Estética e política. Trad. de Mônica Costa Netto. Lisboa: Editora 34, 2005..
+
+Bibliografia complementar
+
+BERNARDET, Jean-Claude. Cinema brasileiro: propostas para uma história. São Paulo: Companhia das Letras, 2009.
+
+FABRIS, Annateresa (org.). Fotografia: usos e funções no Século XIX. 2ª ed. São Paulo: EdUSP, 2008.
+
+MACHADO, Arlindo. Arte e mídia. Rio de Janeiro: Jorge Zahar Ed., 2010.
+
+MANNONI, Laurent. A grande arte da luz e da sombra – arqueologia do
+
+115
+
+cinema. São Paulo: Senac, 2003.
+
+MASCARELLO, Fernando (org.). História do cinema mundial. 7ª reimpressão. Campinas: Papirus Editora, 2020.
+
+RAMOS, Fernão Pessoa e Sheila SCHVARZMAN (orgs.). Nova História do Cinema Brasileiro - Volume I. São Paulo: Edições Sesc São Paulo, 2018.
+
+RAMOS, Fernão Pessoa e Sheila SCHVARZMAN (orgs.). Nova História do Cinema Brasileiro - Volume II. São Paulo: Edições Sesc São Paulo, 2018.
+
+Criação editorial
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Práticas analógicas para o planejamento visual e gráfico. Práticas de escrita e edição. Projeto gráfico e Diagramação. Concepção de publicações. Processos artísticos de produção de impressos. Livros de artistas. Fanzines. Arte Postal. Gráfico Amador. Processos digitais de criação editorial para mídia impressa. Impressão offset e publicação online. Softwares livres e proprietários para editoração eletrônica.
+
+Bibliografia básica BEIGUELMAN, Gisele. O livro depois do livro. São Paulo: Peirópolis, 2003.
+
+PAIVA, Ana Paula Mathias de. A aventura do livro experimental. São Paulo: Edusp, 2009.
+
+SILVEIRA, Paulo. A página violada. Porto Alegre: Scielo/ Ed. UFRGS, 2008 (ed. eletrônica).
+
+Bibliografia complementar
+
+DONDIS, D. A sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991.
+
+FUÃO, Fernando Freitas. A collage como trajetória amorosa. Porto Alegre: UFRGS, 2011.
+
+HALUCH, A. Guia Prático de Design Editorial: Criando Livros Completos. Rio de Janeiro: Editora 2AB, 2013
+
+LUPTON, Ellen. Pensar com tipos: Guia para designers, escritores, editores e estudantes. Tradução de André Stolarski. São Paulo: Ed. Olhares, 2021
+
+116
+
+Filmagem e gravação em vídeo
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Técnicas de gravação profissional de vídeo e som-direto. Regulagens do microfone e da câmera: shutter/obturador, íris/diafragma, ISO, exposição, temperatura de cor, foco e enquadramento. Práticas de filmagem em campo com equipamento portátil de gravação. Gestão e sincronização de dados, áudio e vídeo.
+
+Bibliografia básica
+
+JESUS, Adriano Miranda Vasconcelos de. Produção audiovisual. Porto Alegre: SAGAH, 2019.
+
+WATTS, Harris. On Camera: O curso de produção de filmes e vídeos da BBC. São Paulo: Summus Editorial, 1990.
+
+ZETTL, Herbert. Manual de produção de televisão. São Paulo: Cengage do Brasil, 2017.
+
+Bibliografia complementar
+
+ARMES, Roy. On Video: O Significado do Vídeo nos Meios de Comunicação. São Paulo: Summus Editorial, 1999.
+
+GUZMÁN, Patricio. Filmar o que não se vê: um modo de fazer documentários. São Paulo: Edições Sesc São Paulo, 2017.
+
+MASCELLI, Joseph V. Os cinco Cs da cinematografia. São Paulo: Summus Editorial, 2010.
+
+MURCH, Walter. Num piscar de olhos: a edição de filmes sob a ótica de um mestre. São Paulo: Zahar/Grupo Companhia das Letras, 2004.
+
+PUCCINI, Sérgio. Roteiro de documentário: da pré-produção à pós-produção. 8a. reimpressão. Campinas: Papirus Editora, 2021.
+
+Captação e edição de áudio
+
+117
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Histórias dos processos de gravação. Técnicas de registro sonoro e edição de áudio, aplicadas a trabalhos práticos com voz, instrumentos e ambiente. Funcionamento padrão de DAWs e editores de áudio: canais, controles e ferramentas; takes, sequências (tracks), loops e samples. Descritores de áudio e formatos correntes na captação e edição digital: conceituação e discussão prática. Dispositivos e técnicas de captação de áudio: cabos e conectores; pré-amplificadores e interfaces; microfones e captadores; padrões polares e técnicas de posicionamento mono, estéreo, mistas e multicanal; captação criativa; relação sinal-ruído. Técnicas básicas (e avançadas) de edição de áudio digital: visualização e análise; relação sinal~ruído (limpeza), ganho, fades e crossfades, cortes, equalização, efeitos, conversão estéreo-mono e entre formatos, finalização.
+
+Bibliografia básica
+
+FAXINA, E. Edição de Áudio e Vídeo. Curitiba: Intersaberes, 2018.
+
+HENRIQUES, F. Guia de Microfonação. Rio de Janeiro: Editora Música & Tecnologia, 2015.
+
+SÁ, Simone Pereira de (org.). Rumos da cultura da música: negócios, estéticas, linguagens e audibilidades. Porto Alegre: Sulina/Globouniversidade, 2010
+
+Bibliografia complementar
+
+ALVES, L. Fazendo música no computador. Rio de Janeiro: Irmãos Vitale, 2020.
+
+BALLOU, Glen M. (Ed.) Handbook for Sound Engineers. Oxford: Elsevier, 2008.
+
+HERSCHMANN, M. Indústria da música em transição. Barueri/SP: Estação das Letras e Cores, 2010.
+
+HUBER, David Miles. Técnicas modernas de gravação de áudio. Rio de Janeiro: Campus, 2011.
+
+VALLE, S. Microfones. Rio de Janeiro: Editora Música & Tecnologia, 2015.
+
+Mixagem e masterização
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+118
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Procedimentos técnicos e artísticos de mixagem e masterização, através da realização de exercícios práticos. Princípios de utilização de hardwares e softwares de áudio. Efeitos. Combinações de sistemas acústicos, sistemas MIDI e sistemas de áudio digital. Realização orientada de arte-finalização de projetos de criação sonora em diversas modalidades, construídos a partir de suportes digitais. Estéticas e técnicas de tratamento para arquivos sonoros. Renderização.
+
+Bibliografia básica
+
+BALLOU, Glen M. (Ed.) Handbook for Sound Engineers. Oxford: Elsevier, 2008.
+
+HENRIQUES, Fabio. Guia de Mixagem. Rio de Janeiro: Editora Música & Tecnologia, 2007.
+
+HUBER, David Miles. Técnicas modernas de gravação de áudio. Rio de Janeiro: Campus, 2011.
+
+Bibliografia complementar
+
+IAZZETTA, Fernando. Música e mediação tecnológica. São Paulo: Perspectiva/Fapesp, 2009.
+
+IZHAKI, Roey. Mixing Audio: Concepts, Practices and Tools. Oxford: Elsevier, 2008.
+
+KEFAUVER, A. P. The Audio Recording Handbook. A-R Editions, April 2001.
+
+ZUBEN, Paulo. Música e tecnologia: o som e seus novos instrumentos. São Paulo: Irmãos Vitale, 2004.
+
+Fotografia
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução à imagem técnica em seus aspectos históricos, conceituais e técnicos. Exploração de processos, materiais e equipamentos em abordagens diferenciadas. A imagem fotográfica do analógico ao digital. A imagem fotografia nas redes sociais.
+
+Bibliografia básica
+
+BARTHES, Roland. A Câmera Clara: Nota sobra a fotografia. 5. ed. Trad. Júlio Castanõn Guimarães. Rio de Janeiro: Nova Fronteira, 2015.
+
+119
+
+DUBOIS, Philippe. O ato fotográfico. Trad. Marina Appenzeller. Campinas: Papirus, 2012.
+
+ROUILLÉ, André. A fotografia: entre documento e arte contemporânea. São Paulo; Ed. Senac, 2009
+
+Bibliografia complementar
+
+FOLTS, James A. Manual de fotografia. Cengage Learning, 2011.
+
+JESUS, Samuel de. Saudade. Da poesia medieval à fotografia contemporânea, o percurso de um sentimento ambíguo. Trad. Fernando Scheibe. Belo Horizonte: Autêntica, 2015.
+
+PALACIN, Vitché. Fotografia teoria e prática. São Paulo: Saraiva, 2008.
+
+SANTAELLA, Lucia. Percepção fenomenologia, ecologia, semiótica. São Paulo: Cengage Learning, 2016.
+
+SONTAG, Susan. Sobre fotografia. Trad. Rubens Figueiredo. São Paulo: Companhia das Letras. 2004.
+
+TRIGO. T. Equipamento Fotográfico: Teoria e Prática. São Paulo: Senac-SP, 1998.
+
+Montagem e edição de vídeo
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Teorias, conceitos e princípios básicos da montagem e aplicações práticas. Montagem e produção de sentido e narrativa. Metodologia de trabalho, tecnologia de execução, processos de montagem e edição, interação com outras fases da produção audiovisual. Montagem e edição no cinema de animação.
+
+Bibliografia básica LEONE, Eduardo; MOURÃO, Maria Dora. Cinema e Montagem. São Paulo: Ática, 1987. MARTIN, Marcel. A linguagem cinematográfica. São Paulo: Brasiliense, 1990.
+
+DANCYGER,Ken. Técnicas de edição para cinema e vídeo: história, teoria e prática. Rio de Janeiro: Elsevier, 2003.
+
+Bibliografia complementar
+
+METZ, Christian. Linguagem e cinema. São Paulo: Perspectiva, 1980.
+
+EISENSTEIN, Sergei. A forma do filme. Rio de Janeiro: Jorge Zahar, 1990.
+
+120
+
+121
+
+Produção cultural e economia criativa
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Gestão Cultural, Produção Cultural e políticas públicas. Modelo dos cinco C’s: Capital Cultural, Humano, Institucional, Social, Criativo. Economia Criativa e Indústria Criativa. Efeito de Cauda Longa. Políticas de Inovação e Empreendedorismo. Ligas Acadêmicas. Captação de Recursos para projetos culturais e Leis de Incentivo: Mecenato e Incentivo Fiscal. Elaboração de Projetos Culturais: Justificativa, Objetivos, Apresentação, Pitch. Políticas Públicas para Audiovisual, Teatro e Dança.
+
+Bibliografia básica
+
+AVELAR, Romulo. O Avesso da cena: notas sobre produção e gestão cultural. Belo Horizonte: Duo Ed., 2010.
+
+Mapeamento da Indústria Criativa no Brasil. Rio de Janeiro: Firjan, 2022. Disponível em: https://www.firjan.com.br/economiacriativa/downloads/MapeamentoIndustria Criativa2022.pdf. Acesso em: 11 jul. 2023.
+
+Panorama da Economia Criativa no Brasil. Org. João Maria de Oliveira, Bruno Cesar de Araújo, Leandro Valério Silva. Brasília; Rio de Janeiro: IPEA, 2013. Disponível em: https://repositorio.ipea.gov.br/bitstream/11058/2026/1/TD_1880.pdf. Acesso em: 11 jul. 2023.
+
+Bibliografia complementar
+
+GUIMARÃES, Rafael Siqueira de. Economia criativa e novas formas de subjetivação no contemporâneo. In: CAMARGO, Hertez Wendell de; MANSANO, Sonia Regina Vargas (org.). Consumo e Modos de Vida. 2. ed. Londrina: Syntagma Editores, 2015. p. 63-68. Disponível em: https://painel.syntagmaeditores.com.br/uploads/058f227d-24d6-4d8f-8ff8-773 fc1bca1fb.pdf. Acesso em: 11 jul. 2023.
+
+HUI, D. et al. A study on creativity index. Hong Kong: Home Affairs Bureau, The Hong Kong Special Administrative Region Government, 2005.
+
+MIGUEZ, Paulo. Repertório de fontes sobre economia criativa. Salvador: Centro de Estudos Multidisciplinares em Cultura – CULT/UFBA, 2007. Disponível em: http://www.cult.ufba.br/arquivos/repertorio_economia_criativa.pdf. Acesso em: 11 jul. 2023.
+
+UNIVERSIDADE FEDERAL DO SUL DA BAHIA. Conselho Universitário. Resolução CONSUNI no 11 de 04 jun. 2020. Estabelece a Política
+
+122
+
+Institucional de Inovação e Empreendedorismo da UFSB. Itabuna; Porto Seguro; Teixeira de Freitas: Conselho Universitário, 2020. Disponível em: https://ufsb.edu.br/images/Resoluções/2020/Resolução_no_11-_Estabelece _a_Política_Institucional_d e_Inovação_e_Empreendedorismo_da_UFSBpdf.pdf. Acesso em: 11 jul. 2023.
+
+UNIVERSIDADE FEDERAL DO SUL DA BAHIA. Conselho Universitário. Resolução CONSUNI no 12 de 04 jun. 2020. Regulamenta a relação jurídica da UFSB com sociedades empresárias, cooperativas e associações constituídas com a participação de servidores da UFSB, no que se refere à celebração de contratos de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de invenção por ela desenvolvida isoladamente ou por meio de parceria. Itabuna; Porto Seguro; Teixeira de Freitas: Conselho Universitário, 2020. Disponível em: https://ufsb.edu.br/images/Resoluções/2020/Resolução_no_12-_Regulamen ta_a_relação_jurídica_da_UFSB_quanto_ao_direito_de_uso_ou_de_explora ção_de_invenção_por_ela_desenvolvida.pdf. Acesso em: 11 jul. 2023.
+
+UNIVERSIDADE FEDERAL DO SUL DA BAHIA. Conselho Universitário. Resolução CONSUNI no 13 de 04 jun. 2020. Define os critérios para o compartilhamento e permissão de uso da infraestrutura e de capital intelectual da UFSB. Itabuna; Porto Seguro; Teixeira de Freitas: Conselho Universitário, 2020. Disponível em: https://ufsb.edu.br/proppg/images/PROPPG/Resolução_no_13-_Define_os_ critérios_para_o_compartilhamento_e_permissão_de_uso_da_infraestrutura _e_de_capital_intelectual_da_UFSBpdf.pdf. Acesso em: 11 jul. 2023.
+
+Publicação, distribuição, conservação e acervo
+
+Carga horária/ creditação
+
+30h/02 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Processos de publicação e distribuição dos produtos das artes do som, da imagem e da imagem em movimento. Recursos analógicos e digitais. Circuitos e serviços de distribuição da arte, das galerias à internet. Circuitos alternativos de distribuição da imagem, da imagem em movimento e do som.
+
+Bibliografia básica
+
+BEIGUELMAN, Giselle; MAGALHÃES, Ana Gonçalves. Futuros possíveis: arte, museus e arquivos digitais. São Paulo: Peirópolis: Edusp, 2014.
+
+123
+
+BRANCO, Sérgio; BRITTO, Walter. O que é Creative Commons? Novos modelos de direito autoral em um mundo mais criativo. Rio de Janeiro; Editora FGV, 2013. Disponível em: http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/11461/ O%20que%20%C3%A9%20Creative%20
+
+Commons.pdf
+
+LÉVY, Pierre. Cibercultura. São Paulo: Ed.
+
+34, 1999.
+
+Bibliografia complementar
+
+CAUQUELIN, Anne. Arte contemporânea: uma introdução. São Paulo: Martins Fontes, 2005. PARENTE, André (org.). Imagem-máquina: a era das tecnologias do virtual. Rio de Janeiro: Edições 34, 1993
+
+SANTAELLA, Lucia. A condição inter e transdisciplinar da arte na cultura contemporânea. Art research jornal / Brasil. V. 4, n. 1 | p. 48-56 | jan. / jun. 2017. Disponível em: <https:// periodicos.ufrn.br/artresearchjournal/article/view/12048/8699>.
+
+HYPERLINK " http:// legislacao. planalto. gov. br/ legisla/ legislacao. nsf/ Viw_Identificacao/lei%25209.610-1998?OpenDocument" LEI Nº 9.610, DE 19 DE FEVEREIRO DE 1998.
+
+Tipografia
+
+Carga horária/ creditação
+
+30h/02 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa A história dos tipos. Desenho de tipos e letras. Softwares para desenho de tipos. Técnicas de desenho de letras. A tipografia e a letra enquanto recurso expressivo e compositivo. A palavra e a imagem em processos de criação artísticos e gráficos. A linguagem visual da tipografia.
+
+Bibliografia básica
+
+AMBROSE, Gavin, HARRIS, Paul. Tipografia. Porto Alegre: Editora Grupo A Bookman, 2011.
+
+124
+
+CARA, Milene; et. al. Tipografia vernacular urbana. São Paulo: Editora Edgard Blucher, 2010.
+
+HOCHULI, Jost. O detalhe na Tipografia. São Paulo: Martins Fontes, 2020
+
+Bibliografia complementar
+
+FRUTIGER. A. Sinais e símbolos. São Paulo: Martins Fontes, 2007.
+
+LUPTON, Ellen. Pensar com tipos. São Paulo: Olhares, 2021.
+
+SPIEKERMAN, E. A Linguagem Invisível da Tipografia. São Paulo: Blucher, 2011..
+
+Oficina de leitura expressiva e narração oral
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução às poéticas da voz. Exercícios de leitura expressiva e narração oral. Exercícios de técnica e expressão vocal com foco na voz falada. Tonicidade, equilíbrio, posturas, apoios corpóreos no trabalho vocal do ator e cantos. Projeção, ressonância, modulação, elasticidade, agilidade, ritmo. Adequação da voz ao espaço cênico.
+
+Bibliografia básica
+
+ARIA, Alessandra Ancona de. Contar histórias com o jogo teatral. São Paulo: Perspectiva, 2011.
+
+PIOVEZANI, Carlos. Verbo, corpo e voz: Dispositivos de fala pública e produção da verdade no discurso político. São Paulo: Editora Unesp, 2009.
+
+VOLÓCHINOV, Valentin. A palavra na vida e a palavra na poesia. São Paulo: 34, 2019.
+
+Bibliografia complementar
+
+D’ALVA, Roberta Estrela. Teatro Hip-hop. São Paulo: Perspectiva, 2014.
+
+GAYOTTO, Lucia Helena. Voz partitura da ação. 4. ed. São Paulo: Plexus, 2015.
+
+GRANDO, Monica Andrea. O gesto vocal. São Paulo: Perspectiva, 2015.
+
+QUINTEIRO, Eudosia Acuña. Estéticas da voz - Uma voz para o ator. São Paulo: Plexus, 2007.
+
+STOREY, John. Teoria cultural e cultura popular: Uma introdução. São Paulo: Edições Sesc, 2015.
+
+125
+
+Roteiro para cinema e audiovisual
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Elementos fundamentais do roteiro de ficção e recursos de narrativa: sequência, cena, personagem, ação, diálogo. Conflito nos gêneros épico e dramático. Vetores, linhas e curva dramática. Tratamentos do roteiro: argumento, escaleta e sequências. Exercícios de escrita de roteiro para curta-metragem.
+
+Bibliografia básica
+
+COMPARATO, Doc. Da criação ao roteiro: teoria e prática. São Paulo: Summus Editorial, 2018.
+
+FIELD, Syd. Manual do roteiro. Tradução Alvaro Ramos. São Paulo: Objetiva/Grupo Companhia das Letras, 1995.
+
+PARAIZO, Lucas. Palavras de roteirista. São Paulo: SENAC/SP, 2015.
+
+Bibliografia complementar
+
+ANTERO, Kalyenne de Lima e Matheus Rodrigues de MELO. Roteiro e storyboard. Curitiba: Editora InterSaberes, 2021.
+
+GUIMARÃES, Roberto Lyrio Duarte. Primeiro Traço: Manual Descomplicado de Roteiro. Salvador: Edufba, 2009.
+
+MACIEL, Luis Carlos. O poder do clímax: fundamentos do roteiro de cinema e TV. São Paulo: Giostri, 2017.
+
+SWANWICK, Keith. Ensinando música musicalmente. Trad. Alda Oliveira, Cristina Tourinho. São Paulo: Moderna, 2003.
+
+MCKEE, Robert. Diálogo: a arte da ação verbal na página, no palco e na tela. Tradutor Irinêo Baptista Netto. Curitiba: Arte & Letra, 2018.
+
+MCKEE, Robert. Story: substância, estrutura, estilo e os princípios da escrita de roteiro. Tradutor Chico Marés. Curitiba: Arte & Letra, 2018.
+
+PEDROSO, Ecila. É preciso pensar: manual prático de roteiro. São Paulo: SESI-SP editora, 2016.
+
+Oficina de fotografia e vídeo
+
+Carga horária/ 30h/02 créditos
+
+126
+
+creditação
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Linguagem audiovisual/cinematográfica. Experimentação com elementos visuais e sonoros, montagem e plano. Novas configurações da produção audiovisual: trabalho individual ou pequenas equipes. Exercícios com câmera. Linguagem aplicada à realização de produtos audiovisuais.
+
+Bibliografia básica JESUS, Adriano Miranda Vasconcelos de. Produção audiovisual. Porto Alegre: SAGAH, 2019.
+
+ROUILLÉ, André. A fotografia: entre documento e arte contemporânea. TRad. Alexandre Ricardo dos Santos. São Paulo: Senac SP, 2009.
+
+WATTS, Harris. On Camera: o curso de produção de filmes e vídeos da BBC. Trad. Jairo Tadeu Longhi. 5. ed. São Paulo: Summus Editorial, 1990.
+
+Bibliografia complementar
+
+ARMES, Roy. On Video: o significado do vídeo nos meios de comunicação. Trad. George Schlesinger. São Paulo: Summus Editorial, 1999.
+
+AUMONT, Jacques; MARIE, Michel. Dicionário teórico e crítico de cinema. Trad. Eloisa Araújo Ribeiro. 7. ed. Campinas: Papirus, 2020.
+
+DROGUETT, Juan; MIRANDA, Adriano. Dicionário audiovisual. Jundiaí: Paco, 2022.
+
+DUBOIS, Philippe. O ato fotográfico. Trad. Marina Appenzeller. Campinas: Papirus, 2012.
+
+PINTO, Ivonete. Cinemas periféricos: estéticas e contextos não-hegemônicos. Jundiaí: Paco, 2021.
+
+ZETTL, Herbert. Manual de produção de televisão. Trad. Fernanda Troeira Zuchini. 12. ed. São Paulo: Cengage Learning, 2017.
+
+16.4 Componentes aproveitáveis dos cursos de 1º ciclo
+
+BI LI ARTES
+
+Artes e Comunicação nas sociedades contemporâneas
+
+Carga horária/ creditação
+
+30h/02 créditos
+
+127
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Estudo das formas artísticas das sociedades contemporâneas, a partir dos meios técnicos de reprodutibilidade das obras: fotografia, cinema, música popular, quadrinhos, televisão, vídeo ou artes digitais. Artes tradicionais e modos técnicos de reprodução. Estudo da cultura imagética contemporânea. As formas contemporâneas de circulação das expressões artísticas. Arte, comunicação e relações de poder nas sociedades contemporâneas.
+
+Bibliografia básica
+
+BENJAMIN, Walter. Obras Escolhidas, v.l, 2 e 3. São Paulo: Brasiliense, 1989.
+
+MARTÍN-BARBERO, Jesus. Dos meios às mediações: Comunicação, cultura e hegemonia. Trad. R. Polito e S. Alcides. 6. ed. Rio de Janeiro: Editora UFRJ, 2009.
+
+MORIN, Edgar: Cultura de Massas no Século XX. Rio de Janeiro: Forense, 1969. Disponível em: http://pt.scribd.com/doc/169378659/Cultura-de-Massas-no-seculo-XX-Neuro se-Edgar- Morin-pdf#scribd. Acesso em: 31 jul. 2015.
+
+Bibliografia complementar
+
+ADORNO, Theodor. T. W. Adorno. São Paulo: Ática, 1986.
+
+CANCLINI, Néstor Garcia. Culturas híbridas. São Paulo, Edusp, 1997.
+
+DEBORD, Guy: A sociedade do espetáculo. Rio de Janeiro: Contraponto, 1997. Disponível em: http://www.ebooksbrasil.org/adobeebook/socespetaculo.pdf. Acesso em: 31 jul. 2015.
+
+Cinema, criação e educação audiovisual
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Obrigatória
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Elaboração de espaços de compartilhamento e invenção coletiva pela prática e fruição da imagem cinematográfica. Abordagem dos meios audiovisuais de escrita e narrativa. Desenvolvimento de ações propostas pelos dispositivos elaborados pelo projeto “Inventar com a diferença”. O
+
+128
+
+cinema como espaço de criação para uma construção subjetiva, comunitária e intercultural.
+
+Bibliografia básica COMOLLI, Jean-Louis. Ver e Poder – a inocência perdida: cinema, televisão, ficção e documentário. Belo Horizonte: Editora da UFMG, 2008.
+
+GUIMARÃES, César. O retorno do homem ordinário do cinema. Contemporânea – Revista de Cultura e Comunicação, v. 3, n. 2, 2005, Salvador. Disponível em: http:// www.portalseer.ufba.br/index.php/contemporaneaposcom/article/view/3457 . Acesso em: 22 jul. 2015.
+
+MIGLIORIN, Cezar et alii. Inventar com a diferença – cinema e direitos humanos. Niterói: Editora da UFF, 2014. Disponível em: http://www.inventarcomadiferenca.org/. Acesso em: 22 jul. 2015.
+
+MIGLIORIN, Cezar. Cinema e escola, sob o risco da democracia. Disponível em: http:// www.fe.ufrj.br/artigos/n9/9_posfacio_cinema_e_escola_104_a_110.pdf. Acesso em: 22 jul. 2015.
+
+Bibliografia complementar
+
+MIGLIORIN, Cezar. O ensino de cinema e a experiência do filme-carta. E-compós. Revista da Associação Nacional de Programas de Pós-Graduação em Comunicação, Brasília, v.17, n.1, jan/abr 2014. p.1-16. Disponível em: http://www.compos.org.br/seer/index.php/e- compos/article/viewFile/1045/758. Acesso em: 22 jul. 2015.
+
+FRESQUET, Adriana Mabel; Migliorin, Cezar; ANHORN, Carmen Teresa Gabriel; PEREIRA, Maria Leopoldina; DOMINGUES, Glauber Resende; BARRA, Regina; OMELCZUC, Fernanda; LEANDRO, Anita Matilde. Currículo de cinema para escolas de educação básica. Rio de Janeiro: CINEAD/LECAV, 2013.
+
+FRESQUET, Adriana (Org). Cinema e educação: a Lei 13.006: reflexões, perspectivas e propostas. Universo Produção. Disponível em: http://www.cineop.com.br/ Livreto_Educacao10CineOP_WEB.pdf. Acesso em: 22 jul. 2015.
+
+MIGLIORIN, Cezar; PIPANO, Isaac. Cine, igualdad y escuela: la experiencia de Inventar con la diferencia. Toma Uno, v. 1, 2014, p. 199-207.
+
+Artes e Comunicação: Extensão universitária e Interdisciplinaridade (CCEx)
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+129
+
+Pré-requisitos
+
+Ementa Conceito e diretrizes para a extensão universitária. Propostas extensionistas em Artes e
+
+Comunicação, de perspectiva interdisciplinar, em diálogo com comunidades e territórios. Integração e constituição de novos contornos para a pesquisa, ensino e extensão em Artes e Comunicação. Desenvolvimento de atividades diretivas práticas vinculadas a ações, projetos e/ou programas de extensão da UFSB em relação com comunidades em seus processos de produção artístico-cultural. Planejamento e realização de eventos (aulas, seminários, apresentações, mostras etc.) em parceria com centros culturais, escolas, teatros, espaços públicos ou comunitários, povos tradicionais, dentre outros.
+
+Bibliografia básica
+
+FORPROEX. Política Nacional de Extensão Universitária. Gráfica da UFRGS. Porto Alegre, RS, 2012 (Coleção Extensão Universitária; v. 7. Disponível em: https://www.ufmg.br/proex/renex/images/documentos/2012-07-13-Politica-Na cional-de Extensao.pdf. Último acesso em 03 mar. 2023.
+
+FORPROEX. Indissociabilidade Ensino–Pesquisa–Extensão e a Flexibilização Curricular: uma visão da extensão. Porto Alegre: UFRGS; Brasília: MEC/SESU, 2006. (Coleção Extensão Universitária; v.4). Disponível em: https://www.ufmg.br/proex/renex/images/documentos/Indissociabilidade-e-Fle xibilizacao.pdf . Último acesso em 03 mar. 2023. SANTOS, Boaventura de Sousa. A Universidade no Século XXI: Para uma reforma democrática e emancipatória da Universidade. 3ª ed. São Paulo: Cortez, 2010
+
+Bibliografia complementar
+
+A ser indicada pelo corpo docente ministrante.
+
+Vivências em Saberes Tradicionais e Populares (CCEx)
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Experimentação, aprofundamento e compartilhamento de saberes e práticas em jornadas de imersão em comunidades tradicionais ou populares, em diálogo com Mestres e Mestras dos Saberes. Investigação prática em processos de criação artística e/ou comunicacional ancorados na vivência e na convivência com sistemas estéticos e cosmovisões tradicionais e populares. Desenvolvimento de atividades de extensão e/ou produção de materiais/conteúdos em Artes e Comunicação, com foco no
+
+130
+
+território.
+
+Bibliografia básica
+
+FERREIRA, Joelson; FELÍCIO, Erahsto. Por terra e território: caminhos da revolução dos povos no Brasil. Arataca: Teia dos Povos, 2021. 178 p. ISBN 9786559410880.
+
+PIMENTEL, Álamo. Atravessando o inferno: aprendizagem e alteridade na extensão universitária. Curitiba: Appris, 2019. 188 p. ISBN 9788547339104.
+
+TUGNY, Rosângela Pereira de; GONÇALVES, Gustavo (org.). Universidade popular e encontro de saberes. Brasília/Salvador: EdUnB/EdUFBA, 2020. 652p. ISBN 9788523220549
+
+Bibliografia complementar
+
+ANDRADE, Maria Muniz de (Mayá). A escola da reconquista. Org. Rosângela P. de Tugny. Arataca, BA: Teia dos Povos, 2021. 168p. ISBN:978-65-86598-16-2.
+
+As Cidades e o Sagrado dos Povos Tradicionais: territórios, identidades e práticas culturais.-- Belo Horizonte: Fundação Municipal de Cultura de Belo Horizonte, 2019. Dezembro de 2019, Ano 1, n.2. Disponível em: https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/fundacao- municipal-de-cultura/2020/cultura-e-pensamento-02-as-cidades-e-o-sagrado- dos-povos-tradicionais_digital_v2_final.pdf. Último acesso em 27 fev. 2023. ISBN 978-85-60151-07-3.
+
+CARVALHO, José. Jorge de. Notório Saber para os Mestres e Mestras dos Povos e Comunidades Tradicionais: Uma Revolução no Mundo Acadêmico Brasileiro. Revista da Universidade Federal de Minas Gerais, Belo Horizonte, v. 28, n. 1, p. 54–77, 2021. Disponível em: https://periodicos.ufmg.br/index.php/revistadaufmg/article/view/29103. Último acesso em 27 fev. 2023.
+
+NETO, Edgar Barbosa; ROSE, Isabel Santana de e GOLDMAN, Marcio (organizadores). Encontro de Saberes: Transversalidades e Experiências (dossiê). Revista Mundaú, 2020, n.9. Programa de Pós-graduação em Antropologia Social, Universidade Federal de Alagoas, n.9, 2020. Disponível em: https://www.seer.ufal.br/index.php/revistamundau/issue/view/592. Acesso em 27/02/2023. ISSN 2526-3188.
+
+SANTOS, Boaventura de Sousa. Para além do pensamento abissal: das linhas globais a uma ecologia de saberes. Novos estudos, CEBRAP [online], 2007, n.79, p. 71-94. Disponível em: https://doi.org/10.1590/S0101-33002007000300004. Último acesso em 03 mar. 2023.
+
+Estéticas dos Povos Originários das Américas
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Aproximação das ações estéticas dos povos originários das Américas por
+
+131
+
+suas expressões e suportes – música, dança, rituais, máscaras pinturas, tecelagens, grafismos, cerâmicas, cestarias, literatura, cinema. Discussão sobre os mecanismos de qualificação e agência construídos por seus sujeitos.
+
+Bibliografia básica BROTHERSTON, Gordon; MEDEIROS, Sérgio (Orgs.). Popol Vuh. São Paulo: Iluminuras, 2011.
+
+CESARINO, Pedro de Niemeyer (Orgs). Quando a Terra deixou de falar: cantos da mitologia marubo. São Paulo: Editora 34, 2013.
+
+LAGROU, Els 2002. O que nos diz a arte kaxinawa sobre a relação entre identidade alteridade?. Revista Mana, Rio de Janeiro, v. 8, 2002, p. 29-62. Disponível em: http://www.scielo.br/scielo.php?pid=S0104- 93132002000100002&script=sci_arttext. Acesso em: 30 jul. 2015.
+
+LAGROU, Els. 2012. Existiria uma arte das sociedades contra o Estado? Revista de Antropologia, USP. v. 54, p. 747-780. Disponível em: http://www.revistas.usp.br/ra/article/view/39645. Acesso em: 30 jul. 2015.
+
+SÁ, Lúcia. Literaturas da Floresta: textos amazônicos e cultura latino-americana. Rio de Janeiro: UERJ, 2012.
+
+TRANS. Revista transcultural de música. Revista arbitrada de la SIBE-Sociedad de Etnomusicología, n. 15, 2011. Dossier Objetos sonoros-visuales ameríndios. Disponível em: http://www.sibetrans.com/trans/publicacion/16/trans-15-2011. Acesso em: 30 jul 2015..
+
+Bibliografia complementar
+
+DOSSIÊ Arte Kusiwa: pintura corporal e arte gráfica wajãpi. Brasília, DF: Iphan, 2008. Disponível em: http://portal.iphan.gov.br/bcrE/pages/indexE.jsf. Acesso em: 30 jul 2015.
+
+GALLOIS, Dominique Tilkin (Org.). Patrimônio cultural imaterial e povos indígenas. Exemplos no Amapá e norte do Pará. São Paulo: Iepé, 2006. Disponível em: http://www.institutoiepe.org.br/media/livros/livro_patrimonio_cultural_imaterial _e_povos_indigenas-baixa_resolucao.pdf. Acesso em: 30 jul 2015.
+
+LÉVI-STRAUSS, Claude. O desdobramento da representação nas artes da Ásia e da América". In: _______. Antropologia Estrutural. São Paulo: CosacNaify, 2012, p. 347-387.
+
+LÉVI-STRAUSS, Claude. Uma sociedade indígena e seu estilo. In: _______. Tristes trópicos. São Paulo: Companhia das Letras, 1973 (1955), p. 167-188.
+
+PINHATA, Isaac. 2004. Você vê o mundo do outro e olha para o seu. Disponível em: http://www.videonasaldeias.org.br/2009/biblioteca.php?c=23. Acesso em: 30 jul. 2015.
+
+YAM , YAGUARÊ. Sehaypóri; o livro sagrado do povo Saterê-Mawé. São Paulo: Peirópolis, 2007.
+
+Estéticas Negrodescendentes
+
+132
+
+Carga horária/ creditação
+
+75h/05 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Estudo das culturas africanas, diaspóricas e do negro no Brasil. Sistema de arte fundados em práticas culturais negrodescendentes no Brasil. Culturas negras, sistemas de arte ocidentais e autóctones – encontros/confrontos e desdobramentos artísticos. Leituras e releituras da historiografia produzida pelo eurocentrismo; dos Estudos Colonialistas aos Estudos Culturais.
+
+"Afro-brasilidade" como unidade cultural – da marginalização eurocêntrica à conjuntura política atual. Arte e cultura: alteridade nas relações entre as matrizes afro-descendentes e outras matrizes culturais presentes no Brasil.
+
+Bibliografia básica
+
+ACEVEDO, Claudia Rosa. Interpretações sobre os retratos dos afrodescendentes na Mídia de Massa. NOHARA, Jouliana Jordan.Curitiba: RAC, Edição Especial. Disponível em: http://www.scielo.br/pdf/rac/v12nspe/a06v12ns.pdf. Acesso em: 24/07/2015. HALL, Stuart. Da diáspora, identidades e mediações. Belo Horizonte: Editora da UFMG, 2008. SANTOS, Gislene Aparecida dos. A invenção do ser negro: um percurso das ideias que naturalizaram a inferioridade dos negros. São Paulo: EDUC/FAPESP/PALLAS, 2002. SILVA, Dilma de Neto; CALAÇA, Maria Cecília F. Arte africana e afro-brasileira. São Paulo: Terceira Margem, 2006.
+
+Bibliografia complementar
+
+HERSCHMANN, Micael. O funk e o hip-hop invadem a cena. Rio de Janeiro: UFRJ, 2000. SILVA, Nelson Inocêncio. Museu afro Brasil no contexto da Diáspora: dimensões contra-hegemônicas das artes e culturas negras. Tese de Doutorado em Artes da UNB, 2012.SHOHAT, Ella. STAM, Robert. Crítica da imagem eurocêntrica. São Paulo: Cosacnaify, 2006 TINHORÃO, José Ramos. Os sons dos negros no Brasil: cantos, danças, folguedos, origens. São Paulo: Art, 1988. TUGNY, Rosângela Pereira & QUEIROZ, Rubens Caixeta (Org.). Músicas africanas e indígenas no Brasil. Belo Horizonte: Editora UFMG, 2006
+
+Libras
+
+Carga horária/ creditação
+
+60h/04 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução aos aspectos históricos e conceituais da cultura surda e filosofia do bilinguismo. Processos cognitivos e linguísticos. O cérebro e a língua de sinais. Apresentar o ouvinte à Língua de Sinais Brasileira (LIBRAS) e a modalidade diferenciada para a comunicação (gestual-visual). Ampliação de habilidades expressivas e receptivas em LIBRAS. Vivencia comunicativa dos aspectos sócio- educacionais do indivíduo surdo. Conceito de surdez, deficiência auditiva (DA), surdo-mudo, mitos, SignWriting (escrita de sinais).
+
+133
+
+Legislação específica. Prática em Libras –vocabulário.
+
+Bibliografia básica
+
+CAPOVILLA, F.C., RAPHAEL, W. D. (no prelo). Sinais da LIBRAS e o universo da Educação. In: CAPOVILLA, F.C. (Org.). Enciclopédia da Língua de Sinais Brasileira: o mundo do surdo em LIBRAS. (Vol. 1, de 19 volumes, 340 pp.). São Paulo, SP: Edusp, Vitae, Brasil Telecom, Feneis.
+
+GESSER, Audrei. Libras? Que língua é essa? São Paulo, Editora Parábola: 2009.
+
+QUADROS, Ronice Muller; KARNOPP, Lodenir Becker. Língua Brasileira de Sinais: estudos linguísticos. Porto Alegre: Artmed, 2004.
+
+Bibliografia complementar
+
+GÓES, Maria Cecília Rafael de. Linguagem, surdez e educação. 2. ed. Campinas: Autores Associados, 1999. GOFFMAN, Erving. Estigma e Identidade Social. In: . Estigma: Notas sobre a manipulação da identidade deteriorada. 4. ed. Rio de Janeiro: Zahar, 1982. GOLDFELD, Márcia. A criança surda: Linguagem e cognição numa perspectiva sociointeracionista. 2. ed. São Paulo: Plexus, 2002. LACERDA, Cristina B. Feitosa de. A prática pedagógica mediada (também) pela língua de sinais: trabalhando com sujeitos surdos. Cadernos Cedes, ano XX, n. 50, abr. 2000. OLIVEIRA, R. F.; OLIVEIRA, F. F.; BORGES, R. M. O. Apostila de Libras I, II, III, IV. Associação dos Surdos de Goiânia. Goiânia, 2006.
+
+134
+
+BI HUMANIDADES
+
+Introdução aos estudos sobre os povos negros e indígenas no Brasil
+
+Carga horária 75 horas
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos Nenhum
+
+Ementa Panorama da diversidade cultural entre os povos indígenas no país. Principais temas contemporâneos dos estudos indígenas. Diáspora africana: dispersão, (re)criação e resistência cultural. Racismo e resistência negra. Territórios, espaços e práticas negras e indígenas no Brasil. Relações afro-indígenas.
+
+Bibliografia básica
+
+BANIWA, Gersem. O Índio Brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: MEC/Secad: LACED/Museu Nacional, 2006. DOMINGUES, Petrônio. A nova abolição. São Paulo: Selo Negro, 2008. MELATTI, Julio Cesar. Índios do Brasil. São Paulo, Edusp, 2007.
+
+Bibliografia complementar
+
+GILROY, Paul. O Atlântico negro. São Paulo: Editora 34, 2001 MOURA, Clóvis. Brasil: as raízes do protesto negro. São Paulo: Dandara, 2023. PIMENTEL, Spensy. O índio que mora na nossa cabeça – sobre as dificuldades para entender os povos indígenas. São Paulo: Prumo, 2012. REIS, João José; GOMES, Flávio dos Santos. Liberdade por um fio: história dos quilombos no Brasil. São Paulo: Cia. das Letras, 1996. VÁRIOS AUTORES. Povos indígenas no Brasil. São Paulo: Instituto Socioambiental.Disp. em: https://pib.socioambiental.org/pt/Página_principal
+
+Ciência Política
+
+Carga horária/ Creditação
+
+60 horas/ 04 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos Nenhum
+
+Ementa Estados, direitos modernos e cidadanias, formas de organizações políticas e jurídicas, de aquisição e exercício do poder - evolução dos Estados e das representações políticas.
+
+Bibliografia básica SINGER, André; ARAÚJO, Cícero & BELINELLI, Leonardo. Uma Introdução ao Estudo da Política. Rio de Janeiro: Zahar. 2021. GIANTURCO, Adriano. Ciência Política: uma introdução. São Paulo: Grupo Gen/ Forense Universitária. 2020. STRECK, Lenio Luiz & MORAIS, José Luiz Bolzan de. Ciência Política e Teoria do Estado. Porto Alegre: Editora Livraria do Advogado. 2019.
+
+Bibliografia complementar
+
+FERRARI, Sônia Campaner Miguel (org.). Filosofia Política. São José dos Campos-SP: Saraiva Uni. 2019.
+
+135
+
+BOBBIO, Norberto. A era dos direitos. Rio de Janeiro: Campus, 1992. RAMOS, Flamarion Caldeira; MELO, Rúrion Soares & FRATESCHI, Yara. Manual de Filosofia Política. São José dos Campos-SP: Saraiva Jur. 2018. KELLSTEDT, Paul M. & WHITTEN, Guy D. Fundamentos da Pesquisa em Ciência Política. São Paulo: Editora Blucher. 2015. LEAL, Mônica Clarissa Hennig; GORCZEVSKI, Clovis & SILVA JÚNIOR, Edison Botelho. Introdução ao Estudo da Ciência Política, Teoria do Estado e da Constituição. Porto Alegre: Editora Livraria do Advogado. 2007.
+
+Teorias econômicas clássicas e contemporâneas
+
+Carga horária/ creditação
+
+60h/04 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução; Fundamentos da Economia Política; Subjetivismo Racionalista; Economia Política Crítica e Crítica da Economia Política; Utilitarismos; Neoclássicos; Teorias do Imperialismo; Críticas à mão invisível; Economia Contemporânea; Renascimento da Economia Política Crítica
+
+Bibliografia básica
+
+BRUE, Stanley L. História do pensamento econômico. 2. Rio de Janeiro Carnegie Learning 2016. HUNT, E. K; LAUTZENHEISER, Mark. História do pensamento econômico: uma perspectiva crítica. 3. ed. Rio de Janeiro: Elsevier, 2013. STRATHERN, Paul. Uma breve história da economia. Rio de Janeiro Zahar 2003.
+
+Bibliografia complementar
+
+BARBIERI, Fabio. Metodologia do pensamento econômico: o modo de fazer ciência dos economistas. São Paulo: Atlas, 2014. MARX, Karl. O capital I: crítica da economia política : o processo de produção do capital. 2. ed. São Paulo: Boitempo, 2017. PRADO JUNIOR, Caio. História econômica do Brasil. 43. ed. São Paulo: Brasiliense, 2012. SINGER, Paul. Aprender economia. 25. ed. São Paulo: Contexto, 2017. FURTADO, Celso. Formação econômica do Brasil. 34. ed. São Paulo: Companhia das Letras, 2007.
+
+Estatística para Gestão
+
+Carga horária/ creditação
+
+45h/03 créditos
+
+136
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução, o lugar da estatística na sociedade, o lugar da sociedade na estatística, elementos da sociedade enquanto dados, pesquisas e dados, técnicas de amostragem, dados categorizados, dados quantitativos, medidas descritivas, modelos probabilísticos, distribuições contínuas e o modelo normal, estimação de parâmetros, testes estatísticos de hipóteses, testes de comparação entre duas amostras, análise de dados categorizados, correlação e regressão.
+
+Bibliografia básica
+
+COSTA, Sérgio Francisco. Introdução ilustrada à estatística. 5. ed. São Paulo: Harbra, 2013. MORETTIN, Pedro A; BUSSAB, Wilton de O. Estatística básica. 9. ed. São Paulo: Saraiva, 2017. RIOLA, Mauro F. Introdução à estatística. 12. ed. Rio de Janeiro: LTC, 2017.
+
+Bibliografia complementar
+
+BARBETTA, Pedro Alberto. Estatística aplicada às Ciências Sociais. 9a. ed. Florianópolis: Ed. da UFSC, 2014. CAMPOS, Celso Ribeiro; WODEWOTZKI, Maria Lucia Lorenzetti; JACOBINI, Otávio Roberto. Educação estatística: teoria e prática em ambientes de modelagem matemática. Belo Horizonte: Autêntica, 2011. DANCEY, Christine P.; REIDY, John. Estatística sem matemática para psicologia. 7. ed. Porto Alegre: Penso, 2019. FALCO, Javert Guimarães. MEDEIROS JÚNIOR, Roberto José. Estatística. Curitiba: IFPR, 2012. Disponível em <http://redeetec.mec.gov.br/images/stories/pdf/proeja/estatistica.pdf>. Acessado em 4 de março de 2020. STEVENSON, W. J. Estatística Aplicada à Administração. São Paulo: Editora Harper & Row do Brasil letda, 1981.
+
+BI CIÊNCIAS E LI CIÊNCIAS DA NATUREZA
+
+Divulgação Científica
+
+Carga horária/ creditação
+
+60h/04 créditos
+
+Natureza Optativa
+
+Modalidade Presencial
+
+Pré-requisitos
+
+Ementa Introdução geral ao campo da divulgação científica, incluindo-se sua história, seus modos, práticas, teorias, funções. O curso também discutirá a percepção social da ciência e da tecnologia e as iniciativas e estratégias desenvolvidas na DC, no cenário internacional e brasileiro. Alunos serão
+
+137
+
+estimulados a realizar experimentos iniciais de divulgação científica ao longo do curso, utilizando ferramentas disponíveis na internet
+
+Bibliografia básica MASSARANI, Luisa; MOREIRA, Ildeu de Castro; BRITO, Fátima. Ciência e público: caminhos da divulgação científica no Brasil. Rio de Janeiro: Casa da Ciência, UFRJ, 2002.
+
+PORTO, Cristiane de Magalhães, BROTAS, Antonio Marcos Pereira, BORTOLIERO, Simone Terezinha (orgs.) Diálogos entre ciência e divulgação científica: leituras contemporâneas. Salvador : EDUFBA, 2011. 240 p
+
+VOGT, Carlos; GOMES, Marina; MUNIZ, Ricardo (Orgs.) Comciência e divulgação científica. Campinas, SP: BCCL/ UNICAMP, 2018. 274 p..
+
+Bibliografia complementar
+
+CARIBÉ, Rita de Cássia do Vale. Comunicação científica: reflexões sobre o conceito. Informação & Sociedade: Estudos v. 25, n. 3, 2015.
+
+GERMANO, Marcelo G.; KULESZA, Wojciech A. Popularização da ciência: uma revisão conceitual. Caderno Brasileiro de Ensino de Física v. 24, n. 1, 2007.
+
+OLIVEIRA, Fabiola. Comunicação pública e cultura científica. Parcerias Estratégicas 13, 2001.
+
+\17. REFERÊNCIAS
+
+ALBUQUERQUE, Eliana Cristina Paula Tenório de. Entre o global e o local: rádio e identidades culturais no sul da Bahia. Tese de doutorado (Cultura e Sociedade). Universidade Federal da Bahia, Salvador, 2014
+
+GILLMOR, Dan. We the media: grassroots journalism, by the people, for the people. Sebastopol: O'Reilly Media, 2006.
+
+JONES, Bradley. Web 2.0 Heroes: Entrevistas com 20 influenciadores da Web 2.0. São Paulo: Digerati Books, 2009.
+
+LEAL, Victor Nunes. Coronelismo, enxada e voto: o município e o regime representativo no Brasil. 7º edição. São Paulo: Companhia das Letras, 2012
+
+SANTOS, Richard. Branquitude e Televisão a nova (?) África na TV pública. Rio de Janeiro: Editora Gramma, 2018.
+
+SANTOS, Richard. NOVION, Jacques de. Audiovisual, Hegemonia e contra Hegemonia – O caso comparado da TV Pública no Brasil e na Argentina. Revista de Estudos e Pesquisas sobre as Américas. Vol.11 Nº 3, 2017.
+
+UNESCO. Um mundo e muitas vozes: Comunicação e informação na nossa época. Rio de Janeiro: FGV, 1983.
+
+\18. ANEXOS
+
+138
+
+ANEXO I — LISTA DE EQUIPAMENTOS
+
+139
+
+KIPOUDPeHNO MZ JL=Picuadojwos'a]
+
+or'00S"LSH
+
+se
+
+W
+
+ceopr
+
+HI LUA SSVd HOIH ZH 08 :430-NON VIONINDINA VXIVE (ZH 08 '3LNINVLNTOSSV) SOSSVd SIOQ :SSVd-HOIH OHLTIS
+
+(ga 02+ '0 'Sa OL-) SIQÓISOd SIHL ITOHLNOO JA 13AIN
+
+[svsmoNI
+
+OYNI (VIA 82 VN LV) YNNIVOTV VISILVE A 6 X | :VIHILVE 3Q Odill
+
+aa 08 :OAINH-VHVA-TVNIS OVÍHOdO NA
+
+(SOAVOIHNVO SWNHOM L INI QHL %L 'ZHX | D) SA PEL :OWIXVIN TAS
+
+(159 931 HOd OWOD) BA OZL :OD!NYNIA JONVOITV
+
+(SINHOX L INI QHL %L D) NGA 6'9+ :VINIXVIN VAlvS
+
+ga +L :ILNINVAINOI OdINH
+
+SINHO 00Z :VG]VS 3 VIONVAIAINI
+
+ZHHL D 8a Z-/+ (NAS Sa 46 D AN 02) VEIA | 3 SA ZE-:3AVANIBISNIS| (ZH 080 JdH T3AYNOIO INES) ZHM 0Z - ZH Ob :VISOdSIU 3Q VIONINDIHA ICIQIANVOINIANS “TVNOIDIAIA OVHAVA
+
+JINIIAVHO HOCVSNIANOD JA VHNIT :ODLLSNOY Old|INIHA
+
+"OLNIAVAVA VINNdSI 3 VAVEDILNI (LNNOINXNDOHS) OYSNIASNS (ONO TV NO) Zd MOVI-INHA (WINS'E) 8/1 VAIVS IA HOLDINOIHTSA VEINVO VAVd Odvaavo Zd ICIQITAVIHIANS HOJVSNIANOO NNOLOHS INOJONDIN|
+
+99'6ct 28H
+
+se
+
+1X
+
+ZLOOSL
+
+HACH/NNCH-INHA JOQV LdVaV| LVI-dN vidaLva
+
+S-dã 3 d3 NONVO '31NI130 IXIVONA) WINSS-8L “(ININ) TVIOS VIONVLSIA “31NI7
+
+STXIdVOIW Z'yZ :SIIXIdVOIN SOLNOd 61 3Q AV :0904 3d SOLNOd 3] OHINNN
+
+(11 OaraBIH
+
+SONO Av) 9-SdV /X9'L (SOWO) WI9VWI 3a HOSNIS ALHOO JA SO LVA S 0€ V 000%/L JA HOQVANLIO OA IAVAIDOTIA
+
+(00952 OSI V HIQNVAXI 3S-30Od) 008Z1-00L OSI :OSI JAVANISISNIS
+
+0 V IVINOZIHOH 3 IVOILHIA %S6 'XOUdV HIQNIAMIIA VEN LHISOO) WIS :HSVTA
+
+WIS :O3G]A O ILNVENA 3V|
+
+Sda 0'S :Sdd
+
+T3AVIHVA OINONY JA 9 (OALLIOVAVO OdlL) INDOL 3Q TINIVA
+
+3a 097 N09 ONO IVISIHO JA HOD WI LIL VII L :097 HO.LINOW ISHM '9SN “TVd/9S.LN “DAN IQVAIALLOINOO)
+
+9 OI9IA :NIDVWI 3a HOdVSSIDONd
+
+O80L X 0Z6L GH TINA :OIAJA 3Q OVÓVAVEO
+
+OHAS/0XAS/AS :VRIQINIW 3a Oy LHVO JA Odll|
+
+Zd MOVF-ININ (WINS"E) «8/4
+
+:INOJONOIN 3Q VAVE LNI(ININSS-8L HTISA) TV.LIDIA VOIAVSDOLOS VEINVO|
+
+SodoJd ep jSuled Sopiunsoy sougIe|oy
+
+ERES OLIXEUI JOJ2A
+
+tejo) ap) epjueno
+
+epipoN ap apepiun
+
+IVINIVO
+
+ordPoyladsa / oBduUIsag
+
+Wo)
+
+140
+
+HSB-LOcUderSvMoAL=piuadojuios a|Boob SAup/:S
+
+\+L'gegu
+
+Se
+
+eãad
+
+PoBsPE
+
+WINSSAN ININ8S 3LNIT JO ON LA
+
+“HP5X IS0/89 LANUMIL=PiguadojWos ejDoob saup/-sdju
+
+cs'sccêu
+
+os
+
+ESed
+
+Leelz
+
+LIA TITS VEIINÇO VV VHLXI (LI-dT vISILVA
+
+PrevosTIVS9NHGZMUL=Piguadojuios"a|5006"saup)-sdjy
+
+ZV'9gLgH
+
+os
+
+eõed
+
+46E0Z
+
+(yodvidvav NOD QS-OHDIN 3AHAIS OYN)g9+9 DXAS VIHQNIA JO OVLHVO
+
+[DdGAZOUMGZME ADO L=Piguadojuos ejboobsaup/-Sdnu
+
+06'608$
+
+eãed
+
+S069E
+
+S-Ja 3 4a NONV9D :31N37 34 IXIVONA NOD TEALLVHNOD HOLONOHDIA AV IG OdlL
+
+(NINOOE W) S2'0 :(X) VINIXVIN OVIVIN INV
+
+WOS'L :1V904 VIONVLSIO HONIN
+
+St-ZE VWINIA VENLHaIMY
+
+LYNOVHAVIO OQ SVYNIANVT 30 N
+
+6/€L ÁSOdANHO/SO NINFA) VALLIrgO VA OYÔNELSNOO
+
+SLoB ? LLoZE 'SEoh
+
+“E LoBL “0869 “o2€ (MVNODVIO “IVOLLHIA “IV LNOZIHOH) OYSIA JA OINNONY WNINO6£-86 :H-Sdy 1VDOA VIONVLSIO
+
+NWOSH-OZL :2-SdV TVDOA
+
+VIONVLSICHTSA VHIINVO VEVA NINOOE-SZ VOIdQISITAL NOOZ 3LNIT
+
+Kd] ONCSpH-ABdidOaDL=Piguadojuios ejboob sanpj-sduu
+
+Ls'ses gu
+
+El
+
+1
+
+1989€
+
+Oy 9'HOosad
+
+(NO 0'EL) Na zr'si(vóagvo va) vVENLTV
+
+(D.0F Wo 02) do POL V I-VENLVEIdNIL JO VXIVva
+
+OLIUd'HOD
+
+OINJANTIVTVIHILVIN
+
+OYN / WIS:VOYNINNI / YHIOS JA OLNIINTISAIN
+
+SIBAISSOd SIQÁISOd SVNG NINTONI LHva Nyd
+
+NIS:NYd OIINDOTE
+
+« 09E:NV'd JO VXIva
+
+OWNIXYIN TAN Y 0 30 13AVISNFY ILNIANVONILNOD:NVd ILSvANY NIS:OSIdVHLNOD 3 VTON
+
+WIS :OI3NDOTE INHONI
+
+SyNL VaVd ILNIHA VC OVÍVNIONI 30 . 06 Y « 087075YNNONI IO VXIva ONIXYVIN IAN V 0 30 13AyLSNMV ILNIINYONILNOO “NV LS WAY INHONI (INN 0'CB), ZZ'€ VZNISIA VIVIA ONOTAPOS:OLNIINVIONVTIVS JO OLVEA VEVINVO
+
+OSad aa (OM +) 878'8 HOd OXIS VTIOIN VINN:OSIdVHLNOO JO VXIVA VION WOSIdVALNOO JO VNIISIS
+
+SOIS 9L- .8/8'VOSON / ONLINVIO
+
+9X + VLHOdNSVOHVO Ja Javaldvavo
+
+“adiul 00 vôagvo
+
+Va SVOLS|[HILOVAVOVONNPACIH VÔISVO NOD VHINVO Vevd Jia
+
+141
+
+ve'psISA
+
+ETA
+
+põed
+
+ZE60SL
+
+"SIVOSSAd 3 SIVLIDIA SOIIQSSAIIV “SOMVI “TV LIVIA OIANYV JA HOLIIT !HSVTA “(INN 00€-04 JA S'p/4 “NIN 002-84 3Q S“E/4 WIN SOL JLV 8'Z/4) SIVNOIDIAV SVALLITSO SILNIT E-Z SIVIN “(INN S8-ZL NO ININ 02-81) VAVSOSHODNI VALLIFSO) 31LN37 NOD EIS TVLIDIA VHIINVO VAVA IAVAIDVAVO” “VNDYIGCHPA VAVESVO VV VOLLSYII
+
+3034 NI TVEILVT OSTOS 3 HIAVTd EdiN OHTIAV Vavd OSTOS “LONDBHIOTAITS:LONOS ILVONI JA SVÍTV INONH “YNOY V ILNIISISIA 3 OLSNSOU HOISILXI TVINILVI “Qd 3 VIZHV Y 3LNILSISIA 3 OSOIONITIIS HOSANI NOD OGLLHIANI OHDIA O- VÔNVENDAS JA VEV NOD HOHILXI OLNINILHVEINOD- 'SIQLHVO SONHYA VEVd Javaldvavo) W3L VISQUIN JA OVLHVO VV SOIVIDILNI SOSTOS SO”
+
+'SINOIVA SOIHQSSIO
+
+V W9yA OSSIDV INN ILINHIS ONHILXI 0ST08 O-
+
+“LONOBOTIAHA! LONDS NI SVAVAVAOW ONHOLNOD WOOD SIJAY LHOJNOD ILHOdSNVAL VAVA SVÍTV- “08L JA OSSIDV A SIZAVISNMY SIHOSIAI WOOD “TIAYZITVNOSHAd 3 VAVAVAONTV VIIAVHDOLOA VEIINVO V VaVd IVON OLNINILHVAINOO”| “YvoMT BINDTVNO V HVATT VaVd VLIIHId VNHOL V OLOVAINOD 3 3AIT OULSA O- “SORIQSSIIY SONHVA JA WITV SVAVOITOA v'SL 3Q dO LdVT HOGVINAINOO WN NI VAVINOW VALLIFSO 3LNIT VAN NOD HIS TVNOISSISOA TV.LIDIA VEINVO VIAN AVANVNO ILINHIA OLOVANOD N9ISIA O
+
+'“SORIQSSIO
+
+3 OLNIWNVdINDI OV OdidyH OSSIDY INN NVNOIDHOdO Ad TVEILVT VAVELNI A SOLNIWILVAINOD SO” "SISIN 9 :HOIDINHOA OA VILNVEVO) 940/9'4 (94) OLNAOHA OA OAVWIXONdV "OM OSId WOSLXS'EZXBZ (dXTXV) WO - OLNAOU OQ SVAVWIXONdY SIQSNIWIA VIIAd - 05Z MOVA LSVA - TVNOISSIHO Ad VEIINVO /d VIIHIOW LO-WIDVTIVEWI VA OANILNOD “SOLNIINVAINDA 3 SVHIINVO 3 ILHOdSNVAL "OLIHA :HOD SIAVANTVNOIONNAIISOSHNIIA SONLNO| "HILSAITOd 3 NOTAN TVIRSILVIN/OVÍISOdNOD “VÔNVINDIS JA VAV NOD HORILXAI OLNINILHVAINOO 3 SIQLAVO SONAYA VAVd JAaValdvavo W3L VIRIQNIN JA OVLHVO VAVA SOAVADILNI SOST08 SO 'SIHOIVIA SOHQSSIOV V VAVd ONHILXI 0ST08 SOLNINILHVANOD) "SODIAVHDOLOA SOLNIINVAINDA :SIJALLVAINOO SOLNINVAINDI "SOLNIWVAINDA 3 14S TVLIDIA VNINOVIA ILHOASNVAL VV VIHIOW VII HODATSA VEIINVO VAVd (OVEININ) VSTOS
+
+142
+
+vo'ogs za
+
+OL
+
+ejosed
+
+0€80SL
+
+WOOULHIM BOLVELSNTI
+
+'dOHSOLOHd 'SLd3443 Ha LAv Odd IJHaINIdd :3L0DVA OQ SVNVHDOUA SMOGQNIM
+
+VINHOAVIVIA NI OYÔVIVISNI VEVd (HORIANS NO) ZLOZ ANOTO) JALLVIHO IJ80AV(SONY £) DO J80dV 3L0DVd JHVMLIOS Jd VÔNIIN]
+
+EL
+
+vo'oss'zsa
+
+6L
+
+ejooed
+
+0€80SL
+
+NOISIANI "NOOULHOIM HOLVELSNTI
+
+“dOHSOLOHd 'SLD344I HaLAV 'OHd IHaINIHd :3L0DVA OQ SVNVEHDO UA HSOLNIOVIN
+
+VINHOAV IVA NI OVÔVIVISNI VAVd (HORIANS NO) ZLOZ ANOTO) JALLVIHO J80AV(SONY £) 29 380dV 3L09Vd JHVMLIOS JA VÔNIDN
+
+Tl
+
+so'09/$4
+
+sz
+
+eõed
+
+LVEOSL
+
+€ SN VIHOd XL 81 Z:OLNINVNIZVNAVILYLHOd SP (EESN) ONHILXI OGIDJA ODSIA
+
+LL
+
+00'0€y LISA
+
+oL
+
+uy
+
+L6LB6
+
+J7OAIS
+
+Ov “QS OVLHVO IG HOLIIT "HOIHIANS NO OL SMOANIM TYNOIDVEIdO VWALSIS "ODILQ ISNOW '080LX0Z6L SVAVOITOS SL HOLINOI 'L'S NOS 3a VOVId “INQH 3 €ESN OYXINOD 'SHCA EDP NOD OIGIA “NV 49 'gL
+
+9 H “go ZLS ASS GH 'SIN9L 3HIVO NOD 21 HOdVSSIDOHdIA HOOSILONI
+
+oL
+
+O9'LEG ELSA
+
+st
+
+8EE99
+
+VELOL SO OVA “TYNOIDVAIdO VINILSIS
+
+VHOHISLLVM S'66 “(OLL JA OHINNOS) VNHI INI VRIILVA
+
+VHIdSI 3Q OCOW WA SVIG 0€|
+
+ALV/OIA WIS 3034 NI OVÔVOIAVN JO SVHOH 6 ILV :VIDHINA à VISILVA "OYSSIAd JA SIHOSNIS
+
+3 HOSANI OQ OSIDIAA ITONLNOD VV HINOL IJIHOS AVANOVAL| (3LNIISINV ZN7 3Q HOSNAS 3 — OGILHIANI «L, JA OVÍISOdSIA
+
+— OVôaINIA JA SVIDAL + 3 OVÔNNA 3d SVIDIL ZL OGNINTONI)
+
+svioaL (osi) 62 no (vna) 82 :oviava OQVNINNTIONLIS OAVTIDAL| O3H3LSI :SILNVIVA-OLTV JO VNIISIS
+
+0'+:HLOOJINTE
+
+(N/9/g/VLL'Z08 J3AI NOD T3AILVAINOD) OVLL'ZOS “(I4-IM) OlS NAS 3034 (ZH vz V O9LZ X 960b 3A OVÔNIOSIA
+
+VV ILHOANS/ZH 0€ V 09LZ X 0b8E JA OVÔNIOSIA VAVd ILHOdANS/ZH 09 3LV V dOBOL JA OVÔNIOSIA VEVA ILHOANS) INQH VLHOd X L
+
+OXAS OVLHVO VEVd LOTS XL
+
+SINOJONIIW X Z|
+
+(VIIOQIVNVNV.LIDIA) OIANY IA VAIVS NOD)
+
+JAVANISILVANOD/OCIANO JA SINOS VEVd WIN S'£ Zd :OIANY 3a VAlVS X | (Sdg9 S 3LV 30) £ SN VIHOd XZ
+
+LHOJAVIASIA ININÁSAIO 0Z 3LV 30) Z LIOSHIANNHL VIHO XZ
+
+dOZZ IG GH INOVA VEIINVO X L
+
+SIH09 3d
+
+SIQHTIA NOD SVaINV 'SVNHILXI SVIIL SVNG JLV Wa STIXId 09LZ X 0y8£| 3LV 3 HOCVINdINOD 0Q VIAL VN VALLVN OVÔNIOSIA Y OINYLINWIS) ILHOANS :SVIIL SVNG JA OCOW 3 OJCIA JA OLNINVHTIIdSI SIIHAVEO OHd SIHI TILNI :OIG]A 3 SODIAVEO NOD 3JAVANISLLVANOD (OaVEDILNI 3IOd NOD 89 957 3Q SS) 89 997 :OLNIWVNIZVINHV| (ZHIN 0094 NOD 89 94 3d TEHAA VAVEDILNI VIRIQWNIWN) S99L :VRIQWIIN OCVHTILLHVAINOD €7 3H9VO 3 SIN 9 NOD
+
+(ZHO 4'€ ILV 3Q LSOOS OBYNL) ZHO Z'Z 3 3409 AVNO 21 3409 TI1NI ZHO 7 :HOdVSSIDO Rd
+
+1:006 :JLSVELNOD 3 OVÍHOdO Hd
+
+g9HS :OVEQVA
+
+S.LIN 00€ “OHIO
+
+0b9 X PZOL “008 X 08ZL
+
+“OS0L X 0891 “0021 X 0Z6L :SIZAILVAINOO SVAVNOISNIWIA SIQÍNIOSIA (saH0D JA SIQHTIA V ILHOANS
+
+3 VAVOITOd HOd STIXId 0ZZ NOD) 0081 X 088Z :VALLVN OVôNIOSIA Sdl VIDO1ONDIL INOD “037 HOd VOVNIANTIONLIA
+
+(TIVNODVIA VN) SVAVOITOd +'SL :VIIL NOOBILON HOAVINdINOD)
+
+143
+
+AVUIg6DI MOUPIAZEAL=PiguadouioSa]
+
+se 9vesa
+
+oL
+
+Wa
+
+62905L
+
+SVQV9ITOd 8/L JA INHINO 033FLSI
+
+“JINNMOA 34 IJTOHLNOD ON OYSIDIHA VHVd ODIDQTVNV INOJOHIIIN aa OHNV9 “TIAINOdSIA OIANY 3a OvÓIda 'ZHX 96/LIS PZ NI HVINT Wod NI AVM SIQÍVAVIO 'SIVNVO + 3 Z NI ANNOHANS NOS '03H31SI (SIN) JAIS-CIIA :OVôVAVEO JA SOCON + “006 NI AX SIHOAVSNIANOD SINOJOHDIIN JAIS-CIN O3H31SI HOAVAVHDOIANV IA HOAVAVHO)
+
+8L
+
+EE'GLL' TS
+
+cl
+
+pôed
+
+SZcosL
+
+AOZZ 3LV AOLL OVÍVININITV|
+
+\*097vd 3a HOLINON ONOD HVSN VaVd “TVAIOZIdVAL ILINISVO 'VSNIdSNS OVÓVIVISNI VEVd SIN SOLNOd 3 TviSIdId VIVA IXIVONI “VXIVO VLNO NI HVLIINOOD VAVA NHHL HTX SINO LDINOO VOVIONVIVISIAVAVIINVIVE quY/LHTX OSINOOD INVVOIIA VOVELNI “Da à ASVA AQ OLNIINVHNNV “OdNIL 3Q VIINQELITA OVÕIHHOD) “ATVA-ZLIMMINI HAYZ OSIDIHA ODINQUILITI HIAOSSONO) “VIONFLSISIN VLTV IA 3AIT ONITUdONdITOA JA ILINIAVO
+
+(ZHABL V ZHSS “GA €-) VIDNINDIAA JA VISOdSIA
+
+“svaN9Y SvIONaNDIHA
+
+Sv VaVd OINYLIL JA VINOVAAVIO uZ'L OYSSIHAINOD JA IARA | “SIAVHO SVIONINDIHA SV VEVA JINVITV ODNOT JO «ill HIAOOM | 'SOaNDY SO VaVd S/V ISSVTO MOOL HOQVIIANdINV|
+
+“SINVHO SO VAVd G-ISSVTO AHIAODIA LSVA MOOE HOQVIIANTAINV| “SLLVM 00% “TV LOL VIDNILOd
+
+"SVIA Z VAVOIAINdINVHS VOLLSNOV
+
+VXIVOTVLSIdAd NOD SVAVOIANdINV IA VAILV VOLLSNIY NOS VXIVO)
+
+2
+
+66'496'92SA
+
+eãed
+
+529054
+
+AOZZ OVÍVININITV|
+
+VOA 3 IINQH :SVWINIA SIQXINOO
+
+SIH0D 3Q OYHTIS | 3LV :H0D 3a OVÔNdO da
+
+\| : 000'05 :3LSVELNOD JA OVZVA
+
+(093) SH 000'% / (IVINHON)SH 000'€ :VAVdNYT VA OvôvVEnNa 3HN M 00% :VAVdINYT IA Odil
+
+O8OL X 0264 VININIIA VAILLVN OVÔNIOSIN
+
+SNINNT 005'9 :VONVHS ZM JA VAIVS - OONVHS 3a OHTIHS SNIWNT 005'9 “OD JA ZN7 34 VAIVS - “OD JA OHTIAS 97€ VIDOTONDIL :OyÔIrOdd JA VWIISIS|
+
+HOLIFOUd OQ VOIA|DIdSI 3LNIT HINTONIAH VIGINLINA HO LION
+
+9
+
+9UIZNUOldiZSUXZPgOAL=PiduedojuioS'a]
+
+sr'przcsa
+
+eôed
+
+529051
+
+HACQH VOVELNI JA OYXINOOD “LTOAIS “HONJIANS NO SNIINNT 00Z2'YSNIWNT 002" AH VIGJNILININ HOLIFOHA
+
+SL
+
+cs'ssesa
+
+se
+
+OZLy
+
+SVaV9ITOd SL MOOSILON VAVd TIAVINHaIdNIVAVOHOIT109Y WTIHION
+
+PL
+
+144
+
+LV'geg L$A
+
+Al
+
+W
+
+622€p
+
+"OVÍVIINNIOD VEVd SN OgVO 'OLNINVdINDI
+
+OQ OLNIINVNOIONNA O VAVd ILNIIDIANS 'OTICON O INHOANOD)
+
+“YHIId NO VRIILVE “OZ IA VRIQINIW JA OVLHVO :OLNINVAINOI
+
+O HVHNVdINODY NINJA "OVHAVA OdlL OQ SIdIHL JA OVÔVIVISNI
+
+V vVaVd 'ISVE VNS NI HOLDINOO “HONRIANI OLNINVEVOV 3d
+
+VENVEII OVSOHHOO 3 SODSIN V ILNILSISIA VOLLVLSOULITI VENANIA W3 OFOLSI 0d OLNIINVEVOV VHTId NO VISILVS VIA OVÔVININITV “OVÔVAVEO JA OY LOS 0 OLNINVNOIDV JA OLNINOW OQ SILNV OIANY Ja SOINNDAS Z JLV OQVAVHO VTIS IND OQNILINHId "OLNINVNOIDY| “Jud OVÍVAVEO JA OSHNIIA 'OVÔNAORd JA IAVAIDOTIA
+
+VAVISAMV Vavd VSA JA OSENIIA ANN 3 03HILS HINATA OLIIII HINSSOd JAJA HOAVAVHO O ISIQÔNNA SIVAIONIHA SV VV SODIS]A SIQLOS SO HINSSOd 3AJA “IT VIAL “Id NO DVIN NOD OVÍVIINNNOD VaVd 0'7 SN VLHOd “DHAS 3 AS VIHQNIWN 3d OY LEVO vavd
+
+VOVELNI “NINS'€ OVHCVA OIANYV IA VAIVS “OLNINVAINDI ON OAVHDILNI WOS Ja VXIVO :ZHX96 JLV 3 VXVL VIAN NI OVÔVAVEO ILINHId “EdiN JAVM NI OVÔVAVEO “ub/L 3 HTX SVLHOd NI SONHILXI SINO JOHOIIN VAVd SVAVELNA Z HINSSOd JAIA “A NO X NI OVÔVAVIO HLLINHAIA N3AIA SINOJOHODIN SO “SIIAYISNMY SIHOAVSNIANOD SOGILNANI SINOAONOIN Z HINSSOd JAIA “SVISId y IA TVLIDIA HOAVAVHO “MLYLHOd 3 OLIVAINOD NOISIA 'SVISId p JA ULYLHOd TYLIDIA HOCVAVEO :SIHVLNIINITAINOO SIQÍVINHOANI HOIVEAVTd/ TV LIDIA OVÍVAVEO “A 0S'L VIHILVA “YNHILNI VISQNIIN “ULYLHOd
+
+“NOS Jd HOLNAOUdIA 3 HOCVAVHDHTX Z OIANV JA HOdVAVEO
+
+6L
+
+145
+
+06'2z2'cga
+
+eõed
+
+ceovy
+
+(E-OHDIA SN VIA) AO'S Da/(9EM)
+
+SVYNIIVOTY VV SVHld SVNA NOD) A 0'€ JA DO :VIDHAINI JA SOLISINDIS 97:0VÍVZITYNSIA
+
+ZHX 89/'ZE /ZHA Z8E'ZE /ZHA ZE :OLOTd WOL JG TVNIS|
+
+SIN SE'0 XOUdY :OIANY IA OSVALV
+
+(v viva OdVEIANOd “OWIXVIN OIASIA) 9096 :OAINHMVNIS OvôVIIA (SIVINHON) ZHX 8L V ZH £Z :VIDNINDIAA JA VISOdSIA
+
+JNOAOH9IN 3a VAVALN (ga
+
+£ 3Q SvdVl3 Wa) 8a LZ V SA 001aNY JA HOdVNNILV OA ILSNFV 3a VXIVA naa ++ :vHNI(gA 0 34 HOdYNNILV|
+
+OG T3AIN ON) AGA 09- :D1N VIONTHIAIA JA VAVALNA JA T3AN
+
+A 8P+ :EOd-XLN VINSVINVA OVÓVININNY VA OYSNAL|
+
+(VIINTA) OLL-E-HTX :EOd-X LN VAVELNI 3A HOLDINOD)
+
+J€a :OYSSIN 3G Odll|
+
+TVHDILNI Odll :VNILNV JA OdlL
+
+TVISIHO HOd OAVIONLNOD TId HOQVZILILNIS :HOQVIIOSO JA Odll| :VAVWOL JA HOSSINSNVAL|
+
+(E-0HDIN ESA VIA) AO'S Da/((947)
+
+SVNITVOTV VV SVH'ld SYNC WOD) A 0'€ JA 99 :VIDHINI IA SOLISINDIA 97:0VÔVZITYNSIA
+
+ZHX 89/'Z€ /ZHM Z8E'ZE /ZHA ZE :OLOTId WOL JA TVNIS
+
+SIN SE'0 XONdY :OIANYV JA OSVELV
+
+(v vavd OCVEHIANOd 'OWIXVIN OIASIO) 8096 :OAINHNMVNIS OVÔVIIA ZHM 8L V ZH £Z OYSSINSNVAL :VIDNINOIAA 3 VISOdSIA
+
+INOJONDIN 3Q VAVELNA :(9A E)
+
+aa Svdvi3 W3) 8a LZ v 8a O :OlaNy 3a HOdVNNILV OQ 3LSNFv Ia vXIvA Naa ++ :VHNII(SA 0 30 HOdYNNILV|
+
+OC T3AIN ON) ASA 09- :DN VIDNTFHIAIA IA VOVELNI IA TIAIN
+
+SOTQd £ JA OIINDOTE JA INONTAINIA :VAVALNI 3Q HOLDINOO TVNOIDIHICINHO :IQVOIALLIHIA
+
+OLJ4LITI JA HOAVSNIANOD :VINSdYD OdlL
+
+3€a :OYSSIINI 3Q OdlL
+
+v/L 3a VONO 3d OLNINRIdINOO 3 OlS VNILNV 3Q Odll
+
+VISIO HOd OCVIOHLNOOD Td HOCVZILILNIS HOGVIIISO JQ OdlL :OLNID JO HOSSINSNVAL
+
+do LEL+ MV] do by -/D. 95+ V Do OZ - :ILHOdSNVEL/OLNINVNIZVINHV IO VENLVAIANIL AsZZl V doZ€/9.05 V 9.071 :1VNOIDVAIdO VENLVEIANAL!
+
+D.9Z V SVNITVOTV VV
+
+SvHld SV NOD SVHOH SIIS 'XOUdV VINILVE VA OVÔVEIdO JA OdWNIL (-OHDIN ESA VIA) AO'S Da/(9EM)
+
+SVNIIVOTV VV SVHId SVNG NOD) A 0'€ JA DO :VIDHAINA JA SOLISINDIA| 97:0VYÔVZITYNSIA
+
+ZHX 89/'ZE /ZHA ZBE'ZE /ZHA ZE :OLOTId NOL E TVNIS)
+
+WHO9L
+
+Ja VONVO NOD) MIWNOL "XVIN :OCIANO JA SINOA SOA VAJVS 3 T3AIN O3431SI
+
+XOVP-INIA (SvVAVOITOd ZE/S) WIN S'EO :OCIANO JA INOS ad e
+
+gag
+
+aa VdVIa) gazL+ - AAZL-:VOIDQTVNY VA]VS JA 3LSNFV IA OVASILNI (ZHXYSF 3d OIASIA WOD) ASGOS- :VIIDQIVNV VA]VS 3Q TIAIN OaVIONVTIVE OYN 'SOTQd E JA INONTAINIA VOIDQTVNY VAIVS
+
+SW SE'0 "XOHdV :OlaNY Ja OSVALV|
+
+(ZHAL 'AGAO9- 3 VAVALNI) SONIWN NO %6'0 ('H'L) OVÔBOLSIAI
+
+(v vavd OdVHIANOd 'ONIXVIN OIASIA) 9096 :OAINHMVYNIS OyôvIIA (OD1d]L) ZHH8L V ZHEZ :VIDNINDIAA JA VISOdSIA|
+
+y/L 3 VANO 3Q OLNINTIdINOD JQ OlS VNILNV IG Odll|
+
+OSvdSa JA IAVAISHIAIA :OVÔdIDIN IG Odll|
+
+TVISIHO HOd OAVIONLNOD TId HOQVZILILNIS :HOAVTIISO JA Odlll LV LHOd HOLdIDINOIA NAS ViadVT 3INOJONDIN JA TILY LHOd VNILSIS
+
+oz
+
+146
+
+E9'poLSH
+
+Oz
+
+eded
+
+€9/6CL
+
+WIN + 30 VWINIA VIOLIS SONLIIN 02SOHLIIN 0Z INQH OgVO]
+
+ve
+
+PVIreNTVOSIOVOHL=PiguadojuoS"ajBoob'sAup//-sdju
+
+oS'LZL$H
+
+ua
+
+08LEZ
+
+HM 884 HVIN0099 AZ NOVA AHILLVE 0464-dN SVIHILVE Z OdIMONI VINILVE 30 HOdvoINHVO
+
+JIOAIS OVIVININIY 30 3LNOS
+
+OLONIN JTOHLNOD)
+
+VENVHVT ONT
+
+OYIA 3a 3LHOdNS|
+
+D20/(0/64-dN) SVIHILVA X Z :OVôVININNY 30 3LNOS
+
+MOL VININIA VIDNILOS
+
+SVHOH 000'05 :VICIIN TLLN VOIA
+
+SS :VIONYNINM 3Q OINONY
+
+WTOS9+F (SNINNT YSONIANT VIDNILOS
+
+%06 = :HOD JA OVÂNCONdIH JA JOAN]
+
+M00S5-00Z€ :HOD 30 VENLVHIdNIL
+
+S9d009 :dI13a
+
+3OVOLLNVND(IIALLV ANOS HYTINIS NO 0464-dN) VINILVO + 037 HOLITIA
+
+EZ
+
+Lr'pLegA
+
+Se
+
+eãed
+
+9EBS6L
+
+%L'O :QHL
+
+MINDOS -OLNIINYNOIINNA JO VINIXVIA VIONFLOA aa ZOL “ONIXVIN TdS
+
+SINHO F9 “VIONYOIdIAI
+
+ZHAH ST Y ZH 8 VIONINDINA JO VXIvA TVANVINNIHIDINOHdavaIH
+
+ce'osG eta
+
+ua
+
+zEDpp
+
+(HOIVIN NO) SOHIINW € TX OBVO ONOguvo aa vaga - (HOIVIN NO) SOHIIW € NOOS-VAVA “E
+
+OLNINTRÍdINOS ºP NIN9SZ IA INOJONDIIN vavd OHINTAd NOD (NNTIddIZ) OLNIA-VAVd 3 VIdONVH 'OYSNIdSNS "TZ
+
+WIN OZ :ONLINVIO WIA 95Z :OLNINIHANOD)
+
+ASO'L> :VOVOINHVOSAA VINILVS, 30 HOQVOIANI
+
+vVY YHild / (HIMOd NOLNYHd) A t+ A BP :OVÍVININITY VIA +'p (HIMOd WOLNVHd) ONNSNOD JA ILNIHHOD Vd/AW 6L- (vYHld) JOVANIgISNaIS|
+
+V/A LZ- :(HIMOd NOLNVHd) JaVaNIaIsNIS
+
+ga 9Z2L (vHTld) OWIXVIN ds
+
+ga zeL (HIMOd NOLNVHd) OWIXVIA Tds|
+
+(vaga 9L :(vHTld) NI3
+
+(v)ga 5L (4IMOd NOLNVHd) NI3
+
+ZHM 0Z V ZH Ob VIONINDINA JA VXIVA IaIQIauvIHaIANS “HVTOd OVHdVA
+
+TX :Va]VS JA HOLDINOO
+
+“JaIQlauvoHaIdanNs
+
+HOdYSNIQNOO NNOLOHS INOJONOIIN "ENNOLOHS INOJONIIN JO LIA
+
+RA
+
+147
+
+INDAdDLN AMNUZAL=Piiuadojwos'a]
+
+68'L92$H
+
+AR
+
+pôed
+
+EBS0Z
+
+(INS) JA GINOD OgVO -|
+
+(INE) :dIAIS-3TONIS OgVI OA OLNINIIdINOD -
+
+HOQVLAVAV. P/L NOD
+
+INIA ONT 03HI1S SOHLIWIA S'£ OUNO V SOCVHNVE SIHOLOINOD - >MINOOZ :VOVALNI 3Q VINIXVIN VIDNILOd -
+
+M/S L6 IAVANIGISNIS -
+
+\>SINHO SS :VIONVCadINI -|
+
+ZHXSZ - ZHSL VIODNINOIAA 3 VXIVA -|
+
+ODINYNIO 'OLHISV-INAS “NNOHIO OdiL -|
+
+HOdVIdVAV. P/L NOD '03H31SI SINOMAINIA -
+
+WWaldsI 3
+
+VIH VHNI 'OINTOIXO JQ JEAN JHHOD JA %66 NOD TIAVOVISIA ONVO - Savdava OANTIA 3 OHNOD “|
+
+oavHTvIId
+
+3 OQLIN NOS Vavd SOQVILNILVd NOLLONIIVA SILNVIVA-OLTV * VôIaVO VN T3AVISNFV-OLNY -
+
+HOTODNI NOS VaVd ODLLSNIV OVÔVILNIA -
+
+IVENV NNDUIO NOISIA 'OLHIBV-INAIS -TVNOISSISOLA INOHdaVIH
+
+se
+
+148
+
+FLL90%2U2ZMN DATA LH =piguedojwos"a]
+
+0z'z0p LES
+
+um
+
+vizosL
+
+"BNOLAGIS 3 OVÓVIINNNODHILNI
+
+VINVHDO Hd IA OAVAVAIS XIIN NOD OCIANO IG INOA
+
+0a valvs 3d T3AIN 0G INOLNOO "HILSVIN OQ OHNVO JA IJTOHLNOD "ODld 3 13AJN 2 OySIdaIN
+
+“IVNVO HOd OQVAVdIS OHNVO 3Q IJTOHINOD
+
+3a Nav “TYNVO HOd 13AYNOIDITAS OICIA-MOTIOA-OIANV/AO/NO) “SIVNVO JO SHIXIN Z X SVAVALNA OL
+
+OlanNy 3a HIXIN
+
+"SVHNN 9 OLNINVSSIDOUA JA OSVALY)
+
+“BAVMaVH Na vavaIsva “Tvad OdWIL NI HOD JA OSvdSI OA OYSHIANOD
+
+ZHO9 ZHY6'6S a 0S IO80LX 0Z6L 3 7665 '05 '0€'26'6Z 'Sz 'pz '86EZ dOgOL X 0261 3 ZHOS ZHY6'65 dOZZ X 08ZL 'ZHOS 1925 X 0ZZ 'ZHY6'6S I08F X 0ZZ| SIHOAVLNANOD VEVA INQH VAVELNI 3a SIQÔNIOSIA
+
+ANA Z:Z:b) “Oo 3a Odvdsa
+
+SIS OL JA Z:2:P) HO) 3a OySIdIAd
+
+SIS OL JA 2:Z:P) OaIJA IA NIIVALSONV
+
+WyZy a NZ6Z INST ILdINS) 1aS IAVOINHOINOD
+
+v6'6SIOBOL “OSIOBOL
+
+'P6'6SdOBOL 'OSdOBOL '26'6ZAOBOL 'SZAOBOL 'PZAOBOL '86'EZAOBOL v6'6SdOZZ '0SdOZZ
+
+aH OaMIA JO SIQUAVA
+
+6:9L NO E:y Tvd OSISZO '6:9L NO E:p OSLN p6'6SISZS|
+
+as OadjA aa SIQdavd
+
+IaS 3 IINQH OIAJA JA SVAVALNA 8 3 VOIS|d JOVAISILNI NOD GH TYLIDIA| OaIIA 3G ILHOO JA VSINAH TINA HIHOLIMS OIGIA ILHOOD JA VSAIN
+
+9
+
+149
+
+62'zz84
+
+6z
+
+nm
+
+€95/9
+
+SNL TVNDI NO HONIW VISOdSIS IA OdNAL
+
+0'€ SN :OYXINOD)
+
+WIW OZL 3 8ZL JH 1NI OHNVINVL
+
+9004 IND HONIWN :OSId
+
+WIN Z'L V TYNDI NO HONIIN :IONVISIO dIO-LIM
+
+ODILOQ ISNOW “Odil
+
+HOIHIANS NO ZH 0001 :O0VÍVZITYNLV JA VXVL HOIHIANS NO Ida 00ZE :OVÔNIOSIHASN ODILQ ISNOW
+
+Le
+
+9y'0Ly'SLSA
+
+WI
+
+6820SL
+
+(SL10A0FZ-00L) BINEUOjNe eusoju! opSejuou|e op ajuo 4 :OyÔVININITV| By 8'9 :O0VWIXONdV OSId
+
+UU 0OS X UU Og | X UU pyp :VAVINIXOSdY OYSNIWIA
+
+TVIIW aQ ISSVHO
+
+sopesdue|eq 41X :VA|VS JA HOLDINOD)
+
+(ZL/LL OB | steueo) semod wojueyd Agp+ HIMOd NOLNVHd
+
+(g oe | op sieueo) gp 97 :SINOCAVNNILV
+
+gsn
+
+ejuod ep sgABme Sepies 9 / SEPeIuo 9, ZHHZGL / VA-PZ :ISN VIA OVÍVAVEO) (g oe | ep steueo) TVNVO HOd GOUY-L :SIHOSSIHAINOD)
+
+OpIuSAUI UOJBUIJLO SONHO UIOD IHA-A, :SIHOQVIIANTNVIAA
+
+(ogejo opuinjou!) XNy seples p :SVA|VS|
+
+0919]S9 OjuSuBUBQ | + OdNIB Sp sojusweueq p :SOdNHO
+
+“(osJg]sa
+
+\+ + ouou! 8) oeJg]sa sepeus + / (OL X2W) suojoJ!u ap sepegus g :SVAVALNI 9LSIVNVO JA OHIWANSIVNVO 9L TV. LIDIA NOS 3Q VSIN
+
+0€
+
+L9'TOS$A
+
+Al
+
+e5od
+
+0890SL
+
+XI1dna-Mna “NVIDIA “pe *ESN OYXINOD) “VNHILXI '"HOCVINAINODONIII NOS VIVIdYNHILXI NOS 3d VIVTd
+
+6z
+
+00'p6L "PSA
+
+eõed
+
+8L98OL
+
+VNHILXI VISILVO VAVd ILVONI AOZE VA 000€NVIHAON
+
+sz
+
+66'98/$H
+
+wa
+
+065€6L
+
+LTOAIS :OVÔVININITV|
+
+(vVIDHINI
+
+3a VINONOOI HOIVN) OWNNSNOD OXIVE 3 HORIANS ILNIISNVAL VISOdSIA “OAINH NAS OIANV (-A ObZ - 00L) TIA|XITA OVÔVININITY SOGAVIIS SIZAVHIO SITONLNOO 3 NINO9 NOD SODINLHVIOT SHIAVA SvVaVaLNI
+
+“LUINIA WIDTHO O ZISLVIN NOD SINOJ/NOOA ITIONLNOOD JA SVA|VS SvHTHL Z 3Q SVAI|VS 3 SINO 'SOCVEVAIS SITONINOO SIVN ONNO v SOGVHNVE HTX SIHOLOINOD NOD SVAVIONVTIVA SIVIONIHA SVAIVS OJHa1SI SIVNOLLONNALUINA SNENIIA XNV Z
+
+JaVAMISIXITA NOIVA VEVd SVAVEVAIS SVAIVS NOD SOANHDENS Z| SIVNV9 SOGOL Wa b-£ OVÔNNA LIVIILNW 3 SAT dO
+
+"SONHILXI X4 SOALLISOdSIA VV HIava
+
+1SOd | 'OVÍVIO.LINOW VIVA HIQVA JHd | IVNVO HOd SANS XNV Z SVGNVS £ JA SODISSY1903N «SODIN LINE. SIHOCVZITVNDAI (AVOTNMOG VIA) SOLIISI/SOLNINNHLSNI 3Q SNIOONTA
+
+OS! SIVN OLINLVEIO OIANYV JA OyÓIII 3 OVÔVAVEO 3Q JHVMLIOS "HOGVINANOD OV 3LNINVIINIA
+
+HVLOILNOO VEVA VOLLNHNI O3HILSI OIANVIASN 3OVAHIANI 3I1OHLNOO
+
+aa 03713 0V 108 Wn. JAVANTVNOIONNA V NOD SIHOSSIHAINOD P HIMOd NOLNVHd NO9D 9IN 3 XANIX SdNVaItd
+
+"OIANVIgSN 39VAHILNI 3
+
+(Ola W3S) SSININIM OVÕdO 'SIHOSSIHAINOO 3 OIIN 3Q XANIX SdNVIHd WOD SOLNINVHAVA Z/Z SIVNVO 8 30 HIXINSIVNVO 8 “NOS 3d VSIN
+
+PRA
+
+150
+
+LV'oco esa
+
+e5ed
+
+v60EEL
+
+IGN HOAVIOULNOD JA IAVANVNOIONNA HOCVINAINOO VV d SN OYXINOD NOD
+
+Tvdad NOQ)
+
+“va ONVid INN Ja OVSSIHd V VINWIS VIDIL VAVO) SV1OAL 88 NOD TVOISNN OdVTDAL
+
+ODINOULITI ONVIdODRILITA ONVId
+
+00'98L$H
+
+8L
+
+e5ed
+
+8v90Z
+
+OVIN 3Q INOJOSDIN VV IXIVONI NOD T3AYINOIA VANLTV)
+
+T3AyINDaA asva
+
+OlIdd
+
+INO JOIN IO Id LINOSOHIIN IO IdIHL
+
+MOOUJ>T1Z005XS19/=Piguadojuos"ajboob-aaup/-Sápy
+
+L9'sLy' TSH
+
+pSed
+
+822€S€
+
+Los VV SVHTld Z OVÓVINIINNYV VONSIANIM JA HOAVIIANI 037 aaoL 3a ILSNV| o9Tvd aq WOS VaVd ZHX8Y /S.LIa-yZ IA TVLIDIA OIANVOII NIS OVIN IA INOSOSDIN
+
+86'68c L$
+
+e5ed
+
+SECOS!
+
+"ED 9-dE LOS NEM :VIONTHIAIA
+
+3a O13OWN 'ODLYWOLNV 17 OAIS NO T3AYNOIDITAS AOZZ NO AOLL
+
+WI OVôVININIV AILINISVO 0d VEIISVAL ILHVA VN SVIONINOIAA
+
+3 I3NNTOA JA SILSAFV ASVAVIONVIVASIA 3 SVAVIINVIVE
+
+Olany 3a Svava LNI ACI NI OdVITSVA ILINISVO ÁBAZOL IA ONIXVIN 1dS VIONINDIAA VXIVA JA SLLV MBY 3 VIDNINDIAA VTV JA SLIVM ST) SLLVM EZ IG VWINIA VIDNILOd AVCAS NI OQVII HaVA VAVOITOA
+
+\| JC HILLIML 3 SVAVOITTOS 9 IA HISIOM AV ISSVIO À OVÍVIIANAINV| Ja S3LNIQNIdIANI SVIA SVNA NOD AOALLV VIVNOISSISOUA OIANY IA HOLINONW :(V SIN OTJIANS NO SILNITIVAINDI) SVWINIHA SIQÍVIIIDIASI SILNINDAIS SV NOD NOS JA VXIVO(HVA) HOLINOW - NOS JA VxXIvo|
+
+£€
+
+97'969'8L$H
+
+e5ed
+
+8Ec99
+
+"SOIQSSIDV|
+
+3a LX
+
+3 SVAVOITOd SÃLZ JA NY VNILIS VIIL (SINOINLHOS) ONHYNSN OA VIND) 3 (SFTONI CUVOSAIX DIDVIN “Z ISNOW DIOVIN NO 079 SIHAVAD Odd SIal T34NI ÁSLL 3d GH 199%
+
+3a SVNG - ZHIN/98L EHACAT JA 898 4 (ZHOS'E€ ILV 3A 1SOOS OgYNL) ZHOLNE 3Q 3409 AVNO SI 32H09 T3LNI OVNI HOCVLNANOD “V HHAIS SO9OVWI VANVEINVAVO AIIAONI
+
+ASOLOA YILONAIX ASHIGNNN ASIDVA IHVMLIOS * SORIQSSIDV|
+
+3a LX a (SINONLHOA) OrRIYNSN OA VIND 3 (SFTONI) CUVOSAIA
+
+DIOVIA ASVA
+
+VOITOd ZZ IG MS VNILIN VIIL AZ ISNOW DIDVIN AOIAIJA JA VRIQNIN
+
+Ja S9Z NOD 06€WN 6 4 NOIVA QWV ALL IA JAIRHA NOISNA SOB 3a Svna - ZHINZ984 “eua
+
+WVHaS JA 8994 À(ZHOZ A 3 LV IA LSOOS OBANL) ZHO0 JA IH0D avnO) 21 3409 T34NI AOVNI HOCVLNANOO 'NVENDAIS JA OGVO VAVd LOTS (gy-rã HOLDINOD)
+
+1-3SV8000L/00L/0L LINHIHIA 1 ISVOIO (SAIO OL LV) Z ND V'E SN (Sdgo Ob ILV) LTOBHIANNHL LHOdAVTIASIA NO O SIZAILVHNOO (9-8SN) € 1TOSHIANNHL SVLHOd
+
+svyna (z 8SN NO9D SI3ALVdINOD) € ESN SVLHOd OHLVNO 9XAS OVLHVO Vavd LOTS NIN SÃ€ IA OCIANO JA INOS VAVd VOVELNI INOJONDIN O3HI1SI SILNVIVA
+
+\-OLTV JA VWILSIS £ LIOSHIANNHL TV .LIDIA OIGJA 3Q VA |VS 99 49 3d PECA VIRAQNIWN XS VNLLIS VIIL NOD SVAVOITOA ZZ :VTIL OyÔVA 39 BZ 3 21 3409 131NI HOdVSSIDO Ad
+
+Nd9 OV OQVADILNI HO.LINOW NO NI TIV JOG VINAINOO :OVÍNHISIA SVaVOITOd ZZ SI IHOD T31NI - MS VNILIS OVNI HOCVINANOD(SIVNSIA SILHV + NOS 3a OVIVISI) dOLXNSIA HOCVINANOD)
+
+TE
+
+151
+
+BUSTAdOHEaHa/-UllL=PiduadojwoS'a]
+
+00'€00'L$H
+
+OL
+
+un
+
+z06soL
+
+"ONV | IVILNVHVO - :SODVIA 3 SMOQNIM :IAVAMIBILVAINOO - “SN OgVO 3 VLINVO :OSNTIONI - “Sdd £EL :(VLINVO) VENLIIT JA JaVAIDOT -“IdT0PST OVÔNIOSIA - “PZO | :OVSSIHA IG SIZAIN- “WIN SEL X 917] HP VALLV VIHY - “SN :OYXINOO - “(INDOL 3 VIINVO) OYSSIHd V T3AISNAS| VHOCVZINV.LIDIA VSIIN :OdlL - VHOQVZINV.LIDIA VSIINCIOpezIenbip ESeIN
+
+L9'05V L$A
+
+eõed
+
+BLzEL
+
+PV IVIdÇO VAVA TVNIDRIO OA XVIN OHNVINVL J3dOT3ANI 'NI 997 X PBL OALLNDIXI “WIN 9S€ X 9LZ OID]IO “AN 627 X SIT VLHVO NIN 262 X OLZ PV * INN OLZ X 8PL GV TadVd 3a OHNVINVL SvHTOS 001 :VA]VS JA VPIANVS IJAValdvavo WI/9 €9L TIdVd OG VINIXVIA VENLVNVHO SvHTOS OS :VAVELNI JA VPIANVE 3AVAIdVAVO SW 8ZL :VINQNIN %ST - Y0OP :OVÂNCIA 3 OVÔVITA IdQOOZLX00ZL :OYSSINAINI IA VWIXVIN OVÔNIOSIA Wdd 0Z :OYSSIHdWNI 3Q XVIN 3aVAIDOT op WIS :QS OVLHVO NO ESA VIA VIIHIA OYSSIHAWI WIS :SL3T9VL 3 SINOHALHVINS VIA OYSSIAINI 0'Z ESN IS-IM :IAVAIAILLDINOO) T3AINOdSIQNI OSHIA 3 ILNIHS VidÇO) WIS :OSHIA 3 3LNIHA OYSSIAdAI OYN VAIHOTOD OYSSIAINI HaISvT :OVSSIHdII 3A VIDOTONOIL
+
+IdQ00ZLX00ZL JLV IA OYSSIHdAI
+
+DN OYXINOO d Id-IM NOD)
+
+OLNNIN HOd SVNIDYd 0% ILV IA OYSSIAdII
+
+HINNVOS A VIdÇD 'OYSSIHdINI - L INI EhV HISVT VHOSSIHAIAI
+
+05" AxD9egAAgdnHML=PiguadojuioS"a]
+
+6L'LLT'S$A
+
+p5ad
+
+086051
+
+NIDA 'ESN “IGIN :SVAVELNI
+
+OLd XZ :(4 'ONOWN) svalvs|
+
+(03Ha1S3 ININ) Zd :3NOA VAVA VAlVS
+
+SVHNN Z SINILOVAVO 9L A 97 AVTIASIA
+
+6 X AJICOW
+
+GANNOS SHIAITS 3 NOILVINCOW/ANIS HOLid VONVAV TV :SITONLNOD| 6€ 9X SONHO PT :ONLIS IA SIQUAVA JA SIISIAA
+
+EdiN “SAIV 'AVM SOAINOAV :Vd OIANV
+
+(SLIS 94 'ZHX ph) AVM OIANYV IA OANOAV :ITANVS JA OVÍVIHOdNI 91 :SILHVd JA OHINNN
+
+(3aVAIDOTIA Y JAVANISISNAS) ALIDOTIA NOD :SVIDAIL
+
+L9 :SV]DIL JA OHINNNHOCVIONLNOO OdVTDIL
+
+ss'coz$4
+
+9
+
+eõsd
+
+zEoph
+
+SWÓ TOS IVNINON VIINVOIANT—— :ZH 000'SL V 0S :VIDNINDINA 3Q VISOdSIA
+
+“ODIINYNIA (TVNOIO3EICINN) 3ClOIduvO
+
+OQNNA JA SOAINH SO VZININIA 3) gg
+
+IV dIONIH NOS aQ 3LNOS V VIOSI JINHOSINN 3CIOITAVO EVTOA OVECVA 'SIVIOA
+
+VaVd VAVISNMY VIDNINDIHA JA VISOdSIHTVNOIDIHIA INOSONIIIN
+
+ai
+
+o0'poL$A
+
+pad
+
+60L68Z
+
+0d OL VIVLIN 3 OUNOD AVEIIAVIN AOHIIANVA A0YSENIHIA - TVOISNN OLNINNHILSNI “TOd 8 VIVIIN 3 OHNOD| ZE AWBIZAVIN NOHIIANVA NOVSENIHAIA - TVOISNIN OLNINNHLSNIONIIANVA
+
+152
+
+1 Albuquerque, Eliana Cristina Paula Tenório de. Entre o global e o local: rádio e identidades culturais no sul da Bahia / Eliana Cristina Paula Tenório de Albuquerque. – 2014
+
+2 SANTOS, Richard. Branquitude e Televisão a nova (?) África na TV pública. Rio de Janeiro: Editora Gramma, 2018.
+
+3 LEAL, Victor Nunes. Coronelismo, enxada e voto: o município e o regime representativo no Brasil. 7º edição. São Paulo: Companhia das Letras, 2012
+
+4 SANTOS, Richard. NOVION, Jacques de. Audiovisual, Hegemonia e contra Hegemonia
+
+– O caso comparado da TV Pública no Brasil e na Argentina. Revista de Estudos e Pesquisas
+
+sobre as Américas. Vol.11 Nº 3, 2017.272
+
+153

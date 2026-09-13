@@ -1,0 +1,2716 @@
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+                       RESOLUÇÃO Nº 018/2021 – CONEPE
+                                            Aprova o Projeto Pedagógico do Curso Turma
+                                            Fora de Sede de Bacharelado em Jornalismo
+                                            a ser ofertado no Câmpus Avançado de
+                                            Rondonópolis.
+
+                O Presidente do Conselho de Ensino, Pesquisa e Extensão – CONEPE,
+da Universidade do Estado de Mato Grosso “Carlos Alberto Reyes Maldonado” –
+UNEMAT, no uso de suas atribuições legais, considerando Processo nº 459458/2020,
+Parecer nº 038/2020-Ad Referendum do Colegiado de Faculdade, Parecer nº 037/2020-
+Ad Referendum do Colegiado Regional, Parecer nº 006/2021-AGFD/PROEG, Parecer nº
+004/2021-CSE/CONEPE e a decisão do Conselho tomada na 2ª Sessão Ordinária
+realizada nos dias 29 e 30 de junho de 2021,
+
+                 RESOLVE:
+
+              Art. 1º Aprova o Projeto Pedagógico do Curso Turma Fora de Sede de
+Bacharelado em Jornalismo a ser ofertado no Câmpus Avançado de Rondonópolis.
+
+                 Art. 2º O Projeto Pedagógico do Curso Turma Fora de Sede de
+Bacharelado em Jornalismo visa atender a legislação nacional vigente, as Diretrizes
+Curriculares Nacionais e normativas internas da UNEMAT e tem as seguintes
+características:
+                      I. Carga horária total do Curso: 3.278 (três mil, duzentos e setenta e
+oito) horas;
+                      II. Integralização: no mínimo, 8 (oito) semestres e no máximo 12
+(doze) semestres;
+                      III. Período de realização do curso: matutino/noturno;
+                      IV. Forma de ingresso: por meio de SISU e/ou vestibular, com oferta
+de 100 (cem) vagas, sendo 50 vagas no período matutino e 50 vagas no período noturno.
+
+                 Art. 3º O Projeto Pedagógico do Curso consta no Anexo Único desta
+Resolução.
+
+                 Art. 4º Esta Resolução entra em vigor na data de sua assinatura.
+
+                 Art. 5º Revogam-se as disposições em contrário.
+
+               Sala virtual das Sessões do Conselho de Ensino, Pesquisa e Extensão,
+em 29 e 30 de junho de 2021.
+
+
+
+
+                               Prof. Dr. Rodrigo Bruno Zanin
+                                  Presidente do CONEPE
+Resolução nº 018/2021-CONEPE                                                   Página 1 de 46
+                                     ESTADO DE MATO GROSSO
+                           SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                             UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                               “CARLOS ALBERTO REYES MALDONADO”
+                         CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+                                                  ANEXO ÚNICO
+                                   RESOLUÇÃO Nº 018/2021 – CONEPE
+
+         PROJETO POLÍTICO PEDAGÓGICO DO CURSO DE BACHARELADO EM
+                               JORNALISMO
+
+UNIVERSIDADE DO ESTADO DE MATO GROSSO “CARLOS ALBERTO REYES
+MALDONADO”
+REITOR: Professor Doutor Rodrigo Bruno Zanin
+VICE-REITORA: Professora Doutora Nilce Maria da Silva
+PRÓ-REITOR DE ENSINO DE GRADUAÇÃO: Professor Doutor Alexandre Gonçalves Porto
+
+CAMPUS UNIVERSITÁRIO DE ALTO ARAGUAIA
+DIRETOR POLÍTICO-PEDAGÓGICO E FINANCEIRO: Professor Me. Sergio Santos Silva Filho
+Endereço: Rua Santa Rita, 148, Centro- CEP 78780-000. Alto Araguaia-MT
+E-mail: coord-aia@unemat.br
+
+FACULDADE DE LETRAS, CIÊNCIAS SOCIAIS E TECNOLÓGICAS (FALECT)
+DIRETOR: Professor Me. Ubirajara Martin Coelho
+Endereço: Rua Santa Rita, 148, Centro- CEP 78780-000. Alto Araguaia-MT
+E-mail: falect.aia@unemat.br
+
+CAMPUS AVANÇADO DE RONDONÓPOLIS-MT
+Endereço: Escola Estadual Professora Stela Maris Valeriano da Silva, Rua Oito, 92 - Jardim Res.
+Carlos Bezerra, Rondonópolis - MT, 78803-000.
+
+ELABORAÇÃO DO PROJETO 1
+Professor Mestre Rafael Rodrigues Lourenço Marques
+Professor Mestre Éverton Neves dos Santos
+
+AGRADECIMENTOS AOS COLABORADORES
+Jornalista Cayron Henrique Fraga (Dados de mídia locais - Rondonópolis)
+Professor Doutor Milton Chicalé Correia (Assessoria Jurídica)
+Professor Doutor Paulo Cesar Tafarello (Contribuição ementário)
+
+
+
+
+1
+ Adaptado e referenciado do PPC original do curso de Bacharelado em Jornalismo - oferta continua – (UNEMAT 2020), do Câmpus
+Universitário “Eugênio Carlos Stieler” Tangará da Serra, elaborado por docentes do Núcleo Docente Estruturante (NDE) e aprovado
+pela RESOLUÇÃO Nº 001/2020 do Conselho de Pesquisa, Ensino e Extensão – CONEPE, que homologou a Resolução nº 007/2019,
+um ato Ad Referendum da presidência do CONEPE.
+Resolução nº 018/2021-CONEPE                                                                                  Página 2 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+
+                                DADOS GERAIS DO CURSO
+
+
+   Denominação do curso                       Bacharelado em Jornalismo
+   Ano de Criação                             2021
+   Ano de implantação do currículo anterior   -
+   Data de adequação do PPC                   2021
+   Grau oferecido                             Nível Superior
+   Título acadêmico conferido                 Bacharel em Jornalismo
+   Modalidade de ensino                       Turma Fora de Sede – Modular / Presencial
+   Tempo mínimo de integralização             08 semestres ou 4 anos
+                                              Componentes Curriculares: 2880 Horas
+                                              Atividades Complementares: 100 horas
+   Carga horária mínima
+                                              Atividades de Extensão: 298 horas
+                                              TOTAL: 3.278 horas
+   Número de vagas oferecidas                 100
+   Turno de funcionamento                     Matutino/noturno
+   Formas de ingresso                         Vestibular
+                                              Criação      do   Núcleo       Pedagógico    de
+   Atos legais de autorização, reconhecimento Rondonópolis       vinculado     ao    Câmpus
+   e renovação do curso                       Universitário     de    Alto      Araguaia-MT-
+                                              RESOLUÇÃO Nº 033/2017 – CONSUNI
+                                              Escola Estadual Professora Stela Maris
+                                              Valeriano da Silva, Rua Oito, 92 - Jardim
+   Endereço do curso
+                                              Res. Carlos Bezerra, Rondonópolis - MT,
+                                              78803-000
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                        Página 3 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+1 CONCEPÇÃO DO CURSO DE BACHARELADO EM JORNALISMO
+
+1.1 Sobre a Unemat
+
+        A Unemat está presente em 45 dos 141 municípios do estado, garantindo educação
+superior pública de qualidade para, atualmente, 23 mil estudantes. São 190 cursos de graduação,
+sendo 60 de oferta contínua e mais de 129 em modalidades diferenciadas, para atender a
+demandas específicas.
+        Mas, antes de adentrar ao mérito das concepções do Curso do Bacharelado em
+Jornalismo, como foi o itinerário histórico e institucional da Universidade do Estado de Mato
+Grosso “Carlos Alberto Reyes Maldonado” até chegar aos dias atuais?
+        A UNEMAT é iniciada pelo Instituto de Ensino Superior de Cáceres (IESC), com base na
+Lei nº. 703, no dia 20 de Julho de 1978. Após, por meio do Decreto do Governo Federal nº
+89.719/1984, foi autorizado o funcionamento dos cursos ministrados pelo Instituto. Em 1985, com
+a Lei Estadual nº 4.960 de 19 de dezembro o Poder Executivo instituiu a Fundação Centro
+Universitário de Cáceres (FCUC), entidade fundacional, autônoma, vinculada à Secretaria de
+Educação e Cultura do Estado de Mato Grosso, que visava promover a pesquisa, o estudo dos
+diferentes ramos do saber, a divulgação científica, técnica e cultural.
+        Já a Lei Estadual nº 5.495/1989, alterou a Lei nº. 4.960, e, dentre outras necessidades,
+para atender às normas da legislação de Educação, a Fundação Centro Universitário passou a ser
+denominada de Fundação Centro de Ensino Superior de Cáceres (FCESC).
+        No ano de 1992, por meio da Lei Complementar nº 14 de 16 de janeiro, a Fundação Centro
+de Ensino Superior de Cáceres (FCESC) passou a ser denominada de Fundação de Ensino
+Superior de Mato Grosso (FESMAT), cuja estrutura organizacional foi implantada a partir de maio
+de 1993.
+        Ato contínuo, no ano de 1993, por meio da Lei Complementar nº 30, institui-se a
+Universidade do Estado de Mato Grosso (UNEMAT), mantida pela Fundação Universidade do
+Estado de Mato Grosso (FUNEMAT).
+        Do interior para o interior, a UNEMAT avançou pelos espaços socio territoriais por meio de
+uma estrutura multicampi presente em diferentes polos: Sinop, Alta Floresta, Nova Xavantina, Alto
+Araguaia, Pontes e Lacerda, Médio Araguaia, Vale do Teles Pires (Colíder), Barra do Bugres,
+Tangará da Serra, Diamantino e Nova Mutum, tendo Cáceres como Sede Administrativa.
+        Atualmente, a UNEMAT está presente em 108 dos 141 municípios mato-grossenses, com
+13 campi e 16 núcleos pedagógicos. Cerca de quinze mil acadêmicos são atendidos em 82 cursos
+regulares e modalidades diferenciadas oferecidas em todo Estado, com inúmeras espacializações,
+sete (07) mestrados institucionais, três (03) mestrados profissionais, um (01) mestrado multicampi,
+um (01) mestrado interinstitucional, dois (02) doutorados institucionais, dois (02) doutorados
+interinstitucionais, três (03) doutorados acadêmicos em rede e inúmeras especializações.
+        A UNEMAT, por meio de projetos e programas estruturados de acordo com as
+peculiaridades de cada região do estado e seu respectivo público-alvo, desenvolve ações
+pioneiras no âmbito do Ensino Superior no Brasil, dentre essas, destaca-se o Projeto Terceiro
+Grau Indígena, Educação Aberta e a Distância e o Programa de Licenciaturas e Bacharelados
+Tecnólogo Parceladas, que oferta Cursos para a formação de Professores pelo interior do Mato
+Grosso.
+        O Programa de Licenciaturas e Bacharelados Parceladas iniciou suas atividades em 1992,
+exclusivamente na formação de professores, no recém-criado Campus Universitário do Médio
+Araguaia, em Luciara, cidade situada a aproximadamente mil e quinhentos quilômetros da sede
+da Universidade. Grande parte dos professores dessa região, cenário que se repetia em outras,
+era formada pelos chamados “professores leigos”, pois não havia profissionais em número
+suficiente para suprir a demanda.
+        Diante desse desafio, contando com experiências inovadoras no campo da formação de
+professores e o apoio de profissionais de outras universidades do país, o Programa se consolidou
+
+Resolução nº 018/2021-CONEPE                                                        Página 4 de 46
+                                        ESTADO DE MATO GROSSO
+                              SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                                UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                                  “CARLOS ALBERTO REYES MALDONADO”
+                            CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+dentro da UNEMAT, pautando suas atividades, intervenções e projetos, à luz das seguintes
+diretrizes:
+        a) Proporcionar aos egressos do Ensino médio, no interior do estado de Mato Grosso
+(regiões geo-educacionais), o acesso ao Ensino Superior;
+         b) Construir o conhecimento sob uma perspectiva sócio-histórica, solidária, de ação
+conjunta, integrando teoria e prática, concepção e execução;
+        c) Conceber a pesquisa como eixo central dos cursos oferecidos, em torno do qual se
+articulam as várias disciplinas de uma matriz curricular básica, mas não inflexível, assim como
+todas as atividades acadêmicas;
+        d) Promover uma formação profissional calcada em uma relação interativa e reflexiva do
+seu fazer pedagógico, da aquisição, da elaboração e reelaboração do conhecimento e a
+manifestação desse saber por meio da produção científica.
+
+1.2 Acerca de Rondonópolis
+
+       Criada pela Lei estadual nº 666, de 10 de Dezembro de 1953, desmembrada do município
+de Poxoréu, Rondonópolis é um polo de desenvolvimento socioeconômico do Estado de Mato
+Grosso. O município é identificado como a microrregião 21. É localizado na mesorregião
+conhecida como Sudeste Mato-Grossense, a 211 km da capital. (FERREIRA, 1997).
+Rondonópolis é constituída por uma área geográfica de 4.686,622 Km, com uma densidade
+democrática de 47,00 hab/km². Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE),2
+no ano de 2020 a população Rondonopolitana foi estimada em de 236.042 habitantes.
+
+
+
+
+Ilustração 1 Localização geográfica Rondonópolis
+Fonte: https://pt.mapsofworld.com/brasil/estados/mato-grosso.html
+
+
+       Hoje, a cidade de Rondonópolis é a segunda maior economia do Estado de Mato Grosso,
+estando entre as 100 maiores economias do país, com um PIB de quase 7 bilhões de reais.
+Embora uma das bases fortes de sua economia seja a agricultura, a maior parte de sua população
+vive atualmente na zona urbana devido ao intenso êxodo rural proporcionado pela formação das
+grandes fazendas ao redor da cidade. Mesmo que a robustez do agronegócio seja o destaque no
+município, Rondonópolis conta o comércio e a prestação de serviços como base de sua
+economia. A indústria, também ligada ao campo, é composta basicamente por esmagadora de
+soja, cervejaria, indústria têxtil, química e de fertilizantes, defensivos agrícolas, embalagens,
+curtumes e outros.
+       Conforme levantamento realizado junto à profissionais do Jornalismo, Rondonópolis
+atualmente conta com um amplo mercado na área de comunicação. A cidade possui:
+
+
+2
+    Dados disponíveis em: https://www.ibge.gov.br/cidades-e-estados/mt/rondonopolis.html
+Resolução nº 018/2021-CONEPE                                                               Página 5 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+         04 emissoras de TV (Globo, SBT, Record e Band), sendo que a TV Centro América,
+afiliada da Rede Globo, gera conteúdo jornalístico para mais de 30 municípios da região;
+         02 jornais impresso. Sendo um diário e um semanal;
+         07 sites de notícias;
+         07 emissoras de rádio;
+         Gabinete da Secretaria de Comunicação Social da Prefeitura Municipal e
+         Secretaria de comunicação social da câmara municipal.
+        Apesar deste significativo retrato no campo da comunicação e da demanda que se
+apresenta, Rondonópolis não conta com nenhum Curso Superior na área de Comunicação Social
+e existe carência específica de profissionais com formação superior em Jornalismo.
+        Na área da Educação Superior, Rondonópolis conta com 03 Universidades privadas (UNIC
+– com dois Campi -, UNIASSELVI e FASIPE) e 03 Instituições que ofertam Ensino Superior
+(Universidade Federal de Rondonópolis – UFR -, Universidade do Estado de Mato Grosso –
+UNEMAT - e Instituto Federal de Educação, Ciência e Tecnologia do Estado de Mato Grosso -
+IFMT).
+        A Universidade Estadual de Mato Grosso (UNEMAT) iniciou suas atividades no município
+em 20173, com a criação do Núcleo Pedagógico de Rondonópolis, vinculado ao Câmpus de Alto
+Araguaia. Foram ofertadas turmas dos cursos de Bacharelado em Ciências da Computação e
+Licenciatura em Letras (Sendo uma entrada semestral em Alto Araguaia e outra em Rondonópolis,
+alternadamente). Em 2018 o iniciou-se o curso de Direito, como turma única fora-de-sede,
+modalidade Turma Fora de Sede (Turma Especial), vinculada à FALECT de Alto Araguaia. O
+Núcleo Pedagógico de Rondonópolis se tornou Câmpus Avançado4 da UNEMAT em Dezembro
+de 2019, vinculado diretamente à reitoria, ainda que os cursos atuais ainda estejam sob a
+responsabilidade de Alto Araguaia. Atualmente, os cursos ofertados no município funcionam na
+Escola Estadual Professora Stela Maris Valeriano da Silva. A construção da sede do Câmpus
+Avançado de Rondonópolis está em fase de execução.
+        Assim, Rondonópolis atualmente é uma das potências econômicas e políticas do Estado
+de Mato Grosso e está em franco desenvolvimento, o que requer material humano capacitado
+para as mais diversas atividades técnicas e científicas. Na condição de centro de agronegócio e
+com desenvolvimento industrial crescente, Rondonópolis tem o desafio de ampliar,
+significativamente a oferta de Ensino Superior para dar conta desta demanda. O desafio da
+Unemat é justamente atender esta necessidade regional, através do Câmpus Avançado de
+Rondonópolis.
+
+1.3 Histórico do curso de Bacharelado em Jornalismo da Unemat
+
+       O processo de criação de um curso de Jornalismo da UNEMAT de Alto Araguaia, das
+primeiras ideias até a criação legal, durou pouco mais de cinco anos. Em abril de 2001, o Parecer
+492/2001 do CNE/CES recomendou a aprovação da diretriz do curso de comunicação social. Em
+outubro de 2001, o processo de criação passa a constar no Plano Plurianual para o Campus de
+Alto Araguaia - PPA, após reuniões e audiências públicas, até a sua aprovação nos Conselho
+Superiores da Unemat em 2005 (Resolução 022/2005 CONSUNI homologa a resolução 013/2005
+do CONSUNI que cria e autoriza a implantação do curso de graduação com diplomação em
+bacharelado em Comunicação Social com habilitação em Jornalismo do campus universitário de
+Alto Araguaia).
+       Os trabalhos com a primeira turma de Jornalismo começaram em 2006/1. Nos primeiros
+anos, o curso destacou-se por atrair alunos de outras regiões do Estado de Mato Grosso e de
+outros estados da União. Entre os cursos da Unemat, Jornalismo se apresenta como aquele cuja
+
+
+3 Conforme resolução nº 33/2017, CONEPE/UNEMAT, disponível em: http://www.unemat.br/resolucoes/resolucoes
+/consuni/3631_ res_consuni_33_2017.pdf
+4         Conforme          resolução         nº        39/2019,         CONSUNI,  disponível         em:
+http://www.unemat.br/resolucoes/resolucoes/consuni/4317_res_ consuni_ 39_2019.pdf
+Resolução nº 018/2021-CONEPE                                                             Página 6 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+proporção de alunos oriundos de fora da sua região é a mais elevada, oscilando de semestre para
+semestre entre 40% a 50% do total de acadêmicos.
+        Foram também nos primeiros anos de sua existência que o curso passou por pequenas
+adequações em sua matriz, ampliação da sua estrutura laboratorial e acervo bibliográfico e
+ampliação do quadro docente, conseguindo atrair profissionais da área com mais experiência e
+titulação (Resolução 064/2008 – CONEPE aprova a adequação da matriz curricular do curso de
+bacharelado em comunicação social – jornalismo e Resolução 139/2008 do CONEPE homologa a
+resolução 064/2008 que aprova a adequação da matriz curricular).
+        Este período marca também o início da participação dos acadêmicos em eventos como o
+INTERCOM, principalmente com a apresentação de trabalhos e conquista de prêmios. Desde
+então, competindo em duas edições regionais e duas nacionais, os acadêmicos do Curso de
+Jornalismo conseguiram obter 34 prêmios regionais – dois em 2009, dois em 2010, seis em 2011,
+oito em 2012, doze em 2013 e quatro em 2014 – e dois prêmios nacionais (2011 e 2013).
+        Em outubro de 2009, o Conselho Estadual de Educação constituiu comissão de
+reconhecimento do curso de Jornalismo que, depois da visita in loco, na qual se observou as
+limitações e as deficiências que deveriam ser sanadas, encaminhou-se processo sugerindo “[...]
+que o referido curso seja RECONHECIDO no período de 02 (dois) anos, tempo necessário para
+que a UNEMAT atenda às recomendações” da comissão.
+        As limitações observadas pela Comissão referiam-se, principalmente, quanto ao perfil
+profissional, projeto político pedagógico, organização curricular, funcionamento e gestão do curso
+e corpo docente.
+        Com este relatório e a sua aprovação no Conselho Estadual de Educação, o curso foi
+reconhecido pela Portaria nº 015/10-CEE/MT, Parecer 014/2010-CETS-CEEMT de 27 de fevereiro
+de 2010, que reconhece o curso de Comunicação Social com Habilitação de Jornalismo da
+Universidade Estadual de Mato Grosso, publicada no Diário Oficial do estado de Mato Grosso, no
+dia 10 de março de 2010 por três anos (Anexos 4).
+        A partir do reconhecimento do curso, as coordenações do Curso de Jornalismo voltaram-
+se ao aperfeiçoamento do curso, principalmente procurando sanar as deficiências e limitações
+observadas pela Comissão de Verificação.
+        Quanto ao corpo docente, um concurso público realizado em 2013 possibilitou a efetivação
+do corpo docente, que atualmente conta com quatro professores doutores, onze mestres e um
+especialista.
+        Seguindo as recomendações Normatização 054/2011 do CONEPE, em 2011 formou-se o
+Núcleo Docente Estruturante (NDE) com a incumbência de reformular a matriz curricular e o
+Projeto Pedagógico do Curso. Este núcleo se reuniu entre maio e novembro de 2011 e apresentou
+ao Coletivo de Professores e à Coordenação do Curso um relatório sugerindo alterações na matriz
+e no PPC. Este documento, que se constitui como relatório de atividades do núcleo e como uma
+proposta de reformulação, foi construída a partir de várias reuniões em que o Projeto Político
+Pedagógico do curso foi discutido, revisado e atualizado até ser aprovado em Novembro de 2011,
+em reunião com o coletivo de professores. O passo seguinte foi encaminhar o documento para
+aprovação no Colegiado do Curso de Jornalismo, ad referendum número 06/2012CS. (Anexo 5 e
+6)
+        O Projeto Pedagógico aprovado em novembro 2011 foi encaminhado para a Pró- reitoria
+de Ensino e Graduação (PROEG) e ao Instituto de Linguagem (IL), que repassaram para a
+consultoria externa, a cargo do Prof. Dr. Benedito Dielcio Moreira. Em fevereiro de 2012, reuniu-se
+o Núcleo Docente Estruturante, Instituto de Linguagem, PROEG e consultoria externa, onde foram
+feitas várias sugestões de alteração do PPC/2011. Estas sugestões foram discutidas no Coletivo
+de Professores do Curso de Comunicação e o Projeto Pedagógico passou por uma nova rodada
+de discussão e reformulação. Em maio de 2012, todas as alterações e sugestões consensuais
+foram sistematizadas pelo NDE, onde foi finalizado e encaminhado para apreciação do Colegiado
+do Curso de Comunicação.
+        Em 2013, o MEC homologou as novas Diretrizes Curriculares Nacionais para os cursos de
+graduação em Jornalismo e, então, este projeto foi adequado às alterações vigentes na nova
+
+Resolução nº 018/2021-CONEPE                                                        Página 7 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+legislação. As Diretrizes são integrantes do Parecer CNE 39/2013, publicado do D.O.U. em 12 de
+setembro de 2013. Tal parecer homologa, inclusive, a mudança do nome do curso, que não mais
+integra uma habilitação da Comunicação Social, mas se consolida como um curso de Bacharelado
+em Jornalismo.
+        Em 2014 a Unemat iniciou tratativas para sua entrada em Rondonópolis, 150 vagas
+divididas em três cursos: Jornalismo, Direito e Letras, na modalidade Turma Fora de Sede (turma
+especial), mas o vestibular, por questões jurídicas foi cancelado no dia em que seriam realizadas
+as provas. O curso de Jornalismo era um dos mais esperados pela população.
+        Em 2015 o curso de Jornalismo passou por um grave problema de baixa demanda de
+alunos e aventou-se a possibilidade de um processo de migração para outro município cuja
+demanda de alunos fosse mais atrativa e o mercado de comunicação mais amplo. As
+possibilidades de mudança eram para Rondonópolis ou Tangará da Serra. Após levantamento de
+dados e considerando a estrutura de um câmpus já consolidado, a segunda opção foi a escolhida.
+Assim, em 2016 iniciou-se um processo de migração para o Câmpus Universitário de Tangará da
+Serra. O Curso de Jornalismo teve autorização para sua migração de Alto Araguaia pela
+Resolução nº 038/2016-CONSUNI e sua primeira turma iniciou os trabalhos em 2017.
+        Paralelamente à este processo de migração do curso de Jornalismo, 2017 foi criado o
+Núcleo Pedagógico de Rondonópolis vinculado ao Câmpus de Alto Araguaia, com dois objetivos
+principais: resolver o problema de demanda discente dos demais cursos que ficaram em Alto
+Araguaia (Letras e Ciências da Computação) com uma a lógica de oferta alternada
+semestralmente entre as duas cidades, o que fez com que a Unemat se estabelecesse em
+Rondonópolis. E assim o fez, ofertando cursos na modalidade Turmas Especiais. Em 2019 o
+Núcleo Pedagógico tornou-se Câmpus Avançado, dada a sua consolidação. Ainda assim, o curso
+de Jornalismo ainda era anseio da população e das forças políticas de Rondonópolis. Desta
+forma, em 2020, o documento que aqui se apresenta – que se fundamenta no PPC do Curso de
+Jornalismo do câmpus de Tangará da Serra - é resultado de muito diálogo acadêmico
+interinstitucional e das somas da vontade cidadã de Rondonópolis com o compromisso da Unemat
+de levar a construção do conhecimento a todos os cantos do Mato Grosso.
+         A última turma do curso de Bacharelado em Jornalismo no câmpus de Alto Araguaia,
+findou em janeiro de 2021, atrasado seis meses por conta da Pandemia de COVID-19. Mas em
+essência, seu legado continuará a atender a região, agora na forma da turma ofertada na
+modalidade Turma Fora de Sede (Turma Especial) no câmpus Avançado de Rondonópolis.
+
+1.4 Atos jurídico-administrativos do curso de Bacharelado em Jornalismo (turma regular)
+
+        O processo de migração deflagrado no ano de 2016 tem sua gênese no campus
+Universitário de Alto Araguaia, local onde originou-se o Curso, criado e autorizado pela Resolução
+022/2005/CONSUNI que homologa a Resolução nº 013/2005/CONSUNI AD REFERENDUM, sob
+a nomenclatura de curso de graduação em bacharelado em Comunicação Social com habilitação
+em Jornalismo. Nos primeiros anos, o curso destacou-se por atrair alunos de outras regiões do
+Estado de Mato Grosso e de outros estados da União. Entre os cursos da Unemat, Jornalismo se
+apresenta como aquele cuja proporção de alunos oriundos de fora da sua região é a mais
+elevada, oscilando de semestre para semestre entre 40% a 50% do total de acadêmicos.
+        Foram também nos primeiros anos de sua existência que o curso passou por pequenas
+adequações em sua matriz, ampliação da sua estrutura laboratorial e acervo bibliográfico e
+ampliação do quadro docente, conseguindo atrair profissionais da área com mais experiência e
+titulação (Resolução nº 064/2008 – CONEPE aprova a adequação da matriz curricular do curso de
+Bacharelado em Comunicação Social – Jornalismo e Resolução nº 139/2008 do CONEPE
+homologa a referida Resolução.
+        Este período marca também o início da participação dos acadêmicos em eventos como o
+INTERCOM, principalmente com a apresentação de trabalhos e conquista de prêmios. Desde
+então, competindo em duas edições regionais e duas nacionais, os acadêmicos do Curso
+conseguiram obter 58 prêmios regionais – dois em 2009, dois em 2010, seis em 2011, oito em
+
+Resolução nº 018/2021-CONEPE                                                       Página 8 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+2012, doze em 2013 e quatro em 2014, cinco em 2015, 10 em 2016, oito em 2017, três em 2018 –
+e cinco prêmios nacionais (2011, 2012, 2013, 2014, 2015 e 2016).
+        Em fevereiro de 2010, o Conselho Estadual de Educação, pela Portaria nº 015/10-CEE/MT
+e Parecer nº 014/2010-CETS-CEEMT, reconhece o curso de Comunicação Social com Habilitação
+de Jornalismo da Universidade Estadual de Mato Grosso por três anos. A portaria nº 029/2012
+GAB/CEE/MT de 19/09/2012 prorroga o seu reconhecimento por um ano, a partir da data de
+vencimento de 10/03/2013 a 09/03/2014.
+        A partir do reconhecimento do curso, as coordenações do Curso voltaram-se ao seu
+aperfeiçoamento, principalmente procurando sanar as deficiências e limitações observadas pela
+Comissão de Verificação. Quanto ao corpo docente, um concurso público realizado em 2013
+possibilitou sua efetivação, que atualmente conta com dois professores doutores e nove mestres,
+sendo que todos estão em processo de doutoramento.
+        No ano de 2013, são instituídas as Diretrizes Curriculares Nacionais (DCN) para os cursos
+de graduação em Jornalismo pela Resolução 01/2013-CNE/CES, a partir do que consta do
+Parecer CNE/CES no 39/2013, homologado Ministério da Educação, publicado no DOU de
+12/9/2013. O atendimento às DCN foi imediato, visto que a Unemat estava em processo de
+atualização das matrizes curriculares dos cursos de graduação, resultando em sua aprovação
+pela Resolução nº 054/2013 – CONEPE, a ser executado no Campus Universitário Alto Araguaia.
+        Apesar do Parecer Ad Referendum nº 06/2012/CS ter aprovado todas as alterações, a
+nomenclatura oficial de Bacharelado em Jornalismo só passou a vigorar com a Resolução nº
+027/2016 - CONEPE.
+        Em 2014, o curso passa por um novo processo de reconhecimento. O curso foi
+reconhecido por três anos pela Portaria nº 030/GAB/CEE-MT, de 05/08/2013, sendo prorrogada
+pela portaria 20/GAB/CEE-MT, de 18/04/2017, com vigência até 05/09/2017.
+        Os atos normativos do Curso de Bacharelado em Jornalismo no Câmpus de Tangará da
+Serra iniciam-se com a migração do curso do Câmpus de Alto Araguaia, autorizado pela
+Resolução nº 038/2016-CONSUNI, em sessão de 08, 09 e 10 de novembro de 2016. Após o
+estudo realizado pela Comissão de Transição do Curso de Jornalismo para o Campus de Tangará
+da Serra (Portaria nº 626/2016), foi aprovada no CONSUNI (Resolução nº 038/2016) a migração
+do curso de Bacharelado em Jornalismo Campus Universitário de Alto Araguaia para o Campus
+Universitário de Tangará da Serra. A partir do semestre 2017/2 o curso passa a vincular-se à
+Faculdade de Ciências Sociais Aplicadas e da Linguagem do Câmpus Universitário de Tangará da
+Serra, resguardando o direito dos discentes que ingressaram nos semestres anteriores a 2017/2
+de concluírem o curso no Câmpus Universitário de Alto Araguaia.
+        Em novembro de 2016, o CONSUNI, considerando o artigo 17, XVIII do Estatuto
+(Resolução nº 002/2012-CONCUR), a Portaria nº 626/2016, o Processo nº 279407/2016, o
+Parecer nº 031/2016-Colegiado de Curso/Jornalismo, o Parecer nº 017/2016-Colegiado da
+Faculdade Letras, Ciências Sociais e Tecnológicas/Alto Araguaia, o Parecer nº 093/2016-
+Colegiado Regional/Tangará da Serra, o Ofício nº 125/2016-JOR, o Parecer nº 026/2016-
+Colegiado Regional/Alto Araguaia e a decisão do Conselho tomada na 2ª Sessão Ordinária
+realizada nos dias 08, 09 e 10 de novembro de 2016, aprova a migração do Curso de Bacharelado
+em Jornalismo – Câmpus Universitário de Alto Araguaia para o Câmpus Universitário de Tangará
+da Serra. Dessa forma, no semestre de 2017/2, o curso de Bacharelado em Jornalismo inicia a
+primeira turma na nova localidade.
+        Implementado a partir de 2017/2 com o então projeto do curso localizado em Alto
+Araguaia, o Projeto Pedagógico do Curso (PPC) em Tangará da Serra foi aprovado pela
+Resolução nº 007/2019-AD REFERENDUM DO CONEPE, de 04/11/2019, e homologada pela
+Resolução 001/2020-CONEPE, de 29, 30/06, 02 e 03/07/2020. Foi elaborado e encaminhado o
+Processo de Reconhecimento de Curso ao Conselho Estadual de Educação (CEE-MT), em 2019.
+Agora, o presente PPC, que diz respeito à turma oferecida na modalidade Turma Fora de Sede
+(Turma Especial), foi elaborado e encaminhado para tramitação nos órgãos competentes.
+
+
+
+Resolução nº 018/2021-CONEPE                                                       Página 9 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+1.5 Fundamentação legal do Projeto Pedagógico de Curso
+
+       O Projeto Político Pedagógico (PPC) que aqui se apresenta, de turma única, modalidade
+Turma Fora de Sede (Turma Especial), se sedimenta no PPC do curso de oferta contínua de
+Bacharelado em Jornalismo da UNEMAT, sediado no câmpus Câmpus Universitário de Tangará
+da Serra “Eugênio Carlos Stieler”. (UNEMAT, 2020). Tal Projeto foi aprovado pela RESOLUÇÃO
+Nº 001/2020 do Conselho de Pesquisa, Ensino e Extensão – CONEPE-, que homologou a
+Resolução nº 007/2019, um ato Ad Referendum da presidência do CONEPE.
+       Sendo assim, a organização da estrutura acadêmica do Curso é constituída em
+consonância ao que prescreve a legislação vigente proveniente do CNE/CES/MEC em Leis,
+Decretos, Portarias, Resoluções e Diretrizes; assim como nas resoluções e documentos da
+Universidade do Estado de Mato Grosso e do Conselho Estadual de Educação de Mato Grosso,
+que a orientam, tais como:
+       ✔ Constituição Federal Brasileira de 1998.
+       ✔ A Lei nº 5.194/1996, que estabelece as diretrizes e bases da Educação Nacional
+       (LDB).
+       ✔ Resolução CNE/CES nº 001/2013, de 13 de setembro de 2013, que institui as
+       Diretrizes Curriculares Nacionais do Curso de Graduação em Jornalismo.
+       ✔ Lei nª 13.005/2014 que aprova o Plano Nacional de Educação – PNE-2014-2024.
+       ✔ Resolução CNE/CES nº 07/2018, de 18 de dezembro de 2018, que estabelece
+       as Diretrizes para a Extensão na Educação Superior Brasileira e arregimenta o
+       disposto na Meta 12.7 do PNE 2014-2024.
+       ✔ Portarias do INEP/MEC que tratam dos conteúdos avaliados no exame do
+       ENADE.
+       ✔ Instrumento de Avaliação do Conselho Estadual de Educação (CEE/ MT).
+       ✔ Relatório do Exame Nacional de Desempenho (ENADE).
+       ✔ Planejamento Estratégico Participativo (PEP) da Unemat.
+       ✔ Plano de Desenvolvimento Institucional (PDI) da Unemat.
+       ✔ Projeto Político Institucional (PPI)
+       ✔ Congresso Universitário.
+       ✔ Relatório de Avaliação Institucional da Unemat.
+       ✔ Relatório de Avaliação Institucional do Ensino.
+       E demais legislações pertinentes à educação dos cursos de graduação, em especial
+atenção aos Pareceres das resoluções do Conselho Nacional de Educação (CNE), assim como às
+resoluções internas desta instituição.
+
+1.6 Fundamentação teórico-metodológica
+
+        Na contemporaneidade, a comunicação toma papel proeminente com o advento das novas
+tecnologias. É consenso entre as escolas de comunicação que os meios, processos e conteúdos
+que orbitam o campo comunicacional possuem uma influência significativa na emergência do
+pensamento social (WOLF, 1995). Cada vez mais o fluxo de informações que circula pela
+sociedade torna-se fundamental para seu desenvolvimento. Seja fundante no senso comum ou
+favorecendo qualificados debates na esfera pública, os meios de comunicação e a cultura de
+massas por eles propagada influem na forma como os atores sociais percebem e representam o
+mundo a sua volta. Grosso modo, as representações propagadas no processo de comunicação
+midiático influem na formação do imaginário, de valores e atitudes imanentes ao cotidiano social.
+Dentro do campo comunicacional, especificamente, a imprensa possui relevante papel neste jogo
+simbólico. Entende-se aqui a noção de representação a partir de Hall (2016), que nos ensina que
+
+Resolução nº 018/2021-CONEPE                                                       Página 10 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+este se trata do elemento que liga objetos, conceitos e signos. A rigor, é a dinâmica que nos
+permite dar sentido ao mundo.
+         Dentro do campo da comunicação, o jornalismo é um dos pilares principais para
+compreender este processo, separando o joio do trigo, filtrando o que é significativo, separando o
+que é de interesse público e o que é de interesse do público, conectando a sociedade, construindo
+pontes informacionais acessíveis que favoreçam uma sociedade cada vez mais democrática e
+conectada é papel do jornalismo. Nesse contexto, a formação acadêmica na área do jornalismo é
+fundamental para desenvolver atores críticos que possam articular em meio ao processo de
+mediação social, considerando variáveis como desenvolvimento econômico, conjuntura política e
+bem estar social.
+          Sendo prática social por excelência, o jornalismo participa deste jogo simbólico entre
+consenso e dissenso, cristalizando imagens e discursos ou, conforme Neveu (2006) é uma
+profissão que fabrica mitologias contemporâneas. No mesmo sentido, Christofoletti (2008)
+debatendo sobre a questão do “olhar” no jornalismo afirma que “[...] os meios de comunicação
+funcionam como extensões de sentido do homem comum. Jornalistas repassam ao seu público
+parcelas de suas visões do mundo”. Este olhar – associada aqui às representações propagadas
+pelo jornalismo -, influi no debate social nos mais variados níveis, assim como também na
+formação de significados socialmente partilhados.
+         Nesse sentido, entende-se que a formação em jornalismo nos dias de hoje deve
+possibilitar a construção de uma articulação orgânica entre a área de Ciências Sociais Aplicadas
+(o tônus técnico), e o campo das humanas (o sensível), que possibilite uma práxis que favoreça
+um “olhar” atento às particularidades do mundo objetivo: formar para um mercado de trabalho em
+constante mutação, cada vez mais exigente de competências múltiplas por parte do profissional
+em questão, mas sem perder a noção dos afetos próprios à existência humana em sociedade.
+Assim, entende-se aqui que o jornalista é um agente transformador em um mundo cada vez mais
+individualista. Ele toma um aspecto particular e o transforma em algo coletivo, criando vínculos,
+‘tornando comum”, possibilitando que a sociedade possa equilibrar suas idiossincrasias.
+          Nesse sentido, a matriz curricular do curso de Jornalismo tem suas disciplinas divididas
+em seis eixos de formação, conforme Diretrizes Nacionais do Curso de Jornalismo. São estes
+eixos:
+         I – Eixo de fundamentação humanística, cujo objetivo é capacitar o jornalista para exercer
+a sua função intelectual de produtor e difusor de informações e conhecimentos de interesse para a
+cidadania, privilegiando a realidade brasileira, como formação histórica, estrutura jurídica e
+instituições políticas contemporâneas; sua geografia humana e economia política; suas raízes
+étnicas, regiões ecológicas, cultura popular, crenças e tradições; arte, literatura, ciência,
+tecnologia, bem como os fatores essenciais para o fortalecimento da democracia, entre eles as
+relações internacionais, a diversidade cultural, os direitos individuais e coletivos; as políticas
+públicas, o desenvolvimento sustentável, as oportunidades de esportes, lazer e entretenimento e o
+acesso aos bens culturais da humanidade, sem se descuidar dos processos de globalização,
+regionalização e das singularidades locais, comunitárias e da vida cotidiana.
+         II – Eixo de fundamentação específica, cuja função é proporcionar ao jornalista clareza
+conceitual e visão crítica sobre a especificidade de sua profissão, tais como: fundamentos
+históricos, taxonômicos, éticos, epistemológicos; ordenamento jurídico e deontológico; instituições,
+pensadores e obras canônicas; manifestações públicas, industriais e comunitárias; os
+instrumentos de auto-regulação; observação crítica; análise comparada; revisão da pesquisa
+científica sobre os paradigmas hegemônicos e as tendências emergentes.
+         III – Eixo de fundamentação contextual, que tem por escopo embasar o conhecimento das
+teorias da comunicação, informação e cibercultura, em suas dimensões filosóficas, políticas,
+psicológicas e socioculturais, o que deve incluir as rotinas de produção e os processos de
+recepção, bem como a regulamentação dos sistemas midiáticos, em função do mercado potencial,
+além dos princípios que regem as áreas conexas.
+         IV – Eixo de formação profissional, que objetiva fundamentar o conhecimento teórico e
+prático, familiarizando os estudantes com os processos de gestão, produção, métodos e técnicas
+
+Resolução nº 018/2021-CONEPE                                                         Página 11 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+de apuração, redação e edição jornalística, possibilitando-lhes investigar os acontecimentos
+relatados pelas fontes, bem como capacitá-los a exercer a crítica e a prática redacional em língua
+portuguesa, de acordo com os gêneros e os formatos jornalísticos instituídos, as inovações
+tecnológicas, retóricas e argumentativas.
+        V – Eixo de aplicação processual, cujo objetivo é o de fornecer ao jornalista ferramentas
+técnicas e metodológicas, de modo que possa efetuar coberturas em diferentes suportes:
+jornalismo impresso, radiojornalismo, telejornalismo, webjornalismo, assessorias de imprensa e
+outras demandas do mercado de trabalho.
+        VI – Eixo de prática laboratorial, que tem por objetivo adquirir conhecimentos e
+desenvolver habilidades inerentes à profissão a partir da aplicação de informações e valores.
+Possui a função de integrar os demais eixos, alicerçado em projetos editoriais definidos e
+orientados a públicos reais, com publicação efetiva e periodicidade regular, tais como: jornal,
+revista e livro, jornal mural, radiojornal telejornal, webjornal, agência de notícias, assessoria de
+imprensa, entre outros.
+
+1.7 Objetivos
+
+Objetivo Geral
+
+        A meta do curso é propiciar uma formação crítica a profissionais de jornalismo a partir de
+uma sólida formação humanística, política, cultural e profissional para atuação no mercado de
+trabalho em constante transformação e contribuir com a produção de conhecimento capaz de
+fortalecer o campo profissional, numa intersecção a partir do tripé indissociável ensino, pesquisa e
+extensão.
+
+Objetivos Específicos
+
+        ✔ Propiciar o aprimoramento técnico e teórico a partir da responsabilidade social do
+jornalismo sobre temas de interesse público, essencial para a consolidação de uma sociedade
+democrática.
+        ✔ Formar cidadão com consciência crítica e criativa, formação humanística e ética com
+capacidade de interagir no cenário profissional e no mercado de trabalho desde a formação por
+meio das atividades de extensão.
+        ✔ Estimular o exercício de uma visão crítica e criativa sobre os fatos e evidências
+ocorrentes na sociedade.
+        ✔ Despertar para os formandos para práticas empreendedoras a partir da identificação de
+oportunidades na sociedade em que estiver inserido.
+        ✔ Preparar um profissional ético, competente, que domine as linguagens e técnicas
+jornalísticas.
+        ✔ Estimular a busca por atividades de pesquisa e o interesse pela docência.
+
+1.8 Perfil do egresso
+
+       Do egresso do bacharelado em Jornalismo espera-se competências gerais para:
+       ✔ Compreender e valorizar como conquistas históricas da cidadania e indicadores de um
+estágio avançado de civilização, em processo constante de riscos e aperfeiçoamento: o regime
+democrático, o pluralismo de ideias e de opiniões, a cultura da paz, os direitos humanos, as
+liberdades públicas, a justiça social e o desenvolvimento sustentável;
+       ✔ Conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a
+realidade social, econômica e política brasileira, considerando especialmente a diversidade
+regional, os contextos latino-americano e ibero-americano, o eixo sul e o processo de
+internacionalização da produção jornalística;
+Resolução nº 018/2021-CONEPE                                                         Página 12 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+        ✔ Identificar e reconhecer a relevância e o interesse público entre os temas da atualidade;
+        ✔ Distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas e
+profissionais;
+        ✔ Pesquisar, selecionar e analisar informações em qualquer campo de conhecimento
+específico;
+        ✔ Dominar a expressão oral e a escrita em língua portuguesa;
+        ✔ Ter domínio instrumental de pelo menos dois outros idiomas – preferencialmente inglês
+e espanhol, integrantes do contexto geopolítico em que o Brasil está inserido;
+        ✔ Interagir com pessoas e grupos sociais de formações e culturas diversas e diferentes
+níveis de escolaridade;
+        ✔ Ser capaz de trabalhar em equipes profissionais multifacetadas;
+        ✔ Saber utilizar as tecnologias de informação e comunicação;
+        ✔ Pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+        ✔ Cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação ao
+conhecimento;
+        ✔ Possuir abertura para compreender que o aprendizado é permanente;
+        ✔ Saber conviver com o poder, a fama e a celebridade mantendo a independência e o
+distanciamento necessários em relação aos mesmos;
+        ✔ Perceber constrangimentos à atuação profissional e desenvolver senso crítico em
+relação a eles;
+        ✔ Procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais;
+        ✔ Atuar sempre com discernimento ético.
+
+1.9 Áreas de Atuação do Egresso
+
+       O profissional formado no curso de Bacharelado em Jornalismo da Unemat estará
+capacitado a exercer sua profissão e resolver problemas em diferentes segmentos do mercado de
+trabalho, tais como: empresas jornalísticas; emissoras de rádio e televisão; publicações digitais;
+produção de notícias para a Internet e outras mídias digitais; departamentos de comunicação de
+empresas públicas e privadas; assessoria de imprensa para entidades profissionais liberais,
+empresas diversas e organismos de classe e entidades não governamentais; trabalhos de
+divulgação científica, mercadológica e cultural, mercado editorial, institutos de pesquisa, entidades
+de classe, associações, sindicatos, entre outros.
+       Aos que atuarem empreendedores na área, além das aptidões elencadas, precisam
+desenvolver a capacidade empreendedora.
+
+1.10 Habilidades e Competências
+
+        Seguindo a tendência de formação específica e as singularidades do Jornalismo como
+campo profissional e de conhecimento no contexto do campo da Comunicação, compreendesse o
+jornalista profissional com formação universitária como produtor intelectual e agente da cidadania
+dando conta, por um lado, da complexidade e do pluralismo característicos da sociedade e da
+cultura contemporâneas e, por outro, dos fundamentos teóricos e técnicos especializados.
+        Nesse sentido o Curso prima por desenvolver competências, habilidades, conhecimentos,
+atitudes e valores que são necessárias ao exercício profissional, conforme as DCNs:
+        Competências gerais – compreender e valorizar conquistas históricas da cidadania como
+o regime democrático, o pluralismo de ideias e de opiniões, a cultura da paz, os direitos humanos,
+as liberdades públicas, a justiça social e o desenvolvimento sustentável; conhecer a história, a
+cultura e a realidade social, econômica e política brasileiro, considerando a diversidade regional,
+os contextos latino-americano e ibero-americano, o eixo sul-sul e o processo de
+internacionalização da produção jornalística; identificar e reconhecer a relevância e o interesse
+Resolução nº 018/2021-CONEPE                                                          Página 13 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+público entre os temas da atualidade; distinguir entre o verdadeiro e o falso a partir de um sistema
+de referências éticas e profissionais; pesquisar, selecionar e analisar informações em qualquer
+campo do conhecimento específico; dominar a expressão oral e a escrita em língua portuguesa;
+ter domínio instrumental de pelo menos outros dois idiomas, preferencialmente inglês e espanhol
+que são do contexto geopolítico em que o país está inserido; interagir com pessoas pessoas e
+grupos sociais de formações e culturas diversas e diferentes níveis de escolaridade; ser capaz de
+trabalhar em equipes profissionais multifacetadas; saber utilizar as tecnologias de informação e
+comunicação; pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação ao
+conhecimento; compreender que o aprendizado é permanente; saber conviver com o poder, a
+fama e a celebridade, mantendo a independência e o distanciamento necessários em relação a
+eles; perceber constrangimentos à atuação profissional e desenvolver senso crítico em relação a
+isso; procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais; atuar
+sempre com discernimento ético.
+        Competências cognitivas – Conhecer a história, os fundamentos e os cânones
+profissionais do jornalismo; Conhecer a construção histórica e os fundamentos da Cidadania;
+Compreender e valorizar o papel do jornalismo na democracia e no exercício da cidadania;
+Compreender as especificidades éticas, técnicas e estéticas do jornalismo, em suas
+complexidades de linguagem e como forma diferenciada de produção e socialização de
+informação e conhecimento sobre a realidade; Discernir os objetivos e as lógicas de
+funcionamento das instituições privadas, estatais, públicas, partidárias, religiosas ou de outra
+natureza em que o jornalismo é exercido, assim como as influências do contexto neste exercício.
+        Competências pragmáticas – Contextualizar, interpretar e explicar informações
+relevantes da atualidade, agregando-lhes elementos de elucidação necessários à compreensão
+da realidade; Perseguir elevado grau de precisão no registro e na interpretação dos fatos
+noticiáveis; Propor, planejar, executar e avaliar projetos na área de jornalismo; Organizar pautas e
+planejar coberturas jornalísticas; Formular questões e conduzir entrevistas; Adotar critérios de
+rigor e independência na seleção das fontes e no relacionamento profissional com elas, tendo em
+vista o princípio da pluralidade, o favorecimento do debate, o aprofundamento da investigação e a
+garantia social da veracidade; Dominar metodologias jornalísticas de apuração, depuração,
+aferição, produção, edição e difusão; Conhecer conceitos e dominar técnicas dos gêneros
+jornalísticos; Produzir enunciados jornalísticos com clareza, rigor e correção, e ser capaz de editá-
+los em espaços e períodos de tempo limitados; Traduzir em linguagem jornalística, preservando-
+os, conteúdos originalmente formulados em linguagens técnico-científicas, mas cuja relevância
+social justifique e/ou exija disseminação não especializada; Elaborar, coordenar e executar
+projetos editoriais de cunho jornalístico para diferentes tipos de instituições e públicos; Elaborar,
+coordenar e executar projetos de assessoria jornalística a instituições legalmente constituídas de
+qualquer natureza, assim como projetos de jornalismo em comunicação comunitária, estratégica
+ou corporativa; Compreender, dominar e gerir processos de produção jornalística, e ser capaz de
+aperfeiçoá-los pela inovação e pelo exercício do raciocínio crítico; Dominar linguagens midiáticas
+e formatos discursivos utilizados nos processos de produção jornalística nos diferentes meios e
+modalidades tecnológicas de comunicação; Dominar o instrumental tecnológico – hardware e
+software – utilizado na produção jornalística; Avaliar criticamente produtos e práticas jornalísticas.
+        Competências comportamentais – Perceber a importância e os mecanismos da
+regulamentação político-jurídica da profissão e da área de comunicação social; Identificar, estudar
+e analisar questões éticas e deontológicas no jornalismo; Conhecer e respeitar os princípios éticos
+e as normas deontológicas da profissão; Avaliar, à luz de valores éticos, as razões e os efeitos
+das ações jornalísticas; Atentar para os processos que envolvem a recepção de mensagens
+jornalísticas e o seu impacto sobre os diversos setores da sociedade; Impor aos critérios, às
+decisões e às escolhas da atividade profissional as razões do interesse público; Exercer, sobre os
+poderes constituídos, fiscalização comprometida com a verdade dos fatos, o direito dos cidadãos
+à informação e o livre trânsito das ideias e das mais diversas opiniões.
+
+
+Resolução nº 018/2021-CONEPE                                                           Página 14 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+2 METODOLOGIAS E POLÍTICAS EDUCACIONAIS
+
+2.1 Relação entre Ensino, Pesquisa e Extensão
+
+          A universidade enquanto instituição se consolidou no Brasil, notadamente, na segunda
+metade do século XX. Os modelos de inspiração foram os europeus e o norte-americano. A tríade
+ensino, pesquisa e extensão é tida como a espinha dorsal das universidades, em especial as
+públicas. Trata-se de um princípio constitucional (artigo 207 da Constituição Brasileira de 1988):
+“...] As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira
+e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão”.
+          A indissociabilidade desses três itens se sustenta porque, a priori, um não existe sem a
+presença do outro. Ou seja, a produção de conhecimento e a formação profissional devem
+dialogar com as demandas socioculturais da região onde a universidade está presente.
+O ensino do Jornalismo exige uma metodologia pedagógica que vá além do mero modelo
+expositivo em sala de aula. É evidente que as teorias e os conceitos que envolvem a formação de
+um Jornalista são exigidos, mas é na prática que ocorre uma maior troca de experiências entre os
+envolvidos. E reside nesta troca de saberes a articulação entre ensino, pesquisa e extensão.
+          O Curso de Jornalismo possui projetos de pesquisa e extensão cuja tônica gira em torno
+de processos que aliam o rigor científico a uma linguagem acessível à sociedade. Busca-se o que
+Santos (2010) denomina conhecimento-emancipador: a relação sujeito-objeto é substituída pela
+reciprocidade entre os sujeitos, o que favorece uma ampliação da capacidade de refletir –
+inclusive sobre o próprio processo comunicacional envolvido.
+          A partir das crises de hegemonia, de legitimidade e institucional instaurada na universidade
+pública na passagem para o século XXI, Boaventura Souza Santos (2010) propõe uma reforma
+democrática e emancipatória da universidade pública que capaz de responder às demandas
+sociais pela democratização radical da universidade. Para isso, será preciso promover alternativas
+que apontem para sua democratização, que fomente cooperação transnacional, as atividades de
+extensão voltadas para a resolução dos problemas da exclusão e da discriminação social, da
+pesquisa-ação, da ecologia de saberes, da vinculação com a escola pública, dentre outros
+(SOUZA SANTOS, 2010, p. 83)
+          Esses princípios defendidos por Boaventura Souza Santos embalam as ações de ensino,
+de pesquisa e de extensão do Curso de Jornalismo, pois desde o início da formação o estudante é
+convidado a realizar práticas que possam transformar significativamente o ambiente em que estão
+envolvidos a partir do conhecimento dos componentes curriculares.
+          Na Universidade do Estado de Mato Grosso o programa Parceladas e toda normatização
+das turmas únicas/fora de sede tem regramento próprio, conforme resoluções sob os seguintes
+números: Resolução 41/2016-CONEPE; Resolução 050/2019-CONEPE; Resolução 40/2016-
+CONEPE; Resolução 4 1/2016- CONEPE; Resolução 42/CONEPE; Resolução 47/2016-
+CONEPE; e Resolução 002/2019-CONEPE.
+          O ensino, a pesquisa e a extensão na presente turma especial é compreendido e está
+atento às especificidades normativas da Unemat, especialmente em tudo que consta nos Eixos I,
+II, II E IV da Resolução 21/2018, CONSUNI, nas discussões advindas do Congresso Universitário,
+e na Resolução 25/2016-CONEPE, no sentido de criar ambiência para o desenvolvimento de
+atividades de ensino, pesquisa e/ou extensão por meio da articulação e aproximação de
+pesquisadores dos diversos campus/grupos, alunos, sociedade e instituições para um projeto
+“além-muros” da Unemat, especialmente nos cursos de ofertas diferenciadas, os quais recebem
+críticas em razão dos poucos incentivos as docentes/alunos para a realização da extensão e
+pesquisa.
+          Sob este prisma, o presente projeto tem como alcance extensionista a criação e o
+engajamento nas atividades/ações na/pela/para a circularidade de saberes/conhecimentos que
+propiciem “conhecimento-reflexão-produção-aplicação” e comprometimento da comunidade
+
+
+Resolução nº 018/2021-CONEPE                                                           Página 15 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+universitária com seus interesses e necessidades sociais, isto é, a promoção de iniciativas que
+expressem o compromisso social da Unemat com a sociedade e com o mundo do trabalho.
+         Nesse sentido, o espaço da prática profissional leva à transformação por meio de
+iniciativas voltadas para a cidadania e para a transformação local e regional onde o curso está
+inserido.
+         Assim, os saberes jornalísticos permitem o empoderamento de instituições e organizações
+sociais – sem fins lucrativos – assim como escolas da rede pública de ensino que podem
+transformar seu universo comunicacional a partir de oficinas, cursos, dentre outras ações.
+
+2.2 Integração com a Pós-graduação
+
+       O presente projeto é integrado à pós-graduação, na medida em que desenvolvendo
+pesquisa e extensão que deem suporte ao ensino de graduação e pós-graduação, consolida, aos
+poucos, cumprindo sua missão junto ao desenvolvimento regional, ampliando as possibilidades
+para uma formação continuada a nível de pós-graduação.
+
+2.3 Mobilidade estudantil e internacionalização
+
+       Mobilidade Acadêmica é o processo que possibilita ao aluno de graduação, matriculado em
+uma instituição de ensino superior (IES), estudar em outra instituição brasileira ou estrangeira e,
+após a conclusão dos créditos e/ou pesquisa, receber um comprovante de estudos da instituição
+de origem. Na UNEMAT, o Programa de Mobilidade Acadêmica (PMA) é legislado pela Resolução
+nº 087/2015-CONEPE que estabelece pré-requisitos e orientações.
+       Do total da carga horária do curso, os discentes podem cursar no mínimo 12 créditos ou
+180 horas de componentes curriculares de livre escolha (UC IV), como mobilidade intercursos,
+intercampi, nacional e internacional em instituição, brasileira ou estrangeiras.
+       No processo de mobilidade acadêmica, os discentes da Unemat podem cursar disciplinas
+pertinentes a seu curso de graduação em cursos de outras IES, nacionais ou estrangeiras, assim
+como pode receber discentes de instituições conveniadas para que cursem disciplinas em seu
+Curso de Jornalismo.
+       No intuito de ampliar as possibilidades de intercâmbio e estimular a busca e o
+desenvolvimento de novos conhecimentos, para a comunidade acadêmica, a partir da vivência em
+outros cursos/campi, bem como em outras universidades da federação e/ou de outros países,
+consideramos fundamental a política de mobilidade acadêmica, garantindo um percentual mínimo
+de 10% da carga horária do curso para tais experiências acadêmicas, no âmbito do ensino,
+pesquisa e extensão.
+
+2.4 Tecnologias digitais de informação e comunicação no processo de ensino-
+aprendizagem
+
+       Adotada como eixo transversal, as tecnologias de informação e comunicação (TIC) é
+essencial a construção de narrativas jornalísticas e audiovisuais, sendo permeadas por
+dispositivos e linguagens. Assim, no PPC é garantido a utilização das TIC para garantir
+acessibilidade digital e comunicacional, promover a interatividade entre docentes e discentes,
+assegurar o acesso a materiais ou recursos didáticos e possibilitar experiências diferenciadas de
+aprendizagem em seu uso.
+       No sistema acadêmico SIGAA, o curso dispõe de um Ambiente Virtual de Aprendizagem
+(AVA) em que pode complementar as atividades presenciais com ferramentas de comunicação,
+sendo facultada ao professor, nos termos do art. 18 da Instrução Normativa 003/2019-UNEMAT.
+Cada componente curricular poderá utilizar até 10 horas para a educação híbrida para
+complementação das atividades presenciais pelo AVA, proposta que não irá ultrapassar 20% da
+carga horária total do curso à distância.
+
+
+Resolução nº 018/2021-CONEPE                                                        Página 16 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+2.5 Educação inclusiva
+
+        A educação inclusiva parte do pressuposto da diversidade e suas múltiplas diferenças no
+convívio na academia e em seu entorno. Nesse sentido, as relações sociais precisam ser
+perpassadas por um olhar pedagógico que contemple a diversidade nas práticas educativas.
+        Ainda, considerando o programa de ações afirmativas da Unemat que propõe a educação
+inclusiva para acompanhamento das pessoas com deficiência (PCD), o Curso de Jornalismo
+prima pelo cuidado dos alunos que apresentarem tal condição a fim de propiciar um ensino de
+qualidade e inclusivo, buscando junto à Universidade formas de atendimento para sua
+permanência e sucesso acadêmicos.
+        O curso participa do Programa de Inclusão Pedagógica da instituição que visa fortalecer os
+índices de desempenho dos ingressantes, oferecido em ambiente virtual de aprendizagem com
+tutoria presencial a fim de propiciar formação complementar aos acadêmicos que apresentarem
+dificuldade de aprendizagem em algum componente curricular, de maneira especial em
+competências da Língua Portuguesa.
+
+3 ESTRUTURA CURRICULAR
+
+3.1 Formação teórica articulada com a prática
+
+       Como sinalizam os eixos temáticos das DCNs do Curso de Jornalismo, a formação teórica
+está articulada com a prática como demonstra o quadro 1 da organização da construção do
+conhecimento do Jornalista. Esse percurso se dá pelas etapas formativas que percorrem os
+quatro anos de formação – fundamentos, teorias, práticas e síntese – e os seis formativos –
+fundamentação humanística, específica e contextual; formação profissional, aplicação processual
+e prática laboratorial – possibilitam o ensino dos componentes curriculares. Esse processo é
+sustentado pela árvore epistêmica do grupo de pesquisa Comunicação, Sociedade e Cultura - em
+processo de renovação.
+       Com exceção de Estágio Supervisionado I e II que apresenta 120 horas (8 créditos), todos
+os componentes curriculares apresentam quatro (4) créditos com carga horária de 60 horas. Os
+créditos são distribuídos em teóricos (T) e práticos (P), podendo ser ofertados na modalidade
+presencial ou à distância, conforme deliberação do Colegiado de Curso. Os créditos práticos
+compreendem as aulas em laboratório e de campo.
+
+              Quadro 1 Organização da Construção do conhecimento do Jornalista
+ ETAPAS                           COMPETÊNCIAS GERAIS, COGNITIVAS, PRAGMÁTICAS E
+ FORMATIVAS/EIXOS                                  COMPORTAMENTAIS
+ TEMÁTICO                 Fundamentos           Teoria           Prática     Síntese
+                       Língua
+                       Portuguesa;
+                       Leitura e
+                       Produção de
+ Eixo I –              Texto;            Psicologia Social,
+ Humanística (I)       Filosofia;        eletivas livres
+                       Sociologia;
+                       Introdução à
+                       Metodologia
+                       científica
+                       História do
+                                         Teorias do         Comunicação
+                       Jornalismo;
+                                         Jornalismo;        Rural e
+ Eixo II –             Introdução ao
+                                         Ética e            Comunitária;
+ Específica            Jornalismo;
+                                         Deontologia do     Jornalismo
+                       Comunicação e
+                                         Jornalismo         Local e Regional
+                       Cultura
+Resolução nº 018/2021-CONEPE                                                       Página 17 de 46
+                                 ESTADO DE MATO GROSSO
+                       SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                         UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                           “CARLOS ALBERTO REYES MALDONADO”
+                     CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+                                           Teoria da
+                                                                Análise do           Comunicação
+                                           Comunicação 2;
+ Eixo III –              Teoria da                              discurso e leitura   política e opinião
+                                           Semiótica da
+ Contextual              Comunicação 1                          crítica da Mídia
+                                           Comunicação e                             pública (CPOP)
+                                           Teoria da Imagem
+                         Linguagem
+                         Fotográfica;                           TCC 1                Gestão em
+                         Linguagem                              Assessoria da        Jornalismo e
+ Eixo IV –Profissional   Audiovisual;                           Imprensa I e         Comunicação;
+                         Técnicas de                            Assessoria da        TCC 2;
+                         redação                                Imprensa II          Estágio 1 e 2
+                         jornalística
+                                                                                     Tópicos especiais
+                                                                                     em Audiovisual;
+                                                                Telejornalismo 1
+                                                                                     Edição jornalística;
+                                                                e 2;
+                                                                                     Laboratório
+                                                                Laboratório de
+                                                                                     de Jornalismo I;
+                                                                Jornalismo
+ Eixo VI –                                 Planejamento                              Laboratório de
+                         Design                                 em Mídia
+ Laboratorial                              Gráfico                                   Mídias e Redes
+                                                                Sonora;
+                                                                                     Sociais em
+                                                                Redação e
+                                                                                     Jornalismo;
+                                                                apuração
+                                                                                     Documentário e
+                                                                jornalística II.
+                                                                                     Produção
+                                                                                     Audiovisual
+         ANO                      1º ANO           2º ANO               3º ANO               4º ANO
+
+       De acordo com os seis eixos formativos que distribuem os componentes curriculares, os
+discentes participam desde o primeiro ano de atividades práticas nos seguintes laboratórios: 1)
+laboratório de informática utilizado como laboratório de jornalismo impresso e digital; 2) laboratório
+de radiojornalismo com computador, cabine de gravação, microfones e mesa de som; 3)
+laboratório de planejamento gráfico com computadores, impressora, cadeiras e mesas; 4) Agência
+Júnior de Jornalismo – Focagem com computadores; 5) Laboratório Multimídia.
+
+3.2 Núcleos de formação
+
+        O currículo do Curso de Jornalismo é estruturado em quatro Unidades Curriculares (UC) e
+nos eixos formativos das DCNs da seguinte forma:
+        UC I: Créditos obrigatórios de formação geral/humanística, engloba o conjunto de
+conteúdos comuns, denominado por Fundamentação Humanística (eixo I);
+        UC II: Créditos obrigatórios de formação específica de cada curso, entendido por
+Fundamentação Específica (eixo II), Fundamentação Contextual (eixo III), Formação Profissional
+        UC III: Créditos de formação complementar/integradora (obrigatórios), denominados por
+Aplicação Processual (eixo V) e Prática Laboratorial (eixo VI);
+        A seguir apresentamos dois quadros com os componentes curriculares por eixos
+        temáticos (Quadro 2) e por unidades curriculares (Quadro 3). As três áreas do
+conhecimento são para organização das disciplinas, sendo que os docentes podem transitar entre
+elas, visto que Jornalismo e Audiovisual são inerentes à Comunicação.
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                              Página 18 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+             Quadro 2 Disciplinas organizadas conforme os Eixos Temáticos das DCNs
+                         EIXOS TEMÁTICOS DE FORMAÇÃO DO JORNALISTA
+                                    Disciplina
+                                    Língua portuguesa (LPO)
+                                    Leitura e produção de textos (LPT)
+          I – Fundamentação         Eletiva Livre - Filosofia (FIL)
+              Humanística           Introdução à Metodologia científica (IMC)
+                                    Introdução à Sociologia (ISO)
+                                    Psicologia Social (PSO)
+                                    Introdução ao Jornalismo (IJO)
+                                    História do Jornalismo (HJO)
+                                    Teorias do Jornalismo (TJO)
+          II – Fundamentação
+                                    Ética e Deontologia do Jornalismo (ETI)
+                Específica
+                                    Comunicação Rural e Comunitária (CRC)
+                                    Jornalismo Local e Regional (JLR)
+                                    Comunicação e Cultura (COC)
+                                    Análise do discurso e leitura crítica da Mídia (ADCM)
+                                    Teoria da Comunicação I (TCOI)
+         III – Fundamentação
+                                    Teorias da Comunicação II (TCO2)
+               Contextual
+                                    Semiótica da Comunicação e Teoria da Imagem (STI)
+                                    Eletiva Livre - Comunicação política e opinião pública (CPOP)
+                                    Linguagem fotográfica (LFT)
+                                    Técnica de Redação Jornalística (TRJ)
+                                    Linguagem Audiovisual (LAU)
+                                    Gestão em Jornalismo e Comunicação (PJC)
+      IV – Formação Profissional
+                                    Trabalho de Conclusão de Curso I (TCC 1)
+                                    Trabalho de Conclusão de Curso II (TCC 2)
+                                    Estágio Supervisionado em Jornalismo I (ESP1)
+                                    Estágio Supervisionado em Jornalismo II (ESP2)
+                                    Fotojornalismo (FOT)
+                                    Jornalismo em Mídia Sonora (JMS)
+                                    Redação e apuração jornalística I (RAJ1)
+                                    Jornalismo Especializado (JES)
+       V – Aplicação Processual
+                                    Jornalismo Digital (JDI)
+                                    Assessoria de Comunicação e Imprensa (ACI I)
+                                    Assessoria de Comunicação e Imprensa (ACI II)
+                                    Tópicos Especiais em Jornalismo (TEJ)
+                                    Planejamento Gráfico (PGF)
+                                    Design (DSG)
+                                    Laboratório de Jornalismo em Mídia Sonora (LMS)
+                                    Redação e apuração jornalística (RAJ II)
+                                    Telejornalismo I (TJO1)
+                                    Telejornalismo II (TJO2)
+        VI – Prática Laboratorial
+                                    Tópicos Especiais em Audiovisual (TEA)
+                                    Laboratório de Mídias e redes Sociais em Jornalismo (LMRJ)
+                                    Laboratório de Jornalismo I (LAB 1)
+                                    Edição Jornalística (EJO)
+                                    Documentário e Produção Audiovisual (DPA)
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                            Página 19 de 46
+                                 ESTADO DE MATO GROSSO
+                       SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                         UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                           “CARLOS ALBERTO REYES MALDONADO”
+                     CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+                     Quadro 3 Disciplinas organizadas por Unidades Curriculares
+                               UC 1 – FORMAÇÃO GERAL E HUMANÍSTICA
+ Área          Disciplina                                    CH     CRÉDITOS      PRÉ-REQUISITO
+                                                                     T    P
+ Humanas       Eletiva Livre - Filosofia (FIL)                60     4        0
+ Humanas       Introdução à Sociologia (ISO)                  60     4        0
+ Humanas       Psicologia Social (PSO)                        60     4        0
+ Letras        Língua Portuguesa (LPO)                        60     3        1
+ Letras        Leitura e Produção de Texto (LPT)              60     2        2   LPO
+ Humanas       Introdução à Metodologia Científica (IMC)      60     3        1
+                                                          360        20       4
+                                     UC 2 – FORMAÇÃO ESPECÍFICA
+ Área             Disciplina                                 CH     CRÉDITOS      PRÉ-REQUISITO
+                                                                     T    P
+ Audiovisual      Linguagem audiovisual (LAU)                 60     3        1
+ Audiovisual      Telejornalismo I (TJO1)                     60     2        2         LAU
+                  Semiótica da Comunicação e Teoria da
+ Audiovisual                                                  60     4        0
+                  Imagem (STI)
+ Comunicação      Comunicação e Cultura (COC)                 60     4        0
+ Comunicação      Comunicação Rural e Comunitária (CRC)       60     2        2
+                  Eletiva Livre - Comunicação política e
+ Comunicação                                                  60     2        2
+                  opinião pública
+ Comunicação      Ética e Deontologia Jornalística (ETI)      60     4        0
+ Comunicação      História do Jornalismo (HJO)                60     4        0
+ Comunicação      Linguagem fotográfica (LFT)                 60     2        2
+ Comunicação      Teoria da Comunicação I (TCO1)              60     4        0
+ Comunicação      Teorias da Comunicação II (TCO2)            60     4        0        TCO1
+                  Estágio Supervisionado em Jornalismo I                           FJO, JMS, RAJ
+ Comunicação                                                  120    4        4
+                  (ESP1)                                                          1, TJO1, JD, ACI
+                  Análise do discurso e leitura crítica da
+ Comunicação                                                  60     2        2
+                  Mídia (ADLCM)
+                  Assessoria de Comunicação e Imprensa
+ Comunicação                                                  60     3        1
+                  (ACI I)
+                  Assessoria de Comunicação e Imprensa
+ Comunicação                                                  60     3        1         ACI I
+                  (ACI II)
+                  Gestão em Jornalismo e Comunicação
+ Jornalismo                                                   60     3        1
+                  (PJC)
+ Jornalismo       Introdução ao Jornalismo (IJO)              60     3        1
+ Jornalismo       Jornalismo Digital (JDI)                    60     2        2
+ Jornalismo       Jornalismo Local e Regional (JLR)           60     2        2
+ Jornalismo       Jornalismo Especializado (JES)              60     2        2
+ Jornalismo       Jornalismo em Mídia Sonora (JMS)            60     2        2
+ Jornalismo       Técnica de Redação Jornalística (TRJ)       60     2        2
+Resolução nº 018/2021-CONEPE                                                         Página 20 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+ Jornalismo      Redação e apuração jornalística I (RAJ 1)          60       1       3
+ Jornalismo      Teorias do Jornalismo (TJO)                        60       4       0
+ Jornalismo      Trabalho de Conclusão de Curso I (TCC1)            60       2       2
+ Jornalismo      Trabalho de Conclusão de Curso II (TCC2)           60       1       3            TCC1
+                 Estágio Supervisionado em Jornalismo II
+ Jornalismo                                                     120          4       4            (ESP1)
+                 (ESP2)
+                                                   1.740   75    41
+                        UC 3 – FORMAÇÃO COMPLEMENTAR/INTEGRADORA
+                                                                                                  PRÉ-
+     Área                           Disciplina                      CH      CRÉDITOS
+                                                                                                REQUISITO
+                                                                               T      P
+ Audiovisual     Tópicos Especiais em Audiovisual (TEA)             60         1      3         LAU; TJ02
+ Audiovisual     Documentário e Produção Audiovisual                60         3      1             TEA
+                 (DPA)
+ Audiovisual     Telejornalismo II (TJO2)                           60         1      3            TJO1
+ Comunicação     Design (DSG)                                       60         2      2
+ Comunicação     Eletiva Livre - Tópicos Especiais em               60         3      1
+                 Comunicação
+ Comunicação     Planejamento Gráfico (PGF)                         60         2      2            DSG
+ Jornalismo      Tópicos Especiais em Jornalismo (TEJ)              60         2      2
+ Jornalismo      Fotojornalismo (FOT)                               60         2      2             LFT
+ Jornalismo      Laboratório de Jornalismo I (LAB1)                 60         1      3
+ Jornalismo      Edição jornalística (EJO)                          60         1      3
+ Jornalismo      Laboratório de Mídias e Redes Sociais em           60         1      3
+                 Jornalismo (LMRJ)
+ Jornalismo      Laboratório de Jornalismo em Mídia                 60         1      3            JMS
+                 Sonora (LMS)
+ Jornalismo      Redação e apuração jornalística II (RAJ 2)         60         1      3
+                                                                780         21        31
+
+                                    Quadro 4 Disciplinas por semestre
+
+                                                 1º SEMESTRE
+                                                                                                    Pré-
+                                                                                Crédito
+                         Disciplinas                           CH                                requisitos
+                                                                           T              P
+  Linguagem fotográfica (LFT)                                   60          2             2
+  Introdução ao Jornalismo (INJ)                                60          3             1
+  História do Jornalismo (HIM)                                  60          4             0
+  Língua Portuguesa (LPO)                                       60          3             1
+  Filosofia (FIL) – Eletiva Livre                               60          4             0
+  Comunicação e cultura (ANC)                                   60          4             0
+  TOTAL                                                        360         20             4
+                                                 2º SEMESTRE
+                                                                         Crédito          Pré- requisitos
+                         Disciplinas                            CH
+                                                                            T             P
+  Teoria da Comunicação I (TCI)                                 60          4             0
+  Introdução à Metodologia Científica (IMC)                     60          3             1
+Resolução nº 018/2021-CONEPE                                                                    Página 21 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+  Design (DSG)                                             60    2              2
+  Linguagem audiovisual (LA)                               60    3              1        LFT
+  Leitura e Produção de Texto (LPT)                         60    2             2
+  Introdução à Sociologia (IS)                              60    4             0
+  TOTAL                                                    360   18             6
+                                             3º SEMESTRE
+                                                                                         Pré-
+                                                                      Crédito
+                                                           CH                         requisitos
+                        Disciplinas
+                                                                 T              P
+  Fotojornalismo (FJ)                                      60    2              2
+  Jornalismo em Mídia Sonora (JMS)                         60    2              2
+  Técnica de Redação Jornalística (TRJ)                    60    2              2        LPT
+  Planejamento Gráfico (PGF)                               60    2              2        DSG
+  Teorias da Comunicação II (TCO2)                          60    4             0       TCO 1
+  Semiótica da comunicação e teoria da imagem (SCTI)        60    4             0
+  TOTAL                                                    360   16             8
+                                             4º SEMESTRE
+                                                                                         Pré-
+                                                                      Crédito
+                         Disciplinas                       CH                         requisitos
+                                                                 T              P
+  Teorias do Jornalismo (TJ)                                60    4              0      TCO 2
+  Ética e Deontologia Jornalística (EDJ)                    60    4              0
+  Redação e apuração jornalística I (RAJ I)                 60    1              3       TRJ
+  Psicologia Social                                         60    4              0
+  Laboratório de jornalismo em mídia sonora (LJMS)          60    1              3      RJO1
+  Telejornalismo I (TJO1)                                   60    2              2
+  TOTAL                                                    360   16              8
+                                             5º SEMESTRE
+                                                                                        Pré-
+                                                                      Crédito
+                         Disciplinas                       CH                        requisitos
+                                                                 T              P
+  Jornalismo Digital (JDJ)                                  60    2              2
+  Jornalismo local e regional (JLR)                         60    2              2
+  Redação e apuração jornalística II (RAJ II)               60    2              2      RAJ II
+  Assessoria de comunicação e imprensa I (ACI)              60    3              1
+  Análise do discurso e leitura crítica da mídia (ADLCM)    60    4              0
+  Telejornalismo II (TJO2)                                  60    1              3      TJO1
+  TOTAL                                                    360   14             10
+                                             6º SEMESTRE
+                                                                                         Pré-
+                                                                      Crédito
+                         Disciplinas                       CH                         requisitos
+                                                                 T          P
+  Gestão em jornalismo e comunicação (GJC)                  60   4          0           JAI 1
+  Trabalho de conclusão de curso I (TCC I)                  60   2          2
+  Jornalismo Especializado (JE)                             60   2          2
+  Comunicação Rural e Comunitária (CRC)                     60   2          2
+  Assessoria de comunicação e imprensa II (ACI II)          60   4          0
+  Eletiva Livre - Comunicação política e opinião pública
+                                                            60   2              2
+  (CPOP)
+
+Resolução nº 018/2021-CONEPE                                                         Página 22 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+  TOTAL                                                      360   14               6
+                                           7º SEMESTRE
+                                                                                                 Pré-
+                                                                         Crédito
+                       Disciplinas                           CH                               requisitos
+                                                                   T                P
+  Estágio Supervisionado em Jornalismo (ESP1)               120     4                4
+  Documentário e Produção Audiovisual (DPA)                  60     3                1           LAU
+  Edição jornalística (EJ)                                   60     1                3
+  Laboratório de Jornalismo I (LAB 1)                        60     1                3
+  Eletiva Livre - Tópicos especiais em comunicação (TEC)     60     3                1           TCII
+  TOTAL                                                     360    14               14
+                                           8º SEMESTRE
+                                                                                                 Pré-
+                                                                         Crédito
+                                                             CH                               requisitos
+                       Disciplinas
+                                                                   T                P
+  Estágio Supervisionado em Jornalismo II (ESP II)          120    4                 4          ESP1
+  Gestão de Mídias e Redes Sociais em Jornalismo (GMJ)       60    1                 3
+  Trabalho de Conclusão de Curso II (TCC II)                 60    1                 3           TCCI
+  Tópicos especiais em audiovisual (TEA)                     60    2                 2           DPA
+  TOTAL                                                     300    8                12
+
+
+
+                               TOTAL DE CARGA HORÁRIA - DISCIPLINA
+                                                                    Crédito
+                                                           C.H.                          Pré-requisito
+                                                                   T       P
+UC 1 – Formação Geral e Humanística                         300    20      4                   6 disciplinas
+UC 2 – Formação Específica                                 1.680   75     41                  27 disciplinas
+UC 3 – Formação Complementar/Integradora                    720    21     31                  13 disciplinas
+Eletivas Livres                                             180
+Atividades Complementares (horas)                           100           6
+Total Geral (horas)                                        2980    116         76
+Atividades de Extensão (horas)                              298           22
+Total C/ Extensão                                          3278          412
+
+       Para a integralização do currículo o discente deverá cursar 192 créditos, distribuídos em
+Três Unidades Curriculares, dos quais 24 créditos correspondem à Formação Geral e Humanista,
+116 créditos à Formação Específica e 52 créditos à Formação Integradora. A formação
+Complementar é composta por 06 créditos de Atividades Complementares e 22 créditos de
+Atividades de Extensão.
+
+3.4 Consonância com o núcleo comum para os cursos da FALECT
+
+       O Curso de Jornalismo possui a carga horária de 360 horas compatíveis com os demais
+cursos da Faculdade em que está inserido. As disciplinas da UC I relacionadas à formação geral e
+humanística tem consonância com o núcleo comum.
+
+3.5 Atividades Acadêmicas Articuladas ao Ensino de Graduação
+
+        As atividades acadêmicas são articuladas em todo o processo formativo pela intersecção
+das atividades de extensão, atividades complementares e de ações de pesquisa que se somam à
+teoria e prática dos componentes curriculares nas aulas e nos laboratórios do Curso de
+Jornalismo. Todos os discentes podem participar como bolsistas e monitores, conforme
+Resolução nº 018/2021-CONEPE                                                                 Página 23 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+disponibilidade pela instituição, em projetos e programas de extensão, de pesquisa e de ensino,
+onde podem complementar sua formação universitária.
+        As atividades acadêmicas que os discentes do Curso podem participar são: Bolsas de
+Iniciação Científica, vinculadas a projetos dos docentes, através de bolsas concedidas pela
+FAPEMAT, pelo CNPq e pela UNEMAT; Programas/Projetos de Extensão e de Inovação
+Tecnológica através de bolsas concedidas pela FAPEMAT, pelo CNPq e pela UNEMAT;
+Programa de Formação de Células Cooperativas (FOCCO) através de bolsas concedidas pela
+UNEMAT; e Monitoria Voluntária – monitor em disciplina ministrada pelo docente.
+        Convém esclarecer que ao tratar de um convênio e diante das especificidades do plano de
+trabalho à luz da normatização das turmas especiais na Unemat, pode-se garantir elementos de
+despesa que permitam financiamentos para as atividades de ensino, extensão e pesquisa,
+primando pela qualidade, eficiência e boa aplicação dos recursos do convênio. É o que acontece
+em vários cursos desta modalidade, fortalecendo ainda mais as experiências do Programa Turma
+Fora de Sede (Turma Especial) em face dos convênios e financiamentos e parcerias públicas e
+privadas.
+
+3.6 Estágio Supervisionado (ES)
+
+3.6.1 Sistematização do Estágio Supervisionado
+
+        De acordo com as Diretrizes Curriculares Nacionais para o curso de graduação em
+Jornalismo, bacharelado (Resolução nº 1, de 27 de setembro de 2013) “o estágio curricular
+supervisionado é componente obrigatório do currículo, tendo como objetivo consolidar práticas de
+desempenho profissional inerente ao perfil do formando, definido em cada instituição por seus
+colegiados acadêmicos, aos quais competem aprovar o regulamento correspondente, com suas
+diferentes modalidades de operacionalização” (BRASIL, 2013, p. 06).
+
+I. Objetivos
+
+       O Estágio Supervisionado tem os seguintes objetivos:
+       ✔ Proporcionar ao estudante a aproximação com a realidade profissional, com vistas ao
+aperfeiçoamento técnico, cultural, científico e pedagógico de sua formação acadêmica, no sentido
+de prepará-lo para o exercício da profissão e da cidadania.
+       ✔ Possibilitar estudos e práticas supervisionadas em atividades externas à unidade de
+oferecimento do Curso, promovendo a articulação entre teoria e prática constituindo-se em
+mecanismo de interação com o mundo do trabalho.
+
+II. Justificativa
+
+       A elaboração da Política de Estágio segue as orientações das DCNs e as orientações
+estabelecidas pela proposta conjunta da Associação Brasileira de Ensino de Jornalismo3 (ABEJ),
+antigo FNPJ, e a Federação Nacional dos Jornalistas – FENAJ, para construção de Regulamentos
+de Estágio Curricular Supervisionado em Jornalismo (2015).
+
+III. Metodologia
+
+        A metodologia do Estágio Supervisionado revela a atenção especial que o Curso realiza do
+ponto de vista de acompanhamento do estagiário no campo de estágio, momento em que ele vai
+realizando a síntese entre a vivência experimentada e o confronto teórico com o docente e os
+demais colegas nas aulas presenciais.
+        O discente poderá cursar o Estágio Supervisionado I quando tiver cumprido um conjunto
+de disciplinas e pré-requisitos das etapas de “fundamentação, teoria e prática”, visto que se trata
+agora do momento de “síntese”, a saber: Fotojornalismo (FJO), Jornalismo em Mídia Sonora
+Resolução nº 018/2021-CONEPE                                                        Página 24 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+(JMS), Redação e apuração jornalística I (RAJ 1), Telejornalismo 1 (TJO1), Jornalismo digital (JDI)
+e Assessoria de Comunicação e Imprensa (ACI). Para matricular-se na disciplina de Estágio
+Supervisionado 2, o aluno deverá ter sido aprovado na disciplina de Estágio Supervisionado 1.
+        As atividades da disciplina de Estágio Supervisionado deverão ser programadas somente
+na fase final do curso, momento em que os discentes recebem orientação pelo docente da
+disciplina, efetivando uma carga horária de aulas presenciais, podendo ser híbrida (presencial e à
+distância) do processo de supervisão. Turmas com mais de 20 discentes podem ser atendidas por
+mais de um professor de estágio, desde que devidamente justificado por escrito a necessidade
+pelo professor e expressamente autorizada pelo Colegiado de Curso.
+        É vedado convalidar como estágio curricular a prestação de serviços realizada a qualquer
+título que não seja compatível com as funções profissionais do jornalista, que caracterize a
+substituição indevida de profissional formado ou, ainda, que seja realizado em ambiente de
+trabalho sem a presença e o acompanhamento de jornalistas profissionais, que deve ser um
+profissional com bacharelado em Jornalismo, tampouco sem a necessária supervisão docente. Da
+mesma forma, é vedado convalidar como estágio curricular os trabalhos laboratoriais feitos
+durante o curso.
+        O Estágio Curricular Supervisionado, em cada uma de suas etapas é avaliado levando-se
+em conta os seguintes critérios:
+        ✔ Coerência e aplicabilidade do Plano de Atividades;
+        ✔ Pontualidade e assiduidade do aluno em seus compromissos, tanto com a organização
+        cedente, como com a UNEMAT;
+        ✔ Coerência e consistência dos Relatórios Parciais de atividades;
+        ✔ Avaliação da organização cedente, através de Relatório firmado por seu representante
+legal;
+        ✔ Relatório Final.
+        É proibido o extraordinário aproveitamento de estudos para a disciplina de Estágio. A
+aprovação do Estágio Supervisionado é indispensável ao aluno para a conclusão do curso.
+
+IV. Compete aos professores de Estágio Supervisionado:
+
+        ✔ Manter contato, com os respectivos representantes das instituições cedentes, para
+acompanhamento do acadêmico;
+        ✔ Orientar o acadêmico para o cumprimento do estágio, fazendo conhecer suas normas, a
+documentação a ser entregue e os prazos estabelecidos;
+        ✔ Auxiliar o acadêmico na escolha da organização e na proposta do plano de atividades;
+        ✔ Analisar e aprovar o plano de atividades apresentado pelo acadêmico;
+        ✔ Examinar o pedido de convalidação de atividades profissionais como Estágio;
+        ✔ Acompanhar o desenvolvimento do estágio durante todo o período letivo, em termos de
+coerência lógica, metodologia, fundamentação teórica, relevância social e científica, aplicação
+prática e sua contribuição para o aprendizado do acadêmico;
+
+V. Campo de atividades do Estágio Supervisionado
+
+         Em relação ao campo de atividades, o Estágio Supervisionado poderá ser realizado em
+instituições públicas, privadas ou do terceiro setor ou na própria instituição de ensino, em seus
+veículos autônomos, suas assessorias profissionais ou em projetos da instituição.
+         Nos veículos ou assessorias da instituição de ensino frequentadas pelo discente-
+estagiário, a realização do estágio é possível desde que não sejam atividades laboratoriais
+desenvolvidas no âmbito das disciplinas, dos projetos de extensão e de pesquisa. Além dos
+veículos e assessorias, outros projetos universitários podem recepcionar o estagiário se não
+visarem a lucro e se houver efetivo acompanhamento de professor-orientador e de um profissional
+jornalista registrado, com diploma de graduação em Jornalismo, na supervisão.
+Resolução nº 018/2021-CONEPE                                                        Página 25 de 46
+                                 ESTADO DE MATO GROSSO
+                       SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                         UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                           “CARLOS ALBERTO REYES MALDONADO”
+                     CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+VI. Atividades de Estágio
+
+         As atividades de estágio devem ser realizadas exclusivamente em empresas de
+comunicação, em atividades compatíveis com as funções desempenhadas por jornalistas na
+contemporaneidade. Nesta lógica se enquadram: empresas de radiodifusão (rádio e televisão),
+Jornais impressos, sites jornalísticos, empresas que prestam serviços de assessoria de
+comunicação/imprensa e social media, divulgação cinematográfica, agências de
+publicidade/propaganda ou de notícias. Incluem-se ainda, as atividades jornalísticas no âmbito da
+comunicação organizacional, e sazonalmente Assessoria de comunicação/imprensa para
+campanhas eleitorais, desde que coordenadas por uma empresa de comunicação e orientadas
+por profissionais formados em Jornalismo. Tais atividades serão avaliadas como pertinentes a
+priori e a posteriori pelo professor de Estágio. Deste modo, estagiário só poderá atuar nas funções
+e atividades previstas nas normas deontológicas que orientam a profissão de jornalista, ficando
+vedado o desvio para quaisquer outras que não tenham natureza jornalística.
+
+VII. Carga Horária
+
+        No total, o aluno deverá cumprir 240 horas de estágio, sendo 120 horas na primeira fase
+(Estágio I) e 120 horas na segunda fase (Estágio II). Os créditos serão distribuídos em teóricos (T)
+e práticos (P). As 120 horas de cada fase são distribuídas, compreendendo 60 horas de créditos
+teóricos com aulas teóricas, sendo que 15 horas podem ser ofertadas na modalidade à distância;
+as 60 horas de créditos práticos são realizadas no campo de estágio.
+
+VIII. Outras considerações
+
+        Considerando que a modalidade do curso é no regime de Turma Fora de Sede (Turma
+Especial) e para garantir a qualidade do modelo de Estágio Supervisionado historicamente
+implantado no Curso de Jornalismo da Unemat, conforme relatado no artigo “[...] O Estágio
+Supervisionado em Jornalismo da Unemat e as implicações para o ensino” (DA SILVA, OLIVEIRA,
+2015), é importante considerar:
+        1 – As disciplinas Estágio Supervisionado I e II, ao contrário de outras disciplinas do curso,
+seguirão regime diferenciado, não sendo modulares ou concentradas. Devem se estender ao
+longo do calendário, proporcionalmente a um período letivo de um curso regular (4 meses ou 120
+dias);
+        2 - O professor responsável pelas disciplinas de Estágio, denominado “Coordenador de
+Estágio”, deve acompanhar in loco, as atividades de estágio dos alunos, conforme o que define o
+item IV. Ou seja, além das aulas presenciais sobre legislação e orientações para a elaboração de
+relatórios de estágio, o docente deve eventualmente acompanhar o estudante em seu campo de
+estágio e mediar presencialmente as questões quando necessário;
+        3 – O estágio desenvolvido pelos alunos poderá se dar em outras localidades
+(Preferencialmente dentro do estado de Mato Grosso), além da cidade de Rondonópolis. O
+professor deve estar disponível para deslocamento em todos os procedimentos e etapas da
+disciplina. O ônus do deslocamento é da instituição e do convênio firmado.
+        O presente projeto é um convênio, com financiamento externo, de sorte que os professores
+são contratados, conforme Resolução 002/2019-CONEPE e consectários legais, por meio de
+edital seletivo em específico.
+        Assim, à luz das resoluções em vigor, sobre as turmas especiais, resta patente que é
+necessário que tais atividades de estágio sejam articuladas por uma equipe com atribuições
+específicas. Assim, no presente projeto serão destinados recursos para a função de Coordenador
+do Estágio Curricular Supervisionado, conforme artigo da Resolução indicada acima, tendo como
+seguintes atribuições:
+        I. Cumprir e fazer cumprir a política de estágios da UNEMAT;
+
+Resolução nº 018/2021-CONEPE                                                           Página 26 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+       II. Promover o conhecimento, por parte dos professores e acadêmicos, do presente
+Regulamento e da Legislação que rege o Estágio Curricular Supervisionado;
+       III. Encaminhar as propostas de convênios com instituições públicas, privadas e não
+governamentais, conforme exigência legal (Abertura de campos de estágio);
+       IV. Manter o arquivo atualizado das oportunidades de estágio;
+       V. Divulgar as ofertas de estágio junto aos acadêmicos;
+       VI. Propor a regulamentação de assuntos específicos do curso;
+       VIII. Realizar visitas nas empresas para contato, quando necessário.
+       IX. Entregar ao Colegiado de Curso o plano de atividades a ser desenvolvido durante o
+semestre letivo, nos primeiros 30 (trinta) dias do início das aulas, e o plano de atividades fora do
+período letivo, com no máximo 30 (trinta) dias antes do início das atividades.
+
+3.7 Trabalho de Conclusão de Curso (TCC)
+
+         Para concluir o curso, os alunos deverão apresentar e defender, perante banca
+examinadora, trabalho de conclusão de curso, nas modalidades Monografia e projeto experimental
+em Jornalismo (PEJ).
+         A Monografia se trata de um trabalho individual de caráter analítico, representando o
+resultado de estudo investigativo, cujo teor expressa conhecimento do ferramental metodológico,
+do aparato conceitual e teórico e sua correta aplicação diante do tema escolhido. Esta iniciativa
+científica é fundamental para que o profissional não se limite a ser um reprodutor de técnicas, mas
+que pense a lógica por trás dos processos e possa dar exemplos de como o campo científico é útil
+na construção cotidiana da sociedade.
+         O projeto experimental em Jornalismo (PEJ), caracteriza-se como trabalho de caráter
+profissional, representando o resultado de atividades e experiências, cujo teor expressa
+necessidades, técnicas e conhecimentos práticos previstos nas diversas disciplinas do curso de
+Jornalismo. É objetivo fundamental do PEJ o enriquecimento do conhecimento acadêmico diante
+da realidade mercadológica, através da prática e instrumentação do aproveitamento teórico do
+estudante. Em todas as suas etapas de realização, o PEJ deverá ser realizada individual e/ou
+equipe (até 03 alunos).
+         De forma basilar, observa-se ainda os seguintes pontos:
+         a) Existência de disciplinas específicas, nos semestres iniciais, destinadas a fornecer as
+bases teóricas e metodológicas do pensamento científico;
+         b) Destinação de horas especificamente para a orientação da elaboração da Monografia.
+         A turma fora de sede- turma única, tem resolução específica, qual seja Resolução nº
+042/2016 – CONEPE! Notório que pode ser utilizado de modo subsidiário a Resolução nº
+055/2015 E 30/2012-CONEPE; e Parecer nº 026/2016-CONEPE/CSE.
+         A Monografia deverá refletir todo aprendizado do acadêmico, que dá os últimos passos na
+graduação antes de iniciar a vida profissional, em qualquer das áreas de atuação jornalística. A
+exigência da Monografia reforça o argumento de que o curso de Bacharelado em Jornalismo deve
+ter efetivo compromisso com a pesquisa. Representa um momento privilegiado para a formação
+do aluno, como um coroamento do currículo pleno e dos objetivos propostos para o curso.
+         Significa também um convite explícito à continuidade da vida acadêmica, sendo, por
+muitos, encarada como um prenúncio de uma futura dissertação de mestrado e de tese de
+doutorado. Com a exigência da Monografia, o acadêmico será estimulado a elaborar um projeto
+de pesquisa sobre um tema de seu interesse. Em seguida, será orientado a realizar pesquisa,
+com fim específico, colocando nela toda a universalidade de valores colhida durante a graduação.
+         A Monografia para conclusão do Curso guarda coerência com a Resolução 030/2012 –
+CONEPE aonde se exige que o corpo do trabalho (introdução, desenvolvimento e conclusão)
+deve possuir, no mínimo 25 (vinte e cinco) páginas, sendo, portanto, clara a opção pelo trabalho
+monográfico.
+         Primando pela qualidade dos trabalhos realizadas na pesquisa acadêmica e
+desenvolvimento da monografia é importante assumirmos os compromissos e consectários legais:
+
+Resolução nº 018/2021-CONEPE                                                         Página 27 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+        1- Existência do cargo de Coordenador de TCC, sendo que as 2 (duas) disciplinas devem
+ser ministradas pelo mesmo docente, evitando-se modificações abruptas na concepção do
+processo de pesquisa e metodologia, razão pela qual justifica-se tecnicamente tal contexto;
+        2- A realização de encontros presenciais para orientação dos trabalhos, com pagamento
+de pró-labore final de R$ 200,00 para cada orientador, além dos encontros por meio de recursos
+virtuais;
+        3- A realização da banca de qualificação e de defesa.
+        Tais operacionalizações seguirão as normatizações em vigor e serão objetivos de
+detalhamentos posteriores, haja vista os impactos pedagógicos e financeiros
+
+3.8 Atividades Complementares
+
+        As Atividades Complementares são componentes curriculares que possibilitam o
+reconhecimento, por avaliação, de habilidades, conhecimentos e competências do aluno, inclusive
+adquiridas fora do ambiente de ensino. As atividades complementares constituem componentes
+curriculares enriquecedores e úteis para o perfil do formando. Não devem ser confundidas com
+Estágio Curricular Supervisionado ou com Trabalho de Conclusão de Curso.
+        O conjunto de Atividades Complementares tem o objetivo de dar flexibilidade ao currículo e
+deve ser selecionado e realizado pelo aluno ao longo de seu curso de graduação, de acordo com
+seu interesse e com a aprovação da coordenação do curso.
+        As Atividades Complementares devem ser realizadas sob a supervisão/
+orientação/avaliação de docentes do próprio curso. Os mecanismos e critérios para avaliação
+devem ser definidos em regulamento próprio da instituição, respeitadas as particularidades e
+especificidades próprias do curso de Jornalismo, atribuindo-se um sistema de créditos, pontos ou
+computação de horas para efeito de integralização do total previsto para o curso.
+        Para além das atividades de extensão em que o discente precisa cumprir 10% da carga
+horária do curso em atividade curricular de extensão (ACE) como protagonista, o Curso de
+Jornalismo considera como atividades complementares:
+        Atividades didáticas – frequência e aprovação em disciplinas não obrigatórias no currículo
+do curso que ampliem o conhecimento dos estudantes de jornalismo em conteúdos específicos,
+tais como: economia, política, cultura, esportes, ciência, tecnologia, dentre outros.
+        Atividades acadêmicas – apresentação de relatos de iniciação científica, pesquisa
+experimental, participação em eventos científicos (seminários, simpósios, conferências,
+congressos, fóruns) e em minicursos e oficinas ou monitoria didática em congressos acadêmicos
+e profissionais.
+        O discente de Jornalismo deverá cumprir, ao longo do curso, um total de 60 horas de
+atividades complementares. Não serão aceitos certificados apresentados para cumprimento da
+ACE. Recomenda-se que essa carga horária seja desenvolvida em atividade de ensino, extensão
+e pesquisa, da seguinte forma:
+                                Quadro 5 Atividades complementares
+                      Atividades Complementares                   CH máxima     Requisitos
+      I – Atividades de iniciação à docência e pesquisa              20h        Certificado
+      Monitoria
+      Bolsista ou voluntário em projeto de pesquisa e de ensino
+      institucionalizados
+      II – Congressos, seminários, conferências e afins              20 h       Certificado
+      Participação em evento científico
+      Participação em cursos complementares a sua formação
+      Visita técnica do Curso fora da carga horária do curso
+      Participação em organização de evento
+      III – Publicações                                              20h        Certificado
+      Artigos publicados em anais de eventos
+      Artigos publicados em revista especializada
+Resolução nº 018/2021-CONEPE                                                        Página 28 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+      Apresentação de trabalho em evento científico
+      Participação em mostras, exposições e concursos
+      científicos
+      IV – Vivência profissional complementar                        20h        Certificado
+      Cursos à distância
+      Disciplinas cursadas em programas de extensão da
+      Unemat ou de IES, devidamente institucionalizados.
+      Participação como bolsista ou voluntário em projetos
+      institucionalizados na Unemat.
+                                                             Total   100h
+
+3.9 Das ações de extensão
+
+        O Projeto Pedagógico do Curso de Jornalismo, cumpre o estabelecido pelo Conselho
+Nacional de Educação, que instituiu as Diretrizes Curriculares Nacionais. Considerando a
+necessidade de promover e creditar as práticas de Extensão universitária e garantir as relações
+multi, inter e ou transdisciplinares e interprofissionais da Universidade e da sociedade, esse PPC
+se fundamenta no princípio da indissociabilidade entre Ensino, Pesquisa e Extensão, previsto no
+art. 207 da Constituição da República Federativa do Brasil de 1988; na concepção de currículo
+estabelecida na Lei de Diretrizes e Bases da Educação (Lei nº 9.364/96); na Meta 12.7 do Plano
+Nacional de Educação 2014/2024 (Lei nº 13.005/2014); na Resolução nº 07 de 2018 do Conselho
+Nacional de Educação e na Política de Extensão e Cultura da Unemat de modo a reconhecer e
+validar as ações de Extensão institucionalizadas como integrantes da grade curricular do Curso
+de Jornalismo.
+        A Creditação de Extensão é definida como o registro de atividades de Extensão no
+Histórico Escolar, nas diversas modalidades extensionistas, com escopo na formação dos alunos.
+Para fim de registro considera-se a Atividade Curricular de Extensão – ACE - a ação extensionista
+institucionalizada na Pró-reitoria de Extensão e Cultura da Unemat, nas modalidades de projeto,
+curso e evento, coordenado por docente ou técnico efetivo com nível superior. As ACE’s fazem
+parte da matriz curricular deste PPC e compõe, no mínimo, 10% (dez por cento) do total da carga
+horária curricular. Este curso de Jornalismo garante ao discente a participação em quaisquer
+atividades de Extensão, respeitados os eventuais pré-requisitos especificados nas normas
+pertinentes. O discente deve atuar integrando a equipe no desenvolvimento das atividades
+curriculares de extensão (ACE’s), nas seguintes modalidades:
+        I. Em projetos de Extensão, como bolsista ou não, nas atividades vinculadas;
+        II. Em cursos, na organização e/ou como ministrantes;
+        III. Em eventos, na organização e/ou na realização.
+        As ACE’s serão registradas no histórico escolar dos discentes como forma de seu
+reconhecimento formativo, e deve conter título, nome do coordenador, IES de vinculação, período
+de realização e a respectiva carga horária.
+
+3.10 Avaliação
+
+        A Universidade do Estado de Mato Grosso – UNEMAT concebe a prática de avaliação
+institucional como um princípio formativo da prática pedagógica, da gestão, do corpo técnico,
+docente e gestor, da sociedade e, principalmente no que tange as diretrizes para o planejamento
+das ações, sobretudo, no que refere-se ao processo de aprimoramento do ensino e
+aprendizagem. Essa avaliação é construída com a participação de toda comunidade acadêmica,
+pautada na democracia proporcionando autonomia no modo de dizer sobre a Universidade.
+        De acordo com a orientação da Universidade do Estado de Mato Grosso, a avaliação
+institucional, filia-se a uma concepção que desenvolve a cultura da avaliação, que assim pensada
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                        Página 29 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+não tem fim em si mesma, mas é um ato político, que procura oportunizar a participação de todos
+no processo, investindo nas tomadas de decisão a partir dos dados coletados. 5
+        A organização das atividades no âmbito da Universidade que é por natureza um espaço
+diverso, carece de políticas capaz de mapear essas diferenças e estabelecer uma relação
+democrática, pautada no respeito, com vistas a construir acordos necessários à garantia do
+sucesso da instituição enquanto espaço de debate, participação, autonomia e do conhecimento
+construtivo. O resultado da avaliação institucional deve ser trabalhado como forma de exercitar a
+participação da comunidade acadêmica nas decisões institucionais.
+
+4 EMENTÁRIO
+
+                                         1º SEMESTRE
+
+LINGUAGEM FOTOGRÁFICA – CH. 60 horas. Créditos 2.2
+Breve História da Fotografia Ocidental – e de Mato Grosso. Estudo e prática fotográfica em uma
+DSLR: dispositivos da fotometria e acessórios (objetivas, filtros etc). Técnicas fotográficas e
+criatividade: profundidade de campo, panning, zooming, light painting. Composição fotográfica:
+enquadramentos e elementos da linguagem fotográfica. Contexto sociocultural da fotografia
+enquanto ferramenta comunicacional.
+Bibliografia básica:
+BARTHES, Roland. A Câmara Clara. Rio de Janeiro: Nova Fronteira, 1984 (2000).
+BAURET, Gabriel. A fotografia: história, estilos, tendências, aplicações. Edições 70 -Colecção:
+Arte & Comunicação. Lisboa, 2011.
+BUSSELLE, Michael. Tudo Sobre Fotografia. São Paulo: Pioneira, 1979.
+FOLTS, James. Manual de fotografia. São Paulo: Cengage Learning, 2011.
+KOSSOY, Boris. Fotografia e História. São Paulo: Ateliê Editorial, 2001.
+KUBRUSLY, Cláudio A. O que é Fotografia. São Paulo: Brasiliense, 1991.
+LANGFORD, Michael. Fotografia. Rio de Janeiro, Ediouro, 1997.
+
+INTRODUÇÃO AO JORNALISMO – CH. 60 horas. Créditos 3.1
+O jornalismo como campo profissional e de conhecimento. A função, o papel social e os
+fundamentos da profissão. A especificidade do discurso e da linguagem jornalística. Organização,
+funcionamento e rotina jornalística nas mídias impressa, eletrônicas e digitais. Os campos de
+atuação, tendências e desafios contemporâneos do mercado de trabalho.
+Bibliografia básica:
+BERGER, Peter & LUCKMANN, Thomas. (2007) Construção social da realidade. 26a edição.
+Petrópolis, RJ: Editora Vozes.
+KUNCZIK, Michael. Conceitos de Jornalismo: norte e sul. São Paulo: Editora da Universidade de
+São Paulo, 2002
+SODRÉ, Muniz. A narração do fato. Petrópolis, Vozes, 2009.
+TRAQUINA, Nelson. Teorias do jornalismo. Volume 1: Porque as notícias são como são.
+Florianópolis: Insular, 2005.
+TRAQUINA, Nelson. Teorias do jornalismo Volume 2. A tribo jornalística: uma comunidade
+interpretativa transnacional. Florianópolis: Insular, 2005.
+
+HISTÓRIA DO JORNALISMO – CH. 60 horas. Créditos 4.0
+Relação entre história e jornalismo; A origem e a evolução do jornalismo no mundo. A chegada e
+o desenvolvimento do jornalismo no Brasil. A expansão capitalista e o surgimento das empresas
+jornalísticas. O impacto das tecnologias no jornalismo: de Gutenberg à era das mídias eletrônicas.
+Bibliografia básica:
+
+
+5   Apresentação das concepções de avaliação institucional         da   Unemat.   Disponível   em:
+http://portal.unemat.br/?pg=site &i=avaliacao&m=apresentacao
+Resolução nº 018/2021-CONEPE                                                       Página 30 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+ABREU, Alzira Alves de. A Modernização da Imprensa (Mil Novecentos e Setenta - Dois Mil). Rio
+de Janeiro: Jorge Zahar, 2002.
+BAHIA, Juarez. Jornal História e Técnica: História da Imprensa no Brasil. São Paulo: Editora
+Ministério da Educação e Cultura, 1964.
+BARBOSA, Marialva. História Cultural da Imprensa. Rio de Janeiro: Mauad, 2007.
+SODRÉ, Nelson Werneck. História da imprensa no Brasil. Rio de Janeiro: Mauad, 1999.
+THOMPSON, John. A mídia e a modernidade: uma teoria social da mídia. Petrópolis: Vozes,
+1998.
+
+LÍNGUA PORTUGUESA – CH. 60 horas. Créditos 3.1
+Fonética (estruturação silábica e tonicidade), Morfologia (as classes gramaticais, conceitos,
+classificação e flexão), Sintaxe (termos da oração e suas relações, concordância e regência)
+Bibliografia básica:
+BACCEGA, M. A. Concordância verbal. São Paulo: Ática, 2001.
+BECHARA, Evanildo. Moderna Gramática Portuguesa. Rio de Janeiro: Nova Fronteira, 2009.
+CUNHA, C. & Cintra. L. Nova Gramática do Português Contemporâneo. Rio de Janeiro: Nova
+Fronteira, 2001.
+LEITÃO, L. R. org. Gramática Crítica – O culto e o coloquial no português brasileiro. Rio de
+Janeiro: Porta Aberta. 1994.
+NEVES, M. H. M. Gramática de usos do português. São Paulo: UNESP, 2000.
+
+FILOSOFIA – Eletiva Livre - CH. 60 horas. Créditos 4.0
+O nascimento da Filosofia. Modelos e métodos da atividade filosófica. Temas de filosofia:
+Epistemologia; Ética; Lógica; Estética. Temas de filosofia contemporânea: Linguagem; Discurso;
+Narrativa.
+Bibliografia básica:
+ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Temas de Filosofia. 3 ed. São
+Paulo: Moderna, 2005.
+ARISTÓTELES. Ética a Nicômaco. Coleção Os Pensadores. São Paulo: Abril Cultural, 1987.
+BENJAMIN, Walter. Obras escolhidas Volume I: Magia e técnica, arte e política. Ensaios sobre
+literatura e história da cultura. Trad. Sérgio Paulo Rouanet. São Paulo: Brasiliense, 2012.
+CHAUI, Marilena. Convite à Filosofia. 6. ed. São Paulo: Ática, 1997.
+COSTA, Cláudio. Filosofia da linguagem. Rio de Janeiro: Jorge Zahar, 2003.
+DESCARTES. René. Discurso do Método. São Paulo: Nova cultural, 1987.
+FOUCAULT, Michel. Arqueologia das ciências e história dos sistemas do pensamento. Rio de
+Janeiro: Forense Universitária, 2005.
+GAGNEBIN, Jeanne-Marie. Lembrar, Escrever, Esquecer. São Paulo, Ed. 34, 2006.
+KANT, Immanuel. Crítica da razão pura. Trad. Valério Rhoden. São Paulo: Abril Cultural, 1996.
+NEF, Frederic. A Linguagem: Uma abordagem filosófica. Rio de Janeiro: Jorge Zahar, 1992.
+MARCONDES, Danilo. Filosofia, linguagem e comunicação. 1992.
+PLATÃO. A República. São Paulo: Martin Claret, 2001.
+
+COMUNICAÇÃO E CULTURA – CH. 60 horas. Créditos 4.0
+A Cultura como um conceito antropológico. A proposta de Geertz e a interpretação das culturas.
+Um olhar antropológico sobre a formação da cultura brasileira. A tradição dos Estudos Culturais
+Britânicos e Latinoamericanos. Identidade cultural na contemporaneidade. Cultura e ideologia da
+mídia. Comunicação como sistema cultural. Comunicação intercultural. e mediações
+socioculturais. Ativismo midiático e a teoria brasileira da Folkcomunicação. Novos cenários
+etnográficos para o campo da comunicação
+Bibliografia básica:
+CANCLINI, Néstor Garcia. Culturas Híbridas: estratégias para entrar e sair da modernidade. São
+Paulo: Edusp, 2006.
+
+
+Resolução nº 018/2021-CONEPE                                                     Página 31 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+GEERTZ, Clifford. A interpretação das culturas. - l.ed., I3.reimpr. - Rio de Janeiro: LTC,
+2008.323p.
+HALL, Stuart. Identidade Cultural na pós-modernidade. 10. Ed. Rio de Janeiro: Zahar, 2010.
+KELLNER, Douglas. A cultura da mídia – estudos culturais: identidade e política entre o moderno
+e o pós-moderno. Bauru: EDUSC, 2001.
+LAPLANTINE, François. Aprender antropologia. São Paulo: Brasiliense, 2003.
+MALINOWSKI, Bronislaw. Argonautas do pacifico ocidental: Um relato do empreendimento e da
+aventura dos nativos nos arquipélagos da Nova Guiné melanesia. São Paulo: Abril Cultural, 1976.
+436 p.
+MARTIN-BARBERO, Jesus. Dos meios às mediações. 2ª Edição. Rio de Janeiro: UFRJ, 2005.
+LUYTEN, Joseph M. Sistema de comunicação popular. São Paulo: Ed. Ática, 1988.
+RIBEIRO, Darcy. O povo brasileiro. A formação e o sentido de Brasil. 2. ed. São Paulo:
+Companhia das Letras, 1995
+ROQUE, Laraia de Barros. Cultura: um conceito antropológico. 14.ed. Rio de Janeiro: Jorge Zahar
+Ed., 2001
+TRAVANCAS, Isabel. O mundo dos jornalistas. Summus Editorial, 1992
+
+                                          2º SEMESTRE
+
+TEORIAS DA COMUNICAÇÃO I - CH. 60 horas. Créditos 4.0
+A constituição da sociedade de massa e a comunicação. Primeiras teorias da comunicação,
+Escola de Chicago, teoria hipodérmica, teorias funcionalistas, teoria matemática, modelo Two-
+step-flow. A teoria crítica e o conceito de indústria cultural. Escola de Frankfurt. Reprodutividade
+técnica e sua relação com a mídia e a arte. A teoria Culturológica – a cultura de massas. A
+Midiologia de Marshall Mcluhan. O meio é a mensagem. Meios de comunicação de massa como
+extensão do homem. O impacto sensorial. Aldeia global.
+Bibliografia básica:
+WOLF, Mauro. Teorias da comunicação. Lisboa: Editorial presença, 1995.
+HOHFELDT, Antonio; MARTINO, Luiz C.; FRANÇA, Vera Veiga. Teorias da comunicação:
+conceitos, escolas e tendências. Petrópolis: Editora Vozes, 2001.
+TRINTA, Aluizio & POLISTCHUCK. Teorias da comunicação: o pensamento e a prática da
+comunicação social. Rio de Janeiro: Editora Campus, 2003.
+MCLUHAN, Marshall. Os Meios de Comunicação como Extensões do Homem. São Paulo: Cultrix,
+1964.
+ADORNO, T.W. “A Indústria Cultural”. In: COHN, Gabriel (org.). Comunicação e Indústria Cultural.
+São Paulo: Editora Nacional, 1977, p.287-295.
+
+INTRODUÇÃO À METODOLOGIA CIENTÍFICA – CH. 60 horas. Créditos 3.1
+ A organização da vida de estudos na universidade. Leitura e documentação. Ciência e
+conhecimento científico. Citação e Plágio. Problema e hipótese. Objetivos de pesquisa.
+Metodologias de pesquisa. Instrumentos de coleta de dados. Métodos para análise de dados.
+Trabalhos científicos e acadêmicos. Normas Técnicas (ABNT) aplicáveis à produção e
+apresentação de trabalhos acadêmicos e científicos.
+Bibliografia básica:
+CRESWELL, John. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 3. ed. Porto
+Alegre: Artmed, 2010.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico. 7. ed.
+São Paulo: Atlas, 2014.
+SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 22. ed. São Paulo: Cortez, 2002.
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                         Página 32 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+DESIGN – CH. 60 horas. Créditos 2.2
+A história da Comunicação visual; A sintaxe da linguagem visual; Conceitos básicos do Design;
+Técnicas de designer, Editoração eletrônica aplicada ao design; a linguagem gráfica do
+jornalismo; noções básicas de Diagramação de material jornalístico; tratamento de imagens em
+software específico; técnicas de ilustração e infográficos; estudo da aplicação visual nas
+publicações; prática laboratorial e produção ainda que primária de modelos de páginas.
+Bibliografia básica:
+DONDIS, D. A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 2007.
+FARINA, Modesto. Psicodinâmica das cores. São Paulo: Anablumme, 2000.
+HURLBURT, Allen. Layout: O Design Da Página Impressa. Trad. Edmilson O. Conceição; Flávio
+M. Martins. São Paulo: Nobel, 2002.
+COLLARO, Antônio Celso. Projeto gráfico – Teoria e Prática da Diagramação. 3. ed. São Paulo:
+Summus, 2002.
+COLLARO, Antônio Celso. Produção gráfica – arte e técnica da mídia impressa. São Paulo:
+Pearson Prentice Hall, 2007.
+
+LINGUAGEM AUDIOVISUAL – CH. 60 horas. Créditos 2.2
+Introdução à linguagem audiovisual; Analise das imagens em suas dimensões técnicas,
+discursivas, cognitivas e afetivas; O impacto das novas tecnologias e da internet na linguagem
+audiovisual; Teoria e crítica do cinema; Estudos da linguagem cinematográfica e suas
+repercussões no vídeo e nas redes digitais; A imagem e o som como construção narrativa;
+Segmentação da narrativa audiovisual; Os profissionais; Técnicas de produção de imagens:
+enquadramento, angulo, planos, cor, movimentos de câmera; A imagem nas mídias digitais;
+Analise estética e ontológica da imagem.
+Bibliografia básica:
+AUMONT, Jacques. A IMAGEM. SÃO PAULO: PAPIRUS EDITORA, 1993.
+COMPARATO, Doc. DA CRIAÇÃO AO ROTEIRO: TEORIA E PRÁTICA. RIO DE JANEIRO:
+SUMMUS EDITORIAL, 2009.
+MACHADO, Arlindo. A TELEVISÃO LEVADA A SÉRIO. SÃO PAULO: SENAC, 2014.
+MOURA. Edgar. 50 ANOS: LUZ, CÂMERA, AÇÃO. SÃO PAULO: SENAC, 2000.
+WATTS, Harris. ON CAMERA: O CURSO DE PRODUÇÃO DE FILME E VÍDEO DA BBC. SÃO
+PAULO: SUMMUS, 1990.
+
+LEITURA E PRODUÇÃO DE TEXTO – CH. 60 horas. Créditos 2.2
+Leitura e interpretação de textos diversos. A prática de texto para o jornal com ênfase na notícia e
+na reportagem. Aspectos do texto: coesão, coerência, clareza e objetividade.
+Bibliografia básica:
+GUIMARAES, Elisa. A articulação do texto. 8. ed. São Paulo: Ática, 2003.
+FAVERO, Leonor Lopes. Coesão e coerência textuais. 9. ed. São Paulo: Ática, 2000.
+& KOCH, Ingedore G. Villaca. Linguística textual: Introdução. 6. ed. São Paulo:
+Cortez, 2002.
+PINTO, A.J.A. & SOUZA, S.R. (orgs.) Opinião na mídia contemporânea. São Paulo: Arte e
+Ciência, 2009.
+BOAVENTURA, E. M. Como ordenar as ideias. 3ed. São Paulo: Ática, 1993.
+
+INTRODUÇÃO À SOCIOLOGIA – CH. 60 horas. Créditos 4.0
+Desenvolvimento da sociedade moderna e da sociologia. Objetos e métodos da sociologia. A
+produção da informação na sociedade: comunicação e transmissão social. A construção da
+cidadania. Movimentos Sociais, Mídia e Política.
+Bibliografia básica:
+ADORNO, Theodor. Indústria Cultural e Sociedade, São Paulo, Paz e Terra, 2002.
+
+
+Resolução nº 018/2021-CONEPE                                                         Página 33 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+BAUMAN, Zygmunt; MAY, Tim. Aprendendo a pensar com a sociologia. Rio de Janeiro: Jorge
+Zahar, 2010.
+BOURDIEU, Pierre. Sobre a televisão. Rio de Janeiro: Jorge Zahar, 1997.
+BRYM, Robert (et.al.). Sociologia: sua bússola para um novo tempo, São Paulo, Cengag Learning,
+2008.
+COHN, Gabriel. Sociologia da comunicação: Teoria e ideologia. Petrópolis-RJ: Vozes, 2004.
+FERNANDES, Florestan, A Sociologia no Brasil, Rio de Janeiro, Vozes, 1977.
+SÁ, Cristina (org.). Olhar urbano, olhar humano. São Paulo: IBRASA, 1991.
+TURNER, Victor. Dramas, campos e metáforas: ação simbólica na sociedade humana. Niterói:
+EdUFF, 2008
+
+                                          3º SEMESTRE
+
+FOTOJORNALISMO – CH. 60H – Créditos 2.2
+Breve História do Fotojornalismo Ocidental e do Brasil: uma abordagem sociocultural. Gêneros
+fotojornalísticos: a prática da fotografia no jornalismo. Fotografia e edição jornalística: acaso e
+percepção do fotógrafo. Questões éticas e profissionais no ofício do fotojornalista. Fotojornalismo
+na contemporaneidade: DSLR, dispositivos móveis e redes sociais. Avaliação técnica e crítica de
+fotografias publicadas em jornais, revistas e sites.
+Bibliografia básica:
+BAURET, Gabriel. A fotografia: história, estilos, tendências, aplicações. Edições 70 - Colecção:
+Arte & Comunicação. Lisboa, 2011.
+BUITONI, Dulcília Schroeder. Imprensa feminina. 2 ed. São Paulo: Editora Ática, 1990.
+FELIPPI, Ângela; SOSTER, Demétrio de Azeredo. Edição de imagens em jornalismo. Santa Cruz
+do Sul, RS: EDUNISC, 2008.
+FUQUA, Paul. Faces: fotografia e a arte de retratar. Rio de Janeiro: Elsevier, 2011.
+KOBRÉ, Kenneth. Fotojornalismo: Uma abordagem profissional. Rio de Janeiro: Elsevier, 2011.
+KOSSOY, Boris. Fotografia e História. 2.Ed. São Paulo: Ateliê Editorial, 2001.
+SAMAIN, Etienne. O Fotográfico. São Paulo: Editora Hucitec, 1998.
+
+JORNALISMO EM MÍDIA SONORA - CH. 60 horas. Créditos 2.2
+A mídia sonora no Brasil. A linguagem da mídia sonora. Técnicas de produção, redação, texto e
+edição de notícias, entrevistas, reportagens e programas informativos para a mídia sonora. A
+mídia sonora atual: práticas, perspectivas e desafios.
+Bibliografia Básica:
+FERRARETO, Luiz Artur. Rádio: o veículo, a história e a técnica. Porto Alegre: Editora Sagra
+Luzzatto, 2001.
+KLÖCKNER, Luciano; PRATA, Nair (orgs.). Mídia sonora em 4 dimensões: 1ª ouvintes e falantes,
+2ª memória política, 3ª programas de rádio, 4ª tecnologia e futuro. Porto Alegre: PUCRS, 2011.
+LOPEZ, D. C. Radiojornalismo Hipermidiático: Tendências e perspectivas do jornalismo de Rádio
+all news brasileiro em um contexto de convergência tecnológica. LabCom, 2010. Disponível em
+MEDITSCH, Eduardo Barreto Vianna. Teorias do rádio. Florianópolis: Insular, 2005.
+ORTRIWANO, G. S. A informação no rádio: os grupos de poder e a determinação dos conteúdos.
+São Paulo: Summus, 1985.
+
+TÉCNICA DE REDAÇÃO JORNALÍSTICA - CH. 60 horas. Créditos 2.2
+Conceituação de notícia e de critérios de noticiabilidade. Construção de pauta jornalística. A
+importância do interesse público no jornalismo. Noções de gênero informativo (nota, notícia,
+serviço), interpretativo (reportagem) e opinativo (editorial, carta do editor, carta do leitor,
+comentário, artigo, resenha, coluna, crônica, charge). Linha editorial. Funcionamento do jornal e
+do site diário. Métodos e recursos da apuração jornalística. Redação de notas e notícias
+impressas (hierarquização da informação, uso criativo do lead, diálogo com percepção literária).
+Bibliografia básica:
+
+Resolução nº 018/2021-CONEPE                                                          Página 34 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+ERBOLATO, Mário L. Técnicas de codificação em jornalismo. São Paulo: Ática, 2004.
+JORGE, Thaís de Mendonça. Manual do foca: guia de sobrevivência para jornalistas. São Paulo:
+Contexto, 2010.
+KOTSCHO, Ricardo. A prática da reportagem. São Paulo: Ática, 2004.
+KOVACH, Bill & ROSENSTIEL, Tom. Os elementos do Jornalismo – o que os jornalistas devem
+saber e o público exigir. São Paulo: Geração Editorial, 2004. LAGE, Nilson. Estrutura da notícia. 8.
+ed. –São Paulo: Ática, 2004.
+
+PLANEJAMENTO GRÁFICO - CH. 60 horas. Créditos 2.2
+Desenvolvimento de projeto gráfico e editorial de jornal e revista; programação visual em murais;
+programação visual de folders e folhetos; programação visual de jornais de formatos tablóides,
+standards e menores; programação visual de revistas; planejamento visual de comunicação
+digital; diagramação padrão e exercício de criatividade; edição de imagens; interrelação entre
+diagramação de material jornalístico e publicitário; produção e gestão social de jornal-laboratório.
+Bibliografia básica:
+COLLARO, Antônio Celso. Projeto gráfico – Teoria e Prática da Diagramação. 3. ed. São Paulo:
+Summus, 2002.
+COLLARO, Antônio Celso. Produção gráfica – arte e técnica da mídia impressa. São Paulo:
+Pearson Prentice Hall, 2007.
+KRUG, Steve. Não me faça pensar. Uma abordagem de bom senso à usabilidade na web. Trad.
+Acauan Pereira Fernandes. Rio de Janeiro: Altabooks, 2013.
+MARQUES, L. H. Teoria e prática de redação para jornalismo impresso. Bauru: EDUSC, 2003.
+SCALZO, M. Jornalismo de revista. 3. ed. São Paulo: Contexto, 2009.
+
+TEORIAS DA COMUNICAÇÃO II - CH. 60 horas. Créditos 4.0
+Pós-modernidade/Contemporaneidade na comunicação. A escola de Birmingham (Estudos
+Culturais). Identidade cultural. Hibridismo. Simulacros, simulação e hiper-real. Consumo,
+cidadania e comunicação. Midia e Cultura. Dialogismo sul-americano. A mídia como veículo
+cultural hegemônico. Cibercultura. A comunicação como fronteira, campo de diálogos
+interdisciplinares.
+Bibliografia básica:
+BAUDRILLARD, Jean. Simulacro e Simulações. Lisboa: Relógio D’Água, 1991.
+CANCLINI, N. G. Consumidores e cidadãos. Rio de Janeiro: EdUFRJ, 2001.
+HALL, Stuart. A Identidade cultural na pós-modernidade. Rio de Janeiro: DP&A, 1997.
+MATTELART, A.; MATTELART, M. História das teorias da Comunicação. São Paulo: Edições
+Loyola. 2010.
+MARTIN-BARBERO, J. Dos meios às mediações: comunicação, cultura e hegemonia. Rio de
+Janeiro: Editora UFRJ. 2009.
+LEVY P. Cibercultura. São Paulo: Ed. 34, 1999.
+
+SEMIÓTICA DA COMUNICAÇÃO E TEORIA DA IMAGEM – CH. 60 horas. Créditos 4.0
+Conceitos básicos de semiótica e semiologia; Linguagem verbal e não verbal. Semiótica da
+cultura. A classificação triádica dos signos em Peirce; A semiótica, seus efeitos e aplicações no
+jornalismo; A semiótica e o audiovisual. Análise de imagens a partir das teorias semióticas.
+Bibliografia básica:
+CAMPOS, Cláudia. Semiótica. Porto Alegre: Sagah, 2017.
+EDGAR-HUNT, Robert [et al]. A linguagem do cinema. Porto Alegre: Bookman, 2013.
+PEREIRA, JOSÉ HAROLDO. Curso básico de teoria da comunicação. Rio de Janeiro: Quartet,
+2001.
+SANTAELLA, Lúcia. O que é semiótica? São Paulo: Brasiliense, 2012.
+SANTAELLA, Lúcia. Semiótica aplicada. São Paulo, Cengage Learning, 2018.
+
+
+
+Resolução nº 018/2021-CONEPE                                                         Página 35 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+                                         4º SEMESTRE
+
+TEORIAS DO JORNALISMO – CH. 60 horas. Créditos 4.0
+A relação entre conhecimento teórico e empírico em jornalismo. A construção da realidade no
+jornalismo. A objetividade jornalística. O conceito de noticiabilidade e os valores-notícia. As
+diferentes abordagens do jornalismo a partir de teorias da notícia.
+Bibliografia básica
+MORAES, Dênis; RAMONET, Ignacio; SERRANO, Pascual. Mídia, poder e contrapoder: da
+concentração monopólica à democratização da informação. São Paulo: Boitempo; Rio de Janeiro:
+FAPERJ, 2013.
+PARK, Robert. A notícia como forma de conhecimento: um capítulo dentro da Sociologia do
+Conhecimento. In BERGER, Christa; MAROCCO, Beatriz (Orgs.). A Era Glacial do Jornalismo:
+Teorias sociais da imprensa. Porto Alegre: Sulina, 2012.
+PENA, Felipe. Teoria do jornalismo. São Paulo: Contexto, 2005.
+SOUSA, Jorge Pedro. Elementos de Teoria e Pesquisa da Comunicação e dos Media. 2ª edição
+revista e ampliada, BOCC, Porto 2006.
+TRAQUINA, Nelson. Teorias do Jornalismo - v. I: Porque as notícias são como são. 2. ed.
+Florianópolis: Insular, 2005.INSULAR, 2004.
+
+ÉTICA E DEONTOLOGIA JORNALÍSTICA - CH. 60 horas. Créditos 4.0
+O que é ética? Moral x ética. Código de ética do jornalismo e a prática efetiva. Legislação
+brasileira acerca dos veículos de comunicação de massa. O habitus, a influência e os capitais do
+campo jornalístico. Sensacionalismo. Plágio. Os observatórios da mídia no brasil e mundo. Ética
+profissional em mato grosso. As novas tecnologias e a questão da ética. O jornalista e a ética no
+mundo digital. Novos códigos de conduta e os mecanismos de proteção ao cidadão na era das
+mídias digitais.
+Bibliografia básica:
+ANGRIMANI, Danilo. Espreme que sai sangue: um estudo do sensacionalismo na imprensa. São
+Paulo: Summus, 1995.
+BUCCI, Eugenio. Sobre ética e Imprensa. São Paulo: Cia das Letras. 2000
+BOURDIEU, P. Sobre a Televisão: seguido de A influência do jornalismo e Os Jogos Olímpicos.
+Rio de Janeiro, Jorge Zahar, 1997.
+CHRISTOFOLETTI, Rogério. Ética no Jornalismo. São Paulo: Contexto, 2008.
+RIBEIRO, Alex. Caso Escola Base – Os abusos da imprensa. 2.ed. São Paulo: Ática, 2001.
+
+REDAÇÃO E APURAÇÃO JORNALÍSTICA I - CH. 60 horas. Créditos 1.3
+Revisão e aprofundamento quanto à redação de notícias impressas e on line. Tipos de entrevista
+(da ritual à dialogal), levando em conta as entrevistas on line. Aprofundamento da entrevista
+enquanto método de apuração jornalística. Técnicas de pesquisa jornalística e análise de
+documentos nos mais diversos tipos de suporte (do impresso ao virtual). Como lidar com o off, a
+pergunta delicada, a revelação bombástica, o intenso fluxo informativo nos meios virtuais. A
+relação entre o jornalista e a fonte; o respeito à (e a busca por) diversidade de fontes de
+informação. A relação indissociável entre denúncia e comprovação. Noções de edição jornalística
+e uso de recursos editoriais mais comuns (título, legenda, chapéu, linha fina, intertítulo).
+Bibliografia básica:
+CHAPARRO, Manuel Carlos. Pragmática do jornalismo – buscas práticas para uma teoria da ação
+jornalística. São Paulo: Summus, 2007.
+FORTES, Leandro. Os segredos da redação – o que os jornalistas só descobrem no dia a dia.
+São Paulo: Contexto, 2008.
+MÜLHAUS, Carla [et al.]. Por trás da entrevista. Rio de Janeiro: Record, 2007. NOBLAT, Ricardo.
+A arte de fazer um jornal diário. 7. ed., 2ª reimpressão – São Paulo: Contexto, 2008.
+
+
+Resolução nº 018/2021-CONEPE                                                       Página 36 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+PEREIRA JUNIOR, Luiz Costa. A apuração da notícia: métodos de investigação na imprensa.
+3.ed. Petrópolis: Vozes, 2010.
+
+PSICOLOGIA SOCIAL - CH. 60 horas. Créditos 4.0
+Psicologia Social como área de conhecimento, sua história, seus aportes teóricos e conceituais -
+(inter) subjetividade, consciência, linguagem, imaginário, comunicação, mídia, construção de
+discursos, atividade, bem como, ideologias, crenças, valores, cultura, trabalho, conhecimento,
+comportamentos, representações sociais, poder e identidade - como instrumentos analíticos da
+sociedade brasileira contemporânea articulada no contexto internacional, em suas múltiplas
+dimensões: política, social, econômica que incidem nas relações sociais, consciência coletiva e na
+vida da população.
+Bibliografia básica:
+CHOMSKY, Noam. Mídia. Propaganda Política e Manipulação. São Paulo: Martins Fontes, 2015.
+COUTINHO, MARIA CHALFIN; FURTADO, ODAIR; RAITZ, TÂNIA REGINA (ORGS.).
+PSICOLOGIA SOCIAL E TRABALHO: PERSPECTIVAS CRÍTICAS.                        V.1. FLORIANÓPOLIS:
+ABRAPSO EDITORA: EDIÇÕES DO BOSQUE CFH/UFSC, 2015. (COLEÇÃO PRÁTICAS
+SOCIAIS, POLÍTICAS PÚBLICAS E DIREITOS HUMANOS).
+FAIRCLOUGH, Norman. Discurso e Mudança Social. Brasília: Editora Universidade de Brasília,
+2008.
+FARR, ROBERT. M. As Raízes da Psicologia Social Moderna. RJ, Vozes. 2008.
+HALL, Stuart. Quem Precisa de Identidade? In: SILVA, Tomaz Tadeu da. Identidade e Diferença:
+a perspectiva dos estudos culturais. Petrópolis. RJ: Vozes, 2012, pp. 103 - 132.
+JACQUES, Maria da Graça Corrêa (et al). Psicologia Social Contemporânea. Petrópolis, RJ:
+Vozes, 2013.
+MYERS, David G. Psicologia Social. 10ª edição. Edição. Porto Alegre: AMGH, 2014.
+SILVA, Tomaz Tadeu da. Identidade e Diferença: a perspectiva dos estudos culturais. Petrópolis.
+RJ: Vozes, 2012.
+TORRES, Cláudio Vaz; NEIVA, Elaine Rabelo (orgs.) et al. Psicologia Social: principais temas e
+vertentes. São Paulo Artmed, 2011.
+
+LABORATÓRIO DE JORNALISMO EM MÍDIA SONORA - CH. 60 horas. Créditos 1.3
+Elaboração de Projeto Editorial de programa informativo em mídia sonora. Os diversos formatos
+jornalísticos no rádio. Produção de programas radiofônicos em formatos variados.
+Bibliografia básica:
+FERRARETO, Luiz Artur. Rádio: o veículo, a história e a técnica. Porto Alegre: Editora Sagra
+Luzzatto, 2001.
+KLÖCKNER, Luciano; PRATA, Nair (orgs.). Mídia sonora em 4 dimensões: 1ª ouvintes e falantes,
+2ª memória política, 3ª programas de rádio, 4ª tecnologia e futuro. Porto Alegre: PUCRS, 2011.
+LOPEZ, D. C. Radiojornalismo Hipermidiático: Tendências e perspectivas do jornalismo de Rádio
+all news brasileiro em um contexto de convergência tecnológica. LabCom, 2010. Disponível em
+MEDITSCH, Eduardo Barreto Vianna. Teorias do rádio. Florianópolis: Insular, 2005.
+ORTRIWANO, G. S. A informação no rádio: os grupos de poder e a determinação dos conteúdos.
+São Paulo: Summus, 1985.
+
+TELEJORNALISMO I – CH. 60 horas. Créditos 2.2
+A linguagem do telejornalismo. Modelos de telejornais. Formatos noticiosos em telejornalismo.
+Telejornalismo no contexto da convergência midiática. Rotina produtiva em redação de
+telejornalismo: estrutura, funcionamento e funções. Pauta, texto, reportagem, redação e edição
+de texto em telejornais. Noções técnica de infraestrutura. Introdução à edição de som e imagem.
+Bibliografia básica:
+ALMEIDA, Clarice [et al]. Telejornalismo I. Porto Alegre: Sagah, 2018.
+BARBEIRO, H.; LIMA, P. R. Manual de Jornalismo; segredos da notícia na TV. Rio de Janeiro;
+Campus 2002.
+
+Resolução nº 018/2021-CONEPE                                                       Página 37 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+CARVALHO, Alexandre [et al]. Reportagem na TV: como fazer, como produzir, como editar. São
+Paulo: Contexto: 2010.
+PATERNOSTRO, Vera Íris. O texto na TV: manual de telejornalismo. Rio de Janeiro: Elsevier,
+2008.
+RODRIGUES, Ernesto. No próximo bloco: o jornalismo brasileiro na TV e na Internet. São Paulo:
+Loyola, 2005.
+VIZEU Jr., Alfredo. Decidindo o que é notícia: os bastidores do telejornalismo. Porto Alegre:
+Edipucrs, 2014.
+
+                                        5º SEMESTRE
+
+JORNALISMO DIGITAL - CH. 60 horas. Créditos 2.2
+História, fases e características do Jornalismo Digital. Cultura da convergência no Jornalismo
+Digital. Relações e possibilidades de produção e distribuição de conteúdo jornalístico em
+plataformas on-line. Planejamento, apuração, redação e produção de reportagens multimídia.
+Redes sociais e ferramentas on-line: recursos para edição/diagramação e distribuição de
+conteúdo jornalístico.
+Bibliografia Básica:
+ROVAI, Renato. Um novo ecossistema midiático: a história do jornalismo digital no Brasil. 1a ed.
+Ciudad       Autónoma       de     Buenos     Aires:  CLACSO,       2018.    Disponível     em:
+<http://biblioteca.clacso.edu.ar/clacso/se/20181101012635/Um_novo_ecossistema.pdf>. Acesso
+em: 12 ago. 2020.
+FERRARI, Pollyana (Org.). Hipertexto, hipermídia: as novas ferramentas da comunicação digital.
+São Paulo: Contexto, 2007.
+JENKINS, Henry. Cultura da convergência. São Paulo: Aleph, 2008. [Gnuteca]
+PRADO, Magaly. Webjornalismo. Rio de Janeiro: TCT, 2011.
+FORECHI, Marcilene; FLORES, Natália Martins; MELO, Camila Olivia de. Jornalismo digital e
+cibercultura. Porto Alegre: SAGAH, 2019.
+
+JORNALISMO LOCAL E REGIONAL – CH. 60 horas. Créditos 2.2
+ A comunicação midiática e os fenômenos regionais e locais em relação aos processos de
+globalização. O desenvolvimento da comunicação regional. A questão do local. As características
+da mídia regional e local e suas interfaces. A questão da mídia de proximidade. As configurações
+de jornais locais, TVs regionais, rádios de pequeno alcance. A questão da territorialização e
+desterritorialização no contexto da globalização.
+Bibliografia básica:
+BAZI, Rogério E. Rodrigues. TV Regional: trajetória e perspectivas. Campinas: Alínea, 2001.
+BOURDIN, Alain. A questão local. Rio de Janeiro: DP&A, 2001.
+FADUL, A.; GOBBI, M.Cristina (Orgs.). Mídia e região na era digital. São Paulo: Arte & Ciência,
+2007.
+HALL, Stuart. A identidade cultural na pós-modernidade. Rio de Janeiro: DP&Z,1998.
+MELO, José Marques de; PERUZZO, Cicilia M.K.; KUNSCH, W. (Orgs.). Mídia, regionalismo e
+cultura. Passo Fundo/ São Bernardo do Campo: UPF/Umesp, 2003.
+
+REDAÇÃO E APURAÇÃO JORNALÍSTICA II - CH. 60 horas. Créditos 2.2
+Conceito e processo de produção da reportagem. Pauta para reportagem. Introdução ao
+jornalismo investigativo e métodos de apuração detalhada, incluindo panorama do jornalismo de
+revista (conceituação, planejamento, apuração, redação, edição e mecanismos de interatividade).
+A humanização das fontes. A busca pela veracidade e a percepção da subjetividade. Noções de
+jornalismo literário. Produção de grandes reportagens e perfis para meios impressos e digitais.
+Aprofundamento sobre edição jornalística e uso de recursos editoriais.
+Bibliografia Básica:
+FORTES, Leandro. Jornalismo investigativo. São Paulo: Contexto, 2007.
+
+Resolução nº 018/2021-CONEPE                                                      Página 38 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. São Paulo:
+Record,2001.
+PEREIRA JUNIOR, Luis Costa. Guia para a edição jornalística. RJ: Vozes, 2006. SCALZO,
+Marília. Jornalismo de revista. São Paulo: Contexto, 2006.
+SODRÉ, Muniz, FERRARI, Maria Helena. Técnicas de reportagem: notas sobre a narrativa
+jornalística: Summus, 1986.
+
+ASSESSORIA DE COMUNICAÇÃO E IMPRENSA I – CH. 60 horas. Créditos 3.1
+Comunicação e cultura organizacional. Assessoria de comunicação: conceito e funcionamento.
+Assessoria de comunicação x assessoria de imprensa. Comunicação dirigida. Comunicação
+integrada. Técnicas de assessoramento e o planejamento de comunicação. Os instrumentos da
+assessoria de imprensa. Relação assessor-jornalista.
+Bibliografia básica:
+BUENO, Wilson da Costa. Comunicação empresarial: teoria e pesquisa. Barueri: Monole, 2003.
+DUARTE, Jorge (Org.). Assessoria de Imprensa e Relacionamento com a Mídia. São Paulo: Atlas.
+2003.
+TORQUATO, Gaudêncio. Tratado de comunicação organizacional. São Paulo: Pioneira, 2002.
+KUNSCH, Margarida Maria Krohling (Org.). Comunicação Organizacional: Linguagem, gestão e
+perspectivas (Volume 2). São Paulo: Saraiva, 2009.
+
+ANÁLISE DO DISCURSO E LEITURA CRÍTICA DA MÍDIA – C.H. 60 horas. Créditos 4.0.
+Discurso e Análise de Discursos. Ideologia e mídia. Discurso Midiático: formulação, organização e
+circulação de sentido. Identidade e representação no discurso das mídias. Análise de discurso
+midiático.
+Bibliografia básica:
+ALTHUSSER, Louis. Aparelhos Ideológicos de Estado: Nota Sobre os Aparelhos Ideológicos de
+Estado.
+CHARAUDEAU, Patrick. Discurso das mídias. São Paulo: Contexto, 2006.
+MAINGUENEAU, Dominique. Análise de textos de comunicação. São Paulo: Cortez, 2011.
+ORLANDI, Eni Pulccinelli. Análise de discurso: princípios e procedimentos. 8.ed. Campinas-SP:
+Pontes, 2009.
+ORLANDI, Eni. A interpretação: autoria, leitura e efeitos do trabalho simbólico. Petrópolis-RJ:
+Vozes, 1996.
+PÊCHEUX, Michel. O discurso : estrutura ou acontecimento. 4 ed. Campinas-SP: Pontes, 2006.
+CORREIA, João Carlos. Teoria crítica do discurso noticioso: notas sobre jornalismo e
+representações sociais. Covilhã, Portugal: Labcom; Universidade Beira Interior, 2009. Disponível
+em: http://www.livroslabcom.ubi.pt/book/44.
+FOUCAULT, Michel. A ordem do discurso: aula inaugural no Collège de France, pronunciada em 2
+de dezembro de 1970. São Paulo: Loyola, 2009.
+POSSENTI, Sirio. Os humores da Língua: Análises Lingüísticas de Piadas. Campinas: Mercado
+de Letras, 2001.
+SARTORI, Ademilde (Org.). Educomunicação e a criação de ecossistemas comunicativos:
+diálogos sem fronteiras. Florianópolis: Ed. Dioesc, 2014.
+
+TELEJORNALISMO II – CH. 60 horas. Créditos 1.3
+Gêneros e formatos de programas telejornalísticos. Telejornalismo e streaming. Realização de
+programas telejornalísticos. Prática de reportagem, edição e produção em telejornalismo para
+mídias convencionais e para novas mídias. Técnicas e prática de documentários televisivos.
+Bibliografia básica:
+MELO, Camila [et al]. Diferentes formas de informar no telejornalismo. Porto Alegre: Sagah,
+2019.
+BARBEIRO, H.; LIMA, P. R. Manual de telejornalismo: segredos da notícia na TV. Rio de Janeiro;
+Campus 2002.
+
+Resolução nº 018/2021-CONEPE                                                       Página 39 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+CARVALHO, Alexandre [et al]. Reportagem na TV: como fazer, como produzir, como editar. São
+Paulo: Contexto: 2010.
+PATERNOSTRO, Vera Íris. O texto na TV: manual de telejornalismo. Rio de Janeiro: Elsevier,
+2008.
+ZETLL, Herbert. Manual de produção de televisão. São Paulo: Cengage Learning, 2017.
+
+                                       6º SEMESTRE
+
+GESTÃO EM JORNALISMO E COMUNICAÇÃO– CH. 60 horas. Créditos 4.0
+Mercado de mídia, inovação e gestão. Empreendedorismo. Produtos da Comunicação. Jornalismo
+e negócios de comunicação. Estrutura organizacional de empresas midiáticas. Jornalistas e
+mercado de trabalho. Veiculação da produção das organizações jornalísticas. Pesquisa de mídia.
+Plano de negócios em comunicação.
+Bibliografia básica:
+LINS DA SILVA Carlos Eduardo. O adiantado da hora: a influência americana sobre o jornalismo
+brasileiro. São Paulo: Summus, 1981.
+Miguel Carvajal, Félix Arias, Samuel Negredo & Avelino Amoedo. Aproximación metodológica al
+estudio de la innovación en periodismo. Observatorio (OBS*) Journal, vol.9 - nº3, 2015. p.15-
+31.http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S1646-59542015000300002
+MORAIS Fernando. Chatô, o rei do Brasil. São Paulo: Companhia das Letras, 1994.
+MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 2ª Edição. São Paulo:
+Prentice Hall Brasil, 2010.
+Renee Barnes & Margarietha Johanna de Villiers Scheepers (2017): Tackling Uncertainty for
+Journalism Graduates, Journalism Practice. http://www.tandfonline.com/doi /abs/10.1080
+/17512786.2016. 1266277.
+TRAVANCAS, Isabel Siqueira. O mundo dos jornalistas. São Paulo: Summus, 1993.
+
+TRABALHO DE CONCLUSÃO DE CURSO I - CH. 60 horas. Créditos 2.2
+Pesquisa monográfica e projeto experimental em jornalismo (PEJ): concepções, finalidades,
+elementos e regulamento. Os diferentes segmentos dos conhecimentos específicos: jornalismo
+impresso; jornalismo em rádio; jornalismo em vídeo; livro reportagem; jornalismo on line;
+fotojornalismo e assessoria de Imprensa. Métodos de pesquisa em Comunicação/Jornalismo.
+Procedimentos analíticos. Características do texto técnico-científico. Seminário de pesquisa
+monográfica e projeto experimental.
+Bibliografia básica:
+BARROS, Antonio; DUARTE, Jorge (orgs.). Métodos e técnicas de pesquisa em Comunicação.
+São Paulo: Atlas, 2009.
+BAUER, Martin; GASKELL, George. Pesquisa qualitativa com texto, imagem e som: um manual
+prático. Petrópolis, Vozes, 2002.
+LAGO, Cláudia; BENETTI, Márcia. Metodologia de pesquisa em jornalismo. Petrópolis: Vozes,
+2007.
+LAKATOS, Eva Maria; MARCONI, Marina de Andrade. Fundamentos de metodologia científica. 5.
+ed. São Paulo: Atlas, 2003.
+LOPES, Maria Immacolata Vassallo. (2004). Pesquisa de Comunicação: Questões
+epistemológicas, teóricas e metodológicas. Revista brasileira de Ciências da Comunicação, vol.
+XXVII, nº 1, jan/jun, p. 13-39.
+SANTAELLA, Lucia. Comunicação e pesquisa. São Paulo: Hacker, 2006.
+
+JORNALISMO ESPECIALIZADO – CH. 60 horas. Créditos 2.2
+A segmentação do mercado de jornalismo e as suas diversas ramificações e especialidades.
+Conceitos e aplicações do jornalismo especializado. Os desafios da segmentação no jornalismo
+especializado. Planejamento e organização da cobertura no jornalismo especializado.
+Reportagem, redação, edição e veiculação de matérias especializadas.
+
+Resolução nº 018/2021-CONEPE                                                    Página 40 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+Bibliografia básica:
+CALDAS, Suely. Jornalismo Econômico. São Paulo: Contexto, 2006.
+FORTES, Leandro. Jornalismo Investigativo. São Paulo: Contexto, 2005.
+MARTINS, Franklin. Jornalismo Político. São Paulo: Contexto, 2005.
+OLIVEIRA, Fabiola de. Jornalismo Científico. São Paulo: Contexto, 1990.
+
+COMUNICAÇÃO RURAL E COMUNITÁRIA – CH. 60 horas. Créditos 2.2
+A comunicação no meio rural voltado para o desenvolvimento das pequenas comunidades rurais.
+Comunicação e transmissão de conhecimento. Particularidades da linguagem e o uso das
+diversas mídias. O desafio da comunicação rural hoje. Planejamento e estratégias da
+comunicação rural. A comunicação rural e a urbana. A comunicação comunitária, alternativa e
+contra-hegemônica com base na organização de segmentos sociais e com fator de fortalecimento
+e divulgação de reivindicações comuns com vistas à transformação social. A comunicação nos
+movimentos sociais.
+Bibliografia básica:
+BORDENAVE, Juan Diaz. O que é Comunicação Rural. São Paulo: Brasiliense, 1998.
+DORNELLES, B. Jornalismo “comunitário” em cidades do interior. Porto Alegre: Sagra Luzzatto.
+2004.
+FESTA, Regina; LINS, Carlos Eduardo (orgs.) Comunicação Popular e alternativa no Brasil. São
+Paulo: Edições Paulinas, 1986.
+FREIRE, P. Extensão ou Comunicação. Rio de Janeiro: Paz e Terra, 1992.
+PERUZZO, C.M.K.. Comunicação nos movimentos populares: a participação na construção da
+cidadania. 3 ed. São Paulo: Vozes, 2004.
+
+ASSESSORIA DE IMPRENSA II – CH. 60 Horas. Créditos 2.2
+A assessoria de comunicação nas instituições privadas, públicas e no terceiro setor. Criação de
+projetos de jornalismo/comunicação organizacional. Comunicação empresarial. Questões éticas e
+legais. Gestão de crise. Práticas em assessoria de imprensa. Novas práticas em assessoria e
+tecnologias de comunicação contemporâneas.
+Bibliografia Básica:
+BUENO, W. C. Comunicação Empresarial. Teoria e pesquisa. Barueri, SP. Manole, 2003.
+DINES, A. O Papel do Jornal.. São Paulo: Summus Editorial, 1986
+FERRARETTO, Elisa Kopplin; FERRARETTO, Luiz Arthur. Assessoria de imprensa: teoria e
+prática. São Paulo: Summus. 2009.
+MAFFEI, M.. Assessoria de Imprensa. Contexto: São Paulo. 2007.
+Manual de assessoria de Comunicação. 4ª Edição. Distrito Federal: Fenaj. 2007
+
+COMUNICAÇÃO POLÍTICA E OPINIÃO PÚBLICA – Eletiva Livre CH. 60 horas. Créditos 2.2
+Estudo sobre a relação entre comunicação e os processos políticos e eleitorais na
+contemporaneidade. Comunicação estratégica e campanha eleitoral. Pesquisas. Opinião pública e
+comportamento político. Tecnologias da comunicação e política. O jornalismo e política: quem
+cobre e quem assessora. Campanhas eleitorais: estudos de caso.
+Bibliografia básica:
+TARDE, G. A opinião e as massas. São Paulo: Martins Fontes, 1992.
+ALDÉ, A. A construção da política: democracia, cidadania e meios de comunicação de massa. Rio
+de Janeiro: FGV. 2004.
+LINS E SILVA, C. E. Muito além do Jardim Botânico: um estudo sobre a audiência do Jornal
+Nacional da Globo entre trabalhadores. São Paulo: Summus. 1985.
+DOS SANTOS, A. A. M. Campanha Eleitoral Teoria e Prática. São Paulo: Verbo Jurídico. 2006.
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                     Página 41 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+
+
+                                          7º SEMESTRE
+
+ESTÁGIO SUPERVISIONADO EM JORNALISMO I – CH. 120 horas. Créditos 4.4
+Política e gestão de estágio curricular obrigatório e não obrigatório. Normas de estágio; legislação
+brasileira e legislação específica da Unemat. Plano de atividades em jornalismo. Observação,
+acompanhamento e desenvolvimento de competências próprias da prática profissional nos
+campos de estágio. Demandas e desafios do campo profissional. Oficinas formativas/tópicos
+especiais. Produção de relatório das atividades de campo.
+Bibliografia básica:
+BRASIL. Diretrizes Curriculares Nacionais para o Curso de graduação em Jornalismo. Brasília:
+CNE/CES. Resolução n. 01, de 27 de setembro de 2013.
+BRASIL. LEI do Estágio: Lei 11.788, de agosto de 2008.
+FENAJ, FNPJ. Orientações gerais para construção de regulamentos de estágio curricular
+supervisionado em Jornalismo. Proposta conjunta da Federação Nacional dos Jornalistas (Fenaj)
+e a Federação Nacional de Professores de Jornalismo (FNPJ). Brasília, 2015.
+UNEMAT. Resolução n. 028/2012 – CONEPE. Dispõe sobre o Estágio Curricular Supervisionado
+dos cursos de graduação de Bacharelado nas diferentes modalidades de ensino da Universidade
+do Estado do Mato Grosso - Unemat. Cáceres, 03 de junho de 2012.
+UNEMAT. Resolução nº 054/2011 – CONEPE. Institui a Normatização Acadêmica da
+Universidade do Estado de Mato Grosso - UNEMAT.
+
+DOCUMENTÁRIO E PRODUÇÃO AUDIOVISUAL – CH. 60 horas. Créditos 3.1
+Faces do documentário, história e desdobramentos. a construção do real e do imaginário no
+cinema documentário. Linguagem e estilos do documentário. A questão da autoria no
+documentário. O documentário entre o cinema e o jornalismo. As tecnologias digitais e os efeitos
+sobre a produção de documentários. O documentário hoje. diferentes tipos de montagem/edição e
+suas origens cinematográficas. Novas tecnologias e espaços de exibição. Produção documental.
+roteiro x dispositivo. a entrevista no documentário. direção e captação. Edição.
+Bibliografia básica:
+BARBOSA, Andréa & CUNHA, Edgar Teodoro da. Antropologia e Imagem. Rio de Janeiro: J.
+Zahar, 2006.
+JESUS, Adriano. Produção audiovisual: Porto Alegre: Sagah, 2019.
+LINS, Consuelo. O documentário de Eduardo Coutinho: televisão, cinema e vídeo. Rio de Janeiro:
+Jorge Zahar, 2004.
+LINS, Consuelo. Filmar o real: sobre o documentário brasileiro contemporâneo. Rio de Janeiro:
+Jorge Zahar, 2008.
+NICHOLS, Bill. Introdução ao documentário. Campinas, SP: Papirus 2016.
+
+EDIÇÃO JORNALÍSTICA - CH 60 horas. Créditos 1.3
+Normas, critérios e práticas editoriais em jornalismo, levando em conta um pensamento crítico
+sobre o novo contexto tecnológico. Prática de edição: fonte, pauta, redação/produção de
+conteúdo, revisão, edição/inserção, repercussão/retroalimentação. Diagramação/designer: a
+relação da forma com o conteúdo sob o prisma da convergência midiática. Critérios de
+hierarquização, classificação e seleção de notícia. Planejamento e linha editorial.
+Bibliografia básica:
+ABRAMO, Claudio. A regra do jogo – o jornalismo e a ética do marceneiro. São Paulo: Companhia
+das Letras, 1997.
+BERSTEIN, Carl. WOODDWARD, Bob. Todos os homens do presidente. São Paulo: Três
+estrelas, 2014.
+HALIMI, Serge. Os novos cães de guarda. Petrópolis: Vozes, 1998.
+PEREIRA, Luiz Costa. Guia para a edição jornalística. RJ: Vozes, 2006.
+
+
+Resolução nº 018/2021-CONEPE                                                         Página 42 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro:
+Record, 2001.
+MEDINA, Cremilda de Araújo. Notícia: um produto à venda. São Paulo, Alfa-Ômega, 1978.
+
+LABORATÓRIO DE JORNALISMO I – CH. 60 horas. Créditos 1.3
+Edição periódica de um produto laboratorial (impresso ou online) com enfoque em pautas factuais:
+elaboração de pautas; prática de gêneros jornalísticos; edição; controle de edição e veiculação;
+discussão de política editorial e controle de qualidade. Diagramação: o projeto gráfico:
+personalidade e racionalidade; as malhas do espaço gráfico; as técnicas de pré-diagramação;
+comunicação e programação visual no jornal e na internet; edição para comunicação de massa; o
+instrumental da edição; fechamento editorial; avaliação do trabalho de edição.
+Bibliografia básica:
+CHAPARRO, M. C. Pragmática do jornalismo - buscas práticas para uma teoria da ação
+jornalística. São Paulo: Summus, 1994.
+DINES, Alberto. O Papel do Jornal e a profissão de jornalista. 9a ed. São Paulo: Summus, 2009.
+LAGE, N. A Reportagem: teoria e técnica de entrevista e pesquisa jornalística. Record: Rio de
+Janeiro, 2005.
+LOPES, D.F. Jornal-Laboratório: do exercício escolar ao compromisso com o público. São Paulo:
+Summus Editorial, 1989.
+NOBLAT, R. A arte de fazer um jornal diário. São Paulo: Contexto, 2002
+
+TÓPICOS ESPECIAIS EM COMUNICAÇÃO – Eletiva Livre - CH 60 HORAS. CRÉDITOS 4
+TEÓRICOS 3 PRÁTICO 1
+EMENTA:. Disciplina da área de concentração em comunicação cuja ementa deve relacionar-se a
+apresentação de estudos de questões contemporâneas da área de Comunicação. Pesquisas em
+comunicação. Análise crítica dos novos contextos e campos midiáticos da atualidade.
+Bibliografia básica:
+Variável de acordo com a ementa a ser apresentada pelo docente.
+
+                                         8º SEMESTRE
+
+ESTÁGIO SUPERVISIONADO EM JORNALISMO II – CH. 120 horas. Créditos 4.4
+Plano de atividades em jornalismo. Desenvolvimento de experimentações e práticas de campo. A
+formação profissional em jornalismo. Oficinas formativas/tópicos especiais.
+Bibliografia básica:
+BRASIL. LEI do Estágio: Lei 11.788, de agosto de 2008.
+SILVA, Marli Barboza da; OLIVEIRA, Rosana Alves de. A proposta política e pedagógica do
+estágio supervisionado em jornalismo: redefinições para o ensino. Revista Comunicação, Cultura
+e    Sociedade,      N.09,   Vol.   9,   ed.001       2019,   Ano   2018-19. Disponível   em:
+https://periodicos.unemat.br/index.php/ccs/article/view/3827.
+UNEMAT. Resolução n. 028/2012 – CONEPE. Dispõe sobre o Estágio Curricular Supervisionado
+dos cursos de graduação de Bacharelado nas diferentes modalidades de ensino da Universidade
+do Estado do Mato Grosso - Unemat. Cáceres, 03 de junho de 2012.
+UNEMAT. Resolução nº 054/2011 – CONEPE. Institui a Normatização Acadêmica da
+Universidade do Estado de Mato Grosso - UNEMAT.
+VALVERDE, F. L. O papel pedagógico do estágio na formação do jornalista. 2006. Tese
+(Doutorado), Universidade de São Paulo, 2006.
+
+LABORATÓRIO DE MÍDIAS E REDES SOCIAIS EM JORNALISMO – CH. 60 horas. Créditos 1.3
+A gestão de Mídias e Redes Sociais como campo de atuação para o jornalista. Marketing digital.
+Planejamento para mídias e redes sociais. Novos formatos e métricas das plataformas de
+veiculação de conteúdo. Construção da identidade na internet e do relacionamento em redes.
+Produção de conteúdo: Áudio, vídeo e texto para redes sociais. Estratégias de comunicação
+
+Resolução nº 018/2021-CONEPE                                                        Página 43 de 46
+                               ESTADO DE MATO GROSSO
+                     SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                       UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                         “CARLOS ALBERTO REYES MALDONADO”
+                   CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+online. Planejamento e implementação de ações digitais de comunicação. Smartphones:
+aplicativos de mensagem instantânea, ações e possibilidades.
+Bibliografia básica:
+JENKINS, Henry. Cultura da Convergência. 2. reimp. Editora Aleph, 2009.
+JENKINS, Henry; GREEN, Joshua; FORD, Sam. Cultura da conexão: criando valor e significado
+por meio da mídia propagável. São Paulo: Aleph, 2014.
+BUENO, Wilson da Costa (Org.). Estratégias de comunicação nas mídias sociais. 1. ed. Barueri:
+Monole, 2015.
+CASTELLS, Manuel. A galáxia da internet: reflexões sobre a internet, negócios e sociedade. Rio
+de Janeiro: Zahar, 2003.
+KOTLER, P. KARTAJAYA, H.; SETIAWAN, I. Marketing 4.0. Do tradicional ao digital. São Paulo:
+Sextante. 2017.
+
+TÓPICOS ESPECIAIS EM AUDIOVISUAL – CH. 60 horas. Créditos 1.3
+Prática audiovisual a partir de questões e tecnologias contemporâneas associadas ao mercado de
+trabalho e à inovação criativa. Interface entre as etapas da produção audiovisual com foco em
+edição, narratividade e construção de sentido no audiovisual. Técnicas de edição de texto,
+imagem e som. Prática de edição em audiovisual.
+Bibliografia básica:
+EDGAR-HUNT, Robert [et al]. A linguagem do cinema. Porto Alegre: Bookman, 2013.
+JESUS, Adriano. Produção audiovisual. Porto Alegre: Sagah, 2019.
+PATERNOSTRO, Vera Íris. O texto na TV: manual de telejornalismo. Rio de Janeiro: Elsevier,
+2008.
+SCHILITTLER, João Paulo Amaral. TV Digital e Interativa: convergência das mídias e interfaces
+do usuário. São Paulo: Blucher, 2011.
+ZETLL, Herbert. Manual de produção de televisão. São Paulo: Cengage Learning, 2017.
+
+TRABALHO DE CONCLUSÃO DE CURSO II – TCC – CH. 60 horas. Créditos 1.3
+Natureza e objetivos do TCC em Comunicação/Jornalismo. Diretrizes do Regulamento de
+Trabalho de Conclusão de Curso de Comunicação Social/Jornalismo. Desenvolvimento e defesa
+do trabalho Monográfico ou Projeto Experimental em Jornalismo - PEJ. O produto final do PEJ
+deve ser acompanhado de um memorial e, assim como a trabalho monográfico. Os temas dos
+TCC’s devem ser correspondentes às linhas de pesquisa definidas pelo Curso no PPC.
+Bibliografia básica:
+Regulamento de Trabalho de Conclusão de Curso em Comunicação Social/Jornalismo da
+UNEMAT campus Alto Araguaia. 2010
+Regulamento de Trabalho de Conclusão de Curso modalidade parceladas. Resolução Nº
+042/2016                –               CONEPE.                 Disponível             em:<
+http://www.unemat.br/resolucoes/resolucoes/conepe/4128_res_ conepe_42_2016.pdf>. Acesso
+em: Jan. 2021.
+
+As demais bibliografias devem ser definidas pelo orientador/orientando, e devem atender às
+especificidades das áreas/categorias de análise de cada pesquisa.
+
+5 CONSIDERAÇÕES FINAIS
+
+        O presente Projeto Político Pedagógico (PPC), sedimentado no modelo originalmente
+elaborado pelo Núcleo Docente Estruturante (NDE) do curso de Jornalismo da Unemat em
+Tangará da Serra, tenta dar conta de adaptar a lógica de um Curso de Ensino Superior regular, de
+oferta contínua, a um modelo de Turma única, modular, do Programa Turma Fora de Sede (Turma
+Especial) em uma outra região, com outros aspectos sociais e culturais a serem considerados.
+        Entende-se aqui que, dentro da lógica das Ciências Sociais Aplicadas, o Jornalismo é uma
+prática profissional muitas vezes compreendidas pelo senso comum como de caráter técnico.
+
+Resolução nº 018/2021-CONEPE                                                      Página 44 de 46
+                                ESTADO DE MATO GROSSO
+                      SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                        UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                          “CARLOS ALBERTO REYES MALDONADO”
+                    CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+Longe disso, o fazer jornalístico é uma das profissões que mais se aproximam do fazer científico,
+ao combinar prática e teoria (práxis).
+         O profissional do Jornalismo não deve ser mero reprodutor de um agir pré-concebido.
+Longe disso, ele constrói, cria, investiga, em estado permanente de estudo para desempenhar
+suas funções dentro de uma lógica de tensão, um campo de relações de poder, de imanente
+disputa por capitais simbólicos. Independente do lugar onde ele exerce a sua profissão, o olhar
+crítico, reparador deve prevalecer. Conforme Girardi JR (2007, p.142),
+                        "[...] esses agentes, no campo jornalístico, produzem e reproduzem um campo de jogo, um
+                        jogo que está historicamente formado, reconhecido ou em luta para se fazer reconhecido;
+                        um jogo com posições dominantes e dominadas, nas quais se encontram agentes dispostos
+                        a entrar na luta pela sua conservação ou transformação. É um campo de forças, um espaço
+                        de lutas por posições, um espaço de tomada de posição, um campo para o exercício da
+                        práxis jornalística."
+
+         Assim como em cursos de oferta contínua, o modelo de turma única deve atender a
+demanda de formar um profissional com estas características, a partir de uma lógica identitária
+regional, através de um ensino público, gratuito e de qualidade, marcas prioritárias da UNEMAT.
+Levar este modelo de formação, com excelência pedagógica, para cidades que possuem uma
+demanda por este tipo de profissionais é uma das preocupações dos docentes efetivos vinculados
+ao curso de Jornalismo desta instituição.
+         A parceria com o Programa Parceladas6 só fortalece esta ideia, na medida em que a
+interiorização e o impacto proporcionado pelo programa agregam à noção promovida pelo curso
+de Jornalismo de que quanto mais jornalistas formados tivermos, maior será a qualidade da
+informação levada ao público. Consequentemente, quanto mais bem informada for uma
+população, mais crítica em relação ao mundo que a circunda, ela será. Ser crítico, no sentido de
+perceber e agir como cidadão.
+         Este olhar reparador é fundamental em nossa sociedade nos dias de hoje. Assim, trata-se
+de uma prática que direciona a uma política regeneradora por excelência, o que coaduna com
+Saramago, quando este em seu livro Ensaio Sobre a Cegueira nos ensina que (2001) “[...] Se
+podes olhar, vê. Se podes ver, repare.”
+
+6 REFERÊNCIAS BIBLIOGRÁFICAS
+
+BRASIL. Diretrizes Curriculares Nacionais para o Curso de graduação em Jornalismo. Brasília:
+CNE/CES.       Resolução      n.   01,   de   27   de     setembro   de    2013.   Disponível   em:<,
+http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=14242-rces001-
+13&category_slug=setembro-2013-pdf&Itemid=30192> Acesso em 23 de mar. de 2020.
+CHRISTOFOLETTI, R. Ética no jornalismo. São Paulo: Editora Contexto. 2008.
+GIRARDI JR, Liráucio. Pierre Bourdieu: Questões de Sociologia e Comunicação. São Paulo.
+Fapesp/Anablume. 2007.
+HALL, S. Cultura e representação. Rio de Janeiro: Apicuri. 2016.
+NEVEU, Érik. Sociologia do jornalismo. São Paulo: Loyola, 2006
+ORIENTAÇÕES GERAIS PARA construção de regulamentos de estágio curricular supervisionado em
+Jornalismo. Proposta conjunta da Federação Nacional dos Jornalistas (Fenaj) e a Federação Nacional de
+Professores de Jornalismo (FNPJ). Brasília, 2015. Disponível em:< https://fenaj.org.br/wp-
+content/uploads/2015/07/01.pdf> Acesso em 23 de mar. de 2020.
+
+
+6 Clarividente que o Programa Parceladas foi criado em 1992 como uma modalidade diferenciada de ensino,
+
+com o objetivo de atender inúmeras demandas de formação docente em diferentes regiões do estado de
+Mato Grosso. Os cursos são presenciais, alguns em regime parcelado e outros em regime contínuo,
+ofertados em rede continuada, para a formação em serviço de servidores públicos da educação básica do
+Estado de Mato Grosso. No entanto hoje é uma potente possibilitador de parcerias que leva o ensino para
+regiões que muitas vezes tem dificuldades em atrair até a iniciativa privada, ou como é o caso de
+Rondonópolis potencia o acesso em regiões populosas que anseios pelo acesso ao ensino superior público,
+gratuito e de qualidade.
+Resolução nº 018/2021-CONEPE                                                                  Página 45 de 46
+                                 ESTADO DE MATO GROSSO
+                       SECRETARIA DE ESTADO DE CIÊNCIA E TECNOLOGIA
+                         UNIVERSIDADE DO ESTADO DE MATO GROSSO
+                           “CARLOS ALBERTO REYES MALDONADO”
+                     CONSELHO DE ENSINO, PESQUISA E EXTENSÃO - CONEPE
+SANTOS, Boaventura de Sousa, MENESES, Maria Paula; (Org.) (2010). Epistemologias do sul. São
+Paulo: Cortez. 637 p.
+SARAMAGO, José. Ensaio sobre a cegueira. 4ª edição. São Paulo: Companhia das Letras, 2001.
+SILVA, M. B.; OLIVEIRA, R. A. O Estágio Supervisionado em Jornalismo da Unemat e as implicações
+para o ensino. Anais do 16º Encontro Nacional de Professores de Jornalismo. (ENPJ). Fórum Nacional de
+Professores de Jornalismo (FNPJ). XII Ciclo Nacional de Pesquisa em Ensino e Extensão em Jornalismo.
+Disponível                 em:                    https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source
+=web&cd=&ved=2ahUKEwiT3tLWvZzvAhWbGLkGHWI0AHgQFjAAegQIARAD&url=http%3A%2F%2Fsoac.a
+bejor.org.br%2F%3Fconference%3D16enpj%26schedConf%3DGP%26page%3Dpaper%26op%3Ddownloa
+d%26path%255B%255D%3D34%26path%255B%255D%3D6&usg=AOvVaw2I7juqkr-GcnQkFoJSt-ey>
+Acesso em: 05 Março. 2021.
+UNEMAT. Instrução Normativa 003/2019-UNEMAT. Dispõe sobre as diretrizes e procedimentos para
+elaboração e atualização dos Projetos Pedagógicos dos Cursos (PPC) de graduação, em todas as suas
+modalidades, no âmbito da Universidade do Estado de Mato Grosso e dá outras providências. Disponível
+em:<                                      https://drive.google.com/file/d/0B4RZAh_hfvjRMlZvZDRpdGRHN0dx
+anpwU21QemU0MktQNkpR/view> Acesso em 23 de mar. de 2020.
+UNEMAT. Resolução n. 028/2012. Dispõe sobre o Estágio Curricular Supervisionado dos cursos de
+graduação de Bacharelado nas diferentes modalidades de ensino da Universidade do Estado do
+Mato       Grosso       -    Unemat.        Cáceres,       03    de       junho   de     2012.    Disponível
+em:<http://portal.unemat.br/media/oldfiles/proeg/docs/resolucoes/resolucao_028-2012-
+conepe_estagio_curricular_bacharelado.pdf> Acesso em 23 de mar. de 2020.
+UNEMAT. Resolução nº 054/2011 – CONEPE. Institui a Normatização Acadêmica da Universidade do
+Estado           de        Mato           Grosso            -        UNEMAT.          Disponível       em:<
+http://portal.unemat.br/media/oldfiles/proeg/docs/resolucoes/resolucao_054_2011_conepe_nova_normatizac
+ao_academica.pdf > Acesso em 23 de mar. de 2020.
+UNEMAT. Projeto Político Pedagógico do curso de Bacharelado em Jornalismo da Universidade do
+Estado de Mato Grosso - UNEMAT, Câmpus Campus Universitário “Eugênio Carlos Stieler” Tangará da
+Serra. 2020,
+WOLF, Mauro. Teorias da comunicação. Lisboa: Editorial presença, 1995
+
+
+
+
+Resolução nº 018/2021-CONEPE                                                                Página 46 de 46
+

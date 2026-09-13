@@ -1,0 +1,7611 @@
+PROJETO PEDAGÓGICO DE CURSO
+
+JORNALISMO
+
+BACHARELADO
+
+Campus I
+
+2016 Campina Grande (PB)
+
+UNIVERSIDADE ESTADUAL DA PARAIBA CENTRO DE CIENCIAS SOCIAIS APLICADAS
+
+PROJETO PEDAGÓGICO DE CURSO
+
+JORNALISMO
+
+NÚCLEO DOCENTE ESTRUTURANTE
+
+BACHARELADO
+
+ARÉO DE AZEVäDO SOUZA
+
+VERNICA ALMEIDA DE OLIVEIRA LIMA
+
+GORETTI MARIA SAMPAIO DE FREITAS
+
+ANTONIO SIMES MENEZES
+
+FERNANDO FIRMINO DA SILVA
+
+December, 2016
+
+Campina Grande (PB)
+
+UNIVERSIDADE ESTADUAL DA PARAÍBA
+
+Reitor: Prof. Dr. Antônio Guedes Rangel Junior Vice-Reitor: Prof. Dr. José Ethan de Lucena Barbosa
+
+PRÓ-REITORIA DE GRADUAÇÃO - PROGRAD
+
+Pró-Reitor: Prof. Dr. Eli Brandão da Silva Pró-Reitora Adjunta: Profa. Dra. Maria do Carmo Eulálio
+
+Profa. Dra. Silvana Cristina dos Santos Tec. Me. Alberto Lima de Oliveira Tec. Kátia Cilene Alves Machado Tec. Me. Marcos Angelus Miranda de Alcantara
+
+COORDENAÇÃO DE ENSINO SUPERIOR
+
+Copyright © 2016 EDUEPB
+
+A reprodução não autorizada desta publicação, por qualquer meio, seja total ou parcial, constitui a violação da Lei nº 9.610/98. A EDUEPB segue o acordo ortográfico da língua portuguesa em vigência no Brasil a partir de 1º de janeiro de 2016.
+
+FICHA CATALOGRÁFICA ELABORADA PELA BC/UEPB
+
+EDITORA DA UNIVERSIDADE ESTADUAL DA PARAÍBA
+
+Rua das Baraúnas, 351 - Bairro Universitário - Campina Grande - PB - CEP 58429-500
+
+Fone/Fax: (83) 3315-3381 - http://eduepb.edu.br - e-mail: eduepb@uepb.edu.br
+
+Estadual da Paraíba. Projeto Pedagógico de Curso  PPC: Jornalismo (Bacharelado) / Universidade Estadual da Paraíba  CCSA ; Núcleo docente estruturante.  Campina Grande: EDUEPB, 2016. 164 f. ; il.
+
+Contém dados do corpo docente.
+
+\1. Ensino superior. 2. Projeto pedagógico. 3. Organização curricular. 4. Política institucional. I. Título.
+
+21 ed. CDD 378.101 2
+
+U58pUnivers
+
+idade
+
+SUMÁRIO
+
+\01. CONTEXTUALIZAÇÃO DA IES 4
+
+\02. APRESENTAÇÃO 23
+
+\03. CONTEXTUALIZAÇÃO DO CURSO 25
+
+\04. BASE LEGAL 26
+
+\05. CONCEPÇÃO E JUSTIFICATIVA 27
+
+\06. OBJETIVOS 33
+
+\07. PERFIL DO EGRESSO 35
+
+\08. ORGANIZAÇÃO CURRICULAR 39
+
+\09. METODOLOGIA, ENSINO E AVALIAÇÃO 64
+
+\10. DIMENSÃO FORMATIVA 72
+
+\11. INTEGRALIZAÇÃO CURRICULAR 76
+
+\12. PLANO DE INTEGRALIZAÇÃO 77
+
+\13. QUADRO DE EQUIVALÊNCIAS 94
+
+\14. EMENTAS 98
+
+\15. REFERÊNCIAS 164
+
+\16. CORPO DOCENTE 167
+
+\17. INFRAESTRUTURA 174
+
+\01. CONTEXTUALIZAÇÃO DA IES
+
+\1. CONTEXTUALIZAÇÃO
+
+1.1 UEPB
+
+a) Nome da Mantenedora
+
+GOVERNO DO ESTADO DA PARAÍBA
+
+b) Nome e Base legal da IES
+
+A UNIVERSIDADE ESTADUAL DA PARAÍBA (UEPB), CNPJ
+
+12.671.814/0001-37, com sede situada na Rua Baraúnas, 351, Bairro Universitário,
+
+em Campina Grande - PB, é uma autarquia estadual integrante do Sistema Estadual
+
+de Ensino Superior. A UEPB possui oito câmpus localizados nas cidades de
+
+Campina Grande (Câmpus I), Lagoa Seca (Câmpus II), Guarabira (Câmpus III),
+
+Catolé do Rocha (Câmpus IV), João Pessoa (Câmpus V), Monteiro (Câmpus VI),
+
+Patos (Câmpus VII), e Araruna (Câmpus VIII); e dois museus: O Museu de Arte
+
+Popular da Paraíba (MAPP) e o Museu Assis Chateaubriant (MAC).
+
+A Instituição foi criada pela Lei nº 4.977, de 11 de outubro de 1987,
+
+regulamentada pelo Decreto nº 12.404, de 18 de março de 1988, modificado pelo
+
+Decreto nº 14.830, de 16 de outubro de 1992; tendo sido resultado do processo de
+
+estadualização da Universidade Regional do Nordeste (Furne), criada no município
+
+de Campina Grande (PB) pela Lei Municipal nº 23, de 15 de março de 1966. No
+
+decreto de 06 de novembro de 1996, publicado no Diário Oficial da União de 07 de
+
+novembro de 1996, a Universidade Estadual da Paraíba foi credenciada pelo
+
+Conselho Federal de Educação para atuar na modalidade multicampi.
+
+A UEPB goza de autonomia didático-científica, administrativa e de gestão
+
+financeira e patrimonial, de acordo com a Constituição Federal e a Constituição
+
+Estadual. A organização e o funcionamento da Universidade Estadual da Paraíba
+
+são disciplinados pelo seu Estatuto e seu Regimento Geral, submetidos à aprovação
+
+pelo Conselho Estadual de Educação e à homologação pelo Governo do Estado e
+
+complementados pelas resoluções dos seus órgãos de deliberação superior, de
+
+acordo com a legislação em vigor.
+
+4
+
+c) Dados socioeconômicos e socioambientais
+
+O Estado da Paraíba abriga população de 3,9 milhões de habitantes em uma
+
+área de 56.469,778 km² (70 hab./km²). Cerca de um terço dessa população se
+
+concentra na Mesorregião da Mata Paraibana (253 hab./km²) onde se localiza a
+
+capital do Estado, João Pessoa. Outro terço vive na Mesorregião do Agreste,
+
+principalmente em Campina Grande, a segunda cidade mais populosa do Estado. E,
+
+nas Mesorregiões da Borborema e no Sertão, vivem cerca de um milhão de
+
+pessoas. A zona urbana concentra 75% da população, que é bastante endogênica.
+
+Segundo o censo demográfico de 2010, 92% da população era nascida no próprio
+
+estado. Dos 223 municípios do Estado, apenas quatro possuem população superior
+
+a cem mil habitantes (João Pessoa, Campina Grande, Santa Rita e Patos) e 63
+
+municípios têm entre dois a cinco mil habitantes apenas. Com isso, verifica-se que a
+
+faixa litorânea e o agreste paraibano concentram 75% da população em centros
+
+urbanos, enquanto o restante se distribui de forma bastante fragmentada e dispersa
+
+nas mesorregiões da Borborema e Sertão.
+
+As principais atividades econômicas do Estado são a agricultura com a cultura
+
+de cana-de-açúcar, abacaxi, mandioca, milho e feijão; a indústria alimentícia, têxtil,
+
+de açúcar e álcool; a pecuária e o turismo. Entretanto, segundo dados do Programa
+
+das Nações Unidas para o Desenvolvimento de 2013, o Índice de Desenvolvimento
+
+Humano (IDH) do Estado da Paraíba é de 0,658, um dos mais baixos no Brasil. O
+
+índice de educação é de 0,555; de longevidade 0,783 e de renda, 0,656, maiores
+
+apenas em relação aos Estados do Piauí, Pará, Maranhão e Alagoas. Praticamente
+
+60% da população vive na pobreza com índice Gini de 0,46; dependendo de
+
+programas governamentais de distribuição de renda, como Bolsa Família. No censo
+
+demográfico de 2010, 53% dessa população se autoidentificou como parda, 40%
+
+como branca, 5% como afrodescendente e apenas 0,001% como indígena. Ao todo,
+
+74% se declarou católica e 15% protestante (evangélicos). As religiões de origem
+
+africana (candomblé e umbanda) são seguidas por menos de 0,05% da população
+
+paraibana. Na região litorânea, existem 26 aldeias de descendentes dos índios
+
+potiguaras, localizadas principalmente nos municípios de Baía da Traição, Marcação
+
+e Rio Tinto.
+
+Mais da metade do território paraibano é formado rochas antigas do período
+
+Pré-Cambriano (2,5 bilhões de anos atrás). Exceto pela faixa
+
+5
+
+litorânea, 98% do território está localizado na região do Nordeste Semiárido,
+
+inseridos no polígono das secas, cuja principal característica são as chuvas
+
+escassas e irregulares. Na Paraíba, existem onze bacias hidrográficas, sendo a
+
+maior delas a do Rio Piranhas. Os principais reservatórios de água na Paraíba são
+
+barragens e açudes, como o Açude Mãe d'Água e Açude de Coremas; e o Açude de
+
+Boqueirão.
+
+Nos últimos cinco anos se verificou no Nordeste brasileiro enormes prejuízos
+
+derivados do fenômeno de “El Niño”, que acentuou o ciclo de seca e teve grave
+
+impacto sobre setores da economia. A redução alarmante dos volumes de água dos
+
+açudes e das chuvas acarretou perda de produção agropecuária, encarecimento e
+
+redução da oferta de energia elétrica, e comprometimento do abastecimento de água
+
+para a população. Na região do Semiárido paraibano, a vulnerabilidade hídrica é,
+
+sem dúvida alguma, um dos principais, ou talvez o principal, desafio a ser enfrentado
+
+pela sociedade nos próximos anos.
+
+O contexto social, ambiental e econômico do Nordeste Semiárido se
+
+apresenta de forma complexa e se caracteriza por diversas variáveis climáticas,
+
+geomorfológicas e também pela ação antrópica predatória. Consequentemente,
+
+todas essas variáveis são acentuadas pela ausência de políticas públicas baseadas
+
+no desenvolvimento sustentável, intensificando as vulnerabilidades. A ausência de
+
+políticas de manejo efetivo da seca contribui para ampliar as desigualdades sociais,
+
+conflitos e desarticular as cadeias produtivas.
+
+É possível constatar que, no Estado da Paraíba, a redução da vulnerabilidade
+
+de crianças, adolescentes e jovens está também associada ao acesso à educação
+
+de qualidade. Segundo dados do Plano Estadual de Educação, das crianças de 0 a
+
+3 anos de idade, cerca de 11% são atendidas em creches, percentual que se eleva
+
+para 78% na faixa etária de 4 a 6 anos. Verifica-se também, nesse cenário, lacuna
+
+em relação ao acesso de crianças de 0 a 6 anos à Educação pública, gratuita e de
+
+qualidade; bem como a demanda por formação de professores para atuarem nesse
+
+segmento.
+
+Em relação ao Ensino Fundamental, verifica-se taxa de escolarização da
+
+ordem de 98% com 20% de reprovação e 5% de abandono, e cerca de 70% dos
+
+ingressantes concluem essa etapa de ensino. Segundo o Plano Estadual de
+
+Educação (PEE), alguns dados indicam que o domínio da linguagem oral e escrita é
+
+o principal fator de risco para repetência e evasão do sistema, cuja
+
+6
+
+métrica é uma das piores do país. Sem esse domínio, o estudante não é capaz de
+
+entender e fazer uso do material didático ao qual tem acesso. Parte desses
+
+resultados pode ser explicada pela má formação técnico-científica dos professores e
+
+a existência de uma cultura de personificação da gestão escolar, reduzindo as
+
+potencialidades da gestão colegiada, do diálogo e da formação em serviço nas
+
+escolas. Disso decorre a necessidade de inovação didático-pedagógica nos
+
+processos de ensino-aprendizagem e há que se considerar a necessidade de formar
+
+melhor os profissionais para gestão de sala de aula e a gestão nas escolas,
+
+valorizando o trabalho coletivo e as decisões colegiadas.
+
+A Rede Estadual de Ensino concentra cerca de 80% das matrículas de jovens
+
+no Ensino Médio. Dos jovens paraibanos na faixa etária de 15 a 17 anos que estão
+
+na escola, apenas 15% estão matriculados no Ensino Médio, evidenciando que
+
+significativa clientela potencial dessa etapa de ensino encontra-se em outros níveis,
+
+principalmente no Ensino Fundamental.
+
+Nos últimos quinze anos, houve um crescimento da oferta de vagas no
+
+Educação Superior e no número de instituições que atuam neste nível no Estado.
+
+Observe-se que, em 2003, a Paraíba contava com 24 instituições de Ensino
+
+Superior. Atualmente, esse número cresceu para 42 instituições, contemplando,
+
+inclusive, os institutos federais e os Centros Universitários. Deste total, 04 são de
+
+natureza pública, e 38 de natureza privada. Neste cenário, a rede federal, na última
+
+década, ampliou significativamente suas estruturas físicas, assim como o número de
+
+novos cursos, por meio do programa de Apoio aos Planos de Reestruturação e
+
+Expansão das Universidades Federais (REUNI). Destaque-se, neste contexto, a
+
+extraordinária expansão da UEPB, que aumentou em 100% o seu número de
+
+câmpus e de vagas no Ensino Superior. Segundo o PEE, dentre a população de 18
+
+a 24 anos, o percentual de matrículas (33.7%) é superior ao percentual nacional
+
+(30.3%) e ao regional (24.5%). No que se refere à Taxa de Escolarização Líquida
+
+ajustada na educação superior, a Paraíba (20.2%) apresenta dados positivamente
+
+diferenciados em relação ao cenário nacional (20.1%) e regional (14.2%).
+
+d) Breve histórico da IES e das políticas institucionais
+
+A UEPB completa, em 2016, seus 50 anos de atuação na formação de
+
+recursos humanos de alto nível no Nordeste. Criada em 1966, estruturou-se
+
+7
+
+a partir do agrupamento das Faculdades de Filosofia e de Serviço Social; Faculdade
+
+de Direito; de Odontologia, de Arquitetura e Urbanismo, de Ciências da
+
+Administração e de Química, constituindo a Universidade Regional do Nordeste
+
+(URNe). O financiamento da antiga URNe era público-privado, na medida em que os
+
+custos eram parcialmente cobertos pela prefeitura de Campina Grande e
+
+complementados com a mensalidade paga por seus estudantes. Docentes
+
+graduados e especialistas eram contratados em regime de dedicação parcial e a
+
+atividade se concentrava exclusivamente no ensino.
+
+Nas décadas de 80 e 90, em consequência das dificuldades de financiamento
+
+e como resultado das reivindicações da Comunidade Acadêmica, a antiga URNe foi
+
+estadualizada em outubro de 1987 (Lei Estadual n° 4.977), recebendo todo o
+
+patrimônio, direitos, competências, atribuições e responsabilidades da URNe, em
+
+Campina Grande, bem como o Colégio Agrícola Assis Chateaubriand, em Lagoa
+
+Seca, tornando-se autarquia do Estado da Paraíba, de natureza pública e gratuita,
+
+passando a ser denominada “Universidade Estadual da Paraíba” ou UEPB. A partir
+
+dessa condição, a Instituição passou a implantar uma série de políticas de
+
+expansão, reestruturação e melhoria de sua infraestrutura. De modo que, em
+
+novembro de 1996, obteve o Credenciamento como Universidade junto ao Ministério
+
+da Educação (MEC).
+
+Durante as décadas de 80 e 90 a atividade principal da UEPB esteve
+
+concentrada no Ensino Superior, especialmente na formação de professores e
+
+profissionais liberais. Entretanto, a partir da sua Estadualização e posterior
+
+Credenciamento junto ao MEC, deu início ao processo de expansão e interiorização
+
+criando novos câmpus e cursos, tendo o seu raio de ação sido ampliado pelo Brejo
+
+paraibano, ao receber a Faculdade de Filosofia, Ciências e Letras de Guarabira, em
+
+funcionamento desde o ano de 1966, e que veio a se tornar o Câmpus III, Centro de
+
+Humanidades (CH), que atualmente oferta os cursos de Licenciatura em História,
+
+Licenciatura em Língua Portuguesa, Licenciatura em Língua Inglesa, Licenciatura
+
+em Língua em Geografia, Licenciatura em Pedagogia e Bacharelado em Direito. No
+
+Sertão, agregou a Escola Agrotécnica do Cajueiro, em Catolé do Rocha, que depois
+
+veio a se tornar, em 2004, o Câmpus IV, Centro de Ciências Agrárias e Letras,
+
+ofertando também os cursos de Licenciatura em Letras e em Ciências Agrárias.
+
+8
+
+No Câmpus I, a UEPB até hoje concentra a maior parte dos seus Centros, em
+
+sua sede, tendo o CEDUC, que atualmente oferta os cursos de Licenciatura em
+
+Língua Portuguesa, Licenciatura em Língua Espanhola, Licenciatura em Língua
+
+Inglesa, Licenciatura em História, Licenciatura em Geografia, Licenciatura em
+
+Pedagogia, Licenciatura em Filosofia, Licenciatura em Sociologia; CCSA, ofertando
+
+os cursos de Bacharelado em Serviço Social, Administração, Ciências Contábeis e
+
+Comunicação Social (Jornalismo); CCJ, ofertando o curso de Bacharelado em
+
+Direito; CCBS, ofertando os cursos de Bacharelado em Odontologia, Farmácia,
+
+Fisioterapia, Enfermagem, Educação Física, Ciências Biológicas e Licenciatura em
+
+Educação Física e Ciências Biológicas; CCT, ofertando os cursos de Bacharelado
+
+em Estatística, Computação, Química Industrial, Engenharia Sanitária e Ambiental,
+
+além de Licenciatura em Matemática, Química e Física.
+
+A partir de 2005, em nova etapa de expansão, foram criados novos câmpus e
+
+cursos. O Câmpus II – CCAA, em Lagoa Seca, passou a ofertar, além do Curso
+
+Técnico em Agropecuária, o Curso de Bacharelado em Agroecologia. Foram criados
+
+o Câmpus V – CCBSA, em João Pessoa, que atualmente oferta os cursos de
+
+graduação em Ciências Biológicas, Relações Internacionais e Arquivologia; o
+
+Câmpus VI – CCHE, em de Monteiro, ofertando os cursos de Licenciatura em
+
+Matemática, Letras Espanhol, Letras Português e Bacharelado em Ciências
+
+Contábeis; o Câmpus VII – CCEA, em Patos, ofertando os cursos de Licenciatura
+
+em Ciências Exatas, Matemática, Física, Computação e Administração; o Câmpus
+
+VIII – CCTS, em Araruna, que oferta os cursos de Odontologia, Engenharia Civil,
+
+Licenciatura em Ciências da Natureza e Licenciatura em Física.
+
+Até o final da década de 90, havia poucos docentes na UEPB com titulação de
+
+mestre e doutor, parco financiamento para a pesquisa e a extensão, salários pouco
+
+competitivos e a Instituição enfrentava constantes e graves crises financeiras devido
+
+à precariedade dos recursos recebidos e à falta de regularidade no repasse do
+
+financeiro por parte do Estado.
+
+Como resultado da permanente e intensa luta da comunidade acadêmica por
+
+garantia do financiamento, salários dignos, melhores condições de trabalho e
+
+ampliação da infraestrutura, em 2004, a UEPB conquista, com participação dos
+
+segmentos da UEPB, do Governo do Estado e da Assembleia Legislativa, a
+
+aprovação da Lei 7.643, que define o critério e a regularidade do repasse de
+
+recursos do orçamento do Estado para a UEPB.
+
+9
+
+A partir de 2005, graças ao financiamento regular assegurado pela referida
+
+Lei, a Instituição pode estabelecer políticas e ações que permitiram sua expansão e
+
+interiorização, criar novos cursos de graduação e de pós-graduação, instalar bases
+
+de pesquisa, contribuindo muito para aumentar a excelência da formação de
+
+profissionais. Dentre as políticas implantadas no período, houve a aprovação da Lei
+
+8.441 de 28/12/2007, que estabeleceu o Plano de Cargos, Carreira e Remuneração
+
+– PCCR para docentes e pessoal técnico e administrativo da UEPB, valorização sem
+
+precedentes dos servidores, tornando mais dignos os salários.
+
+Esse processo de expansão e interiorização exigiu a realização de vários
+
+concursos públicos para docentes e técnicos/administrativos e, consequente,
+
+contratação de docentes com perfil de pesquisa e técnicos com qualificação
+
+apropriada à nova realidade, o que permitiu alavancar a graduação, extensão e
+
+pesquisa, possibilitando a criação de programas de pós-graduação stricto sensu.
+
+Ao longo dos seus 50 anos de existência, a UEPB vem formando professores
+
+para Educação Básica e Educação Superior, profissionais em diferentes áreas e
+
+campos do conhecimento humano, em diferentes níveis e modalidades, mão de obra
+
+qualificada e necessária para alavancar o desenvolvimento científico, tecnológico,
+
+cultural e socioeconômico do Estado.
+
+Atualmente, a UEPB oferta 56 cursos de graduação ativos, nas modalidades
+
+Presencial e A Distância. Desses, cinquenta e dois (52) são na modalidade
+
+Presencial, sendo vinte e nove (30) em Campina Grande (Campus I); um (01) em
+
+Lagoa Seca (Campus II); seis (06) em Guarabira (Campus – III); dois (02) em Catolé
+
+do Rocha (Campus IV); três (03) em João Pessoa (Campus V); quatro (04) Monteiro
+
+(Campus VI); quatro (04) em Patos (Campus – VII) e três (03) em Araruna (Campus
+
+\- VIII), e o curso de Licenciatura em Pedagogia (PAFOR), ofertado em cinco (05)
+
+Pólos (Campina Grande, Guarabira, Monteiro, Patos, Catolé do Rocha). Na
+
+modalidade A Distância, a UEPB oferta quatro (04) cursos, com oito (08) turmas,
+
+sendo Letras (João Pessoa, Campina Grande), Geografia (Itaporanga, Catolé do
+
+Rocha, São Bento, Taperoá, Itabaiana, Pombal, Campina Grande e João Pessoa),
+
+Administração Pública (Campina Grande, João Pessoa, Itaporanga e Catolé do
+
+Rocha) e Administração Piloto (Campina Grande, João Pessoa, Catolé do Rocha e
+
+Itaporanga).
+
+10
+
+Em nível de graduação, portanto, a UEPB oferta anualmente, em cursos de
+
+Bacharelado e Licenciatura, por meio de diversos processos seletivos, quase seis
+
+(6.000) mil vagas regulares, das quais 50% são reservadas para estudantes
+
+egressos de escolas públicas. Metade da quantidade de cursos de graduação
+
+ofertados pela UEPB são licenciaturas, o que representa importante contribuição
+
+para a formação de professores aptos para atuar no ensino, principalmente, na
+
+Educação Básica, visto que cerca de 70% dos professores que atuam no Ensino
+
+Médio, embora licenciados, não o são na área em que atuam. Os cursos são
+
+ofertados nos períodos diurno e noturno, o que possibilita o acesso do estudante
+
+trabalhador à formação em nível superior.
+
+Em nível de pós-graduação stricto sensu, a partir de 2005, a UEPB se
+
+qualificou para criar novos cursos, para os quais passou a obter o credenciamento
+
+junto à Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
+
+Se de 1995 a 2005 havia apenas os cursos de mestrado em Desenvolvimento e
+
+Meio Ambiente – PRODEMA, em parceria com a UFPB, o Mestrado Interdisciplinar
+
+em Ciências da Sociedade e o Mestrado Interdisciplinar em Saúde Coletiva, a partir
+
+de 2005, foram criados os Mestrados acadêmicos em Literatura e Interculturalidade;
+
+Ensino de Ciências e Educação Matemática, Ciência e Tecnologia Ambiental,
+
+Relações Internacionais, Desenvolvimento Regional, em associação com a UFCG;
+
+Enfermagem, em associação com a UFPE; Saúde Pública, Odontologia, Ecologia e
+
+Conservação, Ciências Agrárias, Ciências Farmacêuticas, Serviço Social, Psicologia
+
+da Saúde e Química. E também os mestrados profissionais em Matemática, Ciência
+
+e Tecnologia em Saúde, Formação de Professores, Letras, Ensino de Física. A partir
+
+de 2010, iniciou-se um processo de consolidação dos cursos, com aprovação dos
+
+doutorados em Literatura e Interculturalidade, Odontologia e Tecnologia Ambiental.
+
+Vários cursos obtiveram conceito 4 e, portanto, têm potencial para aprovar a
+
+proposta de doutorado nos próximos anos.
+
+Em nível de pós-graduação lato sensu, a UEPB oferta os seguintes cursos:
+
+Desenvolvimento Humano e Educação Escolar, Educação Étnico-racial na Educação
+
+Infantil, Ensino de Geografia, Etnobiologia, Gestão em Auditoria Ambiental, Gestão
+
+Estratégica na Segurança Pública, Filosofia da Educação, Inteligência Policial e
+
+Análise Criminal, Matemática Pura e Aplicada, MBA em Gestão Empreendedora e
+
+Inovação, Meios Consensuais de Solução de
+
+11
+
+Conflitos, Gestão Pública e Gestão em Saúde.
+
+Além dos cursos em nível de graduação e de pós-graduação, a UEPB oferta
+
+também dois cursos em nível técnico, Técnico em Agropecuária em Integrado ao
+
+Ensino Médio e subsequente, um (01) no Câmpus II, na Escola Agrícola Assis
+
+Chateaubriand e outro no Câmpus IV, na Escola Agrotécnica do Cajueiro.
+
+Neste período de expansão, a UEPB desenvolveu políticas e ações para
+
+capacitação do seu quadro docente e de técnicos, as quais envolveram duas
+
+principais estratégias. A primeira estratégia foi a de liberar para capacitação até o
+
+limite de 20% dos docentes de cada Departamento e liberar técnicos e
+
+administrativos, em conformidade com as áreas de interesse para o desempenho do
+
+seu trabalho. A segunda foi a de estabelecer parceria solidária, por meio da
+
+participação em cinco Doutorados Interinstitucionais (DINTER), todos com
+
+investimentos da própria Instituição e contando com financiamento da Capes:
+
+Educação, com a UERJ; Ciência da Motricidade, com UNESP; Ensino, Filosofia e
+
+História de Ciências, com a UFBA; Direito, com a UERJ; Planejamento Urbano e
+
+Regional, com a UFRJ.
+
+Com a melhoria da capacidade instalada de docentes, a UEPB ampliou em
+
+escala quase logarítmica a captação de recursos junto às agências financiadoras,
+
+obtendo, a partir de 2006, aprovação de vários projetos em vários editais, resultando
+
+na obtenção de significativo volume de recursos para bolsas, insumos e
+
+equipamentos. Além disso, a instalação dos programas de pós-graduação promoveu
+
+o fomento do Governo Federal por meio de bolsas de mestrado e de doutorado e do
+
+Programa de Apoio à Pós-graduação – PROAP. Além destes recursos, a UEPB
+
+passou a realizar significativos investimentos, os quais contribuíram para a
+
+participação dos docentes em certames nacionais e internacionais, assim como a
+
+realização de eventos vinculados aos programas de pós-graduação, captando
+
+recursos que são aplicados na região. Ou seja, são recursos do Estado, da União ou
+
+de empresas privadas que são investidos no comércio e nas cadeias produtivas
+
+locais.
+
+Além dos recursos captados de agências de fomento à pesquisa e à extensão,
+
+a Universidade iniciou uma política de incentivo à produção de conhecimento e
+
+fortalecimento dos grupos de pesquisa, com recursos próprios, por meio da criação
+
+de Programas de Incentivo à Pesquisa, à Pós-Graduação e à Extensão, lançando
+
+vários editais, por meio dos quais os
+
+12
+
+pesquisadores e extensionistas da Instituição puderam receber apoio financeiro para
+
+desenvolver seus projetos de pesquisa e de extensão e participar de eventos
+
+científicos. Essas políticas de financiamento de projetos de pesquisa e de extensão
+
+coordenados por docentes da UEPB foram, e ainda são, fundamentais para
+
+consolidar a Graduação e a Pós-graduação, pois a Fundação de Apoio à Pesquisa
+
+do Estado da Paraíba (FAPESQ) tem precária estrutura e recursos muito limitados,
+
+de modo que não há políticas nem recursos destinados ao fomento de ações da
+
+Universidade.
+
+Essa capacidade de captação de recursos e produção de conhecimento,
+
+entretanto, pode ser ainda mais potencializada. Isto porque, dos quase mil docentes
+
+efetivos da UEPB, cerca de 50% deles são doutores e somente 10% encontram-se
+
+vinculados aos programas de pós-graduação, por motivo de não terem produção
+
+técnica e científica em número e em qualidade exigidos pelo Sistema de Pós-
+
+Graduação. Considerando que a consolidação dos programas de pós-graduação
+
+depende da melhor qualificação da produção docente, o desafio nos próximos anos
+
+será o de ampliar as políticas e as estratégias para melhorar esses indicadores.
+
+A grande expansão da Universidade e a significativa melhoria da capacidade
+
+instalada de docentes, seja pela titulação, seja pela produção científica, ocorrida nos
+
+últimos anos, provoca também no âmbito da Graduação um grande desafio, o da
+
+consolidação dos cursos em termos de infraestrutura e a melhoria da qualidade do
+
+ensino. Estas demandas têm sido indicadas tanto pelos resultados da Autoavaliação
+
+Institucional quanto pelos resultados do Exame Nacional de Avaliação de
+
+Desempenho do Estudante (ENADE). Isto porque, em relação ao número de
+
+ingressantes nos cursos, titulam-se, anualmente, de um modo geral, metade dos
+
+estudantes, o que sugere uma evasão, retenção ou mobilidade estudantil da ordem
+
+de cinquenta por cento. Ressalte-se, em relação a estes dados, que a grande
+
+maioria da retenção e da evasão se concentra nos cursos de licenciatura, com maior
+
+incidência nos cursos de ciências exatas e, mais agudamente, nos câmpus do
+
+interior, o que desafia o permanente esforço em empreender políticas e ações
+
+voltadas para o incentivo à permanência.
+
+Tendo em vista a melhoria da estrutura e do funcionamento da Graduação,
+
+desde 2013, a UEPB iniciou um processo de reestruturação dos cursos de
+
+graduação. Isto ocorre, porém, num contexto em que o orçamento da UEPB, devido
+
+a vários fatores, vem sofrendo contingenciamentos, de modo
+
+13
+
+que os recursos recebidos não têm sido suficientes para garantir sequer reajuste
+
+salarial devido às perdas causadas pela inflação. Os recursos da Universidade, em
+
+quase sua totalidade, estão comprometidos com a Folha de Pagamento, o que
+
+dificulta o custeio do cotidiano institucional e a renovação de equipamentos e
+
+ampliação da infraestrutura. Além do que se intensificam os movimentos
+
+reivindicatórios e passam a ocorrer recorrentes paralisações do corpo docente e do
+
+pessoal técnico-administrativo, o que impacta o planejamento e produz
+
+desmotivação no corpo discente.
+
+Contudo, mesmo neste adverso contexto, a questão da melhoria da qualidade
+
+dos cursos de graduação da UEPB vem sendo debatida intensamente com a
+
+comunidade acadêmica com vistas à execução do plano de consolidar a
+
+reestruturação das normas e a atualização dos Projetos Pedagógicos de Cursos -
+
+PPCs. Para isso, ao longo dos últimos três anos, foram compactadas todas as
+
+resoluções internas para criação do Regimento dos Cursos de Graduação da UEPB
+
+(Resolução UEPB/CONSEPE/068/2015), que permitiu maior sintonia das ações
+
+internas com as políticas nacionais de Ensino Superior, ao tempo em que promoveu
+
+maior organicidade ao conjunto das normas. A partir desse novo Regimento, e com
+
+base nos Instrumentos de Avaliação de Cursos do INEP, os dados do ENADE e as
+
+Diretrizes Curriculares Nacionais, inclusive a mais nova resolução que trata da
+
+formação inicial e continuada de professores da Educação Básica (Res.
+
+CNE/01/2015), toda a comunidade acadêmica envolvida com os cursos de
+
+graduação foi mobilizada num trabalho de reflexão voltado para a atualização dos
+
+PPCs. Os debates envolveram também a discussão em torno do cotidiano de cada
+
+curso. Com isso, abriu-se a possibilidade para cada curso organizar seu projeto, de
+
+modo a potencializar a qualidade do processo de ensino/aprendizagem e,
+
+consequentemente, melhorar a qualidade da formação oferecida aos estudantes.
+
+Para este objetivo, foi decisivo o competente trabalho realizado pelos Núcleos
+
+Docentes Estruturantes – NDEs - e Coordenações dos Cursos, bem como as ações
+
+promovidas pela PROGRAD, como a realização de encontros de reflexão sobre a
+
+Graduação e Oficinas Técnico-Pedagógicas ao longo de 2014 e 2015.
+
+Neste contexto, em 2014, a UEPB fez adesão com 100% de suas vagas ao
+
+Sistema de Seleção Unificada - SiSU, com reserva de 50% das vagas para
+
+estudantes egressos de escola pública, ao tempo em que qualificou os critérios de
+
+desempenho na seleção dos candidatos, por meio da redefinição
+
+14
+
+das notas mínimas e pesos por área de conhecimento na Prova do Exame Nacional
+
+do Ensino Médio – ENEM, o que promoveu melhoria no perfil dos ingressantes, o
+
+que de contribuir para minimizar a retenção e a evasão nos próximos anos. Entende-
+
+se, entretanto, que esta é uma questão complexa, que exige rigorosa análise dos
+
+dados e o estabelecimentos de múltiplas ações políticas e ações voltadas para
+
+enfrentamento efetivo da problemática.
+
+As políticas de incentivo à graduação envolveram também ações no voltadas
+
+para o apoio acadêmico e para a Assistência Estudantil, aumentando os programas
+
+de mérito acadêmico como Programa Institucional de Bolsas de Iniciação à Pesquisa
+
+\- PIBIC, Programa Institucional de Bolsas de Iniciação à Docência - PIBID, Programa
+
+de Educação Tutorial - PET, Monitoria, participação em projetos de pesquisa e de
+
+extensão e para participação em eventos acadêmicos; ao mesmo tempo, ofertando
+
+bolsas por meio de programas de Assistência Estudantil para estudantes com
+
+carências socioeconômicas, tendo em vista combater a retenção e evasão e
+
+potencializar a permanência, como apoio à moradia, transporte e alimentação.
+
+A UEPB tem investido também recursos na melhoria do acervo e do acesso às
+
+bibliotecas, com aquisição regular de novos livros e divulgação pela Biblioteca Digital
+
+dos Trabalhos de Conclusão de Curso, Mestrado e Doutorado.
+
+e) Missão, Princípios Norteadores e Políticas da IES
+
+A UEPB tem por missão formar profissionais críticos e socialmente
+
+comprometidos, capazes de produzir, socializar e aplicar o conhecimento nos
+
+diversos campos do saber, por meio das atividades de ensino, pesquisa e extensão,
+
+de modo a contribuir para o desenvolvimento educacional e sociocultural do país,
+
+particularmente do Estado da Paraíba. A UEPB, em sintonia com o conjunto mais
+
+amplo de Políticas para o Ensino Superior propostas pelo Conselho Nacional de
+
+Educação, Ministério da Educação e Conselho Estadual de Educação, tem por
+
+objetivo promover formação de qualidade e profundamente engajada com a
+
+realidade socioeconômica e cultural do Estado da Paraíba, do Nordeste e do Brasil.
+
+Para atingir essa meta, o trabalho acadêmico na UEPB se fundamenta em alguns
+
+princípios:
+
+•    Indissociabilidade entre ensino, pesquisa e extensão.
+
+15
+
+•    Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte, a
+
+cultura e os saberes;
+
+•    Respeito ao pluralismo de ideias e de concepções, incentivando a tolerância e
+
+resolução de conflitos por meio do diálogo e reflexão.
+
+•    Gestão Democrática e Colegiada, oriunda da autonomia universitária e
+
+cultivada no cotidiano das relações acadêmico-administrativa (corresponsabilidade).
+
+•    Eficiência, Probidade e Racionalização na gestão dos recursos públicos
+
+oriundos do Estado e da União para financiamento das ações da instituição;
+
+•    Valorização e Engajamento de seus servidores docentes e técnicos com o
+
+aprimoramento do ensino, pesquisa e extensão oferecidos pela instituição à
+
+sociedade;
+
+•    Igualdade de condições para o acesso e permanência discente na Instituição,
+
+o que inclui planejamentos estratégicos e diálogo permanente com a realidade
+
+discente de nossa Universidade;
+
+•    Integração e Promoção de Ações para melhoria da Educação Básica e
+
+aprimoramento da formação inicial e continuada de professores em diferentes níveis
+
+de ensino.
+
+Por indissociabilidade, princípio central e constitucional, entre ensino,
+
+pesquisa e extensão, entende-se que cada atividade de ensino envolve a
+
+perspectiva da produção do conhecimento e sua contribuição social, assim como a
+
+busca de excelência acadêmica; que cada atividade de pesquisa se articula com o
+
+conhecimento existente e se vincula à melhoria da qualidade de vida da população,
+
+além de propiciar o surgimento de pesquisadores de referência nacional e
+
+internacional; que cada atividade de extensão seja um espaço privilegiado, no qual
+
+educadores, educandos e comunidade articulam a difusão e a produção do
+
+conhecimento acadêmico em diálogo com o conhecimento popular, possibilitando
+
+uma percepção enriquecida dos problemas sociais, bem suas soluções de forma
+
+solidária e responsável.
+
+A partir das elencadas políticas, projetam-se algumas metas para a
+
+Graduação:
+
+•    Aprofundar o processo de reestruturação da graduação já em curso, visando
+
+acompanhar a execução dos Projetos Pedagógicos para garantirmos a qualificação
+
+dos egressos com um perfil adequado para os novos desafios
+
+16
+
+da contemporaneidade, inclusive do mundo do trabalho;
+
+•    Promover ampla discussão sobre as licenciaturas, tendo em vista potencializar
+
+a formação inicial desenvolvida no UEPB não apenas buscando maior sintonia com
+
+a realidade cotidiana do “chão da escola” em que os futuros educadores irão
+
+desenvolver as suas ações pedagógicas, notadamente nas redes públicas de Ensino
+
+(municipais e Estadual), mas também promovendo ações de transformação dessa
+
+realidade;
+
+•    Implementar parcerias interinstitucionais, notadamente com os municípios e
+
+com o Estado, para que a UEPB assuma posição mais estratégica na construção
+
+das políticas e na execução das ações de formação continuada dos profissionais da
+
+educação das respectivas redes;
+
+•    Integrar projetos de ensino (metodologias, técnicas e estratégias, de formação
+
+inicial e continuada às demandas das redes de Ensino (municipais e Estadual),
+
+visando contribuir para a melhoria dos indicadores da educação, notadamente o
+
+Índice de Desenvolvimento da Educação Básica (IDEB);
+
+•    Implementar ações de parceira com o Estado e os municípios, visando apoiar
+
+a implantação da Residência Pedagógica, voltada aos professores habilitados para a
+
+docência na educação infantil e nos anos iniciais do Ensino Fundamental;
+
+•    Incentivar o desenvolvimento de projetos vinculados ao Programa Institucional
+
+de Bolsas de Iniciação à Docência (PIBID) e de Bolsas de Iniciação à Pesquisa
+
+(PIBIC), no sentido de estabelecerem maior articulação em relação às demandas
+
+das redes de Ensino (municipais e Estadual), priorizando escolas identificadas com
+
+pontuação abaixo de 200 no IDEB;
+
+•    Instituir o Programa Institucional de combate à retenção e evasão, promovendo
+
+ações de incentivo à permanência e conclusão do curso;
+
+•    Instituir parcerias interinstitucionais, notadamente com o Estado, a fim de que
+
+as atividades de ensino (estágio), de iniciação científica e de extensão dos alunos e
+
+das alunas, possam ser desenvolvidas nos múltiplos espaços de implementação das
+
+políticas públicas coordenadas pelo ente estadual, nas mais diversas áreas, a
+
+exemplo da educação, da saúde, da gestão, da assistência social, entre outras;
+
+•    Potencializar a realização de eventos de reflexão sobre o processo de ensino-
+
+aprendizagem e avaliação, bem como realizar permanentemente oficinas
+
+pedagógicas, buscando aperfeiçoar a prática pedagógica dos docentes e fortalecer
+
+seu compromisso com a educação;
+
+17
+
+•    Investir, em conformidade com a disponibilidade de recursos, na infraestrutura
+
+de ensino, tendo em vista garantir as condições de um ensino de excelência
+
+(Ampliação do acerco das bibliotecas, melhoria e implementação de novos
+
+laboratórios; salas de aula, equipamentos e materiais, espaços de convivências.
+
+Melhoria das condições físicas no ambiente de ensino, adequando-o a padrões de
+
+qualidade que permitam maior interação e melhor ambiente para a aprendizagem.
+
+A Universidade é um organismo acadêmico, político e social feito de muitas
+
+criatividades e tensões, de muitas áreas de conhecimento que nem sempre se
+
+regem pelos mesmos critérios e realizam seus fins com as mesmas estratégias. A
+
+meta central nesta nova fase é aprofundar a vida universitária pautada na autonomia
+
+existente, conduzindo a um aperfeiçoamento das ações e estimulando ainda mais a
+
+criatividade dos cursos e das áreas da UEPB.
+
+ALGUMAS POLÍTICAS INSTITUCIONAIS
+
+Políticas de gestão
+
+A política de gestão da UEPB é integrada e descentralizada, requerendo a
+
+noção de que toda a instituição é um sistema aberto, que se adequa rapidamente
+
+em um contexto cada vez mais dinâmico, onde cada parte ou subsistema da gestão,
+
+além de se orientar por objetivos comuns, procura sincronizar seus processos
+
+específicos, integrando o fluxo de informação e eliminando limitações que dificultam
+
+a comunicação entre as diversas unidades universitárias. Hoje, existe uma
+
+integração dos processos de gestão da Universidade entre os setores que compõem
+
+a estrutura organizacional (Reitoria, Pró-Reitorias, Centros, Departamentos,
+
+Coordenações, Núcleos, etc.) de modo automático e informatizado. Esta política de
+
+descentralização de responsabilidade e, consequentemente, de competências, reduz
+
+os níveis de demandas e riscos, proporcionando maior agilidade na solução de
+
+demandas. Isto estimulou, também, um aumento de participação decisória dos
+
+diversos atores gestores e eleva os níveis de comprometimento e envolvimento com
+
+a instituição.
+
+Os objetivos para as atividades de gestão são centrados na orientação e na
+
+gestão para as atividades fins da universidade, que permeiam toda instituição e
+
+contribuem de forma indireta para o alcance dos objetivos institucionais. Entre as
+
+várias funções e atribuições da gestão destacam-se o
+
+18
+
+planejamento e avaliação voltados para integração e o alinhamento estratégico, no
+
+que se refere à gestão administrativa, de pessoas e financeira, além da avaliação
+
+institucional, de docentes e de técnicos administrativos.
+
+Os objetivos para as atividades de gestão são: institucionalizar as práticas de
+
+planejamento e gestão estratégicos da universidade; promover a reestruturação
+
+administrativa da universidade para gestão das unidades administrativas; participar
+
+ativamente da construção do orçamento do Estado visando aumentar os recursos
+
+financeiros para a UEPB; captar recursos extra orçamentários para ampliação das
+
+atividades de ensino, pesquisa e extensão; adequar a legislação acadêmica,
+
+administrativa e de pessoal para assegurar a excelência acadêmica e
+
+sustentabilidade institucional; criar mecanismos para facilitar a comunicação e o
+
+relacionamento com a comunidade interna e externa; consolidar a avaliação como
+
+ferramenta de gestão; desenvolver mecanismos para aumentar a eficiência da
+
+gestão, dos controles internos e da transparência institucional; estabelecer planos de
+
+capacitação técnica e interpessoal para os docentes e técnicos administrativos
+
+visando a melhoria do desempenho institucional e estabelecer mecanismos para a
+
+descentralização orçamentária e administrativa.
+
+Política de Avaliação e Autoavaliação Permanente
+
+A UEPB tem aderido ao estabelecimento de uma política interna de
+
+autoavaliação permanente usando os instrumentos do Sistema Nacional de
+
+Avaliação do Ensino Superior (SINAES). Criada em 2008, a Comissão Permanente
+
+de Avaliação (CPA) que tem produzido relatórios e dados consolidados, os quais
+
+precisam ser mais amplamente aproveitados no cotidiano dos Cursos, para
+
+planejamento de estratégias e ações com vistas à melhoria do ensino oferecido. Do
+
+mesmo modo, os cursos precisam se apropriar cada vez mais dos resultados da
+
+avaliação do desempenho do estudante (ENADE), promovendo conscientização e
+
+engajamento da comunidade acadêmica em relação a esse processo.
+
+Esse processo de avaliação possui um caráter formativo, destinando-se a
+
+conhecer as potencialidades e fragilidades da UEPB, bem como orientar a Instituição
+
+nas tomadas de decisão no sentido da melhoria da qualidade dos serviços em
+
+consonância com seu PDI/PPI, sua missão e sua responsabilidade social, visando,
+
+de modo incessante, o desenvolvimento institucional da UEPB
+
+19
+
+em sua plenitude.
+
+Política de integração das ações de Ensino, Pesquisa e Extensão.
+
+Para aproximar essas atividades e melhor articulá-las, no novo Regimento dos
+
+Cursos de Graduação abriu-se a possibilidade de que as atividades desenvolvidas
+
+em projetos de pesquisa (PIBIC, PIVIC, PIBID OU PET) e projetos de extensão
+
+sejam integralizadas pelos estudantes de duas formas diferentes: ou como carga
+
+horária de estágio supervisionado ou como atividade complementar de natureza
+
+científico-acadêmico-cultural.
+
+Além disso, há um programa de melhoria dos estágios supervisionados por
+
+meio do estímulo à oferta de cursos de pós-graduação latu sensu e strictu sensu
+
+direcionados para formação continuada de profissionais que possam atuar como
+
+supervisores de estágio. Neste caso, a ideia é fomentar a criação de comunidades
+
+de conhecimento em que haja maior interação dos docentes da UEPB com pós-
+
+graduandos e graduandos para leitura da literatura, debate, produção de
+
+conhecimento e resolução de problemas de interesse da sociedade.
+
+A articulação entre teoria e prática pode ser facilitada também pela melhor
+
+articulação dessas atividades. Em cada componente curricular, é possível estimular
+
+a formação de competências de pesquisa com a leitura da literatura científica, quer
+
+sejam os clássicos que marcaram a história do desenvolvimento de uma disciplina
+
+como também a leitura de artigos recentemente publicados para discussão das
+
+questões em aberto em um campo de conhecimento. Uma teoria pode ser mais
+
+facilmente compreendida se houver estímulo à leitura, reflexão e produção textual. A
+
+prática poderá mais facilmente apreendida se o estudante for convidado a resolver
+
+problemas, observar, propor hipóteses e soluções para situações-problema. Um
+
+componente curricular pode ter atividades de extensão que permitam ao estudante
+
+praticar e tomar contato com fenômenos até então abstratos e distantes da sua vida
+
+profissional.
+
+Política de compromisso com Formação Docente para a Educação Básica.
+
+A formação inicial e continuada de professores para Educação Básica, bem
+
+como de docentes do Magistério Superior, depende do engajamento desse coletivo
+
+com um processo de aprendizagem e atualização permanente em serviço. Sabemos
+
+que as nossas concepções e práticas docentes são
+
+20
+
+construídas a partir dos modelos didáticos com os quais convivemos. Tendemos
+
+assim a reproduzir o que fizemos se não houver uma reflexão sobre essas ações.
+
+Para promover essa reflexão é necessário o comprometimento de todos os docentes
+
+e seu engajamento senão não há como aprimorar os modelos.
+
+O engajamento com a formação docente em diferentes níveis, nesta proposta,
+
+poderá acontecer com a inserção da Metodologia de Ensino como um eixo
+
+articulador nos cursos de Licenciatura. Em vez de um componente curricular
+
+específico, todos os docentes de um Curso devem pensar em como ministram suas
+
+aulas. Que objetivos de aprendizagem têm, que estratégias didáticas utilizam, quão
+
+diversificados são essas estratégias e de que forma contribuem para
+
+desenvolvimento, nos licenciandos, de competências e habilidades, ou apropriação
+
+de conhecimentos factuais, procedimentais ou atitudinais. A estratégia de resolução
+
+de situações-problema ou problematização, a contextualização, a
+
+interdisciplinaridade devem fazer parte do planejamento diário do docente para que
+
+isto possa também fazer parte da rotina diária do professor da Educação Básica.
+
+A formação do professor da Educação Básica não é responsabilidade única
+
+dos docentes que ministram os componentes pedagógicos, mas de todos os
+
+docentes que atuam no Curso. O princípio da corresponsabilidade sobre a formação
+
+do professor que atuará na escola pública é de todos os servidores docentes e
+
+técnicos envolvidos no processo de formação.
+
+Política de fortalecimento da Pesquisa, Pós-Graduação e Internacionalização.
+
+O fortalecimento e consolidação dos programas de pós-graduação da
+
+instituição e das atividades de pesquisa perpassam pela melhor articulação da
+
+formação de competências e habilidades de pesquisador nos cursos de graduação.
+
+A leitura de textos de referências depende de competências e domínio de
+
+línguas estrangeiras, especialmente, a inglesa. Por essa razão, apresenta-se como
+
+de relevante importância o incentivo à proficiência em língua inglesa, por parte dos
+
+estudantes, por meio de componente livres. Além disso, os estudantes devem ser
+
+estimulados a participar de projetos de intercâmbio internacional à semelhança do
+
+Ciência sem Fronteiras do Governo Federal, visto que, para isso, é permitido cumprir
+
+até 20% da carga
+
+21
+
+horária de seu Curso.
+
+Política de Acessibilidade e Ensino de Libras.
+
+A UEPB mantém políticas e ações de acessibilidade das portadores de
+
+necessidades especiais aos diferentes espaços e aos saberes. Para além de rampas
+
+e sinalizações, a IES tem buscado ampliar a inclusão dessas pessoas na
+
+comunidade acadêmica, estimulando os estudantes de todos os cursos a cursarem o
+
+componente curricular de Libras.
+
+Política de Estímulo à Inovação Tecnológica e Empreendedorismo Social e
+
+Tecnológico.
+
+O desenvolvimento regional demanda conhecimento sobre as cadeias
+
+produtivas e vocações regionais, assim como estímulo à formação de
+
+empreendedores. O Núcleo de Inovação Tecnológica da UEPB tem desenvolvido
+
+cursos periódicos para servidores e estudantes a fim de estimular a criação de
+
+empresas ou desenvolvimento de produtos, processos ou serviços inovadores. Essa
+
+iniciativa será ampliada com a oferta de um curso a Distância, como componente
+
+curricular Livre, para todos os estudantes e funcionários da Instituição sobre essa
+
+temática. Espera-se que, com isto, possa haver estímulo à formação de
+
+empreendedores.
+
+Política de Valorização da Cultura Regional, Indígena e Africana.
+
+A história e a cultura dos povos indígenas e africanos foram sendo perdidas
+
+com o processo de aculturação, miscigenação e sincretismo, relacionado à
+
+colonização e formação da sociedade brasileira. Com a finalidade de evitar a
+
+extinção dessas culturas e valorizá-las, a UEPB incentiva e fomenta a produção de
+
+material didático e videoaulas para consubstanciar um componente curricular de
+
+dimensão Livre, acessível aos estudantes de todos os cursos, buscando, ao mesmo
+
+tempo, estabelecer com este articulação com atividades de extensão e cultura,
+
+envolvendo a arte, a dança, a música, ritos e outros aspectos dessas culturas.
+
+22
+
+\02. APRESENTAÇÃO
+
+O curso de Jornalismo  da Universidade Estadual da Paraíba  (UEPB) foi
+
+originado a partir do curso de Comunicação Social - habilitação em Jornalismo,
+
+criado em 1973, com mais de 40 anos de atuação. O novo Curso de Jornalismo
+
+atende às recentes Diretrizes Curriculares Nacionais para o curso de graduação em
+
+Jornalismo (Resolução 01/CNE/CES/2013 do Ministério da Educação) e estabelece
+
+um novo perfil para os profissionais formados. A matriz curricular foi modernizada e
+
+atende a seis eixos de formação para o egresso: eixo de fundamentação
+
+humanística, eixo de fundamentação específica, eixo de fundamentação contextual,
+
+eixo de formação profissional, eixo de aplicação processual e eixo de prática
+
+laboratorial. No conjunto, esses eixos têm a perspectiva de oferecer uma formação
+
+sólida para os futuros jornalistas baseada em conhecimentos técnicos, teóricos e
+
+éticos. O curso tem duração de quatro anos para turmas com entrada no período da
+
+manhã ou da noite.
+
+O curso de Jornalismo da UEPB possui laboratórios para práticas de
+
+radiojornalismo, jornalismo digital, telejornalismo, projeto gráfico e fotojornalismo,
+
+entre outras demandas laboratoriais necessárias para a formação do corpo discente.
+
+Com 23 professores atuando no Departamento de Comunicação Social, 56.5% do
+
+quadro são de professores com titulação de Doutorado, 30.4% com mestrado, 8.6%
+
+de especialistas e 4.3% de graduados constituindo um corpo docente consistente e
+
+experiente para atuar no Ensino, na Pesquisa e na Extensão. Na Extensão, o curso
+
+tem uma forte atuação com projetos consolidados que atendem à comunidade e
+
+desenvolvem atividades para a cultura popular, para a comunicação e atendimento
+
+social e de inclusão, permitindo a participação efetiva dos discentes em diversas
+
+atividades. Na Pesquisa, o curso possui projetos de iniciação científica para
+
+formação de futuros pesquisadores e desenvolvimento de Trabalhos de Conclusão
+
+de Curso, Grupos de Pesquisa cadastrados no Conselho Nacional de
+
+Desenvolvimento Científico e Tecnológico - CNPq, além de professores atuando em
+
+Programas de Pós-
+
+23
+
+Graduação reconhecidos pela Coordenação de Aperfeiçoamento de Pessoal de
+
+Nível Superior - CAPES.
+
+Nos mais de 40 anos do curso, milhares de profissionais formados estão
+
+trabalhando no mercado local, estadual e nacional, em emissoras de rádio e TV,
+
+jornais, portais de internet, assessorias de imprensa, organizações não-
+
+governamentais e outros setores associados ao jornalismo e à comunicação. Além
+
+da atuação profissional, centenas de outros profissionais enveredaram para o campo
+
+acadêmico buscando pós-graduações com o objetivo de trabalhar com ensino e
+
+pesquisa.
+
+24
+
+\03. CONTEXTUALIZAÇÃO
+
+a) Nome do Curso: BACHARELADO EM JORNALISMO
+
+b) Endereço do Curso: Rua Domitila Cabral de Castro, s/n, Bodocongó, Campina Grande, PB, 58429570 c) Atos Legais de Criação do Curso:
+
+Ato de criação e/ou reconhecimento: DECRETO FEDERAL N.º 82.673/79, D.O.U. 21/11/1978 Aprovação do Projeto Pedagógico do Curso pelo CONSEPE: RESOLUÇÃO/UEPB/CONSEPE/0146 /2016
+
+d) Número de Vagas ofertadas por turno: 40
+
+e) Turnos: Diurno, Noturno
+
+f) Tempo Mínimo de Integralização: 8 Semestres
+
+g) Tempo Máximo de Integralização: 12 Semestres
+
+h) Coordenador do Curso: ARÉO DE AZEVäDO SOUZA
+
+i) Formação do Coordenador do Curso:
+
+Possui graduação em Comunicação Social - Jornalismo, especialista em Jornalismo Cultural, mestrado em Literatura e Interculturalidade pela Universidade Estadual da Paraíba  UEPB
+
+j) Núcleo Docente Estruturante:
+
+O Núcleo Docente Estruturante é formado por cinco membros de acordo com
+
+parecer CONAES 04/2010 e o Regimento dos Cursos da Graduação da UEPB
+
+(2015) e nomeação através da PORTARIA/UEPB/CCSA/020/2014 de 22 de
+
+dezembro de 2014, sendo: Fernando Firmino da Silva (presidente, doutor em
+
+Comunicação e Cultura Contemporâneas pela Universidade Federal da Bahia –
+
+UFBA); Arão de Azevêdo Souza (secretário, mestre em Literatura e
+
+Interculturalidade pela Universidade Estadual da Paraíba – UEPB); Goretti Maria
+
+Sampaio de Freitas (membro, doutora em Sociologia pela Universidade Federal da
+
+Paraíba); Verônica Almeida de Oliveira Lima (membro, mestre em Sociologia pela
+
+Universidade Federal da Paraíba – UFPB); Antonio Simões Menezes (membro,
+
+doutor em Ciências Sociais pela Universidade Federal de Campina Grande –
+
+UFCG).
+
+25
+
+\04. BASE LEGAL
+
+Este PPC foi construído com base em instrumentos legais de âmbito nacional, como
+
+as Diretrizes Curriculares Nacionais para o curso de graduação em
+
+Jornalismo(Resolução 01/CNE/CES/2013 do Ministério da Educação); integralização
+
+e duração de cursos de graduação bacharelados (Resolução 01/CNE/CES/2007 do
+
+Ministério da Educação); Lei No 9.394 de 20 de dezembro de 1996 das Diretrizes e
+
+Bases da Educação Nacional; o Instrumento de Avaliação de Cursos de Graduação
+
+(presencial e a distância) do Instituto de Estudos e Pesquisas Educacionais Anísio
+
+Teixeira- INEP de agosto de 2015; Diretrizes Curriculares Nacionais para Educação
+
+das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira,
+
+Africana e Indígena, nos termos da Lei n. 9.394/96, com a redação dada pelas Leis
+
+n. 10.639/2003 e n. 11.645/2008 e da Resolução CNE/CP n. 1/2004, fundamentada
+
+no Parecer CNE/CP n.3/2004; Diretrizes Nacionais para Educação em Direitos
+
+Humanos, conforme parecer CNE/CP n.8, de 06/03/2012, que originou a Resolução
+
+CNE/CP N. 1, de 30/05/2012; mecanismos de avaliação e autoavaliação conforme a
+
+Lei n. 10.861/2004; e abrangência local, o Regimento dos Cursos de Graduação da
+
+UEPB (Resolução UEPB/CONSEPE/068/2015), Projeto Pedagógico Institucional da
+
+UEPB e o Plano de Desenvolvimento Institucional 2014-2020 da UEPB, além do
+
+antigo Projeto Político Pedagógico do Curso de Comunicação Social da UEPB, que
+
+foi elaborado pelos professores Cássia Lobão Assis, Cidoval Morais de Sousa, Luiz
+
+Custódio da Silva, Maria Salete Vidal da Silva, Robéria Nádia Araújo Nascimento.
+
+26
+
+\05. CONCEPÇÃO E JUSTIFICATIVA
+
+O curso de Comunicação Social - habilitação em Jornalismo da Universidade
+
+Estadual da Paraíba  (UEPB), que dá origem ao curso de bacharelado em
+
+Jornalismo, foi autorizado a funcionar em 02 de outubro de 1973, através da
+
+Resolução n° 6 do Conselho de Ensino, Pesquisa e Extensão da antiga
+
+Universidade Regional do Nordeste. Cinco anos depois, em 20 de novembro de
+
+1978, o Decreto 82.673/7 fez seu reconhecimento legal. Devemos salientar que os
+
+cursos de Comunicação Social existem no Brasil desde 1969, tendo em princípio
+
+habilitações como: Relações Públicas, Publicidade e Propaganda e Jornalismo.
+
+Antes disso, nas décadas de 1940 e 1950, funcionavam apenas os cursos de
+
+Jornalismo, que em sua gênese estiveram vinculados a faculdades de Filosofia.
+
+A criação do curso de Comunicação Social – habilitação Jornalismo foi, à
+
+época, uma decisão bastante oportuna, pois o Decreto-lei n° 972, de outubro de
+
+1969, instituiu a obrigatoriedade do diploma universitário para o exercício da
+
+profissão de jornalista e isso fez aumentar a demanda pelo curso superior
+
+responsável por esta prerrogativa. Portanto, o curso da UEPB é um dos primeiros do
+
+país a ter sido criado e responsável pela formação de jornalistas na região nas
+
+últimas quatro décadas.
+
+Nos anos 1970, tal curso passou a funcionar mediante um currículo mínimo
+
+estabelecido pelo Conselho Federal de Educação, através da Resolução n° 11,
+
+baseada no Parecer 631/69. O currículo mínimo para Comunicação Social
+
+estabelecia um tronco de matérias comuns a todas as habilitações, e um conjunto de
+
+matérias específicas para cada formação ou habilitação profissional. Depois desta
+
+formulação curricular, vieram mais duas com esta prerrogativa de uma proposição
+
+mínima de conteúdos comuns. Na prática, os antigos currículos mínimos
+
+demarcavam as disciplinas a serem ministradas em todos os cursos do país, sob o
+
+argumento de que a homogeneização pedagógico-curricular garantia de maneira
+
+uniforme a qualidade dos cursos.
+
+O último currículo mínimo, formulado mediante a Resolução 002/84
+
+27
+
+do então CFE – Conselho Federal de Educação, orientou o Projeto Pedagógico ora
+
+vigente até 2010 no curso de Comunicação Social da UEPB.  No âmbito
+
+institucional, esse Projeto considerou a resolução UEPB/CONSEPE 09/97, que
+
+então regulamentava a elaboração e reformulação dos currículos dos cursos de
+
+graduação.
+
+No tocante especificamente à graduação em Jornalismo, as Diretrizes
+
+Curriculares ora vigentes têm como prerrogativa legal os pareceres CNE/CES nº
+
+776/1997, 583/2001 e 67/2003, considerando o que consta do parecer CNE/CES
+
+nº 39/2013 homologado por Despacho do Senhor Ministro de Estado da Educação,
+
+publicado no Diário Oficial da União de 12 de setembro de 2013.
+
+Até 2013, as deliberações curriculares em cursos de Comunicação Social
+
+tinham como prerrogativa legal a Resolução 16/02, do CNE – Conselho Nacional de
+
+Educação, órgão do MEC que substitui o antigo CFE, e CES – Câmara de Educação
+
+Superior, instância catalisadora das demandas dos cursos superiores brasileiros
+
+quando da elaboração das Diretrizes Curriculares. As Diretrizes Curriculares
+
+consubstanciam o discurso propositivo contemporâneo, previsto na LDB vigente,
+
+substituindo os antigos Currículos Mínimos.
+
+Nesse sentido, o MEC instituiu, em fevereiro de 2009, mediante a Portaria
+
+MEC 203/2009, uma comissão de especialistas, presidida pelo professor José
+
+Marques de Melo, para formatar o novo discurso propositivo para a graduação em
+
+Jornalismo. Em setembro do mesmo ano, a comissão entregou o documento ao
+
+MEC. A iniciativa considerou tanto as novas demandas éticas e técnicas inerentes à
+
+profissão quanto a necessidade de consolidação da formação superior para o
+
+exercício do jornalismo, malgrado o fim da exigência do diploma, decidida pelo
+
+Supremo Tribunal Federal (STJ), em 17 de junho de 2009.
+
+O MEC encaminhou a proposta ao Conselho Nacional de Educação (CNE), o
+
+qual, em fevereiro de 2013, aprovou as Diretrizes Curriculares Nacionais para o
+
+Curso de Graduação em Jornalismo. Finalmente, foi publicada, no dia 1 de outubro
+
+de 2013, no Diário Oficial da União, a Resolução CNE/CES 1/2013 que instituiu as
+
+Diretrizes Curriculares Nacionais
+
+28
+
+para o Curso de Graduação em Jornalismo, bacharelado, que devem ser
+
+observadas pelas instituições de ensino superior na perspectiva de sua organização
+
+curricular.
+
+No âmbito da UEPB, o processo de (re)elaboração dos Projetos Pedagógicos
+
+dos Cursos de Graduação (PPCs) obedecem, doravante, o novo Regimento dos
+
+Cursos de Graduação instituído em 2015. De posse de tais prerrogativas legais mais
+
+recentes, formula-se esta nova proposta curricular, que pretende, sobretudo, uma
+
+atualização das demandas do Ensino, em consonância com a Pesquisa e a
+
+Extensão, em face de toda essa conjuntura.
+
+Justifica-se ainda que o Projeto Pedagógico para o novo curso de Jornalismo
+
+está inserido dentro desse contexto amplo que compreende as exigências das
+
+Diretrizes Curriculares  Nacionais dos Cursos de Graduação em Jornalismo de 2013
+
+do Ministério da Educação, do Projeto de Desenvolvimento Institucional da UEPB,
+
+do Projeto Pedagógico Institucional e do novo Regimento dos Cursos de Graduação
+
+da UEPB de 2015.
+
+O cenário atual é marcado pela crescente necessidade de que os cursos de
+
+Jornalismo se tornem ainda mais qualificados para contribuir e, por consequência,
+
+consolidar o fortalecimento do campo jornalístico no âmbito das Ciências Sociais
+
+Aplicadas. Com o fim dos cursos de Comunicação Social com habilitação em
+
+Jornalismo, sinalizado pelas Diretrizes Curriculares Nacionais e a criação dos
+
+Bacharelados em Jornalismo, a proposta atual atende a essa especificidade, embora
+
+não perdendo a dimensão comunicacional que constitui o campo e o contexto das
+
+teorias e das pesquisas comunicacionais. Neste sentido, busca-se a valorização das
+
+competências inerentes ao fazer jornalístico e o senso crítico para um exercício ético
+
+da profissão.
+
+Essa emancipação representa uma nova dimensão marcada por desafios e
+
+oportunidades ao campo jornalístico no ambiente científico nacional e,
+
+simultaneamente, fortalece a identidade profissional dos egressos como jornalistas,
+
+sem, contudo, perder a dimensão intrinsecamente interdisciplinar da formação dos
+
+estudantes desse curso. Interdisciplinaridade resguardada pelos eixos temáticos,
+
+que estruturam o Projeto Pedagógico do Curso, conforme previsto pelas Diretrizes
+
+Curriculares
+
+29
+
+Nacionais, e fiadora de uma formação consistente, que vai além da técnica, e
+
+garante a inserção profissional do egresso do curso nas mais diversas áreas que
+
+demandam as competências jornalísticas.
+
+Apesar da baixa remuneração, principalmente quando se leva em
+
+consideração as responsabilidades técnicas, éticas e estéticas necessárias ao
+
+exercício do jornalismo, e da crise vivenciada pela maior parte das grandes
+
+empresas jornalísticas, o campo de atuação profissional ainda oferece possibilidades
+
+atrativas em áreas como assessoria de imprensa e de comunicação, que
+
+historicamente tem o piso salarial superior ao das redações, e no âmbito do
+
+empreendedorismo aliado às novas tecnologias, que viabiliza o crescimento, por
+
+exemplo, dos projetos pautados pela busca da execução do jornalismo
+
+independente. A própria carreira acadêmica, ano a ano, apresenta-se como outra
+
+excelente perspectiva de atuação que vai de encontro à ideia, ainda bastante em
+
+voga no senso comum, de que o jornalista deve trabalhar apenas nas redações dos
+
+meios de comunicação tradicionais.
+
+Enquanto os jornalistas tentam reinventar os modelos de negócios tradicionais
+
+e prospectam novos campos de atuação, a sociedade depende cada vez mais de
+
+um profissional apto, entre outras competências, a produzir notícias, selecionar,
+
+interpretar e opinar sobre fatos políticos, sócio-econômicos, culturais e esportivos,
+
+entre outros temas relevantes da sociedade, por meio da construção de narrativas
+
+sob a lógica do continuum multimídia (BARBOSA, 2013) e das novas linguagens
+
+relacionadas aos meios emergentes.
+
+Em uma sociedade em rede (CASTELLS, 1999), marcada por um consumo
+
+ininterrupto de informação e pela mobilidade líquida, o jornalista tem como uma de
+
+suas funções primordiais produzir conteúdo para ajudar o cidadão a entender as
+
+disputas travadas nas mais distintas esferas da sociedade e, de uma vez por todas,
+
+demarcar o seu papel como um dos agentes responsáveis pela própria construção
+
+da realidade social. Por consequência, deve trabalhar para ajudar a desconstruir a
+
+suposta imparcialidade de seus relatos e trazer os recortes da realidade que ajudem
+
+os cidadãos a refletir e tomar decisões ou se informar sobre os mais variados
+
+30
+
+temas de interesse público.
+
+Embora, obviamente, continue a se pautar pela busca da “verdade”, o
+
+profissional deve compreender e evidenciar para a sociedade que, baseado no
+
+Código de Ética dos Jornalistas Brasileiros, defende o direito à informação, os
+
+direitos humanos, a liberdade de expressão, os princípios constitucionais e legais, os
+
+direitos do cidadão, além de combater as diversas tipologias de discriminação e
+
+contribuir na fiscalização das instituições que estruturam a democracia. Atribuições
+
+que são fundamentais para o desenvolvimento da sociedade em âmbito local,
+
+regional e nacional, independente de suas especificidades, por exemplo, sócio-
+
+econômicas.
+
+Neste sentido, o curso de Jornalismo da UEPB desempenha fundamental
+
+participação no desenvolvimento sustentável do Estado da Paraíba e do Nordeste
+
+brasileiro. Opta por investir em processo de ensino e aprendizagem baseado no
+
+emponderamento do próprio discente. Esta escolha tem impactos positivos para a
+
+trajetória acadêmica dos estudantes e, por consequência, para a qualificação
+
+profissional dos futuros jornalistas no incentivo ao empreendedorismo social,
+
+empresarial e de novas iniciativas no campo do jornalismo que contribuam para a
+
+abertura de horizontes profissionais e de cidadania.
+
+Há a busca de ultrapassar o viés didático quantitativo, pautado em disciplinas
+
+que perpetuam a instrução e o treinamento técnico, cujo modelo privilegia um
+
+“mestre” que transmite e um “discípulo” que reproduz os ensinamentos, mediante
+
+uma dinâmica pedagógica tradicional que concebe “a aula” como única espaço
+
+estrutural de aprendizagem, padrão vigente do denominado currículo extensivo
+
+(DEMO, 2000).
+
+Em contrapartida, a filosofia de ensino “intensiva” defende um princípio
+
+educativo, possibilitado pela crítica e questionamento, apto a gerar um processo
+
+histórico construído por sujeitos competentes e habilitados a intervir no mundo.
+
+Nessa filosofia o conhecimento torna-se o insumo que viabiliza a profundidade
+
+educativa através da prática do “aprender a aprender”. Logo, a prática do
+
+conhecimento é, em si, uma interface teórica, e não se restringe a mera aplicação.
+
+Criam-se as condições para o fomento da humanização educativa para além da sala
+
+de aula, mediante o diálogo de
+
+31
+
+saberes interdisciplinares, da pesquisa, do trabalho coletivo emancipatório. Os
+
+professores são desafiados a impulsionar e motivar as descobertas e, com isso,
+
+“formam e informam” atores sociais responsáveis e comprometidos com a cidadania
+
+mais do que sujeitos aptos à competitividade.
+
+Justifica-se que o curso de Jornalismo da UEPB deve representar impacto de
+
+caráter científico, cultural e profissional com a renovação de sua grade baseada nas
+
+mudanças estruturais e tecnológicas e na percepção de que a sociedade necessita
+
+cada vez mais de profissionais jornalistas para atuar no filtro e na capacidade
+
+investigativa, traduzindo para a sociedade os grandes desafios e as demandas que
+
+emergem como urgentes para se compreender  o contexto em que se vive. Munidos
+
+de conhecimentos gerais, específicos e de instrumentos vinculados às tecnologias
+
+da informação e da inteligência, os profissionais oriundos do curso de Jornalismo
+
+devem atuar em frentes que contribuam com o legado da história e da democracia.
+
+32
+
+\06. OBJETIVOS
+
+OBJETIVOS GERAIS
+
+O curso de bacharelado em Jornalismo da Universidade Estadual da Paraíba
+
+objetiva capacitar e formar profissionais em jornalismo com domínio teórico e
+
+técnico, senso crítico, ética, capacidade de produção e de análise de produção em
+
+multiplataformas (rádio, impressos, TV, web, móvel, entre outras), atuação como
+
+profissionais em diferentes modelos de redações (como integradas e convergentes),
+
+em assessorias de imprensa e de comunicação de instituições públicas, privadas e
+
+do terceiro setor, a partir de valores éticos e de responsabilidade social. Ao mesmo
+
+tempo o curso procura delinear, como perfil do egresso do bacharelado em
+
+Jornalismo, um profissional com iniciativa empreendedora, inovadora e capacidade
+
+investigativa para uso de técnicas avançadas de apuração, produção, edição e
+
+distribuição de conteúdos de caráter jornalístico, e destreza com novas linguagens e
+
+formatos, além do domínio científico voltado para a pesquisa científica ou
+
+investigativa. O perfil profissional considera, ainda, uma formação que envolva a
+
+defesa dos direitos humanos, da ética e da liberdade de expressão.
+
+OBJETIVOS ESPECÍFICOS
+
+a) Viabilizar a interface entre as necessidades regionais, nacionais e
+
+internacionais, de modo pertinente às atuais tendências do mercado de trabalho no
+
+jornalismo e da investigação acadêmica;
+
+b) Fomentar a iniciativa empreendedora e inovadora visando à adaptação e à
+
+expansão do mercado de trabalho para jornalistas;
+
+c) Preparar profissionais para lidar com o processo de convergência e de
+
+ambiente tecnológico de modo a se adaptar e encontrar horizontes em meio às
+
+mudanças na prática jornalística e na sociedade;
+
+d) Centrar a formação do jornalista na capacidade teórica e técnica e com
+
+reconhecimento das dimensões sociais, culturais e comunicacionais e da
+
+33
+
+especificidade do jornalismo enquanto prática;
+
+e) Promover a integração entre a teoria e a prática na formação profissional do
+
+bacharel em Jornalismo;
+
+f) Formar jornalistas para atuarem de forma ética, respeitando os direitos da
+
+pessoa humana e o seu livre acesso à informação;
+
+g) Incentivar o interesse pela pesquisa científica e desenvolver as habilidades
+
+necessárias à investidura na carreira acadêmica;
+
+h) Desenvolver projetos de Extensão que permitam levar os resultados dos
+
+processos de Ensino e Pesquisa para a sociedade.
+
+34
+
+\07. PERFIL DO EGRESSO
+
+O perfil do egresso do curso de Bacharelado em Jornalismo da UEPB é
+
+caracterizado por um profissional com sólida formação acadêmica na especificidade
+
+do jornalismo e, igualmente, com formação cultural, ética, humana, crítica e científica
+
+que permita lidar com os fundamentos da profissão tanto no campo profissional
+
+quanto no campo científico. Deste modo, o egresso tem domínio teórico e técnico
+
+das tecnologias e aplicações necessárias para o desempenho em alto nível das
+
+atividades em ambiente de transformações tecnológicas e, ao mesmo tempo,
+
+capacidade reflexiva e de consciência ética do papel exercido como formador de
+
+opinião e de produção de informação para uma sociedade plural. Em vista das
+
+particularidades do curso de graduação em jornalismo, são relevantes as
+
+competências profissionais, sociais e intelectuais voltadas à criação, produção,
+
+distribuição, recepção e análise crítica referentes ao jornalismo, considerando as
+
+práticas profissionais e sociais a ele relacionadas. Ainda nesse aspecto, destacam-
+
+se: a necessidade de uma visão integradora e horizontalizada, a utilização crítica do
+
+instrumental teórico-prático e, também, um perfil fundamentado na formação de um
+
+profissional humanizado e consciente da sua profissão enquanto prática de
+
+promoção da cidadania e sua responsabilidade social.
+
+O perfil do egresso procura atender às competências e perspectiva das
+
+Diretrizes Nacionais dos Cursos de Graduação em Jornalismo em torno de garantir
+
+uma formação com fundamentação humanística de abrangência pela cidadania e
+
+compreensão da realidade brasileira; fundamentação específica visando atender
+
+às características específicas da profissão e sua deontologia; formação contextual
+
+que perpasse a comunicação, a informação e a cibercultura; formação profissional
+
+que atenda a uma perspectiva teórica e prática para lidar com fontes e rotinas de
+
+produção; aplicação processual nos moldes estratégicos com ferramentas técnicas
+
+e metodológicas para coberturas especiais e de diferentes suportes midiáticos;
+
+prática laboratorial que vise a aquisição de habilidades práticas referentes à
+
+profissão para o processo de produção laboratorial de produtos de diferentes
+
+plataformas a partir do domínio de distintas linguagens  e uso de software,
+
+aplicativos, equipamentos diversos e sistemas computacionais.
+
+Assim, o profissional de jornalismo não deve limitar-se ao
+
+35
+
+desempenho de suas funções enquanto jornalista, mas deve conhecer o espaço da
+
+comunicação em sua totalidade.
+
+Além da sua responsabilidade social e ambiental e com vistas à preservação
+
+dos valores concernentes às demandas da sociedade contemporânea, os egressos
+
+do curso de jornalismo da UEPB devem ser profissionalmente reconhecidos:
+
+•   Pela produção de conhecimento e cultura voltada para seleções factuais sobre
+
+a atualidade e para a estruturação e disponibilização de informações que atendam
+
+à necessidades e interesses sociais no que se refere ao conhecimento dos fatos,
+
+das circunstâncias e dos contextos do momento presente;
+
+•   Pelo exercício do jornalismo no tocante à apuração, interpretação, registro e
+
+divulgação de representações dos fatos sociais;
+
+•   Pelo trabalho em organizações jornalísticas e instituições que incluam
+
+atividades caracterizadas como de imprensa e de informação jornalística de
+
+interesse geral ou setorializado, e de divulgação de informações da atualidade;
+
+•   Pelo exercício de relações entre as funções típicas de jornalismo e as demais
+
+funções profissionais ou empresariais existentes na área da Comunicação, e ainda
+
+com outras áreas sociais, culturais e econômicas com as quais o jornalismo faz
+
+interface;
+
+•   Pelo exercício de todas as demais atividades que, no estado então vigente da
+
+profissão, sejam reconhecidas pelo bom senso, pelas entidades representativas ou
+
+pela legislação pertinente, como características do jornalista.
+
+7.1 Competências, saberes e habilidades
+
+Seguindo, então, a mesma premissa do item voltado à descrição do perfil
+
+profissional do egresso do curso, o Projeto define as competências e habilidades
+
+gerais e específicas considerando a formação geral e a especificidade em
+
+jornalismo. As habilidades e competências expostas estão elencadas no documento
+
+final das Diretrizes Curriculares e referendadas pelo INEP quando define os critérios
+
+de mensuração de conhecimentos a serem considerados pelo ENADE - Exame
+
+Nacional de Desempenho dos Estudantes.
+
+36
+
+Assim, considera-se que o bacharel em Jornalismo é um profissional capacitado ao
+
+desempenho das seguintes atividades:
+
+•   Registrar fatos jornalísticos, apurando, interpretando, editando e
+
+transformando-os em notícias e reportagens;
+
+•   Interpretar, explicar e contextualizar informações, considerando a convergência
+
+dos gêneros e negando o reducionismo das suas dicotomias;
+
+•   Investigar informações, produzir textos e mensagens jornalísticas com clareza e
+
+correção e editá-los em espaço e período de tempo preestabelecido pelos ditames
+
+da produção jornalística;
+
+•   Formular pautas e planejar coberturas jornalísticas;
+
+•   Formular questões e conduzir entrevistas;
+
+•   Relacionar-se com fontes de informação de qualquer natureza;
+
+•   Trabalhar em equipe com profissionais da área;
+
+•   Compreender e saber sistematizar e organizar os processos de produção
+
+jornalística;
+
+•   Desenvolver, planejar, propor, executar e avaliar projetos na área de
+
+comunicação jornalística;
+
+•   Avaliar criticamente produtos, práticas e empreendimentos jornalísticos;
+
+•   Compreender o jornalismo enquanto campo científico a partir da consciência
+
+em torno das questões metodológicas mais emblemáticas que permeiam as
+
+discussões da comunicação. Essa perspectiva coloca-se para além do entendimento
+
+dos processos envolvidos na recepção de mensagens jornalísticas e seus impactos
+
+sobre os diversos setores da sociedade;
+
+•   Identificar o que é informação de interesse público e pautar-se eticamente no
+
+tratamento dessas informações;
+
+•   Identificar e equacionar questões éticas de jornalismo;
+
+•   Adotar postura ética e compromisso com a cidadania, no sentido de perceber
+
+que o exercício da profissão de jornalista implica informar para formar consciências
+
+proativas que interfiram na sociedade a fim de implementar mudanças no âmbito
+
+coletivo;
+
+•   Manter-se crítico e independente, no que diz respeito às relações de poder e às
+
+demandas em diversos níveis que se sucedem na sociedade, tendo em vista o viés
+
+educativo que perpassa o compromisso da ação de informar;
+
+37
+
+•   Dominar a língua nacional e as estruturas narrativas e expositivas aplicáveis às
+
+mensagens jornalísticas, abrangendo-se leitura, compreensão, interpretação e
+
+redação;
+
+•   Dominar a linguagem jornalística apropriada aos diferentes meios e
+
+modalidades tecnológicas de comunicação, considerando, sobretudo, o momento de
+
+convergência tecnológica que concerne à mundialização informacional;
+
+•   Assimilar criticamente conceitos que permitam a compreensão das práticas e
+
+teorias jornalísticas, repercutindo-os sobre sua prática profissional, tecendo uma
+
+visão ampla sobre os processos de mediação e de recepção que influenciam a
+
+construção informacional;
+
+•   Ter as demais competências e habilidades que caracterizam o trabalho nas
+
+circunstâncias em que o jornalista é normalmente inserido, buscando compreender o
+
+cenário das infovias e construindo novas concepções sobre a realidade midiática em
+
+constante mutação.
+
+7.2 Campo de atuação profissional
+
+•   Organizações jornalísticas tradicionais (emissoras de rádio, televisão, revistas e
+
+jornais impressos, agências de notícia);
+
+•   Assessorias de imprensa e de comunicação;
+
+•   Organizações Não-Governamentais (ONGs) e Terceiro Setor;
+
+•   Portais de notícias;
+
+•   Organizações jornalísticas emergentes (aplicativos móveis de notícias,
+
+multiplataformas e novos suportes midiáticos);
+
+•   Profissionais autônomos (freenlancers) e empreendedores.
+
+38
+
+\08. ORGANIZAÇÃO CURRICULAR
+
+O curso de Comunicação Social - habilitação em Jornalismo, que origina este
+
+curso de Bacharelado em Jornalismo (em cumprimento ao que recomenda o
+
+Ministério da Educação - MEC a partir das Diretrizes Nacionais para os cursos de
+
+Graduação em Jornalismo de 2013) ao longo do tempo teve uma organização
+
+curricular baseada em disciplinas voltadas para o campo da Comunicação
+
+valorizando os aspectos regionais e de conjuntura do Nordeste e do Brasil. Na
+
+década de 1990, a organização do currículo previsto no Projeto Pedagógico de
+
+Curso privilegiava uma distribuição de disciplinas teóricas do primeiro ano até o
+
+segundo ano e a inserção, a partir do terceiro ano, da oferta de disciplinas teórico-
+
+práticas ou práticas, sobrecarregando as atividades dos discentes que precisavam
+
+compatibilizar uma série de disciplinas com perfil prático como radiojornalismo,
+
+planejamento gráfico e editoração, telejornalismo, entre outras disciplinas.
+
+No curso de Bacharelado em Jornalismo, a proposta da organização curricular
+
+leva em consideração as recomendações das Diretrizes Nacionais, que estabelecem
+
+o equilíbrio entre teoria e prática, com a inserção de disciplinas laboratoriais a partir
+
+do primeiro semestre, para que o aluno já tenha contato com a prática jornalística e
+
+com ferramentas e estratégias de produção de conteúdo. Além da perspectiva da
+
+interface entre teoria e prática, a organização curricular do curso privilegia nas
+
+disciplinas a integração entre as atividades de ensino, pesquisa e extensão e
+
+fomenta a promoção de proximidade com a sociedade. As atividades de ensino têm
+
+um forte vínculo com os Grupos de Pesquisa (cadastrados no CNPq) dos docentes
+
+de modo a ampliar as discussões em sala de aula com pesquisas teóricas, reflexivas
+
+e empíricas nos grupos permitindo que os discentes tenham contato com iniciação
+
+científica, com laboratórios avançados.
+
+Deste modo, há  oportunidade para uma formação sólida e a produção de
+
+conteúdos e produtos inerentes ao campo científico e refletindo também as linhas de
+
+pesquisa do curso: Produção jornalística, Mídia e Estudos Culturais, Jornalismo
+
+Digital e Cibercultura, Comunicação Comunitária, Comunicação Organizacional,
+
+Jornalismo Convergente. Ao mesmo tempo, o ensino tem interação direta com a
+
+Extensão visando  uma relação híbrida entre a sala de aula e os projetos
+
+extensionistas cadastrados na Pró-Reitoria
+
+39
+
+de Extensão da instituição.
+
+A distribuição de cargas horárias e a organização curricular do curso estão
+
+estruturadas e definidas a partir de Atividades Complementares (AC), Trabalho de
+
+Conclusão de Curso (TCC), Estágio Curricular Supervisionado e Flexibilização
+
+Curricular que permita a construção de uma formação completa nas dimensões
+
+éticas, práticas e teóricas. Em relação à carga horária total do curso, as Diretrizes
+
+Nacionais recomendam, no mínimo, 3.000 (três mil) horas de aulas em cursos
+
+regulares na área de jornalismo. A estrutura curricular comporta 3.035 (três mil e
+
+trinta e cinco) horas já somado o TCC Trabalho de Conclusão de Curso. A hora/aula
+
+será estabelecida como hora/relógio.
+
+O Trabalho de Conclusão de Curso (TCC), conforme Regimento dos Cursos
+
+de Graduação, está organizado em dois componentes Curriculares obrigatórios -
+
+TCC I e TCC II. O TCC pode ser desenvolvido de forma individual (monografia,
+
+artigo científico, relatório de pesquisa ou extensão) ou de forma individual ou coletiva
+
+(equipe de até três alunos) no caso de Projeto Experimental para o desenvolvimento
+
+de produtos midiáticos, como documentários, portais de notícias, aplicativos para
+
+dispositivos móveis, livro-reportagem, revistas digitais para tablets e smartphones,
+
+reportagem multimídia, blogs, revista ou jornal, programas de rádio e televisão,
+
+audiodescrição, mídia sonora (áudio livro), entre outras modalidades. Por se tratar
+
+de Projetos Experimentais, o curso incentiva a experimentação propriamente dita e o
+
+fomento de produtos inovadores que contribuam para o campo do jornalismo e para
+
+o surgimento de novos modelos de negócios.
+
+Na estrutura curricular, o Estágio Curricular Supervisionado, com 300 horas,
+
+conforme as Diretrizes Nacionais de cursos de Graduação em Jornalismo do MEC,
+
+terá no âmbito do curso e conforme o Regimento dos Cursos de Graduação da
+
+Universidade Estadual da Paraíba,  a possibilidade de convalidação de atividades
+
+de extensão (bolsista) regulamentado pela instituição sem a sobreposição ou
+
+duplicação quanto às atividades complementares exigidas pelo curso. As interações
+
+do estágio serão estabelecidas a partir de dois modelos de estágio construídos para
+
+a especificidade do curso.
+
+O curso terá duração mínima de oito semestres letivos e uma duração máxima
+
+de doze semestres, no período diurno ou noturno, perfazendo quatro anos de curso
+
+como período mínimo para integralização.  A carga
+
+40
+
+horária do curso está totalizada em 3.035 (três mil e trinta e cinco) horas, distribuídas
+
+em blocos de atividades e/ou componentes curriculares do projeto (Básico Comum,
+
+Básico Específico de Estágio, Básico Específico de TCC, Básico Específico do
+
+Curso, Complementar - AACC, Complementar - Eletivos e Livres, Livres). O PPC do
+
+curso de Jornalismo incentiva a flexibilização curricular e a interdisciplinaridade
+
+visando que o aluno possa integrar atividades que contribuam para o ensino-
+
+aprendizagem e uma visão holística do discente na sua formação que se integre às
+
+especificidades do curso.
+
+Em relação às Atividades Complementares (AC) do curso consideram o Art.
+
+13 das Diretrizes Curriculares Nacionais para o curso de Graduação em Jornalismo
+
+em que as atividades complementares são componentes curriculares não
+
+obrigatórios que possibilitam o reconhecimento, por avaliação, de habilidades,
+
+conhecimentos e competências do aluno, dentre elas as adquiridas fora do ambiente
+
+de ensino.  No curso de Jornalismo da UEPB, com base em parâmetro determinado
+
+pelas Diretrizes Curriculares, o estudante deve integralizar 200 horas por meio de
+
+atividades complementares (AACC).
+
+AACC são atividades complementares que possibilitam ao discente ampliar
+
+sua formação enquanto jornalista, aproximando-o dos campos prático, acadêmico
+
+cultural, sendo, portanto, divididas em:
+
+Apresentação de trabalhos em eventos na área da graduação e/ou áreas
+
+afins: Carga horária mínima: 20h; Carga horária total: 120h; Documentação:
+
+Certificado ou declaração emitido pelo evento
+
+Atividade de campo: Carga horária mínima: 10h; Carga horária total: 90h;
+
+Documentação: Certificado ou declaração emitidos pela instituição ou professor
+
+responsável pela atividade
+
+Atividades artístico-culturais: Carga horária mínima: 10h; Carga horária
+
+total: 90h; Documentação: Certificado ou declaração
+
+Cursos de língua estrangeira presenciais ou a distância: Carga horária
+
+mínima: 20h; Carga horária total: 120h; Documentação: Certificado ou declaração
+
+emitido pelo órgão competente.
+
+41
+
+Cursos técnicos, cursos a distância, cursos de formação em áreas afins:
+
+Carga horária mínima: 20h; Carga horária total: 90h; Documentação: Certificado ou
+
+declaração emitido pelo órgão competente.
+
+Cursos técnicos, cursos a distância, cursos de formação na área da
+
+graduação: Carga horária mínima: 20h; Carga horária total: 120h; Documentação:
+
+Certificado ou declaração emitido pelo órgão competente.
+
+Estágio curricular eletivo ou não-obrigatório: Carga horária mínima: 40h;
+
+Carga horária total: 160h; Documentação: Certificado ou declaração emitido pela
+
+Coordenação e Estágio ou entidade responsável pelo estágio
+
+Grupos de estudos: Carga horária mínima: 20h; Carga horária total: 120h;
+
+Documentação: Certificado ou declaração emitido pela coordenação do grupo,
+
+especificando vínculo institucional.
+
+Organização de eventos na área da graduação e/ou áreas afins: Carga
+
+horária mínima: 20h; Carga horária total: 120h; Documentação: Certificado ou
+
+declaração emitidos pelo evento
+
+Participação como ouvinte em defesas de TCC: Carga horária mínima:
+
+2h/banca; Carga horária total: 80h; Documentação: Certificado ou declaração
+
+emitidos pelo evento
+
+Participação em atividades de ensino: Carga horária mínima: 20h; Carga
+
+horária total: 120h; Documentação: Certificado ou declaração emitido pela
+
+coordenação do curso ou institucional responsável pela atividade.
+
+Participação em eventos em áreas afins: Carga horária mínima: 10h; Carga
+
+horária total: 120h; Documentação: Certificado ou declaração emitido pela
+
+coordenação do evento.
+
+Participação em eventos na área da graduação: Carga horária mínima:
+
+10h; Carga horária total: 140h; Documentação: Certificado ou declaração emitido
+
+pela coordenação do evento.
+
+42
+
+Participação em PIBIC: Carga horária mínima: 30h; Carga horária total: 180h;
+
+Documentação: Certificado ou declaração emitido pela coordenação do
+
+projeto/programa.
+
+Participação em PIBID: Carga horária mínima: 30h; Carga horária total: 180h;
+
+Documentação: Certificado ou declaração emitido pela coordenação do
+
+projeto/programa.
+
+Participação em programas de monitoria: Carga horária mínima: 30h;
+
+Carga horária total: 120h; Documentação: Certificado ou declaração emitido pela
+
+coordenação de curso ou pró-reitoria responsável pela monitoria
+
+Participação em projetos e programas de extensão: Carga horária mínima:
+
+30h; Carga horária total: 180h; Documentação: Certificado ou declaração emitido
+
+pela coordenação do projeto/programa.
+
+Participação em projetos e programas de pesquisa: Carga horária mínima:
+
+30h; Carga horária total: 180h; Documentação: Certificado ou declaração emitido
+
+pela coordenação do projeto/programa.
+
+Participação em representação estudantil: Carga horária mínima: 10h;
+
+Carga horária total: 60h; Documentação: Certificado ou declaração emitido pela
+
+coordenação da entidade estudantil.
+
+Publicação de artigos em eventos científicos da área e/ou áreas afins:
+
+Carga horária mínima: 15h; Carga horária total: 120h; Documentação: Carta de
+
+aceite para publicação e cópia da publicação, seja ela impressa ou digital, contendo
+
+título e nome do autor.
+
+Publicação de artigo em revista científica: Carga horária mínima: 20h;
+
+Carga horária total: 120h; Documentação: Carta de aceite para publicação e cópia
+
+da publicação, seja ela impressa ou digital, contendo título e nome do autor.
+
+Publicação de conteúdos jornalísticos em jornais, revistas, sites e
+
+43
+
+programas audiovisuais e radiofônicos: Carga horária mínima: 4h; Carga horária
+
+total: 100h; Documentação: Cópia da publicação e/ou link da postagem do conteúdo
+
+Publicação de livro ou capítulos de livro: Carga horária mínima: 30h; Carga horária
+
+total: 120h; Documentação: Cópia da publicação, seja ela impressa ou digital,
+
+contendo título e nome do autor. Não precisa do texto na íntegra, permitindo
+
+sumário/índice.
+
+Tutoria: Carga horária mínima: 15h; Carga horária total: 90h; Documentação:
+
+Certificado ou declaração emitido pela coordenação da instituição responsável pela
+
+tutoria.
+
+A especificação das atividades complementares consta no Art. 13, em seu §
+
+5º, das Diretrizes Curriculares:
+
+I - atividades didáticas: frequência e aprovação em disciplinas não previstas
+
+no currículo do curso, ampliando o conhecimento dos estudantes de Jornalismo
+
+sobre conteúdos específicos, como economia, política, direito, legislação, ecologia,
+
+cultura, esportes, ciência, tecnologia etc.
+
+II - atividades acadêmicas: apresentação de relatos de iniciação científica,
+
+pesquisa experimental, extensão comunitária ou monitoria didática em congressos
+
+acadêmicos e profissionais.
+
+Ainda conforme a recomendação do MEC, a avaliação dessas atividades será
+
+estabelecida pela própria instituição de ensino, que respeitará as particularidades e
+
+especificidades do curso de Jornalismo, além de criar um sistema de créditos,
+
+pontos ou computação de horas que irão compor a integralização do total da carga
+
+horária estipulada para o curso.
+
+A organização do currículo do curso está estruturada a partir de seis eixos de
+
+formação recomendados pelas Diretrizes Nacionais para Cursos de Graduação em
+
+Jornalismo, de modo a contemplar as dimensões formativas para o discente. Em
+
+cada eixo um conjunto de componentes curriculares são desenvolvidos para a
+
+formação sólida dos discentes e integralização de conhecimentos específicos para
+
+os eixos.
+
+44
+
+Eixo de fundamentação humanística, cujo objetivo e capacitar o
+
+jornalista para exercer a sua função intelectual de produtor e difusor de
+
+informações e conhecimentos de interesse para a cidadania, privilegiando a
+
+realidade brasileira, como formação histórica, estrutura jurídica e instituições
+
+políticas contemporâneas; sua geografia humana e economia politica; suas
+
+raízes étnicas, regiões ecológicas, cultura popular, crenças e tradições; arte,
+
+literatura, ciência, tecnologia, bem como os fatores essenciais para o
+
+fortalecimento da democracia, entre eles as relações internacionais, a
+
+diversidade cultural, os direitos individuais e coletivos; as políticas públicas, o
+
+desenvolvimento sustentável, as oportunidades de esportes, lazer e
+
+entretenimento e o acesso aos bens culturais da humanidade, sem se
+
+descuidar dos processos de globalização, regionalização e das singularidades
+
+locais, comunitárias e da vida cotidiana.
+
+Neste Eixo de fundamentação humanística estão agrupadas as seguintes
+
+disciplinas.
+
+•   Educomunicação
+
+•   Comunicação Comunitária
+
+•   Comunicação e Desenvolvimento Regional
+
+•   Antropologia Cultural
+
+•   História e Cultura Afro-Brasileira
+
+•   Sociologia da Comunicação
+
+II - Eixo de fundamentação específica, cuja função é proporcionar ao
+
+jornalista clareza conceitual e visão crítica sobre a especificidade de sua
+
+profissão, tais como: fundamentos históricos, taxonômicos, éticos,
+
+epistemológicos; ordenamento jurídico e deontológico; instituições,
+
+pensadores e obras canônicas; manifestações públicas, industriais e
+
+comunitárias; os instrumentos de autorregulação; observação crítica; análise
+
+comparada; revisão da pesquisa científica sobre os paradigmas hegemônicos
+
+e as tendências emergentes.
+
+Neste Eixo de fundamentação específica estão agrupadas as seguintes
+
+disciplinas.
+
+45
+
+•   Teoria do Jornalismo
+
+•   História da Comunicação e do Jornalismo
+
+•   Tópicos Especiais em Jornalismo
+
+•   Teoria da Comunicação
+
+•   Ética e Direitos Humano
+
+III - Eixo de fundamentação contextual, que tem por escopo embasar o
+
+conhecimento das teorias da comunicação, informação e cibercultura, em suas
+
+dimensões filosóficas, políticas, psicológicas e socioculturais, o que deve
+
+incluir as rotinas de produção e os processos de recepção, bem como a
+
+regulamentação dos sistemas midiáticos, em função do mercado potencial,
+
+além dos princípios que regem as áreas conexas.
+
+Neste Eixo de fundamentação contextual estão agrupadas as seguintes
+
+disciplinas.
+
+•   Cibercultura
+
+•   Observatório de Mídia
+
+•   Estética na comunicação
+
+•   Comunicação comparada
+
+•   TCC 1 e TCC 2
+
+•   Metodologia científica
+
+•   Cinema
+
+IV - Eixo de formação profissional, que objetiva fundamentar o
+
+conhecimento teórico e prático, familiarizando os estudantes com os
+
+processos de gestão, produção, métodos e técnicas de apuração, redação e
+
+edição jornalística, possibilitando-lhes investigar os acontecimentos relatados
+
+pelas fontes, bem como capacita-los a exercer a crítica e a prática redacional
+
+em língua portuguesa, de acordo com os gêneros e os formatos jornalísticos
+
+instituídos, as inovações tecnológicas, retóricas e argumentativas.
+
+Neste Eixo de formação profissional estão agrupadas as seguintes
+
+46
+
+disciplinas.
+
+•   Projeto gráfico em jornalismo
+
+•   Jornalismo em Base de Dados
+
+•   Infografia e Visualização de Dados
+
+•   Técnicas de Entrevista e Reportagem
+
+•   Linguagem fotográfica
+
+•   Jornalismo Independente
+
+V - Eixo de aplicação processual, cujo objetivo é o de fornecer ao
+
+jornalista ferramentas técnicas e metodológicas, de modo que possa efetuar
+
+coberturas em diferentes suportes: jornalismo impresso, radiojornalismo,
+
+telejornalismo, webjornalismo, assessorias de imprensa e outras demandas do
+
+mercado de trabalho.
+
+Neste Eixo de aplicação processual estão agrupadas as seguintes
+
+disciplinas.
+
+•   Jornalismo Digital
+
+•   Radiojornalismo e Mídia Sonora
+
+•   Telejornalismo
+
+•   Jornalismo impresso
+
+•   Assessoria de Imprensa
+
+•   Agência de notícias
+
+VI - Eixo de prática laboratorial, que tem por objetivo adquirir
+
+conhecimentos e desenvolver habilidades inerentes a profissão a partir da
+
+aplicação de informações e valores. Possui a função de integrar os demais
+
+eixos, alicerçado em projetos editoriais definidos e orientados a públicos reais,
+
+com publicação efetiva e periodicidade regular, tais como: jornal, revista e
+
+livro, jornal mural, radiojornal, telejornal, webjornal, agência de notícias,
+
+assessoria de imprensa, entre outros.
+
+Neste Eixo de prática laboratorial estão agrupadas as seguintes disciplinas.
+
+47
+
+•   Laboratório de Iniciação ao Jornalismo
+
+•   Laboratório de Fotojornalismo
+
+•   Laboratório de Produção Gráfica e Digital
+
+•   Laboratório de Radiojornalismo e Mídia Sonora
+
+•   Laboratório de Telejornalismo
+
+•   Laboratório de Jornalismo Digital
+
+Estes eixos propostos pelas Diretrizes Nacionais para Cursos de Graduação
+
+em Jornalismo balizam a formação dos alunos a partir do perfil desejado quanto a
+
+uma formação com consciência do papel social e da manutenção da democracia. Os
+
+seis eixos elencados contemplam dimensões que funcionam de maneira
+
+interdependende e, ao mesmo tempo, em conexão por meio de uma rede de
+
+conhecimentos teóricos e práticos que convergem para o desenvolvimento de novas
+
+capacidades técnicas e de reflexão sobre a profissão. O primeiro Eixo de
+
+Fundamentação Humanística recupera a característica proeminente para o
+
+jornalista de um formador de opinião através do desenvolvimento de uma cultura
+
+ampla de conhecimentos que perpasse a deontologia do jornalismo por meio de
+
+princípios que consideram a valorização da ética e direitos humanos, domínio da
+
+realidade regional e seus problemas e desafios, defesa da cultura afrodescendente
+
+como processo de inclusão, além de um posicionamento local em razão da
+
+geopolítica e das relações estabelecidas em nível global e local. Logo, a
+
+Fundamentação Humanística conduz o discente para a defesa dos princípios da
+
+comunicação social que demarcam o jornalismo na relação com a humanidade a
+
+cultura.
+
+O Eixo Fundamentação Específica explora a especificidade do campo do
+
+jornalismo e da profissão conferindo uma sólida formação quanto às capacidades
+
+voltadas para as práticas jornalísticas e a reflexão teórico-conceitual. Disciplinas
+
+deste eixo são responsáveis pela delimitação do espaço do jornalismo enquanto
+
+prática social que exige formação consistente para lidar com a complexa tarefa de
+
+noticiar e de construir narrativas sobre o cotidiano em suas múltiplas visões e
+
+recortes da realidade.
+
+Do mesmo modo que o primeiro eixo, humanístico, o Eixo de
+
+Fundamentação Contextual complementa este com a integração de disciplinas da
+
+matriz curricular que trata de fenômenos teóricos como a cibercultura e a informação
+
+no contexto do jornalismo contemporâneo.
+
+48
+
+Todavia, essa fundamentação aponta para a imbricação entre formação do jornalista
+
+e a condição de interpretação das facetas dos fatos e acontecimentos.
+
+O Eixo de Formação Profissional introduz os discentes nos processos do
+
+jornalismo, seja no seu caráter teórico ou prático, que permitam a condução do
+
+trabalho jornalístico baseado em conhecimento das dimensões técnicas e teóricas
+
+com consciência sobre as demandas sociais e da identidade profissional do
+
+jornalista no contexto. Assim sendo, as disciplinas vinculadas ao eixo permitem uma
+
+coalizão entre as disciplinas visando um domínio pleno das técnicas (de
+
+investigação, de métodos e de senso de observação). O Eixo de Aplicação
+
+Processual tem uma estreita aproximação com o Eixo de Formação Profissional,
+
+entretanto atuando em contexto de multiplataformas e de processos de convergência
+
+jornalística que demarca a contemporaneidade diante do aspecto tecnológico que
+
+afeta as redações, a profissão e as formas de produção e distribuição de conteúdos
+
+por múltiplos suportes midiáticos.
+
+Por último, temos o Eixo de Prática Laboratorial que reúne as disciplinas da
+
+matriz curricular que, de forma pragmática, fornecem condições instrumentais para o
+
+exercício da profissional com domínio dos mais diferentes suportes e linguagens do
+
+jornalismo a partir da perspectiva prática construída por meio de laboratórios que
+
+contemplem atividades do jornalismo digital, do radiojornalismo, do telejornalismo e
+
+do fotojornalismo, da produção gráfica e de outras vertentes com especificidades
+
+práticas que solicitam laboratório como ambiência para desenvolvimento das
+
+atividades.
+
+_____________________________
+
+REGIMENTO DO TRABALHO DE CONCLUSÃO DE CURSO TCC DO
+
+CURSO DE JORNALISMO
+
+CAPÍTULO I Disposições iniciais
+
+Art. 1º Em consonância com as Diretrizes Curriculares Nacionais para os
+
+cursos de graduação em Jornalismo, bacharelado, do Ministério da Educação, o
+
+Regimento da Graduação da Universidade Estadual da Paraíba - UEPB define o
+
+Trabalho de Conclusão de Curso (TCC) como um componente curricular obrigatório
+
+que deverá resultar numa atividade acadêmica
+
+49
+
+orientada, de natureza técnica e/ou filosófica e/ou científica, de caráter integrador e
+
+multidisciplinar, relacionada a uma das Linhas de Pesquisa do Curso, de escolha do
+
+estudante em concordância com o docente orientador. O TCC visa promover a
+
+qualificação, interação e sistematização do conhecimento sobre um objeto de estudo
+
+pertinente à profissão e à formação acadêmica para as diversas Áreas do
+
+Conhecimento.
+
+Parágrafo 1º O TCC pode se constituir em um trabalho prático de cunho
+
+jornalístico ou de reflexão teórica ou empírica sobre temas relacionados à atividade
+
+jornalística.
+
+Parágrafo 2º  O TCC, fruto de Produto Midiático deve vir, necessariamente,
+
+acompanhado por relatório técnico ou monografia de reflexão crítica sobre sua
+
+execução, de forma que reúna e consolide a experiência do aluno com os diversos
+
+conteúdos estudados durante o curso e com o tema desenvolvido.
+
+Parágrafo 3º. O TCC representará a culminância acadêmica do Curso,
+
+podendo ser resultado das atividades de estágio supervisionado do curso, de
+
+projetos de Pesquisa de Iniciação Científica e de Extensão, todos relacionados às
+
+Linhas de Pesquisa integrantes do PPC.
+
+Art. 2º O TCC estará organizado em dois Componentes Curriculares
+
+obrigatórios - TCC I com carga horária de 60 h/a e o TCC II com carga horária de 90
+
+h/a, e será desenvolvido mediante orientação e avaliação docente.
+
+Parágrafo 1º Para fins de inclusão no Sistema de Registro Acadêmico, o TCC
+
+será considerado atividade orientada (AO).
+
+Parágrafo 2º  O TCC I tem como finalidade a preparação do projeto ou plano
+
+de trabalho, com ênfase na leitura orientada da literatura da área para
+
+fundamentação teórico metodológica do trabalho.
+
+Parágrafo 3º  O TCC II deverá dar continuidade ao planejamento e execução
+
+do plano de trabalho, culminando com a elaboração do texto do trabalho de
+
+conclusão.
+
+Parágrafo 3º No caso de alunos concluintes, ou de reprovação no TCC I, o
+
+TCC I e II poderão ser realizados em um mesmo período.
+
+CAPÍTULO II Dos Objetivos
+
+Art. 3º O TCC terá os seguintes objetivos:
+
+I - Sistematizar o conhecimento adquirido no decorrer do Curso;
+
+II - Desenvolver o interesse pelo Estágio Supervisionado, por Projetos
+
+50
+
+de Ensino, Pesquisa e Extensão ligados às Linhas de Pesquisa integrantes do PPC;
+
+III - Aperfeiçoar a formação profissional, por meio dos conhecimentos técnicos
+
+e científicos, visando o aprofundamento de estudos ou a solução de problemas
+
+cotidianos;
+
+IV - Assegurar cientificamente a abordagem dos temas relacionados à prática
+
+profissional cotidiana, inserida nas realidades local, regional ou nacional.
+
+CAPÍTULO III Da Elaboração do TCC
+
+Art. 4º O TCC poderá ser elaborado sob a forma de  Artigo Científico,
+
+Monografia, ou Relatório Técnico de Projeto Experimental, individual ou coletivo no
+
+caso de Produto Midiático (até três estudantes) ou Relatório de Pesquisa de
+
+Iniciação Científica - PIBIC aprovado, conforme Manual Normativo de Orientação do
+
+TCC.
+
+Parágrafo único. Todo TCC fruto de Produto Midiático traduzir-se-á também
+
+por meio de um Relatório Técnico, que deverá ser elaborado segundo critérios do
+
+Guia de Normalização institucional, disponível no site do Sistema Integrado de
+
+Bibliotecas da UEPB, produzido em conformidade com as orientações da
+
+Associação Brasileira de Normas Técnicas (ABNT).
+
+Art. 5º Caberá ao estudante consultar o docente sobre possível orientação e
+
+eventualmente formalizar pedido à Coordenação, que encaminhará ao docente
+
+orientador Termo de Compromisso de Orientação.
+
+Parágrafo único. O Termo de Compromisso de Orientação representará o
+
+aceite do docente e deverá ser encaminhado, assinado, à Coordenação de TCC, no
+
+prazo máximo de 30 (trinta) dias após o início do semestre letivo.
+
+CAPÍTULO IV -  Da Orientação do TCC
+
+Art. 6º O TCC deverá ser desenvolvido sob a orientação de um docente
+
+pertencente ao quadro da UEPB, escolhido pelo estudante e homologado pelo
+
+Colegiado, em conformidade com a disponibilidade de vagas para a orientação e
+
+observada a adequação entre tema do trabalho e Linha de Pesquisa. Professores
+
+substitutos atuando no Departamento também podem orientar.
+
+Parágrafo único. O docente orientador poderá orientar, no máximo, 06 (seis)
+
+estudantes por período letivo.
+
+Art. 7º A eventual desistência da orientação deverá ser comunicada
+
+51
+
+pelo docente orientador, por escrito, ao Coordenador, com a devida justificativa.
+
+Parágrafo único. O trabalho de orientação será realizado sistematicamente,
+
+em conformidade com cronograma de trabalho, por meio de encontros presenciais
+
+e/ou por meio de plataforma virtual, ficando os conteúdos devidamente registrados
+
+no Sistema de Registro Acadêmico.
+
+Art. 8º O estudante deverá manter contato, no mínimo de uma hora semanal,
+
+com o docente orientador para discussão e aprimoramento de seu trabalho,
+
+devidamente registrado em relatório de atividades.
+
+Art. 9º O estudante terá o prazo mínimo de 10 (dez) dias antes da data da
+
+apresentação, ocasião em que entregará 03 (três) cópias impressas do trabalho e
+
+uma cópia em formato digital (PDF), na secretaria do Curso, as quais serão
+
+encaminhadas aos membros integrantes da Banca Examinadora para leitura prévia
+
+e formulação do Parecer de Avaliação.
+
+Parágrafo único. Caso o estudante, em consonância com o professor
+
+orientador, opte por entregar as cópias do TCC diretamente aos membros da Banca
+
+Examinadora, deverá informar por escrito ou por e-mail à Coordenação do TCC.
+
+Art. 10º O estudante, no caso de haver justificativa plausível, poderá ser
+
+coorientado por um docente, vinculado ou não ao Curso, que atue na área de
+
+conhecimento em que se desenvolverá o TCC, desde que tenha anuência
+
+do orientador principal.
+
+Parágrafo 1º Será admitida a coorientação de docentes de outras Instituições
+
+de Ensino, de profissionais de entidades de pesquisa ou de notória competência na
+
+área em que se desenvolverá o TCC, desde que possuam, no mínimo, a titulação de
+
+pós-graduação lato sensu.
+
+Parágrafo 2º Estudantes de pós-graduação em nível de doutorado ou
+
+doutores em programa de estágio pós-doutoral que atuem ou desenvolvam pesquisa
+
+na área de conhecimento em que se desenvolverá o TCC poderão coorientar
+
+trabalhos, assim como participar da avaliação na condição de membro de Banca
+
+Examinadora.
+
+Parágrafo 3º Nos casos previstos nos parágrafos 1º e 2º, o docente orientador
+
+encaminhará requerimento com a devida comprovação dos requisitos exigidos ao
+
+Colegiado do Curso, que deliberará sobre o pedido.
+
+Parágrafo 4º Em nenhuma hipótese, o coorientador a que se referem o
+
+parágrafo 1º e 2º poderá substituir o docente orientador.
+
+52
+
+CAPÍTULO V -  Do Uso dos Laboratórios e Equipamentos
+
+Art. 11º - Os laboratórios e equipamentos do curso podem ser utilizados pelos
+
+estudantes para realização do TCC, desde que respeitem as demandas já
+
+agendadas.
+
+Parágrafo 1º O estudante poderá reservar ou solicitar laboratório,
+
+equipamento e assistência do técnico responsável pelo laboratório para realização
+
+do seu TCC através de formulário próprio.
+
+Parágrafo 2º O estudante deverá assinar termo de empréstimo de
+
+equipamentos, conforme modelo próprio, para realização atividades necessárias ao
+
+desenvolvimento do TCC dentro ou fora da UEPB.
+
+Capítulo VI- da Coordenação do TCC
+
+Art. 12º A coordenação do TCC ficará a cargo do Coordenador Adjunto do
+
+curso.
+
+Art. 13º Compete à Coordenação do TCC:
+
+I - Orientar os estudantes em relação aos procedimentos para realização de
+
+TCC; bem como explicar o que é plágio de trabalho acadêmico;
+
+II - Avaliar e divulgar, em cada semestre, a disponibilidade de docentes do
+
+Curso para assumir a orientação de estudantes;
+
+III - Publicar, no início de cada semestre letivo, a relação dos estudantes
+
+matriculados e seus respectivos docentes orientadores, bem como os títulos dos
+
+trabalhos, por Linha de Pesquisa do PPC;
+
+IV - Divulgar um calendário das sessões públicas de defesa de TCC, em
+
+consonância com o Calendário Acadêmico da Instituição;
+
+V - Emitir as declarações comprobatórias aos estudantes, docentes e
+
+convidados da banca examinadora de TCC; e
+
+VI - Tomar, em primeira instância, todas as decisões e medidas necessárias
+
+ao efetivo cumprimento deste Regulamento.
+
+CAPÍTULO VI -  Do Agendamento e Defesa do TCC
+
+Art. 14º O estudante deverá comparecer em dia, hora e local determinados
+
+para apresentação da versão final de seu TCC.
+
+Parágrafo único O estudante deverá comparecer à  secretaria da
+
+Coordenação do Curso com antecedência para agendar a Defesa do TCC a partir do
+
+calendário de defesa e da disponibilidade dos integrantes da Banca Examinadora,
+
+bem como da disponibilidade de horário, local e equipamentos necessários à
+
+apresentação.
+
+Art. 15º O estudante deverá apresentar o TCC no tempo limite para a
+
+53
+
+integralização curricular do Curso, em conformidade com o Calendário Acadêmico e
+
+prazo previsto no PPC.
+
+Parágrafo 1º Caso o estudante não obtenha a nota necessária para
+
+aprovação do TCC, poderá apresentar nova versão do trabalho no semestre letivo
+
+subsequente, observados os limites impostos no caput deste Artigo.
+
+Parágrafo 2º Após a apresentação pública do TCC, o estudante terá um prazo
+
+de 10 (dez) dias para realizar eventuais reformulações sugeridas pela Banca
+
+Examinadora, submeter à apreciação e deliberação do orientador, e entregar à
+
+Biblioteca um exemplar em mídia eletrônica digital da versão final do trabalho.
+
+Parágrafo 3º A nota do TCC somente será integralizada no Sistema de
+
+Registro Acadêmico, após cumprimento das exigências previstas neste Artigo.
+
+CAPÍTULO VI -  Da Apresentação e da Banca Examinadora
+
+Art. 16º O estudante realizará a apresentação oral do TCC em sessão aberta
+
+ao público, perante uma Banca Examinadora composta por 03 (três) membros e
+
+presidida pelo docente orientador.
+
+Parágrafo único. O estudante disporá de 15 (quinze) a 20 (vinte) minutos
+
+para a referida apresentação do trabalho e cada membro da banca examinadora
+
+disporá individualmente do mesmo tempo para as devidas considerações e
+
+arguições.
+
+Art. 17º A Banca Examinadora deverá ser composta por membros sugeridos
+
+pelo docente orientador e homologada pelo Colegiado do Curso, observados os
+
+seguintes critérios.
+
+I - Participação de, no mínimo, 01(um) docente do quadro efetivo da UEPB,
+
+que atue em linha de pesquisa afim do objeto do trabalho a ser avaliado;
+
+II - Participação de, no máximo, 01 (um) membro externo ao quadro docente
+
+da UEPB, que tenha absoluta afinidade ao conteúdo de conhecimento, tema do
+
+trabalho de TCC a ser avaliado; e
+
+III - Inexistência de vínculo de parentesco, por consanguinidade, até o terceiro
+
+grau, entre o estudante e os membros da banca e entre estes últimos.
+
+Parágrafo único. Somente será permitida a participação de 01 (um) membro
+
+da orientação na Banca Examinadora.
+
+CAPÍTULO VII -   Da Avaliação  Final e Entrega do TCC
+
+54
+
+Art. 18º Ao TCC será atribuída uma nota de 0 (zero) a 10 (dez) e será
+
+considerado aprovado o estudante que obtiver média igual ou superior a 7,0 (sete).
+
+Parágrafo 1º No TCC I, a nota do semestre será o resultado da avaliação do
+
+desempenho do estudante por seu orientador. Neste caso, o orientador deve
+
+elaborar um parecer, por escrito, em formulário próprio , descrevendo brevemente se
+
+as atividades previstas para o período foram realizadas a contento e a nota.
+
+Parágrafo 2º No TCC II, a nota a que se refere o caput deste artigo será o
+
+resultado da média aritmética das notas atribuídas pelos três integrantes da Banca
+
+Examinadora por ocasião da defesa. Neste caso, os membros da Banca
+
+Examinadora deverão entregar parecer, por escrito, em formulário próprio, contendo
+
+as devidas considerações, arguições, sugestões e a nota.
+
+Parágrafo 3º O TCC que for fruto de Plágio ou Fraude, o seu responsável
+
+poderá sofrer as sanções legais vigentes na Lei 9.610/98 de Direitos Autorais do
+
+Código Civil Brasileiro e do Código Penal, bem como a banca examinadora deverá
+
+formular parecer com a reprovação do estudante, bem como assim como deverá
+
+levar o caso para apreciação do Colegiado de Curso para providências cabíveis.
+
+Art. 19º - O TCC deve ser avaliado pelas suas qualidades intrínsecas quanto à
+
+pesquisa científica na área ou à prática do jornalismo, de acordo com critérios
+
+estabelecidos em fichas específicas para cada uma das modalidades de trabalho.
+
+Art. 20º A UEPB disponibilizará todos os TCCs aprovados por meio de seu
+
+repositório institucional.
+
+Parágrafo único. Nos casos em que o TCC tenha sido resultado de pesquisa
+
+de iniciação científica e cujo resultado foi submetido à publicação em periódico
+
+científico, o estudante e seu orientador poderão solicitar à Coordenadoria de
+
+Biblioteca, com a devida justificativa, adiamento da publicação na Biblioteca Digital,
+
+pelo prazo de até um (1) ano. Após este período, o texto do TCC será
+
+disponibilizado para acesso público.
+
+Art. 21º No dia da apresentação do TCC,  o estudante deverá levar, impresso,
+
+a Folha de Aprovação, a Declaração de Autorização de Entrega de TCCsS  e o
+
+Termo de Licença Dspace (os dois últimos disponíveis no site da Biblioteca).
+
+Documentos necessários para o Depósito final do TCC.
+
+55
+
+Parágrafo único Após o depósito do TCC na Biblioteca, o estudante deverá
+
+levar uma cópia do comprovante de entrega da Declaração de Autorização de
+
+Entrega de TCCs para a Coordenação, onde receberá a declaração de
+
+apresentação do TCC.
+
+CAPÍTULO I Disposições Finais
+
+Art. 22º  Casos omissos neste Regimento devem ser analisados e julgados
+
+pelo Colegiado do Curso.
+
+__________________
+
+REGIMENTO DO ESTÁGIO CURRICULAR SUPERVISIONADO
+
+CAPÍTULO I Da contextualização do Estágio Curricular Supervisionado
+
+Art. 1º O Estágio Curricular Supervisionado do curso de Jornalismo parte da
+
+Resolução CNE/CES 1/2013 das Diretrizes Curriculares Nacionais para curso de
+
+Graduação em Jornalismo e da RESOLUÇÃO/UEPB/CONSEPE/068/2015 que
+
+institui o Regimento Geral da Graduação que diz em seu Art. 47 que  O estágio na
+
+UEPB caracteriza-se como Componente Curricular que objetiva ao aprendizado de
+
+competências e habilidades profissionais, promovendo a contextualização curricular
+
+e articulação entre teoria e prática. O estágio poderá ser desenvolvido em
+
+instituições públicas, privadas, do terceiro setor ou na própria Universidade Estadual
+
+da Paraíba, além de veículos de comunicação autônomos e assessorias de
+
+imprensa. O Estágio Curricular Supervisionado obedecerá às 300 (trezentas) horas,
+
+conforme orientam as Diretrizes Curriculares Nacionais para os cursos de
+
+jornalismo, e é um componente obrigatório.
+
+CAPÍTULO II Dos modelos de Estágio Curricular Supervisionado
+
+Art. 2º O estágio Curricular Supervisionado poderá ser realizado a partir dos
+
+seguintes modelos estabelecidos pelo Regimento Geral da Graduação:
+
+I Modelo de Atividade Prática. Docente da UEPB é orientador e supervisor
+
+do estagiário, estando junto com ele em tempo integral. O estudante deve ser
+
+supervisionado todo o tempo pelo orientador-supervisor da UEPB.
+
+II Modelo de Atividade Orientada a Distância. Nesse modelo o aluno
+
+desenvolverá o estágio em uma empresa jornalística, de assessoria de imprensa
+
+e assessoria de comunicação, entre outros setores do jornalismo. O docente da
+
+UEPB atuará como orientador na definição e avaliação do plano de
+
+56
+
+atividades, enquanto o supervisor da concedente assumirá a função de
+
+acompanhamento de sua execução no campo de estágio. Neste caso, o docente da
+
+UEPB não acompanha o estudante no campo de estágio, responsabilizando-se,
+
+quando possível, por uma visita técnica de inspeção. Entretanto, o orientador da
+
+UEPB deve avaliar o relatório de estágio do aluno.
+
+Parágrafo único. No Modelo de Atividade Prática, sendo o estágio Curricular
+
+Supervisionado realizado nas estruturas do Curso de Jornalismo, o estagiário terá a
+
+orientação/supervisão de cinco professores, sendo um para cada área:
+
+Fotojornalismo, Jornalismo Digital, Jornalismo Impresso, Radiojornalismo e
+
+Telejornalismo.
+
+CAPÍTULO III Da Coordenação do Estágio Curricular Supervisionado
+
+Art. 3º  O Coordenador de Estágio será necessariamente um docente do
+
+quadro efetivo da UEPB, escolhido entre seus pares dentre aqueles que ministrem o
+
+componente de estágio, tendo as seguintes atribuições:
+
+I - celebrar Termo de Compromisso com o discente, ou com seu representante
+
+ou assistente legal quando ele for absoluta ou relativamente incapaz, com a parte
+
+concedente, indicando as condições de adequação do estágio ao PPC do Curso, à
+
+etapa e modalidade da formação escolar do estudante e ao horário e Calendário
+
+Acadêmico;
+
+II solicitar, no caso de estágio não obrigatório, a carta de aceite de orientação
+
+e, no estágio obrigatório, a assinatura no plano de estágio, com a finalidade de
+
+homologação, junto ao Colegiado do Curso, e cadastro no Sistema de Registro
+
+Acadêmico, da indicação do orientador da UEPB responsável pelo acompanhamento
+
+e avaliação das atividades de estágio e/ou fazer a indicação do orientador do
+
+estagiário;
+
+III - exigir do discente a apresentação de seu plano de trabalho elaborado
+
+conjuntamente com seu orientador e supervisor de estágio;
+
+IV solicitar a apresentação periódica, em prazo não superior a 6 (seis) meses,
+
+de relatório das atividades com vistos de seu orientador e supervisor de estágio, em
+
+conformidade com o previsto no PPC e lei de estágio em vigor;
+
+V - zelar pelo cumprimento do Termo de Compromisso, reorientando o
+
+estagiário para outro local em caso de descumprimento de suas normas;
+
+VI - elaborar normas complementares e instrumentos de avaliação dos
+
+estágios de seus discentes;
+
+57
+
+VII - comunicar à parte concedente do estágio, no início do período letivo, as
+
+datas de realização de avaliações escolares ou acadêmicas.
+
+CAPÍTULO IV Da Celebração de Convênio para realização do Estágio
+
+Curricular Supervisionado
+
+Art. 4º  As pessoas jurídicas de direito privado e os órgãos da administração
+
+pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos
+
+Estados, do Distrito Federal e dos Municípios, bem como profissionais liberais de
+
+nível superior, devidamente registrados em seus respectivos conselhos de
+
+fiscalização profissional, podem oferecer estágio, observadas as seguintes
+
+obrigações:
+
+I - celebrar Termo de Compromisso com a UEPB e o discente, zelando por
+
+seu cumprimento;
+
+II - ofertar instalações que tenham condições de aprendizagem social,
+
+profissional e cultural;
+
+III - indicar funcionário de seu quadro de pessoal, com formação ou
+
+experiência profissional na área de conhecimento desenvolvida no Curso do
+
+estagiário, para orientar e supervisionar até 10 (dez) estagiários simultaneamente;
+
+IV - contratar em favor do estagiário seguro contra acidentes pessoais, cuja
+
+apólice seja compatível com valores de mercado, conforme fique estabelecido no
+
+Termo de Compromisso;
+
+V - por ocasião do desligamento do estagiário, entregar a ele o termo de
+
+realização do estágio com indicação resumida das atividades desenvolvidas, dos
+
+períodos e da avaliação de desempenho;
+
+VI - manter à disposição da fiscalização documentos que comprovem a
+
+relação de estágio;
+
+VII - enviar à UEPB, com periodicidade mínima de 6 (seis) meses, relatório de
+
+atividades, com vista obrigatória ao estagiário; e
+
+VIII as instituições privadas que tiverem processos de natureza ética em
+
+órgãos de classe não poderão receber estagiários.
+
+Parágrafo único. Nos casos em que a UEPB seja a própria concedente do
+
+estágio, será dispensado o Termo de Compromisso previsto no caput
+
+Art. 5º Os convênios de estágio entre a UEPB e a Parte Concedente serão
+
+firmados a partir da iniciativa dos docentes do Curso, das instituições ou
+
+profissionais interessados ou por indução da própria Universidade.
+
+Parágrafo 1º. As propostas de convênio deverão ser encaminhadas à
+
+58
+
+PROGRAD, que solicitará ao Curso avaliação e parecer, exceto nos casos em que a
+
+iniciativa já tenha sido homologada pelo seu Colegiado.
+
+Parágrafo 2º. Em casos de parecer favorável, a PROGRAD se
+
+responsabilizará por encaminhar as propostas ao setor responsável por firmar os
+
+convênios.
+
+Art. 6 A duração do estágio na mesma Parte Concedente não poderá exceder
+
+2 (dois) anos, exceto quando se tratar de estagiário portador de deficiência.
+
+CAPÍTULO V - Da realização e funcionamento do Estágio Curricular
+
+Supervisionado nas dependências do Curso de Jornalismo
+
+Art. 7º O estágio Curricular Supervisionado será realizado utilizando as
+
+estruturas dos laboratórios do Curso de Jornalismo (Laboratórios Projeto Gráfico,
+
+Multimídia, Radiojornalismo, Fotojornalismo, Telejornalismo e RádioWeb).
+
+Art. 8º O Núcleo Docente Estruturante, em parceria com os professores do
+
+Estágio Supervisionado, deverá criar uma linha editorial para os produtos
+
+jornalísticos que serão produzidos pelos discentes. Esta linha editorial deve orientar
+
+toda a produção do Estágio Supervisionado para aquele semestre, podendo ser
+
+revisada a cada três ciclos do Estágio Supervisionado.
+
+Art. 9º Todos os professores orientadores devem orientar a produção diária do
+
+conteúdo jornalístico, ficando os professores de cada área específica a orientação
+
+técnica.
+
+Art. 10º Aos discentes cabe cumprir todas as etapas de produção do produto
+
+jornalístico, desde a pauta à concepção final.
+
+Parágrafo 1º. Durante o estágio, o discente deverá produzir conteúdo
+
+jornalístico para as mais diversas mídias. A cada mês ele deverá produzir uma
+
+reportagem em profundidade para uma mídia específica.
+
+Parágrafo 2º. O discente também deverá produzir matérias menos complexas
+
+para uma outra mídia.
+
+Art. 10º O estágio Curricular Supervisionado deverá ter produtos editoriais
+
+impresso, sonoro, convergente e audiovisuais para a circulação da produção
+
+jornalística por parte dos estudantes.
+
+Parágrafo único. Estes produtos podem centrar-se numa plataforma digital
+
+convergente na internet ou em publicações impressas.
+
+CAPÍTULO Da realização do Estágio Curricular Supervisionado em
+
+59
+
+Concedentes
+
+Art. 11º O estágio curricular supervisionado poderá ser realizado em
+
+instituições públicas, privadas ou do terceiro setor ou na própria instituição de
+
+ensino, em veículos autônomos ou assessorias profissionais, como preceitua a
+
+Resolução CNE/CES 1/2013 das Diretrizes Curriculares Nacionais para curso de
+
+Graduação em Jornalismo e da
+
+RESOLUÇÃO/UEPB/CONSEPE/068/2015 que institui o Regimento Geral da
+
+Graduação. Neste sentido o estagiário deverá ter acompanhamento efetivo pelo
+
+docente orientador da instituição de ensino e por supervisor da parte concedente,
+
+comprovado por meio da produção e avaliação de relatório de atividades.
+
+Parágrafo único. O orientador de estágio será responsável pelo
+
+acompanhamento e avaliação das atividades do estagiário, sendo necessariamente
+
+um docente da UEPB, preferencialmente do seu quadro efetivo.
+
+Art. 12º. É dever do estudante, no Modelo de Estágio Orientado a Distância,
+
+apresentar o plano de trabalho, no qual deve constar também uma descrição dos
+
+dias e horários em que ocorrerão as reuniões de orientação, se elas serão
+
+presenciais ou à distância, e como será feito o acompanhamento das atividades de
+
+estágio.
+
+CAPÍTULO - Da avaliação final do estágio
+
+Art. 13º Para realizar atividades de estágio, o estudante deverá estar
+
+regularmente matriculado no Curso.
+
+Art. 14º É de responsabilidade da UEPB, representada pelo docente
+
+orientador ou coordenador de estágio, analisar e verificar se as atividades
+
+desenvolvidas pelo estagiário estão condizentes com a sua formação profissional.
+
+Art. 15º As ações do estágio deverão ser descritas em um relatório a ser
+
+avaliado por seu orientador.
+
+Parágrafo 1º  Os relatórios deverão descrever as atividades de estágio,
+
+buscando estabelecer relação entre a teoria e a prática.
+
+Parágrafo 2º  Os relatórios de estágios supervisionados poderão ser usados
+
+como base para elaboração de Trabalho de Conclusão de Curso (TCC), no caso do
+
+Modelo de Atividade Orientada a Distância.
+
+Parágrafo 3º Os arquivos eletrônicos dos relatórios finais serão recolhidos e
+
+arquivados pelos orientadores para fins de avaliação, sendo
+
+60
+
+encaminhada uma cópia dos arquivos aos coordenadores de estágio para fins de
+
+registro.
+
+Parágrafo 16º No caso do estágio realizado no próprio curso de Jornalismo,
+
+cabe aos professores orientadores fazerem a avaliação individual de cada relatório
+
+apresentado pelos estudantes.
+
+Art. 17º Uma amostra dos relatórios deve ser apreciada pelos NDEs e/ou por
+
+pareceristas ad hoc da PROGRAD a fim de avaliar a qualidade da produção para
+
+proposição de ações e políticas para sua melhoria.
+
+Art. 18º. Não haverá reposição ou prova final para o Estágio Curricular
+
+Obrigatório.
+
+CAPÍTULO IX - Da convalidação do Estágio Curricular Supervisionado
+
+Art. 19º Para convalidar atividades de estágio, o estudante deverá estar
+
+regularmente matriculado no Curso.
+
+Art. 20º  É vedado convalidar como estágio curricular supervisionado a
+
+prestação de serviços, realizada a qualquer título, que não seja compatível com as
+
+funções profissionais do jornalista; que caracterize a substituição indevida de
+
+profissional formado ou, ainda, que seja realizado em ambiente de trabalho sem a
+
+presença e o acompanhamento de jornalistas profissionais, tampouco sem a
+
+necessária supervisão docente.
+
+Art. 21º É vedado convalidar como estágio curricular supervisionado os
+
+trabalhos laboratoriais feitos durante o curso.
+
+Art. 22º Caso tenha exercido, nos últimos três anos, por um período mínimo
+
+de seis meses, atividade profissional compatível com sua área de atuação, desde
+
+que a carga horária seja igual ou superior à exigida pelo Curso, ele poderá solicitar
+
+convalidação para fins de integralização de horas de estágio.
+
+Parágrafo 1º. Para auferir os benefícios descritos no caput, o estagiário
+
+deverá, através de requerimento específico, instruído com a documentação
+
+comprobatória, solicitar a convalidação da carga horária de estágio junto ao
+
+Coordenador de Estágio do Curso.
+
+Parágrafo 2º. O estudante deverá apresentar relatório de atividades que será
+
+avaliado por seu orientador com emissão de um parecer.
+
+Parágrafo 3º. O requerimento juntamente com a documentação
+
+comprobatória, relatório de atividades e parecer do orientador serão analisados pelo
+
+Coordenador de Estágio do Curso, que encaminhará para
+
+61
+
+homologação pela Coordenação Geral de Estágios PROGRAD.
+
+Art. 23º. Caso o pleito supracitado seja atendido, a documentação e pareceres
+
+deverão ser encaminhados à PROGRAD para fins de integralização das horas de
+
+convalidação de estágio.
+
+Art. 24º. As atividades de extensão desenvolvidas pelo estudante poderão ser
+
+equiparadas ao estágio curricular supervisionado.
+
+Parágrafo 1º  Desde que o projeto de extensão aplique mecanismos de
+
+avaliação do desempenho do extensionista e que estas atividades estejam
+
+relacionadas à prática do jornalismo.
+
+Parágrafo 2º No ato da solicitação da equiparação, o discente deverá
+
+apresentar a Coordenação de Estágio o relatório (assinado pelo coordenador do
+
+projeto de extensão) com o desempenho satisfatório de suas atividades
+
+desenvolvidas no projeto de extensão.
+
+Art. 25º. Não poderá haver duplicidade do uso das horas para fins de
+
+integralização em mais de um Componente Curricular.
+
+.CAPÍTULO X - Da escolha do orientador
+
+Art. 26º. A formalização da relação de orientação entre docente da UEPB e
+
+estagiário ocorrerá por meio de uma carta de aceite de orientação.
+
+Parágrafo 1º. No caso do estágio realizado nas estruturas do Curso de
+
+Jornalismo, esta carta de aceite deverá ser assinada pelo professor orientador no
+
+primeiro encontro do estágio.
+
+Parágrafo 2º. É dever do Coordenador de Estágio a entrega do modelo da
+
+carta de aceite e o seu recebimento.
+
+Art. 27º. É facultado ao estagiário, assim como ao professor orientador, a
+
+desistência da orientação.
+
+Parágrafo 1º. É dever da parte interessada comunicar  por escrito à
+
+Coordenação de Estágio o(s) motivo(s) na desistência.
+
+Parágrafo 2º. Cabe a Coordenação de estágio, avaliar o(s) motivo(s)
+
+indicado(s) e, não havendo possibilidade de continuidade, indicar um novo
+
+orientador.
+
+CAPÍTULO XI Da entrega do relatório e da conclusão final do estágio
+
+Art. 28º. A entrega do relatório final do Estágio Curricular Supervisionado, com
+
+as descrições das atividades desenvolvidas, constitui um dos procedimentos de
+
+avaliação do seu rendimento.
+
+Parágrafo único. Além da entrega do Relatório Final, o professor
+
+62
+
+orientador deverá levar em consideração, a estrutura e o conteúdo do relatório; o
+
+desempenho na realização das atividades práticas individuais e coletivas;
+
+desenvoltura e empreendedorismo; liderança  e autonomia para resolver problemas;
+
+assiduidade, comprometimento e pontualidade na entrega das atividades propostas,
+
+além da própria qualidade do conteúdo jornalístico desenvolvido ao longo do estágio.
+
+63
+
+\09. METODOLOGIAS DE ENSINO E AVALIAÇÃO
+
+A constante busca pela excelência no processo de ensino e aprendizagem
+
+ganha nova dimensão com a criação de dispositivos legais que fomentam e
+
+legitimam a sistematização, teórica e prática, das ferramentas pedagógicas dos
+
+cursos de graduação das Instiuições de Ensino Superior. Considerando a aprovação
+
+das Diretrizes Curriculares, Laurenti (2002, p.361) ressalta que, doravante, “o
+
+planejamento curricular deverá estar alinhado a uma escola pedagógica, o que não é
+
+prática comum entre os responsáveis por cursos de Comunicação Social”.
+
+Para Sant’anna (1995, p.16) o currículo deve ser funcional. Isso significa que
+
+precisa promover não só a aprendizagem de conteúdo, mas fornecer condições
+
+favoráveis à aplicação e integração dos conhecimentos. Nesse sentido,
+
+planejamento curricular é:
+
+Uma tarefa multidisciplinar que tem por objeto a organização de um
+
+sistema de relações lógicas e psicológicas dentro de um ou vários campos do
+
+conhecimento, de tal modo que se favoreça ao máximo o processo ensino-
+
+aprendizagem (SANT’ANNA, 1995, p.16).
+
+De acordo com Rüdiger (2003), a grade curricular de comunicação esteve por
+
+muito tempo relegada à rotinização banalizadora da atividade intelectual,
+
+desconsiderando a compreensão de competências humanas em diversos contextos
+
+para focalizar, com maior ênfase, os princípios mercantis e burocráticos. Assim, uma
+
+filosofia de ensino para o curso de Jornalismo justifica-se para vencer a tendência ao
+
+superficialismo da formação praticada e, sobretudo, devido aos desafios cotidianos
+
+postos à educação na contemporaneidade. Estes acenam não apenas para a
+
+reconfiguração curricular, mas para uma compreensão plural relativa ao papel do
+
+conhecimento no cenário atual.
+
+Nesse contexto, espera-se dos futuros jornalistas amplos instrumentos de
+
+compreensão da realidade, mais do que aulas disciplinares que visem um
+
+adestramento funcional para uma possível adequação ao mercado de trabalho.
+
+Tendo em vista este novo perfil de competências cognitivas, a construção de um
+
+novo projeto pedagógico para o curso de Jornalismo inspira-se no eixo apontado por
+
+Demo:
+
+Implica o fazer e o refazer incessante de caminhos que despertem
+
+64
+
+a capacidade dialógica e científica dos professores, motivando-os a trabalhar
+
+coletivamente; revisarem sua formação, buscarem atualização constante,
+
+agregarem múltiplos pensamentos a fim de modificarem suas estreitas e
+
+demarcadas visões curriculares (DEMO, 2000, p. 245).
+
+É pertinente destacar que, dentre as reflexões pedagógicas elaboradas nos
+
+anos 1980, época final da vigência dos currículos mínimos em Comunicação Social,
+
+a preocupação em dimensionar a educação nessa área esteve ancorada no
+
+chamado eixo crítico-reflexivo. Koshiyama (1986, p. 252), por exemplo, é enfática
+
+em salientar que o caráter ideológico do jornalismo deve ser o cerne da educação do
+
+jornalista. Para a autora,
+
+As escolas de Comunicação e de Jornalismo só poderão cumprir
+
+condignamente sua tarefa quando estiverem materialmente equipadas (...) e
+
+pedagogicamente organizadas a partir de uma concepção de jornalismo visto
+
+enquanto atividade partidária em uma sociedade de classes, o que exige dos
+
+seus trabalhadores uma sólida formação ética, técnica e política.
+
+Também nessa perspectiva, Meditsch (1992a; 1992b) defende
+
+veementemente a superação do tecnicismo. Para o autor, uma nova possibilidade
+
+pedagógica poderá basear-se nos postulados de Genro Filho (1989), para quem o
+
+jornalismo não é ciência nem técnica, mas uma forma singular de conhecimento, que
+
+merece ser estudada e compreendida à luz do conceito marxista de ideologia.
+
+Assim, é esse viés epistemológico que deve redimensionar o modus operandi
+
+adotado na formação de jornalistas, atitude que, segundo o autor, implicará
+
+finalmente na recuperação do elo entre teoria e prática.
+
+Também encontramos quem aponte o campo da linguagem como eixo primaz
+
+à construção de um lastro pedagógico para a formação em jornalismo. Serra (1986,
+
+p. 231) apresenta essa idéia, salientando ser “no campo das linguagens que se
+
+enraíza a prática da comunicação”. Para Pinto (2003), a compreensão da linguagem
+
+como discurso comunicativo envolve uma (re)definição da própria consciência que
+
+se tenha acerca do que se denomina campo da linguagem. Numa visão tecnicista, a
+
+linguagem como instrumento comum de codificação social implica transmissão e
+
+recepção de idéias ou preceitos; numa visão sistêmica, pode ser entendida como
+
+instância “promotora de saberes”. Essa perspectiva, mais próxima da construção de
+
+um conhecimento emancipatório sugerido desde os espaços acadêmicos,
+
+65
+
+permite que se pense o jornalismo como uma aventura lingüística que favorece o
+
+prazer de se descobrir o mundo.
+
+O ponto de convergência entre esses registros é a busca de um epicentro
+
+para a formação em jornalismo, algo que atualmente requer reavaliações e
+
+discussões na instância de cada curso em particular. As Diretrizes Curriculares
+
+favorecem essa demarcação de identidade por parte dos cursos. Daí a importância
+
+de estar bem definido o perfil de egresso pretendido, pois tal pressuposto implicará
+
+nas escolhas didático-pedagógicas propriamente ditas.
+
+No nosso caso, ancorados na epistemologia moriniana (MORIN, 2000)
+
+buscamos fundamentar uma identidade de jornalistas, “aprendizes de mundo”, que
+
+efetivem leituras apropriadas da realidade, de modo a narrá-las adequadamente,
+
+contextualizando e (re) ligando os desafios impostos pelo cenário contemporâneo.
+
+Que contribuições a filosofia do pensamento complexo proposto por Morin pode
+
+trazer à discussão pedagógica?
+
+Pelo viés transdisciplinar a educação não é sinônimo de utopia, nem resultado
+
+de políticas públicas planejadas em gabinetes distanciados do cotidiano pedagógico.
+
+Tal aporte evoca a responsabilidade de cada sujeito na construção ativa de sua
+
+aprendizagem, tornando-se pertinente para a superação da causalidade unilinear,
+
+que prevalece nas questões do conhecimento, engessada numa matriz educacional
+
+de cunho tecnicista.
+
+Nessa perspectiva de emponderamento dos estudantes visando à produção
+
+conjunta do conhecimento, em contraposição a uma superada perspectiva de
+
+transmissão do conhecimento do professor ao aluno, o docente dispõe de diversas
+
+metodologias. Por meio das chamadas metodologias ativas, para exemplificar,
+
+podemos citar a apropriação de alguns métodos e técnicas da Problem Based
+
+Learning (PBL).
+
+O modelo ganhou destaque e relevância na Universidade de McMaster
+
+(Canadá), no final dos anos 1960 e, mais tarde, passou a ser adotado em
+
+outras instituições como a Universidade de Maastricht (Holanda) e a Escola de
+
+Medicina de Harvard (EUA) (SANTOS, 2010). Durante muito tempo, a
+
+abordagem esteve restrita aos cursos das áreas médicas. Aos poucos, a
+
+eficácia do modelo de ensino-aprendizagem, que valoriza as competências dos
+
+estudantes, e técnicas transversais, passou a ser valorizada, inclusive, por
+
+parte do mercado (instituições empregadoras). (RAVAZZOLO; LUCHT, 2015, p.
+
+6)
+
+66
+
+Dessa forma, as aulas serão desenvolvidas a partir da proposta de problemas,
+
+que deverão ser resolvidos pelos alunos, referentes às temáticas de cada unidade.
+
+O professor, ao problematizar as vivências inerentes ao campo jornalístico, atua
+
+como um facilitador e fomentador da construção do conhecimento efetivada
+
+prioritariamente pelos próprios estudantes. “A metodologia PBL permite desenvolver
+
+autonomia crítica entre os estudantes, de acordo com os desafios contemporâneos
+
+de um cenário profissional que passa por profundas transformações” (RAVAZZOLO;
+
+LUCHT, 2015, p. 1).
+
+Outras ferramentas pedagógicas com um viés voltado, sobretudo, para a
+
+formação teórica do discente, dialogam até certo ponto, com a Metodologia da
+
+Problematização, e podem ser usadas simultaneamente. É o caso, por exemplo, dos
+
+tradicionais seminários.  Em uma linha direcionada basicamente à iniciação
+
+científica, a emancipação do aluno de coadjuvante a protagonista do processo de
+
+ensino e aprendizagem pode ser viabilizada pelo fomento à produção de artigos
+
+científicos, a partir de um dos temas abordados na disciplina.
+
+Desde que ancorado na busca por tornar o estudante autônomo na construção
+
+do conhecimento, o professor pode e deve usar de sua sensibilidade e criatividade
+
+para tornar sua sala de aula, sem se esquecer da possibilidade de ministrar aulas
+
+em diversos outros espaços dentro ou fora da universidade, ainda mais instigante e
+
+motivadora do desejo de aprender por parte dos discentes e, até mesmo, pelo
+
+professor.
+
+Enfim, quando o estudante percebe a relevância de constituir um olhar crítico
+
+e perspicaz para compreender as constantes e rápidas mudanças na sociedade
+
+contemporânea, há a materialização de um dos principais legados das metodologias
+
+ativas ao futuro profissional do campo jornalístico. Afinal, ele se defrontará
+
+cotidianamente, a partir de uma prática analítica ancorada em princípios éticos,
+
+técnicos e estéticos, com a necessidade de selecionar, registrar, reportar,
+
+contextualizar, opinar e interpretar os fatos de interesse público, caracterizando-se
+
+conscientemente como um dos agentes, que atuam de modo transdisciplinar,
+
+responsáveis pela construção social da realidade.
+
+Ao recomendar, aos professores do curso de Jornalismo da UEPB, a adoção
+
+preponderante das metodologias ativas há o reforço da estruturação pedagógica
+
+baseada na epistemologia moriniana. Ao elucidar os saberes necessários para a
+
+educação do século XXI, a pedido da UNESCO, Morin é
+
+67
+
+hoje importante referência nos debates sobre o campo educacional, apontando a
+
+necessidade urgente de se criar currículos hologramáticos em complementação aos
+
+currículos cartesianos existentes, como forma de “oxigenar” as atuações didático-
+
+pedagógicas em sintonia com os grandes entraves e dilemas do mundo
+
+contemporâneo.
+
+Nessa direção, o conhecimento transdisciplinar não é uma oposição ao
+
+método educativo tradicional; surge do método complexo de pensar (que significa
+
+tecer em conjunto), defendendo a convergência temática, a coerente agregação de
+
+idéias e vertentes, que consideram o saber humano algo múltiplo e diverso capaz de
+
+transcender as “grades curriculares e as fronteiras disciplinares” (MORIN, 2002, p.
+
+56).
+
+Essa perspectiva defende que o saber avança ao ser repensado, quando
+
+integra noções antagônicas e complementares, de modo circular e relacional.
+
+Segundo tal teoria, as disciplinas se integram, transitam, transcendem, multiplicam-
+
+se, através da capacidade de se compreender o conhecimento como plural, cujas
+
+partes não se dissociam do todo no qual se inserem. No ofício docente, muitas
+
+vezes somos convocados a desaprender conceitos obsoletos que um dia
+
+aprendemos e guardamos empoeirados nas nossas consciências para aprendermos
+
+novas possibilidades nos novos cenários que se delineiam e se apresentam na
+
+multiculturalidade planetária.
+
+O que se pode deduzir, então, dessa conjuntura preliminar? Talvez que é
+
+inegável o interesse da comunidade acadêmica em usufruir da liberdade curricular
+
+propiciada não apenas pela nova instância legislativa e acadêmica, mas pelo
+
+contexto planetário do conhecimento, que é renovador e articulador em sua
+
+essência, dadas as condições transitórias do devir cotidiano, com suas incertezas e
+
+contradições. Assim, é realmente previsível um amadurecimento gradual e
+
+multifacetado dos direcionamentos pedagógicos, pois, como não lidamos com uma
+
+ciência exata e objetiva, os horizontes da educação dos futuros jornalistas estão
+
+fatalmente perpassados por fatores intersubjetivos, ou seja, precisam ser sempre
+
+consideradas as pessoas e as circunstâncias que compõem cada realidade
+
+acadêmica.
+
+Nesse sentido, este PPC referenda a determinação da Prograd que prevê a
+
+aplicação de uma avaliação discente processual, cumulativa e contínua, de caráter
+
+preponderantemente qualitativo em detrimento de aspectos quantitativos, bem como
+
+sem visar apenas o resultado final tampouco funcionar como um mecanismo
+
+punitivo. Ainda conforme a
+
+68
+
+determinação da Prograd, ao aluno há a garantia de atividades de recuperação ao
+
+longo do processo de ensino-aprendizagem, explicitado nos planos de cursos.
+
+Dada a importância do PPC para o desenvolvimento do curso de Jornalismo,
+
+parte-se do pressuposto de que a sua constante atualização demanda a construção
+
+de mecanismos de autoavaliação do curso de Jornalismo. Este documento necessita
+
+de permanente revisão de ordem prática e teórica, em razão de lidar com matéria-
+
+prima de rápido trânsito: a informação, sob variados suportes e expressões. Assim,
+
+do projeto pedagógico emanam as concepções e finalidades que norteiam os
+
+programas de aprendizagem, em sintonia com os novos tempos e as demandas
+
+sociais.
+
+Construir uma identidade pertinente para o curso torna-se, pois, um objetivo a
+
+ser alcançado com esta proposta. Para isso, é necessário confrontá-lo com a
+
+realidade docente e perscrutar sua aceitabilidade junto aos alunos graduandos, a
+
+título de condição necessária para a sondagem e o delineamento das implicações
+
+que dão sustentabilidade a sua existência. Essa preocupação, que se traduz em
+
+instrumentos de avaliação do PPC e atende ao disposto na lei nº 10.861/2004 (Lei
+
+do SINAES), permite estabelecer uma ponte entre dois mundos: a teoria e a prática,
+
+a fim de localizar no citado projeto determinadas fragilidades ou necessidades de
+
+adequações.
+
+O projeto busca um rumo, uma direção. É uma ação intencional, com um
+
+sentido explícito, com um compromisso definido coletivamente. Por isso, todo projeto
+
+pedagógico é, também, um projeto político por estar intimamente articulado aos
+
+interesses reais e coletivos da comunidade universitária. Logo, sua gestão e sua
+
+finalidade precisam ser constantemente repensadas e modificadas.
+
+Para investigarmos se a adoção do novo projeto é positiva para o âmbito do
+
+ensino do jornalismo, propomos a constituição de uma avaliação compartilhada. O
+
+NDE irá investigar até que ponto o impacto dos novos conteúdos tem sido
+
+compreendido entre os próprios docentes e os discentes.
+
+Assim, num primeiro momento, deverá elaborar um instrumento de aferição
+
+destinado aos professores para saber suas opiniões acerca dos componentes
+
+curriculares, de forma a viabilizar uma intervenção formativa, refletida e
+
+fundamentada. O instrumento de avaliação deve ser capaz de promover a inter-
+
+relação de três dimensões, a saber: ideológico-explicativa
+
+69
+
+(plano teórico), contextual ou situacional (realidade) e operacional ou metodológica
+
+(plano da prática).
+
+A dimensão ideológico-explicativa (plano teórico) teria a função de colher dos
+
+docentes novas ideias, teorias e paradigmas capazes de atualizar o eixo referente a
+
+essas questões. O segundo aspecto, a dimensão contextual, seria avaliar as
+
+implicações e incidências dos conteúdos sobre o ensino, em suma: investigar a ação
+
+docente, de modo a compreender a relação dos assuntos abordados com o contexto
+
+jornalístico. A terceira dimensão iria analisar como tais conhecimentos estariam
+
+incidindo na formação jornalística. Em suma, como os docentes instrumentalizam a
+
+sua prática.
+
+Num segundo momento, o NDE deve construir o instrumental para avaliar a
+
+receptividade dos alunos em relação ao projeto adotado. Ou seja, criar mecanismos
+
+de percepção da aprendizagem possibilitada pelo novo projeto. Como o NDE, a cada
+
+dois anos, é passível de renovação de seus integrantes, vários docentes podem
+
+participar diretamente da atualização do projeto. Por isso, independente dos
+
+responsáveis pela execução, a avaliação precisa partir de pressupostos previamente
+
+definidos, os quais irão estruturá-la:
+
+•   Um projeto pedagógico, sendo uma construção possível, tem a finalidade de
+
+promover a instauração de procedimentos, atitudes e valores favoráveis ao
+
+dinamismo e à troca dos saberes, assegurando o desenvolvimento das
+
+competências/habilidades cognitivas e operativas dos sujeitos envolvidos: alunos e
+
+professores.
+
+•   O controle do processo pedagógico, o estabelecimento de prioridades segundo
+
+as expectativas da formação e a dosagem dos conteúdos, a adequação dos
+
+componentes curriculares são algumas noções aplicadas à noção de currículo. Isto
+
+implica negociação de atitudes e procedimentos. Daí a necessidade de rever e
+
+avaliar o PPC de modo coletivo.
+
+•   O exercício de uma concepção democrático-participativa da gestão acadêmica
+
+na esfera da formação jornalística implica a relação orgânico/participativa entre o
+
+papel docente e o papel discente. Assim, a criatividade na busca de objetivos
+
+comuns são alguns dos princípios que justificam a razão de funcionamento de todo
+
+projeto pedagógico.
+
+•   A questão do planejamento de ensino como estratégia de política
+
+70
+
+cultural é o espaço necessário para a articulação dos empreendimentos da formação
+
+dos graduandos e condição imprescindível para se conduzir de forma
+
+contextualizada o ensino em outras direções e significados. O interior do curso de
+
+Comunicação é o espaço adequado para a construção, implantação, avaliação e
+
+atualização do projeto pedagógico.
+
+Nesse sentido, pensamos que o caminho proposto pode conduzir não apenas
+
+à formação da identidade do curso de Jornalismo como também suscitar inúmeros
+
+processos de aprendizagens significativas. Porém, é necessário ressaltar que essas
+
+práticas de avaliação devem, necessariamente, dialogar com demais dispositivos de
+
+auto-avaliação institucional da UEPB, como, por exemplo, aqueles implementados
+
+pela Comissão Própria de Avaliação (CPA). Esta, de acordo com a Prograd, tem
+
+como objetivo principal liderar os processos de avaliação internos da UEPB, além de
+
+sistematizar e disponibilizar as informações solicitadas pelo INEP, seguindo a lei do
+
+SINAES (10.861/2004).
+
+Os eventos realizados semestralmente pela Comissão Própria de
+
+Avaliação – CPA, da UEPB, mais do que divulgação de dados, têm o objetivo
+
+de sensibilizar professores, alunos e funcionários acerca do papel social da
+
+IESs, fomentando a ideia de uma cultura de avaliação institucional na UEPB.
+
+(SILVA, BRITO, COSTA, 2014, p. 9).
+
+A busca por informações sobre a qualidade das práticas desempenhadas no
+
+curso é complementada com o acompanhamento dos egressos. Com tal objetivo, o
+
+NDE pretende construir mecanismos de diálogo com esse público e obter dados
+
+sobre a aplicação, do conhecimento conseguido na universidade, na atual área de
+
+atuação profissional deste ex-aluno.
+
+Dessa forma, será realizado, a cada dois anos, evento com egressos do curso
+
+que atuam nas mais diversas mídias ou investiram na carreira acadêmica. Eles
+
+ministrarão palestras, que terão como um de seus objetivos centrais o relato de
+
+como a formação obtida durante quatro anos na universidade faz a diferença no
+
+cotidiano de suas atividades profissionais. Os professores do NDE também
+
+entrevistarão os ex-alunos com o objetivo de entender as necessidades
+
+demandadas pelo mercado e que não foram contempladas pelo curso de
+
+Jornalismo.
+
+71
+
+\10. DIMENSÃO FORMATIVA
+
+Básico Comum
+
+FIL01104 FILOSOFIA DA COMUNICAÇÃO
+
+SOC01100 METODOLOGIA CIENTÍFICA
+
+SOC01123 SOCIOLOGIA DA COMUNICAÇÃO
+
+Básico Específico do Curso
+
+JOR01029 ASSESSORIA DE IMPRENSA
+
+JOR01075 COMUNICAÇÃO E DESENVOLVIMENTO REGIONAL
+
+JOR01080 COMUNICAÇÃO E SEMIÓTICA
+
+JOR01027 ELABORAÇÃO DE PROJETOS EM JORNALISMO
+
+JOR01008 ÉTICA E DIREITOS HUMANOS
+
+JOR01023 GESTÃO DE EMPRESAS JORNALÍSTICAS
+
+JOR01081 HISTÓRIA DA COMUNICAÇÃO E DO JORNALISMO
+
+JOR01024 JORNALISMO DIGITAL
+
+JOR01013 JORNALISMO IMPRESSO
+
+JOR01011 LABORATÓRIO DE FOTOJORNALISMO
+
+JOR01009 LABORATÓRIO DE INICIAÇÃO AO JORNALISMO
+
+JOR01028 LABORATÓRIO DE JORNALISMO DIGITAL
+
+JOR01019 LABORATÓRIO DE PRODUÇÃO GRÁFICA E DIGITAL
+
+JOR01021 LABORATÓRIO DE RADIOJORNALISMO E MÍDIA
+
+JOR01025 LABORATÓRIO DE TELEJORNALISMO
+
+JOR01010 LINGUAGEM FOTOGRÁFICA
+
+JOR01039 OBSERVATÓRIO DE MÍDIA
+
+JOR01040 PRODUÇÃO E EDIÇÃO EM JORNALISMO
+
+JOR01017 PROJETO GRÁFICO EM JORNALISMO
+
+JOR01031 PUBLICIDADE E PROPAGANDA
+
+JOR01016 RADIOJORNALISMO E MÍDIA SONORA
+
+JOR01015 TÉCNICAS DE ENTREVISTA  E REPORTAGEM
+
+JOR01020 TELEJORNALISMO
+
+72
+
+JOR01012 TEORIA DA COMUNICAÇÃO
+
+JOR01007 TEORIAS DO JORNALISMO
+
+Básico Específico de Estágio
+
+JOR01079 ESTÁGIO CURRICULAR SUPERVISIONADO
+
+Básico Específico de TCC
+
+JOR01030 TCC 1
+
+JOR01033 TCC 2
+
+Complementar Eletivo
+
+JOR01022 AGÊNCIA DE NOTÍCIAS
+
+HIS01059 ANTROPOLOGIA CULTURAL
+
+SOC01104 ANTROPOLOGIA CULTURAL
+
+JOR01035 CIBERCULTURA
+
+JOR01069 CINEMA
+
+JOR01046 COMUNICAÇÃO COMPARADA
+
+JOR01037 COMUNICAÇÃO COMUNITÁRIA
+
+JOR01034 COMUNICAÇÃO E ARTES
+
+JOR01049 COMUNICAÇÃO E EMPREENDEDORISMO SOCIAL
+
+272006 COMUNICAÇÃO E HISTÓRIA
+
+271007 COMUNICAÇÃO E SOCIEDADE
+
+271015 COMUNICAÇÃO E TERCEIRO SETOR
+
+271026 COMUNICAÇÃO MIDIÁTICA DA CIÊNCIA E DA
+
+272008 COMUNICAÇÃO MULTIMÍDIA
+
+JOR01053 COMUNICAÇÃO ORGANIZACIONAL
+
+JOR01065 COMUNICAÇÃO PÚBLICA
+
+JOR01052 COMUNICAÇÃO, CULTURA E SOCIABILIDADE
+
+JOR01060 DESIGN EDITORIAL
+
+JOR01076 DIREITOS AUTORAIS E PROPRIEDADE INTELECTUAL
+
+JOR01005 DOCUMENTÁRIO AUDIOVISUAL
+
+JOR01036 EDUCOMUNICAÇÃO
+
+73
+
+JOR01082 ESPANHOL INSTRUMENTAL
+
+JOR01041 ESTÉTICA DA COMUNICAÇÃO
+
+JOR01073 FOLKCOMUNICAÇÃO E CULTURA POPULAR
+
+271305 FUNDAMENTOS DA LINGUAGEM MIDIÁTICA
+
+271305 FUNDAMENTOS DA LINGUAGEM MIDIÁTICA
+
+JOR01054 GEOPOLÍTICA E RELAÇÕES INTERNACIONAIS
+
+271201 HISTÓRIA DO JORNALISMO NO BRASIL
+
+SOC01043 HISTÓRIA E CULTURA AFROBRASILEIRA E INDÍGENA
+
+JOR01058 INFOGRAFIA E VISUALIZAÇÃO DE DADOS
+
+LTI01056 INGLÊS INSTRUMENTAL
+
+JOR01077 JORNALISMO AMBIENTAL
+
+JOR01083 JORNALISMO CULTURAL
+
+JOR01044 JORNALISMO DE MODA
+
+JOR01068 JORNALISMO DE REVISTA
+
+JOR01067 JORNALISMO E ACESSIBILIDADE
+
+JOR01042 JORNALISMO E LITERATURA
+
+JOR01059 JORNALISMO ECONÔMICO
+
+JOR01057 JORNALISMO EM BASE DE DADOS
+
+JOR01050 JORNALISMO ESPORTIVO
+
+JOR01048 JORNALISMO INDEPENDENTE
+
+JOR01056 JORNALISMO MÓVEL
+
+JOR01043 LABORATÓRIO DE JORNALISMO CONVERGENTE
+
+271104 LEITURA E PRODUÇÃO DE TEXTOS
+
+JOR01055 MÉTODOS DE PESQUISA EM MÍDIAS DIGITAIS
+
+JOR01064 MÍDIA  E RELIGIÃO
+
+JOR01062 MÍDIA E POLÍTICA
+
+JOR01066 MÚSICA, IDENTIDADE E CULTURA
+
+JOR01061 OFICINAS AVANÇADAS EM INFORMÁTICA APLICADA
+
+JOR01038 PENSAMENTO CONTEMPORÂNEO
+
+271502 PESQUISA EM COMUNICAÇÃO
+
+272013 PRÁTICA DE PRODUÇÃO JORNALÍSTICA
+
+74
+
+271016 PROGRAMAÇÃO VISUAL
+
+JOR01078 PSICOLOGIA DA COMUNICAÇÃO
+
+271207 REALIDADE REGIONAL
+
+271207 REALIDADE REGIONAL
+
+JOR01045 SEMINÁRIO DE JORNALISMO ESPECIALIZADO
+
+JOR01072 SEMINÁRIO DE JORNALISMO ESPECIALIZADO II
+
+271703 SEMINÁRIOS DE JORNALISMO ESPECIALIZADO
+
+271404 SISTEMAS DE COMUNICAÇÃO
+
+271204 TEORIA DA COMUNICAÇÃO II
+
+JOR01070 TÓPICOS ESPECIAIS EM JORNALISMO I
+
+JOR01071 TÓPICOS ESPECIAIS EM JORNALISMO II
+
+75
+
+Carga Horaria Tipo %
+
+\11. INTEGRALIZAÇÃO CURRICULAR
+
+Básico Comum 90 2.97%
+
+Básico Específico de Estágio 300 9.88%
+
+Básico Específico de TCC 120 3.95%
+
+Básico Específico do Curso 1695 55.85%
+
+Complementar (AACC)* 200 6.59%
+
+Complementar (Eletivos e Livres) 630 20.76%
+
+Livres ** 120 3.95%
+
+3035 100.00 Total
+
+\* AACC: Atividade Acadêmico Científico-Cultural. ** Carga horária máxima de componentes livres não inclusa no total.
+
+\12. PLANO INTEGRALIZAÇÃO
+
+TURNO DIURNO
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total FILOSOFIA DA COMUNICAÇÃO FIL01104 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+METODOLOGIA CIENTÍFICA SOC01100 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TEORIAS DO JORNALISMO JOR01007 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+77
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+ÉTICA E DIREITOS HUMANOS JOR01008 60 0 0 0 0 60 LABORATÓRIO DE INICIAÇÃO
+
+AO JORNALISMO JOR01009 30 30 0 0 30 90
+
+LINGUAGEM FOTOGRÁFICA JOR01010 30 30 0 0 0 60
+
+120 60 0 0 30 210 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE FOTOJORNALISMO JOR01011 JOR01010 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TEORIA DA COMUNICAÇÃO JOR01012 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+JORNALISMO IMPRESSO JOR01013 60 30 0 0 0 90
+
+60 30 0 0 0 90 Total Semestre
+
+78
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total TÉCNICAS DE ENTREVISTA  E
+
+REPORTAGEM JOR01015 30 30 0 0 0 60
+
+RADIOJORNALISMO E MÍDIA
+
+SONORA JOR01016 30 30 0 0 0 60
+
+60 60 0 0 0 120 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total PROJETO GRÁFICO EM
+
+JORNALISMO JOR01017 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE PRODUÇÃO GRÁFICA E JOR01019 JOR01017 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TELEJORNALISMO JOR01020 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE RADIOJORNALISMO E MÍDIA
+
+SONORA
+
+JOR01021
+
+JOR01016 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+79
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total GESTÃO DE EMPRESAS
+
+JORNALÍSTICAS JOR01023 30 0 30 0 0 60
+
+JORNALISMO DIGITAL JOR01024 30 30 0 0 0 60
+
+60 30 30 0 0 120 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE TELEJORNALISMO JOR01025 JOR01020 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total ELABORAÇÃO DE PROJETOS
+
+EM JORNALISMO JOR01027 30 30 0 0 0 60
+
+LABORATÓRIO DE JORNALISMO DIGITAL JOR01028 JOR01024 0 0 0 0 90 90
+
+30 30 0 0 90 150 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+ASSESSORIA DE IMPRENSA JOR01029 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+80
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TCC 1 JOR01030 0 0 60 0 0 60
+
+PUBLICIDADE E JOR01031 30 30 0 0 0 60
+
+30 30 60 0 0 120 Total Semestre
+
+Semestre 8
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TCC 2 JOR01033 0 0 60 0 0 60
+
+0 0 60 0 0 60 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total SOCIOLOGIA DA
+
+COMUNICAÇÃO SOC01123 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+OBSERVATÓRIO DE MÍDIA JOR01039 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+81
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total PRODUÇÃO E EDIÇÃO EM
+
+JORNALISMO JOR01040 30 30 0 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+90 30 60 0 0 180 Total Semestre
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+Eletiva --- 30 30 0 0 0 60
+
+Eletiva --- 30 30 0 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+120 60 60 0 0 240 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+82
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total COMUNICAÇÃO E DESENVOLVIMENTO
+
+REGIONAL
+
+JOR01075 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+Semestre 8
+
+Componente Curricular Cód Pré-requisito T P O D L Total ESTÁGIO CURRICULAR
+
+SUPERVISIONADO JOR01079 0 300 0 0 0 300
+
+0 300 0 0 0 300 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+COMUNICAÇÃO E SEMIÓTICA JOR01080 30 0 15 0 0 45
+
+30 0 15 0 0 45 Total Semestre
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total HISTÓRIA DA COMUNICAÇÃO
+
+E DO JORNALISMO JOR01081 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+1170 405 0 780 Total por Dimensão Formativa 480 2835
+
+D L T P O Total
+
+83
+
+TURNO NOTURNO
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total FILOSOFIA DA COMUNICAÇÃO FIL01104 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+METODOLOGIA CIENTÍFICA SOC01100 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TEORIAS DO JORNALISMO JOR01007 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+84
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+ÉTICA E DIREITOS HUMANOS JOR01008 60 0 0 0 0 60 LABORATÓRIO DE INICIAÇÃO
+
+AO JORNALISMO JOR01009 30 30 0 0 30 90
+
+LINGUAGEM FOTOGRÁFICA JOR01010 30 30 0 0 0 60
+
+120 60 0 0 30 210 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE FOTOJORNALISMO JOR01011 JOR01010 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TEORIA DA COMUNICAÇÃO JOR01012 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+JORNALISMO IMPRESSO JOR01013 60 30 0 0 0 90
+
+60 30 0 0 0 90 Total Semestre
+
+85
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total TÉCNICAS DE ENTREVISTA  E
+
+REPORTAGEM JOR01015 30 30 0 0 0 60
+
+RADIOJORNALISMO E MÍDIA
+
+SONORA JOR01016 30 30 0 0 0 60
+
+60 60 0 0 0 120 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total PROJETO GRÁFICO EM
+
+JORNALISMO JOR01017 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE PRODUÇÃO GRÁFICA E JOR01019 JOR01017 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TELEJORNALISMO JOR01020 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE RADIOJORNALISMO E MÍDIA
+
+SONORA
+
+JOR01021
+
+JOR01016 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+86
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total GESTÃO DE EMPRESAS
+
+JORNALÍSTICAS JOR01023 30 0 30 0 0 60
+
+JORNALISMO DIGITAL JOR01024 30 30 0 0 0 60
+
+60 30 30 0 0 120 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total LABORATÓRIO DE TELEJORNALISMO JOR01025 JOR01020 0 0 0 0 90 90
+
+0 0 0 0 90 90 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total ELABORAÇÃO DE PROJETOS
+
+EM JORNALISMO JOR01027 30 30 0 0 0 60
+
+LABORATÓRIO DE JORNALISMO DIGITAL JOR01028 JOR01024 0 0 0 0 90 90
+
+30 30 0 0 90 150 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+ASSESSORIA DE IMPRENSA JOR01029 30 30 0 0 0 60
+
+30 30 0 0 0 60 Total Semestre
+
+87
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TCC 1 JOR01030 0 0 60 0 0 60
+
+PUBLICIDADE E JOR01031 30 30 0 0 0 60
+
+30 30 60 0 0 120 Total Semestre
+
+Semestre 8
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+TCC 2 JOR01033 0 0 60 0 0 60
+
+0 0 60 0 0 60 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 2
+
+Componente Curricular Cód Pré-requisito T P O D L Total SOCIOLOGIA DA
+
+COMUNICAÇÃO SOC01123 30 0 0 0 0 30
+
+30 0 0 0 0 30 Total Semestre
+
+Semestre 5
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+OBSERVATÓRIO DE MÍDIA JOR01039 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+88
+
+Semestre 3
+
+Componente Curricular Cód Pré-requisito T P O D L Total PRODUÇÃO E EDIÇÃO EM
+
+JORNALISMO JOR01040 30 30 0 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+90 30 60 0 0 180 Total Semestre
+
+Semestre 7
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+Eletiva --- 30 30 0 0 0 60
+
+Eletiva --- 30 30 0 0 0 60
+
+Eletiva --- 30 0 30 0 0 60
+
+120 60 60 0 0 240 Total Semestre
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+Eletiva --- 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+89
+
+Semestre 6
+
+Componente Curricular Cód Pré-requisito T P O D L Total COMUNICAÇÃO E DESENVOLVIMENTO
+
+REGIONAL
+
+JOR01075 60 0 0 0 0 60
+
+60 0 0 0 0 60 Total Semestre
+
+Semestre 8
+
+Componente Curricular Cód Pré-requisito T P O D L Total ESTÁGIO CURRICULAR
+
+SUPERVISIONADO JOR01079 0 300 0 0 0 300
+
+0 300 0 0 0 300 Total Semestre
+
+Semestre 4
+
+Componente Curricular Cód Pré-requisito T P O D L Total
+
+COMUNICAÇÃO E SEMIÓTICA JOR01080 30 0 15 0 0 45
+
+30 0 15 0 0 45 Total Semestre
+
+Semestre 1
+
+Componente Curricular Cód Pré-requisito T P O D L Total HISTÓRIA DA COMUNICAÇÃO
+
+E DO JORNALISMO JOR01081 30 0 30 0 0 60
+
+30 0 30 0 0 60 Total Semestre
+
+1170 405 0 780 Total por Dimensão Formativa 480 2835
+
+D L T P O Total
+
+90
+
+Componentes Eletivos
+
+Componente Curricular Cod Pré-requisito T P O D L Total
+
+AGÊNCIA DE NOTÍCIAS JOR01022 30 30 0 0 0 60
+
+ANTROPOLOGIA CULTURAL SOC01104 30 0 0 0 0 30
+
+ANTROPOLOGIA CULTURAL HIS01059 30 0 0 0 0 30
+
+CIBERCULTURA JOR01035 60 0 0 0 0 60
+
+CINEMA JOR01069 30 30 0 0 0 60
+
+COMUNICAÇÃO COMPARADA JOR01046 30 0 30 0 0 60 COMUNICAÇÃO
+
+COMUNITÁRIA JOR01037 30 0 30 0 0 60
+
+COMUNICAÇÃO E ARTES JOR01034 30 0 0 0 0 30 COMUNICAÇÃO E EMPREENDEDORISMO JOR01049 30 0 0 0 0 30
+
+COMUNICAÇÃO E HISTÓRIA 272006 30
+
+COMUNICAÇÃO E 271007 30 COMUNICAÇÃO E TERCEIRO
+
+SETOR 271015 30
+
+COMUNICAÇÃO MIDIÁTICA
+
+DA CIÊNCIA E DA
+
+TECNOLOGIA
+
+271026 30
+
+COMUNICAÇÃO MULTIMÍDIA 272008 30 COMUNICAÇÃO ORGANIZACIONAL JOR01053 30 0 30 0 0 60
+
+COMUNICAÇÃO PÚBLICA JOR01065 30 0 30 0 0 60 COMUNICAÇÃO, CULTURA E
+
+SOCIABILIDADE JOR01052 30 0 30 0 0 60
+
+DESIGN EDITORIAL JOR01060 30 30 0 0 0 60 DIREITOS AUTORAIS E PROPRIEDADE INTELECTUAL JOR01076 30 0 0 0 0 30
+
+DOCUMENTÁRIO
+
+AUDIOVISUAL JOR01005 30 30 0 0 0 60
+
+EDUCOMUNICAÇÃO JOR01036 30 0 0 0 0 30
+
+ESPANHOL INSTRUMENTAL JOR01082 30 0 0 0 0 30
+
+ESTÉTICA DA COMUNICAÇÃO JOR01041 30 0 30 0 0 60 FOLKCOMUNICAÇÃO E
+
+CULTURA POPULAR JOR01073 30 0 30 0 0 60
+
+FUNDAMENTOS DA LINGUAGEM MIDIÁTICA 271305 30 0 0 0 0 30
+
+FUNDAMENTOS DA LINGUAGEM MIDIÁTICA 271305 30 0 0 0 0 30
+
+GEOPOLÍTICA E RELAÇÕES
+
+INTERNACIONAIS JOR01054 30 0 0 0 0 30
+
+HISTÓRIA DO JORNALISMO
+
+NO BRASIL 271201 30
+
+HISTÓRIA E CULTURA
+
+AFROBRASILEIRA E SOC01043 60 0 0 0 0 60
+
+INFOGRAFIA E VISUALIZAÇÃO DE DADOS JOR01058 30 0 0 0 30 60
+
+INGLÊS INSTRUMENTAL LTI01056 30 0 0 0 0 30
+
+JORNALISMO AMBIENTAL JOR01077 30 0 0 0 0 30
+
+JORNALISMO CULTURAL JOR01083 30 30 0 0 0 60
+
+JORNALISMO DE MODA JOR01044 30 30 0 0 0 60
+
+JORNALISMO DE REVISTA JOR01068 30 30 0 0 0 60 JORNALISMO E ACESSIBILIDADE JOR01067 30 0 0 0 0 30
+
+JORNALISMO E LITERATURA JOR01042 60 0 0 0 0 60
+
+JORNALISMO ECONÔMICO JOR01059 30 0 0 0 0 30 JORNALISMO EM BASE DE
+
+DADOS JOR01057 30 30 0 0 0 60
+
+JORNALISMO ESPORTIVO JOR01050 30 0 0 0 0 30
+
+JORNALISMO JOR01048 30 0 30 0 0 60
+
+JORNALISMO MÓVEL JOR01056 30 30 0 0 0 60 LABORATÓRIO DE JORNALISMO CONVERGENTE JOR01043 30 0 0 0 30 60
+
+LEITURA E PRODUÇÃO DE
+
+TEXTOS 271104 60
+
+MÉTODOS DE PESQUISA EM
+
+MÍDIAS DIGITAIS JOR01055 30 0 30 0 0 60
+
+MÍDIA  E RELIGIÃO JOR01064 30 0 0 0 0 30
+
+MÍDIA E POLÍTICA JOR01062 60 0 0 0 0 60 MÚSICA, IDENTIDADE E
+
+CULTURA JOR01066 30 0 30 0 0 60
+
+OFICINAS AVANÇADAS EM INFORMÁTICA APLICADA AO
+
+JORNALISMO
+
+JOR01061 30 0 0 0 0 30
+
+PENSAMENTO CONTEMPORÂNEO JOR01038 30 0 0 0 0 30
+
+PESQUISA EM 271502 30 PRÁTICA DE PRODUÇÃO
+
+JORNALÍSTICA 272013 0 0 0 0 0 0
+
+PROGRAMAÇÃO VISUAL 271016 60 PSICOLOGIA DA
+
+COMUNICAÇÃO JOR01078 30 0 0 0 0 30
+
+REALIDADE REGIONAL 271207 60
+
+REALIDADE REGIONAL 271207 30 0 30 0 0 60 SEMINÁRIO DE JORNALISMO
+
+ESPECIALIZADO JOR01045 30 30 0 0 0 60
+
+SEMINÁRIO DE JORNALISMO
+
+ESPECIALIZADO II JOR01072 30 0 30 0 0 60
+
+SEMINÁRIOS DE
+
+JORNALISMO 271703 30
+
+SISTEMAS DE 271404 60
+
+TEORIA DA COMUNICAÇÃO II 271204 60 TÓPICOS ESPECIAIS EM
+
+JORNALISMO I JOR01070 30 0 30 0 0 60
+
+TÓPICOS ESPECIAIS EM
+
+JORNALISMO II JOR01071 30 0 0 0 0 30
+
+159 0 Total Semestre 300 390 0 60 2880
+
+LEGENDA
+
+1 - Cód - Código 2 - T - Teórica 3 - P - Prática 4 - O - Orientada 5 - D - Á Distância 6 - L - Laboratório
+
+\13. QUADRO DE EQUIVALÊNCIAS
+
+Código Nome do Componente CH Equivalências
+
+Básico Comum
+
+FIL01104 FILOSOFIA DA COMUNICAÇÃO 30 (272102) FILOSOFIA DA COMUNICAÇÃO (30)
+
+SOC01100 METODOLOGIA CIENTÍFICA 30 (271206) METODOLOGIA CIENTÍFICA (30)
+
+SOC01123 SOCIOLOGIA DA
+
+COMUNICAÇÃO 30 (271107) SOCIOLOGIA DA COMUNICAÇÃO (60)
+
+Código Nome do Componente CH Equivalências
+
+Básico Específico de Estágio
+
+JOR01079 ESTÁGIO CURRICULAR
+
+SUPERVISIONADO 300 (271801) ESTÁGIO SUPERVISIONADO (300)
+
+Código Nome do Componente CH Equivalências
+
+Básico Específico de TCC
+
+JOR01033 TCC 2 60 (271802) TCC (0)
+
+JOR01030 TCC 1 60 (271705) TCC (0)
+
+Código Nome do Componente CH Equivalências
+
+Básico Específico do Curso
+
+JOR01029 ASSESSORIA DE IMPRENSA 60 (271601) ASSESSORIA DA COMUNICAÇÃO (60)
+
+JOR01028 LABORATÓRIO DE JORNALISMO DIGITAL 90 (272703) MÍDIA DIGITAL II (60)
+
+JOR01027 ELABORAÇÃO DE PROJETOS
+
+EM JORNALISMO 60 (271604) ELABORAÇÃO DE PROJETOS EM
+
+COMUNICAÇÃO (30)
+
+JOR01024 JORNALISMO DIGITAL 60 (271407) MÍDIA DIGITAL I (60)
+
+JOR01019 LABORATÓRIO DE PRODUÇÃO GRÁFICA E 90 (272503) PROJETO GRÁFICO EM JORNALISMO II (60)
+
+JOR01031 PUBLICIDADE E 60 (271701) PUBLICIDADE E PROPAGANDA (60)
+
+JOR01081 HISTÓRIA DA COMUNICAÇÃO
+
+E DO JORNALISMO 60 (271101) HISTÓRIA DA COMUNICAÇÃO (30)
+
+JOR01075
+
+COMUNICAÇÃO E DESENVOLVIMENTO
+
+REGIONAL
+
+60 (271702) COMUNICAÇÃO E DESENVOLVIMENTO
+
+REGIONAL (60)
+
+JOR01039 OBSERVATÓRIO DE MÍDIA 60 (272901) CRÍTICA DE MÍDIA (60)
+
+JOR01040 PRODUÇÃO E EDIÇÃO EM
+
+JORNALISMO 60 (271902) PRODUÇÃO E EDIÇÃO EM JORNALISMO (60)
+
+JOR01080 COMUNICAÇÃO E SEMIÓTICA 45 (271306) COMUNICAÇÃO E SEMIÓTICA (30)
+
+94
+
+JOR01023 GESTÃO DE EMPRESAS
+
+JORNALÍSTICAS 60
+
+(271308) GESTÃO DE EMPRESAS DE COMUNICAÇÃO
+
+(60) (272701) GESTÃO DE EMPRESAS DE COMUNICAÇÃO
+
+(60)
+
+JOR01021
+
+LABORATÓRIO DE RADIOJORNALISMO E MÍDIA
+
+SONORA
+
+90 (241403) RADIOJORNALISMO II (60)
+
+JOR01008 ÉTICA E DIREITOS HUMANOS 60 (271203) ÉTICA E DIREITOS HUMANOS (60)
+
+JOR01007 TEORIAS DO JORNALISMO 60 (271020) TEORIAS DO JORNALISMO (60)
+
+JOR01009 LABORATÓRIO DE INICIAÇÃO
+
+AO JORNALISMO 90 (271105) LABORATÓRIO DE INICIAÇÃO AO
+
+JORNALISMO (60)
+
+JOR01010 LINGUAGEM FOTOGRÁFICA 60 (272106) LINGUAGEM FOTOGRÁFICA I (60)
+
+JOR01025 LABORATÓRIO DE TELEJORNALISMO 90 (271401) TELEJORNALISMO II (60)
+
+JOR01012 TEORIA DA COMUNICAÇÃO 60 (271103) TEORIA DA COMUNICAÇÃO I (60)
+
+JOR01013 JORNALISMO IMPRESSO 90 (271205) JORNALISMO IMPRESSO I (60)
+
+JOR01015 TÉCNICAS DE ENTREVISTA  E
+
+REPORTAGEM 60
+
+JOR01020 TELEJORNALISMO 60 (272401) TELEJORNALISMO (60)
+
+JOR01011 LABORATÓRIO DE FOTOJORNALISMO 90 (271202) LINGUAGEM FOTOGRÁFICA II (60)
+
+JOR01017 PROJETO GRÁFICO EM
+
+JORNALISMO 60 (272403) PROJETO GRÁFICO EM JORNALISMO I (60)
+
+JOR01016 RADIOJORNALISMO E MÍDIA
+
+SONORA 60 (272302) RADIOJORNALISMO I (30)
+
+Código Nome do Componente CH Equivalências
+
+Complementar Eletivo
+
+LTI01056 INGLÊS INSTRUMENTAL 30 (271019) INGLÊS INSTRUMENTAL (60)
+
+271007 COMUNICAÇÃO E 30
+
+JOR01076 DIREITOS AUTORAIS E PROPRIEDADE INTELECTUAL 30 (271004) COMUNICAÇÃO E DIREITOS AUTORAIS (30)
+
+JOR01069 CINEMA 60 (271405) CINEMA (60)
+
+JOR01068 JORNALISMO DE REVISTA 60 (272405) JORNALISMO IMPRESSO II (60)
+
+JOR01078 PSICOLOGIA DA
+
+COMUNICAÇÃO 30 (271014) PSICOLOGIA DA COMUNICAÇÃO (30)
+
+JOR01077 JORNALISMO AMBIENTAL 30 (271010) JORNALISMO AMBIENTAL (60)
+
+JOR01071 TÓPICOS ESPECIAIS EM
+
+JORNALISMO II 30 (271027) TÓPICOS ESPECIAIS EM COMUNICAÇÃO (60)
+
+JOR01073 FOLKCOMUNICAÇÃO E
+
+CULTURA POPULAR 60
+
+JOR01070 TÓPICOS ESPECIAIS EM
+
+JORNALISMO I 60 (271027) TÓPICOS ESPECIAIS EM COMUNICAÇÃO (60)
+
+JOR01072 SEMINÁRIO DE JORNALISMO
+
+ESPECIALIZADO II 60 (271703) SEMINÁRIOS DE JORNALISMO
+
+ESPECIALIZADO (30)
+
+271015 COMUNICAÇÃO E TERCEIRO
+
+SETOR 30
+
+271016 PROGRAMAÇÃO VISUAL 60
+
+95
+
+271104 LEITURA E PRODUÇÃO DE
+
+TEXTOS 60
+
+JOR01082 ESPANHOL INSTRUMENTAL 30
+
+272008 COMUNICAÇÃO MULTIMÍDIA 30
+
+271305 FUNDAMENTOS DA LINGUAGEM MIDIÁTICA 30
+
+271207 REALIDADE REGIONAL 60
+
+271026 COMUNICAÇÃO MIDIÁTICA
+
+DA CIÊNCIA E DA
+
+TECNOLOGIA
+
+30
+
+272013 PRÁTICA DE PRODUÇÃO
+
+JORNALÍSTICA 0
+
+272006 COMUNICAÇÃO E HISTÓRIA 30
+
+271703 SEMINÁRIOS DE
+
+JORNALISMO 30
+
+271502 PESQUISA EM 30
+
+271404 SISTEMAS DE 60
+
+271305 FUNDAMENTOS DA LINGUAGEM MIDIÁTICA 30
+
+271207 REALIDADE REGIONAL 60
+
+271204 TEORIA DA COMUNICAÇÃO II 60
+
+271201 HISTÓRIA DO JORNALISMO
+
+NO BRASIL 30
+
+JOR01083 JORNALISMO CULTURAL 60
+
+JOR01067 JORNALISMO E ACESSIBILIDADE 30
+
+JOR01066 MÚSICA, IDENTIDADE E
+
+CULTURA 60
+
+JOR01045 SEMINÁRIO DE JORNALISMO
+
+ESPECIALIZADO 60 (271703) SEMINÁRIOS DE JORNALISMO
+
+ESPECIALIZADO (30)
+
+JOR01044 JORNALISMO DE MODA 60 (271029) COMUNICAÇÃO E MODA (60)
+
+JOR01043 LABORATÓRIO DE JORNALISMO CONVERGENTE 60
+
+JOR01042 JORNALISMO E LITERATURA 60 (271011) JORNALISMO E LITERATURA (30)
+
+JOR01041 ESTÉTICA DA COMUNICAÇÃO 60 (271603) ESTÉTICA NA COMUNICAÇÃO (60)
+
+JOR01038 PENSAMENTO CONTEMPORÂNEO 30 (271505) PENSAMENTO CONTEMPORÂNEO (30)
+
+JOR01037 COMUNICAÇÃO
+
+COMUNITÁRIA 60 (271406) COMUNICAÇÃO COMUNITÁRIA (30)
+
+JOR01036 EDUCOMUNICAÇÃO 30 (271307) COMUNICAÇÃO E EDUCAÇÃO (30)
+
+JOR01035 CIBERCULTURA 60
+
+JOR01034 COMUNICAÇÃO E ARTES 30 (271003) COMUNICAÇÃO E ARTES (30)
+
+SOC01043 HISTÓRIA E CULTURA
+
+AFROBRASILEIRA E 60
+
+JOR01022 AGÊNCIA DE NOTÍCIAS 60 (271309) AGÊNCIA DE NOTÍCIAS (60)
+
+JOR01005 DOCUMENTÁRIO
+
+AUDIOVISUAL 60 (272016) DOCUMENTAÇÃO AUDIOVISUAL (60)
+
+96
+
+SOC01104 ANTROPOLOGIA CULTURAL 30 (272002) ANTROPOLOGIA CULTURAL (60)
+
+JOR01046 COMUNICAÇÃO COMPARADA 60 (271704) COMUNICAÇÃO COMPARADA (30)
+
+JOR01048 JORNALISMO 60
+
+JOR01049 COMUNICAÇÃO E EMPREENDEDORISMO 30 (271025) COMUNICAÇÃO E EMPREENDEDORISMO
+
+SOCIAL (30)
+
+JOR01065 COMUNICAÇÃO PÚBLICA 60
+
+JOR01064 MÍDIA  E RELIGIÃO 30
+
+JOR01062 MÍDIA E POLÍTICA 60
+
+JOR01061
+
+OFICINAS AVANÇADAS EM INFORMÁTICA APLICADA AO
+
+JORNALISMO
+
+30 (272012) OFICINAS AVANÇADAS DE INFORMÁTICA APL.
+
+À COMUNICAÇÃO (30)
+
+JOR01060 DESIGN EDITORIAL 60 (271030) DESIGN EDITORIAL (30)
+
+JOR01059 JORNALISMO ECONÔMICO 30 (271005) COMUNICAÇÃO E ECONOMIA (30)
+
+JOR01058 INFOGRAFIA E VISUALIZAÇÃO DE DADOS 60
+
+JOR01057 JORNALISMO EM BASE DE
+
+DADOS 60 (271018) ESTATÍSTICA APLICADA À COMUNICAÇÃO
+
+(60)
+
+JOR01056 JORNALISMO MÓVEL 60
+
+JOR01055 MÉTODOS DE PESQUISA EM
+
+MÍDIAS DIGITAIS 60
+
+JOR01054 GEOPOLÍTICA E RELAÇÕES
+
+INTERNACIONAIS 30 (271304) POLÍTICA E COMUNICAÇÃO (30)
+
+JOR01053 COMUNICAÇÃO ORGANIZACIONAL 60 (271009) COMUNICAÇÃO ORGANIZACIONAL (60)
+
+JOR01052 COMUNICAÇÃO, CULTURA E
+
+SOCIABILIDADE 60 (271001) COMUNICAÇÃO, CULTURA E SOCIABILIDADE
+
+(60)
+
+JOR01050 JORNALISMO ESPORTIVO 30
+
+HIS01059 ANTROPOLOGIA CULTURAL 30 (271002) ANTROPOLOGIA CULTURAL (60)
+
+97
+
+\14. EMENTAS
+
+Básico Comum
+
+FIL01104 - FILOSOFIA DA COMUNICAÇÃO
+
+Ementa
+
+Compreensão filosófica dos conceitos de comunicação, linguagem, informação. Verdade, objetividade e suas relações com as práticas de comunicação. Processos de produção de verdades. Filosofia contemporânea: linguagem, discurso e poder.
+
+Referências
+
+BENJAMIN, Walter. A Obra de Arte na Época de sua Reprodutibilidade técnica. In: LIMA, Luis Costa (Org.). Teoria da Cultura de Massa. 2ª Ed. Rio de Janeiro: Paz e Terra, 1978, p. 209-240. BORDENAVE, Juan E. Diaz. O que é comunicação. 1ª. Ed. São Paulo: Brasiliense, 1982 (Coleção Primeiros Passos; 67). CHAUÍ, Marilena. Convite à Filosofia. 13ª. Ed. São Paulo: Ática, 2003 – Cap.1 LOGOS: Comunicação e Universidade. Comunicação e Filosofia. Vol. 31, Nº 30. Rio de Janeiro: UERJ, Faculdade de Comunicação Social, 2009. MARCONDES, D. Filosofia, Linguagem e comunicação. São Paulo: Cortez, 2000. SOUSA FILHO, Severino Gomes de. Por uma filosofia da comunicação. Campina Grande: EDUEP, 1999.
+
+SOC01100 - METODOLOGIA CIENTÍFICA
+
+Ementa
+
+Fundamentos histórico-sociológicos dos processos de comunicação. Evolução dos meios de comunicação. História do jornalismo no Brasil. Perspectiva histórica do controle da imprensa no país.
+
+Referências
+
+BÁSICA BRETON, P. & PROULX, S. A Explosão da Comunicação. Lisboa: Editorial Bizâncio, 2000. BRIGGS, A. & BURKE, P. De Gutenberg à Internet: uma história, social da
+
+98
+
+mídia. Rio de Janeiro: Zahar, 2004. MATTELART, A. História da sociedade da informação. São Paulo: Loyola, 2002. COMPLEMENTAR RUBIM, A.A.C. (org) Idade mídia. Salvador: UFBA, 1995. SODRÉ, N.W. História da Imprensa no Brasil. 4 ed. Rio de Janeiro: Mauad, 1999. LAGO, C; ROMANCINE, R. História do Jornalismo no Brasil. Florianópolis/SC: 2007. ROGER, P. A Ascensão da Mídia. Rio de Janeiro, Campus: 2012. MORAES, D. Por uma outra Comunicação. Rio de Janeiro: Record, 2002.
+
+SOC01123 - SOCIOLOGIA DA COMUNICAÇÃO
+
+Ementa
+
+Contexto histórico do aparecimento da sociologia. Visão geral e crítica das grandes correntes sociológicas e seus respectivos conceitos. Teorias sociológicas da comunicação. Sociedade de massa. Cultura de massa. Indústria cultural.
+
+Referências
+
+BÁSICA ADORNO, T. Sociologia. São Paulo, Ática, 1991. ARONS, Raymond. O marxismo de Marx. São Paulo, Arx, 2003. BAHIA, Ricardo. Das Luzes à desilusão. O conceito de indústria cultural em Adorno e Horkheimer. Belo Horizonte, Autêntica, 2004. BAUMAN, Zygmunt. Globalização. As conseqüências humanas. Rio de Janeiro, Jorge Zahar Editor, 1999. BENJAMIN, W.; HORKHEIMER, M.; ADORNO, T.; HABERMAS, J. Textos escolhidos. Coleção Os Pensadores. São Paulo, Abril Cultural, 1975. CANCLINI, Nestor G. Consumidores e cidadãos. Rio de Janeiro, Editora da UFRJ, 1997. CAMPBELL, Colin. A ética romântica e o espírito do consumismo moderno. Rio de Janeiro, Rocco, 2001. CASTELLS, Manuel. A Era da Informação: economia, sociedade e cultura. Vols. 1, 2 e 3. São Paulo, Paz e Terra, 1999. COHN, Gabriel. Sociologia da Comunicação. São Paulo, Pioneira, 1973. COUTINHO, Carlos Nelson. Gramsci. Um estudo sobre seu pensamento
+
+99
+
+político. Rio de Janeiro, Civilização Brasileira, 2003. DOMINGUES, José Maurício. Teorias Sociológicas no século XX. Rio de Janeiro, Civilização Brasileira, 2001. DURKHEIM, E. Diversos. Coleção Os Pensadores. São Paulo, Abril Cultural, 1973. ECO, Umberto. Apocalípticos e Integrados. São Paulo, Perspectiva, 1978. ENGELS, F. e MARX, K. Manifesto do Partido Comunista. Petrópolis, Vozes, 1993. FEATHERSTONE, Mike (coord.). Cultura global. Nacionalismo, globalização e modernidade. Petrópolis, Vozes, 1999. GIDDENS, Anthony. As conseqüências da modernidade. São Paulo, Unesp, 1991. GRAMSCI, Antonio. Cadernos do Cárcere. São Paulo, Civilização Brasileira, 2000. Diversos volumes. GRAMSCI, Antonio. Os Intelectuais e a organização da cultura. Rio de Janeiro, Ed. Civilização Brasileira, 1982. LAKATOS, Eva e MARCONI, Marina. Sociologia Geral. São Paulo, Atlas, 1999. LIMA, Luiz Costa (org.). Teoria da Cultura de Massas. São Paulo, Paz e Terra, 1990. MARX, Karl. Diversos. Col. Os Pensadores. Vol. 1 e 2. São Paulo, Abril Cultural, 1987. MARX, Karl. O Capital. Edição popular. Lisboa, Edições 70, s/d. MARX, Karl. Sociologia. IN: IANNI, Octavio (org.). São Paulo, Ática, 1979.
+
+COMPLEMENTAR MORAES, Denis de (org.). Por uma outra Comunicação. Rio de Janeiro, Record, 2003. MORIN, Edgar. Cultura de massas no século XX. Vol. 1 e 2. Rio de Janeiro, Forense Universitária, 1986. QUINTANEIRO, Tânia e outros. Um toque de clássicos. Marx. Durkheim. Weber. Belo Horizonte, Editora da UFMG, 2002. ROCHA, Everardo. A Sociedade do Sonho. Comunicação, cultura e consumo. Rio de Janeiro, Mauad, 1995. SCHLESENER, Anita Helena. Hegemonia e cultura: Gramsci. Curitiba, Editora da UFPR, 2001. SIMMEL, G. Sociologia. São Paulo, Ática, 1994. SOUZA, Jessé (org.). A atualidade de Max Weber. Brasília, UNB, 2000.
+
+100
+
+VELHO, Otávio Guilherme (org.). O fenômeno urbano. Rio de Janeiro, Guanabara, 1987. WEBER, Max. A ética protestante e o espírito do capitalismo. São Paulo, Martin Claret, 2000. WEBER, Max. Ciência e política. Duas vocações. São Paulo, Martin Claret, 2001. WEBER, Max. Economia e Sociedade. Vol. 1 e 2. Brasília, UNB, 2000. WEBER, Max. Conceitos básicos de Sociologia. São Paulo, Ed. Moraes, 1987. WEBER, Max. Sociologia. IN: COHN, Gabriel (org). São Paulo, Ática, 1986.
+
+Básico Específico de Estágio
+
+JOR01079 - ESTÁGIO CURRICULAR SUPERVISIONADO
+
+Ementa
+
+Vivências com a produção, edição e distribuição de produtos jornalísticos em múltiplas plataformas. Aplicabilidade prático-conceitual em situações de trabalho, no mercado profissional ou laboratório escolar. Elaboração de relatórios de estágio.
+
+Referências
+
+BÁSICA KOVACH, B; ROSENSTIEL, T. Os elementos do jornalismo. São Paulo: Geração Editorial, 2004. LAGE, N. A reportagem: teoria e técnica de entrevista e pesquisa jornalística.9 ed. Rio de Janeiro: Record, 2011. PEREIRA JUNIOR, L. C.  A apuração da notícia: métodos de investigação na imprensa. Petrópolis: Vozes, 2006. COMPLEMENTAR BIANCHI, A. C. M. Manual de orientação – estágio supervisionado. São Paulo: Thomson Pioneira, 2002. CAPUTO, S. G. Sobre entrevistas: teoria, práticas e experiências. Petrópolis: Vozes, 2006. FELIPPI, A; PICCININ, F; SOSTER, D. A. Edição de imagens em jornalismo. Florianopólis: Edunisc, 2008. GROTH, O. O Poder Cultural Desconhecido: fundamentos da Ciência dos Jornais. Petrópolis: Vozes, 2011. JORGE, T. M. Manual do foca: Guia de sobrevivência para jornalistas. São
+
+101
+
+Paulo: Contexto, 2008.
+
+Básico Específico de TCC
+
+JOR01030 - TCC 1
+
+Ementa
+
+Elaboração de trabalho científico monográfico em temas ligados à comunicação ou elaboração de projetos editoriais pertinentes ao campo da comunicação que atestem efetiva competência acerca do pensar/executar em torno do jornalismo em suas várias possibilidades de manifestação.
+
+Referências
+
+BÁSICA CHRISTOFOLETTI, Rogerio e LIMA, Samuel (orgs). Reportagem, pesquisa e investigação. Florianópolis: Editora Insular, 2012. LEAL, B. S.; ANTUNES, E. e VAZ, P. B. (orgs). Jornalismo e acontecimento: percursos metodológicos. Vol. 2. Florianópolis: Insular, 2011. PONTE, Cristina. Para entender as notícias: linhas de análise do discurso jornalístico. Florianópolis: Insular, 2005.
+
+COMPLEMENTAR SILVERSTONE, Roger. Por que estudar a mídia? São Paulo: Loyola, 2002 MEDITSCH, Eduardo. Pedagogia e pesquisa para o Jornalismo que está por vir: a função social da Universidade e os obstáculos para a sua realização. Florianópolis: Insular, 2012. SANTOS, Boaventura de Sousa. Um discurso sobre as ciências. São Paulo: Cortez, 2009. ORLANDI, E. Análise de Discurso: princípios e procedimentos. Campinas, São Paulo: Pontes, 2001. SOUSA, Jorge Pedro. Elementos de Teoria e Pesquisa da Comunicação e dos Media. 2 ed. Porto; Edições Universidade Fernando Pessoa, 2003. Porto: EUFP, 2006.
+
+102
+
+JOR01033 - TCC 2
+
+Ementa
+
+Elaboração de trabalho científico monográfico em temas ligados à comunicação ou elaboração de projetos editoriais pertinentes ao campo da comunicação que atestem efetiva competência acerca do pensar/executar em torno do jornalismo em suas várias possibilidades de manifestação. Observação: Neste componente curricular, as referências devem ser definidas pelo(s) professor(es) orientador(es) e seus respectivos orientandos, considerando as peculiaridades de cada trabalho, uma vez que as referências normativas comuns já foram indicadas nos componentes curriculares voltados ao planejamento da pesquisa e/ou do produto midiático.
+
+Referências
+
+BIBLIOGRAFIA BÁSICA BAUER, Martin W.; GASKELL, George. Pesquisa qualitativa com texto, imagem e som: um manual prático. 7ª ed. Petrópolis: Vozes, 2008. BARROS, Antonio; DUARTE, Jorge; NOVELLI, Ana Lucia Romero. Métodos e técnicas de pesquisa em comunicação. 2. ed. São Paulo: Atlas, 2006. LAGO, Claudia; BENETTI, Marcia (orgs). Metodologia de pesquisa em jornalismo. Petrópolis: Vozes, 2007. BIBLIOGRAFIA COMPLEMENTAR GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. BIAGI, Marta Cristina. Pesquisa Científica: roteiro prático para desenvolver projetos e teses. Curitiba: Ed. Juruá, 2010. VIEIRA, Sonia. Como elaborar questionários. São Paulo: Atlas, 2009. KAHLMEYER-MERTENS, Roberto S. et. al.. Como elaborar projetos de pesquisa: linguagem e método. Rio de Janeiro: Editora FGV, 2007. JORGE, Thaïs de Mendonça (Org.). Notícia em fragmentos: Análise de conteúdo no jornalismo. Florianópolis: Insular, 2015.
+
+Básico Específico do Curso
+
+103
+
+JOR01029 - ASSESSORIA DE IMPRENSA
+
+Ementa
+
+Assessoria de imprensa: conceito, histórico, perspectivas. Regulamentação do exercício da assessoria. Assessoria de Comunicação. Assessoria de imprensa em contexto de convergência e de multiplataformas.
+
+Referências
+
+BÁSICA DUARTE, J.(Org.). Assessoria de Imprensa e relacionamento com a mídia: teoria e técnica. 4 ed. São Paulo: Atlas, 2006. KUNSCH, M.M.K. Planejamento de relações públicas na comunicação integrada. São Paulo: Summus, 2004. FILHO BARROS, C (Org.). Ética e comunicação organizacional. 2 ed. São Paulo: Paulus, 2009. COMPLEMENTAR GIACAGLIA, M. C. Organização de Eventos: teoria e prática. São Paulo: Thomson Learning, 2003. MAFEI, M. Assessoria de imprensa: como se relacionar com a mídia. SP: Contexto, 2004. MATOS, G. G. Comunicação Empresarial sem complicação. 2 ed, Barueri: Manole, 2009. NEVES, R. C. Comunicação Empresarial Integrada. Rio de Janeiro: Mauad, 2000. SCHWINGEL,C. Mídias digitais: Produção de conteúdos para a web. São Paulo: Paulinas, 2012.
+
+JOR01075 - COMUNICAÇÃO E DESENVOLVIMENTO REGIONAL
+
+Ementa
+
+Aspectos históricos da relação comunicação e desenvolvimento regional. Enfoques teóricos. Tendências atuais da pesquisa em Comunicação e desenvolvimento. Regionalização Midiática. Comunicação midiática: políticas públicas, identidades locais, cultura, meio ambiente, ciência, tecnologia e sociedade.
+
+Referências
+
+BÁSICA
+
+104
+
+SOUSA, C.M. Televisão Regional, Globalização e Cidadania. RJ: Sotese, 2007. BOLAÑO, C. R. S. (Org.). Globalização e regionalização das comunicações. São Paulo: Educ/Universidade Federal de Sergipe, 1999. CANCLINI, N. G. Cultura y comunicación: entre lo global y lo local. Buenos Aires: Facultad de Periodismo y Comunicación Social, Universidad Nacional de La Plata, 1997. COMPLEMENTAR MELO, J.M; SOUSA, C.M.; GOBBI, M.C.  Regionalização Midiática. Rio de Janeiro: Sotese, 2007. PERUZZO, C. Vozes Cidadãs. São Paulo, Angellara, 2004. DOWBOR, L. Desafios da Comunicação. Petrópolis: Vozes, 2000. MORAES, D. Por uma outra Comunicação. Rio de Janeiro: Record, 2002. ORTIZ, Renato. Mundialização e cultura. São Paulo: Brasiliense, 1998.
+
+JOR01080 - COMUNICAÇÃO E SEMIÓTICA
+
+Ementa
+
+O mundo simbólico. Transformações da comunicação (línguas e meios de comunicação) no mundo contemporâneo. Objetivo, identificação e compreensão das práticas de comunicação. Mapeamento das teorias da semiótica. Semiótica – teorias do signo. Análise de mensagens midiáticas.
+
+Referências
+
+BÁSICA ECO, U. A estrutura ausente: introdução à pesquisa semiologia. SP: Perspectiva, 1991. NÖTH, W. Panorama da semiótica: De Platão a Peirce. São Paulo, Annablume, 1995. SANTAELLA, L. & WINFRIED, N. Comunicação e semiótica. São Paulo: Hacker, 2004. COMPLEMENTAR DELEUZE, G. Mil Platôs: capitalismo e esquizofrenia. Vol. 1. RJ: Editora 34, 2000. DIAS DA SILVA, A. P. Imaginários na cultura. Campina Grande: EDUEPB, 2005. SANTAELLA, L. Matrizes da Linguagem e pensamento: sonora, visual, verbal. São Paulo: Iluminuras, 2006.
+
+105
+
+SOUZA SILVA, R.(org).  Discursos simbólicos da mídia. São Paulo: Edições Loyola, 2005. FECHINE, Yvana. Televisão e Presença: Uma Abordagem Semiótica da Transmissão Direta. São Paulo: Estação das Letras e Cores, 2008.
+
+JOR01027 - ELABORAÇÃO DE PROJETOS EM JORNALISMO
+
+Ementa
+
+Etapas de construção do projeto de pesquisa (formulação do problema, elaboração de objetivos, justificativa temática, referencial teórico, parâmetros metodológicos). Planejamento de coleta, análise e interpretação de dados. O que é e como se faz um projeto científico. Aspectos organizacionais do trabalho para as mídias impressas e eletrônicas: planejamento voltado à confecção de produtos jornalísticos para jornais, revistas, rádio, cinema, televisão e/ou internet. Diretrizes para elaboração do projeto científico ou do produto midiático a ser desenvolvido no TCC.
+
+Referências
+
+BÁSICA APPOLINÁRIO, Fábio. Metodologia da ciência. Filosofia e prática da pesquisa.São Paulo: Pioneira Editora, 2006. BARROS, Aidil de J.P.; LEHFELD, Neide. Projeto de pesquisa: propostas metodológicas. Petrópolis: Vozes, 2001. RUDIO, Vítor. Introdução ao projeto de pesquisa científica. Petrópolis: vozes, 2001. COMPLEMENTAR DUARTE, Jorge; BARROS, Antonio. Métodos e Técnicas de Pesquisa em Comunicação. São Paulo: Atlas, 2005. LOPES, Maria Immacolata Vassalo. Pesquisa em comunicação: formulação de um modelo metodológico. São Paulo: Loyola, 2001. MANUAL DE NORMATIZAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC DO CURSO DE COMUNICAÇÃO SOCIAL. Vários autores. EDUEPB, 2011. MINAYO, Maria Cecília. Pesquisa social: teoria, método e criatividade. Petrópolis: Vozes, 1999. SANTAELLA, Lúcia. Comunicação e pesquisa. São Paulo: Hachker Editores, 2001.
+
+106
+
+JOR01008 - ÉTICA E DIREITOS HUMANOS
+
+Ementa
+
+Compreensão do conceito de ética na cultura. Noções de ética e direitos humanos aplicadas à sociedade contemporânea. Ética e deontologia no jornalismo. Reconfigurações jornalísticas e o surgimento de novos dilemas éticos. O discurso propositivo acerca de cidadania e ética no jornalismo do Brasil e da Paraíba.
+
+Referências
+
+BÁSICA BUCCI, E. Sobre ética e imprensa. São Paulo: Companhia das Letras, 2000. CHRISTOFOLETTI, R. Ética no jornalismo. São Paulo: Contexto, 2008. COSTA, C. T. Ética, jornalismo e uma nova mídia: uma moral provisória. Rio de Janeiro: Jorge Zahar, 2009. COMPLEMENTAR KARAM, F. J. Ética Jornalística e Interesse Público. SP: Summus, 2004 KARAM, F. J. C; LIMA, S. Jornalismo, Crítica e Ética. Florianópolis: Insular, 2016. MORIN, E.  O Método VI: ética. Porto Alegre: Sulina, 2005. FILHO, Clóvis. Ética na Comunicação. Summus, 2003. LIMA, Venício Arthur de. Regulação das comunicações: história, poder e direitos. São Paulo: Paulus, 2011.
+
+JOR01023 - GESTÃO DE EMPRESAS JORNALÍSTICAS
+
+Ementa
+
+Conceitos de administração aplicados às empresas jornalísticas. Modelos de gestão. Estrutura organizacional das empresas jornalísticas (públicas, privadas e comunitárias). Modelos de negócios no jornalismo: mercado, distribuição e comercialização. Gestão de pessoas. Gestão de qualidade. Empreendedorismo no jornalismo. Crowdfunding para o jornalismo.
+
+Referências
+
+BIBLIOGRAFIA BÁSICA CHIAVENATO, Idalberto. Teoria geral da administração. 9. ed.- São Paulo: Manole, 2014. RAINHO, João Marcos. Jornalismo freelance: empreendedorismo na
+
+107
+
+comunicação. São Paulo: Summus, 2008. FONSECA, Virginia Pradelina da Silveira. Indústria de notícias. Capitalismo e novas tecnologias no jornalismo contemporâneo. Porto Alegre: editora da UFRGS, 2008. BIBLIOGRAFIA COMPLEMENTAR CHIAVENATO, Idalberto. Gestão. O novo papel dos recursos humanos nas organizações. 4. ed.- São Paulo: Manole, 2014. PÉREZ, Rosario de Mateo; SAURA, Laura Bergés; CASALS, Marta Sabater. Gestión de empresas de comunicación. Sevilla (España): Pedro J. Crespo Editor, 2009. SODRÉ. Nelson Werneck. História da imprensa no Brasil. Porto Alegre: Edipucrs, 2012. SCHMITZ, Aldo Antonio. Agência de comunicação: gestão, desafios e oportunidades-3. ed.- Florianópolis: Combook, 2012. TACHIZAWA, Takeshy. Organizações não governamentais e terceiro setor: criação de ONGs e estratégia de atuação. São Paulo: Atlas, 2010.
+
+JOR01081 - HISTÓRIA DA COMUNICAÇÃO E DO JORNALISMO
+
+Ementa
+
+Fundamentos histórico-sociológicos dos processos de comunicação. Evolução dos meios de comunicação. História do jornalismo no Brasil. Perspectiva histórica do controle da imprensa no país.
+
+Referências
+
+BÁSICA BRETON, P. & PROULX, S. A Explosão da Comunicação. Lisboa: Editorial Bizâncio, 2000. BRIGGS, A. & BURKE, P. De Gutenberg à Internet: uma história, social da mídia. Rio de Janeiro: Zahar, 2004. MATTELART, A. História da sociedade da informação. São Paulo: Loyola, 2002. COMPLEMENTAR RUBIM, A.A.C. (org) Idade mídia. Salvador: UFBA, 1995. SODRÉ, N.W. História da Imprensa no Brasil. 4 ed. Rio de Janeiro: Mauad, 1999. LAGO, C; ROMANCINE, R. História do Jornalismo no Brasil. Florianópolis/SC: 2007.
+
+108
+
+ROGER, P. A Ascensão da Mídia. Rio de Janeiro, Campus: 2012. MORAES, D. Por uma outra Comunicação. Rio de Janeiro: Record, 2002.
+
+JOR01024 - JORNALISMO DIGITAL
+
+Ementa
+
+Mídias digitais e reconfiguração do campo jornalístico. História e linguagem do jornalismo digital. Múltiplas convergências. Empoderamento da audiência. Jornalismo móvel e ubiquidade na sociedade em redes móveis. Ética no contexto digital.
+
+Referências
+
+BÁSICA CANAVILHAS. João (Org.). Webjornalismo: 7 características que marcam a diferença. Covilhã: Labcom: 2014. JENKINS, Henry. Cultura da convergência. Ed. São Paulo: Aleph, 2009. MARTINO, Luís Mauro Sá. Teoria das Mídias Digitais: linguagens, ambientes e redes. 2. ed. Petrópolis: Vozes, 2015. COMPLEMENTAR CANAVILHAS. João; SATUF, Ivan (Org.). Jornalismo para dispositivos móveis: produção, distribuição e consumo. Covilhã: Labcom: 2015. LEMOS, André; LÉVY, Pierry. O futuro da internet: Em direção a uma ciberdemocracia planetária. São Paulo: Paulus, 2010. NATANSOHN, Graciela. Jornalismo de revista em redes digitais. Salvador/BA: EDUFBA, 2013. SCOLARI, Carlos A. Narrativas transmedia: cuando todos lós médios cuentam. Barcelona: Deusto, 2013 RÜDIGER, Francisco. As teorias da cibercultura: perspectivas, questões e autores. 2 ed. Porto Alegre: Sulina, 2013
+
+JOR01013 - JORNALISMO IMPRESSO
+
+Ementa
+
+Teorias da notícia. Os gêneros jornalísticos contemporâneos. As condições de produção do fazer jornalístico contemporâneo: planejamento, execução e logística. Produção laboratorial de um informativo.
+
+Referências
+
+109
+
+BÁSICA BELTRÃO, L. Teoria e prática do jornalismo. Adamantina-SP: Omnia, 2006. FAUSTO NETO, A. Comunicação e mídia impressa. São Paulo: Hacker, 1999. FELIPPI, A. et al. Edição em jornalismo: ensino, teoria e prática. Santa Cruz do Sul–RS: Edunisc, 2006. COMPLEMENTAR LAGE, N. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. Rio de Janeiro: Record, 2001. LUSTOSA, E. O texto da notícia. Brasília: Editora da Universidade de Brasília, 1996. MEDINA, C. A arte de tecer o presente: narrativa e cotidiano. São Paulo: Summus, 2003. PEREIRA Jr., L. C. A apuração da notícia: métodos de investigação na imprensa. Petrópolis-RJ: Vozes, 2006. NOBLAT, Ricardo. A arte de fazer um jornal diário. São Paulo: Contexto, 2008.
+
+JOR01011 - LABORATÓRIO DE FOTOJORNALISMO
+
+Ementa
+
+A fotografia documental e a história do fotojornalismo. A fotografia nos gêneros jornalísticos. As revistas ilustradas e a ascensão do fotojornalismo no Brasil. A imagem no jornalismo diário: do impresso aos portais de notícias. Fotografia enquanto representação da realidade social. Ética: direito de imagem, direito de autor e limites da manipulação das imagens. A prática do fotojornalismo: especificidades da pauta, cobertura e edição. A reportagem fotográfica: narrativa visual.
+
+Referências
+
+BÁSICA MARTINS, Nelson. Fotografia: da analógica à digital. São Paulo: Editora Senac, 2010. OLIVEIRA, Erivam Morais de; VICENTINI, Ari. Fotojornalismo: uma viagem entre o analógico e o digital. São Paulo: Cengage Learning, 2010. SHORT, Maria. Contexto e narrativa em fotografia. São Paulo: Gustavo Gili, 2013. COMPLEMENTAR
+
+110
+
+BAEZA, Pepe. Por una funcion critica de la fotografia de prensa. Barcelona: Gustavo Gili, 2003. BUITONI, Dulcília. Fotografia e Jornalismo: a informação pela imagem. São Paulo: Saraiva, 2011. FREUND, Gisele. La fotografia como documento social. Barcelona: Gustavo Gili, 2002. GONZALES, Ivo. Fotografia de Esportes. Balneário Camboriú, SC: Photos, 2010. SOUSA, Jorge Pedro. Fotojornalismo: introdução à história, às técnicas e à linguagem da fotografia na imprensa. Florianópolis: Letras Contemporâneas, 2004.
+
+JOR01009 - LABORATÓRIO DE INICIAÇÃO AO JORNALISMO
+
+Ementa
+
+Jornalismo e seus conceitos preliminares. O caráter factual do jornalismo: noções de lead, sub-lead, pirâmide invertida e pirâmide deitada. A notícia em seus diversos contextos informacionais. Relações entre a notícia e as fontes de informação. Tipologia das entrevistas e reportagens. Jornalismo em multiplataformas.
+
+Referências
+
+BÁSICA KOVACH, B; ROSENSTIEL, T. Os elementos do jornalismo: O que os jornalistas devem saber e o público exigir. 2. ed. São Paulo: Geração Editorial, 2004. MACHADO, E. O ciberespaço como fonte para os jornalistas. Salvador: Calandra, 2003. NOBLAT, R. A arte de fazer um jornal diário. 3. ed. São Paulo: Contexto, 2002. COMPLEMENTAR ABREU, A. A modernização da imprensa. Rio de Janeiro: Zahar, 2002. LAGE, N. A Estrutura da notícia. São Paulo, Ática, 2006. LAGE, N. A  linguagem jornalística. 8ª ed. São Paulo, Ática, 2007. LAGE, N. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. 9ª ed. Rio de Janeiro: Record, 2011. OTTO, G. O Poder cultural desconhecido: Fundamentos da Ciência dos Jornais. Petrópolis: Vozes, 2011.
+
+111
+
+JOR01028 - LABORATÓRIO DE JORNALISMO DIGITAL
+
+Ementa
+
+Experimentação de narrativas em jornalismo digital. Planejamento e execução de produtos em jornalismo digital. Jornalismo em base de dados. Utilização de ferramentas digitais para produção de conteúdo. Produção, redação e edição em jornalismo para web.
+
+Referências
+
+BÁSICA JENKINS, Henry; GREEN, Joshua; FORD, Sam. Cultura da conexão: criando valor e significado por meio da mídia propagável. São Paulo: Aleph, 2014. PRADO, Magaly. Webjornalismo. São Paulo:  LTC, 2011. RODRIGUES, Carla (org.). Jornalismo online: modos de fazer. Rio de Janeiro: Ed. PUC-Rio: Editora Sulina, 2013. COMPLEMENTAR SILVA, Fernando Firmino da. Jornalismo móvel. Salvador/Bahia: EDUFBA, 2015. SEABRA, Geraldo A.; SANTOS, Luciene A. Newsgames: teoria geral aplicada dos games baseados em notícias. Porto Alegre: Smashword, 2015. DANTAS, Humberto; TOLEDO, José Roberto de; TEIXEIRA, Marco Antônio Carvalho. Análise política e jornalismo de dados. Rio de Janeiro: FGV, 2014. SCHWINGEL, Carla. Ciberjornalismo. São Paulo: Paulinas, 2012. SQUARISI, Dad. Manual de Redação e Estilo para Mídias Convergentes. São Paulo: Geração Editorial, 2011.
+
+JOR01019 - LABORATÓRIO DE PRODUÇÃO GRÁFICA E DIGITAL
+
+Ementa
+
+Design de Notícias em ambiente de convergência digital. Concepção de projetos editorias e gráficos em jornal, revista, livros ou outras mídias impressas e digitais. Concepções de layout para primeiras páginas de revista, jornal e capas de livros. Confecção de peças gráficas para jornalismo. Fluxo de trabalho digital (digital workflow). Fechamento de arquivos para gráfica e ambiente digital. Análise de produtos gráficos (capas, jornais, livros, etc). Produção de produtos digitais gráficos (revistas digitais, ebook, PDFs interativos, aplicativos).
+
+112
+
+Referências
+
+BÁSICA ALI, Fátima. A arte de editar revistas. São Paulo: Companhia Editora Nacional, 2009. LUPTON, Ellen. Pensar com tipos. São Paulo: Cosac Naify, 2006. PLUVINAG,J.; Minoru Horie, R. Revistas Digitais para iPad e outros tablets: Arte- finalização, geração e distribuição. 2011. COMPLEMENTAR FERREIRA JUNIOR, J. Capas de jornal: a primeira imagem e o espaço gráfico- visual. São Paulo: Editora SENAC São Paulo, 2003. LESLIE,, Jeremy. Novo design de revistas. G.Gili, 2003. MOLINA, Matías M. Os melhores jornais do mundo: Uma visão da imprensa internacional. SãoPaulo: Ed. 35 Globo, 2007. PAULINO R. OLIVEIRA V. Jornalismo para tablets. Editora Insular, 2013. HORIE, R. Preparação e fechamento de arquivos para artes gráficas – Windows e Mac OS. São Paulo: Érica, 2005.
+
+JOR01021 - LABORATÓRIO DE RADIOJORNALISMO E MÍDIA SONORA
+
+Ementa
+
+Prática laboratorial em produção e edição radiofônica (para rádio hertiziano e webrádio,compreendendo os seguintes formatos: Programas informativos( Radiojornais de curta e longa- durações); Técnicas de entrevistas e Reportagens:Radiojornalismo esportivo; documentários; Especiais;Programas de Entretenimento e cultural.Produção de produtos sonoros (podcast; audiolivro e outros).
+
+Referências
+
+BÁSICA BARBERO, H & LIMA, P. R. Manual de radiojornalismo. Rio de Janeiro: Campus, 2001. FERRARETO, Luiz Artur. Rádio: Teoria e Prática. São Paulo: Summus, 2014 SOUTO MAIOR, Gilson. Rádio: História e Radiojornalismo. João Pessoa: União, 2015 COMPLEMENTAR BARBOSA FILHO, A. Gêneros radiofônicos: tipificação dos formatos de áudio. Formatos de áudio. São Paulo: Paulinas, 2003.
+
+113
+
+JUNG, M. Jornalismo de rádio. 3 Ed. São Paulo: Contexto, 2009 KOTSCHO, Ricardo . A Prática da Reportagem. 4. ed. São Paulo: Ática, 2000. MCLEISH, Robert. Produção de rádio: um guia abrangente da produção radiofônica/ Robert McLeish; (tradução Mauro Silva). – São Paulo: Summus, 2001. – PRADO, Magaly. Produção de Rádio – um manual prático. Rio de Janeiro: Editora Elsevier, 2006
+
+JOR01025 - LABORATÓRIO DE TELEJORNALISMO
+
+Ementa
+
+Desenvolvimento e aplicação de conhecimentos teóricos e práticos referentes à produção jornalística em televisão. Planejamento, produção e execução de material jornalístico para televisão.
+
+Referências
+
+BÁSICA NICOLAU, Paulo. Telejornalismo na prática. São Paulo: Limiar, 2016. GUTMANN, Juliana Freire. Formas do telejornal; linguagem televisiva, jornalismo e mediações culturais. Salvador/BA: EDUFBA, 2014. BRASIL; Antônio. A revolução das imagens; uma nova proposta para o telejornalismo na era digital. Rio de Janeiro: Ciência Moderna, 2005. COMPLEMENTAR FRANCA, Luiz Humberto. Telejornalismo no interior; a arte de fazer mais com menos. Artigo A, 2015. TOURINHO, Carlos Alberto Moreira. Inovação no telejornalismo; o que você  ai ver a seguir. São Paulo: Espaço Livros, 2009. BAZI, R. TV regional: trajetória e perspectivas. Campinas-SP: Alínea, 2001. FELLIPI, Ângela; SÓSTER, Demétrio de Azevedo; PICCININ, Fabiana (orgs.). Edição de imagens em jornalismo. Santa Cruz do Sul: EDUNISC, 2008. PEREIRA, JR. A.E.V. Decidindo o que é notícia. Porto Alegre: EDPUCRS, 2000.
+
+114
+
+JOR01010 - LINGUAGEM FOTOGRÁFICA
+
+Ementa
+
+História da fotografia: desenvolvimento tecnológico e de linguagem. O processo fotográfico: características ópticas, físicas, químicas e em formatos digitais. Equipamentos: câmeras, objetivas e acessórios. Variáveis de exposição: velocidade, abertura e sensibilidade. Temperatura de cor. Iluminação e Fotometria. Gêneros fotográficos. Regras de composição. Áreas de atuação do profissional. Estética da fotografia. A imagem fotográfica enquanto expressão artística.
+
+Referências
+
+BÁSICA MACHADO, Arlindo. A ilusão especular: Uma teoria da fotografia. São Paulo: Gustavo Gili Brasil, 2015. MIRANDA, Arlindo. Estratégias do Olhar Fotográfico: Teoria e Prática da Linguagem Visual. São Paulo: Paulus, 2014 THALES, Trigo. Equipamento Fotográfico: Teoria e prática. São Paulo: Editora Senac, 2005. COMPLEMENTAR ADAMS, Ansel. A Câmera. 2. ed. São Paulo: Senac, 2010. DUBOIS, Philippe. O ato fotográfico e outros ensaios. Campinas: Papirus, 2013. EASTERBY, John. 150 lições para aprender a fotografar: técnicas básicas, exercícios e lições para fotógrafos iniciantes. São Paulo: Editora Europa, 2010. FREEMAN, Michael. O olho do fotógrafo: composição e design para fotografias digitais incríveis. Porto Alegre: Bookman, 2012. KOSSOY, Boris. Realidades e ficções na trama fotográfica. São Paulo: Ateliê Editorial, 2009
+
+JOR01039 - OBSERVATÓRIO DE MÍDIA
+
+Ementa
+
+Programas de leitura crítica da comunicação midiática. A emergência e o papel dos observatórios de mídia. Técnicas de análise crítica de coberturas específicas (eleições, movimentos sociais, direitos do cidadão, violência etc.) Mídia e poder local.
+
+115
+
+Referências
+
+BÁSICA CHRISTOFOLETTI, Rogério (Org.). Vitrine e vidraça: crítica de mídia e qualidade no Jornalismo. Covilhã: LabCom Books, 2010. KARAM, Francisco José Castilho; LIMA, Samuel (Org.). Jornalismo, crítica e ética. Florianópolis: Insular, 2016. MOTTA, Luiz Gonzaga; CHRISTOFOLETTI, Rogério (Orgs.). Observatórios de mídia: olhares da cidadania. São Paulo: Paulus, 2008. COMPLEMENTAR BRAGA, J. L. A sociedade enfrenta sua mídia: dispositivos sociais de crítica midiática. São Paulo: Paulus editora, 2006. BUCCI, Eugênio. Sobre ética e imprensa. São Paulo: Companhia das Letras, 2000. LUHMANN, Niklas. A realidade dos meios de comunicação. São Paulo: Paulus, 2005. MARCONDES FILHO, Ciro. Ser jornalista: a língua como barbárie e a notícia como mercadoria. São Paulo: Paulus, 2009. MARTINS, Maria Helena. Rumos da crítica. 2 ed. São Paulo: Editora Senac, 2007.
+
+JOR01040 - PRODUÇÃO E EDIÇÃO EM JORNALISMO
+
+Ementa
+
+Concepção e etapas da produção jornalística em uma perspectiva transmídia. Humanização das narrativas jornalísticas. Jornalismo colaborativo. Edição multiplataformas e redações integradas. Análise de conteúdos jornalísticos publicados nas diversas mídias contemporâneas, na perspectiva da produção e da edição.
+
+Referências
+
+BÁSICA SCOLARI, Carlos A. Narrativas transmedia: cuando todos lós médios cuentam. Barcelona: Deusto, 2013. PEREIRA JUNIOR, L. C.  Guia para a edição jornalística. Petrópolis: Vozes, 2006. MELO, J. M. Jornalismo: compreensão e reinvenção. São Paulo: Saraiva, 2009.
+
+116
+
+COMPLEMENTAR AVORIO, A; SPYER, J. Para entender a internet. 2009. BRUM, E. A vida que ninguém vê. Porto Alegre: Arquipélago editorial, 2006. CANAVILHAS. J; SATUF, I. (Org.). Jornalismo para dispositivos móveis: produção, distribuição e consumo. Covilhã: Labcom, 2015. JERÓNIMO, P. Ciberjornalismo de proximidade. Covilhã: Labcom: 2015. SANTT´ANA, L. O destino do jornal. Rio de Janeiro: Record, 2008.
+
+JOR01017 - PROJETO GRÁFICO EM JORNALISMO
+
+Ementa
+
+Contexto histórico da produção gráfica. Conceitos e características da diagramação. Características e definições de um projeto editorial e gráfico. Processos de edição de produtos jornalísticos gráficos com uso de tipologias, cores e elementos gráficos na construção da identidade visual. Elaboração de projeto editorial e gráfico para jornal, revista, livros ou outras mídias impressas e digitais. Edição e manipulação de imagens em softwares. Uso e funcionalidades dos principais softwares de editoração eletrônica.
+
+Referências
+
+BÁSICA COLLARO. A.C. Projeto Gráfico: teoria e prática da diagramação. São Paulo: Summus editorial, 2000. ZAPPATERRA, Yolanda. Design Editorial. Tradução Edson Furmankiewicz. 1. ed. São Paulo: Gustavo Gili, 2014 MORAES, Ary. Design de Notícias - A acessibilidade do cotidiano. São Paulo: Blucher, 2015. COMPLEMENTAR BRAGA, Marcos da Costa (org.). O papel social do design gráfico: uma história, conceitos & atuação profissional. São Paulo: editora Senac São Paulo, 2011 DONDIS, D. A. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 1991. GUIMARÃES, Luciano. As cores na mídia: organização da cor-informação no jornalismo. São Paulo: Annablume, 2003. WHITE, J. V. Edição e design: para designers, diretores de arte e editores. São Paulo: editora JSN, 2006.
+
+117
+
+JOR01031 - PUBLICIDADE E PROPAGANDA
+
+Ementa
+
+A influência da publicidade nos modelos de negócios do jornalismo. Origem e desenvolvimento da publicidade e da propaganda. Características da linguagem publicitária. Estética da publicidade. A agência de propaganda. Planejamento de campanhas publicitárias. Criação de peças publicitárias. Publicidade e propaganda na internet. Cases de campanhas. Código de ética, direitos e defesa do consumidor. Peculiaridades da Propaganda Política.
+
+Referências
+
+BÁSICA MARTINS, Zeca. Redação Publicitária: A prática na prática. 3ª ed. Rio de Janeiro: editora Campus, 2013. PEREIRA, Luiz Marcio; MOLINARIO, Rodrigo. Propaganda política: Questões práticas, relevantes e temas controvertidos da propaganda eleitoral. Rio de Janeiro: Editora Renovar, 2012. SANT’ANNA, Armando et al. Propaganda: Teoria, técnica e prática. 8ª ed. São Paulo: Cengage Learning, 2010. COMPLEMENTAR BARGER, Christopher. O estrategista em mídias digitais. São Paulo: DVS Editora, 2013. JENKINS, Henry; GREEN, Joshua; FORD, Sam. Cultura da Conexão: Criando valor e significado por meio da mídia propagável. São Paulo: Aleph, 2014. LUPETTI, Marcelia. Administração em Publicidade: A verdadeira alma do negócio. São Paulo: Thomson, 2009.
+
+JOR01016 - RADIOJORNALISMO E MÍDIA SONORA
+
+Ementa
+
+A história do rádio no Brasil;Aspectos sociais do rádio no contexto atual:O rádio e as novas tecnologias da comunicação (hertiziano; webrádio); Implicações ético- ideológicas inerentes ao jornalismo radiofônico; Jornalismo de rádio e participação popular  A linguagem radiofônica e a sua penetração nas camadas sociais ; novas linguagens, tendências e possibilidades tecnológicas. O jornalismo no contexto da mídia radiofônica. Jornalismo de rádio e sua importância para a constituição dos regionalismos culturais.O
+
+118
+
+radiojornalismo e suas técnicas. Dimensões práticas da mídia sonora.
+
+Referências
+
+BÁSICA BARBERO, H & LIMA, P. R. Manual de radiojornalismo. Rio de Janeiro: Campus, 2001. FERRARETO, Luiz Artur. Rádio: Teoria e Prática. São Paulo: Summus, 2014 SOUTO MAIOR, Gilson. Rádio: História e Radiojornalismo. João Pessoa: União, 2015. COMPLEMENTAR CHANTLER, P. & HARRIS, S. Radiojornalismo. São Paulo, Summus. 1998 FREITAS, G.M.S.et.al. Uma história da mídia regional: o rádio em Campina Grande. Campina Grande-PB: Editoras UEPB/UFCG, 2006. MAGNONI, Antonio Francisco/ DE CARVALHO Juliano Maurício. “O NOVO RÁDIO – cenários da radiodifusão na era digital”. São Paulo: Editora SENAC, 2010 PRADO, Magaly. Produção de Rádio – um manual prático. Rio de Janeiro: Editora Elsevier, 2006. P P PRATA, Nair. Webrádio: Novos gêneros, novas formas de interação. Forianópolis: Insular, 2 ed., 2012.
+
+JOR01015 - TÉCNICAS DE ENTREVISTA  E REPORTAGEM
+
+Ementa
+
+Gêneros jornalísticos. Tipologias de entrevistas. Redação de notícia a partir de entrevista. Perspectiva dialógica na entrevista pingue-pongue. Desafios e potencialidades da reportagem. Planejamento, produção e edição de reportagem.
+
+Referências
+
+BÁSICA FLORESTA, C; BRASLAUKAS, L. Técnicas de Reportagem e Entrevista em Jornalismo (Vol. 3). São Paulo: Saraiva, 2009. FLOSI, E. Por Trás da Notícia: O processo de criação das grandes reportagens. São Paulo: Summus, 2012. LAGE, N. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. 9. ed. Rio de Janeiro: Record, 2011. COMPLEMENTAR
+
+119
+
+MEDINA, C. Entrevista: O diálogo possível. São Paulo: Ática, 1995. MORIN, E. A entrevista nas Ciências Sociais, no rádio e na televisão. In: MOLES, Abraham A. et al. Linguagem da Cultura de Massa. Petrópolis: Editora Vozes, 1973. OYAMA, T. A arte de entrevistar bem. São Paulo: Contexto, 2008. PIZA, D. Perfis & entrevistas: escritores, artistas, cientistas.São Paulo: Contexto, 2004. VASCONCELOS, F. Anatomia da reportagem: Como investigar, Empresas, Governos e Tribunais. São Paulo, Publifolha, 2008.
+
+JOR01020 - TELEJORNALISMO
+
+Ementa
+
+Introdução à TV e ao telejornalismo. Aspectos históricos do telejornalismo no Brasil e na Paraíba. A linguagem do telejornal. Produção e execução de pauta. Elementos do telejornalismo da TV. Aspectos atuais do telejornalismo.
+
+Referências
+
+BÁSICA PATERNOSTRO, V. I. O texto na TV: manual de telejornalismo, 6. ed. São Paulo: Campus, 1999. PORCELLO,Flávio, VIZEU, Alfredo e COUTINHO, Aluska. O Brasil (é)ditado. Florianopólis: Editora Insular, 2012. BISTANE, L. & BACELLAR, L. Jornalismo de TV. São Paulo: Contexto, 2005. COMPLEMENTAR ALCURE, L. Telejornalismo em 12 lições: televisão, vídeo, internet. Rio de Janeiro: Editora PUC Rio/Senac Nacional, 2011. BARBERO, H. & LIMA, P. R. Manual de Telejornalismo: os segredos da notícia na TV. São Paulo: Campus, 2002. BISTANE, L. & BACELLAR, L. Jornalismo de TV. São Paulo: Contexto, 2005. BRASIL, A. C. Telejornalismo, Internet e Guerrilha Tecnológica. Rio de Janeiro: Ciência Moderna, 2002. REZENDE, G. J. Telejornalismo no Brasil: um perfil editorial. São Paulo: Summus, 2000.
+
+120
+
+JOR01012 - TEORIA DA COMUNICAÇÃO
+
+Ementa
+
+Objeto, processo e interdisciplinaridade da comunicação. Semiologia e Lingüística. Principais correntes teóricas: funcionalismo, estruturalismo e marxismo. A escola latino-americana. Paralelismo entre teoria da comunicação, teoria da informação e teoria do jornalismo.
+
+Referências
+
+BÁSICA HOHLFELDT, A.; MARTINO, L.; FRANÇA, V. V. (Orgs.) Teorias da comunicação – conceitos, escolas e tendências. Petrópolis, RJ: Vozes, 2001. WOLF, M. Teorias da Comunicação. Lisboa: Editorial presença, 1992. MARTIN-BARBERO, J. Dos meios às mediações: comunicação, cultura e hegemonia. Rio de Janeiro: Editora UFRJ, 1997. COMPLEMENTAR MATTELART, A. & MATTELART, M. História das teorias da comunicação. 5.ed. trad. Luiz Paulo Rouanet. São Paulo: Loyola, 2002. MELO, J. M. Teoria da comunicação: paradigmas latino-americanos. Petrópolis, RJ: Vozes, 1998. SOUSA, Jorge Pedro. Elementos de Teoria e Pesquisa da Comunicação e dos Media. 2. Ed. Porto: Cocilhã, 2006. LIMA, L.C. (org) Teoria da cultura de massa. Rio de Janeiro: Paz e Terra, 1990. PENA, Felipe. Teoria do jornalismo. São Paulo: Contexto, 2013.
+
+JOR01007 - TEORIAS DO JORNALISMO
+
+Ementa
+
+Teorias contemporâneas do jornalismo e as novas concepções metodológicas para a construção e leitura da realidade. Teorias do jornalismo:  Modelos, concepções e tipologias. Epistemologia do jornalismo e a desconstrução de velhos paradigmas. A construção do conhecimento no jornalismo: caminhos possíveis.
+
+Referências
+
+BÁSICA BERGER, C.; MAROCCO, B. A era glacial do jornalismo. Ed. Sulina, 2006.
+
+121
+
+GENRO FILHO, Adelmo. O segredo da pirâmide: para uma teoria marxista do jornalismo. Florianópolis/SC: Insular, 2012. PENA, F. Teorias do Jornalismo. Contexto: 2005. COMPLEMENTAR SOUSA, J. P. Teorias da Notícia e do Jornalismo. Chapecó: Argos, 2002. SPONHOLZ, L. Jornalismo, conhecimento e objetividade: além do espelho e das construções. V.4. Florianópolis: Insular, 2009. TRAQUINA, N. Teorias do Jornalismo Vol 2. Florianópolis: Insular, 2005. __________, N. Teorias do Jornalismo: porque as notícias são como são. 2. ed. Florianópolis: Insular, v. I, 2005. MELO, José Marques de. Teoria do Jornalismo: Identidades Brasileiras. São Paulo: Paulus, 2006.
+
+Complementar Eletivo
+
+JOR01022 - AGÊNCIA DE NOTÍCIAS
+
+Ementa
+
+Concepções de agências de notícias. As agências de notícias no jornalismo contemporâneo: o processo produtivo destas organizações jornalísticas. Operacionalização e modelo de uma agência de notícias. Contexto histórico das agências de notícias. Conceitos e características das agências de notícias. Jornalismo e tecnologia na interface com as agências de notícia. Os correspondentes de Guerra. Freelancer como intermediário. Aspectos de distribuição da notícia e serviços por agências. As redes digitais reconfigurando as agência. O jornalismo móvel e o paradigma da mobilidade no trabalho das agências.
+
+Referências
+
+BÁSICA GONÇALVES, E. M.; PALACIOS, M.(Orgs.). O ensino do jornalismo em redes de alta velocidade: metodologias & softwares. Salvador: EDUFBA, 2007. SILVA JÚNIOR, José Afonso da. Uma trajetória em redes : modelos e características operacionais das agências de notícias, das origens às redes digitais, com três estudos de caso. 2006. 408 f. Tese (Doutorado em Comunicação e Cultura Contemporâneas) - Programa de Pós-Graduação em Comunicação e Cultura Contemporâneas, Universidade Federal da Bahia, Faculdade de Comunicação, Salvador, 2006.
+
+122
+
+MORETZSOHN, S. Jornalismo em "tempo real": o fetiche da velocidade. RJ: Revan, 2002. COMPLEMENTAR CANAVILHAS, J. Notícias e Mobilidade: O Jornalismo na Era dos Dispositivos Móveis. Covilhã: Labcom, 2013. DANTAS, M. A lógica do capital-informação: fragmentação dos monopólios e monopolização dos fragmentos num mundo de comunicações globais. 2. ed. Rio de Janeiro: Contraponto, 2002. FRANCISCATO, C. E. A Fabricação do Presente - Como o Jornalismo Reformulou a Experiência do Tempo nas Sociedades Ocidentais. São Cristóvão (SE): Editora UFS, 2005. JERÓNIMO, P. Ciberjornalismo de proximidade. Covilhã: Labcom: 2015. SOUZA, J. C. A. Seja o primeiro a saber: a CNN e a globalização da informação. São Paulo: Summus, 2005.
+
+HIS01059 - ANTROPOLOGIA CULTURAL
+
+Ementa
+
+Campos de estudo e conceitos básicos. Métodos e Técnicas. Cultura e processos culturais. Etnocentrismo. Relativismo Cultural. O contexto cultural da pós- modernidade. Antropologia Aplicada.
+
+Referências
+
+AUGÉ, Marc. Não-lugares: Introdução a uma Antropologia da Pós-modernidade. Tradução: Maria Lúcia Pereira. 5ª edição. São Paulo: Papirus, 2005. BARRIO, Angel-B. Espina. Manual de Antropologia Cultural. Recife: Ed. Massangana, 2005. CASTRO, C. (Org.). Franz Boas – Antropologia Cultural. 2. ed. Rio de Janeiro: Jorge Zahar Ed., 2005. GOMES, Mércio Pereira. Antropologia: Ciência do Homem, Filosofia da Cultura. São Paulo: Contexto, 2008. LARAIA, R.B. Cultura – Um Conceito Antropológico. 11. ed. Rio de Janeiro: Zahar Editores, 1997. MELLO, L. G. Antropologia Cultural – Iniciação, Teoria e Temas. 5. ed. Petrópolis: Vozes, 1991. ULLMANN, R. A. Antropologia – O Homem e a Cultura. 3ª edição. Petrópolis: Vozes, 1991.
+
+123
+
+VILLAÇA, Nízia & GÓES, Fred (Orgs.). Nas Fronteiras do Contemporâneo: Território, Identidade, Arte, Corpo e Mídia. Rio de Janeiro: Mauad, 2001.
+
+SOC01104 - ANTROPOLOGIA CULTURAL
+
+Ementa
+
+Surgimento, desenvolvimento e objeto das Ciências Sociais (Antropologia e Sociologia). Teorias da Cultura. O corpo como significado; Saúde e Doença. Tratamento e processo de cura numa perspectiva de construção bio-psico-social e cultural da realidade humana.
+
+Referências
+
+Básicas ARON, Raymund. As Etapas do Pensamento Sociológico. São Paulo: Martins Fontes, 1987. BOTTOMORE, Tom B. Introdução à Sociologia. Rio de Janeiro: Guanabara, 1987. FOUCAULT, M. O Nascimento da Clínica. Rio de Janeiro: Forense-Universitária, 1977. Complementar DOUGLAS, M. Pureza e perigo: ensaio sobre as noções de poluição e tabu. Lisboa: Ed. 70, 1991. LE BRETON, D. Adeus ao corpo: Antropologia e sociedade. São Paulo: Papirus, 2003. LAPLANTINE, F. Antropologia dos sistemas de representações da doença: sobre algumas pesquisas desenvolvidas na França contemporânea reexaminadas à luz de uma experiência brasileira. In: JODELET, D. (Org.). As representações sociais. Rio de Janeiro: EdUERJ, 2001. p. 241-259.
+
+JOR01035 - CIBERCULTURA
+
+Ementa
+
+Conceito de cibercultura. Cibercultura no contexto da contracultura. Filosofia da técnica. Tecnologias da Informação. Cibercultura na cultura contemporânea. Cibercultura e Jornalismo Pós-Industrial. Os teóricos da cibercultura.
+
+Referências
+
+124
+
+BIBLIOGRAFIA BÁSICA LEMOS, André.. Cibercultura -  tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2002. LÉVY, Pierre. Cibercultura. Tradução de Paulo Neves. São Paulo: Ed. 34, 1999. RÜDIGER, Francisco. As teorias da cibercultura: perspectivas, questões e autores. Porto Alegre: Sulina, 2011. BIBLIOGRAFIA COMPLEMENTAR CANAVILHAS. J; SATUF, I. (Org.). Jornalismo para dispositivos móveis: produção, distribuição e consumo. Covilhã: Labcom, 2015. SANTAELLA, Lucia. Culturas e artes do Pós-Humano. Da cultura das mídias à cibercultura. 1.ed. São Paulo: Paulos, 2003. LÉVY, Pierre.  O que é o virtual? São Paulo: 34, 1997. RÜDIGER, Francisco. Elementos para a crítica da cibercultura. Porto Alegre: Sulina, 2002. MALINI, Fábio; ANTOUN, Henrique. A internet e a rua: ciberativismo e mobilização nas redes sociais. Porto Alegre: Sulina, 2013.
+
+JOR01069 - CINEMA
+
+Ementa
+
+História do cinema. Linguagem de cinema. Escolas cinematográficas. Leitura crítica de filmes. Produção cinematográfica.
+
+Referências
+
+BÁSICA AUMONT, J. e MARIE, M. Dicionário teórico e crítico de cinema. SP: Papirus, 2003. SIMIS, A. Estado e cinema no Brasil. São Paulo: Annablume, 1996. BERNARDET, J.C. Historiografia Clássica do Cinema Brasileiro. São Paulo: Annablume, 1995. COMPLEMENTAR AVELLAR, J. C. O chão da palavra. Rio de Janeiro: Rocco, 2007. GOMES, P. E. S. Cinema: trajetória no subdesenvolvimento. São Paulo: Paz e Terra, 1996. NAGIB, L. (org.). O Cinema da Retomada: Depoimentos de 90 Cineastas dos Anos 90. São Paulo: Ed. 34, 2002. XAVIER, I. A experiência do cinema. São Paulo: Graal, 2003.
+
+125
+
+FIGUEIREDO, Vera Lúcia Follain de. Narrativas migrantes: Literatura, roteiro e cinema. Rio de Janeiro: Editora PUC Rio/7 Letras, 2010.
+
+JOR01046 - COMUNICAÇÃO COMPARADA
+
+Ementa
+
+A pluralidade de instâncias comunicativas. Comunicação e identidades culturais. A diversidade de linguagens e suas implicações para o exercício do jornalismo. Estudos comparados acerca de teorias e conceitos do jornalismo.
+
+Referências
+
+BÁSICA CHAPARRO, M. C. Sotaques d’aquém e d’além-mar: percursos e gêneros do jornalismo português e brasileiro. Santarém-Portugal: Sortejo, 1998. LARROSA, J.; SKLIAR, C. (orgs.). Habitantes de Babel: políticas e poéticas da diferença. Belo Horizonte: Autêntica, 2006. SOUSA, J. P. Teorias da notícia e do jornalismo. Chapecó-SC: Argos, 2002. BIBLIOGRAFIA COMPLEMENTAR MOUILLAUD, M.; PORTO, S.D.(org). Jornal: da forma ao sentido. Brasília: editora UnB, 2002. REBELO, J. O discurso do jornal: o como e o porquê. Lisboa: Notícias Editorial, 2000. SOUSA, J. P. Teorias da notícia e do jornalismo. Chapecó-SC: Argos, 2002. TRAQUINA, N. O poder do jornalismo: análise e textos da teoria do agendamento. Coimbra-Portugal: Ed. Minerva, 2000. LEVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática. Trad. Carlos Irineu da Costa. Rio de Janeiro: Editora 34, 1993.
+
+JOR01037 - COMUNICAÇÃO COMUNITÁRIA
+
+Ementa
+
+Comunidade e processo civilizatório. Comunidade, comunicação e mudança social. ONG’s movimentos sociais e comunicação. Comunicação comunitária, popular e alternativa. Imprensa, rádio e televisão comunitários. Estudo, elaboração e encaminhamento de projetos alternativos e/ou experimentais em comunicação comunitária.
+
+Referências
+
+126
+
+BÁSICA DOWNING, J. D. H. Mídia radical: rebeldia nas comunicações e movimentos sociais. São Paulo: editora SENAC, 2002. PERUZZO, C. M. K. Comunicação nos movimentos populares: a participação na construção da cidadania. Petrópolis: Vozes, 1999. SALOMÃO, M. Radiojornalismo e vinculação social.  São Paulo: Selo Universitário, 2006. COMPLEMENTAR SEM, A. Desenvolvimento como liberdade. São Paulo: Companhia das Letras, 2005. TRAQUINA, N. & MESQUITA, M. Jornalismo cívico. Lisboa: Livros Horizonte, 2003. PAIVA, Raquel (org). O retorno da comunidade. Rio de Janeiro: Mauad X, 2007. PAIVA, Raquel. O espírito comum: comunidade, mídia e globalismo. 2. Ed., Rio de Janeiro: Mauad, 2003. DORNELLES, Beatriz. Jornalismo comunitário em cidades do interior. Porto Alegre: Sagra Luzzato, 2004.
+
+JOR01034 - COMUNICAÇÃO E ARTES
+
+Ementa
+
+A arte como instância relacionada à comunicação. Os principais movimentos de arte e cultura. Comunicação e arte nas suas vertentes teóricas clássicas e contemporâneas. Crítica da cultura e da arte no contexto pós-moderno. A arte e as novas tecnologias de comunicação.
+
+Referências
+
+BIBLIOGRAFIA BÁSICA ARNHEIM, Rudolf. Arte e percepção visual: uma psicologia da visão criadora. São Paulo: EDUSP, 2003. BENJAMIN, Walter. A obra de arte na era de sua reprodutibilidade técnica. Rio de Janeiro, Civilização Brasileira, 1996. SANTAELLA, Lúcia. Porque as comunicações e as artes estão convergindo? São Paulo: SP. Paulus, 2005. BIBLIOGRAFIA COMPLEMENTAR
+
+127
+
+BOURDIEU, Pierre. O Poder Simbólico. Rio de Janeiro, Bertrand Brasil. 2000. BARTHES, Roland; BENJAMIN, Walter. Magia e Técnica. São Paulo: Cultrix, 1999. DOWBOR, L. Desafios da Comunicação. Petrópolis: Vozes, 2000. KÜNSCH, D.A; BARROS, L.M. (Orgs.) Comunicação: saber, arte ou ciência?  San Pablo, Brasil: Plêiade, 2008. PROENÇA, Graça. Descobrindo a história da arte. Recife/PE: Ática, 2005.
+
+JOR01049 - COMUNICAÇÃO E EMPREENDEDORISMO SOCIAL
+
+Ementa
+
+Conceitos de empreendedorismo social. Noções de administração do negócio social. Distintos tipos de planejamento empresarial. Comunicação estratégica e empreendedores sociais. Materialização do plano de comunicação. Comunicação como modelo de negócio social. O universo digital e a construção do Social Good. Elaboração de negócios sociais na área de comunicação.
+
+Referências
+
+BÁSICA MEIRA, Sílvio Lemos. Novos negócios inovadores de crescimento empreendedor no Brasil. Rio de Janeiro: Casa da Palavra, 2013. NAGER, Marc; NELSEN, Clint; NOUYRIGAT, Franck. Startup weekend: como levar uma empresa do conceito à criação em 54 horas. Rio de Janeiro: Alta Books, 2012. OLIVEIRA, Edson Marques de. Empreendedorismo Social: Da teoria à prática, do sonho à realidade. Rio de Janeiro: QualityMark, 2008. COMPLEMENTAR FROES, César; NETO, Francisco M. Empreendedorismo social: Transição para a sociedade sustentável. Rio de Janeiro: Qualitymark, 2002. GORINI,Marco; TORRES, Haroldo da Gama. Captação de recursos para startups e empresas de impacto: um guia prático. Rio de Janeiro: Alta Books, 2015. PERIN, Bruno. A revolução das startups: O novo mundo do empreendedorismo de alto impacto. Rio de Janeiro: Alta Books, 2015. RIES, Eric. A startup enxuta: como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas. São Paulo: Lua de Papel, 2012.
+
+128
+
+TAVARES, Maurício. Comunicação Empresarial e Planos de Comunicação: integrando teoria e prática. 2. ed. São Paulo: Atlas, 2009.
+
+272006 - COMUNICAÇÃO E HISTÓRIA
+
+Ementa
+
+Referências
+
+271007 - COMUNICAÇÃO E SOCIEDADE
+
+Ementa
+
+Referências
+
+271015 - COMUNICAÇÃO E TERCEIRO SETOR
+
+Ementa
+
+Referências
+
+271026 - COMUNICAÇÃO MIDIÁTICA DA CIÊNCIA E DA TECNOLOGIA
+
+Ementa
+
+Referências
+
+272008 - COMUNICAÇÃO MULTIMÍDIA
+
+Ementa
+
+Referências
+
+129
+
+JOR01053 - COMUNICAÇÃO ORGANIZACIONAL
+
+Ementa
+
+Conceito de organização e noções de planejamento nas relações de mercado globalizado. Comunicação corporativa. Papel ddas Assessorias de Comunicação em diferentes empreendimentos de natureza sociocomunicacional. Importância da análise das redes, canais e fluxos de comunicação no mercado. Visão, missão e identidade corporativa no discurso organizacional. Públicos estratégicos das organizações e táticas de captação interacional. Análise do uso das mídias na comunicação organizacional. Métodos de avaliação para medir a eficácia da comunicação em diversas organizações.
+
+Referências
+
+BÁSICA KUNSCH. M.M.K. Planejamento de Relações Públicas na Comunicação integrada. São Paulo: Summus. 2003. KELLER. K. Comunicação Organizacional: sobrevivência empresarial. São Paulo. Literarte. 2005 TORQUATO. G. Tratado de Comunicação organizacional e política. São Paulo. Pioneira Thomson. 2004. COMPLEMENTAR VIEIRA. R.F. Comunicação organizacional: gestão de Relações Públicas. Rio de Janeiro. Mauad. 2004. BUENO, W. C. Comunicação Empresarial: alinhando teoria e prática. 1. ed. Barueri/SP: Manole, 2014.
+
+BUENO, W. C. (Org.). Estratégias de comunicação nas mídias sociais. 1ª. ed. São Paulo: Editora Manole, 2015.
+
+KUNSCH, Margarida M. Krohling (Org.). Comunicação organizacional: linguagem, gestão e perspectivas. Vol. 2. São Paulo: Saraiva, 2009.
+
+MARCHIORI, Marchiori (Org.). Sociedade, comunidade e redes. São Caetano do Sul, SP: Difusão Editora; Rio de Janeiro: Editora Senac Rio de Janeiro, 2014.
+
+130
+
+ARGENTI, Paul P. Comunicação empresarial: a construção da identidade, imagem e reputação. Rio de Janeiro: Campus, Elsevier, 2006.
+
+JOR01065 - COMUNICAÇÃO PÚBLICA
+
+Ementa
+
+Comunicação Pública: conceitos e características; Marcos históricos da comunicação pública no Brasil; Espaço público e interesse público; Instrumentos de comunicação pública e suas aplicações; Comunicação, Estado, Governo e Sociedade; A comunicação na esfera governamental, privada e não-governamental; Imprensa, mercado e democracia; Interação entre comunicação e cidadania: o papel das novas mídias e tecnologias.
+
+Referências
+
+BÁSICA BUCCI, Eugênio. O estado de Narciso: a comunicação pública a serviço da vaidade particular. São Paulo: Companhia das Letras, 2015. DUARTE, Jorge (Org). Comunicação Pública: estado, mercado, sociedade e interesse público. São Paulo: Atlas, 2012. HASWANI, Mariângela Furlan. Comunicação Pública: bases e abrangência. São Paulo, 2013. COMPLEMENTAR JARAMILLO LÓPEZ, Juan C. Propuesta general de Comunicación Pública. Strategy & Management Business Review, v. 3, n. 2, 2012. MATOS, Heloiza. (Org.) Comunicação Pública: interlocuções, interlocutores e perspectivas. São Paulo: ECA/USP, 2012. SISTEMAS públicos de comunicação no mundo: experiência de doze países e o caso brasileiro. São Paulo: Paulus, Intervozes, 2009. SORJ, Bernardo. (Org.) Meios de comunicação e democracia: além do Estado e do Mercado. Rio de Janeiro: Centro Edelstein de Pesquisas Sociais, 2011. WOLTON, Dominique. Internet, e depois? Uma teoria crítica das novas mídias. 3.  ed. Porto Alegre: Sulina, 2012.
+
+131
+
+JOR01052 - COMUNICAÇÃO, CULTURA E SOCIABILIDADE
+
+Ementa
+
+Processos de compreensão do fenômeno de mediação entre comunicação, sociedade e cultura.  A informação e suas interfaces culturais a partir das seguintes perspectivas: representações sociais; práticas socioculturais e narrativas sociais. Conceito de sociabilidade cotidiana.  Análise de processos de produção, recepção, circulação, consumo e apropriação de bens culturais e simbólicos relacionados às práticas comunicacionais em diferentes meios, suportes, grupos e contextos socioculturais.
+
+Referências
+
+BÁSICA LEMOS, A; LÉVY, P.  O futuro da internet: Em direção a uma ciberdemocracia planetária. São Pauo: Paulus, 2010. PRIMO, AC(Org.). Interações em rede. Porto Alegre: Sulina, 2013. RECUERO, R. A conversação em rede: Comunicação mediada pelo computador  e redes sociais na internet. Porto Alegre: Sulina, 2012. COMPLEMENTAR FAUSTO NETO, Antonio. Comunicação, mídia e sociedade.  Palestra Unisinos. 2012. HALL, Stuart. A identidade cultural na pós-modernidade. Rio de Janeiro: DP&A, 2005.. MARTÍN-BARBERO, Jesús. Dos meios às mediações: comunicação, cultura e hegemonia. Rio de Janeiro/UFRJ: 2001. MARTINO, Luís Mauro Sá. Comunicação e identidade: quem você pensa que é? São Paulo: Paulus, 2010. MORIN, Edgar. A comunicação pelo meio (teoria complexa da comunicação). Revista Famecos. Porto Alegre. Nº 20. Abril, 2013.
+
+JOR01060 - DESIGN EDITORIAL
+
+Ementa
+
+Fundamentos e conceitos do design editorial na contemporaneidade. Origens do design gráfico e editorial. A construção do livro: anatomia, projeto tipográfico, teorias das cores. A práxis em design editorial conforme o tipo ou natureza da obra: Científica, literária, infantil, etc. Aspectos da convergência digital.
+
+132
+
+Referências
+
+BÁSICA ARAÚJO, Emanuel. A construção do livro. 2ª ed. São Paulo: Edunesp; Rio de Janeiro: Lexikon, 2008 BRINGHURST, Robert. Elementos do Estilo Tipográfico (versão 3.0). São Paulo: Cosac Naify, 2005. DONDIS, DONIS A. Sintaxe da Linguagem Visual. São Paulo: Martins Fontes, 1999. COMPLEMENTAR DEMPSEY, Amy. Estilos, Escolas e Movimentos: Guia Enciclopédico da Arte Moderna. São Paulo: Cosac Naify, 2003. GUIMARÃES, Luciano. A Cor como Informação: A Construção Biofísica, Linguística e Cultural da Simbologia das Cores. 3ª ed. São Paulo: Annablume, 2004. HASLAM, Andrew. O livro e o designer II: como criar e produzir livros. São Paulo: Rosari, 2007. HENDEL, Richard. O design do livro. São Paulo: Ateliê Editorial, 2003.
+
+JOR01076 - DIREITOS AUTORAIS E PROPRIEDADE INTELECTUAL
+
+Ementa
+
+Concepcao de Direito, seu papel no Estado Democratico e o Direito a Informacao na sociedade globalizada. Conceito de autoria e suas implicacoes sociais. Legislacao da imprensa no Brasil e em outros paises. Direito de Telecomunicacoes. Significados dos direitos autorais nos produtos de natureza midiatica: livros, artigos, musicas, filmes, pecas publicitarias. Etica nos processos da comunicacao, nocoes de moral e deontologia. Importancia da etica profissional. Introdução à Propriedade Intelectual
+
+Referências
+
+BÁSICA ABRAO, Eliane Y. Direitos de autor e direitos conexos. Sao Paulo: Editora do Brasil, 2002. BARBOSA, D. B. Uma Introducao a Propriedade Intelectual. Rio de Janeiro: Lumen Juris, 2003. FRAGOSO, J. H. R. Direito autoral: da antiguidade a internet. Sao Paulo: Quartier Latin, 2009.
+
+133
+
+COMPLEMENTAR LEMOS, R. Direito, Tecnologia e Cultura. Rio de Janeiro: FGV Editora, 2005. BITTAR, Carlos Alberto. Tutela dos direitos da personalidade e dos direitos autorais nas atividades empresariais. Sao Paulo: Revista dos Tribunais, 1993. LESSIG, L. Cultura Livre: como a grande midia usa a tecnologia e a lei para bloquear a cultura e controlar a criatividade. Sao Paulo: Trama, 2005.
+
+BUCCI, Eugenio. Sobre etica e imprensa. Sao Paulo, Companhia das Letras, 2000. LIMA, C. M; SANTINI, R. M. Copyleft e as licencas do uso de informacao na sociedade da informacao. In: Ci. Inf., vol.37, no.1, Brasilia, Jan./Apr., 2008
+
+JOR01005 - DOCUMENTÁRIO AUDIOVISUAL
+
+Ementa
+
+História do filme documentário. O filme documentário brasileiro:  tendências estéticas e perspectivas. Formatos de Documentários. Roteiro de Documentário. Produção e edição de filme documentário. Produção de Programas especiais para a televisão.
+
+Referências
+
+BÁSICA NICHOLS, Bill. Introdução ao documentário. 5.ed. Campinas, SP: Papirus, 2012 LUCENA, Luis Carlos. Como fazer documentários: conceito, linguagem e prática de produção. São Paulo: Summus, 2012. RABIGER, Michael. Direção de Cinema: Técnicas e Estéticas. Rio de Janeiro: Editora Campus, 2007. Complementar MARQUES, Aída. Idéias em movimento: produzindo e realizando filmes no Brasil. Rio de Janeiro: Rocco, 2007. GODOY, Hélio. Documentário, realidade e semiose: os sistemas audiovisuais como fontes de conhecimento. São Paulo: Annablume: Fapesp, 2001. PRIMO, LANE e CABRAL, SIDARTA (org).PRODUÇÃO AUDIOVISUAL - IMAGEM, SOM E MOVIMENTO. São Paulo: Saraiva, 2014 DA-RIN, Silvio.  Espelho partido: tradição e transformação no documentário.
+
+134
+
+Rio de Janeiro : Azougue, 2004 PENAFRIA, Manuela. O filme documentário: história, identidade, tecnologia. Lisboa: Cosmos, 1999. LABAKI, Amir. É tudo verdade: reflexões sobre a cultura do documentário. São Paulo : Francis, 2005.
+
+JOR01036 - EDUCOMUNICAÇÃO
+
+Ementa
+
+Relações entre comunicação e práticas pedagógicas: conceitos de educomunicador e educomunicação. Noções de pedagogia e didática aplicadas ao ensino de comunicação. A visão comunicacional e educacional de Paulo Freire e Edgar Morin. Noções de Filosofia da Educação. Análise do papel das mídias nos contextos educativos. Educar e comunicar na sociedade da informação: tendências e desafios.
+
+Referências
+
+BIBLIOGRAFIA BÁSICA BRAGA, J. L. e CALAZANS, R. Comunicação e educação: questões delicadas na interface. São Paulo: Hacker, 2001. CITELLI, A; COSTA, C. C. (Orgs). Educomunicação: construindo uma nova área de conhecimento. São Paulo: Paulinas, 2011. SOARES, I. O. Educomunicação: o conceito, o profissional, a aplicação. São Paulo: Paulinas, 2011. BIBLIOGRAFIA COMPLEMENTAR DEMO, P. Educação e conhecimento: relação necessária, insuficiente e controversa. Petrópolis: Vozes: 2005. FREIRE, P. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2005. MARTÍN-BARBERO, J. A comunicação na educação. São Paulo: Contexto, 2014. MORIN, E. Os sete saberes necessários à educação do futuro. São Paulo: Cortez, 2000. NASCIMENTO, R.N.A. Da educação como prática da liberdade à inteligência da complexidade: diálogo de saberes entre Freire e Morin. Artigo. Biblioteca On-line de Ciências da Comunicação. Portugal. 2007.
+
+135
+
+JOR01082 - ESPANHOL INSTRUMENTAL
+
+Ementa
+
+Leitura e compreensão de textos em língua espanhola, com o auxílio de estratégias de leitura. Estrutura gramatical básica da língua espanhola. Ampliação do conhecimento de termos técnicos da área da comunicação social, em língua espanhola, expandindo o vocabulário específico da área do Jornalismo.
+
+Referências
+
+BÁSICA
+
+BAUTISTA, V. Coto. Tema a Tema. Madrid: Edelsa, 2010.
+
+CASTRO, F. Uso de la gramática española: intermediário. Madri: Edelza, Grupo Didasca, 2010. reimp. 2011.
+
+RODRIGUEZ, Maria; RODRIGUEZ, Amparo. Leer en español. SGEL: Madrid, 2004.
+
+COMPLEMENTAR
+
+CALATRAVA, Santiago Robert M. Gramática espanhola. Porto Alegre: Sagra Luzzatto, 1996.
+
+DUEÑAS, Carlos Romero. Gramática del Espanhol lengua extranjera. Madri: Eldesa, 2011.
+
+NARVAJA DE ARNOUX, Elvira. DI STEFANO, Mariana. PEREIRA, Cecilia. La lectura y la escritura en la universidad. Eudeba, 2012.
+
+FERNÁNDEZ, Gretel Eres Fernández. MORENO, Concha. Gramática contrastiva del español para brasileños. SGEL, 2007.
+
+SOLÉ, Isabel. Estrategias de Lectura. Graó: Barcelona, 1995.
+
+136
+
+JOR01041 - ESTÉTICA DA COMUNICAÇÃO
+
+Ementa
+
+Arte, estética e comunicação: conceitos, história e aproximações. Categorias estéticas. Estética, reprodutibilidade técnica e cultura de massa. Estetização da realidade. Informação jornalística, mediação técnica e estética da mercadoria. Leituras e análises estéticas de produções midiáticas.
+
+Referências
+
+BÁSICA BAITELLO JÚNIOR, Norval. A era da iconofagia; reflexões sobre imagem, comunicação, mídia e cultura. São Paulo: Paulus, 2014. MARSHALL, Leandro. O jornalismo na era da publicidade. São Paulo: Sumus, 2003. TOWNSEND, Dabney. Introdução a estética; história, correntes e teorias. São Paulo: Edições 70, 2002. COMPLEMENTAR MUSSE, Christina Ferraz; SILVEIRA JR, Potiguara Mendes da. (Org). Comunicação: redes, jornalismo, estética e memória. Rio de Janeiro: Mauad, 2013. BIEGING, Patrícia; AQUINO, Victor (Org.). Olhares do sensível; experiências e dimensões estéticas em comunicação. São Paulo: Pimenta Cultural, 2014. PERSINA JÚNIOR, Carlos; ALVES, Wedencley. Comunicação digital: jornalismo, narrativas, estética. Rio de Janeiro: Mauad, 2011. GUIMARÃES, César; LEAL, Bruno Souza; MENDONÇA, Carlos Camargos (Org.). Comunicação e experiência estética. Minas Gerais: UFMG, 2007.
+
+JOR01073 - FOLKCOMUNICAÇÃO E CULTURA POPULAR
+
+Ementa
+
+Folkcomunicação. Conceitos, gêneros e formatos. Os estudos pioneiros de Luiz Beltrão. Folkcomunicação, Teoria e Pesquisa. Avanços e tendências metodologicas na contemporaneidade. Folkcomunicação, mídia e cultura popular: os entrelaçamentos necessários.  Temáticas e abordagens folkcomunicacionais na sociedade  midiatizada. Manifestações folkcomunicacionais e desenvolvimento local. Possibilidades pedagógicas e educativas no campo folkcomunicacional. Festas populares no contexto da folkcomunicação e da cultura popular. Rede Folkcom: Gestão e
+
+137
+
+sistematização da pesquisa e da extensão da folkcomunicação no contexto nacional/internacional.
+
+Referências
+
+BÁSICA BELTRÃO, Luiz. Folkcomunicação, a comunicação dos marginalizados. São Paulo: Editora Cortez, 1980. BELTRÃO,Luiz. Folkcomunicação: um estudo dos agentes e dos meios populares de fatos e expressões de ideias. Porto Alegre: Editora da PUC -RS, 2001 MELO, José Marques de Melo. Mídia e Cultura Popular. História, taxinomia e metodologia da folkcomunicação. São Paulo:Paulus,2008 COMPLEMENTAR AYALA,Marcos y Ayla, Maria Ignez.  Cultura Popular no Brasil. Perspectiva de análise. São Paulo: Editora Ática,1987 BELTRÃO, Luiz.  Comunicação e Folclore. São Paulo:Editora Melhoramentos, 1971 BENJAMIN,Roberto. Folkcomunicação no  contexto de massa. João Pessoa: Editora da Universidade Federal da Paraíba,2000 MELO, José Marques de; FERNANDES,Guilherme Moreira.(Organizadores). Metamorfose da Folkcomunicação. Antologia brasileira.São Paulo: EDITAE, 2013 SCHMIDT,Cristina.(organizadora).  Folkcomunicação na arena global. Avanços teóricos e metodologicos. São Paulo: Editora Ductor,2006
+
+271305 - FUNDAMENTOS DA LINGUAGEM MIDIÁTICA
+
+Ementa
+
+Referências
+
+271305 - FUNDAMENTOS DA LINGUAGEM MIDIÁTICA
+
+Ementa
+
+A enunciação no processo de comunicação midiática. Conceitos de discurso. Estudo da subjetividade da linguagem e de suas marcas discursivas, observáveis nos diversos tipos de textos (jornalismo impresso, radiofônico, televisivo, on-line). A construção de sentido na mídia e a modalização do
+
+138
+
+discurso.A enunciação no processo de comunicação midiática. Conceitos de discurso. Estudo da subjetividade da linguagem e de suas marcas discursivas, observáveis nos diversos tipos de textos (jornalismo impresso, radiofônico, televisivo, on-line). A construção de sentido na mídia e a modalização do discurso.
+
+Referências
+
+BAKHTIN, M. Marxismo e filosofia da linguagem: problemas fundamentais do método sociológico na ciência da linguagem. Trad. Michel Lahud e Yara F. Vieira. 8. ed. São Paulo: Hucitec, 1997. ______. Estética da criação verbal. 3. Ed. São Paulo: Martins Fontes, 2000. CHARAUDEAU, P. Discurso das mídias. São Paulo: Contexto, 2006. MAINGUENEAU, D. Análise de textos em comunicação. São Paulo: Cortez, 2001. MIRANDA, L. Pierre Bourdieu e o campo da comunicação. Porto Alegre: EDIPUCRS, 2005. SOARES, I. O. Sociedade da Informação ou da Comunicação? São Paulo: Cidade Nova, 1996. SOUZA SILVA, R.(org). Discursos simbólicos da mídia. São Paulo: Edições Loyola, 2005.
+
+JOR01054 - GEOPOLÍTICA E RELAÇÕES INTERNACIONAIS
+
+Ementa
+
+Noções de geopolítica e relações internacionais. Esfera pública. Ciberpolítica e democracia digital. Contextos geopolíticos e globalização. Política brasileira e regional.
+
+Referências
+
+BÁSICA MARQUES, Francisco Paulo Jamil. Ciberpolítica. - Salvador: EDUFBA, 2016.
+
+139
+
+61 p. : (Coleção Cibercultura. LAB404) TORQUATO. G. Tratado de Comunicação organizacional e política. São Paulo. Pioneira Thomson. 2004 CASTRO, Thales. Teoria das relações internacionais. Curitiba: Íthala, 2014. STEINBERGER, Margarethe Born. Discursos geopolíticos da mídia: jornalismo e imaginário internacional na América Latina. São Paulo: Cortez, 2005. COMPLEMENTAR BATTISTELLA, Dario. Teoria das Relações Internacionais. São Paulo: Senac, 2014.
+
+MELO, José Marques de. Jornalismo Brasileiro. Porto Alegre: Sulina, 2003.
+
+SOUZA, José Carlos Aronchi de. Seja o Primeiro a Saber: A Cnn e a Globalização da Informação. São Paulo: Summus, 2005.
+
+COSTA, Alexandre. Introdução À Nova Ordem Mundial. 2 Ed.  2015 Campinas/SP: Ecclesiae, 2015.
+
+LEVY, Pierre; LEMOS, André. O futuro da internet: em direção a uma ciberdemocracia planetária. São Paulo: Paulus, 2010.
+
+271201 - HISTÓRIA DO JORNALISMO NO BRASIL
+
+Ementa
+
+Referências
+
+SOC01043 - HISTÓRIA E CULTURA AFROBRASILEIRA E INDÍGENA
+
+Ementa
+
+As sociedades indígenas brasileiras. A presença africana no Brasil. Escravidão, trabalho e resistência negra e indígena. As matrizes africana e indígena e suas presenças na cultura brasileira: língua, religião, símbolos, artes, literatura, música, dança, alimentação e demais práticas. Remanescentes indígenas, afrodescendentes e racismo no Brasil.
+
+Referências
+
+140
+
+Básica: GRUPIONI, L. D. Benzi. M all (Orgs.). A temática indígena na escola. 4ª M. São Paulo: Global/MEC/UNESCO, 2004. PINSKY, Jaime. A escravidão no Brasil. São Paulo: Contexto, 2009. SOUZA, Marina de Mello. África e Brasil africano. 2ª edição. São Paulo: Ática, 2007. Complementar: BRAGA, Luciano; MELO, Elisabete. História da África e Afro-Brasileira: em busca de nossas origens. São Paulo: Selo Negro, 2007. . CARNEIRO, Moaci Alves; CARNEIRO, Mª do Socorro S. Uchoa. Brasil Plural. O cidadão negro e o índio como protagonistas de nossa história. Brasília:ABC Cultural, 2012. (As Leis 10.639/03 e 11.645/08 desdobradas em materiais didáticos – 13 Volumes). GONÇALVES, Maria Alice Rezende; RIBEIRO, Ana Paula Alves (Orgs). História e Cultura Africana e Afro-Brasileira na escola. Rio de Janeiro: Outras Letras, 2012. (A Lei 10.639/03 e a Formação de Professores – Volume I). MATTOS, Regiane Augusto. História e cultura Afro-Brasileira. São Paulo: Contexto, 2008. ROCHA, Rosa M. de Carvalho. Almanaque Pedagógico Afro-Brasileiro. Uma proposta de intervenção pedagógica na superação do racismo no cotidiano escolar. 3ª edição. Belo Horizonte: Mazza Edições, 2012. UEHARA, Helena M. Personalidades afro-brasileiras e indígenas. São Paulo: Ideia Escrita, 2008.
+
+JOR01058 - INFOGRAFIA E VISUALIZAÇÃO DE DADOS
+
+Ementa
+
+Contexto da infografia e visualização de dados. Infoestética. Narrativas baseadas em visualização de dados no jornalismo. Infografia em multipltaformas. Infografia na telejornalismo. Desenho de notícias com recursos gráficos.
+
+Referências
+
+BÁSICA BARBOSA, Suzana; FARBIAZ, Alexandre. A estética base de dados e os modos diferenciados para visualização da informação jornalística. In: III Simpósio Nacional ABciber 16, 17 e 18 de Novembro de 2009 - ESPM/SP. Anais eletrônicos...Disponível em: http://www.abciber.com.
+
+141
+
+br/simposio2009/trabalhos/anais/pdf/artigos/5_jornalismo/eix o5_art1.pdf Acesso em: 18 mai 2010. CAIRO, Alberto. El Arte Funcional – Infografía y visualización de informacíon. Alamut, 2011 VESNA, V. (Ed.). Database Aesthetics. Art in the Age of Information Overflow. Minneapolis: University of Minnesota Press, 2007. p. 3-38 COMPLEMENTAR FLUSSER, Vilém. O universo das imagens técnicas: o elogia da superficialidade. São Paulo: Annablume, 2008. HUANG, E. et al. Converged Journalism and Quality: A Case Study of The Tampa Tribune News Stories. In: Convergence, 10(4), 2004. p. 73-91. MACHADO, Elias. O Jornalismo Digital em Base de Dados. Florianopolis: Calandra, 2006. SEIXAS, Lia. Redefinindo os generos jornalisticos. Proposta de novos criterios de classificacao. Portugal: LabCom Books, Colecao Estudos de Comunicacao, 2009. Disponivel em: http://www.livroslabcom.ubi.pt/sinopse/seixas- classificacao- 2009.html. SALAVERRIA, R.; NEGREDO, S. Periodismo Integrado. Convergencia de Medios y Reorganizacion de Redacciones. Barcelona: editorialSol90media, 2008.
+
+LTI01056 - INGLÊS INSTRUMENTAL
+
+Ementa
+
+Introdução à leitura da língua inglesa, através de textos curtos com assuntos variados relacionados à Computação, matemática ou estatística, contendo estrutura e vocabulário básicos, sendo abordados de forma funcional e prática, tendo em vista a compreensão e interpretação. Desenvolvimento e ampliação das estratégias de leitura.
+
+Referências
+
+DUBIN, F. Reading by All Means, Addison Wesley. 1981. Phillipines. YORKEY, R. Study Skills for Students of English as a Second Language.
+
+142
+
+JOR01077 - JORNALISMO AMBIENTAL
+
+Ementa
+
+Importancia da consciencia ambiental para os seres humanos, a sociedade em rede e o planeta. Conceito de desenvolvimento sustentavel aplicado ao jornalismo. O papel do jornalismo como agente social na tomada de consciencia e na difusao dos conhecimentos ambientais. Discussao dos temas fundamentais para uma abordagem sistemica do assunto nos veiculos jornalisticos. Responsabilidade socioambiental como parametro de formacao do jornalista engajado com a preservacao planetaria. Producao de pautas e reportagens que contemplem a problematica ambiental.
+
+Referências
+
+BÁSICA BUENO, Wilson da Costa. Comunicação, jornalismo e meio ambiente: teoria e pesquisa. São Paulo, Marajoara Editorial, 2007. DENCKER, Ada de Freitas Maneti & KUNSCH, Margaria M. Krohling. (org) Comunicacao e meio ambiente. Sao Paulo, Intercom, 1996.
+
+GOLDENBERG, Mirian (coord.). Ecologia, ciencia e politica. Rio de Janeiro, Editora Revan, 1992. COMPLEMENTAR SOUSA, Cidoval M. (org.). Jornalismo científico & desenvolvimento regional: estudos e experiências. Campina Grande: EDUEPB, 2008.
+
+NELSON, Peter. Dez dicas praticas para reportagens sobre o meio ambiente. Brasilia, Centro para jornalistas estrangeiros/WWF, 1994. HOGAN, Daniel Joseph & VIEIRA, Paulo Freire (org). Dilemas socioambientais e desenvolvimento sustentavel. 2a ed.. Campinas, Editora da Unicamp, 1995. RAMOS, Luis Fernando Angerami. Meio ambiente e meios de comunicacao. Sao Paulo, Annablume/FAPESP, 1995. MARQUES DE MELO, José (org). Mídia, Ecologia e Sociedade. São Paulo: Intercom, 2008.
+
+143
+
+JOR01083 - JORNALISMO CULTURAL
+
+Ementa
+
+Cultura em sua diversidade; Identidade Cultural; Cultura popular, cultura de massa e indústria cultural; Cultura e mercado; Panoramas culturais: Local x Global; Gêneros textuais: a nota, a resenha, a reportagem, o perfil, a entrevista, a crítica; O jornalismo especializado em literatura, teatro, cinema, música popular e artes plásticas novas plataformas; O mercado profissional: dos cadernos de cultura, às revistas segmentadas; O jornalismo cultural no rádio, tv e internet; Desafios e perspectivas do jornalismo cultural brasileiro
+
+Referências
+
+Básica
+
+ANJOS, Moacir dos. Local/global: arte em trânsito. Rio de Janeiro: Jorge Zahar, 2005.
+
+BALLERINI, Franthiesco. Jornalismo Cultural no Século 21: a história, as novas plataformas, o ensino e as tendências na prática. São Paulo: Summus Editorial, 2015.
+
+RIOS, Jefferson Del. Teatro, literatura, pessoas. São Paulo: Edições Sesc, 2019.
+
+Complementar
+
+ALBUQUERQUE JÚNIOR, Durval Muniz. A invenção do Nordeste. Recife: Massagana; São Paulo: Cortez, 1999.
+
+AZZOLINO, Adriana Pessatte. Sete propostas para o jornalismo cultural: reflexões e experiências. São Paulo: Miró Editorial, 2009.
+
+BENJAMIN, Walter. A obra de arte na era da sua reprodutibilidade técnica. In: Benjamin e a obra de arte: técnica, imagem, percepção. Rio de Janeiro: Contraponto, 2012.
+
+144
+
+CANCLINI, Néstor Garcia. Culturas híbridas: estratégias para entrar e sair da modernidade. 4. ed. São Paulo: EDUSP, 2003.
+
+HALL, Stuart. A identidade cultural na pós-modernidade. Trad. Tomaz Tadeu da Silva e Guacira Lopes Louro. 10. ed. Rio de Janeiro: DP&A, 2005.
+
+JANOTTI JÚNIOR, Jeder; LIMA, Tatiana Rodrigues; PIRES, Victor de Almeida Nobre. (Orgs.) Dez anos a mil: mídia e música popular massiva em tempos de internet. Porto Alegre: Simplíssimo, 2011.
+
+LEENHARDT, Jacques. Crítica de arte e cultura no mundo contemporâneo. In: MARTINS, Maria Helena. Rumos da crítica. São Paulo: Senac: Itaú Cultural, 2000.
+
+MEDINA, Cremilda. In: LINDOSO, Felipe (Org.). Rumos [do] jornalismo cultural. São Paulo: Summus: Itaú Cultural, 2007.
+
+JOR01044 - JORNALISMO DE MODA
+
+Ementa
+
+Conceitos de moda como comunicação e corpo como mídia. A linguagem da moda. O ciclo da moda e o papel das mídias nesse contexto. A moda ao longo do tempo e sua relação com a sociedade. Jornalismo especializado em moda: história, características e tendências. O papel do editorial de moda. Cobertura de eventos de moda. Fotografia de moda: a grande vitrine das tendências. O jornalismo de moda nos jornais, nas revistas, no rádio, na televisão, nos portais, nos blogs e nas mídias sociais.
+
+Referências
+
+BÁSICA AVELAR, Suzana. Moda, globalização e novas tecnologias. São Paulo: Estação das Letras e Cores, 2009. BARNARD, Malcolm. Moda e Comunicação. Rio de Janeiro: Rocco, 2003. BARTHES, Roland. Sistema da moda. São Paulo: Companhia Editora Nacional, Editora da Universidade de São Paulo, 2005. COMPLEMENTAR CRANE, Diana. A Moda e seu papel social: classe, gênero e identidade das
+
+145
+
+roupas. São Paulo: Senac São Paulo, 2006. DISITZER, Márcia; VIEIRA, Silvia. A moda como ela é: bastidores, criação e profissionalização. Rio de Janeiro: Senac Nacional, 2006. JOFFILY, Ruth. O jornalismo e produção de moda. Rio de Janeiro: Nova Fronteira. 1991 LEITE, Adriana; GUERRA, L. Figurino: uma experiência na televisão. São Paulo: Paz e Terra, 2002. LIPOVETSKY, Gilles. Império do efêmero: a moda e seu destino nas sociedades modernas. São Paulo: Companhia das Letras, 2008.
+
+JOR01068 - JORNALISMO DE REVISTA
+
+Ementa
+
+Estilo na narrativa jornalistica para revistas. Apropriacao de tecnicas literarias. O novo jornalismo e a Revista Realidade. Desafios e perspectivas do jornalismo de revista na sociedade em rede. As novas linguagens baseadas em midias digitais. Analises de revistas nos mais distintos suportes.
+
+Referências
+
+BASICA BOAS, Sergio Vilas. O estilo magazine: o texto em revista. Sao Paulo: Summus, 1996. SCALZO, M. Jornalismo de revista. Sao Paulo: Contexto, 2003. SCHWAAB, R; TAVARES, F. M. B. A revista e seu jornalismo. S ao Jose: Penso, 2013. COMPLEMENTAR NASCIMENTO, P. C. Tecnicas de Redacao em Jornalismo. S ao Paulo: Saraiva, 2009.
+
+WOLFE, Tom. Radical Chique e o Novo Jornalismo. Sao Paulo: Companhia das Letras, 2005.
+
+LIMA, E. P. Paginas Ampliadas : o livro-reportagem como extensao do jornalismo e da literatura. Barueri: Manole, 2004.
+
+MEYER, Philip. Precision jornalism: a reporter s introduction to social science methods. Rowman & Littlefield Publishers, 2002
+
+146
+
+NATANSOHN, Graciela. Jornalismo de revista em redes digitais . Salvador/BA: EDUFBA, 2013
+
+JOR01067 - JORNALISMO E ACESSIBILIDADE
+
+Ementa
+
+Compreensão do conceito acessibilidade e suas produções no jornalismo. Noções dos recursos de acessibilidade (audiodescrição, legenda oculta e janela de Libras). Os compromissos sociedade inclusiva e cidadã. Aplicações de produtos jornalísticos acessíveis no radiojornalismo, telejornalismo, webjornalismo e demais mídias móveis.
+
+Referências
+
+BÁSICA ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 15290/ 2005: Acessibilidade em comunicação na televisão: referência – elaboração. Rio de J a n e i r o , 2 0 0 5 . D i s p o n í v e l e m : http://www.turismo.gov.br/export/sites/default/turismo/o_ministerio/publicacoes/do wnl oads_publicacoes/NBR15290.pdf. Acesso em: 10 ago. 2013. ________. NBR 15.290/2005: Acessibilidade Comunicação na Televisão. Rio de Janeiro: ABNT, 2005b. SIMÓN, Laura Sanz y VIVANCOS, Fernando Vilches, coords. Los nuevos modelos y modos del periodismo. En ‘Comunicación social y accesibilidad’. Ed. Dykinson. Madrid. (2014). COMPLEMENTAR BELARMINO, Joana. Tactilidade e mobilidade: o desafio da acessibilidade nos agregadores de notícia. In: SILVA, Fernando Firmino da (Org.). Transmutações no jornalismo. 1ed. Campina Grande: EDUEPB, 2016. MARTÍN-BARBERO, J. Dos meios às mediações: cultura e hegemonia. Rio de Janeiro: Editora URFJ, 2001. Mídia e deficiência / Veet Vivarta, coordenação. – Brasília: Andi; Fundação Banco do Brasil, 2003. 184 p.; il. color. – (Série Diversidade). Disponível em: http://www.escoladegente.org.br/publicacoes/. SANT’ANNA, L. O que é um display Braille. Jornal Conviva. Ano VII nº 36. SP. Out de 2006. http://www.adeva.org.br/jornalconviva/pdf/36_conviva.pdf . Acesso em: 19 jun. 2013. SASSAKI, R. K. Inclusão, construindo uma sociedade para todos. 7. ed. Rio de Janeiro: WVA, 2006.
+
+147
+
+JOR01042 - JORNALISMO E LITERATURA
+
+Ementa
+
+As relações entre jornalismo e literatura: abordagens históricas. Pontos atinentes e divergentes. O novo jornalismo ou o jornalismo de autor. O livro-reportagem como extensão da literatura  e do jornalismo. Análise e discussão das diversas linguagens que influenciam o jornalismo: prosa literária, poesia, cordel, através dos diferentes dispositivos que as veiculam.
+
+Referências
+
+BÁSICA BARNT, H. A influência da literatura no jornalismo: o folhetim e a crônica. Editora E-Papers: 2002. GALENO, A. Jornalismo e literatura: a sedução da palavra. 2ª ed. São Paulo, Escrituras, 2005. LIMA, E. P. Páginas ampliadas: o livro-reportagem como extensão do jornalismo e da literatura. Barueri: Manole, 2004. COMPLEMENTAR GALVÃO, W. N. As musas sob assédio – literatura e indústria cultural no Brasil. São Paulo, SENAC: 2005. LIMA, A. A. O jornalismo como gênero literário. São Paulo: Com-Arte: Edusp, 1990. MORAES, L. C. Cartas ao editor: leituras da revista Realidade (1966 - 1968). São Paulo: Alameda, 2007. PENA, F. Jornalismo Literário. São Paulo: Coleção Comunicação, Contexto, 2006. WOLFE, T. Radical chique e o Novo Jornalismo. São Paulo: Companhia das Letras, 2005.
+
+JOR01059 - JORNALISMO ECONÔMICO
+
+Ementa
+
+Jornalismo econômico: contexto. Jornalismo econômico no Brasil e no mundo. O noticiário e a contextualização da notícia econômica. A especialização na área econômico. Temas da agenda econômica no jornalismo. Linguagens no jornalismo econômico. A cobertura econômica em diferentes meios.
+
+Referências
+
+148
+
+BÁSICA BASILE, Sidnei. Elementos de jornalismo econômico. 2 ed. Rio de Janeiro: Elsevier, 2011. CALDAS, Suely. Jornalismo econômico. São Paulo: Contexto, 2003. KUCINSKI, Bernardo. Jornalismo econômico. São Paulo: Edusp, 2000. COMPLEMENTAR RESENDE, José Venâncio de. Construtores de jornalismo econômico: da cotação do boi ao congelamento de preços. São Paulo: Icone, 2005. BOAS, Sergio Vilas. Formação & Informação Econômica: Jornalismo para Iniciados e Leigos. São Paulo: Summus, 2006. PULITI, Paula. O juro da notícia: Jornalismo pautado pelo capitalismo financeiro. Florianópolis/SC: Insular, 2013. ANDERSON, C. W.; BEEL, Emily; SHIRKY, Clay. Jornalismo Pós-Industrial – Adaptação aos novos tempo. Revista de Jornalismo ESPM, 2º trimestre, 2013. QUINTÃO, Aylê-Salassié Filgueiras. O Jornalismo Econômico no Brasil depois de 1964. Rio de Janeiro: Agir, 1987.
+
+JOR01057 - JORNALISMO EM BASE DE DADOS
+
+Ementa
+
+Definição de jornalismo em base de dados. Big data. Narrativas baseadas em dados. Estética das bases de dados. Estruturação do jornalismo com dados complexos. Exploração de fontes abertas para estruturação de narrativas.
+
+Referências
+
+BÁSICA BARBOSA, Susana. Jornalismo Digital em Base de Dados (JDBD) – um paradigma para produtos jornalísticos digitais dinâmicos. (Tese de Doutorado). PósCOM/UFBA, 2007. Disponível em: . Acesso em: 4 fev. 2016. GRAY, J.; BOUNEGRU, L.; CHAMBERS, L. (Ed.). The Data Journalism Handbook. How Journalists Can Use Data to Improve the News. Sebastopol: O´Reilly Media, 2012. MACHADO, Elias. O Jornalismo Digital em Base de Dados. Florianópolis: Calandra, 2006. COMPLEMENTAR MEYER, Philip. Precision jornalism: a reporter´s introduction to social
+
+149
+
+science methods. Rowman & Littlefield Publishers, 2002 BARBOSA, Susana. Jornalismo Digital de Terceira Geração. Livros LABCOM, 2007 BOCZKOWSKI, Pablo J. News at Work: Imitation in an Age of Information Abundance. Chicago: The University of Chicago Press, 2010. DIAZ NOCI, Javier; PALACIOS, Marcos. Metodolologia para o estudo dos cibermeios: estado da arte & perspectivas. Salvador: Edufba, 2008. FIDALGO, A. Data Mining e um novo jornalismo de investigacao. In: BARBOSA, S. (Org.). Jornalismo Digital de Terceira Geracao. Colecao Estudos em Comunicacao. Covilha: LabcomBooks, 2007a. p. 143-156.
+
+JOR01050 - JORNALISMO ESPORTIVO
+
+Ementa
+
+Esporte na sociedade brasileira. Especificidades do jornalismo esportivo. Etica no contexto do esporte. Imprensa esportiva nacional e internacional. Desafio da inovacao na cobertura do futebol. Potencial midiatico das demais modalidades esportivas. Planejamento e execucao de coberturas de eventos esportivos.
+
+Referências
+
+BASICA BARBEIRO, Herodoto; RANGEL, Patricia. Manual do jornalismo esportivo . Sao Paulo: Contexto, 2006.
+
+COELHO, P. V. Jornalismo esportivo. Sao Paulo: Contexto, 2003.
+
+UNZELTE, C. Jornalismo esportivo (Vol. 4). Sao Paulo: Saraiva, 2009. COMPLEMENTAR LINHARES, M. Nos bastidores do jornalismo esportivo: a magia da cobertura esportiva mundial. Sao Paulo: Celebris, 2004.
+
+VILAS BOAS, S. Formacao & informacao esportiva: jornalismo para iniciados e leigos. Sao Paulo: Summus, 2005. CHRISTOFOLETTI, R. Etica no jornalismo. Sao Paulo: Contexto, 2008.
+
+STYCER, M. Historia do Lance! Projeto e pratica do jornalismo esportivo. Sao Paulo: Alameda Casa Editorial, 2009.
+
+150
+
+GUTERMAN, M. O futebol explica o Brasil. Sao Paulo: Contexto, 2009.
+
+JOR01048 - JORNALISMO INDEPENDENTE
+
+Ementa
+
+A suposta imparcialidade da mídia. Movimentos sociais e jornalismo. Apropriação das mídias digitais pelos mais diversos atores sociais. Conceitos de Midialivrismo. Modelos de negócio emergentes. Narrativas contra-hegemônicas. Produção de reportagens experimentais.
+
+Referências
+
+BÁSICA CASTELLS, Manuel. Redes de indignação e esperança: Movimentos sociais na era da internet. Rio de Janeiro: Zahar, 2013. MALINI, Fábio; ANTOUN, Henrique. A internet e a rua: ciberativismo e mobilização nas redes sociais. Porto Alegre: Sulina, 2013. LORENZOTTI, Elizabeth. Jornalismo Século XXI: O modelo #mídia Ninja. E- Galáxia (e-book), 2014. COMPLEMENTAR BARBALHO, Alexandre; FUSER, Bruno; COGO, Denise (Org.). Comunicação Para a Cidadania: Temas e Aportes Teórico-Metodológicos. São Paulo: Intercom, 2010. DOWNING, John, D. H. Mídia radical: rebeldia nas comunicações e movimentos sociais. São Paulo: Editora Senac, 2002 GOHN, Maria da Glória. Teoria dos movimentos sociais: Paradigmas clássicos e contemporâneos. 6. ed. São Paulo: Edições Loyola, 2007. LIMA, Elizabeth Christina de Andrade (Org.). Interseções entre Política, Mídia e Tecnologia: Novos dizeres, novos saberes. Campina Grande: EDUFCG, 2014. SOUSA, Cidoval Morais de; SOUZA, Arão de Azevêdo. (org.). Jornadas de junho: repercussões e leituras. [Livro eletrônico].Campina Grande: EDUEPB, 2013.
+
+151
+
+JOR01056 - JORNALISMO MÓVEL
+
+Ementa
+
+Historiciza a relação jornalismo e mobilidade. Conceito de mobilidade. Panororama das comunicações móveis. Filosofia das tecnologias móveis digitais. Jornalismo móvel na produção e consumo. Práticas de jornalismo móvel. Realidade Virtual imersiva. Produção para tablets, smartphones, relógios inteligentes e plataformas emergentes.
+
+Referências
+
+BÁSICA SILVA, Fernando Firmino da. Jornalismo móvel. Salvador: EDUFBA, 2015. CANAVILHAS, João (Org.). Notícias e mobilidade: o jornalismo na era dos dispositivos móveis. Covilhã: Livros LabCom, 2013. Disponível em: . Acesso em: 4 abr. 2013. CASTELLS, Manuel et al. Comunicación móvil y sociedad. Barcelona: Ariel - Fundación Telefónica, 2006. COMPLEMENTAR BARBOSA, Suzana. Convergencia jornalistica em curso: as iniciativas para integracao de redacoes no Brasil. In: RODRIGUES, Carla (Org.). Jornalismo On- line: modos de fazer. Rio de Janeiro: Ed.PUC-Rio: Sulina, 2009. p. 35-55. LEMOS, André. A comunicação das coisas: teoria ator-rede e cibercultura. São Paulo: Annablume, 2013. MALINI, Fábio; ANTOUN, Henrique. @ Internet e #rua: ciberativismo e mobilização nas redes sociais. Porto Alegre: Sulina, 2013. SANTAELLA, Lucia. Linguagens líquidas na era da mobilidade. São Paulo: Paulus, 2007 FIDLER, Roger. Mediamorphosis: understanding new media. California: Pine Forge Press, 1997.
+
+JOR01043 - LABORATÓRIO DE JORNALISMO CONVERGENTE
+
+Ementa
+
+O processo de convergência. Produção jornalística para multiplataformas. Diferentes formatos e linguagens. Narrativas convergentes. Produtos transmidiáticos. Fluxo de produção para diferentes plataformas.
+
+Referências
+
+152
+
+BÁSICA SALAVERRÍA, Ramon; NEGREDO, Samuel. Periodismo integrado: convergência de medios y reorganización de redacciones. Barcelona: Sol90Media, 2008. LONGHI, Raquel; Carlos d‘ANDRÉA (org.). Jornalismo Convergente: reflexões, apropriações, experiências. Florianópolis: Insular, 2012. LÓPEZ, Xosé García. Convergencia digital: reconfiguración de los medios de comunicación en España. Santiago de Compostela: USC, 2010. COMPLEMENTAR DEUZE, Mark. Media Work (Digital Media and Society Series). Cambridge-UK: Polity Press, 2008. SOSTER, Demétrio de Azeredo, LIMA JUNIOR, Walter Teixeira. Jornalismo digital: audiovisual, convergência e colaboração. Edunisc: Santa Cruz do Sul, 2011. BRONOSKY, Marcelo Engel; CARVALHO, Juliano Maurício de. Jornalismo e convergência. São Paulo: Cultura Acadêmica, 2014. CHRISTOFOLETTI, Rogério (org.). Questões para um jornalismo em crise. Florianópolis: Insular, 2015. MOTA, Célia Ladeira; MOTTA, Luiz Gonzaga; CUNHA, Maria Jandyra. Narrativas Midiáticas. Florianópolis: Insular, 2012.
+
+271104 - LEITURA E PRODUÇÃO DE TEXTOS
+
+Ementa
+
+Referências
+
+JOR01055 - MÉTODOS DE PESQUISA EM MÍDIAS DIGITAIS
+
+Ementa
+
+Perspectivas de abordagem de novos métodos. Teoria da Mídia Digital. Netnografia. Métodos móveis. Pesquisa de Redes Sociais na Internet. Interações mediadas. Jornalismo em bases de dados.
+
+Referências
+
+BÁSICA AMARAL, Adriana; FRAGOSO, Suely; RECUERO, Raquel. Métodos de pesquisa para internet. Porto Alegre: Sulina, 2011.
+
+153
+
+RECUERO, Raquel. A conversação em rede: comunicação mediada por computador e redes sociais na Internet. Porto Alegre: Sulina, 2012. RECUERO, Raquel; BASTOS, Marco; ZAGO, Gabriela. Análises de Redes Para Mídia Social. Porto Alegre: Sulina, 2015. (Col. Cibercultura) COMPLEMENTAR MARQUES, Francisco Paulo Jamil. Ciberpolítica. Salvador: EDUFBA, 2016. PRIMO, Alex. Interações mediadas e remediadas: controvérsias entre as utopias da cibercultura e a grande indústria midiática. In: PRIMO, Alex (Org.). Interações em rede. Porto Alegre: Sulina, 2013. TORQUATO. G. Tratado de Comunicação organizacional e política. São Paulo. Pioneira Thomson. 2004. MACHADO, Elias. O Jornalismo Digital em Base de Dados. Florianópolis: Calandra, 2006. HINE, Christine. Virtual Ethnography. London: Sage, 2000.
+
+JOR01064 - MÍDIA  E RELIGIÃO
+
+Ementa
+
+Novos modos de pensar a religião e as religiosidades. Conceitos e processos de mediação e midiatização. O sagrado midiático: o papel da mídia na disseminação de diferentes sentidos religiosos. Religião online: estudos das possibilidades dialógicas da religião na ambiência da cibercultura mediante sites, portais e aplicativos. A religiosidade no âmbito da ficção: teledramaturgia e cinema. Práticas religiosas, estigmas e silenciamentos midiáticos. Apropriações das mídias pelas instituições e pelos novos movimentos religiosos (NMR). Mídia religiosa especializada. Revisão bibliográfica dos estudos de religião, religiosidades e comunicação na sociedade contemporânea.
+
+Referências
+
+BÁSICA GASPARETTO, Paulo Roque. Midiatização da religião: processos midiáticos e a construção de novas comunidades de pertencimento. São Paulo: Paulinas, 2013. MARANHÃO FILHO, Eduardo Meinberg de Albuquerque (Org). Religiões e religiosidades no (do) ciberespaço. São Paulo: Fonte editorial, 2015. MATTOS, Maria Ângela; JANOTTI JUNIOR, Jeder; JACKS, Nilda (Orgs). Mediação e midiatização. Salvador: EDUFBA, 2012.
+
+154
+
+COMPLEMENTAR: ASSIS, Ângelo Adriano Faria de; PEREIRA, Mabel Salgado (Orgs). Religiões e religiosidades: entre a tradição e a modernidade. São Paulo: Paulinas, 2015. GOMES, Pedro Gilberto. Da igreja eletrônica à sociedade em midiatização. São Paulo: Paulinas, 2014. MARANHÃO FILHO, Eduardo Meinberg de Albuquerque (Org). Religiões e religiosidades em (com) textos. São Paulo: Fonte editorial, 2013. MOREIRA, Alberto da Silva; OLIVEIRA, Irene Dias de (Orgs). O futuro da religião na sociedade global: uma perspectiva multicultural. São Paulo: Paulinas: 2013. SILVEIRA, Emerson Sena da; AVELLAR, Valter (Orgs). Espiritualidade e sagrado no mundo cibernético. São Paulo: Edições Loyola, 2014.
+
+JOR01062 - MÍDIA E POLÍTICA
+
+Ementa
+
+As relações entre o campo da comunicação e a política. Imprensa, Estado e Sociedade Civil. O conceito de opinião pública. Os meios de comunicação de massa como cenário da disputa política. As relações conceituais entre poder simbólico, capital político e capital social.  Os processos de espetacularização da política. O Marketing Político. Mídia e processos eleitorais no Brasil. A construção performática de personagens políticos. O cotidiano da política: perspectiva antropológica. Estratégias e táticas de mobilização e engajamento no contexto das mídias sociais. Internet e participação politica: E-government, transparência e mecanismos controle social.
+
+Referências
+
+BÁSICA BOURDIEU, P. O poder simbólico. Tradução de Tradução de Fernando Tomáz. Rio de Janeiro: Bertrand Brasil, 2010. GOMES, Wilson. Transformações da Política na era da Comunicação de Massa. São Paulo: Paulus, 2004. KUNTZ, Ronald. Marketing Político: Manual de campanha eleitoral. São Paulo: Global, 2006. COMPLEMENTAR BARREIRA, I. Chuva de Papéis: Ritos e símbolos de campanhas eleitorais
+
+155
+
+no Brasil. Rio de Janeiro: Relume Dumará, 1998. BALANDIER, G. O Poder em Cena. Tradução de Luiz Tupy Caldas de Moura. Brasília-DF: Editora Universidade de Brasília, 1982. MARQUES, F; SAMPAIO, R; AGGIO, C. (Orgs.). Do Clique à Urna: internet, redes sociais e eleições no Brasil. Salvador: Edufba, 2013. KUSCHNIR, K. Antropologia da Política. Rio de Janeiro: Jorge Zahar Editor, 2007. GOMES, Wilson; MAIA, Rousiley; MARQUES, Francisco (org.). Internet e Participação Política no Brasil. Porto Alegre: Sulina, 2011.
+
+JOR01066 - MÚSICA, IDENTIDADE E CULTURA
+
+Ementa
+
+A música em suas interações comunicativas; Música, identidade e multiculturalismo; Hibridismo cultural e diversidade na experiência musical contemporânea; Articulações e tensões na construção de identidades e territorialidades; A música enquanto elemento constitutivo da identidade cultural do Nordeste brasileiro; A indústria da música num contexto de rápidas mudanças.
+
+Referências
+
+BÁSICA ANJOS, Moacir dos. Local/global: arte em trânsito. Rio de Janeiro: Jorge Zahar, 2005. FRITH, Simon. La industria de la música popular. In: FRITH, Simon et al. (orgs.). La otra historia del Rock. Barcelona: Ediciones Robinbook. 2006. p. 53-86. JANOTTI JÚNIOR, Jeder. Aumenta que isso aí é Rock and Roll: mídia, gênero musical e identidade. Rio de Janeiro: E-Papers Serviços Editoriais, 2003. COMPLEMENTAR ALBUQUERQUE JÚNIOR, Durval Muniz. A invenção do Nordeste. Recife: Massagana; São Paulo: Cortez, 1999. BENJAMIN, Walter. A obra de arte na era da sua reprodutibilidade técnica. In: Benjamin e a obra de arte: técnica, imagem, percepção. Rio de Janeiro: Contraponto, 2012. CANCLINI, Néstor Garcia. Culturas híbridas: estratégias para entrar e sair
+
+156
+
+da modernidade. 4. ed. São Paulo: EDUSP, 2003. FREIRE FILHO, João; JANOTTI JÚNIOR, Jeder. (Orgs.) Comunicação e música popular massiva. Salvador: Edufba, 2006. JANOTTI JÚNIOR, Jeder; LIMA, Tatiana Rodrigues; PIRES, Victor de Almeida Nobre. (Orgs.) Dez anos a mil: mídia e música popular massiva em tempos de internet. Porto Alegre: Simplíssimo, 2011.
+
+JOR01061 - OFICINAS AVANÇADAS EM INFORMÁTICA APLICADA AO
+
+Ementa
+
+A importância da informática aplicada à comunicação. Noções básicas de computação gráfica. Utilização dos principais softwares aplicados à produção de conteúdos jornalísticos nas áreas do jornalismo impresso, televisivo, radiofônico e de aplicativos para desenvolvimento de páginas na web e para dispositivos portáteis.
+
+Referências
+
+BÁSICA SCHWEIZER, Bobby; FERRARI, Simon; BOGOST, Ian. Newsgames: journalism at play. London: The MIT Press, 2010. BEAIRD, Jason. Princípios do web design maravilhoso. Rio de Janeiro: Alta Books, 2012. FREEMAN, Michael. A Narrativa Fotográfica. Porto Alegre: Bookman Companhia, 2014. COMPLEMENTAR VESNA, V. (Ed.). Database Aesthetics. Art in the Age of Information Overflow. Minneapolis: University of Minnesota Press, 200 BARBOSA, Susana. Jornalismo Digital de Terceira Geração. Portugal: Livros LABCOM, 2007. RECUERO, Raquel. A conversação em rede: comunicação mediada por computador e redes sociais na Internet. Porto Alegre: Sulina, 2012. PRATA, Nair. Webradio: novos gêneros, novas formas de interação. 2. ed. Florianópolis: Insular, 2012. CANNITO, Newton. A televisão na era digital: interatividade, convergência e novos modelos de negócio. São Paulo: Summus, 2010.
+
+157
+
+JOR01038 - PENSAMENTO CONTEMPORÂNEO
+
+Ementa
+
+Os paradigmas do saber científico. Modernidade e pós-modernidade. Objetividade e subjetividade da ciência. O lugar da ciência e da tecnologia na sociedade contemporânea. O fazer científico e a comunicação.
+
+Referências
+
+BIBLIOGRAFIA BÁSICA BERMAN, M. Tudo que é sólido se desmancha no ar: a aventura da modernidade. São Paulo: Companhia das letras, 1986. DAMÁSIO, A. O erro de Descartes: emoção, razão e cérebro humano. São Paulo: Companhia das Letras, 2006. HALL, S. A identidade cultural na pós-modernidade. Trad. Tomaz Tadeu da Silva e Guacira Lopes Louro. 7.ed. Rio de Janeiro: DP&A, 2002. BIBLIOGRAFIA COMPLEMENTAR HABERMAS, J. Racionalidade e comunicação. Lisboa: Edições 70, 2005. KUMAR, K. Da sociedade Pós-industrial à pós-moderna: novas teorias sobre o mundo contemporâneo. Rio de Janeiro: Zahar, 1997. LEVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática. Trad. Carlos Irineu da Costa. Rio de Janeiro: Editora 34, 1993. MELO, J. M (Org.). O Campo da Comunicação no Brasil. Petrópolis: Vozes, 2007.
+
+271502 - PESQUISA EM COMUNICAÇÃO
+
+Ementa
+
+Referências
+
+272013 - PRÁTICA DE PRODUÇÃO JORNALÍSTICA
+
+Ementa
+
+Referências
+
+158
+
+271016 - PROGRAMAÇÃO VISUAL
+
+Ementa
+
+Referências
+
+JOR01078 - PSICOLOGIA DA COMUNICAÇÃO
+
+Ementa
+
+Introducao a psicologia social aplicada a comunicacao, a partir do estudo dos conceitos fundamentais das teorias psicologicas que estudam o ser humano. Identidade e comunicacao no cenario pos-moderno. O papel da comunicacao no desenvolvimento cognitivo: infancia, juventude, terceira idade. Individualismo contemporaneo como ameaca a comunicacao. Analises de temas sociais e culturais que influenciam os grupos e individuos na constituicao de suas subjetividades e comportamentos.
+
+Referências
+
+BÁSICA HALL, Stuart. A identidade Cultural na Pos-modernidade. RJ: DP&A Editora, 2000. LIPOVETSKY, Gilles: A Era do Vazio: ensaios sobre o Individualismo Contemporaneo. Paris: Gallimard, 2000.
+
+LANE, Silvia & SAWAIA, Baber (orgs). Novas Veredas da Psicologia Social. Sao Paulo: Brasiliense/EDUC, 2002. SEVERIANO, Maria. F. V. Narcisismo e publicidade: uma analise psicossocial dos ideais do consumo na contemporaneidade. Sao Paulo: Annablume, 2001. COMPLEMENTAR VYGOTSKY, L. S. A formacao social da mente. Sao Paulo, Livraria Martins Fontes, 1999. CHAUI, M. Simulacro e poder: uma analise da midia. Sao Paulo: Editora Fundacao Perseu Abramo, 2006. COSTA, Caio Túlio. Ética, jornalismo e uma nova mídia: uma moral provisória. Rio de Janeiro: Jorge Zahar, 2009 SANTAELLA, L. Matrizes da Linguagem e pensamento : sonora, visual, verbal. Sao Paulo: Iluminuras, 2006. SOUZA SILVA, R.(org). Discursos simbolicos da midia. S ao Paulo: Edicoes
+
+159
+
+Loyola, 2005.
+
+271207 - REALIDADE REGIONAL
+
+Ementa
+
+Referências
+
+271207 - REALIDADE REGIONAL
+
+Ementa
+
+As transformações contemporâneas da sociedade brasileira, suas múltiplas e complexas determinações históricas. O rural e o urbano na sociedade nordestina. Padrões de produção, distribuição e consumo de mensagens em nível local e regional. Fatores sociais, econômicos e políticos que os influenciam. Estrutura da comunicação em nível regional.As transformações contemporâneas da sociedade brasileira, suas múltiplas e complexas determinações históricas. O rural e o urbano na sociedade nordestina. Padrões de produção, distribuição e consumo de mensagens em nível local e regional. Fatores sociais, econômicos e políticos que os influenciam. Estrutura da comunicação em nível regional.
+
+Referências
+
+ALBUQUERQUE JÚNIOR, D. M. A invenção do Nordeste e outras artes. São Paulo: Cortez, 1999. CASTELLS, M. A sociedade em rede - a era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 2000. FREYRE, G. Nordeste. 6. Ed. Rio de Janeiro: Record, 1989.IANNI, O. Teorias da globalização. Rio de Janeiro: Civilização Brasileira, 1999. MAMEDE, M. A. B. A construção do nordeste pela mídia. Fortaleza: Imprensa oficial do Ceará, 1996. ORTIZ, R. Mundialização e cultura. São Paulo: Brasiliense, 1994. ZAIDAN FILHO, M. O fim do Nordeste & outros mitos. 2. ed. São Paulo:
+
+160
+
+Cortez, 2003.
+
+JOR01045 - SEMINÁRIO DE JORNALISMO ESPECIALIZADO
+
+Ementa
+
+Conceitos de jornalismo especializado. A interface com outros saberes, as novas demandas sociais. Os atores do fazer jornalístico, a permuta de experiências. Jornalismo especializado e as tendências de mercado: a diversidade de práticas e a pluralidade de cenários. Modelos de jornalismo especializado.
+
+Referências
+
+BÁSICA CALDAS, S.. Jornalismo econômico. São Paulo: Contexto, 2006. FUCCIA, E. Reportagem policial: um jornalismo peculiar. São Paulo: Empório do Livro, 2007. FORTES, Leandro. Jornalismo investigativo. São Paulo: Contexto, 2005. COMPLEMENTAR BARBEIRO, H; RANGEL, P. Manual do jornalismo esportivo. São Paulo: Contexto, 2006. SEQUEIRA, C. M. Jornalismo investigativo: o fato por trás da notícias. São Paulo: Summus, 2005. MARTINS, F. (org). Jornalismo político. São Paulo: Contexto, 2003. ROLLEMBERG, M. Papel jornal: artigos de jornalismo cultural. São Paulo: Ateliê, 2007. SOUSA, V.; SEABRA, R. Jornalismo político.  São Paulo: Record, 2006.
+
+JOR01072 - SEMINÁRIO DE JORNALISMO ESPECIALIZADO II
+
+Ementa
+
+Conceitos de jornalismo especializado. A interface com outros saberes, as novas demandas sociais. Os atores do fazer jornalístico, a permuta de experiências. Jornalismo especializado e as tendências de mercado: a diversidade de práticas e a pluralidade de cenários. Modelos de jornalismo especializado.
+
+161
+
+Referências
+
+BÁSICA CALDAS, S.. Jornalismo econômico. São Paulo: Contexto, 2006. FUCCIA, E. Reportagem policial: um jornalismo peculiar. São Paulo: Empório do Livro, 2007. FORTES, Leandro. Jornalismo investigativo. São Paulo: Contexto, 2005. COMPLEMENTAR BARBEIRO, H; RANGEL, P. Manual do jornalismo esportivo. São Paulo: Contexto, 2006. SEQUEIRA, C. M. Jornalismo investigativo: o fato por trás da notícias. São Paulo: Summus, 2005. MARTINS, F. (org). Jornalismo político. São Paulo: Contexto, 2003. ROLLEMBERG, M. Papel jornal: artigos de jornalismo cultural. São Paulo: Ateliê, 2007. SOUSA, V.; SEABRA, R. Jornalismo político.  São Paulo: Record, 2006.
+
+271703 - SEMINÁRIOS DE JORNALISMO ESPECIALIZADO
+
+Ementa
+
+Referências
+
+271404 - SISTEMAS DE COMUNICAÇÃO
+
+Ementa
+
+Referências
+
+271204 - TEORIA DA COMUNICAÇÃO II
+
+Ementa
+
+Referências
+
+162
+
+JOR01070 - TÓPICOS ESPECIAIS EM JORNALISMO I
+
+Ementa
+
+Espaço flexível às ofertas ocasionais de cursos equivalentes a componentes eletivos, avaliados como pertinentes ao departamento pelo colegiado de curso.
+
+Referências
+
+CHRISTOFOLETTI, R. Ética no jornalismo. São Paulo: Contexto, 2008. LIMA, E. P. Páginas ampliadas: o livro-reportagem como extensão do jornalismo e da literatura. Barueri: Manole, 2004. MELO, J. M (Org.). O Campo da Comunicação no Brasil. Petrópolis: Vozes, 2007.
+
+JOR01071 - TÓPICOS ESPECIAIS EM JORNALISMO II
+
+Ementa
+
+Espaço flexível às ofertas ocasionais de cursos equivalentes a componentes eletivos, avaliados como pertinentes ao departamento pelo colegiado de curso.
+
+Referências
+
+CHRISTOFOLETTI, R. Ética no jornalismo. São Paulo: Contexto, 2008. LIMA, E. P. Páginas ampliadas: o livro-reportagem como extensão do jornalismo e da literatura. Barueri: Manole, 2004. MELO, J. M (Org.). O Campo da Comunicação no Brasil. Petrópolis: Vozes, 2007.
+
+163
+
+\15. REFERÊNCIAS
+
+APPLE, M. W. Ideologia e currículo. São Paulo: Brasiliense, 1982. ASSIS, C. L
+
+Vivências com a escrita de textos em cursos de jornalismo: das proposituras
+
+curriculares às interações em sala de aula. Tese (Doutorado em Ciências da
+
+Comunicação) São Paulo: Universidade de São Paulo, 2006.
+
+B R A S I L . “ D i r e t r i z e s c u r r i c u l a r e s p a r a c u r s o s d e g r a d u a ç ã o ” .
+
+< w w w . m e c . g o v . b r / d i r e t r i z e s > . A c e s s o e m 2 4 / 0 8 / 2 0 1 3 .
+
+CARNEIRO, M. A. LDB fácil: leitura crítico-compreensiva artigo a artigo. Petrópolis-
+
+RJ: Vozes, 1998.
+
+COSTA, M.E.B. “Grupo focal”. IN: DUARTE, J.; BARROS, A.(orgs.). Métodos e
+
+técnicas de pesquisa em comunicação. São Paulo: Atlas, 2005.
+
+DEMO, P. Desafios modernos da educação. Petrópolis: Vozes, 2000.
+
+GENRO FILHO, A. O segredo da pirâmide: por uma teoria marxista do jornalismo.
+
+Porto Alegre: Ortiz, 1989.
+
+KOSHIYAMA, A. M. “O ensino de jornalismo e o lugar das escolas”. IN: KUNSCH,
+
+M.M.K. (org). Comunicação e educação: caminhos cruzados. São Paulo: Loyola,
+
+\1986. p. 247-259.
+
+LAURENTI, M. E. A. Liberdade curricular nos cursos de jornalismo: a
+
+responsabilidade e o desafio na formação profissional. Tese (Doutorado em Ciências
+
+da Comunicação). Escola de Comunicações e Artes da Universidade de São Paulo.
+
+São Paulo, 2002.
+
+MEDITSCH, E. O conhecimento do jornalismo. Florianópolis: Ed. UFSC, 1992a.
+
+______. “Adeus, CIESPAL: ruptura brasileira no ensino de jornalismo”. In: KUNSCH,
+
+M.M.K. (org) O ensino de comunicação: análises, tendências e perspectivas.
+
+São Paulo: ABECOM/ECA-USP/FELAFACS, 1992b. p. 198-206.
+
+MORIN, E. A religação dos saberes: o desafio do século XXI. São Paulo: Bertrand
+
+Brasil, 2001.
+
+______. A cabeça bem-feita: repensar a reforma, reformar o pensamento. Rio de
+
+janeiro: Bertrand Brasil, 2003.
+
+______. Os sete saberes necessários à educação do futuro. São Paulo: 147
+
+164
+
+Cortez, 2002.
+
+MOURA, C.P. O curso de comunicação social no Brasil: do currículo mínimo às
+
+novas diretrizes curriculares. Porto Alegre: Editora PUC-RS, 2002.
+
+NASCIMENTO, R.N.A. A complexidade como matriz de uma nova ecologia
+
+cognitiva. Tese (Doutorado em Educação). Universidade Federal da Paraíba. João
+
+Pessoa, 2007.
+
+PINTO, M. J. Comunicação e discurso. São Paulo: Hacker Editores, 2003. Projeto
+
+Político Pedagógico do Curso de Comunicação Social. Campina Grande, 2010.
+
+RAMADAN, N. N. A. Jornalismo na era digital: construindo uma filosofia de ensino.
+
+Tese (Doutorado em Ciências da Comunicação) Escola de Comunicações e Artes da
+
+Universidade de São Paulo. São Paulo, 2000.
+
+RAVAZZOLO, A; LUCHT, J. M. P. A aprendizagem baseada em problemas no
+
+ensino de jornalismo. In:XXXVIII Congresso Brasileiro de Ciências da Comunicação.
+
+Trabalho apresentado no GP Comunicação e Educação do XV
+
+Encontro dos Grupos de Pesquisa em Comunicação, evento componente do XXXVIII
+
+Congresso Brasileiro de Ciências da Comunicação. De 4 a 7 de setembro, 20015,
+
+Rio de Janeiro-RJ.
+
+RÜDIGER, F. Ciência social crítica e pesquisa em comunicação: Trajetória histórica
+
+e elementos de epistemologia. São Leopoldo: Unisinos, 2003.
+
+SANT’ANNA F. M. et. al. Planejamento de ensino e avaliação. Porto Alegre: Sagra /
+
+DC Luzzatto, 1995.
+
+SANTOS, B. S. Introdução a uma ciência pós-moderna. Rio de Janeiro: Graal, 1989.
+
+SERRA, A.A. “O novo currículo de comunicação”. In: Kunsch, M.M.K. (org)
+
+Comunicação e educação: caminhos cruzados. São Paulo: Ed. Loyola, 1986. p. 227-
+
+233.
+
+SILVA, L. C; BRITO, J. D. S; COSTA, T. J (Org.). Relatório da Avaliação do Docente
+
+pelo Discente nos Cursos de Graduação da UEPB (2011.1 E 2011.2). Campina
+
+Grande: EDUEPB, 2014.
+
+VASCONCELOS, C.S. Planejamento: projeto de ensino-aprendizagem e projeto
+
+político pedagógico – elementos metodológicos para elaboração e
+
+165
+
+realização. São Paulo: Libertad editora, 2004.
+
+166
+
+\16. CORPO DOCENTE
+
+NOME: ADA KESEA GUEDES BEZERRA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/3758878371663831
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+2003,
+
+Mestrado em Mestrado em Sociologia na UFPB no ano de 2006,
+
+Doutorado em Doutorado em Ciências Sociais na UFCG no ano de 2011
+
+NOME: AGDA PATRICIA PONTES DE AQUINO
+
+Admissão: Status: Exonerado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/1754382039697071
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social - Jornalismo. na UFPB no ano
+
+de 2001,
+
+Especialização em Especialização em Redação Jornalística na UNIP no ano de
+
+2009,
+
+Mestrado em Estudos da Mídia na UFRN no ano de 2011
+
+NOME: ANTONIO ROBERTO FAUSTINO DA COSTA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/7402346165525365
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UFPB no ano de
+
+1988,
+
+Mestrado em Mestrado em Biblioteconomia. na UFPB no ano de 1994,
+
+Doutorado em Doutorado em Educação na UFPB no ano de 2012
+
+167
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+NOME: ANTONIO SIMES MENEZES
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/0036094469253959
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UFC no ano de
+
+2001,
+
+Especialização em Assessoria de Comunicação na Unifor no ano de 2005,
+
+Mestrado em Mestrado em Comunicação. na UFC no ano de 2010,
+
+Doutorado em Ciências Sociais na UFCG no ano de 2016
+
+NOME: ARÉO DE AZEVäDO SOUZA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/0039088369785518
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão Sim
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+2001,
+
+Especialização em Especialização em Jornalismo Cultural na FIP no ano de 2003,
+
+Mestrado em Mestrado em Literatura e Interculturalidade na UEPB no ano de 2009
+
+NOME: CASSIA LOBAO ASSIS
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+1987,
+
+Mestrado em Comunicação e Cultura Contemporânea na ufba no ano de 1998,
+
+Doutorado em Ciências da Comunicação na usp no ano de 2005
+
+168
+
+Lattes: http://lattes.cnpq.br/3118233868976623
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+NOME: FERNANDO FIRMINO DA SILVA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/1095395084173623
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+1999,
+
+Mestrado em Mestrado em Ciência da Informação na UFPB no ano de 2003,
+
+Doutorado em Comunicação e Cultura Contemporânea na UFBA no ano de 2013
+
+NOME: GORETTI MARIA SAMPAIO DE FREITAS
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/5216811675541316
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na uepb no ano de
+
+1980,
+
+Mestrado em Ciências da Sociedade. na UFPB no ano de 2000,
+
+Doutorado em Sociologia na UFCG no ano de 2010
+
+NOME: INGRID FARIAS FECHINE
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/9005885556566471
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Comunicação Social/Jornalismo na uepb no ano de 1999, Mestrado em Mestrado em Educação na ufpb no ano de 2004, Doutorado em Doutorado em Linguística na UFPB no ano de 2010
+
+169
+
+NOME: LUIS ADRIANO MENDES COSTA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/5756242240346822
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+2004,
+
+Mestrado em Literatura e Interculturalidade. na uepb no ano de 2007,
+
+Doutorado em Literatura e Interculturalidade na uepb no ano de 2015
+
+NOME: LUIZ CUSTODIO DA SILVA
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/4218432912255127
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em http://lattes.cnpq.br/4218432912255127 na unicap no ano de 1974,
+
+Mestrado em Administração Rural e Comunicação Rural. na UFRPE no ano de
+
+1983,
+
+Doutorado em Ciências da Comunicação na USP no ano de 1991
+
+NOME: MARIA DE FATIMA CAVALCANTE LUNA
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/9315205947145704
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+1980,
+
+Especialização em Especialização em Comunicação Educacional na uepb no ano
+
+de 1994,
+
+Mestrado em Mestrado Interdisciplinar Em Ciências da Sociedade na UEPB no ano
+
+de 2003
+
+170
+
+NOME: MARIA DO SOCORRO TOMAZ PALIT DOS SANTOS
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/7836241033377011
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na uepb no ano de
+
+1985,
+
+Mestrado em em Ciências da Sociedade na ufpb no ano de 1999,
+
+Doutorado em Comunicação Audivisual. na Universidad de Salamanca, USAL,
+
+Espanha no ano de 2015
+
+NOME: MASSILON GONZAGA DE LUNA
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/5537827560582869
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em comunicação social na UEPB no ano de 1985
+
+NOME: MOISES DE ARAUJO SILVA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/5088029082462400
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+1995,
+
+Mestrado em Letras e Lingüística na UFAL no ano de 2003,
+
+Doutorado em Letras na UFPB no ano de 2007
+
+171
+
+NOME: ORLANDO ANGELO DA SILVA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/1133839134804697
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na urne no ano de
+
+1982,
+
+Especialização em Comunicação Educacional na uepb no ano de 2002,
+
+Mestrado em Mestrado em Ciências da Sociedade na uepb no ano de 2007
+
+NOME: RAIMUNDO CAVALCANTE RODRIGUES
+
+Admissão: Status: Aposentado Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/6523026037457097
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na urne no ano de
+
+1977,
+
+Especialização em Especialização em Administração Rural e Comunicação Rural
+
+na ufrpe no ano de 1992,
+
+Mestrado em Ciências da Sociedade na uepb no ano de 2007
+
+NOME: ROBERIA NADIA ARAUJO NASCIMENTO
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/9966633992626905
+
+Pesquisa: Sim Extensão:Sim Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+1986,
+
+Mestrado em Ciência da Informação na UFPB no ano de 2001,
+
+Doutorado em Educação na UFPB no ano de 2007
+
+172
+
+NOME: RMULO FERREIRA DE AZEVäDO FILHO
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/1070320381035559
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Direito na uepb no ano de 1978, Mestrado em Mestrado em andamento em Desenvolvimento Regional na uepb no ano de 2016
+
+NOME: ROSTAND DE ALBUQUERQUE MLO
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/4472013919602082
+
+Pesquisa: Não Extensão:Não Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na UEPB no ano de
+
+2007,
+
+Mestrado em Comunicação e Culturas Midiáticas na UFPB no ano de 2010,
+
+Doutorado em Ciências Socais na UFCG no ano de 2015
+
+NOME: VERNICA ALMEIDA DE OLIVEIRA LIMA
+
+Admissão: Status: Em atividade Cargo:
+
+Lotação:Departamento de Comunicação Social - CCSA
+
+Lattes: http://lattes.cnpq.br/5434150244440013
+
+Pesquisa: Não Extensão: Bolsa: Não Ens. Dist.: Não Gestão
+
+Graduado em Graduação em Comunicação Social/Jornalismo na uepb no ano de
+
+2003,
+
+Mestrado em Sociologia na ufcg no ano de 2007,
+
+Doutorado em Ciências da Educação. na Universidade de Trás-os-Montes e Alto
+
+Douro, UTAD, Portugal no ano de 2015
+
+173
+
+\17. INFRAESTRUTURA
+
+Números de salas de aula: 10
+
+Número de sala de coordenação e secretaria: 1
+
+Número de salas de professores: 1
+
+Número de salas de pesquisa: 1
+
+Laboratórios: O Laboratório de Projeto Gráfico e Redação destina-se aos docentes e discentes
+
+que possuem trabalhos ou disciplinas relacionadas à produção gráfica permitindo a
+
+realização de disciplinas do campo como a de Projeto Gráfico em Jornalismo,
+
+Laboratório de Projeto Gráfico e Design Editorial. Neste ambiente, o aluno utiliza
+
+softwares de paginação, ilustração e edição e manipulação fotográfica  como
+
+Indesign, Photoshop e Illustrator para o desenvolvimento de jornais e revistas,
+
+publicações interativas e de aplicativos digitais como revistas para tablets e
+
+smartphones. O local também é utilizado para execução de projetos experimentais e
+
+laboratoriais a exemplo do Repórter Junino, agência de notícias e revista
+
+Laboratório, TCCs, além de cursos de extensão.
+
+O Laboratório Multimídia é dedicado prioritariamente para a prática do Jornalismo
+
+Digital. O espaço deve possibilitar aos alunos as condições necessárias para a
+
+concepção, produção, edição e publicação de produtos experimentais caracterizados
+
+pela apropriação da linguagem do jornalismo digital. Além de Jornalismo Digital e
+
+Laboratório de Jornalismo Digital (noturno e diurno), muitas disciplinas são
+
+ministradas no local, que oferece
+
+Salas de informática:
+
+Quantidade de computadores do curso: 45
+
+Quantidade de computadores disponivel para os alunos: 45
+
+Quantidade de Projetores: 12
+
+Quantidade de Impressoras: 2
+
+Quantidade de computadores para a biblioteca: 2
+
+Quantidade de computadores para a piscina: 0
+
+Quantidade de computadores para a quadra: 0
+
+174
+
+recursos multimídia para enriquecer ainda mais as aulas. Ele também é usado como
+
+suporte ao desenvolvimento de práticas de redação para produtos online e off-line.
+
+Por fim, vários projetos do Curso de Jornalismo utilizam o local, a exemplo do Gente
+
+Nossa, Repórter Junino, Com a Palavra, Revista Xique Xique, entre outros.
+
+O Laboratório de Radiojornalismo tem como objetivo principal possibilitar aos alunos
+
+das disciplinas de Radiojornalismo e Estágio Supervisionado a realização de
+
+atividades práticas concernentes a toda produção inerente aos diversos formatos da
+
+produção jornalística em rádio. Os principais usos do espaço, destina-se a realização
+
+de atividades como: gravação de offs para a linguagem televisiva e radiofônica.
+
+Destina-se, igualmente, para os trabalhos de radiomontagem das diversas
+
+produções para esta mídia. O Laboratório também é destinado ao atendimento das
+
+demandas solicitadas pelos projetos de extensão, tanto do Departamento de
+
+Comunicação como dos demais setores acadêmicos, e da Radioweb do
+
+Departamento de Comunicação (radiocomunicação.net).
+
+Os Laboratórios de Telejornalismo são utilizados para a prática telejornalística,
+
+especificamente para reportagem e edição. Junto com os técnicos, os discentes
+
+fazem gravações e utilizam as imagens capturadas com as câmeras do laboratório
+
+para montar reportagens. Junto com o professor, constroem o texto, gravam o off e
+
+com os técnicos editam o material na ilha de edição. Desta forma, os alunos
+
+conseguem viver a experiência de todas as etapas do processo de construção da
+
+notícia para TV.
+
+O Laboratório de Fotografia tem o objetivo de servir a todos os discentes do curso,
+
+em especial aqueles que cursam as disciplinas específicas da área e os alunos de
+
+TCC. De forma paralela, o laboratório também atende outras disciplinas e projetos do
+
+curso, como jornalismo impresso, jornalismo digital, projeto gráfico, projetos de
+
+extensão (a exemplo da revista Xique Xique, do Repórter Junino e do Gente Nossa).
+
+O espaço também é um ambiente apropriado para armazenamento de
+
+equipamentos, um estúdio fotográfico e um espaço para fotografia de still (produtos).
+
+Desta forma, nos laboratórios, os professores e alunos desenvolvem toda a
+
+produção prática do curso nos campos radiofônico, televisivo, multimídia e
+
+175
+
+impresso/digital. Para a parte administrativa e o suporte nos laboratórios, o Curso de
+
+Jornalismo conta com 08 técnicos especializados para o apoio e execução de
+
+atividades administrativas e de produção técnica com audiovisual, são eles: José
+
+Trigueiro Neto, Giancarlo Galdino, Renato Hennys, Leandro Ponciano, Paulo
+
+Arquilino, Ronaldo Rodrigues, Ronaldo Lima e Ricardo Ferreira.
+
+Um curso como este exige um investimento contínuo em infraestrutura,
+
+equipamentos e atualização de pessoal, que possa estar em conformidade com a
+
+base tecnológica existente, a fim de propiciar ao graduando uma formação efetiva na
+
+área. Para tanto, faz-se necessário, por parte da IES, um investimento constante no
+
+curso, para que este tenha condições de manter e adequar as estruturas já
+
+existentes, além de também ter condições de atender as prioridades no
+
+acompanhamento das demandas sociais dessa formação profissional.
+
+Na atualidade, o fluxo de modernização exige que nossa estrutura se adeque ao
+
+novo currículo, uma vez que este deve demandar, em médio prazo, novos espaços e
+
+equipamentos que proporcionem novas experiências e produtos editoriais. É o caso
+
+do Laboratório de Jornalismo Móvel e do Laboratório Convergente.
+
+O Laboratório de Jornalismo Móvel visa ser um espaço de investigação e
+
+experimentação de produtos jornalísticos desenvolvidos e distribuídos a partir de
+
+dispositivos móveis, assim como um espaço para refletir sobre novos modelos de
+
+negócio, novas linguagens e novos formatos jornalísticos a partir de tais tecnologias.
+
+Para tal, o Grupo de Pesquisa em Jornalismo e Mobilidade, cadastrado no CNPq,
+
+desenvolverá atividades de pesquisa e desenvolvimento aplicado a partir deste
+
+laboratório.
+
+O Laboratório Convergente, por sua vez, visa congregar ambientes que permitam a
+
+execução de atividades jornalísticas, de forma colaborativa e integrada, onde alunos
+
+e professores possam produzir e publicar conteúdos, nas diferentes plataformas
+
+eletrônicas e digitais.
+
+Ambos os laboratórios, assim como o Laboratório Multimídia, demandam compra de
+
+equipamentos específicos, softwares, organização adequada de estrutura física e de
+
+rede, que permitam um fluxo produtivo de ensino,
+
+176
+
+pesquisa e extensão. Tais empreendimentos também exigem pessoal para o suporte
+
+deste tipo de atuação. Neste caso, é imprescindível a contratação de, pelo menos,
+
+mais quatro servidores técnicos para a supervisão, manutenção, operação e
+
+funcionamento dos laboratórios.
+
+Clínica Escola:
+
+Núcleo Prática:
+
+Outros Espaços:
+
+BIBLIOTECA -
+
+O curso conta com o suporte do Sistema Integrado de Bibliotecas da UEPB
+
+SIB/UEPB, que está organizado de modo funcional e operacionalmente interligado
+
+através de sistema automatizado, tendo como objetivo a unidade e o consenso nas
+
+atividades de gestão, seleção, armazenagem, recuperação e disseminação de
+
+informações, bem como para apoio aos programas de ensino, pesquisa e extensão
+
+oferecidos pela UEPB. O SIB/UEPB conta, atualmente, com 16 (dezesseis)
+
+bibliotecas que atendem todos os cursos da Instituição, oferecendo os seguintes
+
+serviços: consulta e empréstimo de obras, acesso às normas da ABNT, acesso às
+
+bases de dados do Portal de Periódicos da CAPES, comutação de materiais
+
+informacionais, acesso à Biblioteca Digital de Teses e Dissertações, acesso ao
+
+Repositório Institucional, consulta ao acervo online, reserva online, além de área
+
+climatizada para estudo e pesquisa, entre outros. O sistema de bibliotecas da
+
+instituição possui um total1 de 213.681 exemplares de livros impressos, 26.836
+
+periódicos nacionais e internacionais e 30.881 trabalhos de conclusão de curso de
+
+discentes da instituição, entre outros materiais. O acervo geral alcança o número de,
+
+aproximadamente, 300.000 obras.
+
+O acervo do Curso de Jornalismo está na área de Ciências Sociais Aplicadas e fica
+
+localizado na Biblioteca CIA I, no 1º andar do Centro de Integração Acadêmica. A
+
+Biblioteca Setorial do Centro de Integração Acadêmica  CIA I é um subordinada à
+
+Coordenadoria de Bibliotecas da UEPB e foi inaugurada em agosto de 2012 pela
+
+então reitora Marlene Alves para atender as áreas específicas do Centro de Ciências
+
+Sociais Aplicadas  CCSA, que compreende
+
+177
+
+atualmente os cursos de Administração, Ciências Contábeis, Serviço Social e
+
+Jornalismo.
+
+Em referência à estrutura física, a biblioteca do Curso de Jornalismo possui
+
+464,18m2, em um ambiente dividido em: hall principal, acervo geral, setor de
+
+periódicos e monografias, ambiente de estudo em grupo e cabines individuais, setor
+
+de empréstimos, e o setor da sala de proc. técnicos isoladamente. Possui um
+
+ambiente climatizado e disponibiliza redes sem fio (WI-FI), 20 cabines de estudos
+
+individuais, 13 mesas e 52 cadeiras, 2 terminais de consulta, guarda-volumes, entre
+
+outros.
+
+O acervo da biblioteca CIA I é diversificado entre obras bibliográficas, monografias
+
+impressas e digitais (repositório institucional DSPACE), materiais de referência
+
+(consulta interna) e periódicos, além da disponibilidade de acervo on-line de
+
+periódicos no portal CAPES. Com o Sistema de Automação de Bibliotecas  SIABI, é
+
+possível acessar o site e consultar as publicações existentes, bem como reservar e
+
+renovar a obra desejada. O Curso de Jornalismo possui 1.501 títulos e 4.925
+
+volumes.
+
+178

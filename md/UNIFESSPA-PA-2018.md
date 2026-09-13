@@ -1,0 +1,4463 @@
+SERVIÇO PÚBLICO FEDERAL
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ
+
+CAMPUS UNIVERSITÁRIO DE RONDON DO PARÁ
+
+INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+PROJETO PEDAGÓGICO DO CURSO DE BACHARELADO EM JORNALISMO
+
+RONDON DO PARÁ
+
+2018
+
+SERVIÇO PÚBLICO FEDERAL
+
+UNIVERSIDADE FEDERAL DO SUL E SUDESTE DO PARÁ
+
+CAMPUS UNIVERSITÁRIO DE RONDON DO PARÁ
+
+INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+Elaboração:
+
+Jax Nildo Aragão Pinto
+
+RONDON DO PARÁ
+
+2018
+
+SUMÁRIO
+
+1 INTRODUÇÃO ..................................................................................................... 5 2 JUSTIFICATIVA DA OFERTA DO CURSO ......................................................... 7 3 CARACTERÍSTICAS GERAIS DO CURSO ....................................................... 13 4. DIRETRIZES CURRICULARES DO CURSO ..................................................... 13 4.1. Fundamentos epistemológicos, éticos e didático-pedagógicos ...................................... 13
+
+4.2. OBJETIVOS ............................................................................................................................. 15
+
+4.3. Perfil do Egresso ..................................................................................................................... 16
+
+4.4. Competências do egresso ..................................................................................................... 17
+
+4.5. Procedimentos metodológicos .............................................................................................. 19
+
+\5. ORGANIZAÇÃO CURRICULAR DO CURSO ...................................................... 21 5.1.  Estrutura do curso ................................................................................................................. 21
+
+5.2 Trabalho de Conclusão de Curso (TCC) .............................................................................. 25
+
+5.3. Estágio Supervisionado ......................................................................................................... 26
+
+5.4. Atividades Complementares ................................................................................................. 27
+
+QUADRO 1 - ATIVIDADES COMPLEMENTARES .................................................. 28
+
+5.5.  Articulação do Ensino, Pesquisa e Extensão .................................................................... 30
+
+5.6 Política de Pesquisa ................................................................................................................ 31
+
+5.7 Política de Extensão ................................................................................................................ 31
+
+5.8. Política de Inclusão Social e Ações Afirmativas ................................................................ 33
+
+\6. PLANEJAMENTO DO TRABALHO DOCENTE ................................................... 35 7. SISTEMA DE AVALIAÇÃO .................................................................................. 35 7.1 Concepção e Princípios da Avaliação .................................................................................. 35
+
+7.2 Avaliação da Aprendizagem .................................................................................................. 37
+
+7.3 Avaliação do Ensino ................................................................................................................ 38
+
+7.4 Avaliação do Projeto Pedagógico ......................................................................................... 39
+
+\8. INFRAESTRUTURA ............................................................................................. 40 8.1. Docentes .................................................................................................................................. 40 8.2.Técnicos........................................................................................................................43 8.3. Instalações...................................................................................................................43 8.4. Recursos......................................................................................................................44
+
+\9. REFERÊNCIAS ..................................................................................................... 54
+
+LISTAS DE ANEXOS ANEXO I - ATA DE APROVAÇÃO DO PPC PELA CONGREGAÇÃO DA FACULDADE ............................................................................................................. 57 ANEXO II - DESENHO CURRICULAR DO CURSO ................................................. 58 ANEXO III - CONTABILIDADE ACADÊMICA............................................................ 60 ANEXO IV - ATIVIDADES CURRICULARES POR PERÍODO LETIVO .................... 62 ANEXO V - REPRESENTAÇÃO GRÁFICA DO PERFIL DE FORMAÇÃO ............... 65 ANEXO VI - DEMONSTRATIVO DAS ATIVIDADES CURRICULARES POR HABILIDADES E POR COMPETÊNCIAS: ................................................................ 66 ANEXO VII - EMENTÁRIO DAS DISCIPLINAS OBRIGATÓRIAS DO CURSO DE JORNALISMO ........................................................................................................... 69
+
+5
+
+1 INTRODUÇÃO
+
+A Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA), com sede e
+
+foro no município de Marabá (PA) e natureza jurídica de autarquia, vinculada ao
+
+Ministério da Educação (MEC), foi criada no dia 6 de junho de 2013, com a vigência
+
+da Lei Federal n.º 12.824, de 5 de junho de 2013, a partir da estrutura da
+
+Universidade Federal do Pará (UFPA), tendo como base o desmembramento do
+
+Campus de Marabá da UFPA, o qual já contava com maturidade acadêmica para
+
+recepcionar a nova instituição de ensino superior.
+
+Na concepção inicial, a Unifesspa já nasceu como universidade multicampi,
+
+sendo constituída pelo Campus de Marabá (sede) e os Campi de Rondon do Pará,
+
+Santana do Araguaia, São Félix do Xingu e Xinguara. Entretanto, a área de
+
+abrangência da Unifesspa vai além dos municípios citados, envolvendo os 39
+
+municípios da mesorregião do Sudeste paraense, além de potencial impacto no
+
+Norte do Tocantins, Sul do Maranhão e Norte do Mato Grosso.
+
+O objetivo da criação da Unifesspa foi possibilitar aos estudantes da região
+
+acesso à educação superior pública de qualidade, sem imperativo deslocamento
+
+para grandes centros, ensejando a permanência de profissionais qualificados, em
+
+cumprimento à função social das universidades públicas, especialmente na
+
+Amazônia1.
+
+A região do sul e sudeste do Pará, representa hoje, graças à explosão da
+
+produção mineral, uma das zonas de maior crescimento industrial e demográfico de
+
+todo o norte e nordeste do país. Tal processo possibilitou crescimento econômico,
+
+mas pouco desenvolvimento social, com aumento da pobreza, dos conflitos sociais e
+
+a violência. Portanto, considerando as necessidades sociais da região e a urgência
+
+de enfrentamento, há muito a sociedade local aspirava por uma universidade
+
+própria, diversificada, ampla e sólida, seja pela distância da capital, seja pelas
+
+dificuldades de comunicação, como também por suas tradições e população. Tem-
+
+se então o surgimento da Universidade Federal do Sul e Sudeste do Pará –
+
+Unifesspa, um momento histórico – a exemplo da UFOPA, no oeste do estado. Um
+
+fato de profundo significado político e social, que mudou o cenário presente e o
+
+1 Disponível em: <https://www.unifesspa.edu.br/inst/historico>. Acesso em: 17 set. 2017.
+
+6
+
+destino de uma das regiões brasileiras mais ricas em recursos naturais, mas ainda
+
+excluída dos investimentos e oportunidades de crescimento.
+
+A Universidade Federal do Sul e Sudeste do Pará foi a segunda universidade
+
+pública criada no interior da Amazônia. Demonstração da sensibilidade
+
+governamental pela redução das desigualdades regionais, por meio do investimento
+
+em educação.
+
+Na oportunidade de criação da Unifesspa, houve uma sólida parceria com o
+
+setor público (federal e estadual). O setor público foi representado, na esfera federal,
+
+pelo Ministério da Educação (MEC) e pela Universidade Federal do Pará (UFPA),
+
+instituição que deu origem à Unifesspa; na esfera estadual, pela Secretaria de
+
+Estado de Desenvolvimento, Ciência e Tecnologia e pela Secretaria de Estado de
+
+Educação.
+
+A criação e implantação da Unifesspa traz uma caracterização da área de
+
+influência da nova Instituição Federal de Ensino Superior – IFES e busca estudar os
+
+principais cenários e tendências para o Sul e Sudeste paraense e demais municípios
+
+da área de influência da nova universidade, bem como discorre sobre os desafios da
+
+nova instituição.
+
+Em 2013, as regiões sul e sudeste do Pará contavam apenas com 01 (um)
+
+Campus Universitário. A partir da criação da Unifesspa, além das 03 (três) unidades do
+
+Campus de Marabá, foram implantados, em 2014, 04 (quatro) novos campi: Rondon do
+
+Pará, Santana do Araguaia, São Félix do Xingu e Xinguara.
+
+De acordo com o Plano de Desenvolvimento Institucional – PDI - 2014/2018 -
+
+Aditamento, a Unifesspa, sustenta-se em sua Missão, Visão, Valores e princípios2:
+
+MISSÃO
+
+A Universidade Federal do Sul e Sudeste do Pará - Unifesspa tem por missão
+
+“produzir, sistematizar e difundir conhecimentos filosófico, científico, artístico, cultural
+
+e tecnológico, ampliando a formação e as competências do ser humano na
+
+perspectiva da construção de uma sociedade justa e democrática e no avanço da
+
+qualidade de vida”.
+
+VISÃO 2 Cf. Plano de Desenvolvimento Institucional – PDI 2017-2018. Disponível em: In <https://seplan.unifesspa.edu.br/index.php/component/content/ar>. Acesso em: 07 maio 2018.
+
+7
+
+Ser uma universidade inclusiva e de excelência na produção e difusão de
+
+conhecimentos de caráter filosófico, científico, artístico, cultural e tecnológico.
+
+VALORES
+
+A Unifesspa deve afirmar-se, cada vez mais, como uma instituição de
+
+excelência acadêmica no cenário amazônico, nacional e internacional, contribuindo
+
+para a construção de uma sociedade justa, democrática e inclusiva, com base nos
+
+valores do respeito à diversidade, da busca da autonomia e da afirmação da sua
+
+identidade.
+
+PRINCÍPIOS
+
+São princípios da Universidade Federal do Sul e Sudeste do Pará (Unifesspa):
+
+a) a universalização do conhecimento;
+
+b) o respeito à ética e à diversidade étnica, cultural e biológica;
+
+c) o pluralismo de ideias e de pensamento;
+
+d) o ensino público e gratuito;
+
+e) a indissociabilidade entre ensino, pesquisa e extensão;
+
+f) a flexibilidade de métodos, critérios e procedimentos acadêmicos;
+
+g) a excelência acadêmica;
+
+h) a defesa dos direitos humanos e a preservação do meio ambiente.
+
+A Unifesspa tem por objetivo ministrar ensino superior, desenvolver pesquisa
+
+nas diversas áreas do conhecimento e promover a extensão universitária,
+
+caracterizando sua inserção regional mediante atuação multicampi.
+
+Em outras palavras, a Unifesspa desenvolve programas e projetos de Ensino,
+
+nos níveis de graduação e de pós-graduação, Pesquisa e Extensão, sob a forma de
+
+atividades presenciais e, nos termos da legislação vigente, à distância, em grandes
+
+áreas do conhecimento.
+
+2 JUSTIFICATIVA DA OFERTA DO CURSO
+
+A Unifesspa, desde a sua fundação, assumiu o compromisso e o desafio de
+
+promover a formação de profissionais em nível superior para atuarem na região,
+
+oferecendo serviços educacionais de qualidade que permitam que os alunos por ela
+
+8
+
+formados se transformem em cidadãos conscientes e profissionais competentes,
+
+agindo em prol da sociedade onde estão inseridos.
+
+Para cumprir com essa missão, a partir de seu desmembramento da UFPA e
+
+sua consolidação como IES, a Unifesspa teve um crescimento significativo na oferta
+
+dos cursos de graduação e nas vagas dos processos seletivos, em uma evolução
+
+quantitativa que valoriza a estratégia de crescimento da instituição.
+
+Todos os cursos de graduação oferecidos pela Unifesspa foram estruturados
+
+em conformidade com os parâmetros curriculares nacionais estabelecidos pelo
+
+Conselho Nacional de Educação, com o objetivo de formar cidadãos capazes de
+
+transformar a realidade social, valorizar a diversidade cultural e contribuir para o
+
+avanço científico e tecnológico da Amazônia.
+
+Esse crescimento quantitativo mostra que a Instituição se preocupa com uma
+
+maior atenção para a manutenção e o aprimoramento da qualidade no ensino de
+
+graduação. Para tanto, está buscando ações imprescindíveis para alcançar esses
+
+objetivos, tais como: adequação e modernização dos espaços e instrumentos de
+
+aprendizagem, o desenvolvimento do estágio curricular como uma ação conjunta da
+
+instituição e da sociedade e o aprimoramento e/ou introdução de novas
+
+metodologias de ensino. Todas essas ações são fundamentais para uma gestão
+
+acadêmica de qualidade.
+
+Há de se atentar também para a diversidade, ampliada no ensino superior,
+
+não somente pela adoção de ações afirmativas, mas também como um reflexo de
+
+ações inclusivas propostas pelo governo federal. Essa diversidade exige seu
+
+reconhecimento pela instituição e demanda uma série de ações para consolidar o
+
+acesso ao ensino superior, ou seja, possibilitar a permanência e a conclusão do
+
+ensino superior.
+
+O curso de jornalismo, em Rondon do Pará se insere no contexto de
+
+expansão da Unifesspa e de sua estratégia de fortalecimento multicampi. O
+
+dinamismo econômico e a diversidade das relações sociocultural e política exigem
+
+cada vez mais profissionais com habilidades e competências para atuar nos
+
+processos de comunicação das organizações privadas, de gestão pública e o do
+
+terceiro setor. O papel do jornalista torna-se imprescindível para qualificar os
+
+conteúdos veiculados nos meios de comunicação existentes na região (rádio, jornal,
+
+TV, blogs, rádios comunitárias, etc.) que hoje se mantém com poucos profissionais
+
+9
+
+que migram de outras regiões do Pará e de fora do Estado (Belém-metropolitana,
+
+São Luís, Pernambuco, etc.) e com profissionais que atuam a partir de suas
+
+experiências, portanto, necessitando de formação acadêmica e científica.
+
+Outro elemento importante para a implantação do curso de jornalismo são as
+
+questões que envolvem conflitos sociais e violência, em uma região marcada pela
+
+contradição entre capital e trabalho e profundas desigualdades sociais. É necessário
+
+criar mecanismos de comunicação e possibilitar a formação de profissionais
+
+comprometidos com os direitos humanos e difusores da comunicação libertadora e
+
+transformadora.
+
+É importante destacar que a formação do jornalista na Amazônia deve levar
+
+em conta a compreensão da formação histórica dos municípios que compõe a
+
+região, onde a Unifesspa está inserida. As questões relacionadas à Amazônia, tais
+
+como modelo de desenvolvimento exógeno e a dinâmica econômica fundada na
+
+mineração, exploração madeireira, pecuária e soja devem ser consideradas. O
+
+jornalista, com formação na Unifesspa, deve compreender os desafios atuais da vida
+
+na Amazônia, seja as questões relacionadas ao desmatamento, desigualdades,
+
+pobreza e iniquidades, bem como a vida das populações subjugados pelo capital
+
+(populações tradicionais e migrantes).
+
+Deve-se levar em conta também que à Amazônia é uma região que
+
+corresponde a 60% do território nacional e, hoje, é essencialmente urbana, com a
+
+maior parte da população vivendo nas grandes, médias e pequenas cidades. Ao
+
+mesmo tempo em que se trata de uma região com graves conflitos agrários,
+
+ambientais e socioeconômicos, as cidades padecem de infraestrutura básica,
+
+desemprego e desigualdades.
+
+Um olhar para Amazônia pressupõe perceber sua conexão entre a dinâmica
+
+global, nacional e local. Ao mesmo tempo em que a região é impactada pela
+
+reprodução ampliada do capital global, subsistem práticas tradicionais e com modos
+
+de vida típica da sua constituição histórica.
+
+A revolução das tecnologias da informação e da comunicação diminuiu as
+
+distancias entre as realidades locais e globais. Tal processo produziu grandes
+
+transformações na reprodução e ampliação do capital, modificando os espaços e a
+
+geografia das relações capitalistas.
+
+10
+
+O curso de jornalismo deve acompanhar e apreender as mudanças nas
+
+dinâmicas amazônicas, dialogando com os processos locais, regional, nacional e
+
+global. Os efeitos da acumulação ampliada do capital sustentada pelo processo de
+
+globalização e financeirização do capital, produzem graves consequências para as
+
+economias periféricas e intensificam a rapina por recursos naturais, promovendo
+
+miséria e um abismo, cada dia maior, entre ricos e pobres.
+
+Portanto, a proposta de implementação do curso de jornalismo deve assumir
+
+o compromisso com a educação libertadora e comprometida com os atores, sujeitos
+
+desse processo de formação integral e dialógica, atento as mudanças e
+
+transformações do mundo contemporâneo, fortemente influenciado pela globalização
+
+e pelas tecnologias da informação e da comunicação.
+
+A amplitude e a relevância que os processos de comunicação adquiriram nos
+
+últimos anos geraram a busca por aprofundamento teórico capaz de compreender e
+
+lidar criticamente com esse fenômeno. Ao mesmo tempo, preparar profissionais para
+
+atuar nos diferentes âmbitos da comunicação social e suas especificidades também
+
+se tornou uma necessidade inevitável.
+
+Castells (1999) e Canclini (2015) em suas discussões problematizam que o
+
+advento da globalização trouxe em seu bojo inúmeras transformações no campo
+
+social, político, econômico, cultural e ambiental. Essas mudanças típicas da
+
+sociedade do conhecimento e da informação substituem, paulatinamente, a
+
+acumulação de capital físico da sociedade industrial. Nesse espaço complexo, de
+
+constantes mutações, marcado pelo predomínio de sistemas de comunicação
+
+tecnificados, onde as relações são mediadas pelos novos meios de comunicação,
+
+cada vez mais se impõe à sociedade e às organizações a latente necessidade de
+
+relacionamento com os seus públicos, bem com a valorização dos valores sociais,
+
+As empresas, como todas as organizações complexas, de maneira geral, são
+
+influenciadas por essas mudanças e geridas de acordo com os relacionamentos
+
+definidos para os diferentes grupos de interesse que as envolvem. Novas
+
+sociabilidades são criadas e recriadas nesse cenário de permanentes alterações,
+
+ocasionadas pela revolução tecnológica das telecomunicações e pelos fluxos da
+
+financeirização da economia e das novas modalidades comerciais. Questões como a
+
+garantia dos direitos civis, sociais, ambientais e éticos, tornam-se imprescindíveis à
+
+pauta cotidiana dos movimentos sociais, das instituições públicas e privadas.
+
+11
+
+Nesse contexto de profundas e rápidas transformações, a cultura da
+
+comunicação, enquanto processos dialógicos, torna-se elemento essencial para a
+
+sobrevida das organizações. Comunicação concebida como espaço estratégico e de
+
+poder na construção de novas sociabilidades. Portanto, a construção de novas
+
+modalidades de comportamento organizacional, requer uma preocupação constante
+
+com a comunicação integral, com as relações humanas e com os valores culturais.
+
+Marchiori (2002)3 afirma que “a comunicação é um assunto que chama a
+
+atenção do empresariado e é vista como matéria-prima das organizações. Mas é
+
+preciso entender comunicação na sua profundidade, é necessário examinar os
+
+caminhos pelos quais a organização produz a comunicação ou a comunicação
+
+produz a organização”. A proliferação da informação e os avanços na tecnologia,
+
+características marcantes do processo de globalização estão transformando a
+
+sociedade e os ambientes de trabalho. Uma multiplicidade de fatores está impondo
+
+uma mudança na visão e na cultura organizacional, onde se têm ambientes que
+
+convivem com o velho e o novo, e todas assas diferenças transformam
+
+pensamentos e comportamentos. Assim, é necessário que as empresas estejam
+
+preparadas para enfrentar novos desafios, agindo de forma estratégica para que a
+
+comunicação seja efetiva e afetiva.
+
+Portanto, considerando todo esse contexto e essas transformações, o curso de
+
+jornalismo da Unifesspa deve proporcionar formação técnico-científica para
+
+reconhecer e atuar frente à digitalização dos processos de comunicação, com o
+
+surgimento da Internet e de tecnologias móveis; mas, fundamentalmente,
+
+proporcionar uma formação humanística capaz de desencadear práxis
+
+comprometidas com a liberdade da informação, com a democracia, com a dialogia.
+
+Rondon dista 150Km de Marabá, cidade com cerca de 50.460 habitantes,
+
+segundo estimativa do IBGE para 20164, portanto, segundo pólo mais importante da
+
+região, depois de Marabá. Localizada na BR 222, Rondon do Pará, com o curso de
+
+jornalismo atenderá principalmente os municípios da região sul e sudeste do Pará,
+
+3 Comunicação Organizacional: um enfoque estratégico – Disponível em: <https://www.portal- rp.com.br/bliotecavirtual>. Acesso em: 10 jan. 2017.
+
+4Disponível em: <https://www.ibge.gov.br/home/estatistica/populacao/estimativa2016/estimativa_dou.shtm>. Acesso em: 10  jan. 2017.
+
+12
+
+de outras regiões do Pará que também não dispõem dessa área de formação, e de
+
+municípios próximos geograficamente, de outros Estados, como Tocantins,
+
+Maranhão e Piauí. Rondon do Pará é importante pólo de integração entre a micro-
+
+região nordeste do Pará, mesorregião do sul e sudeste e o sul do Maranhão, local
+
+estratégico, entre a principal via do Estado, a Belém-Brasília, e a cidade de Marabá.
+
+Para atender a toda esta expansão local e regional, a Unifesspa, que já possui
+
+uma forte identidade com o desenvolvimento da Amazônia, buscará especializar a
+
+mão-de-obra dos profissionais da área, por intermédio do Curso de Jornalismo,
+
+formando profissionais capazes de intervir na realidade, mediante atitudes mais
+
+criativas, críticas, produzindo conteúdos para os meios de comunicação.
+
+Segundo o censo do INEP (2013)5, o número de alunos matriculados no ensino
+
+médio, na região, é de mais de 50.000 alunos que estão em condições de cursar
+
+uma Faculdade. Dentre estes alunos, existe uma demanda para o curso de
+
+jornalismo visto que muitos, geralmente trabalham em pequenas empresas de
+
+comunicação, em assessoria de comunicação de organizações do terceiro setor, em
+
+rádios, TVs, blogs, jornais impressos, etc.
+
+Existe uma demanda crescente para o curso de comunicação - Jornalismo, que
+
+é plenamente justificada pela necessidade de formar na e para região, profissionais
+
+com competência e análise crítica, frente ao cenário que se impõe de novas
+
+tecnologias de comunicação e da informação, bem como a emergência de novas
+
+modalidades de comunicação organizacional e comunitária.
+
+A proposta pedagógica do curso de Jornalismo da Unifesspa visa atender à
+
+demanda profissional da realidade circundante, buscando aplicar os princípios de
+
+qualidade no ensino/aprendizagem, formando profissionais, valorizando o diálogo
+
+com comunidades e grupos sociais, construindo o conhecimento de forma à
+
+promoção de transformações no meio social. Será fundamental ainda a valorização
+
+das especificidades dos sujeitos sociais da região como povos indígenas,
+
+camponeses, quilombolas e ribeirinhos. Tal proposta se estabelece a partir de uma
+
+organização curricular capaz de atender plenamente à formação do jornalista
+
+conectado com a realidade sócio-política e cultural da região, bem como as
+
+mudanças promovidas pela globalização.
+
+5http://download.inep.gov.br/download/superior/censo/2013/resumo_tecnico_censo_educacao_superi or_2013.pdf. Acesso 27 de julho de 2017.
+
+13
+
+3 CARACTERÍSTICAS GERAIS DO CURSO
+
+• Nome do curso: Jornalismo.
+
+• Local de funcionamento: Instituto de Ciências Sociais Aplicadas - ICSA
+
+• Endereço: Universidade Federal do Sul e Sudeste do Pará – Unifesspa, Rua
+
+Rio Grande do Sul, s/n, CEP: 68.638-000
+
+• Forma de ingresso: anualmente, por meio do Processo Seletivo da Unifesspa.
+
+• Número de vagas: 20 vagas anuais.
+
+• Turno de funcionamento: Integral
+
+• Modalidade de oferta: presencial.
+
+• Título conferido: Bacharel em Jornalismo.
+
+• Duração mínima: quatro anos (oito semestres).
+
+• Duração máxima: seis anos (12 semestres).
+
+• Carga horária total: 3.037 horas
+
+• Período letivo: segundo e quarto períodos (extensivos), podendo ser usados
+
+também o primeiro e terceiro períodos (intensivos), caso necessário.
+
+• Regime acadêmico: Regime Acadêmico Seriado.
+
+• Formas de oferta de atividades (Art.9º do Regulamento do Ensino de
+
+Graduação): paralela (preferencialmente), podendo ter a modular, quando
+
+necessário.
+
+• Data de início: Agosto de 2018.
+
+• Portaria Número 25,01/07/2013.
+
+• Ato de reconhecimento:
+
+• Exame Nacional de Desempenho dos Estudantes (ENADE)
+
+\4. DIRETRIZES CURRICULARES DO CURSO
+
+4.1. Fundamentos epistemológicos, éticos e didático-pedagógicos
+
+Os princípios que norteiam esse Projeto Pedagógico de Curso de Jornalismo
+
+se fundam na concepção de que qualquer processo de formação necessita se
+
+pautar pela ética e pela irrecusável prática de inteligir, desafiar o educando com
+
+quem se comunica, a produzir sua compreensão do que vem sendo comunicado.
+
+14
+
+Nas palavras de Freire (2015:p. 39)6 “não há intelegibilidade que não seja
+
+comunicação e intercomunicação e que não se funde a dialogicidade”.
+
+Pensar a comunicação na Amazônia pressupõe a valorização da dimensão da
+
+participação, da liberdade, da emancipação, da crítica e da inovação tecnológica.
+
+Lembremos uma afirmação importante de Freire (1977, p. 69)7 “A educação é
+
+comunicação, é diálogo, na medida em que não é a transferência de saber, mas um
+
+encontro de sujeitos interlocutores que buscam a significação dos significados”.
+
+É fundamental formar jornalista comprometido com a comunicação dialógica e
+
+libertadora. A informação é fonte de poder e deve estar a serviço da sociedade e do
+
+bem comum. É necessário que a atitude do jornalista seja de protagonista de
+
+processos de comunicação que produzam relacionamentos e trocas, sempre com
+
+uma atitude crítica, frente à realidade socioeconômica, política e cultural. A
+
+comunicação social deve ser um instrumento que contribua na libertação dos menos
+
+favorecidos socialmente.
+
+Portanto, conforme expresso no Regulamento do Ensino de Graduação os
+
+cursos da Unifesspa8 devem promover a formação de cidadãos de modo a capacitá-
+
+los a: privilegiar os valores humanos, éticos e morais em suas relações pessoais e
+
+profissionais; aplicar as bases científicas e tecnológicas necessárias ao desempenho
+
+autônomo, crítico e contextualizado de suas atividades profissionais; e aprender por
+
+iniciativa própria. Assim, procurou-se formular uma proposta que caminhasse na
+
+direção de alcançar essas metas, embora essa busca deva estar sempre no
+
+horizonte.
+
+Em seu artigo 5º das Diretrizes Curriculares Nacionais para o Curso de
+
+Graduação em jornalismo (Resolução, no. 1, de 27 de setembro de 2013) sintetiza
+
+que: “o concluinte do curso de jornalismo deve estar apto para o desempenho
+
+profissional de jornalista, com formação acadêmica generalista, humanista, crítica,
+
+ética e reflexiva, capacitando-o, dessa forma, a atuar como produtor intelectual e
+
+agente da cidadania, capaz de responder, por um lado, à complexidade e ao
+
+pluralismo característico da sociedade e da cultura contemporâneas, e, por outro,
+
+possuindo os fundamentos teóricos e técnicos especializados, o que lhe
+
+6 FREIRE, Paulo. Pedagogia da autonomia: saberes necessários à prática educativa. 50. ed. Rio de Janeiro: Paz e Terra, 2015.
+
+7 FREIRE, Paulo. Extensão ou comunicação. Rio de Janeiro: Paz e Terra, 1977. 8 Resolução nº 002 de 08 de janeiro de 2014, p.6.
+
+15
+
+proporcionará clareza e segurança para o exercício de sua função social específica,
+
+de identidade profissional singular e diferenciada em relação ao campo maior da
+
+comunicação social”.
+
+4.2. OBJETIVOS
+
+Objetivo Geral
+
+Formar bacharéis em Jornalismo com a capacidade de atuar nas
+
+organizações (públicas, privadas e do terceiro setor) e nas empresas jornalísticas,
+
+valorizando a diversidade sócio-cultural, econômica e política do Brasil e da
+
+Amazônia, de forma crítica e comprometida com os valores de uma sociedade
+
+democrática e pluralista para cuja construção é imprescindível a compreensão da
+
+informação como bem social.
+
+Objetivos Específicos
+
+Formar profissionais que tenham uma compreensão ampla e crítica das
+
+dinâmicas comunicacionais que permeiam a sociedade contemporânea e de suas
+
+relações com os processos sociais, econômicos e políticos que as originam.
+
+Capacitar para a compreensão do papel da comunicação e do jornalismo,
+
+considerando a realidade amazônica e regional.
+
+Permitir ao discente o domínio de conhecimentos teórico-conceituais na área
+
+de comunicação e analítico-informativos sobre a atualidade, com capacidade para
+
+articulá-los ao pensar e fazer jornalístico.
+
+Dotar o aluno para atual nos variados meios (rádio, jornal, TV, online e
+
+assessorias ou agências de comunicação), com condições de adequar-se às
+
+constantes mudanças tanto das demandas profissionais como sociais impostas pelo
+
+acelerado avanço das tecnologias comunicacionais e seu impacto cada vez maior
+
+sobre a sociabilidade contemporânea.
+
+Proporcionar ao jornalista clareza conceitual e visão crítica sobre a
+
+especificidade de sua profissão, compreendendo o debate teórico que envolve as
+
+escolas de comunicação, fundamentos históricos, dimensões dos meios, política dos
+
+meios, ordenamento jurídico e deontológico.
+
+16
+
+Formar jornalista comprometido com a dimensão da sustentabilidade e a
+
+responsabilidade socioambiental.
+
+4.3. Perfil do Egresso
+
+O Projeto Pedagógico do curso de Jornalismo do Instituto de Ciências Sociais
+
+Aplicadas tem como objetivo nortear metas que garantam a formação de jornalistas
+
+qualificados e que possam atuar, principalmente, no sul e sudeste do Pará em
+
+empresas de comunicação e organizações públicas, privadas e do terceiro setor;
+
+seja na comunicação nos meios de comunicação; seja no planejamento da
+
+comunicação organizacional. Os elementos que seguem, encontram-se nas
+
+Diretrizes Curriculares do curso de Jornalismo Resolução, No. 1, de 27 de setembro
+
+de 2013.
+
+O bacharel em jornalismo atua na elaboração de notícias para a publicação
+
+nos meios de comunicação. Em sua atividade, organiza pautas, planeja e executa
+
+coberturas jornalísticas, conduz entrevistas e redige notícias, adotando critérios de
+
+rigor e independência na seleção das fontes e no relacionamento profissional com
+
+elas. Trabalha tendo em vista o princípio da pluralidade, o favorecimento do debate,
+
+o aprofundamento da investigação, a fiscalização do poder e a garantia social da
+
+veracidade das informações.
+
+O Bacharel em Jornalismo deve estar habilitado a entender e interpretar os
+
+fatos e processos econômicos, políticos, sociais e culturais à luz da realidade
+
+amazônica, podendo atuar de forma crítica em favor dos interesses regionais em
+
+todos os âmbitos.
+
+O Bacharel em Jornalismo deve produzir conhecimento e cultura voltados
+
+para seleções factuais sobre a atualidade e para a estruturação e disponibilização
+
+de informações que atendam a necessidades e interesses sociais no que se refere
+
+ao conhecimento dos fatos, das circunstâncias e dos contextos do momento
+
+presente.
+
+O Bacharel em Jornalismo atua na análise dos fatos e a produção da
+
+informação de forma a contextualizá-la na realidade amazônica e regional tendo em
+
+vista o interesse de suas populações, seja no que tange aos seus aspectos culturais,
+
+ambientais, sociais, econômicos ou políticos.
+
+17
+
+O Bacharel em Jornalismo atua para que todas as atividades que, no estado
+
+então vigente da profissão, sejam reconhecidas pelo bom senso pelas entidades
+
+representativas ou pela legislação pertinente, como características do jornalista.
+
+4.4. Competências do egresso
+
+I - Gerais
+
+As competências e habilidades gerais desejadas para os alunos egressos do
+
+curso de Jornalismo da Unifesspa seguem as orientações das Diretrizes Curriculares
+
+do curso de Jornalismo Resolução, No. 1, de 27 de setembro de 2013:
+
+\- Compreender e valorizar, como conquistas históricas da cidadania e indicadores
+
+de um estágio avançado de civilização, em processo constante de riscos e
+
+aperfeiçoamento: o regime democrático, o pluralismo de ideias e de opiniões, a
+
+cultura da paz, os direitos humanos, as liberdades públicas, a justiça social e o
+
+desenvolvimento sustentável;
+
+\- Conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a
+
+realidade social, econômica e política brasileira, considerando especialmente a
+
+diversidade regional, os contextos latino-americano e ibero-americano, o eixo sul-sul
+
+e o processo de internacionalização da produção jornalística;
+
+\- Identificar e reconhecer a relevância e o interesse público entre os temas da
+
+atualidade;
+
+\- Distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas
+
+e profissionais;
+
+\- Pesquisar, selecionar e analisar informações em qualquer campo de
+
+conhecimento específico;
+
+\- Dominar a expressão oral e a escrita em língua portuguesa;
+
+\- Ter domínio instrumental de pelo menos dois outros idiomas – preferencialmente
+
+inglês e espanhol, integrantes que são do contexto geopolítico em que o Brasil está
+
+inserido;
+
+\- Interagir com pessoas e grupos sociais de formações e culturas diversas e
+
+diferentes níveis de escolaridade;
+
+\- Ser capaz de trabalhar em equipes profissionais multifacetadas;
+
+\- Saber utilizar as tecnologias de informação e comunicação;
+
+18
+
+\- Pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+
+\- Cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação
+
+ao conhecimento;
+
+\- Compreender que o aprendizado é permanente;
+
+\- Saber conviver com o poder, a fama e a celebridade, mantendo a independência
+
+e o distanciamento necessários em relação a eles;
+
+\- Perceber constrangimentos à atuação profissional e desenvolver senso crítico em
+
+relação a isso;
+
+\- Procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais;
+
+\- Atuar sempre com discernimento ético.
+
+II - Competências cognitivas - Conhecer a história, os fundamentos e os cânones
+
+profissionais do jornalismo; conhecer a construção histórica e os fundamentos da
+
+cidadania; compreender e valorizar o papel do jornalismo na democracia e no
+
+exercício da cidadania; compreender as especificidades éticas, técnicas e estéticas
+
+do jornalismo, em sua complexidade de linguagem e como forma diferenciada de
+
+produção e socialização de informação e conhecimento sobre a realidade; discernir
+
+os objetivos e as lógicas de funcionamento das instituições privadas, estatais,
+
+públicas, partidárias, religiosas ou de outra natureza em que o jornalismo é exercido,
+
+assim como as influências do contexto sobre esse exercício.
+
+III - Competências pragmáticas - Contextualizar, interpretar e explicar informações
+
+relevantes da atualidade, agregando-lhes elementos de elucidação necessários à
+
+compreensão da realidade; perseguir elevado grau de precisão no registro e na
+
+interpretação dos fatos noticiáveis; propor, planejar, executar e avaliar projetos na
+
+área de jornalismo; organizar pautas e planejar coberturas jornalísticas; formular
+
+questões e conduzir entrevistas; adotar critérios de rigor e independência na seleção
+
+das fontes e no relacionamento profissional com elas, tendo em vista o princípio da
+
+pluralidade, o favorecimento do debate, o aprofundamento da investigação e a
+
+garantia social da veracidade; dominar metodologias jornalísticas de apuração,
+
+depuração, aferição, além das de produzir, editar e difundir; conhecer conceitos e
+
+dominar técnicas dos gêneros jornalísticos; produzir enunciados jornalísticos com
+
+clareza, rigor e correção e ser capaz de editá-los em espaços e períodos de tempo
+
+limitados; traduzir em linguagem jornalística, preservando-os, conteúdos
+
+originalmente formulados em linguagens técnico-científicas, mas cuja relevância
+
+19
+
+social justifique e/ou exija disseminação não especializada; elaborar, coordenar e
+
+executar projetos editoriais de cunho jornalístico para diferentes tipos de instituições
+
+e públicos; elaborar, coordenar e executar projetos de assessoria jornalística a
+
+instituições legalmente constituídas de qualquer natureza, assim como projetos de
+
+jornalismo em comunicação comunitária, estratégica ou corporativa; compreender,
+
+dominar e gerir processos de produção jornalística, bem como ser capaz de
+
+aperfeiçoá-los pela inovação e pelo exercício do raciocínio crítico; dominar
+
+linguagens midiáticas e formatos discursivos, utilizados nos processos de produção
+
+jornalística nos diferentes meios e modalidades tecnológicas de comunicação;
+
+dominar o instrumental tecnológico – hardware e software – utilizado na produção
+
+jornalística; avaliar criticamente produtos e práticas jornalísticas.
+
+IV - Competências comportamentais - Perceber a importância e os mecanismos
+
+da regulamentação político-jurídica da profissão e da área de comunicação social;
+
+identificar, estudar e analisar questões éticas e deontológicas no jornalismo;
+
+conhecer e respeitar os princípios éticos e as normas deontológicas da profissão;
+
+avaliar, à luz de valores éticos, as razões e os efeitos das ações jornalísticas; atentar
+
+para os processos que envolvam a recepção de mensagens jornalísticas e o seu
+
+impacto sobre os diversos setores da sociedade; impor aos critérios, às decisões e
+
+às escolhas da atividade profissional as razões do interesse público; exercer, sobre
+
+os poderes constituídos, fiscalização comprometida com a verdade dos fatos, o
+
+direito dos cidadãos à informação e o livre trânsito das ideias e das mais diversas
+
+opiniões.
+
+4.5. Procedimentos metodológicos
+
+O processo de formação não pode ser limitado à transmissão de conteúdo,
+
+deve ser ativo em que o aluno é sujeito de sua aprendizagem, com um sólido perfil
+
+técnico-científico, com visão crítica e comprometida com o todo. Tem-se no
+
+professor um agente mediador entre o aluno e o conhecimento. Desta forma os
+
+conhecimentos resultam a partir da cultura humana por meio dos conteúdos
+
+sistematizados, indo além das aparências em busca da essencial filosofia e
+
+conhecimento e profissional na formação do aluno.
+
+Os professores do curso de Jornalismo por meio do projeto pedagógico
+
+assumem um compromisso de qualidade no processo de ensino-aprendizagem, de
+
+20
+
+construção do conhecimento e no aprender a aprender. A modernidade impõe estes
+
+novos desafios e estabelecer esta conexão educacional e profissional é a garantia
+
+de uma práxis educativa mais significativa.
+
+A inquietação na busca de respostas para a sociedade é o eixo integrador, e
+
+articulador do ensino, pesquisa e extensão, fortalecendo a formação acadêmica e
+
+prática. O professor é a mola impulsionadora deste processo de aprendizagem,
+
+centrado suas ações no aprender do aluno o foco é a aprendizagem. Desta forma a
+
+aprendizagem possibilitará, ao indivíduo que aprende transformar-se e transformar
+
+seu contexto. O princípio metodológico geral, conforme as diretrizes curriculares
+
+nacionais estão traduzidas pela ação-reflexão-ação9. Será necessário para tanto
+
+uma articulação permanente entre ensino, pesquisa e extensão, colocando o
+
+discente frente a situações que questionam o processo teoria e práticas
+
+pedagógicas.
+
+A dimensão da interdisciplinaridade e da transdisciplinaridade são
+
+fundamentos metodológicos imprescindíveis para possibilitar o diálogo entre as
+
+disciplinas e os saberes, aproximando discentes e docentes, na prática acadêmica
+
+do ensino, pesquisa e extensão. Paviani (2008)10 assinala que enquanto a
+
+interdisciplinaridade promove o intercâmbio teórico e metodológico, a aplicação de
+
+conhecimentos de uma ciência em outra, a transdisciplinaridade , na prática, propõe
+
+o rompimento de paradigmas e  modelos das disciplinas acadêmicas , tendo em
+
+vista as novas exigências da sociedade.
+
+As questões relacionadas à educação ambiental, a educação das relações
+
+étnico raciais,  cultura Afro-Brasileira, Africana e Indígena estarão presentes nas
+
+disciplinas que envolvem o jornalismo comunitário, ciências sociais, ética e filosofia
+
+da comunicação, mídia cidadania e direitos humanos, Amazônia território e
+
+desenvolvimento socioeconômico e mídia e história social da Amazônia. No entanto,
+
+esses temas são transversais e devem estar presente em todas as disciplinas do
+
+curso de jornalismo nas reflexões sobre o papel da comunicação, o compromisso
+
+9 Cf. PPC do curso de Administração do Instituto de Ciências Sociais Aplicadas – ICSA da Unifesspa, 2016. 10 PAVIANI,Jayme. Interdisciplinaridade conceitos e distinções.Ed. ver. 2 Caxias do Sul Educs,2008.
+
+.
+
+21
+
+ético dos jornalistas e os discursos produzidos pelos meios de comunicação sociais
+
+e comunitário. Os trabalhos de extensão devem valorizar a produção da notícia na
+
+construção dos discursos sobre a Amazônia e seu ecossistema, Direitos Humanos e
+
+as questões Étnico-raciais, cultura Afro-Brasileira, Africana e Indígena. A
+
+universidade deve ser um espaço de diálogo permanente entre os saberes técnico-
+
+científico, senso comum e popular.
+
+Por meio de aulas expositivas dialogadas, seminários, debates, rodas de
+
+conversas, pesquisas e projetos de extensão será possível promover a integração
+
+transdisciplinar dos conteúdos propostos nesse projeto pedagógico de curso.
+
+\5. ORGANIZAÇÃO CURRICULAR DO CURSO
+
+5.1.  Estrutura do curso
+
+A duração básica/mínima estabelecida para os cursos de Jornalismo pelas
+
+Diretrizes Curriculares Nacional (resolução Nº 01, 27 de setembro de 2013) é de
+
+3.000 horas. Esse PPC proposto pelo ICSA - Unifesspa compõe-se de 3.037 horas.
+
+A organização dessa carga horária obedece ao princípio de flexibilidade
+
+estabelecido nos objetivos deste PPC. A concepção geral que norteia o Projeto é a
+
+de que o aluno seja coautor de sua vida acadêmica. Para tanto, os semestres foram
+
+pensados em blocos interligados entre si internamente e durante todo o período
+
+letivo, possibilitando ao aluno a experiência disciplinar prática e teórica conjugada às
+
+atividades de ensino, pesquisa, extensão e complementares. Dessa forma, a cada
+
+semestre, os professores envolvidos nas atividades previstas (sala de aula,
+
+laboratórios, pesquisa, extensão, estágio etc.) poderão direcionar os conteúdos de
+
+suas atividades para objetivos comuns.
+
+No ICSA já é uma praxe o desenvolvimento de projetos extensionistas. Neste
+
+ano de 2017 tivemos cinco projetos aprovados no PIBEX. Além disso, existem
+
+outros projetos, todos na perspectiva de dialogar conhecimentos científicos com os
+
+grupos sociais e organizações públicas e privadas da região, possibilitando aos
+
+discentes, técnicos e docentes uma presença continua nos processos e questões
+
+que envolvem a vida social, política, cultural e econômica do território.
+
+Nesta linha os alunos do curso de jornalismo serão incentivados a integrar-se
+
+às atividades de pesquisa e de extensão desenvolvidas pela Faculdade do curso
+
+22
+
+(como bolsistas, estagiários ou colaboradores), assim como às atividades externas
+
+(estágios, cursos, seminários etc.) de interesse para a vida acadêmica do aluno.
+
+Na elaboração do Projeto Pedagógico de Curso de Jornalismo foram levados
+
+em consideração os pressupostos das novas Diretrizes Curriculares Nacionais para
+
+o curso (Resolução 01, 27 de setembro de 2013) que em seu Art. 6º determina a
+
+organização do currículo com conteúdos que atendam a seis eixos de formação:
+
+I - Eixo de fundamentação humanística - objetivo é capacitar o jornalista para
+
+exercer a sua função intelectual de produtor e difusor de informações e
+
+conhecimentos de interesse para a cidadania, privilegiando a realidade brasileira,
+
+como formação histórica, estrutura jurídica e instituições políticas contemporâneas;
+
+sua geografia humana e economia política; suas raízes étnicas, regiões ecológicas,
+
+cultura popular, crenças e tradições; arte, literatura, ciência, tecnologia, bem como
+
+os fatores essenciais para o fortalecimento da democracia, entre eles as relações
+
+internacionais, a diversidade cultural, os direitos individuais e coletivos; as políticas
+
+públicas, o desenvolvimento sustentável, as oportunidades de esportes, lazer e
+
+entretenimento e o acesso aos bens culturais da humanidade, sem se descuidar dos
+
+processos de globalização, regionalização e das singularidades locais, comunitárias
+
+e da vida cotidiana. Neste eixo encontram disciplinas como: ciências sociais,
+
+comunicação cultura e sociedade, ética e filosofia da comunicação, mídia e
+
+Amazônia, mídia, cidadania e direitos humanos e jornalismo comunitário (cf. anexo
+
+II, III, IV e V).
+
+II - Eixo de fundamentação específica – objetivo é proporcionar ao jornalista
+
+clareza conceitual e visão crítica sobre a especificidade de sua profissão, tais como:
+
+fundamentos históricos, taxonômicos, éticos, epistemológicos; ordenamento jurídico
+
+e deontológico; instituições, pensadores e obras canônicas; manifestações públicas,
+
+industriais e comunitárias; os instrumentos de autorregulação; observação crítica;
+
+análise comparada; revisão da pesquisa científica sobre os paradigmas
+
+hegemônicos e as tendências emergentes. Neste eixo encontram-se as disciplinas
+
+de: teorias da comunicação, teorias da comunicação na América Latina,
+
+cinejornalismo, metodologia de pesquisa em comunicação, estética da comunicação,
+
+comunicação e teorias da linguagem (cf. anexo II, III, IV e V).
+
+III - Eixo de fundamentação contextual - tem por escopo embasar o conhecimento
+
+das teorias da comunicação, informação e cibercultura, em suas dimensões
+
+23
+
+filosóficas, políticas, psicológicas e socioculturais, o que deve incluir as rotinas de
+
+produção e os processos de recepção, bem como a regulamentação dos sistemas
+
+midiáticos, em função do mercado potencial, além dos princípios que regem as
+
+áreas conexas. Compõe esse eixo as disciplinas de: teorias e história do jornalismo,
+
+economia política da comunicação, Amazônia, território e desenvolvimento
+
+socioeconômico, Marketing e seminário de comunicação, gestão e inovação.
+
+IV - Eixo de formação profissional - que objetiva fundamentar o conhecimento
+
+teórico e prático, familiarizando os estudantes com os processos de gestão,
+
+produção, métodos e técnicas de apuração, redação e edição jornalística,
+
+possibilitando-lhes investigar os acontecimentos relatados pelas fontes, bem como
+
+capacitá-los a exercer a crítica e a prática redacional em língua portuguesa, de
+
+acordo com os gêneros e os formatos jornalísticos instituídos, as inovações
+
+tecnológicas, retóricas e argumentativas. As disciplinas desse eixo são: análise e
+
+interpretação textual, fotojornalismo, comunicação e empreendedorismo, jornalismo
+
+impresso, produção multimídia e ciberjornalismo, assessoria de imprensa e gestão
+
+da comunicação.
+
+V - Eixo de aplicação processual – tem o objetivo de fornecer ao jornalista
+
+ferramentas técnicas e metodológicas, de modo que possa efetuar coberturas em
+
+diferentes suportes: jornalismo impresso, radiojornalismo, telejornalismo,
+
+webjornalismo, assessorias de imprensa e outras demandas do mercado de
+
+trabalho. Disciplinas como: introdução ao radiojornalismo, introdução ao
+
+telejornalismo, introdução ao Jornalismo, introdução ao ciberjornalismo.
+
+VI - Eixo de prática laboratorial - que tem por objetivo adquirir conhecimentos e
+
+desenvolver habilidades inerentes à profissão a partir da aplicação de informações e
+
+valores. Possui a função de integrar os demais eixos, alicerçado em projetos
+
+editoriais definidos e orientados a públicos reais, com publicação efetiva e
+
+periodicidade regular, tais como: jornal, revista e livro, jornal mural, radiojornal,
+
+telejornal, webjornal, agência de notícias, assessoria de imprensa, entre outros. As
+
+disciplinas que compõem esse eixo são: laboratório de radiojornalismo, laboratório
+
+de telejornalismo, laboratório de produção jornalística, laboratório de assessoria da
+
+comunicação organizacional.
+
+24
+
+Esses seis eixos são materializados em fases integradas de aprendizado que
+
+buscam dar ao estudante uma formação humanística entrelaçada com capacidade
+
+criativa e habilidades técnicas.
+
+A política de promoção dos direitos humanos será realizada em diversos
+
+momentos ao longo do curso, em especial ao longo das disciplinas obrigatórias
+
+(Anexo VII), que compõem de disciplinas que promovem um debate sobre a
+
+comunicação, direitos humanos e cidadania, bem como nas atividades ligadas ao
+
+Programa de Extensão Universitária. Segundo o Conselho Nacional de Educação,
+
+Direitos Humanos são “reconhecidos como um conjunto de direitos civis, políticos,
+
+sociais, econômicos, culturais e Ambientais” (CNE/CP n°1, 2012).
+
+A fim de construir uma sociedade mais justa, igualitária e contribuir para o
+
+reconhecimento e valorização da história, cultura e identidade dos povos indígenas,
+
+negros e quilombolas, os estudantes do curso de Jornalismo devem possuir uma
+
+formação curricular que discuta os direitos humanos (principalmente nas disciplinas
+
+sobre Jornalismo, cidadania e direitos; Mídia e História Social da Amazônia e
+
+Amazônia, território e desenvolvimento socioeconômico), sustentabilidade
+
+socioambiental, educação ambiental, uso e ocupação do solo e dos recursos
+
+hídricos, especialmente em reservas indígenas e comunidades quilombolas. Nas
+
+disciplinas de conhecimento em Ciências Sociais, Ética e filosofia da comunicação e
+
+as que produzem discussões sobre à Amazônia serão abordadas as relações étnico-
+
+raciais como a produção dos discursos sobre a Amazônia, sua natureza, cultura e
+
+seus povos (Anexo VII). Além disso, o discente será estimulado a participar de
+
+eventos que abordem a temática da educação étnico-racial e apresentar
+
+documentos comprobatórios para pontuar no Relatório de Atividades
+
+Complementares.
+
+As disciplinas optativas devem proporcionar possibilidades de adquiri novos
+
+conhecimentos e por princípio, todo aluno terá liberdade para montar seu leque de
+
+optativas, podendo escolhê-las dentre: LIBRAS, AMAZÔNIA: TERRITÓRIO E ATORES
+
+SOCIAIS, ECONOMIA E DESENVOLVIMENTO REGIONAL, PRODUÇÃO
+
+AGROINDUSTRIAL, GESTÃO DE PROJETOS.
+
+Essas disciplinas estão vinculadas ao Instituto de Ciências Sociais Aplicadas
+
+– ICSA e a outros Institutos da Unifesspa e têm relação com a formação do
+
+profissional de Jornalismo. Para tanto, deve solicitar à Coordenação do Curso de
+
+Jornalismo à qual se vincula a disciplina, com antecedência de pelo menos um
+
+25
+
+semestre letivo, as providências necessárias relativas à demanda de vaga e controle
+
+de frequência e conhecimentos.
+
+5.2 Trabalho de Conclusão de Curso (TCC)
+
+Como prevê o Art. 79 do Regulamento do Ensino de Graduação (2014), o
+
+Trabalho de Conclusão de Curso (TCC) é uma atividade curricular obrigatória com a
+
+finalidade de sistematizar o conhecimento sobre um determinado tema. O TCC será
+
+realizado individualmente e orientado por professor da área de comunicação ou das
+
+ciências sociais aplicadas, em um dos campos de conhecimento do curso, a partir
+
+de proposta do aluno e com a concordância do orientador. Portanto, o aluno deverá
+
+realizar matricula para a realização efetiva do TCC.
+
+Conforme estabelece a RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013,
+
+do curso de jornalismo, o TCC pode se constituir em um trabalho prático de cunho
+
+jornalístico ou de reflexão teórica sobre temas relacionados à atividade jornalística e
+
+deve vir, necessariamente, acompanhado por relatório, memorial ou monografia de
+
+reflexão crítica sobre sua execução, de forma que reúna e consolide a experiência
+
+do aluno com os diversos conteúdos estudados durante o curso (cf. anexo VIII).
+
+O TCC começa a ser produzido no penúltimo (sétimo) semestre do curso, a
+
+partir do componente curricular elaboração de projeto de TCC (68h). O projeto de
+
+TCC deverá ter a seguinte composição: Introdução (apresentação do tema/objeto,
+
+problema e hipóteses da pesquisa); justificativa da proposta (contribuição acadêmica
+
+e social); Objetivos da pesquisa (Geral e Específicos); Metodologia (Métodos e
+
+técnicas de pesquisas); Referencial teórico (discussão preliminar de autores que
+
+corroboram com a pesquisa); Cronograma da pesquisa; e Referências (textos,
+
+artigos, obras e materiais utilizados para a produção do trabalho). Nessa fase os
+
+discentes serão avaliados pelo docente responsável pela disciplina, com o apoio
+
+(sugestões) dos professores orientadores de cada proposta de TCC.  No oitavo
+
+semestre, na disciplina TCC (68 horas) o aluno deverá dar continuidade ao seu
+
+projeto. O TCC deverá conter os seguintes itens: capa; folha de rosto; lista de
+
+figuras, de tabelas, de abreviaturas e de siglas; resumo; sumário; introdução
+
+(apresentação do tema/objeto, justificativa, problema e hipóteses da pesquisa);
+
+26
+
+Objetivos (Geral e Específicos); Metodologia (Métodos e técnicas de pesquisas);
+
+Referencial Teórico (Arcabouço teórico que orientam a discussão da proposta do
+
+trabalho); Referencias; Apêndices e Anexos. A avaliação do TCC será por meio de
+
+defesa pública feita pelo discente e submetido a análise de três professores
+
+membros da banca avaliadora (professor orientador e mais dois docentes
+
+convidados).   .
+
+5.3. Estágio Supervisionado
+
+O estágio supervisionado terá uma carga horária de 204 horas em
+
+conformidade com o parágrafo único da Resolução Nº 1, de 27 de setembro de
+
+2013, das Diretrizes Curriculares Nacionais para o Curso de Jornalismo -
+
+Bacharelado. Em cumprimento ao que estabelece o artigo 12 da referida resolução,
+
+o estágio curricular supervisionado é componente obrigatório do currículo, tendo
+
+como objetivo consolidar práticas de desempenho profissional inerente ao perfil do
+
+formando, definido em cada instituição por seus colegiados acadêmicos, aos quais
+
+competem aprovar o regulamento correspondente, com suas diferentes modalidades
+
+de operacionalização. Para tanto, indicará um docente para coordenar as atividades
+
+de estágio, com o objetivo de interagir no cumprimento das normas estabelecidas
+
+pelo ICSA. Como estágio deve-se compreender o exercício demandado do campo
+
+profissional de jornalismo, possibilitando ao discente interagir com os conteúdos
+
+ministrados na academia e sua atuação no mercado de trabalho. Neste sentido
+
+poder-se-ia indicar alguns princípios fundamentais:
+
+\- Colaborar na integração entre ensino, pesquisa e extensão;
+
+\- Conciliar as atividades acadêmicas com o mundo do trabalho;
+
+\- Proporcionar uma preparação antecipada do aluno no campo profissional;
+
+\- Conciliar teoria e prática;
+
+\- Cumprir as novas Diretrizes Curriculares Nacionais para o Curso de Jornalismo
+
+Bacharelado;
+
+\- Acompanhar o desenvolvimento das atividades do aluno no mundo do
+
+trabalho.
+
+O estágio curricular supervisionado poderá ser realizado em instituições
+
+públicas, privadas ou do terceiro setor ou na própria instituição de ensino, em
+
+veículos autônomos ou assessorias profissionais no sétimo semestre. As atividades
+
+do estágio curricular supervisionado deverão ser programadas para os períodos
+
+27
+
+finais do curso, possibilitando aos alunos concluintes testar os conhecimentos
+
+assimilados em aulas e laboratórios, cabendo aos responsáveis pelo
+
+acompanhamento, supervisão e avaliação do estágio curricular avaliar e aprovar o
+
+projeto de estágio e memorial, resguardando o padrão de qualidade nos domínios
+
+indispensáveis ao exercício da profissão11.
+
+Na Unifesspa o Estágio Supervisionado evidencia que se trata de um conjunto
+
+de atividades técnico científicas, artísticas e culturais realizadas em ambiente de
+
+trabalho, com o objetivo de capacitar o discente para o trabalho profissional na sua
+
+área de formação, sendo, portanto, obrigatório e imprescindível na composição
+
+formativa dos discentes. No seu artigo terceiro a resolução 016 do CONSEPE da
+
+Unifesspa afirma que o Estágio Supervisionado deverá constituir se de atividades de
+
+formação teórico-prática orientada e supervisionada, de modo a promover o
+
+desenvolvimento de habilidades e competências básicas, gerais e específicas, bem
+
+como de atitudes formativas para o exercício profissional socialmente
+
+comprometido12.
+
+5.4. Atividades Complementares
+
+As diretrizes orientadoras do perfil dos egressos, das competências e
+
+habilidades previstas, bem como os tópicos de estudos - conteúdos básicos e
+
+específicos - abrangem não apenas o ensino em sala de aula, mas também outras
+
+atividades curriculares.
+
+De acordo com a Resolução no 01 que institui as Diretrizes Curriculares
+
+Nacionais para o curso de jornalismo o conjunto de atividades complementares tem
+
+o objetivo de dar flexibilidade ao currículo e deve ser selecionado e realizado pelo
+
+aluno ao longo de seu curso de graduação, de acordo com seu interesse e com a
+
+aprovação da coordenação do curso, devendo ser realizadas sob a supervisão,
+
+orientação e avaliação de docentes do próprio curso, tendo os mecanismos e
+
+critérios para avaliação das atividades complementares definidos em regulamento
+
+próprio da instituição, respeitadas as particularidades e especificidades próprias do 11 Cf. artigo 12 da Resolução Nº 1, de 27 de setembro de 2013, das Diretrizes Curriculares Nacionais para o Curso de Jornalismo Bacharelado. 12 Disponível em: <https://proeg.unifesspa.edu.br/images/conteudo/proeg/Resoluo_CONSEPE_n16.pdf>. Acesso em: 11 abr. 2018.
+
+28
+
+curso de Jornalismo, atribuindo a elas um sistema de créditos, pontos ou
+
+computação de horas para efeito de integralização do total da carga horária previsto
+
+para o curso. No curso de jornalismo as atividades complementares compõem-se de
+
+300 horas.
+
+São consideradas atividades complementares: I - atividades didáticas:
+
+frequência e aprovação em disciplinas não previstas no currículo do curso,
+
+ampliando o conhecimento dos estudantes de Jornalismo sobre conteúdos
+
+específicos, como economia, política, direito, legislação, ecologia, cultura, esportes,
+
+ciência, tecnologia etc. II - atividades acadêmicas: apresentação de relatos de
+
+iniciação científica, pesquisa experimental, extensão comunitária ou monitoria
+
+didática em congressos acadêmicos e profissionais.
+
+Buscando complementar a formação desenvolvida em sala de aula, as
+
+atividades complementares são objetivadas em sua oferta pela finalidade de
+
+aproximar a teoria à pratica, a interdisciplinaridade, e aproximação humanística do
+
+aluno sua complementação em sua formação social, comunitário e profissional,
+
+atividades de iniciação cientifica e de extensão. Como requisito avaliativo, propõe-se
+
+o seguinte o quadro que especifica a pontuação e orienta esse componente
+
+curricular proposto.
+
+QUADRO 1 - ATIVIDADES COMPLEMENTARES13
+
+13 Cf. PPC de Jornalismo da FACOM da UFPA.
+
+29
+
+Atividade
+
+Carga Horária/
+
+Unidade
+
+Máximo/Unidades
+
+(Anual)
+
+\1. Participação em cursos de extensão e oficinas (mínimo de
+
+15h) 10h 4
+
+\2. Participação em congressos e similares, na área 05h 8
+
+\3. Participação em congressos e similares,  em área afim 03h 8
+
+\4. Participação como palestrante, conferencista ou atividades
+
+similares em eventos acadêmicos ou profissionais
+
+20h 3
+
+\5. Apresentação de trabalho em congressos ou similares
+
+locais
+
+10h 4
+
+\6. Apresentação de trabalho em congressos ou similares
+
+nacionais
+
+20h 3
+
+\7. Apresentação de trabalhos em congressos ou similares
+
+internacionais
+
+30h 2
+
+\8. Publicação de trabalho em anais de evento local ou
+
+regional, com ISSN
+
+10h
+
+\9. Publicação de trabalho em anais de evento nacional, com
+
+ISSN
+
+20h
+
+\10. Publicação de trabalho em anais de evento internacional,
+
+com ISSN
+
+30h
+
+\11. Publicação de artigo assinado em periódico sem corpo
+
+editorial
+
+10h 4
+
+\12. Publicação de artigo em periódico com corpo editorial 20h 3
+
+\13. Publicação de artigo em periódico qualis B3 e B4 30h 2
+
+\14. Publicação de artigo em periódico qualis B2 e B1 50h 3
+
+\15. Publicação de artigo, reportagem ou crônica ou fotografia
+
+assinados em jornais ou revistas
+
+10h 3
+
+\15. Publicação de artigos assinados em sites especializados
+
+na Internet
+
+10h 3
+
+\16. Publicação de resenha assinada relevante para a área de
+
+estudos
+
+20h 4
+
+30
+
+\17. Monitoria 30h 2
+
+\18. Participação semestral em projeto de pesquisa 20h 2
+
+\19. Participação semestral em projeto de extensão 20h 2
+
+\20. Participação semestral como bolsista de iniciação
+
+científica
+
+30h 2
+
+\21. Participação semestral como bolsista de extensão 30h 2
+
+\22. Premiação em mostra competitiva local 15h 2
+
+\23. Premiação em mostra competitiva nacional 20h 2
+
+\24. Premiação em mostra competitiva internacional 30h 2
+
+\25. Produção de vinheta gráfica para rádio e para TV
+
+comprovadamente veiculada
+
+15h 5
+
+\26. Participação em produções para cinema, TV e rádio, com
+
+autoria comprovada
+
+15h 4
+
+\27. Participação em produções para a internet (projeto gráfico
+
+de website, texto, imagem e som), com autoria comprovada
+
+15h 4
+
+\28. Participação na produção de filmes publicitários, curtas ou
+
+longa-metragens
+
+15h 3
+
+\29. Produção de programa veiculado em rádio ou TV 15h 3
+
+\30. Direção de filmes publicitários ou curta-metragens 30h 3
+
+\31. Participação em comissão organizadora de eventos
+
+acadêmicos ou diretamente vinculados à área profissional
+
+10h 4
+
+\32. Assessoria temporária na área do curso 20h 2
+
+\33. Produção de material didático na área de Jornalismo ou
+
+Comunicação
+
+25h 2
+
+5.5.  Articulação do Ensino, Pesquisa e Extensão
+
+A Unifesspa tem por objetivo ministrar ensino superior, desenvolver pesquisa
+
+nas diversas áreas do conhecimento e promover a extensão universitária,
+
+caracterizando sua inserção regional mediante atuação multicampi.
+
+Em outras palavras, a Unifesspa desenvolve programas e projetos de Ensino,
+
+nos níveis de graduação e de pós-graduação, Pesquisa e Extensão, sob a forma de
+
+31
+
+atividades presenciais e, nos termos da legislação vigente, à distância, em grandes
+
+áreas do conhecimento.
+
+5.6 Política de Pesquisa
+
+A pesquisa ocorre simultaneamente no âmbito do ensino, por meio da
+
+inquietação e do processo de investigação que cada componente curricular desperta
+
+no discente e deve ser motivado pelo docente. O processo de iniciação científica
+
+acontece de forma estruturada e incentivada pelos docentes ao utilizarem
+
+metodologias participativas e que associem teoria à prática em diversas atividades
+
+curriculares, e pela Pró-Reitoria de Pesquisa e Inovação Tecnológica (PROPIT), por
+
+meio da oferta de editais que possibilitem o desenvolvimento de pesquisas e a
+
+concessão de bolsas14.
+
+O corpo docente incentivará a participação dos discentes em projetos e
+
+atividades de pesquisa. Haverá orientações sobre a importância da Iniciação
+
+Cientifica e participação em projetos, sejam como bolsistas ou voluntários,
+
+fortalecendo assim nossa equipe e desenvolvendo no discente este espírito
+
+pesquisador.
+
+Sendo assim, para fortalecer a política de pesquisa adotada pelo curso,
+
+pretende-se:
+
+• Incentivar e valorizar a formação de Grupos de estudos e/ou Pesquisas;
+
+• Aprovar projetos de pesquisa e auxiliar na obtenção de recursos junto às
+
+agências de financiamento, buscando a valorização da produção científica;
+
+• Estimular o envolvimento dos alunos em atividades de pesquisa, tais como
+
+programas e projetos, preferencialmente como bolsistas de iniciação
+
+científica;
+
+• Incentivar e apoiar a participação em eventos científicos.
+
+5.7 Política de Extensão
+
+Na área de extensão serão desenvolvidas atividades que possibilitam o
+
+exercício crítico e prático dos alunos de Jornalismo. Para a socialização do
+
+conhecimento produzido, a extensão surge como meio que permite fortalecer a 14 Cf. PPC de administração do ICSA, Unifesspa.
+
+32
+
+relação com a comunidade e, concomitantemente, retroalimentar o ensino, a
+
+pesquisa e a própria extensão, gerando assim novos conhecimentos científicos.
+
+A extensão, então, se concretiza como sendo o lugar do exercício da função
+
+social do ICSA, aproximando sua vocação técnico/cientifica ao seu compromisso
+
+social e humanizado, local e regional. A pesquisa e extensão funcionam como
+
+agentes facilitadores neste processo de interação e criação de ações de melhoria na
+
+qualidade de vida da sociedade.
+
+Nesta concepção a extensão aproxima o processo de entendimento entre a
+
+teoria-prática auxiliando na formação do jornalista, por meio de ações
+
+interdisciplinares e transdisciplinares, com atitudes éticas em suas decisões.
+
+Conforme regulamento dos cursos de graduação da Unifesspa em seus
+
+artigos de 61 a 66, as atividades de extensão serão desenvolvidas ao longo do curso
+
+e não em apenas um momento estanque.. As atividades de extensão são dialogadas
+
+no processo ensino-aprendizagem. Portanto, 10% da carga horário total do curso
+
+serão de atividades de extensão, compondo-se de 408 horas. No curso de
+
+jornalismo do ICSA serão efetivadas em ações nos meios de comunicação social
+
+local e regional (rádios, jornais, TVs, blogs, etc.). Poderão ser realizadas ainda
+
+atividades de produção da comunicação junto às escolas públicas, poder público
+
+local, em associações e cooperativas do terceiro setor e meio empresarial local e
+
+regional.
+
+A proposta de extensão, portanto, se concretizará inicialmente, em três
+
+projetos extensionistas:
+
+1) compreensão das dinâmicas territoriais e o processo histórico de ocupação da
+
+região da BR 222 onde a cidade de Rondon do Pará encontra-se localizada. Os
+
+estudantes do curso de jornalismo desenvolverão atividades de visitas junto a
+
+organizações como sindicato dos trabalhadores rurais; comunidades indígenas;
+
+populações localizadas as margens do rio ararandeua; moradores da cidade
+
+(poetas, músicos, cantores, professores, etc.);
+
+2) Oficinas de produção de textos junto aos alunos do ensino fundamental e médio;
+
+3) Oficinas de rádio, jornal impresso e audiovisual junto aos alunos do ensino
+
+fundamental e médio, associação, cooperativas e ONGs da cidade de Rondon do
+
+Pará e municípios vizinhos.
+
+33
+
+A AGECOM – Agência de Comunicação será também um instrumento de
+
+apoio aos projetos de ensino, pesquisa e extensão. Ela será coordenada por
+
+docente do curso de jornalismo, junto a discentes bolsistas e voluntários. Ela deverá
+
+oferecer serviços de capacitação e produção de materiais na área de comunicação
+
+para a Unifesspa (Institutos e cursos) e a comunidade (associações, cooperativas,
+
+sindicatos, secretarias do governo municipal e setor privado). Esses trabalhos
+
+poderão ser realizados por discentes dos últimos períodos do curso sob o
+
+acompanhamento docente. A AGECOM terá a tarefa de executar e implementar a
+
+Política Pública de Comunicação vigente no Instituto. Trata-se de uma comunicação
+
+abrangente e planejada que integra Universidade e comunidade, interna e externa,
+
+atendendo a demandas institucionais e de interesse público ou coletivo.
+
+5.8. Política de Inclusão Social e Ações Afirmativas
+
+O Instituto de Ciências Sociais Aplicadas está ciente das suas
+
+responsabilidades quanto à efetivação da Política de Inclusão Social da Unifesspa,
+
+pretendendo colaborar com esse processo com apoio da Pró-Reitoria de Ensino de
+
+Graduação, no que concerne a oferta de um ensino acessível a todos os alunos. Em
+
+parceria com a PROEG pretende-se ainda que sejam criados mecanismos para a
+
+formação pedagógica do professor universitário proporcionando-lhe o devido suporte
+
+para trabalhar com as questões pertinentes ao processo de ensino-aprendizagem e
+
+diferentes sujeitos que compõem a Instituição.
+
+O Departamento de Apoio Psicossociopedagógico – DAPSI - que compõe a
+
+Pró-Reitoria de Ensino de Graduação, atua na implementação de políticas de
+
+atendimento ao discente que favorecem sua permanência na Unifesspa, conforme
+
+preconiza o Plano de Desenvolvimento Institucional – PDI Aditamento (2014-2018).
+
+O DAPSI oferece apoio psicopedagógico e social aos discentes com o objetivo de
+
+otimizar a aprendizagem, a socialização e o protagonismo dos discentes na sua vida
+
+acadêmica15. Para a garantia da transversalidade da Educação Especial no ensino
+
+superior, o curso poderá contar com a assessoria e apoio do Núcleo de
+
+Acessibilidade e Inclusão Acadêmica – NAIA, criado em 2014, com o propósito de:
+
+15 Disponível em: <https://proeg.unifesspa.edu.br/dapsi.html>. Acesso em: 17 de abr. 2018.
+
+34
+
+[...] contribuir com políticas e práticas institucionais de acessibilidade física, atitudinal e pedagógica de alunos com deficiência, transtorno global e altas habilidades ou superdotação no esforço de minimizar as barreiras que obstaculizam o acesso a espaços, conhecimentos, bens culturais e interações sociais no ambiente universitário. O NAIA é um espaço pedagógico de atendimento educacional especializado a
+
+discentes com deficiência da Unifesspa, que desenvolve ações de ensino, pesquisa
+
+e extensão. Surge a partir de experiências acumuladas na área de educação
+
+especial desenvolvidas em projetos e programas de ensino, pesquisa e extensão
+
+desenvolvidas a partir de 2012. Institucionaliza-se com a nomeação de uma
+
+coordenadora especializada na área em abril de 2014 pela administração superior
+
+da Unifesspa. Considerando o papel que o NAIA tem de prestar apoio especializado
+
+a discentes com deficiência, transtorno global do desenvolvimento e altas
+
+habilidades/superdotação, conforme as orientações da Política Nacional de
+
+Educação Especial na perspectiva da Educação Inclusiva (BRASIL, 2008).
+
+Observando o que preconiza as orientações do Regulamento de Ensino de
+
+Graduação, a respeito da política de inclusão acadêmica, sempre que houver
+
+demanda, a Administração Superior da Unifesspa será acionada para
+
+disponibilização de recursos orçamentários e financeiros para adequação e
+
+atendimento ao discente, conforme estabelece o artigo 112 (UNIFESSPA/PROEG,
+
+2014).
+
+A Unifesspa assume como Política de ações afirmativas a reserva de vagas
+
+específicas para pessoas com deficiência (PCD), assim como o acréscimo de vagas
+
+para populações quilombolas e indígenas, conforme resolução da Unifesspa Nº 22,
+
+de 13 de Novembro de 2014, nos cursos de graduação da Unifesspa a cada grupo
+
+mencionado anteriormente.
+
+O que demonstra a preocupação institucional em possibilitar o acesso a
+
+educação superior aos grupos étnicos, o que corrobora a necessidade de parceria
+
+com as Pró-reitorias e Núcleos de Ensino, Pesquisa e Extensão presentes na
+
+instituição16.
+
+16 Cf, PPC do curso de Administração do ICSA, Unifesspa.
+
+35
+
+\6. PLANEJAMENTO DO TRABALHO DOCENTE
+
+O Colegiado do curso de jornalismo deve elaborar e a aprovar o plano de
+
+trabalho de cada semestre no final do semestre anterior. Tal prática deve viabilizar o
+
+planejamento e realização do semestre letivo. Em outras palavras, ao final de cada
+
+semestre letivo deverão ser definidas as atividades de ensino, pesquisa e extensão
+
+para o próximo semestre, com a participação dos professores da Faculdade.
+
+De acordo com Regulamento de Graduação da Unifesspa (Cap. X; Art. 88,89,
+
+§ 1,2 e 3)17, o programa e o conteúdo das Atividades Curriculares de cada Curso
+
+serão definidos no âmbito da Subunidade e caberá a estas  reunir os docentes
+
+responsáveis pelas Atividades Curriculares em cada período letivo, para fins de
+
+planejamento, acompanhamento e avaliação.  As reuniões de planejamento e
+
+avaliação de cada período letivo terão períodos definidos no Calendário Acadêmico
+
+e os programas e planos de ensino serão elaborados e aprovados de forma coletiva
+
+pelo Conselho da Faculdade.
+
+\7. SISTEMA DE AVALIAÇÃO
+
+7.1 Concepção e Princípios da Avaliação
+
+O processo avaliativo merece uma reflexão crítica sobre os avanços,
+
+resistências e dificuldades frente ao processo ensino-aprendizagem proposto pela
+
+Universidade, centrada na dimensão integral e dialógica. Portanto, se a função
+
+social da universidade é formação integral do indivíduo por meio do desenvolvimento
+
+de suas competências e habilidades, torna-se imprescindível superar as formas
+
+tradicionais de avaliação para um modelo de avaliação mais formativo e reflexivo,
+
+contínuo e diagnóstico do processo ensino-aprendizagem.
+
+A sociedade que se pretende construir tem sua concepção na formação do
+
+homem e perpassa pela educação, pela formação ética e profissional, e ocorre uma
+
+divergência em muitos momentos entre a proposta da educação e a prática efetiva,
+
+parte disto refere-se a um planejamento formal e engessado onde os professores
+
+esquecem a realidade e os objetivos que norteiam a formação do ser humano.
+
+Segundo Hadji (2001)18, avaliação formativa é aquela que se situa no centro da ação
+
+17 Disponível em: <https://www.unifesspa.edu.br/images/documentos/Regul_de_Graduacao.pdf>. Acesso em: 17 de abr. 2018.
+
+18 HADJI, C. Avaliação desmistificada. Porto Alegre: Artmed Editora, 2001.
+
+36
+
+de formação. É a avaliação que proporciona o levantamento de informações úteis à
+
+regulação do processo ensino – aprendizagem, contribuindo para a efetivação da
+
+atividade de ensino.
+
+No curso de jornalismo os princípios da avaliação se fundamentam na
+
+concepção formativa e colaborativa entre docentes e discentes do curso e do
+
+Instituto de Ciências Sociais Aplicadas, em uma perspectiva integral e dialógica,
+
+articulando ensino, pesquisa e extensão. Ao caracterizar tal avaliação, Hadji apud
+
+Caseiro e Gebran (2008)19 apontam:
+
+“...que ela deve ser informativa, à medida que informa os atores do processo educativo. Neste sentido, ela informa o professor dos efeitos reais de sua intervenção pedagógica, possibilitando que ele regule sua ação a partir disso. O aluno percebe onde está, toma consciência das dificuldades que encontra e pode tornar- se capaz de reconhecer e corrigir seus próprios erros. A continuidade é outra característica da avaliação formativa, que deve estar inscrita no centro do processo educativo, formativo, proporcionando uma articulação mais eficaz e constante entre coleta de informações e ação remediadora”. O processo de transformação que deve ocorrer em uma avaliação inicia-se
+
+parte de um diagnóstico da realidade possa ser atribuída decisões sobre o que fazer
+
+para superar os problemas identificados, é a inserção do aluno num processo de
+
+intervir na realidade de forma reflexiva, compreensiva e relacional. A modernidade
+
+exige uma nova visão da avaliação, ela deve ser construída por práticas inovadoras,
+
+onde os processos de solução e uso do conhecimento são mais valorizadas que a
+
+capacidade de armazená-lo.
+
+Diante do exposto o que se requer do aluno é que seja capaz de pensar, de
+
+interpretar a informação disponível, de desenvolver habilidades, de construir
+
+alternativas, de dominar processos que levem a novas investigações, de
+
+desenvolver o espírito crítico entre outras características extremamente necessárias
+
+frente as novas demandas do mundo atual. O professor tem de substituir a resposta
+
+pronta que dá aos alunos pela capacidade de (des) construir com eles o
+
+conhecimento. Portanto, os princípios fundamentais da avaliação devem indicar
+
+19 CASEIRO, Cíntia Camargo Furquim e GEBRAN, Raimunda Abou. Avaliação formativa: concepção, práticas e dificuldades. In Nuances: estudos sobre Educação. Presidente Prudente, SP, ano XIV, v. 15, n. 16, p. 141-161, jan./dez. 2008.
+
+37
+
+continuidade, participação, diversidade, a partir de uma concepção de formação
+
+ampla do aluno cidadão.
+
+7.2 Avaliação da Aprendizagem
+
+A proposta do curso de Jornalismo é de que o processo de avaliação deixe de
+
+ser um mero instrumento punitivo para ser um mecanismo eficiente de avaliação da
+
+aprendizagem, estendendo-se de modo cada vez mais consciente, sistemático e
+
+fundamentado cientificamente. Para tanto as políticas educacionais, as reformas e
+
+inovações do sistema educacional, e as reformulações dos projetos pedagógicos,
+
+dos currículos e dos programas devem ser constantes e amplas.
+
+Em relação ao desempenho escolar a avaliação acontece para medir o
+
+desenvolvimento do discente em relação ao processo ensino-aprendizagem, de
+
+acordo com seu aprimoramento. Com isso a avaliação tem as seguintes
+
+características:
+
+✓ Diagnosticar a situação de aprendizagem do aluno;
+
+✓ Verificar os avanços e dificuldades do aluno no processo de apropriação, de
+
+construção e de recriação do conhecimento, em função do trabalho
+
+desenvolvido;
+
+✓ Fornecer aos professores elementos para uma reflexão sobre o trabalho
+
+realizado, tendo em vista o planejamento constante;
+
+✓ Possibilitar ao aluno tomar consciência de seus avanços e dificuldades,
+
+visando ao seu envolvimento no processo ensino-aprendizagem;
+
+✓ Embasar a tomada de decisão quanto à promoção ou retenção dos alunos.
+
+A avaliação do desempenho escolar será realizada por componente
+
+curricular, mensurando os aspectos de frequência e aproveitamento que comprovem
+
+eficiência nos estudos, trabalhos escolares e pesquisas, garantindo conforme
+
+resolução dos cursos de graduação da UNIFESSPA a aprovação ou reprovação ao
+
+discente.
+
+Para fins de avaliação qualitativa e quantitativa dos conhecimentos serão
+
+atribuídos aos alunos da graduação e da pós-graduação os seguintes conceitos,
+
+equivalentes às notas:
+
+EXC- Excelente (9,0- 10,0)
+
+BOM- Bom (7,0- 8,9)
+
+38
+
+REG- Regular (5,0- 6,9)
+
+INS- Insuficiente (0- 4,9)
+
+Os critérios de avaliação do ensino superior e profissional obedecerão ao que
+
+dispuser os seus regulamentos específicos.
+
+Considerar-se-á aprovado o discente que, na disciplina ou atividade
+
+correspondente, obtiver o conceito REG, BOM, ou EXC e pelo menos setenta e
+
+cinco por cento (75%) de frequência nas atividades programadas. Além destes,
+
+podem ser atribuídas denominações que caracterizem as situações em que o
+
+discente não obteve frequência mínima exigida (Sem Frequência) ou para aqueles
+
+que não cumpriram as atividades programadas (Sem Avaliação).
+
+Compete ao docente apresentar e discutir com os discentes, no início da
+
+atividade curricular, os critérios que nortearão o processo de avaliação. Assim como
+
+as metodologias, os instrumentos avaliativos também deverão ser diversificados com
+
+a utilização de provas escritas, apresentação de trabalhos, elaboração de projetos,
+
+produção de relatórios, entre tantas outras que poderão ser propostas pelo corpo
+
+docente ao planejarem as atividades.
+
+Conforme Regulamento de Ensino e Graduação da Unifesspa (art. 94-98) os
+
+procedimentos de avaliação das Atividades Curriculares serão propostos pelo
+
+docente e referendados em reunião semestral de planejamento, em consonância
+
+com o Projeto Pedagógico de Curso e o planejamento do período letivo. É
+
+importante ressaltar que aspectos como assiduidade, frequência e aproveitamento
+
+serão observados e a frequência mínima será de 75% das atividades ministradas.
+
+Em caso o aluno não alcance a média de aprovação poderá ser realizada
+
+uma avaliação substitutiva, conforme Regulamento de Ensino e Graduação da
+
+Unifesspa (Art. 98) que estabelece: “a Avaliação Substitutiva será uma oportunidade
+
+oferecida ao discente que não obteve conceito à aprovação na Atividade Curricular,
+
+mas com frequência mínima de 75% (setenta e cinco por cento). A Avaliação
+
+Substitutiva não se aplicará a Atividades Curriculares de natureza essencialmente
+
+prática. O conceito final deverá ser substituído pelo novo conceito obtido com a
+
+realização da Avaliação Substitutiva, nos prazos fixados no Calendário Acadêmico”.
+
+7.3 Avaliação do Ensino
+
+O Regulamento do Ensino de Graduação da Unifesspa (RESOLUÇÃO Nº
+
+008, DE 20 DE MAIO DE 2014) determina que a avaliação das atividades didático-
+
+39
+
+pedagógicas deve ocorrer ao término de cada período letivo e, tal processo de
+
+avaliação de desempenho, de modo geral, é uma ação sistemática de análise das
+
+condições e resultados do desempenho de cada profissional em função de suas
+
+atividades, metas, e resultados a serem alcançados, competências e potencial a
+
+serem desenvolvidas.
+
+O desempenho ao ser avaliado deve considerar indicadores como meta,
+
+objetivos e resultados esperados, tanto da Unidade, quanto da organização e
+
+competências (conhecimento, habilidade e atitude) a serem desenvolvidos. Com
+
+relação à avaliação dos docentes por parte do corpo discente, estes são orientados
+
+pela direção do ICSA (a partir de diretrizes estabelecidas pela PROEG) a
+
+responderem um questionário eletrônico, específico a esse fim, onde avaliam (
+
+metodologia utilizada, o conteúdo abordado, a relação educador-educando,
+
+infraestrutura e referencial bibliográfico, entre outros) e dão sugestões a respeito das
+
+atividades desenvolvidas pelos professores  É essencial que além da avaliação
+
+realizada pelos discentes, o professor realize uma auto-avaliação e a partir disso
+
+possa refletir sua prática pedagógica e verificar o que é possível e necessário ser
+
+alterado.
+
+7.4 Avaliação do Projeto Pedagógico
+
+O Projeto Pedagógico do Curso de Jornalismo da Unifesspa tem como base
+
+referenciais teóricos de políticas acadêmicas, do processo ensino-aprendizagem e,
+
+também, subjacente à ação do docente que, em condições próprias do trabalho
+
+humano, mantém autonomia para fazer seleção de conteúdos e de atividades
+
+didático-pedagógicas mais adequadas aos discentes, segundo seus interesses,
+
+fragilidades e potencialidades, bem como a utilização de “cases” experimentados ou
+
+ilustrados na sociedade como forme de facilitar o entendimento prático das teorias
+
+da administração.
+
+É salutar que o presente projeto não é por si só um documento estanque e sim
+
+de constante evolução, por isso além de sua avaliação projetada deve estar em
+
+consonância com as mudanças ocorridas no ambiente organizacional, sem projeção
+
+de data ou momento na história. È um ver ao largo, como extraído da metodologia, o
+
+presente projeto deve aumentar a compreensão dos discentes e também dos
+
+docentes acerca da ciência da administração.
+
+40
+
+Neste sentido, no que diz respeito a avaliação do PPC pretende-se realizar
+
+reuniões, com o Núcleo Docente Estruturante, para avaliar as atividades
+
+desempenhadas, o que permitirá identificar pontos do projeto que precisem ser
+
+aperfeiçoados. Tais momentos terão como suporte observações advindas dos
+
+docentes, discentes e técnico-administrativos que responderão a questionários para
+
+este fim, elaborado e orientado pela Pró-Reitoria de Ensino de Graduação.
+
+O Núcleo Docente Estruturante –NDE será composto pelos docentes do curso
+
+de jornalismo e será um dos instrumentos de avaliação, devendo se reunir
+
+mensalmente para acompanhar e propor alterações no Projeto Pedagógico de
+
+Curso, bem como a sua implementação. A coordenação do curso, em conjunto com
+
+o NDE, realizará atividades avaliativas junto aos alunos do curso semestralmente.
+
+\8. INFRAESTRUTURA
+
+8.1. Docentes
+
+Para a integralização total do curso, o ICSA receberá de acordo com a
+
+indicação e disponibilidade de outros institutos docentes de áreas diferentes do
+
+conhecimento para trabalharem componentes curriculares de sua área.
+
+O ICSA prevê em sua estrutura docente, conforme ordem de ingresso na
+
+Unifesspa, incentivo a qualificação por meio de flexibilização no horário de suas
+
+atividades, facilitando assim a melhoria na qualificação de seus docentes.
+
+QUADRO 2 – RELAÇÃO DE DOCENTES EFETIVOS DO ICSA/UNIFESSPA
+
+NOME DO
+
+DOCENTE TITULAÇÃO Regime de
+
+Trabalho
+
+Marcus Felipe Frota Gama Mestre 40 horas DE
+
+Carlos Cesar Santos Mestre 40 horas DE
+
+Ciro de Lima Campão Mestre 40 horas DE
+
+Daniella Del Lama Mestre 40 horas DE
+
+Djalma Matos da Silva Junior Graduado 40 horas DE
+
+Erica Jucio dos Reis Ferreira Mestrado 40 horas DE
+
+41
+
+QUADRO 3 - PREVISÃO DE CONTRATAÇÃO DE DOCENTES PARA O CURSO
+
+DE JORNALISMO DO ICSA
+
+TEMA DO CONCURSO
+
+Nº DE VAGAS
+
+REQUISITOS PARA O CARGO
+
+ADJUNTO A
+
+Teorias da Comunicação
+
+01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Relações Públicas e Publicidade Propaganda,
+
+Multimídia com Doutorado em Comunicação ou nas áreas de Ciências Humanas ou Ciências Sociais Aplicadas ou Letras e
+
+Linguística e multidisciplinar
+
+Teoria e História
+
+do Jornalismo
+
+01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo com Doutorado em Comunicação ou nas áreas de
+
+Ciências Humanas ou Ciências Sociais Aplicadas ou Letras e
+
+Linguística e multidisciplinar
+
+Jornalismo impresso e Editoração
+
+01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo com Doutorado em Comunicação ou nas áreas de
+
+Ciências Humanas ou Ciências Sociais Aplicadas ou Letras e
+
+Gabriel Moraes de Outeiro Mestre 40 horas DE
+
+Gustavo Passos Fortes Mestre 40 horas DE
+
+Hugo Azevedo Rangel de
+
+Morais
+
+Mestre 40 horas DE
+
+Jardson Edson Guedes da
+
+Silva Almeida
+
+Mestre 40 horas DE
+
+Jax Nildo Aragão Pinto Mestre 40 horas DE
+
+José Augusto Tavares Ferreira Mestre 40 horas DE
+
+Leandro de Oliveira Ferreira Doutor 40 horas DE
+
+Marcilene Feitosa Araújo Doutora 40 horas DE
+
+Mario Cesar Sousa de Oliveira Mestre 40 horas DE
+
+Marlla de Oliveira Feitosa Mestre 40 horas DE
+
+Miraci Matos do Carmo Especialista 40 horas DE
+
+Noberto Ferreira Rocha Mestre 40 horas DE
+
+Rafael Ramon Fonseca
+
+Rodrigues
+
+Mestre 40 horas DE
+
+Rogério Ruas Machado Doutor 40 horas DE
+
+Tiago Soares Barcelos Mestre 40 horas DE
+
+42
+
+Linguística e multidisciplinar
+
+Radiojornalismo 01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações Públicas, Multimídia com Doutorado em Comunicação ou nas áreas
+
+de Ciências Humanas ou Ciências Sociais Aplicadas ou Letras e
+
+Linguística e multidisciplinar
+
+Fotojornalismo 01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações
+
+Públicas, Cinema, Artes Visuais, Multimídia com Doutorado em
+
+Comunicação ou nas áreas de Ciências Humanas ou Ciências
+
+Sociais Aplicadas ou Letras e Linguística e multidisciplinar
+
+Telejornalismo 01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações Públicas, Cinema, Artes Visuais com Doutorado em Comunicação ou
+
+nas áreas de Ciências Humanas ou Ciências Sociais Aplicadas ou
+
+Letras e Linguística e multidisciplinar
+
+Planejamento
+
+Gráfico e Produção Multimídia
+
+01 Graduação em Multimídia ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações
+
+Públicas, Cinema, Artes Visuais, Comunicação Visual, Design, Comunicação Multimídia, Ciência da Informação com Doutorado em
+
+Comunicação ou nas áreas de Ciências Humanas ou Ciências
+
+Sociais Aplicadas ou Letras e Linguística e multidisciplinar
+
+Ciberjornalismo
+
+01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Comunicação Multimídia com Doutorado em Comunicação ou nas áreas de Ciências Humanas ou Ciências Sociais Aplicadas ou Letras
+
+e Linguística e multidisciplinar
+
+Comunicação Organizacional e
+
+Assessoria de
+
+Imprensa
+
+01 Graduação em Relações Públicas ou em Comunicação Social – Habilitação em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações Públicas, Marketing com Doutorado em Comunicação ou
+
+nas áreas de Ciências Humanas ou Ciências Sociais Aplicadas ou
+
+Letras e Linguística e multidisciplinar
+
+Mídia e História
+
+Social da Amazônia
+
+01 Graduação em Jornalismo ou em Comunicação Social – Habilitação
+
+em Jornalismo, Rádio e TV, Publicidade e Propaganda, Relações Públicas, História, Ciência Política com Doutorado em Comunicação
+
+ou nas áreas de Ciências Humanas ou Ciências Sociais Aplicadas
+
+ou Letras e Linguística e multidisciplinar
+
+43
+
+8.2 Técnicos
+
+8.3. Instalações
+
+No dia 02 de fevereiro de 2017 foi inaugurado o prédio novo do Campus
+
+Universitário de Rondon do Pará que tem 2 mil m² de área construída, espaço,
+
+oferecendo uma nova e ampla estrutura aos discentes, sociedade e servidores do
+
+Campus. Com um investimento de mais de R$ 4 milhões, o prédio conta com
+
+biblioteca, doze salas de aula com capacidade para 40 alunos cada, três mini-
+
+auditórios e salas administrativas. O destaque da obra é a biblioteca construída no
+
+pavimento térreo que possui 197,72 m². Além das áreas de estudo coletivas e
+
+individuais, a biblioteca oferece duas salas climatizadas para receber grupos de
+
+estudos. Com a finalização da obra, o ICSA triplicou sua área total, passando de
+
+690,80 m2 para 2.670,64 m2 de área construída.
+
+QUADRO 4 – RELAÇÃO DE TÉCNICOS EFETIVOS DO ICSA/UNIFESSPA
+
+Nome do Servidor Titulação Regime de
+
+trabalho Cargo
+
+Ana Lúcia Costa Souza Graduada 40h Pedagogo-Área
+
+Hully Thacyana da Costa Coelho Graduado 40h Bibliotecário
+
+José Roberto Monteiro Campos Especialista 40h Secretário executivo
+
+Mariel de Jesus Teixeira Especialista 40h Técnico em Tecnologia da
+
+Informação
+
+Romário de Sousa Madalena Médio 40h Assistente em administração
+
+Tiago de Souza Araújo Graduado 40h Assistente em administração
+
+QUADRO 5 - PREVISÃO DE CONTRATAÇÃO DE TÉCNICOS
+
+Nome do Servidor Titulação Regime de
+
+trabalho Cargo
+
+1 vaga Graduado (a) 40h Técnico em assuntos
+
+educacionais
+
+1 vaga Graduado (a) 40h Administrador
+
+1 vaga Nível Médio 40h Assistente Administrativo
+
+44
+
+Todas as salas possuem um padrão de 8x6 metros o que perfaz um total
+
+48m2 de dimensão, com luminosidade, acústica e ventilação adequadas. Com um
+
+mobiliário ergonomicamente correto, para garantir a saúde discente e do docente,
+
+para um conforto e melhoria na qualidade todas as salas são climatizadas.
+
+O campus conta também com uma sala de 8x12 um total de 96m2 mobiliado
+
+com bancadas, cadeiras almofadadas e 20 computadores da marca HP, com sinal
+
+wifi, para consulta dos alunos. No plano de expansão o laboratório irá contar com 40
+
+máquinas.
+
+8.4 Recursos
+
+Segue abaixo a descrição dos equipamentos e mobiliários alocados nas salas
+
+do curso de Jornalismo utilizadas no ICSA – Instituto de Ciências Sociais Aplicadas
+
+no campus de Rondon do Pará.
+
+QUADRO 6 - EQUIPAMENTOS E MOBILIÁRIOS ALOCADOS NAS SALAS DO
+
+CURSO DE JORNALISMO UTILIZADAS NO ICSA
+
+Sala Equipamentos Mobiliário
+
+01
+
+10 computadores marca HP com wifi
+
+01 Aparelho de Ar condicionado 32000
+
+Btus*
+
+Mesa de Professor*
+
+Cadeira do Professor*
+
+50 cadeiras
+
+almofadadas*
+
+10 bancadas*
+
+02
+
+01 Aparelho de Ar condicionado 24000
+
+Btus
+
+1 mesa de professor
+
+1 cadeira de professor
+
+40 cadeiras universitárias
+
+03
+
+01 Aparelho de Ar condicionado 24000
+
+Btus
+
+1 mesa de professor
+
+1 cadeira de professor
+
+40 cadeiras universitárias
+
+04 Vazio
+
+1 mesa de professor
+
+1 cadeira de professor
+
+40 cadeiras universitárias
+
+Administrativo 06 computadores marca HP; 12 mesas de escritório;
+
+45
+
+02 Impressoras marca Sansung tipo
+
+toner;
+
+01 Impressora Colorida;
+
+01 Aparelho de Ar condicionado 24000
+
+Btus
+
+12 cadeiras de escritório;
+
+12 cadeiras fixa
+
+escritório;
+
+01 30 computadores marca HP com wifi
+
+Mesa de Professor
+
+Cadeira do Professor
+
+50 cadeiras almofadadas
+
+10 bancadas
+
+02
+
+01 Aparelho de Datashow
+
+01 Aparelho de Ar condicionado 24000
+
+Btus
+
+03
+
+01 Aparelho de Datashow
+
+01 Aparelhos de Ar condicionado 24000
+
+Btus
+
+04
+
+01 Aparelho de Datashow
+
+02 Aparelhos de Ar condicionado 24000
+
+Btus
+
+Vazio
+
+05
+
+01 Aparelho de Datashow
+
+02 Aparelhos de Ar condicionado 24000
+
+Btus
+
+1 mesa de professor
+
+1 cadeira de professor
+
+40 cadeiras universitárias
+
+06
+
+01 Aparelho de Datashow
+
+02 Aparelhos de Ar condicionado 24000
+
+Btus
+
+1 mesa de professor
+
+1 cadeira de professor
+
+40 cadeiras universitárias
+
+Biblioteca
+
+05 Computadores
+
+02 Impressoras
+
+01 Aparelho de ar condicionado
+
+Mesa
+
+Cadeiras
+
+Prateleiras
+
+Administrativo
+
+01 Aparelho de Ar condicionado 24000
+
+Btus
+
+Sala Empresa
+
+Junior
+
+02 Computadores
+
+01 Impressora
+
+01 Aparelho de Ar condicionado
+
+Mesa
+
+Cadeiras
+
+Armário
+
+46
+
+Com base na Resolução N° 1, de 27 de setembro de 2013, que “institui as
+
+Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo,
+
+bacharelado, e dá outras providências”, o presente material tem por objetivo levantar
+
+as demandas necessárias para aquisição de equipamentos indispensáveis à criação
+
+de Laboratórios que atendam ao curso de Jornalismo a ser implantado na
+
+Universidade Federal do Sul e Sudeste do Pará, no Campus de Rondon do Pará, em
+
+prédio já em fase de construção avançada. A criação de tais laboratórios, além de
+
+Biblioteca Setorial e Hemeroteca, se justifica pelo cumprimento das exigências do
+
+Ministério da Educação, Ciência e Tecnologia, que destacam a necessidade de
+
+formar profissionais capazes de lidar com o tratamento jornalístico da informação no
+
+contexto das novas tecnologias. A resolução n° 1, de 27 de setembro de 2013,
+
+ressalta tal necessidade em seu Artigo 4°:”A elaboração do projeto pedagógico do
+
+curso de bacharelado em Jornalismo deverá observar os seguintes indicativos: V -
+
+preparar profissionais para atuar num contexto de mutação tecnológica constante no
+
+qual, além de dominar as técnicas e as ferramentas contemporâneas, é preciso
+
+conhecê-las em seus princípios para transformá-las na medida das exigências do
+
+presente;” A mesma resolução destaca em seu Artigo 9° a obrigatoriedade da
+
+orientação combinada entre teoria e prática já a partir do primeiro semestre letivo,
+
+com o uso de laboratórios: “A organização curricular deverá valorizar o equilíbrio e a
+
+integração entre teoria e prática durante toda a duração do curso, observando os
+
+seguintes requisitos: II - distribuição das atividades laboratoriais, a partir do primeiro
+
+semestre, numa sequência progressiva, até a conclusão do curso, de acordo com os
+
+níveis de complexidade e de aprendizagem”; Para atender às exigências do MEC,
+
+além dos espaços de sala de aula, ambientes para professores, salas de reunião e
+
+afins, é necessária ainda, de acordo com as Referências Curriculares Nacionais
+
+dos Cursos de Bacharelado e Licenciatura (2010, página 73), a criação de
+
+laboratórios de: Redação Jornalística; Telejornalismo; Radiojornalismo;
+
+Planejamento Gráfico em Jornalismo; Fotojornalismo; Informática com programas
+
+especializados. Hemeroteca. Agência Experimental de Notícias. Biblioteca com
+
+acervo específico e atualizado.
+
+47
+
+QUADRO 7 – EQUIPAMENTOS PARA LABORATÓRIO DE JORNALISMO
+
+JORNALISMO – RONDON DO PARÁ
+
+LABORATÓRIO DE REDAÇÃO JORNALÍSTICA
+
+ESPECIFICAÇÃO
+
+N° ITEM / DESCRIÇÃO QUANTIDADE
+
+01 COMPUTADOR PC COM MONITOR, MOUSE E TECLADO INCLUSOS.
+
+ESPECIFICAÇÕES: SLOTS PCIE X1: 02 SLOTS PCIE X16: 01; PLACA DE VÍDEO: COMPARTILHADA; DRIVE ÓPTICO: DVD+RW DUAL LAYER ; REDE: 10/100/1000 MBPS: FONTE: 180 WATTS; GABINETE: MINI TORRE; SISTEMA OPERACIONAL INCLUSO; DIMENSÕES APROXIMADAS: 0,3 X 0,6 X 0,5 M; PROCESSADOR: 3,6 GHZ;  MEMÓRIA: TAMANHO: 4GB (1X4GB); TIPO: DDR3 1600 MHZ; TAMANHO MÁXIMO SUPORTADO: 16GB; CONEXÕES: USB 2.0: 04 - USB 3.0: 2 - VGA: 01 - SERIAL: 01 - DISPLAY PORT: 01 TECLADO:  - COR: PRETO - CONEXÃO: USB 2.0 - PADRÃO: ABNT 2 + TECLADO NUMÉRICO - MULTIMÍDIA MOUSE: COR: PRETO - CONEXÃO: USB 2.0; NÚMERO DE BOTÕES: 3 - TECNOLOGIA: ÓPTICO
+
+31
+
+02 ESTABILIZADOR DE TENSÃO ESPECIFICAÇÕES: 1000 VA; TENSÃO DE ENTRADA 100 / 240 V ~; TENSÃO DE SAÍDA 110V.
+
+31
+
+03 PROJETOR MULTIMÍDIA ESPECIFICAÇLÕES:  TECNOLOGIA 3D E RESOLUÇÃO DE 1600 X 1200; RESOLUÇÃO NATIVA: SVGA (800 X 600)RESOLUÇÃO SUPORTADA: VGA(640 X 480) ATÉ UXGA(1600 X 1200) CONTRASTE: 13000:1BRILHO: 3200ALLÂMPADA: 45006000650010000 HORASTAMANHO DA IMAGEM: 36-300ALTO-FALANTE: SIM3D: SIMCONSUMO DE ENERGIA270W NORMAL, ECO 220W, STANDBY CONEXÕES02 X D-SUB IN 15PIN01 X D-SUB OUT 15PIN01 X VÍDEO COMPONENTE (RCA)01 X S-VIDEO IN (MINI DIN 4PIN)01 X HDMI01 X AUDIO IN (MINI JACK)01 X AUDIO OUT (MINI JACK)01 X USB (TYPE B)01 X RS232 (DB-9PIN)01 X IR RECEIVER X1INFORMAÇÕES ADICIONAISVOLTAGEM: AC100 A 240V .ITENS INCLUSOS01 X PROJETOR01 X PROTETOR DE LENTE01 X CONTROLE REMOTO COM BATERIA01 X CABO DE FORÇA01 X MANUAL DO USUÁRIO EM CD E DECLARAÇÕES REGULAMENTARES01 X GUIA DE
+
+01
+
+48
+
+INÍCIO RÁPIDO01 X CARTÃO DE GARANTIA01 X CABO VGA(D-SUB 15PIN)
+
+04  SUPORTE PARA PROJETOR. ESPECIFICAÇÕES: PERMITE VÁRIAS POSIÇÕES NOS EIXOS VERTICAL, HORIZONTAL E DIAGONAL E ARTICULAÇÕES DE ÂNGULOS NA DOBRA SECUNDÁRIA, TUDO PARA PROPORCIONAR O MELHOR AJUSTE DE IMAGEM DO SEU PROJETOR E/OU DATASHOW.
+
+01
+
+05 TELA DE PROJEÇÃO:  DIMENSÕES: 1,50M X 1,50M; ÁREA - 84 POLEGADAS (1,50M X 1,50M) ENROLAMENTO: - MANUAL TECIDO: - VINIL CONVENCIONAL 1.0 TUBOS: - SUPERIOR E INFERIOR EM CHAPA GALVANIZADA COM ACABAMENTO EM PINTURA EPÓXI PRETA CARACTERÍSTICAS: - TELA COM FIXAÇÃO INDEPENDENTE, SUSTENTAÇÃO POR TRIPÉ - TELA EM PLÁSTICO VINIL - ENROLAMENTO MANUAL - ÁREA VISUAL: 150 X 150 CM, 84´´ - TUBOS SUPERIOR E INFERIOR EM AÇO GALVANIZADO.
+
+01
+
+06 IMPRESSORA LASER IMPRESSORA LASER PARA IMPRESSÃO FOTOGRÁFICA
+
+02
+
+JORNALISMO – RONDON DO PARÁ
+
+LABORATÓRIO DE TELEJORNALISMO
+
+ESPECIFICAÇÃO
+
+N° ITEM / DESCRIÇÃO QUANTIDADE
+
+01 CÂMERA DE VÍDEO PROFISSIONAL. CARACTERÍSTICAS: DISPÕE DE UM ÚNICO SENSOR MOS COM RESOLUÇÃO DE 4K, QUE CAPTA ATÉ 12 PARADAS DE GAMA DINÂMICA COM V-LOG L CURVA DE GAMA. A CÂMERA DE VÍDEO SUPORTA A PRODUÇÃO DCI 4K EM 24 FPS, 4K UHD EM ATÉ 60 FPS, E HD DE ATÉ 120 FPS. GRAVAÇÃO 4K PARA MP4 OU MOV E OFERECE GRAVAÇÃO AVCHD DE 1920 X 1080 DE VÍDEO HD; LENTE ZOOM 13X INTEGRADO COM TRÊS ANÉIS DA LENTE QUE LHE DÃO O CONTROLE MANUAL SOBRE FOCO, ZOOM E ÍRIS. A CÂMERA GRAVA EM CARTÕES SD; POSSUI TIMECODE IN / OUT, UMA SAÍDA DE VÍDEO  3G-SDI PARA VÍDEO HD, E HDMI; UM CONECTOR HDMI QUE FORNECE SAÍDA DE 4K. LENTE DE 29,5 PARA 384,9 MILÍMETROS EM UMA CÂMERA 35MM; RANHURAS DUPLAS PARA CARTÃO SD GRAVAÇÃO EM REVEZAMENTO, BACKUP E MODOS SIMULTÂNEOS.
+
+06
+
+49
+
+02 TRIPÉ DE CÂMERA PROFISSIONAL. CARACTERÍSTICAS: TRIPÉ E DOLLY PARA CÂMERA DE TELEVISÃO DIGITAL ( PARA KIT DO TIPO CÂMERA PARA ESTÚDIO DE TELEVISÃO DIGITAL); - TRIPÉ HIDRÁULICO PARA CÂMERA DE TV DIGITAL COM CABEÇA PADRÃO; - ACOMPANHADO DE DOLLY.
+
+05
+
+03 TELEPROMPTER CARACTERÍSTICAS: CÂMARA ESCURA EM TECIDO HELANCA; PAR DE MÁSCARAS ANTI- OFUSCAMENTO EM TECIDO; CABO VGA 10 M; MONITOR LED 18,5” NOVO  COM GARANTIA; MANÍPULO DE ¼” OU 3/8” PARA FIXAÇÃO DA CÂMERA; SUPORTE TELESCÓPICO PARA TABLETS; ADAPTADOR PARA MONITOR COM FURAÇÃO TRASEIRA; ADAPTADOR PARA HANDYCAM E DSLR; EMPUNHADURA EMBORRACHADA; VIDRO DE CRISTAL ÓPTICO PARA MONITORES DE ATÉ 18,5”; SOFTWARE MULTIPLATAFORMA INCLUSO.
+
+02
+
+04  ILUMINADOR LED PARA ESTÚDIO  CARACTERÍSTICAS: PAINEL DE LED COM 500 LEDS; INTENSIDADE DE LUZ: 2200 LUX A 1 METRO E 500 LUX A 2 METROS, A INTENSIDADE DE LUZ PODE SER REGULADA POR DIMMER. TEMPERATURA DE COR: 5600-6200K (1M); 4 MODOS DE OPERAÇÃO PARA DIRECIONAMENTO DE LUZ PERSONALIZADO, PARA ACIONAMENTO INDIVIDUAL DOS 4 BANCOS DE LEDS; DIMMER PARA AJUSTE DE INTENSIDADE DA LUZ; 4 BANDEIRAS PRATEADAS REFLETIVAS INCLUSAS (EFEITO SOFT BOX, HAZE); ENCAIXE PARA SUPORTE DE TRIPÉ NA PARTE INFERIOR; ALÇA SUPERIOR PARA FACILITAR O MANUSEIO E TRANSPORTE; ESTRUTURA ROBUSTA E RESISTENTE; VIDA ÚTIL DOS LEDS: 50.000 HORAS; FONTE DE ALIMENTAÇÃO 110V E 220V, O APARELHO É BIVOLT; CORPO DE ALUMÍNIO; PARA SER UTILIZADO EM ENERGIA AC; FUSÍVEL: 5 A.
+
+06
+
+05 CARTÕES DE MEMÓRIA SD 64 GB CLASSE 10 COM ADAPTADOR SD / MICROSD.
+
+50
+
+06 COMPUTADOR PC COM MONITOR, MOUSE E TECLADO INCLUSOS.
+
+ESPECIFICAÇÕES: SLOTS PCIE X1: 02 SLOTS PCIE X16: 01; PLACA DE VÍDEO: COMPARTILHADA; DRIVE ÓPTICO: DVD+RW DUAL LAYER ; REDE: 10/100/1000 MBPS: FONTE: 180 WATTS; GABINETE: MINI TORRE; SISTEMA OPERACIONAL INCLUSO; DIMENSÕES APROXIMADAS: 0,3 X 0,6 X 0,5 M; PROCESSADOR: 3,6 GHZ;  MEMÓRIA: TAMANHO: 4GB (1X4GB); TIPO: DDR3 1600 MHZ; TAMANHO MÁXIMO SUPORTADO: 16GB; CONEXÕES: USB 2.0: 04 - USB 3.0: 2 -
+
+01
+
+50
+
+VGA: 01 - SERIAL: 01 - DISPLAY PORT: 01 TECLADO:  - COR: PRETO - CONEXÃO: USB 2.0 - PADRÃO: ABNT 2 + TECLADO NUMÉRICO - MULTIMÍDIA MOUSE: COR: PRETO - CONEXÃO: USB 2.0; NÚMERO DE BOTÕES: 3 - TECNOLOGIA: ÓPTICO
+
+07  MICROFONE DE LAPELA DUPLO MICROFONE DE LAPELA DUPLO PARA USO EM CÂMERAS DSLR; FREQUÊNCIA DE RESPOSTA: 20HZ ~ 16KHZ; PADRÃO POLAR OMNIDIRECIONAL; SENSIBILIDADE: -65DB; IMPEDÂNCIA: 600 OHMS; CABO COM PLUG STEREO DE 3,5MM (P2); ALIMENTAÇÃO: 1,5V (PILHA AA); COMPRIMENTO DO FIO DA CÁPSULA ATÉ A BASE DE NO MÍNIMO 1 METRO; COMPRIMENTO DO FIO DA BASE ATÉ A FILMADORA DE NO MÍNIMO 3 METROS.
+
+05
+
+08 MICROFONE DIRECIONAL SEM FIO PORTÁTIL (42/44 – 638 A 662 MHZ). SAÍDA MINIJACK STEREO COM CONTROLE DE VOLUME; MINI CABO XLR INCLUSO; DISPLAY DE LCD NO RECEPTOR; RECEPTOR ALIMENTADO COM DUAS BATERIAS AA;  RECEPTOR COM 188 FREQUÊNCIAS UHF SELECIONÁVEIS; POSSIBILIDADE DE DE SELEÇÃO DE ALIMENTAÇÃO DE SAÍDA DO TRANSMISSOR DE 5 MW E SAÍDA DE 30 MW
+
+05
+
+09 TRICASTER
+
+SWITCHER DE PRODUÇÃO AO VIVO, COM ENTRADA PARA ATÉ 4 CÂMERASVIA CONEXÃO POR SDI, QUADRO DE ENTRADAS VIRTUAIS M/E; CENÁRIO VIRTUAL EM 3D; GERADOR DE CARACTERES INCLUSO; MIXER DE ÁUDIO INCLUSO; REPRODUÇÃO E GRAVAÇÃO EM VÍDEO FULL HD; TRANSMISSÃO AO VIVO POR STREAMMING; COMPATÍVEL COM MONITOR DE MULTIVISÃO.STREAMING HD AO VIVO COM GRAVAÇÃO SIMULTÂNEACOM PRÉÁJUSTES DE RESOLUÇÃO 720p, INÇLUINDO STREAMING RTMP USANDO CODEC H264.SUPPORTE NATIVO USTREAM E LIVESTREAM INTEGRADO.EXPORT COM DIVERSOS FORMATOS DE MÍDIA SD EHD; PUBLICAÇÃO INSTANTÂNEA DE VÍDEOS EM REDES SOCIAIS. FONTES DE REDES COMPATÍVEIS INCLUSAS (DISPOSITIVOS AIR PLAY SEM FIO/ VIDEO SOBRE FONTE IP/STREAM RTMP OU RTSP/  FONTES DE VÍDEO STREAMING HTTP).
+
+01
+
+10 ESTAÇÃO DE TRABALHO – ILHA DE EDIÇÃO – PROCESSADRO TURBO BOOST DE ATÉ 3,9GHz, 16GB DE
+
+06
+
+51
+
+MEMÓRIA; 256GB DE SSD; SOFTWARE DE EDIÇÃO DE VIDEO COM TIMELINE MAGNÉTICA INCLUSO; TECLADO COMPATÍVEL E MOUSE INCLUSOS; CONEXÕES: 4 USB 3.0, 6 THUNDERBOLT 2, DUAL GIGABIT ETHERNET, HDMI 1.4 ULTRA HD, MINICONECTOR DE SAÍDA DE ÁUDIO DIGITAL/ÓPTICA/SAÍDA ANALÓGICA COMBINADA, MINICONECTOR DE FONE DE OUVIDO.
+
+11 MONITOR LED 29” 10
+
+JORNALISMO – RONDON DO PARÁ
+
+LABORATÓRIO DE RADIOJORNALISMO
+
+ESPECIFICAÇÃO
+
+N° ITEM / DESCRIÇÃO QUANTIDADE
+
+01 GRAVADOR DE ÁUDIO DIGITAL. GRAVADOR DE ÁUDIO DIGITAL PORTÁTIL DE MÃO COM SISTEMA DE MICROFONES INTERCAMBIÁVEIS; CÁPSULA DE MICROFONE TIPO XY; MICROFONE SHOTGUN INCLUSO; DUAS ENTRADAS PARA MICROFONE EXTERNO TIPO XLR; POSSIBILIDADE DE GRAVAÇÃO EM ATÉ QUATRO CANAIS; TELA DE LCD; PORTA USB 2.0 E/ OU 3.0; ARMAZENAMENTO DE GRAVAÇÕES DE ÁUDIO EM CARTÕES DE MEMÓRIA SD; ESPUMA PARA MICROFONES INCLUSA; CABO USB INCLUSO;
+
+10
+
+02 MICROFONE DIRECIONAL SEM FIO PORTÁTIL (42/44 – 638 A 662 MHZ). SAÍDA MINIJACK STEREO COM CONTROLE DE VOLUME; MINI CABO XLR INCLUSO; DISPLAY DE LCD NO RECEPTOR; RECEPTOR ALIMENTADO COM DUAS BATERIAS AA;  RECEPTOR COM 188 FREQUÊNCIAS UHF SELECIONÁVEIS; POSSIBILIDADE DE DE SELEÇÃO DE ALIMENTAÇÃO DE SAÍDA DO TRANSMISSOR DE 5 MW E SAÍDA DE 30 MW
+
+05
+
+03 MESA DE ÁUDIO (MIXER)
+
+33 FADERS MOTORIZADOS; 32 ENTRADAS XLR ANALÓGICAS /TRS; EXPANSÃO PARA ATÉ 48 CANAIS;  20 AUXILIARES BUSES (8 MONO + 6  STEREO); 16 SAÍDAS XLR ANALÓGICAS; GRAVAÇÃO E REPRODUÇÃO ATÉW 34 CANAIS VIA USB 2.0.
+
+01
+
+52
+
+04  MICROFONE PARA LOCUÇÃO MICROFONE PADRÃO POLAR CARDIÓIDE; IMPEDÂNCIA 150 OHMS; RELAÇÃO SINAL/RUÍDO (94 DB SPL@ 1KHZ) 84,5DB; CONECTOR XLR MACHO PROFISSIONAL DE 3 PINOS
+
+05
+
+05 CARTÕES DE MEMÓRIA SD 32 GB CLASSE 10 COM ADAPTADOR SD / MICROSD.
+
+100
+
+06 PEDESTAL PARA MICROFONE PEDESTAL MICROFONE, MATERIAL BASE SUSTENTAÇÃO FERRO, TIPO DE MESA, FORMATO BASE REDONDO, ACABAMENTO SUPERFICIAL PINTURA ELETROSTÁTICA, COR PRETA, TIPO HASTE FLEXÍVEL COM SUPORTE, COMPRIMENTO HASTE 30
+
+20
+
+07  FONE DE OUVIDO
+
+FONE OUVIDO, TIPO FLEXÍVEL, POTÊNCIA 400, IMPEDÂNCIA 32, FREQÜÊNCIA 18 A 20000, COMPRIMENTO FIO 2, TIPO FONE HEADPHONE, CARACTERÍSTICAS ADICIONAIS ALMOFADAS COM ESPUMA, PLUG P-2, COM POTENCIÔMETRO, MODELO SIMILAR V560 SUPER-BASS
+
+20
+
+08 EQUIPAMENTO DE PROCESSAMENTO DE SINAL DE ÁUDIO EQUIPAMENTO DE PROCESSAMENTO DE SINAL DE ÁUDIO
+
+10
+
+09 AMPLIFICADOR DE ÁUDIO
+
+AMPLIFICADOR DE ÁUDIO DE 2 CANAIS (STERE0)
+
+10
+
+10  CAIXAS ACÚSTICAS
+
+CAIXA ACÚSTICA, POTÊNCIA 60 WATTS RMS A 8 OHMS, TAMANHO ALTO-FALANTE 8, RESPOSTA FREQÜÊNCIA 55 HZ A 20 KHZ, TIPO TWEETER TITÂNIO, LARGURA 275, ALTURA 375, PROFUNDIDADE 230, COR GRAFITE, CARACTERÍSTICAS ADICIONAIS ENCAIXE PARA PEDESTAL/30 M CABO INTERLIGAÇÃO
+
+20
+
+11 COMPUTADOR – ESTAÇÃO DE TRABALHO
+
+ESPECIFICAÇÕES: SLOTS PCIE X1: 02 SLOTS PCIE X16: 01; PLACA DE VÍDEO: COMPARTILHADA; PLACA DE ÁUDIO COM ENTRADAS E SAÍDAS COM CONECTOR XLR STÉREO; DRIVE ÓPTICO: DVD+RW DUAL LAYER ; REDE: 10/100/1000 MBPS: FONTE: 180 WATTS; GABINETE: MINI TORRE; SISTEMA OPERACIONAL INCLUSO; DIMENSÕES APROXIMADAS: 0,3 X 0,6 X 0,5 M; PROCESSADOR: 3,6 GHZ;  MEMÓRIA: TAMANHO: 4GB (1X4GB); TIPO: DDR3 1600 MHZ; TAMANHO MÁXIMO
+
+10
+
+53
+
+SUPORTADO: 16GB; CONEXÕES: USB 2.0: 04 - USB 3.0: 2 - VGA: 01 - SERIAL: 01 - DISPLAY PORT: 01 TECLADO:  - COR: PRETO - CONEXÃO: USB 2.0 - PADRÃO: ABNT 2 + TECLADO NUMÉRICO - MULTIMÍDIA MOUSE: COR: PRETO - CONEXÃO: USB 2.0; NÚMERO DE BOTÕES: 3 - TECNOLOGIA: ÓPTICO
+
+12 MESA DE ÁUDIO
+
+MESA ÁUDIO, QUANTIDADE CANAIS 12, EQUALIZAÇÃO INTERFACE DE SOM MULTIEFEITOS, TENSÃO ALIMENTAÇÃO BIVOLT, CARACTERÍSTICAS ADICIONAIS MIXER AMPLIFICADOR COM USB
+
+10
+
+JORNALISMO – RONDON DO PARÁ
+
+LABORATÓRIO DE FOTOJORNALISMNO
+
+ESPECIFICAÇÃO
+
+N° ITEM / DESCRIÇÃO QUANTIDADE
+
+01 CÂMERA FOTOGRÁFICA DIGITAL DSLR
+
+10
+
+02 CARTÕES DE MEMÓRIA SD 32 GB CLASSE 10 COM ADAPTADOR SD / MICROSD.
+
+50
+
+03 COMPUTADOR - ESTAÇÃO DE TRABALHO PARA TRATAMENTO DE IMAGEM
+
+PROCESSADOR 3,2 GHz QUAD CORE; MEMÓRIA RAM DE 8GB; HD DE 1TB; WIFI REDE WIRELESS COMPATÍVEL COM IEE 802; BLUETOOTH; MEMÓRIA DE VÍDEO COM CÂMERA FACETIME HD; PORTAS USB 2,0  E 3.0; THUNDERBOLT; TENSÃO: BIVOLT.
+
+20
+
+04  IMPRESSORA LASER IMPRESSORA LASER PARA IMPRESSÃO FOTOGRÁFICA
+
+02
+
+05 SERVIDOR DE ARQUIVO
+
+SERVIDOR PARA ARMAZENAMENTO DE ARQUIVOS DE FOTO E VÍDEO
+
+02
+
+54
+
+\9. REFERÊNCIAS
+
+ANDERSON, A Cauda longa: do mercado de massa para o mercado de nicho. Rio de Janeiro: Elsevier, 2006. BRAGA, José Luiz. A sociedade enfrenta sua mídia: dispositivos sociais de crítica midiática. São Paulo: Paulus, 2006. BRASIL. Decreto 4.281, de 25.06.2002. Regulamenta a Lei n o 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Diário Oficial da União, Poder Executivo, Brasília, 2002. ______. Lei No 10.639, de 9 de janeiro de 2003. Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências. Diário Oficial da União, Poder Executivo, Brasília, 2003.
+
+______.Lei Nº 11.645, de 10 de março de 2008. Altera a Lei no 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro- Brasileira e Indígena”. Diário Oficial da União, Poder Executivo, Brasília. 2008.
+
+______.Ministério da Educação. Resolução n. 1, de 27 de setembro de 2013. Institui as Diretrizes Curriculares Nacionais para o curso de graduação em Jornalismo, bacharelado, e dá outras providências. Brasília: Câmara de Educação Superior do Conselho Nacional de Educação. Diário Oficial da União Nº 190, seção 1, p. 26, 1 de outubro de 2013. CASEIRO, Cíntia Camargo Furquim e GEBRAN, Raimunda Abou. Avaliação formativa: concepção, práticas e dificuldades. In Nuances: estudos sobre Educação. Presidente Prudente, SP, ano XIV, v. 15, n. 16, p. 141-161, jan./dez. 2008. CASTELLS. Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999.
+
+MARCHIORI, Marlene. Comunicação Organizacional: um enfoque estratégico. Londrina. Disponível em: <http://www.portal-rp.com.br/bliotecavirtual>. Acesso em: set. 2002. CNE/CP no 1, 2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. DUARTE, E. Por uma epistemologia da comunicação. In: M.I.V. LOPES (org.). Epistemologia da comunicação. São Paulo, Loyola, 2003 (p.41-54). FREIRE, Paulo. Extensão ou comunicação. Rio de Janeiro: Paz e Terra, 1977.
+
+55
+
+_______ Paulo. Pedagogia da autonomia: saberes necessários à prática educativa. 50. Ed. Rio de Janeiro: Paz e Terra, 2015. HADJI, C. Avaliação desmistificada. Porto Alegre: Artmed Editora, 2001.
+
+JENKINS, Henry. Cultura da Convergência. São Paulo: Aleph, 2009.
+
+MARCHIORI, Marlene. Comunicação Organizacional: um enfoque estratégico. Disponível em: <http://www.portal-rp.com.br/bliotecavirtual>. Acesso em: 2002. PAVIANI, Jayme. Interdisciplinaridade conceitos e distinções. Ed. ver. 2 Caxias do Sul Educs, 2008. RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013. IN Resolução CNE/CES 1/2013. Diário Oficial da União, Brasília, 1° de outubro de 2013 – Seção 1 – p. 26 UFAL. Projeto Pedagógico dos cursos de Jornalismo. Maceió: Curso de Comunicação Social, 2014. UFPA. Projeto pedagógico do curso de Comunicação Social. Belém: Curso de Comunicação Social, 2014. UFPA. Projeto pedagógico: orientações básicas. Belém: EDUFPA, 2008.
+
+UFPA. Projeto pedagógico do curso de Comunicação Social. Belém: Curso de Comunicação Social, 2002. UNIFESSPA. Projeto pedagógico do curso de Administração. Rondon: Instituto de Ciências Sociais Aplicadas, 2016. UNIFESSPA. Projeto pedagógico do curso de Ciências Contábeis. Rondon: Instituto de Ciências Sociais Aplicadas, 2016. UNIFESSPA. Histórico. In www.unifesspa.edu.br/index.php/historico.
+
+. Plano de Desenvolvimento Institucional. In. www.unifesspa.edu.br/PDI - aditamento Pro Tempore, 2014/2018, p. 27-28. UNIFESSPA.https://proeg.unifesspa.edu.br/images/conteudo/proeg/Resoluo_CONS EPE_n16.pdf>. UNIFESSPA. https://proeg.unifesspa.edu.br/dapsi.html>. Acesso em: 17 de abr. 2018.
+
+https.www.ibge.gov.br/home/estatistica/populacao/estimativa2016/estimativa_dou.sh tm. Acesso em 17 de abril de 2017. https://www.unifesspa.edu.br/images/documentos/Regul_de_Graduacao.pdf> acesso em 11 de abril de 2018.
+
+56
+
+RELAÇÃO DE ANEXOS DO PROJETO POLÍTICO PEDAGÓGICO DO CURSO
+
+Anexo I - Ata de aprovação do PPC pela congregação da Faculdade;
+
+Anexo II - Desenho curricular;
+
+Anexo III - Contabilidade acadêmica;
+
+Anexo IV - Atividades curriculares por período letivo;
+
+Anexo V – Representação gráfica do perfil de formação;
+
+Anexo VI - Demonstrativo das atividades curriculares por habilidades e por
+
+competências;
+
+Anexo VII – Ementário das Disciplinas Obrigatórias do Curso de Administração
+
+com a          Bibliografia Básica e Complementar;
+
+57
+
+ANEXO I - ATA DE APROVAÇÃO DO PPC PELA CONGREGAÇÃO DO
+
+INSTITUTO
+
+58
+
+ANEXO II - DESENHO CURRICULAR DO CURSO
+
+RESOLUÇÃO Nº 1, DE 27 DE SETEMBRO DE 2013
+
+CONTEÚDOS DO EIXO DE FUNDAMENTAÇÃO HUMANISTICA –
+
+Código Nome do componente curricular
+
+Semestr
+
+e
+
+Tipo T-P CH
+
+Ciências Sociais 1º OBR 3-1 68
+
+Comunicação, Cultura e sociedade 1º OBR 2-2 68
+
+Ética e filosofia da comunicação 3º OBR 3-1 68
+
+Mídia, Cidadania e direitos humanos 2º OBR 2-2 68
+
+Jornalismo comunitário 5º OBR 3-1 68
+
+Mídia e História Social da Amazônia 6º OBR 3-1 68
+
+CARGA HORÁRIA TOTAL DO EIXO 408
+
+CONTEÚDOS DO EIXO DE FUNDAMENTAÇÃO ESPECÍFICA
+
+Teorias da comunicação 2º OBR 3-1 68
+
+Teorias da comunicação na América Latina 4º OBR 3-1 68
+
+Cinejornalismo 6º OBR 3-1 68
+
+Metodologia de pesquisa em comunicação 2º OBR 3-1 68
+
+Estética da comunicação 5º OBR 3-1 68
+
+Comunicação e teorias da linguagem 3º OBR 3-1 68
+
+CARGA HORÁRIO TOTAL DO EIXO 408
+
+CONTEÚDOS DO EIXO DE FUNDAMENTAÇÃO CONTEXTUAL
+
+Teorias e história do jornalismo 2º OBR 3-1 68
+
+Economia política da comunicação 4º OBR 3-1 68
+
+Amazônia, território e desenvolvimento
+
+socioeconômico
+
+3º OBR 3-1 68
+
+Marketing 6º OBR 3-1 68
+
+Seminário de Comunicação e práticas inovadoras 7º OBR 1-4 85
+
+CARGA HORÁRIO TOTAL DO EIXO 357
+
+CONTEÚDOS DO EIXO DE FORMAÇÃO PROFISSIONAL
+
+Análise e interpretação textual 1º OBR 3-1 68
+
+Fotojornalismo 2º OBR 1-3 68
+
+Comunicação e empreendedorismo 1º OBR 2-2 68
+
+Jornalismo impresso 3º OBR 2-2 68
+
+Produção multimídia e ciberjornalismo 4º OBR 2-2 68
+
+Assessoria de imprensa e gestão da comunicação 6º OBR 2-2 68
+
+CARGA HORÁRIO TOTAL DO EIXO 408
+
+CONTEÚDOS DO EIXO DE APLICAÇÃO PROCESSUAL
+
+59
+
+Introdução ao radiojornalismo 4º OBR 3-1 68
+
+Introdução ao telejornalismo 4º OBR 3-1 68
+
+Introdução ao Jornalismo 1º OBR 3-1 68
+
+Introdução ao ciberjornalismo 3º OBR 2-2 68
+
+CARGA HORÁRIO TOTAL DO EIXO 272
+
+CONTEÚDOS DO EIXO DE PRÁTICA LABORATORIAL
+
+Laboratório de radiojornalismo 5º OBR 1-3 68
+
+Laboratório de telejornalismo 5º OBR 1-3 68
+
+Laboratório de produção jornalística 5º OBR 1-3 68
+
+Laboratório de assessoria da comunicação
+
+organizacional
+
+8º OBR 1-3 68
+
+CARGA HORÁRIO TOTAL DO EIXO 272
+
+PRODUÇÃO DE TCC
+
+TCC I 7º OBR 68
+
+TCC II 8º OBR 68
+
+Carga Horária Total em Produção de TCC 136
+
+Carga Horária em Conteúdo dos Eixos de Formação em Jornalismo 2.125
+
+NÚCLEO COMPLEMENTAR
+
+Carga Horária em Componentes Complementares de Graduação (optativas) 272
+
+Carga Horária em Atividades Complementares de Graduação 300
+
+Carga Horária em Atividades de Estágio Supervisionado 204
+
+Carga horária total do Núcleo Complementar 776
+
+CARGA HORÁRIA TOTAL DO CURSO 3.037
+
+DISCIPLINAS OPTATIVAS
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+LIBRAS 51 17 68
+
+PRODUÇÃO AGROINDUSTRIAL 51 17 68
+
+AMAZÔNIA: TERRITÓRIO E ATORES SOCIAIS 51 17 68
+
+ECONOMIA E DESENVOLVIMENTO REGIONAL 51 17 68
+
+GESTÃO DE PROJETOS 51 17 68
+
+60
+
+ANEXO III - CONTABILIDADE ACADÊMICA POR PERÍODO LETIVO
+
+1º PERÍODO
+
+Código Componente curricular
+
+Carga Horária/semanal
+
+Total do
+
+período
+
+letivo
+
+Teórica Prática Extensão Total
+
+Análise e Interpretação Textual 68 3 1 0 4
+
+Ciências Sociais 68 3 0 1 4
+
+Comunicação, cultura e sociedade
+
+68 2 1 1 4
+
+Comunicação e empreendedorismo
+
+68 2 1 1 4
+
+Introdução ao Jornalismo 68 3 1 0 4
+
+2º PERÍODO
+
+Teorias da comunicação 68 3 1 0 4
+
+Fotojornalismo 68 1 2 1 4
+
+Metodologia de Pesquisa em
+
+Comunicação
+
+68 3 1 0 4
+
+Mídia, Cidadania e Direitos
+
+Humanos
+
+68 2 0 2 4
+
+Teorias e história do jornalismo 68 3 1 0 4
+
+3º PERÍODO
+
+Comunicação e Teorias da
+
+Linguagem
+
+68 3 1 0 4
+
+Introdução ao Ciberjornalismo 68 2 1 1 4
+
+Jornalismo Impresso 68 2 1 1 4
+
+Ética e Filosofia da
+
+Comunicação
+
+68 3 0 1 4
+
+Amazônia, território e
+
+desenvolvimento
+
+socioeconômico
+
+68 3 0 1 4
+
+4º PERÍODO
+
+Introdução ao radiojornalismo 68 2 1 1 4
+
+Produção multimídia e
+
+ciberjornalismo
+
+68 2 1 1 4
+
+Teorias da comunicação na
+
+América Latina
+
+68 4 0 0 4
+
+Economia política da
+
+Comunicação
+
+68 3 1 0 4
+
+Introdução ao telejornalismo 68 2 1 1 4
+
+61
+
+5º PERÍODO
+
+Laboratório de radiojornalismo 68 1 2 1 4
+
+Laboratório de telejornalismo 68 1 2 1 4
+
+Laboratório de produção
+
+jornalística
+
+68 1 2 1 4
+
+Optativa 1 68 3 1 0 4
+
+Jornalismo comunitário 68 2 1 1 4
+
+Estética da comunicação 68 3 1 0 4
+
+6º PERÍODO
+
+Assessoria de Imprensa e
+
+Gestão de Comunicação
+
+68 2 1 1 4
+
+Mídia e História Social da
+
+Amazônia
+
+68 3 0 1 4
+
+Cinejornalismo 68 2 1 1 4
+
+Marketing 68 2 1 1 4
+
+Optativa 2 68 3 1 0 4
+
+Seminário de Comunicação e
+
+práticas inovadoras
+
+85 3 1 1 5
+
+7º PERÍODO
+
+TCC I 68 2 2 0 4
+
+Estágio supervisionado I 68 1 3 0 4
+
+Estágio supervisionado II 68 1 3 0 4
+
+Estágio supervisionado III 68 1 3 0 4
+
+Optativa 3 68 3 1 0 4
+
+8º. PERÍODO
+
+Laboratório de assessoria de
+
+Comunicação Organizacional 85 1 2 2 5
+
+Optativa 4 68 3 1 0 4
+
+TCC II 68 2 2 0 4
+
+Observação: Ao longo do curso o discente deverá obter, no mínimo, 300 horas de atividades
+
+complementares para integralização da matriz curricular.
+
+62
+
+ANEXO IV - ATIVIDADES CURRICULARES POR PERÍODO LETIVO
+
+Primeiro Semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Análise e Interpretação Textual 51 17 68
+
+Ciências Sociais 51 17 68
+
+Comunicação, cultura e sociedade 51 17 68
+
+Comunicação e empreendedorismo 34 34 68
+
+Introdução ao Jornalismo 51 17 68
+
+TOTAL 245 95 340
+
+Segundo semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Teorias da comunicação 51 17 68
+
+Fotojornalismo 17 51 68
+
+Metodologia de Pesquisa em Comunicação 51 17 68
+
+Mídia, Cidadania e Direitos Humanos 34 34 68
+
+Teorias e história do jornalismo 51 17 68
+
+TOTAL 211 129 340
+
+Terceiro Semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Comunicação e Teorias da Linguagem 51 17 68
+
+Introdução ao Ciberjornalismo 34 34 68
+
+Jornalismo Impresso 34 34 68
+
+Ética e Filosofia da Comunicação 51 17 68
+
+Amazônia, território e desenvolvimento
+
+socioeconômico
+
+51 17 68
+
+TOTAL 242 98 340
+
+63
+
+Quarto semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Introdução ao radiojornalismo 51 17 68
+
+Produção multimídia e ciberjornalismo 34 34 68
+
+Teorias da comunicação na América Latina 68 0 68
+
+Economia política da Comunicação 51 17 68
+
+Introdução ao telejornalismo 51 17 68
+
+TOTAL 262 78 340
+
+Quinto Semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Laboratório de radiojornalismo 17 51 68
+
+Laboratório de telejornalismo 17 51 68
+
+Laboratório de produção jornalística 17 51 68
+
+Optativa 1 51 17 68
+
+Jornalismo comunitário 34 34 68
+
+Estética da comunicação 51 17 68
+
+TOTAL 143 197 408
+
+Sexto semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Assessoria de Imprensa e Gestão de Comunicação 34 34 68
+
+Mídia e História Social da Amazônia 51 17 68
+
+Cinejornalismo 34 34 68
+
+Marketing 34 34 68
+
+Optativa 2 51 17 68
+
+Seminário de Comunicação e práticas inovadoras 51 34 85
+
+TOTAL 245 112 425
+
+64
+
+Sétimo semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+TCC I 34 34 68
+
+Estágio supervisionado I 17 51 68
+
+Estágio supervisionado II 17 51 68
+
+Estágio supervisionado III 17 51 68
+
+Optativa 3 51 17 68
+
+Total 132 200 340
+
+Oitavo semestre
+
+DISCIPLINA TEÓRICA PRÁTICA TOTAL
+
+Laboratório de assessoria de Comunicação
+
+Organizacional
+
+17 68 85
+
+Optativa 4 51 17 68
+
+TCC II 34 34 68
+
+TOTAL 51 100 221
+
+ATIVIDADES COMPLEMENTARES
+
+A ser cursada durante os 8 semestres, todo o período do curso 300 horas
+
+FORMAÇÃO CENTRADA EM DISCIPLINAS 2.397
+
+ESTÁGIO SUPERVISIONADO 204
+
+TRABALHO DE CONCLUSÃO DE CURSO - TCC 136
+
+ATIVIDADES COMPLEMENTARES 300
+
+CARGA HORÁRIA TOTAL 3.037
+
+65
+
+MATRIZ CURRICULAR DO CURSO DE BARCHARELADO EM JORNALISMO
+
+PRIMEIRO ANO SEGUNDO ANO TERCEIRO ANO QUARTO ANO
+
+Primeiro
+
+semestre
+
+Segundo
+
+semestre
+
+3º Semestre 4º Semestre 5º Semestre 6º Semestre 7º Semestre 8º Semestre
+
+Análise e
+
+Interpretação Textual
+
+Teorias da
+
+comunicação
+
+Comunicação e
+
+teorias da linguagem
+
+Introdução ao
+
+radiojornalismo
+
+Laboratório de
+
+Radiojornalismo
+
+Assessoria de
+
+Imprensa e Gestão
+
+de Comunicação
+
+Optativa III Optativa IV
+
+68 4 68 4 68 4 68 4 68 4 68 4 68 4 68 4
+
+Ciências Sociais Fotojornalismo
+
+Introdução ao
+
+Ciberjornalismo
+
+Prod. multimídia e
+
+ciberjornalismo
+
+Laboratório de
+
+telejornalismo
+
+Mídia e história
+
+social da Amazônia
+
+Estágio Supervisionado
+
+I
+
+Laboratório de
+
+Assessoria de
+
+Comunicação
+
+Organizacional 68 4 68 4 68 4 68 4 68 4 68 4 68 4
+
+Comunicação, cultura
+
+e sociedade
+
+Metodologia de
+
+pesquisa em
+
+comunicação
+
+Jornalismo Impresso
+
+Teorias da
+
+comunicação na
+
+América Latina
+
+Laboratório de
+
+produção jornalística
+
+Cinejornalismo
+
+Estágio Supervisionado
+
+II 85 5
+
+68 4
+
+68 4 68 4 68 4 68 4 68 4 68 4
+
+Estágio supervisionado
+
+III
+
+68 4
+
+Comunicação e
+
+empreendedorismo
+
+Mídia, Cidadania e
+
+Direitos Humanos
+
+Ética e Filosofia da
+
+Comunicação
+
+Economia Política
+
+da Comunicação
+
+Optativa I Marketing TCC I TCC II
+
+68 4 68 4 68 4 68 4 68 4 68 4 68 4 68 4
+
+Introdução ao
+
+Jornalismo
+
+Teorias e história do
+
+jornalismo
+
+Amazônia, território e
+
+desenvolvimento
+
+socioeconômico
+
+Introdução ao
+
+telejornalismo
+
+Jornalismo
+
+comunitário
+
+Optativa II
+
+68 4 68 4 68 4 68 4 68 4 68 4
+
+Estética da
+
+comunicação
+
+Seminário de comunicação e práticas inovadoras
+
+68 4 85 4
+
+ANEXO V - REPRESENTAÇÃO GRÁFICA DO PERFIL DE FORMAÇÃO
+
+66
+
+ANEXO VI - DEMONSTRATIVO DAS ATIVIDADES CURRICULARES POR HABILIDADES E POR COMPETÊNCIAS
+
+COMPETÊNCIAS/HABILIDADES ATIVIDADES CURRICULARES
+
+Competências Gerais
+
+\- Compreender e valorizar, como conquistas históricas da cidadania e indicadores de
+
+um estágio avançado de civilização, em processo constante de riscos e
+
+aperfeiçoamento: o regime democrático, o pluralismo de ideias e de opiniões, a cultura
+
+da paz, os direitos humanos, as liberdades públicas, a justiça social e o
+
+desenvolvimento sustentável;
+
+\- Conhecer, em sua unicidade e complexidade intrínsecas, a história, a cultura e a
+
+realidade social, econômica e política brasileira, considerando especialmente a
+
+diversidade regional, os contextos latino-americano e ibero-americano, o eixo sul-sul e
+
+o processo de internacionalização da produção jornalística;
+
+\- Identificar e reconhecer a relevância e o interesse público entre os temas da
+
+atualidade;
+
+\- Distinguir entre o verdadeiro e o falso a partir de um sistema de referências éticas e
+
+profissionais;
+
+\- Pesquisar, selecionar e analisar informações em qualquer campo de conhecimento
+
+específico;
+
+\- Dominar a expressão oral e a escrita em língua portuguesa;
+
+\- Ter domínio instrumental de pelo menos dois outros idiomas – preferencialmente
+
+inglês e espanhol, integrantes que são do contexto geopolítico em que o Brasil está
+
+inserido;
+
+\- Interagir com pessoas e grupos sociais de formações e culturas diversas e
+
+diferentes níveis de escolaridade;
+
+\- Ser capaz de trabalhar em equipes profissionais multifacetadas;
+
+\- Saber utilizar as tecnologias de informação e comunicação;
+
+\- Pautar-se pela inovação permanente de métodos, técnicas e procedimentos;
+
+Análise e Interpretação Textual
+
+Ciências Sociais
+
+Comunicação, cultura e sociedade
+
+Metodologia de pesquisa em comunicação
+
+Comunicação e empreendedorismo
+
+Introdução ao Jornalismo
+
+67
+
+\- Cultivar a curiosidade sobre os mais diversos assuntos e a humildade em relação ao
+
+conhecimento;
+
+\- Compreender que o aprendizado é permanente;
+
+\- Saber conviver com o poder, a fama e a celebridade, mantendo a independência e
+
+o distanciamento necessários em relação a eles;
+
+\- Perceber constrangimentos à atuação profissional e desenvolver senso crítico em
+
+relação a isso;
+
+\- Procurar ou criar alternativas para o aperfeiçoamento das práticas profissionais;
+
+\- Atuar sempre com discernimento ético.
+
+II - Competências cognitivas - Conhecer a história, os fundamentos e os cânones
+
+profissionais do jornalismo; conhecer a construção histórica e os fundamentos da
+
+cidadania; compreender e valorizar o papel do jornalismo na democracia e no
+
+exercício da cidadania; compreender as especificidades éticas, técnicas e estéticas do
+
+jornalismo, em sua complexidade de linguagem e como forma diferenciada de
+
+produção e socialização de informação e conhecimento sobre a realidade; discernir os
+
+objetivos e as lógicas de funcionamento das instituições privadas, estatais, públicas,
+
+partidárias, religiosas ou de outra natureza em que o jornalismo é exercido, assim
+
+como as influências do contexto sobre esse exercício.
+
+Teorias da comunicação
+
+Teorias e história do jornalismo
+
+Comunicação e teorias da linguagem
+
+Introdução ao Ciberjornalismo
+
+Jornalismo Impresso
+
+Introdução ao radiojornalismo
+
+Teorias da comunicação na América Latina
+
+Introdução ao telejornalismo
+
+Estética da Comunicação
+
+III - Competências pragmáticas - Contextualizar, interpretar e explicar informações
+
+relevantes da atualidade, agregando-lhes elementos de elucidação necessários à
+
+compreensão da realidade; perseguir elevado grau de precisão no registro e na
+
+interpretação dos fatos noticiáveis; propor, planejar, executar e avaliar projetos na
+
+área de jornalismo; organizar pautas e planejar coberturas jornalísticas; formular
+
+questões e conduzir entrevistas; adotar critérios de rigor e independência na seleção
+
+das fontes e no relacionamento profissional com elas, tendo em vista o princípio da
+
+pluralidade, o favorecimento do debate, o aprofundamento da investigação e a
+
+garantia social da veracidade; dominar metodologias jornalísticas de apuração,
+
+depuração, aferição, além das de produzir, editar e difundir; conhecer conceitos e
+
+dominar técnicas dos gêneros jornalísticos; produzir enunciados jornalísticos com
+
+Fotojornalismo
+
+Prod. multimídia e ciberjornalismo
+
+Economia Política da Comunicação
+
+Laboratório de Radiojornalismo
+
+Laboratório de telejornalismo
+
+Laboratório de produção jornalística
+
+Assessoria de Imprensa e Gestão de Comunicação
+
+Cinejornalismo
+
+Marketing
+
+Lab. de assessoria de Comunicação Organizacional
+
+Trabalho de conclusão de curso I e II
+
+68
+
+clareza, rigor e correção e ser capaz de editá-los em espaços e períodos de tempo
+
+limitados; traduzir em linguagem jornalística, preservando-os, conteúdos originalmente
+
+formulados em linguagens técnico-científicas, mas cuja relevância social justifique
+
+e/ou exija disseminação não especializada; elaborar, coordenar e executar projetos
+
+editoriais de cunho jornalístico para diferentes tipos de instituições e públicos;
+
+elaborar, coordenar e executar projetos de assessoria jornalística a instituições
+
+legalmente constituídas de qualquer natureza, assim como projetos de jornalismo em
+
+comunicação comunitária, estratégica ou corporativa; compreender, dominar e gerir
+
+processos de produção jornalística, bem como ser capaz de aperfeiçoá-los pela
+
+inovação e pelo exercício do raciocínio crítico; dominar linguagens midiáticas e
+
+formatos discursivos, utilizados nos processos de produção jornalística nos diferentes
+
+meios e modalidades tecnológicas de comunicação; dominar o instrumental
+
+tecnológico – hardware e software – utilizado na produção jornalística; avaliar
+
+criticamente produtos e práticas jornalísticas.
+
+IV - Competências comportamentais - Perceber a importância e os mecanismos da
+
+regulamentação político-jurídica da profissão e da área de comunicação social;
+
+identificar, estudar e analisar questões éticas e deontológicas no jornalismo; conhecer
+
+e respeitar os princípios éticos e as normas deontológicas da profissão; avaliar, à luz
+
+de valores éticos, as razões e os efeitos das ações jornalísticas; atentar para os
+
+processos que envolvam a recepção de mensagens jornalísticas e o seu impacto
+
+sobre os diversos setores da sociedade; impor aos critérios, às decisões e às escolhas
+
+da atividade profissional as razões do interesse público; exercer, sobre os poderes
+
+constituídos, fiscalização comprometida com a verdade dos fatos, o direito dos
+
+cidadãos à informação e o livre trânsito das ideias e das mais diversas opiniões.
+
+Ética e Filosofia da Comunicação
+
+Mídia, Cidadania e Direitos Humanos
+
+Jornalismo comunitário
+
+Amazônia, território e desenvolvimento socioeconômico
+
+Mídia e História Social da Amazônia
+
+Seminário de comunicação e práticas inovadoras
+
+69
+
+ANEXO VII - EMENTÁRIO DAS DISCIPLINAS OBRIGATÓRIAS DO CURSO
+
+DE JORNALISMO
+
+O ementário abaixo foi construído a partir da definição da proposta
+
+pedagógica do curso, levando-se em consideração todos os aspectos legais
+
+para o curso de Jornalismo, pesquisas realizadas em Universidades que já
+
+dispõem e têm experiências na área de comunicação, a realidade local e
+
+regional. Levou-se também em consideração a concepção, objetivos e perfil do
+
+egresso do curso.
+
+No processo de construção, a proposta do curso de jornalismo foi
+
+apresentada e debatida pelos docentes do Instituto de Ciências Sociais
+
+Aplicadas – ICSA da Unifesspa, em reuniões da Congregação, com a função
+
+de construir de forma atual, levando em consideração os aspectos regionais.
+
+As ementas e as indicações bibliográficas basearam-se em sua
+
+adequação e relevância, primando pelas referências de obras bases na
+
+formação do jornalista, mesclando com obras atuais.
+
+Segue abaixo o ementário do curso, de seus oito semestres das
+
+disciplinas, com a indicação de carga horária total, sua divisão em teórica e
+
+prática, referenciando 3 (três) títulos obras na referência básica e 5 (cinco)
+
+títulos de obras na referência complementar. Além deste mínimo necessário a
+
+formação do Jornalista, o curso disponibiliza ainda bibliotecas digitais, revistas
+
+cientificas e de interesse do profissional, bem como outras obras de formação
+
+complementar.
+
+70
+
+EMENTAS PPC COMUNICAÇÃO – JORNALISMO
+
+1º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Análise e interpretação textual
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Primeiro EMENTA: Interpretação e produção de textos. Processos de leitura de textos verbais e não-verbais. Argumentação, raciocínio crítico e persuasão. BIBLIOGRAFIA BÁSICA:
+
+\1. ANDRADE, Margarida Maria, Língua Portuguesa: Noções Básicas para Cursos Superiores. São Paulo: Atlas, 2010. 2. FARACO, Carlos A. Língua Portuguesa – prática de redação para estudantes universitários. Petrópolis: Vozes, 2008. 3. SOUZA, Luiz Marques; CARVALHO, Sérgio Waldeck. Compreensão e Produção de Textos. Vozes, 2013. 17ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. ANDRADE, Maria Margarida; MEDEIROS, João Bosco. Comunicação em Língua Portuguesa. São Paulo: Atlas, 2010. 5ª ed. 2. KURY, Adriano da Gama. Para falar e escrever o melhor o português. Rio de Janeiro: Lexikon, 2012. 2ª ed. 3. Folha de São Paulo. Manual da redação. Publifolha Editora, 2018. 4. MEDINA, Cremilda. A arte de tecer o presente. 2.ed. São Paulo: Summus, 2010. 5. MEDEIROS, João Bosco. Português Instrumental. Atlas, 2014. 10ª ed.
+
+71
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Ciências Sociais
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Primeiro EMENTA: A importância histórica das ciências sociais, globalização e as questões étnico-raciais, questão ambiental, questão de gênero, xenofobia as mobilizações por direitos locais e globais. BIBLIOGRÁFIA BÁSICA:
+
+\1. COSTA, Maria Cristina Castilho. Sociologia introdução à ciência da Sociedade. São Paulo. Moderna, 2016. 2. SILVA, Fabrício Pereira Da; NÓBREGA, Ricardo (Orgs.). Estudos de teoria social e América Latina: novos debates e perspectivas. 1a edição ed. Rio de Janeiro: Ponteio, 2016. 3. DEMO, Pedro. Introdução à sociologia: complexidade, interdisciplinaridade e desigualdade social. São Paulo: Atlas, 2009. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. GIL, Antônio C. Sociologia Geral. Atlas, 2011. 2. SIMMEL, Georg. Questões fundamentais de Sociologia. Rio de Janeiro: Zahar, 2006. 3. TORRES, Carlos Alberto. Teoria crítica e sociologia política da educação. São Paulo: Cortez, 2011. 4. DOMINGUES, José Maurício. A América Latina e a Modernidade Contemporânea. Uma Interpretação Sociológica. Belo Horizonte: Editora UFMG, 2009. 5. OUTHWAITE. William. Teoria Social. Um guia para entender a sociedade contemporânea. Rio de Janeiro: Zahar, 2017.
+
+72
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Comunicação, Cultura e Sociedade
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Primeiro EMENTA: O panorama conceitual da comunicação. A relação entre comunicação, cultura e sociedade. A comunicação como objeto científico e sua natureza interdisciplinar e transdisciplinar. O campo da comunicação e os demais campos sociais. A comunicação e a modernidade. BIBLIOGRÁFIA BÁSICA:
+
+\1. WOLTON, Dominique. É preciso salvar a comunicação. São Paulo: Paulus, 2006. 2. SILVERSTONE, Roger. Por que estudar a mídia? 2. ed. São Paulo: Loyola, 2005.
+
+\3. THOMPSON, John B. A mídia e a modernidade: uma teoria social da mídia. 11. ed., 12. ed. Petrópolis, RJ: Vozes, 1998. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. WHITE, Leslie A. O conceito de cultura. Rio de Janeiro: Contraponto, 2009. 2. HOHLFELDT, Antonio et alii (Org.). Teorias da comunicação: conceitos, escolas e tendências. 6. ed., 7. ed. Petrópolis, RJ: Vozes, 2001, 2007. 3. SANTAELLA, Lucia. Culturas e artes do pós-humano: da cultura das mídias à cibercultura. 4. ed. São Paulo: Paulus, 2010. 4. WEBER, Maria Helena; BENTZ, Ione; HOHLFELDT, Antonio (Org.). Tensões e objetos da pesquisa em comunicação. Porto Alegre: Sulina, 2002. 5. LEMOS, André. Cibercultura. Tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2013.
+
+73
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Comunicação e empreendedorismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Terceiro EMENTA: Comunicação e empreendedorismo. Plano de negócio e a gestão da comunicação integral.
+
+\1. BARON, Robert. A.; SHANE, Scott. Empreendedorismo - Uma visão do processo. São Paulo: Editora Thomson, 2007. 2. GAMONAR, Flávia; JANNUZZI, Glauter; MUNARO, Juliana. DisrupTalks - Carreira, Empreendedorismo e Inovação em uma época de mudanças rápidas. São Paulo: Editora Reflexão, 2017. 3. RIES, E. A Startup enxuta: como os empreendedores atuais utilizam a inovação contínua para criar empresas extremamente bem-sucedidas. São Paulo: Lua de Papel, 2012. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. MEIRA, Silvio. Novos Negócios Inovadores de Crescimento Empreendedor no Brasil. Recife: Casa da Palavra, 2013 2. PATRÍCIO, P.; CANDIDO, C. R. Empreendedorismo: uma perspectiva multidisciplinar. 1. ed. Rio de Janeiro: LTC, 2016. 3. SALIM, Cesar Simões; SILVA, Nelson Caldas. Introdução ao empreendedorismo: despertando a atitude empreendedora. Rio de Janeiro: Elsevier, 2010. 4. THIEL, Peter. De zero a um: o que aprender sobre empreendedorismo com o vale do Silício. São Paulo: Objetiva, 2014. 5. JANNUZZI, Glauter; ABREU, Ricardo. Espírito de Startup: Tudo ao mesmo tempo agora. São Paulo: Editora Reflexão, 2017.
+
+74
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Introdução ao Jornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Primeiro EMENTA: Panorama histórico do jornalismo e dos meios de comunicação. O campo jornalístico: o jornalismo e sua relação com a sociedade. O cenário multifacetado do jornalismo contemporâneo. Os conglomerados de comunicação. A linguagem jornalística. Os gêneros jornalísticos. A notícia nos diferentes meios de comunicação. BIBLIOGRÁFIA BÁSICA:
+
+\1. BRIGGS, Asa; BURKE, Peter. Uma história social da mídia. De Gutenberg à Internet. Tradução de Maria Carmelita Pádua Dias. Rio de Janeiro: Jorge Zahar Editor, 2004. 2. JORGE, Thaís de Mendonça. Manual do foca: Guia de sobrevivência para jornalistas. São Paulo: Contexto, 2010. 3. LAGE, Nilson. A reportagem: teoria e técnica de entrevista e pesquisa jornalística. 2ª ed. Rio de Janeiro: Record, 2002. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. ABREU, Alzira Alves de. A modernização da imprensa (1970-2000). Rio de Janeiro: Jorge Zahar, 2002. 2. BARCELLOS, Caco. Rota 66. A história da polícia que mata. Rio de Janeiro: Editora Record. 2005. 3. KUCINSKI, Bernardo. Jornalismo na era virtual: ensaios sobre o colapso da razão ética. São Paulo: Editora Fundação Perseu Abramo: Editora UNESP, 2005. 4. MARQUES DE MELO, José; LAURINDO, Rosemeri; ASSIS, Francisco de (Org.). Gêneros Jornalísticos: teoria e práxis. Santa Catarina: EDIFURB, 2012. 5. NEVEU, Érik. Sociologia do jornalismo. São Paulo: Loyola, 2006.
+
+75
+
+2º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Teorias da Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Segundo EMENTA: As matrizes funcionalista, frankfurtiana, estruturalista e as teorias da recepção. As mudanças de paradigma na segunda metade do século XX. BIBLIOGRÁFIA BÁSICA:
+
+\1. FRANÇA, Vera Regina Veiga; SIMÕES, Paula Guimarães. Curso Básico de Teorias da Comunicação. Belo Horizonte: Autêntica, 2016. 2. HOHLFELDT, Antônio; MARTINO, Luiz C.; FRANÇA, Vera R. Veiga.. Teorias da comunicação: conceitos, escolas, tendências. 7. ed. Petrópolis, RJ: Vozes 2007. 3. MATTELART, Armand e Michèle. História das teorias da comunicação. São Paulo: Edições Loyola, 2011. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. ANDERSON, Perry. As origens da pós-modernidade. RJ: Jorge Zahar, 1999. 2. BRETON, Philippe; PROULX, Serge. Sociologia da comunicação. 3. ed. São Paulo: Loyola, 2011. 3. LIMA, Luiz Costa. Teoria da cultura de massa. SP: Paz e Terra, 2002. 4. MARCONDES FILHO, Ciro. Teorias da Comunicação Hoje. São Paulo: Paulus, 2016. 5. PUTERMAN, Paulo. Indústria Cultural: a agonia de um conceito. SP: Perspectiva, 1996.
+
+76
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Fotojornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 3 4 SEMESTRAL 17 51 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Segundo EMENTA: História do fotojornalismo. Linguagem fotográfica e informação. Categorias do fotojornalismo. O processo de produção do fotojornalista. Editorias de fotografia. Ética, deontologia e direitos autorais. BIBLIOGRÁFIA BÁSICA:
+
+\1. OLIVEIRA, Erivam Morais de e VICENTINI, Ari. Fotojornalismo: uma viagem entre o analógico e o digital. São Paulo: Cengage Learning, 2009. 2. SENAC, DN. Fotógrafo: o olhar, a técnica e o trabalho. Rio de Janeiro: Ed Senac Nacional, 2002. 3. SOUSA, Jorge Pedro. Uma história crítica do fotojornalismo Ocidental. Florianópolis: letras contemporâneas, 2000. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. ANG, Tom. Fotografia digital: uma introdução. São Paulo. Ed. Senac, 2008. 2. BARTHES, Roland. A câmara clara. Rio de Janeiro: Nova Fronteira, 2011. 3. KOSSOY, Boris. Realidades e ficções na trama fotográfica. São Paulo: Ateliê Editorial, 2009 4. SONTAG, Susan. Diante da dor dos outros. São Paulo: companhia das letras, 2003. 5. TRIGO, Thales. Equipamento fotográfico: teoria e prática. 5. ed. São Paulo: Senac, 2012.
+
+77
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Metodologia de Pesquisa em Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 3 4 SEMESTRAL 17 51 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Segundo EMENTA: Ciência e conhecimento científico. Tipos de conhecimento. A pesquisa em Comunicação: paradigmas, teorias e modelos. Pesquisa qualitativa e quantitativa.  Métodos e técnicas de pesquisa aplicáveis à comunicação. O projeto e a realização da pesquisa. O tema, o problema e o objeto de pesquisa em comunicação. Coleta, sistematização e análise de dados. Redação científica. BIBLIOGRÁFIA BÁSICA:
+
+\1. BAUER, Martin W.; GASKELL, George (Org.). Pesquisa qualitativa com texto, imagem e som: um manual prático. 7. ed. Petrópolis: Vozes, 2008. 2. DUARTE, Jorge; BARROS, Antonio (Org.). Métodos e técnicas de pesquisa em comunicação. 2. ed. São Paulo: Atlas, 2006. 3. LAGO, Cláudia; BENETTI, Márcia (Org.). Metodologia de pesquisa em jornalismo. 2 ed., 3 ed. Petrópolis, RJ: Vozes, 2010. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. CASTRO, Cláudio de Moura. A prática da pesquisa. Rio de Janeiro: Prentice Hall do Brasil, 2006. 2. CHIZZOTTI, Antonio. Pesquisa em ciências humanas e sociais. 9. ed. São Paulo: Cortez, 2006. 3. MINAYO, Maria Cecília de Souza (Org.). Pesquisa social: teoria, método e criatividade. Petrópolis, RJ: Vozes, 2011. 4. MARQUES DE MELO, Marques. Teoria e metodologia da comunicação: tendências do século XXI. São Paulo: Paulus, 2014. 5. SAMPIERI, Roberto Hernández; COLLADO, Carlos Fernández; LUCIO, Pilar Baptista. Metodologia de Pesquisa. 3. Ed. Trad.: Fátima Conceição Murad; Melissa Kassner; Sheila Clara Dystyler Ladeira. São Paulo: McGraw-Hill Interamericana do Brasil Ltda, 2006.
+
+78
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Mídia, Cidadania e Direitos Humanos
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Segundo EMENTA: Mídia e poder. Concentração dos Meios de Comunicação Social e o poder político. Cidadania, Direitos Humanos e Comunicação. Estratégias e processos de articulação e mobilização social. BIBLIOGRÁFIA BÁSICA:
+
+\1. BIROLI, Flávia; MIGUEL, Luis Felipe. Notícias em disputa: mídia, democracia e formação de preferências no Brasil. São Paulo: Contexto, 2017.
+
+\2. GALLARDO, Helio. Teoria Crítica. Matriz e possibilidade de direitos humanos. Trad. Patricia Fernandes. 1 ed. São Paulo: Editora Unesp, 2014.
+
+\3. GUARESCHI, Pedrinho A. Direito humano à comunicação: pela democratização da mídia. Editora Vozes, 2013. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BIROLI, Flávia; MIGUEL, Luis Felipe. Mídia: representação e democracia. São Paulo, Editora Hucitec, 2010 2. RAMOS, Andre de Carvalho. Teoria geral dos direitos humanos. 2 ed. São Paulo. Saraiva, 2011. 3. MULLER, Jean-Marie. O princípio da não-violência. Uma trajetória filosófica. Trad. Inês Polegato. São Paulo: Palas Athena, 2007. 4. ROSENBERG, Marshall B. Comunicação não-violenta. Técnicas para aprimorar relacionamentos pessoais e profissionais. Trad. Mário Vilela. São Paulo: Ágora, 2006. 5. SENNETT, Richard. Juntos. Os rituais, os prazeres e a política da cooperação. Rio de Janeiro: Record, 2012.
+
+79
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Teorias e história do jornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Segundo EMENTA: História do Jornalismo. Narrativa e produção de sentidos. Mediação do espaço público. Teorias da notícia e do jornalismo. BIBLIOGRÁFIA BÁSICA:
+
+\1. MARQUES DE MELO, José. Teoria do Jornalismo. Identidades brasileiras. São Paulo: Paulus, 2006. 2. PENA, Felipe. Teoria do Jornalismo. 3 ed. São Paulo: Contexto, 2017. 3.     TRAQUINA, Nelson. Teorias do Jornalismo. A tribo jornalística -- uma comunidade interpretativa transnacional. V2. 2 ed. Florianópolis: Insular, 2008. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. CHAPARRO, Manuel Carlos. Pragmática do Jornalismo: buscas práticas para uma teoria da ação jornalística. 3 ed. São Paulo: Summus, 1994. 2. CHOMSKY, Noam. Controle da mídia. Os espetaculares feitos da propaganda. Rio de Janeiro: Graphia, 2003. 3. TRAQUINA, Nelson. Jornalismo: questões, teorias e estórias. Florianópolis: Insular, 2016. 4. _________________. Teorias do Jornalismo. Porque as notícias são como são. V1. Florianópolis: Insular, 2005. 5. WOLF, Mauro. Teorias da comunicação. 7 ed. São Paulo: Martins Fontes, 2002.
+
+80
+
+3º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Comunicação e Teorias da Linguagem
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Terceiro EMENTA: A linguagem como mediação/constituição da significação do mundo. As contribuições dos estudos da linguagem para a Comunicação. Das teorias do signo às teorias do discurso. Enunciação midiática. Análise de produtos midiáticos e comunicacionais. BIBLIOGRÁFIA BÁSICA:
+
+\1. ARAÚJO, Inês Lacerda. Do signo ao discurso: introdução à filosofia da linguagem. São Paulo: Parábola, 2004. 2. SANTAELLA, Lucia. Semiótica aplicada. São Paulo: Thomson Learning, 2002. 3. VERÓN, Eliseo. Fragmentos de um tecido. São Leopoldo: UNISINOS, 2005. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BAKTHIN, Mikhail. Marxismo e filosofia da linguagem. 8. ed. São Paulo: Hucitec, 1997. 2.             BARTHES, Roland. Elementos de semiologia. 14. ed. São Paulo: Cultrix, 2001. 3.             FAUSTO NETO, Antonio. Mídia, discurso e sentido. Salvador: EDUFBA, 2011. 4.             FOUCAULT, Michel. A arqueologia do saber. 7. ed. Rio de Janeiro: Forense Universitária, 2005. 5. MAINGUENEAU. Dominique. Análise de textos de comunicação. 5. ed. São Paulo: Cortez, 2008.
+
+81
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Introdução ao Ciberjonalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Terceiro EMENTA: Aspectos históricos da internet. Ciberespaço e cibercultura. Deontologia da comunicação na web. O contexto da internet no Brasil. Sites, portais, blogs e redes sociais. Produção colaborativa e participação ativa do usuário. Fases evolutivas da internet. Especificidades do jornalismo na internet: terminologias e gerações. Introdução ao ciberjornalismo: características, linguagens e narrativas. Práticas de narrativas jornalísticas na web. BIBLIOGRÁFIA BÁSICA:
+
+\1. CASTELLS, Manuel. A galáxia da Internet – reflexões sobre a internet, os negócios e a sociedade. Rio de Janeiro: Jorge Zahar, 2003. 2.  LÉVY, Pierre. Cibercultura. São Paulo: Ed.34, 2000. 3. SCHWINGEL, Carla. Ciberjornalismo. São Paulo: Paulinas, 2012. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. LEMOS, André. Cibercultura: tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2010. 2.  JENKINS, Henry. A cultura da convergência. São Paulo: Aleph, 2009. 3. NIELSEN, Jacob. Projetando websites. Rio de Janeiro: Campus, 2000. 4. RECUERO, Raquel. Redes sociais na Internet. Porto Alegre: Sulina, 2009. 5. WOLTON, Dominique. Internet e depois? Uma teoria crítica das novas mídias. Porto Alegre: Sulina, 2007.
+
+82
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Jornalismo Impresso
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Terceiro EMENTA: A interface entre texto, imagem, planejamento gráfico e linha editorial em jornalismo impresso. Tipos de jornalismo. Apuração, produção e edição em jornalismo impresso. O texto jornalístico em diferentes gêneros. Notícia e reportagem. A fotografia e o jornalismo. As novas tecnologias e a fotografia (imagem analógica e imagem digital). Reportagem e edição em fotojornalismo. Ensaio fotográfico. O espaço gráfico e seus elementos de expressão. Projeto gráfico: conceito e produção. Recursos para visualização da informação. O infográfico. Edição e finalização de impressos jornalísticos. Produção para o jornal-laboratório. BIBLIOGRÁFIA BÁSICA:
+
+\1. BONINI, Adair; FERRETTI-SOARES, Vanessa Arlésia de Souza; JUNIOR, Carlos Borges da Silva; LIMA et al (Orgs). Os gêneros do jornal. Florianópolis: Insular, 2014. 2.  PEREIRA JUNIOR, Luiz Costa. A apuração da notícia. Petrópolis, RJ: Vozes, 2010. 3. PEREIRA JUNIOR, Luiz Costa. Guia para a edição jornalística. Petrópolis, RJ: Vozes, 2012. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. MELO, José Marques de. Jornalismo opinativo. Gêneros opinativos no jornalismo brasileiro. Campos do Jordão-SP: Mantiqueira, 2003. 2.  MEYER, Philip. Os jornais podem desaparecer? Como salvar o jornalismo na era da informação. São Paulo: Contexto, 2007. 3.  NOBLAT, Ricardo. A arte de fazer um jornal diário. São Paulo: Contexto, 2008. 4.  SEQUEIRA, Cleofe Monteiro de. Jornalismo Investigativo. O fato por trás da notícia. São Paulo: Summus, 2005. 5.  VILAS BOAS, Sérgio. O estilo magazine: o texto em revista. São Paulo: Summus, 1996.
+
+83
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Ética e Filosofia da Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Primeiro EMENTA: A constituição do pensamento filosófico: percurso histórico. A razão, o conhecimento, a ciência. A existência ética e a filosofia moral. Filosofia e comunicação. Ética da comunicação. BIBLIOGRÁFIA BÁSICA:
+
+\1.     MARCONDES FILHO, Ciro. O Rosto e a Máquina: O Fenômeno da Comunicação Visto Pelos ângulos Humano, Medial e Tecnológico. São Paulo: Paulus, 2013. 2.     BARROS FILHO, Clóvis de. Ética na comunicação. 6. ed. rev. atua. São Paulo: Summus, 2008. 3.       KARAM, Francisco José. A ética jornalística e o interesse público. São Paulo: Summus, 2004. BIBLIOGRÁFIA COMPLEMENTAR: 1. CHAUI, Marilena. Convite à filosofia. 14. ed. São Paulo: Ática, 2011. 2.   CORTELLA, Mario Sérgio. Qual É a Tua Obra? Inquietações Propositivas Sobre Gestão, Liderança e Ética. São Paulo: Vozes, 2007. 3.   LUCKESI, Cipriano C. Introdução a Filosofia. Cortez, 2012. 4. SÁNCHEZ-VÁZQUEZ, Adolfo. Ética. 33. ed., 35. ed. Rio de Janeiro: Civilização Brasileira, 2013. 5.     TRASFERETTI, José Antonio. Filosofia, ética e mídia. São Paulo: Alínea, 2007.
+
+84
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Amazônia, território e desenvolvimento socioeconômico
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Terceiro EMENTA: Amazônia, desenvolvimento, conflitos e violências. Amazônia, inovação e comunicação. Grandes projetos, “progresso” e desenvolvimento. Impactos na vida dos povos tradicionais. BIBLIOGRÁFIA BÁSICA:
+
+\1. ACSELRAD, Henri. Cartografia social e dinâmicas territoriais: marcos para o debate. Rio de Janeiro (RJ): IPPUR/UFRJ, 2010. 2. ALMEIDA, Alfredo Wagner Berno de (Org.). Capitalismo globalizado e recursos territoriais: fronteiras da acumulação no Brasil contemporâneo. Rio de Janeiro, RJ, Brasil: Lamparina, 2010. 3. HAESBAERT, Rogério. O mito da desterritorialização. Rio de Janeiro: Bertrand Brasil, 6 ed. 2011. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. SHIRAISHI NETO, Joaquim (Org.). Direito dos povos e das comunidades tradicionais no Brasil: declarações, convenções internacionais e dispositivos jurídicos definidores de uma política nacional. Manaus, AM: PPGSCA-UFAM : Fundação Ford, 2007. 2. ALMEIDA, Alfredo Wagner Berno De. Antropologia dos “archivos” da Amazônia. Rio de Janeiro: Casa 8 : F.U.A, 2008. 3. LOUREIRO, Violeta Refkalefsky e PINTO, Jax Nildo Aragão. A questão fundiária na Amazônia. Estud. av. vol.19 n.54 São Paulo Jan./Apr. 2005. 4. PINTO, Lúcio Flávio. A Amazônia em questão: Belo Monte, Vale e outros temas. São Paulo: B4 Editores, 2012. 5. CASTRO, Edna Maria Ramos de; ÍNDIO, Campos (Org.). Formação socioeconômica da Amazônia. Belém: NAEA/UFPA, 2015. 640 p. (Coleção Formação Regional da Amazônia, 2) Disponível em: <http://livroaberto.ufpa.br/jspui/handle/prefix/164>.
+
+85
+
+4º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Introdução ao radiojornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quarto EMENTA: Aspectos históricos do rádio: perspectivas políticas, econômicas e sociais da implantação do veículo. Gêneros e formatos dos programas de rádio, em especial dos informativos. O rádio e as diversas modalidades (comercial, público, educativo e comunitário). A linguagem radiofônica. O texto radiofônico, a notícia no rádio. A produção em rádio. BIBLIOGRÁFIA BÁSICA:
+
+\1. BARBOSA FILHO, André. Gêneros radiofônicos. São Paulo: Paulinas, 2009. 2.  CALABRE, Lia. A Era do Rádio. Rio de janeiro: Jorge Zahar Editora, 2002. 3. PRADO, Magaly. História do rádio no Brasil. São Paulo: Livros de Safra, 2012. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. FERRARETTO, Luiz Arthur. Rádio: teoria e prática. São Paulo: Summus, 2014. 2. MCLEISH, Robert. Produção de rádio: um guia abrangente da produção radiofônica. 3ª ed. São Paulo: Summus, 2001. 3. MEDITSCH, Eduardo. ZUCULOTO, Valci. Teorias do rádio: textos e contextos. Florianópolis: Insular, 2008. v 1 e 2. 4. PRATA, Nair; BIANCO, Nélia R. Migração do rádio AM para FM: avaliação de impacto e desafios frente à convergência tecnológica. Florianópolis: Insular, 2018. 5. ZUCULOTO, Valci. No ar: a história da notícia de rádio no Brasil. Florianópolis: Insular, 2012.
+
+86
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Produção Multimídia  e Ciberjornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quarto EMENTA: Jornalismo convergente: conceitos e dimensões. Jornalismo e dispositivos móveis. As dinâmicas de trabalho no ciberjornalismo. O processo de produção do ciberjornalismo: apuração, produção, circulação. A mutação na notícia. As características do ciberjornalismo na construção de novas linguagens e narrativas. Experimentação de produtos laboratoriais digitais com a utilização de recursos multimídia. BIBLIOGRÁFIA BÁSICA:
+
+\1. D'ANDREAS, Carlos; LONGHI, Raquel (Org.). Jornalismo convergente: reflexões, apropriações, experiências. Florianópolis: Insular, 2012. 2. SCHWINGEL, Carla. Ciberjornalismo. São Paulo: Paulinas, 2012. 3. SILVA, Fernando Firmino. Jornalismo Móvel Digital: uso das tecnologias móveis digitais e a reconfiguração das rotinas de produção da reportagem de campo. Salvador: Edufba, 2014. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. FERRARI, Pollyana. (org.). Hipertexto Hipermídia: as novas ferramentas da comunicação digital. São. Paulo: Contexto, 2007. 2. LÉVY, Pierre. Cibercultura. São Paulo: Ed.34, 2000. 3.  PAULINO, Rita; RODRIGUES, Vivian (Org.). Jornalismo para tablets: pesquisa e prática. Florianópolis: Insular, 2013. 4.  PRIMO, Alex. Interação mediada por computador: comunicação, cibercultura, cognição. Porto Alegre: Sulina, 2007. 5.  SCHWINGEL, Carla; ZANOTTI, Carlos A.i. (Org.). Produção e Colaboração no Jornalismo Digital. Florianópolis: Insular, 2010.
+
+87
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Teorias da Comunicação na América Latina
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 4 0 4 SEMESTRAL 68 0 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quarto EMENTA: A configuração latino-americana do campo da Comunicação. Horizontes conceituais do pensamento comunicacional na América Latina. Implicações da modernidade tardia no continente. Dos meios às mediações, das mediações aos meios. Os estudos culturais latino- americanos. Principais pensadores do continente no campo da Comunicação. BIBLIOGRÁFIA BÁSICA:
+
+\1. CANCLINI, Néstor García. Culturas híbridas: estratégias para entrar e sair da modernidade. 4. ed. São Paulo: EDUSP, 2003. 2. DOWNING, John D. H. Mídia Radical – rebeldia nas comunicações e movimentos sociais. São Paulo: Senac, 2002. 3.  ESCOSTEGUY, Ana Carolina. Cartografias dos estudos culturais: uma versão latinoamericana. Belo Horizonte: Autêntica, 2001. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1.      BELTRÃO, Luiz. Folkcomunicação. Um estudo dos agentes e dos meios populares de informação de fatos e expressão de ideias. Porto Alegre: EDIPUCRS, 2014. Série Comunicação. 2.      CANCLINI, Néstor Canclini. A globalização imaginada. São Paulo: Iluminuras, 2007. 3.      GÓMEZ, Guillermo Orozco. Educomunicação: recepção midiática. São Paulo: Paulinas, 2014. 4.      JACKS, Nilda. Meios e audiências: a emergência dos estudos de recepção no Brasil. Porto Alegre: Sulina, 2008. 5.      MARTÍN-BARBERO, Jesus. Dos meios às mediações. Rio de Janeiro: UFRJ, 2009.
+
+88
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Economia Política da Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quarto EMENTA: A estrutura do sistema brasileiro de mídia. Políticas democráticas de comunicação: coronelismo eletrônico e a privatização da esfera pública. Sociedade, Estado e a regulação dos meios de comunicação. O discurso economicista em torno das políticas de comunicação. A economia política das comunicações na era digital. BIBLIOGRÁFIA BÁSICA:
+
+\1.  BRITTOS. Valério Cruz (Org.). Economia política da Comunicação. São Paulo: Mauad, 2011. 2.  GOMES, Wilson. Transformações da política na era da comunicação de massa. São Paulo: Paulus, 2004. 3. GOMES, Wilson; MAIA, Rousiley C. M. Comunicação e Democracia: Problemas e Perspectivas. São Paulo: Paulus, 2008. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. FISK, Robert. A grande guerra pela civilização: a conquista do Oriente Médio.Tradução Sandra Martha Dolinsky. São Paulo: Editora Planeta do Brasil, 2007. 2. LIMA, Venício Arthur de. Mídia: crise política e poder no Brasil. São Paulo: Fundação Perseu Abramo, 2006. 3. MORAES, Dênis; RAMONET, Ignácio & SERRANO, Pascual. Mídia, poder e contrapoder. Da concentração monopólica à democratização da informação. São Paulo: Boitempo; Rio de Janeiro: FAPERJ, 2013. 4.      SILVA, Sivaldo Pereira da. Sistemas públicos de comunicação no mundo. São Paulo: Paulus, 2009. 5. THOMPSON, John B. A mídia e a modernidade: Uma teoria social da mídia. 7 ed. Petrópolis – RJ: Editora Vozes, 2005.
+
+89
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Introdução ao Telejornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quarto EMENTA: Aspectos históricos da TV. As redes nacionais de televisão. O telejornalismo na sociedade brasileira. Linguagem telejornalística (texto, som, imagem). Fundamentos teóricos e práticos da reportagem de TV. Apuração telejornalística. Redação de notas. Técnicas de entrevistas. Análise dos telejornais. Gêneros e formatos. Ética no telejornalismo e as relações com as fontes. Telejornalismo na era digital. BIBLIOGRÁFIA BÁSICA:
+
+\1. MATTOS, Sérgio.História da televisão brasileira: uma visão econômica, social e política. Petrópolis, RJ: Vozes, 2002. 2. PATERNOSTRO, Vera Iris. O texto na TV: manual de telejornalismo. 2. ed. Rio de Janeiro: Campus, 2006. 3. BISTANE, Luciana; BACELLAR, Luciane. Jornalismo de TV. São Paulo: Contexto, 2005. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. SOUZA, José C. Aronchi. Gêneros e formatos na televisão brasileira. São Paulo: Summus, 2004. 2. PEREIRA JÚNIOR, Alfredo Eurico Vizeu. A sociedade do telejornalismo. Petrópolis, RJ: Vozes, 2008 3. CANNITO, Newton. A televisão na era digital. Interatividade, convergência e novos modelos de negócios. São Paulo: Summus, 2010. 4. EMERIM, Cárlida (Org.). As entrevistas na notícia de televisão. Florianópolis: Insular, 2012. 5. VIZEU Alfredo, PORCELO, Flávio; COUTINHO, Iluska. (Org.).60 anos de telejornalismo no Brasil. História, análise, crítica. Florianópolis, Insular, 2010.
+
+90
+
+5º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Laboratório de Radiojornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 3 4 SEMESTRAL 17 51 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quinto EMENTA: Produção em radiojornalismo. Os diferentes gêneros e formatos jornalísticos no rádio. A linguagem radiofônica. Técnicas de apuração, redação e edição. Locução e apresentação. Roteiro, gravação e finalização de diferentes produtos em radiojornalismo. BIBLIOGRÁFIA BÁSICA:
+
+\1. BARBEIRO, Heródoto; LIMA, Paulo Rodolfo de. Manual de radiojornalismo. rev. Rio de Janeiro: Campus, 2003. 2ª ed. 2. FERRARETTO, Luiz Arthur. Rádio: o veículo, a história e a técnica. Porto Alegre: Sagra-Luzzatto, 2007. 3ª ed. 3. JUNG, Milton. Jornalismo de rádio. São Paulo: Contexto, 2007. 3ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BARBOSA FILHO, André. Gêneros radiofônicos: os formatos e os programas em áudio. São Paulo: Paulinas, 2009. 2. JAVORSKI, Elaine. Radiojornalismo: do analógico ao digital. Curitiba: Editora InterSaberes, 2017. 3. MEDITSCH, Eduardo. O rádio na era da informação: teoria e técnica do novo radiojornalismo. 2 ed. rev. Florianópolis: Insular, 2007. 4.  PRATA, Nair. WEBradio: novos gêneros, novas formas de interação. Florianópolis: Insular, 2009. 5. ZUCULOTO, Valci. A programação de rádios públicas brasileiras. Florianópolis: Insular, 2012.
+
+91
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Laboratório de Telejornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 3 4 SEMESTRAL 17 51 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quinto EMENTA: Telejornalismo: funções dos profissionais e equipamentos. Técnicas de apuração e elaboração da pauta. Técnica de redação: a lauda para o telejornal. A construção da notícia na TV. Textos e formatos para telejornal. Entrevista e suas modalidades. Aspectos da locução e sua gravação. Edição e Pós-produção. A estrutura do telejornal e seus elementos: do espelho à transmissão.  A mobilidade no telejornal: uso de dispositivos móveis e a construção de uma nova estética.  Telejornalismo na web. Práticas experimentais em telejornalismo. BIBLIOGRÁFIA BÁSICA:
+
+\1. ALCURE, Lenira. Telejornalismo em 12 lições: televisão, vídeo, internet. Rio de Janeiro: Senac Nacional, 2011. 2. BARBEIRO, Heródoto; LIMA, Paulo Rodolfo. Manual de telejornalismo: os segredos da notícia na TV. 2. ed. rev. e atual. Rio de Janeiro: Elsevier; Campus, 2002. 3. PORCELLO, F.; VIZEU, A.; COUTINHO, I. (Orgs.). Telejornalismo: nas ruas e nas telas. Florianópolis: Insular, 2013. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. PATERNOSTRO, Vera Iris. O texto na TV: manual de telejornalismo. 2. ed. Rio de Janeiro: Campus, 2006. 2. RENAULT, Letícia. Webtelejornalismo. Rio de Janeiro: E-papers, 2014. 3. REZENDE, Guilherme Jorge de. Telejornalismo no Brasil: um perfil editorial. São Paulo: Summus, 2000. 4. FAXINA, Elson (Org.). Edição de áudio e vídeo. Curitiba: Intersaberes, 2018 5. VILLELA, Regina. Profissão jornalista de TV: telejornalismo aplicado na era digital. Rio de Janeiro: Ciência Moderna, 2008.
+
+92
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Laboratório de Produção Jornalística
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 3 4 SEMESTRAL 17 51 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quinto EMENTA: A produção da informação jornalística nos diferentes meios. Procedimentos de pesquisa e apuração no jornalismo. Pauta e planejamento. Reportagem e trabalho de campo. Edição e hierarquização. As fontes. A web como instrumento de pesquisa e coleta de informação. Leitura e interpretação de documentos e bases de dados. Técnicas e tipos de entrevista. O texto jornalístico. Verificação e rechecagem. Erros de apuração e modos de correção. Ética nos processos de produção e edição jornalísticos. BIBLIOGRÁFIA BÁSICA:
+
+\1. PRADO, Magaly. Técnicas de redação em Jornalismo. O texto da notícia - V.02, São Paulo: Saraiva, 2012. 2. FLORESTA, Cleide; BRASLAUSKAS, Ligia. Técnicas de reportagem e entrevista: roteiro para uma boa apuração. São Paulo: Saraiva, 2009. 3. MEDINA, Cremilda. Entrevista: o diálogo possível. São Paulo: Ática, 2005. 4ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. CHRISTOFOLETTI, Rogério; LIMA, Samuel. Reportagem, pesquisa e investigação. Florianópolis: Editora Insular, 2009. 2. DISCINI, Norma. A comunicação nos textos: leitura, produção e exercício. São Paulo: Editora Contexto, 2012. 3. ERBOLATO, Mário. Técnicas de codificação em jornalismo. Redação, captação e edição no jornal diário. São Paulo: Ática, 2004. 4. FLOSI, Edson. Por trás da notícia: o processo de criação das grandes reportagens. São Paulo: Editora Summus, 2012. 5. LAGE, Nilson. Teoria e técnica do texto jornalístico.  Rio de Janeiro: Elsevier, Campus, 2005.
+
+93
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Jornalismo comunitário
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quinto EMENTA: A importância do jornalismo comunitário. Papel social.  Articulação local e global. Organização social e meios de comunicação. Informação com ênfase aos problemas locais. BIBLIOGRÁFIA BÁSICA:
+
+\1. AMARAL, Márcia Franz. Jornalismo popular. São Paulo, Contexto, 2006. 2. MOURA, Diego et al (Orgs). Comunicação e cidadania: conceitos e processos. Editora Francis, 2011. 3. PERUZZO, Cicilia M.K. Televisão comunitária. São Paulo: Mauad, 2007. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. COELHO NETO, Armando. Rádio comunitária não é crime. São Paulo: Summus, 2002. 2. HENRIQUES, Márcio Simeone. Comunicação e estratégia de mobilização social. Belo Horizonte: Editora Autêntica, 2007. 3. HENRIQUES, Márcio Simeone. Comunicação e Mobilização Social na Prática de Política Comunitária. Belo Horizonte: Editora Autêntica, 2010. 4. LIMA, Rafaela. Mídias comunitárias, juventude e cidadania. Belo Horizonte: Editora Autêntica, 2007. V. 5. 5. PAIVA, Raquel (org.). O retorno da comunidade: os novos caminhos do social. Rio de Janeiro: Mauad X, 2007.
+
+94
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Estética da Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Quinto EMENTA: Marco conceitual de estética e de arte: aspectos filosóficos. Comunicação e reprodução técnica dos bens culturais. Estética e indústria cultural. Crítica da cultura e da comunicação.  Cultura visual contemporânea. BIBLIOGRÁFIA BÁSICA:
+
+\1. ADORNO, Theodor W; HORKHEIMER, Max. A dialética do esclarecimento: fragmentos filosóficos. Rio de Janeiro: Jorge Zahar, 1985. 2. BENJAMIN, Walter. Obras escolhidas: magia e técnica, arte e política. São Paulo: Brasiliense, 1996, pp. 165-196. 3. GUIMARÃES, César et al. (Org.). Comunicação e experiência estética. Belo Horizonte: Editora UFMG, 2006. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BAUDRILLARD, Jean. Simulacros e simulações. Lisboa: Relógio D’Água, 1991. 2. DRUFENNE, Mikel. Estética e filosofia. São Paulo: Editora Perspectiva, 2015. 6ª ed. 3. MARTINO, Luís Mauro Sá. Estética da Comunicação: da consciência comunicativa ao eu digital. Petrópolis, RJ: Vozes, 2007. 4. SANTAELLA, Lúcia. Cultura e artes do pós-humano: da cultura das mídias à cibercultura. São Paulo: Paulus, 2010. 5. VATTIMO, Gianni. A sociedade transparente. Lisboa: Relógio D’Água, 1992.
+
+95
+
+6º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Assessoria de Imprensa e Gestão de Comunicação
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 41 27 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sexto EMENTA: Aspectos históricos da comunicação organizacional e de imprensa. Comunicação pública e empresarial. Assessoria e consultoria de comunicação. Comunicação integrada e estratégica. Comunicação e marketing. Comunicação interna e endomarketing. Planejamento de comunicação. Mídia training e gerenciamento de crises. BIBLIOGRÁFIA BÁSICA:
+
+\1. BUENO, Wilson da Costa (Org.). Estratégias de comunicação nas mídias sociais. São Paulo: Manole, 2015. 2. DUARTE. Jorge. Assessoria de imprensa e relacionamento com a mídia: teoria e técnica. São Paulo: Atlas, 2011. 3. DUARTE, Jorge (Org.). Comunicação pública: estado, mercado, sociedade e interesse público. São Paulo: Atlas, 2012. 3ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BUENO, Wilson da Costa. Comunicação empresarial: políticas e estratégias. São Paulo: Saraiva, 2009. 2. BACCEGA, Maria Aparecida; COSTA, Maria Cristina Castilho. Gestão da comunicação: epistemologia e pesquisa teórica. São Paulo: Paulinas, 2009. 3. KUNSCH, Margarida Maria Krohling (Org.). Comunicação organizacional estratégica: aportes conceituais e aplicados. São Paulo: Summus, 2016. 4. LUCAS, Luciane. (Org.). Media training: como agregar valor ao negócio melhorando a relação com a imprensa. São Paulo: Summus Editorial, 2007. 5. SAAD, Beth. Estratégias 2.0 para mídia digital: internet, informação e comunicação. São Paulo: SENAC, 2012.
+
+96
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Mídia e História Social da Amazônia
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 3 1 4 SEMESTRAL 51 17 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sexto EMENTA: A produção e reprodução dos discursos sobre à Amazônia. Meios de comunicação de massa os discursos sobre os povos tradicionais da Amazônia. Amazônia sob o ponto de vista local e global. BIBLIOGRÁFIA BÁSICA:
+
+\1. ALMEIDA, Alfredo Wagner Berno De. Antropologia dos “archivos” da Amazônia. Rio de Janeiro: Casa 8 : F.U.A, 2008. 2. MALCHER, Maria Ataide; SEIXAS, Netília Silva dos Anjos; LIMA, Regina Lúcia Alves de; FILHO, Otacílio Amaral (org.) Comunicação Midiatizada na e da Amazônia. Belém. Fadesp, 2011. 3. AMARAL FILHO, Otacílio; CASTRO, Fábio Fonseca de; SEIXAS, Netília Silva dos Anjos (Org.). Pesquisa em comunicação na Amazônia. Belém: UFPA, 2010. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. ALMEIDA, Rogério Henrique. Territorialização do campesinato no sudeste do Pará. 2006. 176 f. Dissertação (Mestrado) - Universidade Federal do Pará, Núcleo de Altos Estudos Amazônicos, Belém, 2006. Programa de Pós-Graduação em Desenvolvimento Sustentável do Trópico Úmido. 2. KUCISNKI, Bernardo. Jornalistas e revolucionários. 2 ed. São Paulo: EDUSP, 2001. Disponível em: http://kucinski.com.br/pdf/livros_jornrevPrint.pdf 3. MORBACH, Marize. Amazônia in concert. 1997. 72f. Dissertação (Mestrado em Comunicação Semiótica) – Pontifícia Universidade Católica de São Paulo, São Paulo, 1997. 4. CAL, Danila Gentil Rodriguez. Comunicação e trabalho infantil doméstico: política, poder, resistências. Salvador: EDUFBA, 2016. Disponível em: http://repositorio.ufba.br/ri/handle/ri/19357. 5. CASTRO, F. F. de. As identificações amazônicas. 1. ed. Belém: Naea/UFPA, 2018.
+
+97
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Cinejornalismo
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sexto EMENTA: Cinema no Brasil. Cinema na Amazônia. Papel do cinema na produção do discurso. O cinema como processo de transformação social. BIBLIOGRÁFIA BÁSICA:
+
+\1. BERNARDET, Jean Claude. Cinema Brasileiro: Propostas para uma História. Rio de Janeiro: Companhia de Bolso, 2009. 2. BERNARDET, Jean Claude. O que é cinema? São Paulo: Editora Brasiliense, 1980. 3. STAM, Robert. Introdução a teoria do cinema. Campinas: Papirus, 2013. 3ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BENJAMIN, Walter Benjamin. Obras Escolhidas: magia e técnica, arte e política. São Paulo: Editora Brasiliense, 2012. 8ª ed. 2. GOMES, Paulo Emílio Salles. O cinema no século. São Paulo: Companhia das Letras, 2015. 3. NICHOLS, Bill. Introdução ao documentário. Campinas: Papirus, 2016. 6ª ed. 4. RAMOS, Fernão Pessoa. Mas afinal... o que é mesmo documentário? São Paulo: Editora Senac, 2008. 5. XAVIER, Ismail. A experiência do cinema. São Paulo: Paz e Terra, 2018.
+
+98
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Marketing
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sexto EMENTA: Conceito e evolução do Marketing. Atividades da Administração Mercadológica. Ambiente de Marketing. Mercado – Classificação, Demanda, Segmento, Seleção de Mercado Alvo, Tendência de Mercado, Análise de oportunidade. Índice de determinação de Mercado, Segmentação de Mercado no Brasil. BIBLIOGRÁFIA BÁSICA:
+
+\1. KOTLER, Philip.  Administração de marketing: análise, planejamento, implementação e controle. São Paulo: Atlas, 1998. 5ª ed. 2. LAS CASAS, Alexandre L. Marketing:  conceitos, exercícios e casos. Atlas, 2009. 8ª ed. 3. LAS CASAS, Alexandre Luzzi. Marketing de Serviços. Atlas, 2012. 6ª ed. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. BARROS, José C. Pesquisa de Marketing. Prentice Hall, 2008. 2. FERNANDES, Sandra. Planejamento Estratégico de Marketing. FGV, 2011. 3. FUTRELL, Charles M. Vendas fundamentos e novas práticas de gestão. São Paulo: Saraiva, 2014.
+
+\4. LOPES FILHO, Luciano Sabóia. Marketing de vantagem competitiva. São Paulo: Saraiva, 2006. 5. ZENONE, Luiz Cláudio. Marketing Estratégico e Competitividade Empresarial. São Paulo: Novatec. 1. ed. 2008.
+
+99
+
+7º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: TCC I
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 33 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sétimo EMENTA: Elaboração do projeto do Trabalho de Conclusão de Curso (TCC), com acompanhamento do professor orientador do TCC. BIBLIOGRÁFIA BÁSICA:
+
+\1. LAKATOS E. M; Marconi, M. de A. Metodologia do Trabalho Científico. 6.ed São Paulo : Atlas, 2001. 2. LAGO, Cláudia; BENETTI, Márcia (Org.). Metodologia de pesquisa em jornalismo. 2 ed., 3 ed. Petrópolis, RJ: Vozes, 2010. 3. RICHARDSON, Roberto Jarry. Pesquisa social: métodos e técnicas. 4 ed. São Paulo. Editora Atlas S.A. 2017. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. CERVO, Amado L.; BERVIAN, Pedro A.; Da Silva, Roberto. Metodologia Científica. 6.ed. São Paulo : Pearson Prentice Hall, 2007. 2. GODOI, Christiane Kleinbing; MELO, Rodrigo Bandeira de; SILVA, Anielson Barbosa. Pesquisa Qualitativa em Estudos Organizacionais - Paradigmas, Estratégias e Métodos. 2. ed. Saraiva, 2010. 3. MAGALHÃES, Gildo; Introdução a Metodologia da Pesquisa. São Paulo: Ática 2005. 4. MINAYO, Maria Cecília de Souza (Org.). Pesquisa social: teoria, método e criatividade. 30. ed. Petrópolis, RJ: Vozes, 2012. 5. RUDIO, Franz Victor. Introdução ao Projeto de Pesquisa. São Paulo: Vozes 2009. OBS.: Outras publicações serão indicadas pelo professor orientador de acordo com o tema a ser desenvolvido pelo aluno.
+
+100
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Seminário de Comunicação e práticas inovadoras
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 4 5 SEMESTRAL 17 68 85 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sétimo EMENTA: Comunicação e práticas inovadoras na sociedade contemporânea. Economia solidária, economia criativa e práticas colaborativas. Criatividade, perspectivas de atuação e gestão no campo do jornalismo e da comunicação. Planejamento, organização e empreendedorismo em ações de comunicação e tecnologias e inovações na Amazônia. BIBLIOGRÁFIA BÁSICA:
+
+\1. MARTINS, Maura. Profissão jornalista: um guia para viver de notícias na próxima década. Curitiba: Intersaberes, 2018 2. PINTO, Ana Estela de Sousa; CASTRO, Cristina Moreno de. A vaga é sua: como preparar para trabalhar em jornalismo. São Paulo: Publifolha, 2010. 3. RAINHO, João Marcos. Jornalismo freelance: empreendedorismo na comunicação. São Paulo: Summus, 2008. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. DORNELAS, José Carlos Assis. Empreendedorismo: transformando ideias em negócios. Rio de Janeiro: Elsevier, 2012.
+
+\2. FÍGARO, R.; NONATO, C.; GROHMANN, R. As mudanças no mundo do trabalho do jornalista. São Paulo: Atlas, 2013 3. GERBER, M. E. O mito do empreendedor: como fazer de seu empreendimento um negócio bem-sucedido. São Paulo: Saraiva, 2011.
+
+\4. MAINIERI, Tiago. Empreendedorismo em Comunicação: Estudo comparativo das agências de Relações Públicas e Comunicação no Brasil, Espanha e Estados Unidos. 2008, 310 fl. Tese (Doutorado). Escola de Comunicação e Artes da Universidade de São Paulo. São Paulo, 2008.
+
+\5. OLIVEIRA, Maurício. Manual do frila: o jornalista fora da redação. São Paulo: Contexto, 2010.
+
+101
+
+SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: Laboratório de assessoria de Comunicação Organizacional
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 1 4 4 SEMESTRAL 15 70 85 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Sétimo EMENTA: Panorama da comunicação organizacional: conceitos, estratégias e ferramentas. A comunicação estratégica e integrada nas organizações do Primeiro, Segundo e Terceiro Setor. O Jornalismo e a mediação entre a organização e a sociedade. Planejamento de comunicação. Desenvolvimento e execução de projetos de assessoria de comunicação. BIBLIOGRÁFIA BÁSICA:
+
+\1. LOREZON, Gilberto; MAWAKDIYE, Alberto. Manual de Assessoria de Imprensa. 2.ed. Campos do Jordão: Mantiqueira, 2006. 2. BUENO, Wilson da Costa. Comunicação Empresarial - alinhando teoria e prática. São Paulo: Manole, 2014. 3. OLIVEIRA, Ivone de Lourdes; PAULA, Maria Aparecida. O que é comunicação 4. estratégica nas organizações? 2. ed. São Paulo: Paulus, 2008. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. KOPPLIN, Elisa; FERRARETTO, Luiz Artur. Assessoria de imprensa: teoria e prática. 5.ed. São Paulo: Summus, 2009. 2. MARCHIORI, Marlene. Faces da cultura e comunicação organizacional.  São Caetano do Sul, SP: Difusão Editora, 2008. 3. MAFFEI, Maristela. Assessoria de imprensa. Como se relacionar com a mídia. São Paulo: Contexto, 2004 4. OLIVEIRA, Ivone de Lourdes Soares; NOGUEIRA, Ana Thereza (Org.). Interfaces e tendências da comunicação no contexto das organizações. São Caetano do Sul, SP: Difusão 2012. 5. TORQUATO, Gaudêncio. Comunicação Nas Organizações - Empresas Privadas, Instituições e Setor Público. São Paulo: Summus Editorial, 2015.
+
+102
+
+8º Semestre do Curso SERVIÇO PÚBLICO FEDERAL UNIVERSIDADE DO SUL E SUDESTE DO PARÁ INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS
+
+CURSO DE JORNALISMO DISCIPLINA: TCC II
+
+CARGA HORÁRIA (h) TEÓRICA PRÁTICA TOTAL SEMANAL 2 2 4 SEMESTRAL 34 34 68 CARÁTER CODIGO PERÍODO PRÉ-REQUISITOS FACULDADE Obrigatória Oitavo EMENTA: Trabalho final. Normatização e técnicas de apresentação. BIBLIOGRÁFIA BÁSICA:
+
+\1. BARROS, Aidil Jesus da Silveira; e LEHFELD, Neide Aparecida de Souza. Fundamentos de Metodologia. 2.ed. São Paulo : Makron Books, 2000. 2. DUARTE, Jorge; BARROS, Antonio (Org.). Métodos e técnicas de pesquisa em comunicação. 2. ed. São Paulo: Atlas, 2006. 3. LAGO, Cláudia; BENETTI, Márcia (Org.). Metodologia de pesquisa em jornalismo. 2. ed., 3 ed. Petrópolis, RJ: Vozes, 2010. BIBLIOGRÁFIA COMPLEMENTAR:
+
+\1. KÖCHE, José Carlos. Fundamentos de metodologia científica: teoria da ciência e prática de pesquisa. Petrópolis : Vozes, 1997. 2. MAGALHÃES, Gildo; Introdução a Metodologia da Pesquisa. São Paulo: Ática 2005. 3. MINAYO, Maria Cecília de Souza (Org.). Pesquisa social: teoria, método e criatividade. 30 ed., 31 ed. Petrópolis, RJ: Vozes, 2012. 4. RUDIO, Franz Victor; Introdução ao Projeto de Pesquisa. São Paulo: Vozes 2009. 5. GODOI, Christiane Kleinbing; MELO, Rodrigo Bandeira de; SILVA, Anielson Barbosa. 6. Pesquisa Qualitativa em Estudos Organizacionais: paradigmas, estratégias e métodos. 2. ed. Saraiva, 2010.
