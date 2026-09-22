@@ -1,0 +1,5191 @@
+\- -
+
+DADOS GERAIS DO CURSO Denominação: Jornalismo / Bacharelado / Jornalismo / Jornalismo - 2023 Modalidade: Presencial Regime: Semestral Local de oferta: Campus Juvevê Turno de funcionamento: Integral Número total de vagas/ano: 30 Carga horária total: 3230 horas relógio Prazo de integralização curricular: mínimo de 8 e máximo de 12 Curso: JORNALISMO Setor: SETOR DE ARTES COMUNICAÇÃO E DESIGN Campus: Campus Batel COMISSÃO ELABORADORA DO PROJETO PEDAGÓGICO
+
+A comissão elaboradora do Projeto Pedagógico do Curso é composta pelos sequintes membros:
+
+MARIO MESSAGI JUNIOR (Coordenador(a)) JULIANA DE LARA SILVEIRA APRESENTAÇÃO
+
+APRESENTAÇÃO
+
+Este projeto pedagógico concebe e rege o curso de Jornalismo da Universidade Federal do Paraná
+
+(UFPR), situado no Campus Cabral, à Rua Bom Jesus, 650, bairro Juvevê, CEP 80035-010, em Curitiba
+
+(PR). O curso de Jornalismo faz parte do Setor de Artes, Comunicação e Design (Sacod) da UFPR.
+
+A existência do curso de Jornalismo da UFPR se apoia na premissa de que esse campo do conhecimento
+
+está estruturado a partir de suas especificidades, perspectivas teóricas e práticas, em conformidade com o
+
+que estabelecem as Novas Diretrizes Curriculares Nacionais dos cursos de Jornalismo. Levam-se em
+
+conta as características buscadas para a formação dos egressos, e sua preparação para os diferentes
+
+campos profissionais.
+
+A proposta de constituição do curso de Bacharelado em Jornalismo se fundamenta no conhecimento
+
+abrangente das exigências sociais, políticas, econômicas e culturais, bem como aquelas manifestadas
+
+pelo mercado de trabalho, que se verificam quanto à formação e à qualificação do profissional do
+
+jornalismo.
+
+O resultado pretendido é a formação de um profissional capaz de atuar no contexto da realidade do país e
+
+do mundo. Para tanto, o curso é estruturado com base em metas e ações que produzam o conhecimento
+
+necessário, tanto do ponto de vista humanístico como no que se refere ao domínio de tecnologias em
+
+constante avanço aplicadas à produção jornalística.
+
+Neste sentido, a proposta curricular se harmoniza com outros elementos, como corpo docente
+
+devidamente qualificado e homogêneo, identificado com os valores, objetivos e missão da instituição e do
+
+curso, e com recursos técnicos e laboratoriais condizentes com a qualificação profissional pretendida para
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+os alunos.
+
+Outro ponto fundamental é a busca permanente de integração entre o curso e entidades representativas
+
+do campo específico do jornalismo, empresas do setor e profissionais da área. Neste sentido, as práticas
+
+desenvolvidas no âmbito do curso deverão estar em consonância com as propostas e realizações com
+
+vistas a excelência da formação profissional, atuação ética e voltada primordialmente ao interesse público,
+
+com compromisso social e com a democracia.
+
+Com vistas à formação profissional qualificada, estão unidas neste curso as esferas teóricas e práticas,
+
+preparando o aluno para o mercado de trabalho, sempre visando uma atuação consciente, crítica e ética.
+
+Para tanto, é necessário que o curso apresente estruturação equilibrada, oferecendo a formação de
+
+profissionais em condições de atuar nas diversas áreas jornalísticas e meios de comunicação. Deve
+
+possibilitar que o aluno desenvolva habilidades inerentes ao exercício profissional no mercado e também
+
+orientar à pós-graduação aqueles que apresentem vocação para o ensino e a pesquisa.
+
+MISSÃO DO CURSO
+
+O curso de Jornalismo se integra totalmente à filosofia da UFPR, expressa em sua missão, qual seja:
+
+“Fomentar, construir e disseminar o conhecimento, contribuindo para a formação do cidadão e
+
+desenvolvimento humano sustentável”.
+
+A principal função do curso é a preparação de profissionais detentores de conhecimentos teóricos,
+
+humanísticos e técnicos para o exercício da profissão de acordo com as grandes demandas sociais,
+
+estabelecendo condições para a garantia plena da cidadania a partir de uma comunicação jornalística
+
+democrática.
+
+Outro ponto norteador das atividades inerentes ao curso corresponde à visão da instituição, considerada
+
+como centro de excelência na produção e difusão do conhecimento, reconhecida por sua atuação
+
+inovadora e contribuição social, em conformidade com os seus princípios e valores:
+
+Princípios
+
+Universidade pública, gratuita, de qualidade e comprometida socialmente;
+
+Indissociabilidade entre ensino, pesquisa e extensão;
+
+Liberdade na construção e autonomia na disseminação do conhecimento;
+
+Respeito a todas as instâncias da sociedade organizada.
+
+Valores
+
+Comprometimento com a construção do saber e formação de profissionais competentes e
+
+compromissados socialmente;
+
+Ambiente pluralista, no qual o debate público é instrumento da convivência democrática;
+
+Preservação e disseminação da cultura brasileira;
+
+Proposição de políticas públicas;
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Comprometimento da comunidade universitária com a instituição;
+
+Gestão participativa, dinâmica e transparente comprometida com melhores condições de trabalho e
+
+qualidade de vida;
+
+Eficiência, eficácia e efetividade no desenvolvimento das atividades institucionais; Isonomia no tratamento
+
+dispensado às unidades da instituição;
+
+Respeito aos critérios institucionais usados na alocação interna de recursos;
+
+Cultura de planejamento e avaliação contínua da vida universitária.
+
+FUNCIONAMENTO DO CURSO
+
+O funcionamento do curso é direcionado por este projeto, cujo núcleo não está fundamentado em uma
+
+relação de disciplinas, mas sim nas concepções gerais que o norteiam, mediante articulações entre os
+
+conteúdos curriculares e os procedimentos pedagógicos.
+
+Nessa proposta acadêmica, o currículo pleno do curso se configura como um conjunto de iniciativas
+
+pedagógicas relevantes, definindo suas disciplinas, atividades, conteúdos específicos e procedimentos em
+
+função concomitante dos perfis, competências e habilidades, assim como dos conteúdos básicos
+
+expressos nas Novas Diretrizes Curriculares, além de metas e objetivos próprios quanto à formação dos
+
+alunos, das posições intelectuais, críticas e propositivas da instituição, sobre sua tarefa de formação.
+
+A Lei de Diretrizes e Bases da Educação viabiliza a diversificação de propostas nos projetos acadêmicos,
+
+permitindo que se expanda o campo da experimentação pedagógica e organizacional, de pesquisa e de
+
+desenvolvimento profissional.
+
+As flexibilidades legais e normativas são tomadas, assim, como requisito para estimular o aperfeiçoamento
+
+constante da formação, não mais contida de forma única em um documento formal, expresso na condição
+
+de um currículo mínimo. O direcionamento e a qualidade da formação profissional se ligam, agora, a um
+
+trabalho coletivo, envolvendo docentes, discentes e técnicos, em atividades comuns de ensino, pesquisa e
+
+extensão, entre outras.
+
+Com isso, possibilita-se aos estudantes a realização das atividades curriculares acompanhadas de
+
+algumas disciplinas optativas, dentro da carga horária mínima de integralização curricular, o que
+
+representa uma corresponsabilidade na construção do currículo pleno e da formação superior.
+
+Os conceitos e ações que direcionam o embasamento deste curso buscam a superação da antiga
+
+dicotomia entre teoria e prática. O currículo é elaborado de modo a introduzir conteúdos distribuídos em
+
+seis eixos, conforme estabelecem as novas diretrizes, os quais compreendem: eixo de fundamentação
+
+humanística, eixo de fundamentação específica, eixo de fundamentação contextual, eixo de formação
+
+profissional, eixo de aplicação processual e eixo de prática laboratorial.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+JUSTIFICATIVA DA OFERTA DO CURSO
+
+A principal responsabilizar da instituição em sua relação com a sociedade diz respeito, à formação e à
+
+alocação de recursos humanos, qualificados técnica, ética e socialmente no mercado de trabalho, e a
+
+valorização do constante aperfeiçoamento Social levando em conta a vocação regional. O Paraná é um
+
+dos 26 estados do Brasil e está situado na Região Sul do país. Faz divisa com os estados de São Paulo,
+
+Santa Catarina e Mato Grosso do Sul, fronteira com a Argentina e o Paraguai e limite com o Oceano
+
+Atlântico. Ocupa uma área de 199.880 km, representando 2,3% do território nacional. Possui uma
+
+população estimada: em 10.284.503 habitantes (dados do Instituto Brasileiro de Geografia e Estatística,
+
+IBGE). Em termos de bens duráveis existentes nos domicílios, o estado segue a média nacional, com
+
+índices um pouco acima, sendo 94 07% de aparelhos de TV, 92, 88% de rádio e 27, 73% de
+
+microcomputadores (PNAD 2006). A capital do estado é Curitiba, e outras importantes cidades são
+
+Londrina, Maringá, Foz do Iguaçu, Ponta Grossa, Cascavel, Guarapuava e Paranaguá Na Região
+
+Metropolitana de Curitiba, destacam-se, por sua importância econômica, os municípios de São José dos
+
+Pinhais, Araucária, Campo Largo e Fazenda Rio Grande.
+
+A população é formada por descendentes de várias etnias: poloneses, italianos alemães ucranianos,
+
+holandeses, espanhóis, Japoneses e portugueses, e por imigrantes procedentes, em sua maioria, dos
+
+estados do Rio Grande do Sul, Santa Catarina São Paulo e Minas Gerais. O Paraná possui uma excelente
+
+infraestrutura contando com estradas aeroportos, ferrov1as portos e usinas geradoras de energia elétrica.
+
+A Região Metropolitana de Curitiba, localizada no leste do Estado, possui 26 municípios e responde hoje
+
+cerca de 40% do valor adicionado total do. Paraná, devido à concentração do parque industrial do estado.
+
+A região Londrina-Maringá situada ao norte do estado abriga 79 municípios e sua economia, centrada
+
+principalmente nas cidades de Londrina e Maringá está relacionada basicamente a atividades
+
+agroindustriais (Soja, trigo, milho, cana-de-açúcar, algodão; café), embora possua outras atividades
+
+industriais, como têxtil e química. Os demais municípios do Paraná também possuem um forte vínculo
+
+com a produção agropecuária (avicultura, bovinos, café, trigo e soja).
+
+Economia
+
+Devido à colonização do estado do Paraná o setor produtivo paranaense possui um forte vínculo com a
+
+produção agroindustrial. Esse é um segmento com baixa concentração espacial sendo que cerca de 90%
+
+dos municípios do estados tem o seu crescimento econômico ligado às atividades agroindustriais. Até à
+
+década de 1970, diante da influência da agropecuária no estado a região de Maringá e Londrina dividia
+
+com a Região Metropolitana de Curitiba a maior geração de renda paranaense. Tal quadro vem se
+
+alterando nas últimas décadas, com a implantação de novos setores e a modernização de ramos
+
+tradicionais, sustentados pela instalação de empresas de grande porte, que operam com tecnologia
+
+avançada, com vistas ao mercado nacional e internacional. Atualmente a Região Metropolitana de Curitiba
+
+aumentou a sua participação e detém aproximadamente 40% do valor adicionado do Paraná sendo que
+
+grande parte está concentrada, no município de Curitiba.
+
+MUNICÍPIOS MAIS POPULOSOS - 2010
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Produto Interno Bruto (PIB) A economia paranaense é a quinta maior do país O estado responde
+
+atualmente por 5,84% do PIB nacional, registrando uma renda per capita de R$ 20,8 mil em 2010, acima
+
+do valor de R$ 19,7 mil referente ao Brasil.
+
+PIB 2002-2011
+
+PPC pg. 25/397.
+
+São diversas as ações propostas para a promoção efetiva de integração entre o: curso, a sociedade e o
+
+mercado, entre as quais se situam as seguintes:
+
+Manutenção regular de atividades de extensão e pesquisa;
+
+Acompanhamento da integração dos profissionais formados pela instituição ao mercado de
+
+trabalho;
+
+Interação entre o curso, através dos docentes, discentes e profissionais dos serviços de apoio,
+
+com entidades representativas dos diversos segmentos da área jornalística visando à solução de
+
+problemas referentes ao mercado de trabalho e cooperação quanto às atividades de ensino,
+
+pesquisa e extensão;
+
+Desenvolvimento de ações conjuntas, com entidades representativas do setor jornalístico a e com
+
+setores da sociedade civil em geral, que atuem na busca de soluções para problemas de
+
+interesse público da área;
+
+Integração das atividades de formação com aquelas executadas por veículos, estruturas de
+
+serviços e produção de comunicação da própria instituição com as pertencentes ao mercado de
+
+trabalho (meios impressos emissoras de rádio e televisão, inclusive canais de sinal fechado
+
+produtoras agências, editoras e assessórias);
+
+Valorização da vocação regional, como fator de orientação da formação profissional do egresso,
+
+estruturando o curso de acordo com as condições socioeconômicas e culturais do estado e da
+
+região, observando também o atendimento às demandas sociais próprias dessa região.
+
+MERCADO DA COMUNICAÇÃO
+
+No total atuam no Paraná 645 veículos de comunicação.
+
+Três grupos empresariais se destacam no estado em atividades específicas de comunicação: a Rede
+
+Paranaense de Comunicação (RPC), que possui 11 veículos, afilada à Rede Globo, atua tanto na TV,
+
+como em rádio FM e jornal; o Grupo RIC - Petrelli de Comunicação, que possui 7 veículos, afiliado a Rede
+
+Record, atua na TV e no rádio FM, e por último o Grupo Massa, que também engloba 7 veículos, afiliado
+
+ao SBT, atuante na TV, e também em rádios AM e FM.
+
+O estado possui ainda um número expressivo de geradoras, são 37 ao todo, e conta com 488
+
+retransmissoras que distribuem o sinal das redes para todo o estado. São 22 redes de TV atuando no
+
+estado do Paraná.
+
+Possui um número grande de rádios AM, maior número que rádios FM. O número de rádios comunitárias
+
+acompanha o número dos outros estados do Sul do Brasil, número bem abaixo em relação ao número de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+rádios AM e FM.
+
+Na capital e região metropolitana ainda existem diversos pequenos veículos impressos, como o Jornal do
+
+Ônibus, o MetroNews, o Correio Metropolitano, Curitiba Metrópole, entre outros. Além desses existem
+
+ainda mais 120 títulos de jornais de bairros de Curitiba, pequenos semanários ou jornais que circulam três
+
+vezes por semana em algumas das cidades da RMC. PERFIL DO CURSO
+
+A principal responsabilizar da instituição em sua relação com a sociedade diz respeito, à formação e à
+
+alocação de recursos humanos, qualificados técnica, ética e socialmente no mercado de trabalho, e a
+
+valorização do constante aperfeiçoamento Social levando em conta a vocação regional. O Paraná é um
+
+dos 26 estados do Brasil e está situado na Região Sul do país. Faz divisa com os estados de São Paulo,
+
+Santa Catarina e Mato Grosso do Sul, fronteira com a Argentina e o Paraguai e limite com o Oceano
+
+Atlântico. Ocupa uma área de 199.880 km, representando 2,3% do território nacional. Possui uma
+
+população estimada: em 10.284.503 habitantes (dados do Instituto Brasileiro de Geografia e Estatística,
+
+IBGE). Em termos de bens duráveis existentes nos domicílios, o estado segue a média nacional, com
+
+índices um pouco acima, sendo 94 07% de aparelhos de TV, 92, 88% de rádio e 27, 73% de
+
+microcomputadores (PNAD 2006). A capital do estado é Curitiba, e outras importantes cidades são
+
+Londrina, Maringá, Foz do Iguaçu, Ponta Grossa, Cascavel, Guarapuava e Paranaguá Na Região
+
+Metropolitana de Curitiba, destacam-se, por sua importância econômica, os municípios de São José dos
+
+Pinhais, Araucária, Campo Largo e Fazenda Rio Grande.
+
+A população é formada por descendentes de várias etnias: poloneses, italianos alemães ucranianos,
+
+holandeses, espanhóis, Japoneses e portugueses, e por imigrantes procedentes, em sua maioria, dos
+
+estados do Rio Grande do Sul, Santa Catarina São Paulo e Minas Gerais. O Paraná possui uma excelente
+
+infraestrutura contando com estradas aeroportos, ferrov1as portos e usinas geradoras de energia elétrica.
+
+A Região Metropolitana de Curitiba, localizada no leste do Estado, possui 26 municípios e responde hoje
+
+cerca de 40% do valor adicionado total do. Paraná, devido à concentração do parque industrial do estado.
+
+A região Londrina-Maringá situada ao norte do estado abriga 79 municípios e sua economia, centrada
+
+principalmente nas cidades de Londrina e Maringá está relacionada basicamente a atividades
+
+agroindustriais (Soja, trigo, milho, cana-de-açúcar, algodão; café), embora possua outras atividades
+
+industriais, como têxtil e química. Os demais municípios do Paraná também possuem um forte vínculo
+
+com a produção agropecuária (avicultura, bovinos, café, trigo e soja).
+
+Economia
+
+Devido à colonização do estado do Paraná o setor produtivo paranaense possui um forte vínculo com a
+
+produção agroindustrial. Esse é um segmento com baixa concentração espacial sendo que cerca de 90%
+
+dos municípios do estados tem o seu crescimento econômico ligado às atividades agroindustriais. Até à
+
+década de 1970, diante da influência da agropecuária no estado a região de Maringá e Londrina dividia
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+com a Região Metropolitana de Curitiba a maior geração de renda paranaense. Tal quadro vem se
+
+alterando nas últimas décadas, com a implantação de novos setores e a modernização de ramos
+
+tradicionais, sustentados pela instalação de empresas de grande porte, que operam com tecnologia
+
+avançada, com vistas ao mercado nacional e internacional. Atualmente a Região Metropolitana de Curitiba
+
+aumentou a sua participação e detém aproximadamente 40% do valor adicionado do Paraná sendo que
+
+grande parte está concentrada, no município de Curitiba.
+
+MUNICÍPIOS MAIS POPULOSOS - 2010
+
+Produto Interno Bruto (PIB) A economia paranaense é a quinta maior do país O estado responde
+
+atualmente por 5,84% do PIB nacional, registrando uma renda per capita de R$ 20,8 mil em 2010, acima
+
+do valor de R$ 19,7 mil referente ao Brasil.
+
+PIB 2002-2011
+
+PPC pg. 25/397.
+
+São diversas as ações propostas para a promoção efetiva de integração entre o: curso, a sociedade e o
+
+mercado, entre as quais se situam as seguintes:
+
+Manutenção regular de atividades de extensão e pesquisa;
+
+Acompanhamento da integração dos profissionais formados pela instituição ao mercado de
+
+trabalho;
+
+Interação entre o curso, através dos docentes, discentes e profissionais dos serviços de apoio,
+
+com entidades representativas dos diversos segmentos da área jornalística visando à solução de
+
+problemas referentes ao mercado de trabalho e cooperação quanto às atividades de ensino,
+
+pesquisa e extensão;
+
+Desenvolvimento de ações conjuntas, com entidades representativas do setor jornalístico a e com
+
+setores da sociedade civil em geral, que atuem na busca de soluções para problemas de
+
+interesse público da área;
+
+Integração das atividades de formação com aquelas executadas por veículos, estruturas de
+
+serviços e produção de comunicação da própria instituição com as pertencentes ao mercado de
+
+trabalho (meios impressos emissoras de rádio e televisão, inclusive canais de sinal fechado
+
+produtoras agências, editoras e assessórias);
+
+Valorização da vocação regional, como fator de orientação da formação profissional do egresso,
+
+estruturando o curso de acordo com as condições socioeconômicas e culturais do estado e da
+
+região, observando também o atendimento às demandas sociais próprias dessa região.
+
+MERCADO DA COMUNICAÇÃO
+
+No total atuam no Paraná 645 veículos de comunicação.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Três grupos empresariais se destacam no estado em atividades específicas de comunicação: a Rede
+
+Paranaense de Comunicação (RPC), que possui 11 veículos, afilada à Rede Globo, atua tanto na TV,
+
+como em rádio FM e jornal; o Grupo RIC - Petrelli de Comunicação, que possui 7 veículos, afiliado a Rede
+
+Record, atua na TV e no rádio FM, e por último o Grupo Massa, que também engloba 7 veículos, afiliado
+
+ao SBT, atuante na TV, e também em rádios AM e FM.
+
+O estado possui ainda um número expressivo de geradoras, são 37 ao todo, e conta com 488
+
+retransmissoras que distribuem o sinal das redes para todo o estado. São 22 redes de TV atuando no
+
+estado do Paraná.
+
+Possui um número grande de rádios AM, maior número que rádios FM. O número de rádios comunitárias
+
+acompanha o número dos outros estados do Sul do Brasil, número bem abaixo em relação ao número de
+
+rádios AM e FM.
+
+Na capital e região metropolitana ainda existem diversos pequenos veículos impressos, como o Jornal do
+
+Ônibus, o MetroNews, o Correio Metropolitano, Curitiba Metrópole, entre outros. Além desses existem
+
+ainda mais 120 títulos de jornais de bairros de Curitiba, pequenos semanários ou jornais que circulam três
+
+vezes por semana em algumas das cidades da RMC. OBJETIVOS DO CURSO
+
+O curso de Jornalismo da UFPR tem por objetivo a formação integral dos alunos no plano humano,
+
+profissional e técnico, diante das perspectivas e transformações sociais num contexto de globalização
+
+socioeconômica e convergência midiática. O estágio de desenvolvimento atual dos conhecimentos nessa
+
+área mantém aspectos da modernidade cultural, política e Social, atendendo às novas exigências de
+
+preparação para o mercado e às demandas sociais.
+
+A finalidade primeira estabelecida para o curso é atuar visando a formação profissional qualificada,
+
+competente e atenta às constantes transformações socioculturais, econômicas, políticas e tecnológicas da
+
+sociedade moderna. O jornalista contemporâneo deve ser interativo, preocupado com os preceitos éticos e
+
+sociais.
+
+Uma formação que alie o conhecimento humanístico amplo com o domínio eficiente das técnicas de
+
+produção jornalística se constitui no ponto diferenciador do curso. Procura-se formar o profissional que
+
+tenha as condições necessárias para atuar de forma qualificada tanto em veículos impressos como
+
+eletrônicos, nas assessorias de imprensa, nas agências de notícias, e nas mídias mais recentes surgidas
+
+por meio do desenvolvimento tecnológico.
+
+Tal ordem implica em saber investigar apurar informações, avaliar fontes, analisar, produzir material
+
+informativo (textos, fotos, material em áudio e vídeos), de modo a atender às peculiaridades apresentadas
+
+pelas diversas plataformas de comunicação e exercer sua profissão de maneira atenta aos princípios de
+
+justiça, democracia e responsabilidade Social
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+JUSTIFICATIVA DO NÚMERO DE VAGAS
+
+O Núcleo Docente Estruturante do curso de Jornalismo da UFPR tomou, como base, os dados da RAIS
+
+2018 (Relação Anual de Informações Sociais) do Ministério da Economia, que deram base ao Perfil dos
+
+Profissionais de Jornalismo no Paraná, elaborado pelo Dieese (Departamento de Intersindical de
+
+Estatística e Estudos Socioeconômicos), que pontua o seguinte:
+
+No Brasil, o número de trabalhadores passou de 33.864 em 2006 para 39.865 trabalhadores em 2018,
+
+aumento de 17,72%, apesar das quedas verificadas no período de 2014 a 2016 e também em 2018,
+
+considerando o período a partir de 2014, foram eliminados 8,2 mil empregos destes profissionais, com
+
+redução de 17,08% nos empregos;
+
+Os estados que concentram a maioria dos trabalhadores são: São Paulo (28,1%), Rio de Janeiro (10,0%),
+
+Minas Gerais (6,8%), Rio Grande do Sul (6,7%), Distrito Federal (6,1%), e Paraná (5,2%), perfazendo
+
+62,9% do total;
+
+No Estado do Paraná, o número de trabalhadores aumentou 31,15% no período de 2006 a 2018,
+
+passando de 1.589 para 2.084 trabalhadores, no entanto, observa-se uma redução de 16,34% entre 2014
+
+e 2018, com redução de 407 empregos;
+
+No Paraná, a remuneração média em dez/2018 era de R$ 5.238,26, aumento de 126,76% em relação à
+
+remuneração média em dez/2006 (R$ 2.310,09), sendo que a inflação acumulada no período de 2007 a
+
+2018 foi de 96,31%, portanto a remuneração média teve um aumento real de 15,51% no período;
+
+Regionalmente verificamos que os empregos estão concentrados principalmente em cinco microrregiões
+
+geográficas, que são as seguintes: Curitiba (49,3%), Londrina (9,6%), Maringá (7,0%), Foz do Iguaçu
+
+(5,0%) e Cascavel (4,4%), totalizando 75,3% dos empregos;
+
+Na distribuição entre as ocupações, observamos que em 2018 os Profissionais de Jornalismo estavam
+
+distribuídos da seguinte forma: Editor (27,6%), Jornalista (26,7%), Assessor de imprensa (16,5%),
+
+Repórter (exclusive rádio e televisão) (15,8%), Revisor de texto (8,7%), Produtor de texto (2,4%), Diretor
+
+de redação (1,4%) e Arquivista pesquisador (jornalismo) (0,8%).
+
+Em 2018, os setores que mais empregavam jornalistas eram: Atividades de televisão aberta (21,9%),
+
+Administração pública em geral (10,2%), Edição integrada à impressão de jornais (10,1%), Edição de
+
+livros (7,6%) e Atividades de rádio (4,6%), juntas estas atividades respondiam por 54,4% do total dos
+
+profissionais de jornalismo;
+
+Em 2018, o Perfil dos Jornalistas no Paraná era o seguinte:
+
+Com relação a gênero, as mulheres passam a ser maioria, representando 50,9% dos empregos e os
+
+homens 49,1%;
+
+Faixa etária: as faixas com maiores participações no total eram a de 30 a 39 anos (39,9%), de 40 a 49
+
+anos (20,3%) e de 25 a 29 anos (17,9%), juntas estas três faixas concentravam 78,2% da categoria;
+
+Grau de instrução: a faixa com maior participação em 2017 era: Superior Completo (73,2%);
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Faixa de tempo no emprego: observamos que 21,4% dos trabalhadores tinham entre 5 e 10 anos
+
+emprego, seguida pelas faixas de 10 anos ou mais (16,7%) e de 1 a 2 anos de emprego (16,2%),
+
+totalizando 54,3% dos trabalhadores, mas verificamos que 39,8% dos trabalhadores tinham até 2 anos de
+
+emprego;
+
+Natureza jurídica do estabelecimento: 68,6% dos trabalhadores estavam empregados em Entidades
+
+empresariais privadas e 14,1% em Entidades sem fins lucrativos;
+
+Faixa de tamanho da empresa: verifica-se que as maiores participações estão nas faixas de 50 a 99
+
+vínculos (16,3%), de 20 a 49 vínculos (15,2%) e de 250 a 499 vínculos (13,4%);
+
+Faixa de rendimento em dez/2018: as maiores participações estavam nas faixas de 3,01 a 5,00 salários
+
+mínimos (34,8%), até 3 salários mínimos (24,4%) e de 5,01 a 7,00 salários mínimos (19,1%), juntas estas
+
+três faixas concentravam 78,3% dos trabalhadores, além disso, observamos que em 2018, 59,2% do total
+
+dos trabalhadores recebiam até 5 salários mínimos.
+
+Estes números da Rais são subestimados, pois só contam contratações com vínculos em carteira, nas
+
+funções de jornalistas. Há muitos jornalistas em funções correlatas e muitas ou formas de contratação
+
+como a pejotização (contratação de trabalhadores do empresas, pessoas jurídicas, não pessoas físicas).
+
+Assim, mesmo diante de toda crise, o mercado cresceu. Além disso, muitos dos nossos egressos vão para
+
+outros mercados profissionais, como São Paulo e Brasília. O número de vagas oferecidas pelo curso, 30,
+
+seria muito insuficiente para atender a demanda não fossem as escolas privadas. Entendemos que cabe,
+
+inclusive, estudos de ampliação de oferta, já que eventuais pressões sobre o mercado de trabalho não
+
+partem da baixa oferta da UFPR.
+
+Em relação à quantidade de docentes, o curso tem 14 professores do Decom que ministram disciplinas
+
+teóricas gerais, teóricas específicas, profissionalizantes e de orientação para os alunos de jornalismo,
+
+além de um professor do departamento de História que ministra uma disciplina de História contemporânea
+
+por ano. Dos 14 professores do Decom, uma só ministra aulas em jornalismo; sete são jornalistas que
+
+ministram aulas principalmente em jornalismo, mas também ministra disciplina comuns para alunos de
+
+outros cursos de Comunicação; três são professores que só ministram disciplinas teóricas para todos os
+
+cursos de Comunicação; e três são professores que ministram aulas principalmente em outros cursos de
+
+Comunicação mas também pelos menos uma disciplina para alunos de Jornalismo. Por uma conta direta,
+
+com 14 professores, nossa relação professor-aluno, prevendo que temos que ter estrutura para atender
+
+120 alunos, 30 a cada ano da periodização do curso, ficaria em 8,57, bastante baixa. Mas considerando
+
+efetivamente o grau de dedicação de cada professor às disciplinas ofertadas para alunos de jornalismo,
+
+seriam de fato 8 professores-equivalentes, com relação professor-aluno de 15, bastante adequada.
+
+Em relação á infraestrutura, os três laboratórios de informática e os estúdios de fotografia, rádio e TV são
+
+suficientes, como atestou em recente visita, em 2022, a comissão de avaliadores do MEC. Perseguimos a
+
+constante atualização dos nossos equipamentos, como computadores, câmeras filmadoras e fotográfica,
+
+luzes, gravadores, microfones, mesas de som, etc, mas os recursos que temos são adequado também
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+4.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+para atender 30 alunos por ano.
+
+No Paraná, além da UFPR, 11 universidades e faculdades oferecem o curso de Jornalismo: a UNIUV , a
+
+PUCPR, a UniCesumar, a Uninter, a UniSociesc, a UEL, a UEPG, a Unicentro, a Unopar, a UP e a UTP.
+
+Quatro delas são em Curitiba: PUCPR, Uninter, UP e UTP, todas privadas. Cada uma delas oferece, em
+
+média, 50 vagas por anos. A UFPR representa pouco neste contingente e, diante da oferta nas instituições
+
+privadas, não só de Curitiba, poderia até mesmo ampliar a oferta, mantendo a adequação à demanda de
+
+mercado. FORMAS DE ACESSO AO CURSO
+
+Para ter acesso a uma vaga no curso de Jornalismo da Universidade Federal do Paraná, os pretendentes
+
+podem concorrer de quatro formas diferentes, abaixo, relacionadas:
+
+Processo seletivo anual (vestibular e SISU);
+
+Programa de Ocupação de Vagas Remanescentes oriundas de desistência e ou abandono de
+
+curso (PROVAR);
+
+Transferência Independente de Vaga;
+
+Mobilidade Acadêmica (convênios intercâmbios nacionais e internacionais, outras formas). PERFIL DO EGRESSO
+
+O aluno formado em Jornalismo pela UFPR deve ter sólida formação humanística, base para a aquisição
+
+de novos conhecimentos, sólida formação profissional e ética, tanto no manuseio dos procedimentos
+
+profissionais quanto no domínio das linguagens Jornalísticas. Deve ter capacidade de inovação, visão
+
+ampla da atividade jornalística e estar preparado para lidar com novas situações e demandas a que a
+
+profissão é submetida no cotidiano.
+
+CARACTERÍSTICAS DO PROFISSIONAL A SER FORMADO
+
+O profissional do curso de Jornalismo deve estar apto a:
+
+Observar, captar, interpretar, contextualizar e organizar as informações da sociedade para
+
+contribuir com a transparência democrática;
+
+Compreender todas as etapas dos processos de comunicação, com foco nas formas
+
+organizativas clássicas e emergentes da sociedade, e no papel sociofilosófico dos diferentes
+
+atores sociais;
+
+Investigar e compreender os mecanismos e processos de produção e de recepção das
+
+mensagens e seus efeitos nos diversos setores da sociedade;
+
+Traduzir discursos e mediar relações comunicacionais entre os distintos atores sociais, com
+
+ênfase nos estudos sobre sociabilidades;
+
+Criticar, propor, planejar, executar e avaliar projetos na área de comunicação;
+
+Elaborar críticas às mídias, tradicionais e emergentes, e aos processos comunicacionais,
+
+propondo alternativas;
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+7.
+
+8.
+
+9.
+
+10.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+Identificar a responsabilidade Social da profissão, em sintonia com os desafios da realidade
+
+contemporânea, colocando em prática os compromissos éticos;
+
+Investigar os temas pertinentes ao campo da comunicação com o objetivo de fomentar novas
+
+pesquisas;
+
+Compreender o impacto das convergências tecnológicas no campo da comunicação e participar
+
+de projetos para o desenvolvimento de instituições do estado, do mercado e da sociedade civil
+
+organizada;
+
+Trabalhar em equipe com profissionais, fontes de informação e atores sociais de qualquer
+
+natureza.
+
+COMPETÊNCIAS E HABILIDADES ESPECÍFICAS
+
+Considerando as competências e habilidades desenvolvidas no curso, os alunos formados em Jornalismo
+
+da Universidade Federal do Paraná respondem ao perfil específico determinado pela capacidade de:
+
+Perceber a realidade com sensibilidade para identificar o que é notícia, relacionando-a com seus
+
+aspectos econômicos, culturais e políticos;
+
+Ter capacidade de pesquisar, obter, checar, selecionar e hierarquizar informações, de fontes
+
+diversas conforme a relevância social e os interesses públicos;
+
+Dominar múltiplas linguagens: audiovisual, sonora, visual, fotográfica e escrita para várias
+
+periodicidades (mensal, semanal, diário, em tempo real), de forma convergente em várias
+
+plataformas;
+
+Conhecer e dominar diversos gêneros jornalísticos e suas linguagens de forma a torná-las
+
+informações acessíveis aos diversos públicos;
+
+Compreender a sociedade histórica cultural, econômica e politicamente de forma crítica, e
+
+compreender os sistemas e meios de comunicação, bem como a profissão a reconhecendo e
+
+empregando os compromissos éticos próprios da atividade;
+
+Defender o exercício ético da profissão, mesmo diante de situações novas, buscando aprender
+
+de forma permanente;
+
+Ter habilidade de perceber e se colocar no lugar do público. Manter uma relação dialógica com
+
+os leitores, respeitando e os compreendendo, inclusive por meio de pesquisas sociais. Defender
+
+o direito inalienável do cidadão à informação;
+
+Dialogar com as fontes, de forma profissional e independente;
+
+Ter disposição de compreender, assimilar e propor novas práticas jornalísticas fundamentadas
+
+nos princípios, valores e procedimentos profissionais reconhecidos historicamente;
+
+Desenvolver compromisso Social com a democracia: liberdade e direitos democráticos,
+
+pluralismo, cultura da paz e justiça;
+
+Ser capaz de pensar todo processo jornalístico e de produzir produtos editoriais do início ao fim;
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+12.
+
+13.
+
+1.
+
+2.
+
+3.
+
+Compreender o mundo de forma multicultural e ter domínio instrumental de outros idiomas; e
+
+Ter capacidade de atuar em novos nichos profissionais, áreas especializadas, ou em campos
+
+correlatos. NÚCLEO DOCENTE ESTRUTURANTE
+
+O Núcleo Docente Estruturante (NDE) de um curso de graduação se constitui de um grupo de docentes,
+
+com atribuições acadêmicas de acompanhamento, atuante no processo de concepção, consolidação e
+
+contínua atualização do projeto pedagógico do curso. Segundo as Resoluções nº 75/09-CEPE e 34/11-
+
+CEPE, Conselho de Ensino, Pesquisa e Extensão da UFPR, o NDE constitui segmento da estrutura de
+
+gestão acadêmica em cada curso de graduação com atribuições consultivas, propositivas e de assessoria
+
+sobre matéria de natureza acadêmica. O NDE é corresponsável pela elaboração, implementação e
+
+consolidação do Projeto Pedagógico de Curso e dentre as atribuições deve zelar pela integração curricular
+
+interdisciplinar entre as diferentes atividades de ensino constantes no currículo e zelar pelo cumprimento
+
+das Diretrizes Curriculares Nacionais para os Cursos de Graduação. De acordo com a Resolução N.º 1, de
+
+17 de junho de 2010, que normatiza o Núcleo Docente Estruturante, o NDE deve ser constituído por um
+
+mínimo de cinco (5) professores efetivos do curso que exerçam liderança acadêmica no âmbito do mesmo
+
+mediante o desenvolvimento do ensino, da pesquisa e da extensão; ter pelo menos 60% de seus
+
+membros com titulação acadêmica obtida em programas de pós-graduação stricto sensu; e ter todos os
+
+membros em regime de trabalho de tempo parcial ou integral. Assim, integrarão o NDE o coordenador de
+
+curso de Jornalismo, como seu presidente nato, e, pelo menos, mais 04 (quatro) docentes atuantes no
+
+curso de graduação, indicados pelo colegiado de curso. Tais representantes docentes participam
+
+plenamente da elaboração do Projeto Pedagógico do Curso e têm clara responsabilidade com sua
+
+implantação. O NDE se reúne ordinariamente a cada seis (6) meses ou de forma extraordinária, sempre
+
+que for necessário. São membros do NDE de Jornalismo os professores Rosângela Stringari, Mário
+
+Messagi Júnior, Elson Faxina, Myrian Regina Del Vecchio de Lima e José Carlos Fernandes. INFRAESTRUTURA
+
+ESTRUTURAS DE SERVIÇO E INFRAESTRUTURA MATERIAL Este projeto acadêmico considera a
+
+estrutura mínima, a formação e a organização do corpo técnico e de serviços, e da infraestrutura - material
+
+exigidos para a realização competente dos objetivos de ensino, pesquisa e extensão do curso. Para tanto,
+
+são fatores imprescindíveis:
+
+A dimensão a diversidade de especialidades e a qualificação do corpo técnico-administrativo
+
+responsável pelas atividades de apoio;
+
+A definição de estímulos à formação continuada do corpo técnico-administrativo;
+
+Existência de salas de aula, salas para docentes &espaços físicos especialmente destinados às
+
+atividades de pesquisa e extensão, em número e dimensões compatíveis com a quantidade de
+
+alunos, de docentes, e com a diversidade de atividades previstas;
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Existência de laboratórios voltados para a área do jornalismo levando em conta os diferentes
+
+suportes tecnológicos necessários para suas práticas, com os equipamentos adequados (em
+
+quantidade e qualidade), especificando-se o número máximo de alunos por turma, o qual deve se
+
+mostrar adequado ao aproveitamento pedagógico nas disciplinas técnicas;
+
+Existência de um auditório, com 200 lugares;
+
+Indicação dos produtos, de uso laboratorial, existentes para formação prático-profissionalizante
+
+dos alunos, especificando seu caráter permanente ou eventual e sua periodicidade de reposição;
+
+Disponibilização de sistema de dados englobando biblioteca e hemeroteca básicas, acervo com
+
+arquivo de sons e imagens, arquivo de fotografias, e todos os demais acervos e coleções
+
+necessárias para cumprir com os objetivos de ensino, pesquisa e extensão;
+
+Existência de condições físicas satisfatórias para o conjunto de locais, assegurando os níveis de
+
+iluminação, aeração, conforto e adequação à saúde coletiva pertinentes aos objetivos
+
+educacionais e necessários para a reunião e presença continuada do número de pessoas
+
+envolvidas nas atividades;
+
+Funcionamento de almoxarifado para atender as demandas de empréstimos: de equipamentos e
+
+suprimentos para atividades de sala aula e extra/sala de aula.
+
+DESCRIÇÃO DAS SALAS DE AULA E DOS LABORATÓRIOS
+
+Os ambientes e instalações físicas do curso devem seguir normas técnicas de ocupação e utilização,
+
+apresentando as seguintes características:
+
+Salas de aula com área média de 1,2 m² por aluno e fração ideal de no máximo 50 alunos por sala;
+
+Biblioteca com área média de 2,3 m² por aluno;
+
+Laboratórios de redação com área média de 3 m² por aluno, por máquina;
+
+Sala de 25 m² no mínimo, para utilização de redação e produção dos produtos laboratoriais do
+
+curso;
+
+O espaço físico da Secretaria da Coordenação de Curso, a partir da realidade atual, é de 47 m². É
+
+importante salientar que estes números são baseados em um campus único.
+
+Para a coordenação do curso se considera uma área de 67 m².
+
+Observação: Os ajustes destes números devem ser feitos conforme a realidade futura acompanhando a
+
+evolução natural da entrada de alunos previstos no planejamento do Reuni e outras variáveis que alterem
+
+o projeto atual
+
+CAPACIDADE DAS SALAS DE AULA
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+QUANTIDADE DE SALAS CAPACIDADE DE ALUNOS
+
+01 35
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+LABORATÓRIOS
+
+a) Redação - destinado às disciplinas de produção e edição de texto, de acordo com as normas de
+
+avaliação de Condições de Oferta do MEC.
+
+Equipamentos e componentes:
+
+25 Computadores com teclado, mouse e acesso à internet.
+
+Rede lógica interligando todas as máquinas com acesso à internet.
+
+Softwares específicos para produção e edição de texto.
+
+Recursos humanos:
+
+Dois técnicos responsáveis, com qualificação para suporte em software e hardware, com os seguintes
+
+horários de trabalho: das 8 às 15 horas e das 15 às 22 horas.
+
+b) Produção gráfica - destinado às disciplinas de Planejamento Gráfico e Diagramação, de acordo com as
+
+normas de Avaliação de Condições de Oferta do MEC.
+
+Equipamentos e componentes:
+
+25 Computadores com teclado, mouse e multimídia.
+
+Rede lógica interligando todas as máquinas com acesso à internet.
+
+Softwares específicos para produção gráfica, diagramação e tratamento de imagens.
+
+Recursos humanos:
+
+Dois técnicos responsáveis com qualificação para suporte em software e hardware, com os seguintes
+
+horários de trabalho: dás 8 às 15 horas e das 15 às 22 horas.
+
+c) Redação de jornal laboratório - estrutura: laboratorial composta por 25 computadores, com teclado e
+
+mouse, scanner, além de uma impressora laser. Rede Lógica interligando todas as máquinas com acesso
+
+à internet: Softwares específicos para produção e edição de texto e diagramação.. Linha telefônica para
+
+contatos, marcação de entrevistas e apuração de informações O funcionamento está ligado às disciplinas
+
+que possibilitam aos alunos as condições necessárias para produção do Jornal Laboratório do Curso.
+
+Esse laboratório deve permitir a produção mínima de oito (8) edições do Jornal Laboratório do por ano, em
+
+formato berliner, com periodicidade mensal, contendo 12 páginas por edição e impressão em P&B Uma
+
+vez concluída a edição e diagramação de cada número do jornal, o material será encaminhado à empresa
+
+gráfica contratada para impressão.
+
+d) Fotografia - estúdio destinado às disciplinas de Fundamentos Básicos de Fotografia, Fotojornalismo e
+
+Fotografia Publicitária previstas no currículo do curso, de acordo com as normas de Avaliação de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+05 40
+
+05 45
+
+01 50
+
+01 60
+
+TOTAL: 09
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Condições de Oferta do MEC.
+
+Composto de ambiente adequado para a prática de produção fotográfica em estúdio - este com espaço
+
+específico para abrigar no máximo 20 alunos.
+
+Equipamentos e componentes:
+
+25 câmeras fotográficas digitais.
+
+15 flashes eletrônicos.
+
+1 kit completo para iluminação de estúdio com gerador e rebatedores.
+
+1 conjunto de câmeras fotográficas para estúdio, sendo uma com lentes 24 mm, 32 mm, 50mm,
+
+macro e conjunto de filtros.
+
+10 tripés.
+
+Recursos humanos:
+
+Dois técnicos responsáveis com qualificação para atuação em estúdio fotográfico, com os seguintes
+
+horários de trabalho das 8 às 15 horas e das 15 às 22 horas.
+
+e) Rádio - destinado às disciplinas de radio jornalismo conforme estabelece o currículo do curso, de
+
+acordo com as normas de Avaliação de Condições de Oferta do MEC. Composto por estúdio e técnica
+
+com espaço mínimo para abrigar 20 alunos.
+
+Equipamentos e componentes:
+
+1 sistema completo para produção e edição de audio-digital.
+
+20 gravadores de áudio digitais portáteis.
+
+5 gravadores MD portáteis, para externas.
+
+Recursos humanos: Dois técnicos responsáveis com qualificação para atuação em estúdio de áudio, com
+
+os seguintes horários de trabalho: das 8 às 15 horas e das 15 às 22 horas
+
+Radio-laboratório O funcionamento está ligado às disciplinas que possibilitam aos alunos as condições
+
+necessárias para produção de programas radiofônicos especializados radio-jornal, documentário em rádio,
+
+radionovela é outros produtos em áudio pertinentes a um radio-laboratório.
+
+f) Televisão - destinado às disciplinas de telejornalismo previstas na matriz curricular a do curso, de acordo
+
+com as normas de avaliação de Condições de Oferta do MEC.
+
+Composto por um estúdio e técnica com espaço mínimo para abrigar 20 alunos.
+
+Em espaço anexo, devem estar instaladas no mínimo cinco (5) ilhas de edição cuja utilização atenderá às
+
+aulas laboratoriais, e atividades de pesquisa e extensão do curso. Equipamentos e componentes.
+
+3 sistemas completos para produção (e edição de videodigital).
+
+1 Kit completo para iluminação de estúdio.
+
+25 unidades portáteis, para externas, compostas de câmera de videodigital, tripé, microfone e
+
+iluminação.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+•
+
+•
+
+6 câmeras de videodigital para estúdio, equipadas com dolly e tripé.
+
+8 ilhas de edição digital completas com equipamentos play e REC.
+
+Recursos humanas:
+
+Dois técnicos responsáveis, com qualificação para atuação em estúdio de áudio e vídeo, bem como
+
+apresentem domínio dos procedimentos de edição de som e imagem, tom os seguintes horários de
+
+trabalho: das 8 às 15 horas e das 15 às 22 horas.
+
+CORPO DOCENTE
+
+O projeto acadêmico do curso também cumpre com o requisito fundamental de apresentar claramente a
+
+estrutura, formação e a organização de seu corpo docente, para que sejam asseguradas, plena e de forma
+
+competente, as realizações dos objetivos de ensino, pesquisa e extensão.
+
+Nesse aspecto, procura-se definir e estabelecer as competências, tipo de formação, experiência
+
+profissional na área do Jornalismo e no magistério superior, bem como a dedicação ao curso. Com isso,
+
+visa-se a consistência do conjunto de professores, ao mesmo tempo em que se torna explícito o perfil do
+
+corpo docente.
+
+É necessária a comprovação de que os docentes têm o perfil, a formação e a experiência adequados aos
+
+conteúdos, aos procedimentos e aos objetivos das disciplinas e demais atividades pelas quais se
+
+responsabilizem.
+
+Outro ponto considerado fundamental é a definição do regime de trabalho dos docentes. Além disso, são
+
+adotadas formas de orientação e estímulo à capacitação didático-pedagógica dos docentes, desde o início
+
+de seu exercício profissional na instituição, observando-se as proposições que seguem:
+
+Estabelecimento de metas de produção acadêmica teórica, cultural e técnica pelos docentes;
+
+Oferta efetiva de condições para o envolvimento dos docentes em atividades de pesquisa científica na
+
+área jornalística;
+
+Definição de um plano de capacitação dos docentes com estímulos para pós-graduação especialmente
+
+para doutorado;
+
+Instituição de um programa de atualização, reciclagem, e qualificação continuada do corpo docente,
+
+através de cursos, estágios técnicos e outras formas de intercâmbio com o mercado de trabalho e com
+
+setores de reflexão e pesquisa, considerando as disciplinas teóricas, teórico-práticas e práticas.
+
+Ênfase à dedicação dos professores ao desenvolvimento de atividades de pesquisa e de extensão.
+
+Composição do corpo docente do Decom
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+REGIME DE TRABALHO 2014
+
+20 HORAS 01
+
+DE 23
+
+TOTAL 24
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Formação dos professores do Decom (G./ M./ Dr./ Pós Dr.)
+
+9.5.3 Composição do corpo docente do Decom (que ministra aulas em Jornalismo)
+
+Professores Quantidade 2013/14 - Regime de trabalho
+
+9.5.4 Formação dos professores do Decom (que ministram aulas em Jornalismo)
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+PROFESSORES 2013 2014
+
+Pós-doutores 07
+
+Doutores 17
+
+Doutorandos 0
+
+TOTAL 24
+
+PROFESSORES 2013 2014 2023
+
+20 HORAS 04 04 1
+
+40 HORAS 01 01 0
+
+DE 08 08 13
+
+TOTAL 13 13 14
+
+PROFESSORES 2013 2014 2023
+
+Pós-doutor 02 02 04
+
+Doutores 09 09 10
+
+Doutorandos 0 0 0
+
+Mestres 01 01 0
+
+Especialistas 0 0 0
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+\* São 13 professores efetivos, dos quais um está licenciado.
+
+9.5.5 Identificação do corpo docente de Jornalismo
+
+São 14 professores efetivos do Decom, mas o quadro mudou. O professor que estava licenciado desde
+
+meados de 2014 se aposentou. Desde 2015, outros três professores do curso realizaram pós-doutorado.
+
+Para o pleno funcionamento, o curso contava, em 2014, ainda com a participação de 4 professores de
+
+outros departamentos da UFPR (nominados no item a seguir - tabela 9.5.4). Hoje, são apenas dois
+
+professores externos do departamento de História.
+
+(*) Os professores indicados dividem suas cargas horárias ministrando aulas também para os cursos de
+
+Relações Públicas e/ou Publicidade e Propaganda.
+
+BIBLIOTECA CABRAL
+
+O projeto arquitetônico para o novo Setor de Artes, Comunicação e Design (Sacod) prevê a construção de
+
+uma biblioteca no Câmpus Cabral, que atenda aos interesses de todos os cursos integrantes do novo
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Graduados 01 01 0
+
+TOTAL 13 13 14
+
+PROFESSORES Dividem horário
+
+CARLOS ALBERTO MARTINS DA ROCHA *
+
+ELSON FAXINA *
+
+JAIR ANTONIO DE OLIVEIRA *
+
+MARCELO GARSON BRAULE PINTO *
+
+JOSÉ CARLOS FERNANDES *
+
+KELLY CRISTINA DE SOUZA PRUDENCIO *
+
+LUIS CARLOS DOS SANTOS *
+
+JOÃO MARTINS LADEIRA *
+
+MARIO MESSAGI JUNIOR *
+
+MYRIAN REGINA DEL VECCHIO DE LIMA *
+
+VALQUIRIA MICHELA JOHN *
+
+ROSANGELA STRINGARI *
+
+TONI ANDRE SCHARLAU VIEIRA *
+
+CARLA CÂNDIDA RIZZOTO *
+
+TOTAL 14 do Decom
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+setor. Enquanto o novo prédio não ficam pronto, os alunos de Jornalismo são atendidos pela Biblioteca do
+
+Câmpus Cabral (CA), criada em 24 de fevereiro de 2014 com o acervo específico dos cursos do Decom,
+
+do. qual Jornalismo faz parte (Anexo VII) A biblioteca é uma das 18 que compõem o Sistema de
+
+Bibliotecas (SiBi) da UFPR e está situada no pólo da Comunicação Social (Decom), na Rua Bom Jesus,
+
+650, Juvevê. Funciona das 8 às 17 horas, de segunda a sexta-feira. Além da CA; os alunos de Jornalismo
+
+também são acolhidos pela Biblioteca de Ciências Humanas, na Rua General Carneiro 460, 2º andar - Ed.
+
+D. Pedro I, com funcionamento das 7 às 21h45, de segunda a sexta-feira e sábados das 8 às 14 horas.
+
+Acervo da Biblioteca pode ser encontrado no Anexo 2 do presente documento.
+
+Os números da CA revelam que até setembro de 2014, 319 alunos de Jornalismo estavam cadastrados no
+
+Sistema de Bibliotecas. Quanto à circulação empréstimos de títulos feitos por alunos do curso, os registros
+
+indicam 553, valor bastante expressivo em relação ao número de estudantes cadastrados. No campus, os
+
+usuários da biblioteca também contam com busca integrada no acervo de todas as bibliotecas da UFPR e
+
+de outras instituições, podendo realizar pesquisas bibliográficas, reserva e renovação on-line de materiais
+
+bibliográficos, solicitação de comutação, de artigos capítulos de livros teses, dissertações e anais de
+
+eventos. Pode realizar pesquisas em bases de dados de acesso restrito, no Portal de Periódicos Capes,
+
+agendar treinamentos online e/ou presenciais, solicitar normalização para trabalhos acadêmicos, ficha
+
+catalográfica para publicações e utilizar todos os serviços e produtos ofertados por meio do site do SiBi, o
+
+Portal da Informação [http://www. portal ufpr.br
+
+A biblioteca oferece cabines individuais para estudo, computadores para pesquisa e trabalhos, scanner
+
+para digitalização de documentos e rede wireless de forma a favorece a qualidade na prestação de
+
+serviços prestados à comunidade universitária.
+
+O empréstimo de material bibliográfico do Sistema de Bibliotecas é automatizado e realizado por meio do
+
+número do CPF do usuário e senha numérica, possibilitando a reserva de materiais e renovação on-line
+
+via Portal de Informação. A Comissão de Educação de usuários do Sistema de Bibliotecas da
+
+Universidade Federal do Paraná oferece durante todo o ano letivo, em especial no início dos semestres,
+
+treinamento de acesso ao Portal da Informação e suas ferramentas, e visita orientada às bibliotecas.
+
+Agendamentos poderão ser feitos diretamente na biblioteca pelo e-mail bibca@ufpr.br ou através do e-
+
+mail educacaousuariosibi@ufpr. Br QUADRO DOCENTE E TÉCNICO ADMINISTRATIVO
+
+Para atendimento ao Curso de Jornalismo o curso dispõe de 14 docentes e 6 técnico(s) administrativo(s). METODOLOGIA DE FORMAÇÃO
+
+O processo de ensino-aprendizagem é orientado, de forma a ser concebido um espaço de formação
+
+plural, dinâmico e multicultural, fundamentado nos princípios filosóficos educacionais e nos referenciais
+
+bibliográficos didático-pedagógicos em consonância com o perfil do profissional do curso de Jornalismo
+
+que à UFPR deseja formar.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Para tanto, a ação pedagógica ocorre de forma flexível e dinâmica, em: que o educador exerce a tarefa de
+
+inspirar, provocar e mediar o desenvolvimento das potencialidades do educando na busca da ampliação e
+
+do aprofundamento da formação pessoal, Social e profissional do ser Humano. Os docentes e os
+
+discentes podem reconhecer a importância de seu papel além dos limites da sala de aula, como agentes
+
+transformadores na sociedade.
+
+O Curso de graduação em Jornalismo da UFPR possui - metodologia de ensino que privilegia um
+
+processo ensino-aprendizagem no qual o corpo discente é estimulado à participação. O projeto acadêmico
+
+organiza as concepções gerais e os conteúdos norteadores do currículo do curso expressando a
+
+articulação existente entre essas concepções, os conteúdos curriculares e os diversos instrumentos
+
+pedagógicos.
+
+Estão incluídas no projeto acadêmico a proposta pedagógica do curso, a formação e proposições do corpo
+
+docente, as estruturas de serviços e infraestrutura material, os modos de integração com a sociedade é o
+
+mercado de trabalho bem como os procedimentos de acompanhamento e avaliação.
+
+Como a estrutura de oferta do curso é semestral o projeto acadêmico visa à preservação de uma
+
+sequência harmônica e lógica, ao lado de uma flexibilidade de caminhos alternativos para a recuperação
+
+de parcelas perdidas pelo aluno, sem que este seja obrigado a estacionar em dado ponto da série por
+
+decorrência de eventuais dificuldades encontradas.
+
+A metodologia é constituída por, mas não limitada a:
+
+Aulas preletivas;
+
+Aulas demonstrativas em laboratórios;
+
+Aulas práticas em laboratórios;
+
+Seminários e debates;
+
+Dinâmicas de grupo;
+
+Estudos orientados;
+
+Execução supervisionada de projetos, simulações e implementações (envolvendo mais de uma
+
+disciplina quando possível);
+
+Exercícios escritos ou digitais, individuais ou em grupo;
+
+Interpretação, análise e discussão de textos e problemas, pelo professor ou pelos alunos;
+
+Palestras (dentro do conteúdo de uma ou mais disciplinas);
+
+Pesquisa na biblioteca e em bases de dados digitais;
+
+Projeção multimídia de apresentações e vídeos;
+
+Seminários;
+
+Oficinas;
+
+Visitas técnicas com interação com profissionais da área.
+
+Adota-se, também, como parte integrante do. processo da metodologia de ensino-aprendizagem a
+
+elaboração orientada é a apresentação, de Trabalho de Conclusão de Curso (Trabalho Monografia ou
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+produto) pelo discente.
+
+FUNDAMENTAÇÃO TEÓRICO-METODOLÓGICA DO CURSO
+
+A proposta pedagógica do curso de Jornalismo se caracteriza como um documento abrangente,
+
+envolvendo os conceitos e Objetivos que dão unidade ao projeto educacional, o conjunto de disciplinas e
+
+demais atividades acadêmicas com as respectivas justificativas, a fim de dar pertinência aos objetivos
+
+fixados.
+
+A sequência de disciplinas a serem cursadas, bem como das atividades a serem realizadas pelos alunos,
+
+representa o relacionamento Adequado entre teorias e práticas em cada uma das etapas do curso, de
+
+maneira integrada, e de acordo com as necessidades de cada tema, problema, fenômeno ou
+
+conhecimento trabalhado. O curso apresenta, assim, uma continuidade baseada nos objetivos
+
+preconizados e no melhor planejamento harmônico de procedimentos.
+
+A periodização (Anexo I) das disciplinas permite a integração dos conteúdos garantindo a continuação da
+
+aprendizagem, considerando as recomendações atuais da interdisciplinaridade.
+
+Esta disposição sequencial não se dá somente no sentido vertical, mas também na horizontal, ou seja: as
+
+disciplinas, em geral, mantêm inter-relações umas com as outras.
+
+Os objetivos, a formulação curricular e a organização das atividades, adotam as perspectivas expressas
+
+nas diretrizes curriculares do Ministério da Educação, com ênfase no perfil do egresso, complementada
+
+por proposições constantes da filosofia de trabalho da UFPR.
+
+Outro ponto a ser destacado é a abertura do currículo para incorporação, sempre que necessário, de
+
+novas disciplinas que possibilitem o acompanhamento das mudanças tecnológicas e linguagens do campo
+
+do Jornalismo.
+
+Procura-se também instituir abertura curricular suficiente para incorporação de disciplinas optativas que
+
+suscitem a corresponsabilidade e coparticipação do corpo discente na complementação de sua formação.
+
+A presente proposta pedagógica parte do pressuposto, de que é imprescindível o efetivo envolvimento dos
+
+discentes nas atividades curriculares de pesquisa e de extensão, por meio de projetos científicos,
+
+programas formais e informais - de extensão tanto de caráter curricular como extracurricular procurando
+
+sempre atender demandas pertinentes da sociedade.
+
+De outro lado os programas de monitoria em disciplinas preveem o aproveitamento dos alunos do curso,
+
+colocando-os em contato com a realidade do ensino e orientam à atuação no magistério superior.
+
+Outra iniciativa, voltada a excelência do ensino visa instituir formas de distinção valorização e divulgação
+
+dos trabalhos de conclusão de curso (TCC), que obrigatoriamente devem atestar a finalização da
+
+formação superior em Jornalismo.
+
+O curso de graduação representa uma primeira etapa à qual se seguirão outras, correspondentes aos
+
+cursos de pós-graduação na área, que estarão integrados com a graduação por meio de um planejamento
+
+apropriado.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Em seus aspectos gerais este projeto segue as determinações das diretrizes curriculares.
+
+INOVAÇÕES SIGNIFICATIVAS
+
+O curso ofertado pela Universidade Federal do Paraná, orientado pelo presente Projeto Pedagógico,
+
+mantém as características da interdisciplinaridade e da integração entre teoria e prática, inerentes à
+
+atividade profissional do jornalista. Além dos esforços pela constante atualização de laboratórios e de
+
+recursos humanos, muitas das disciplinas contaram com o apoio de materiais didáticos preparados pelos
+
+próprios professores atendendo de maneira muito particular à às necessidades de formação.
+
+Considerando a realidade socioeconômica em que o curso se insere, é importante salientar que a
+
+proposta curricular traz uma série de disciplinas com carga horária semanal a possibilitar um melhor
+
+aproveitamento da grade horária. Tal facilidade proporcionará aos alunos terem um período do dia - tarde -
+
+livre para realização de estágios ou outras atividades remuneradas que permitam, atender às suas
+
+necessidades e, acredita-se, colaborem para a permanência do aluno na universidade.
+
+O currículo de Jornalismo traz substantivas inovações, que transcendem as diretrizes curriculares e
+
+buscam preparar o profissional para um campo de atuação em constante processo de mudança. Dentre as
+
+principais inovações propostas estão: Reconhecimento da formação prévia, indissociabilidade e. práxis,
+
+projeto jornalístico e projeto inovador, assessoria, disciplinas laboratoriais, optativas nos últimos
+
+semestres.
+
+As Diretrizes Curriculares de Jornalismo apontam para a indissociabilidade entre teoria e prática, um dos
+
+traços negativos que marcou os currículos do curso desde a origem e de forma aguda no período militar.
+
+No currículo de Jornalismo da UFPR a indissociabilidade se manifesta na adoção do conceito de práxis
+
+com a formação profissional se dando ao mesmo tempo ou antes da formação teórica, de tal forma que
+
+até nas cadeiras teóricas específicas como teoria do Jornalismo, o aluno será levado a refletir sobre sua
+
+própria prática Além disso, há uma articulação, clara entre disciplinas profissionalizantes e teóricas e,
+
+sobretudo com as disciplinas laboratoriais.
+
+Outra inovação são as disciplinas de projeto jornalístico e projetos de extensão. No primeiro caso, os
+
+projetos podem ser em linguagens variadas, mas devem permitir ao aluno demonstrar e aprimorar seu
+
+conhecimento editorial. Ou se já compreender todo o processo editorial de planificação de um veículo e
+
+executar um piloto.
+
+Já Projeto de Extensão, atendendo também o caráter inovador pode transcender as fronteiras do
+
+jornalismo e, até mesmo, da área de comunicação. Inovador neste caso, não pode ser tomado apenas
+
+como solução de mercado, como elaboração de projeto viável comercialmente mas deve ser concebido
+
+como inovação social e cultural. Daí porque a disciplina é subsequente à de Comunicação e cidadania,
+
+onde o aluno deverá tomar contato com diversos atores sociais, onde há necessidade de inovação na área
+
+de comunicação.
+
+O currículo também se mostra inovador ao reconhecer a formação prévia, com disciplinas que podem ser
+
+eliminadas logo de saída pela comprovação de conhecimento da área, como domínio de norma culta e
+
+técnicas fotográficas básicas.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Por fim uma inovação e um desafio deste currículo é a forma elara como ele enfrenta a questão da
+
+convergência, da narrativa transmídia, apontando inclusive para o fim da separação entre jornalismo de
+
+rádio, de TV, de Revista, de Jornal e para internet, diante de uma prática profissional que borra todos
+
+estes limites entre linguagens e exige que os profissionais tenham múltiplas competências. Mais que isso,
+
+exigem profissionais que exerçam suas múltiplas competências em um único local de trabalho e, cada vez
+
+mais comumente, numa única matéria jornalística ou cobertura.
+
+CONDIÇÕES DE ACESSO PARA PESSOAS COM DEFICIÊNCIAS E/OU MOBILIDADE REDUZIDA
+
+Em consonância com o Decreto n.º 5296, de 2 de dezembro de 2004, que dá, específica e estabelece
+
+normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de
+
+deficiência ou, com mobilidade reduzida, vale ressaltar que a Secretaria da Coordenação do Curso prioriza
+
+o atendimento às pessoas portadoras de deficiência ou com mobilidade reduzida, bem como aos idosos,
+
+gestantes lactantes ou pessoas com crianças de colo.
+
+Ainda, no que se refere às rotinas acadêmicas, o Bloco Didático do Curso tem acesso facilitado, no que se
+
+refere às rampas para entrada no prédio, à passagem por corredores e portas. Existe, no andar térreo, um
+
+banheiro adaptado para pessoas em cadeiras de rodas. O projeto arquitetônico para o Setor de Artes,
+
+Comunicação e Design a ser desenvolvido no próprio endereço do Curso (Rua Bom Jesus, 650, Juvevê)
+
+foi concebido em obediência ao Decreto Nº 5296/2004.
+
+ORGANIZAÇÃO CURRICULAR
+
+A ideia básica que fundamenta a proposta curricular para o curso de Jornalismo se vincula a uma
+
+característica de modernidade de conceitos e equilíbrio entre suas partes constitutivas.
+
+Em função disso, foi estabelecida uma sequência de disciplinas para atender adequadamente, aos
+
+objetivos e perfil do curso, e que ao mesmo tempo permita certa flexilidade ao currículo, dentro daquilo
+
+que preconizam a Lei de Diretrizes e Bases (LDB) e às novas diretrizes por meio da oferta de disciplinas
+
+optativas As disciplinas, em seu conjunto, estão dispostas de modo a relacionar conteúdos teóricos e
+
+práticos da parte mais geral do curso para sua parte específica. O currículo inclui também atividades de
+
+produção laboratorial, e disciplinas que requerem ambientes laboratoriais de redação e edição jornalística,
+
+fotojornalismo, radiojornalismo, telejornalismo, jornalismo on-line e Jornalismo digital.
+
+A agência experimental de jornalismo para desenvolvimento é aprimoramento de projetos inovadores
+
+pesquisas acadêmicas e de mercado, etc. Todos esses laboratórios de produção jornalística têm que
+
+contar com profissionais técnicos habilitados ao desenvolvimento de atividades de apoio didático-
+
+pedagógico inerentes a cada disciplina laboratorial a Para integralização do curso o aluno deverá cumprir
+
+3230 horas distribuídas em disciplinas ao longo de oito semestres sendo que esta carga horária inclui 120
+
+horas em atividades complementares, 330 horas em atividades de extensão, 300 horas de TCC e outras
+
+200 horas de estágio supervisionado disponibilizadas na grade horária do curso. As disciplinas teóricas e
+
+práticas encontram-se distribuídas de modo a garantir integração de seus conteúdos assim como um
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+ordenamento, sequencial adequado.
+
+RECONHECIMENTO DA FORMAÇÃO PRÉVIA
+
+A primeira inovação é a incorporação de maneira sólida e consistente da formação prévia do aluno. Isso
+
+se materializa em disciplinas como Oficina de Redação, cuja exigência fundamental é o domínio da norma
+
+padrão culta do português na elaboração de textos. O curso deverá se valer do Artigo 15 da resolução
+
+92/13-Cepe e aplicar, nesta disciplina, o princípio do adiantamento de conhecimento, consignando ao
+
+aluno que já tenha um bom domínio da escrita a disciplina sem que seja preciso cursá-la.
+
+De forma diferente mas adotando o mesmo princípio serão as disciplinas de Leituras em Filosofia e
+
+Leituras em Sociologia. Neste caso, há mudança na forma de ministrar as disciplinas, na integração com o
+
+curso e na elaboração do conteúdo. A disciplina passa a ser ministrada por professores do Decom de
+
+forma mais integradas às outras disciplinas do curso. Assim, seu programa será elaborado levando em
+
+conta dois aspectos: primeiro, os conhecimentos que são fundamentais para as outras disciplinas;
+
+segundo, os conhecimentos na área que os alunos já adquiriram no ensino médio.
+
+Neste segundo aspecto, a mudança visa reconhecer e incorporar a inclusão das disciplinas de sociologia e
+
+de filosofia no ensino médio. Ou seja, reconhecer que, nestas áreas, os alunos já chegam ao curso com
+
+algum grau de conhecimento. Os primeiros encontros com a turma deverão servir para perceber o grau de
+
+conhecimento dos alunos e o que lhes falta para, acompanharem adequadamente as outras disciplinas do
+
+curso. Passada esta fase inicial, caberá ao professor atuar como um tutor, direcionar leituras e medir a
+
+aquisição de conhecimentos nestas áreas, sendo mais parceiro que mestre dos alunos.
+
+Indissociabilidade e práxis
+
+O currículo se funda também, mais solidamente, no conceito de práxis, na indissociabilidade entre teoria e
+
+prática, e rompe de maneira clara com a precedência da teoria sobre a prática. Como ensina Maria Amélia
+
+do Rosário Santoro Franco, em Pedagogia como ciência da educação (São Paulo: Cortez, 2008), a
+
+atividade pedagógica enquanto práxis envolve:
+
+O estabelecimento de uma intencionalidade, que dirige e dá sentido à ação; o conhecimento do objeto que
+
+se quer transformar, na direção de sua intencionalidade, que já é determinada em função desse
+
+conhecimento; a intervenção planejada e científica sobre o objeto com vistas à transformação da realidade
+
+social (2008, p. 81).
+
+Assim nenhuma ação prática está dissociada da sua concepção teórica sob peso de ser prática cega da
+
+sua teoria. Nenhum profissional pode exercer sua profissão como mera repetição de procedimentos
+
+técnicos. O novo currículo de Jornalismo pretende adotar outra concepção e outra práxis pedagógica,
+
+envolvendo primeiro o aluno em atividades profissionais, retomando-as em sala de aula, teorizando sobre
+
+a própria prática do aluno e superando a teorização no vazio que marca o: ensino da teoria antes da
+
+prática.
+
+Assim, os alunos serão inseridos o, mais cedo possível em disciplinas profissionalizantes e laboratoriais.
+
+Há um conjunto de disciplinas no currículo que tem caráter instrumental. Ou seja, elas são os fundamentos
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+básicos das linguagens das profissões da área de comunicação nas áreas de fotografia, comunicação
+
+sonora, comunicação audiovisual e comunicação visual. Serão cursadas até o final do primeiro ano.
+
+Por outro lado, disciplinas que teorizam a profissão ou o campo da comunicação serão ministradas
+
+posteriormente. É o caso, apenas para exemplificar, de Teoria da Comunicação I, no terceiro semestre, e
+
+Teoria do Jornalismo I, no quarto semestre. A antecipação da formação profissional permite que, ao
+
+chegar às disciplinas teóricas, os alunos já tenham vivenciando uma parte de prática profissional,
+
+conseguindo dar mais concretude aos textos que lê e debate em sala. Por outro lado, disciplinas teóricas
+
+demandam maior maturidade intelectual que disciplinas profissionalizantes.
+
+Projeto jornalístico e projeto inovador
+
+As disciplinas de projeto jornalístico e projeto inovador têm características próprias, pois demandam que o
+
+aluno, com orientação de docentes, elabore e leve a termo, projetos profissionais. No primeiro caso, os
+
+projetos podem ser em linguagens variadas, como audiovisual, sonoro, gráfico, mas estão dentro do
+
+campo profissional do jornalismo. A disciplina objetiva que o aluno demonstre capacidade de compreender
+
+todo o processo editorial de planificação de um veículo e execute um piloto.
+
+Já o Projeto Inovador pode transcender as fronteiras do jornalismo e, até mesmo, da área o de
+
+comunicação. Inovador, neste caso, não pode ser tomado apenas como solução de mercado como
+
+elaboração de projeto viável comercialmente, mas deve ser concebido como inovação social e cultural.
+
+Daí porque a disciplina é subsequente à de Comunicação e Cidadania, na qual o aluno deverá tomar
+
+contato com diversos atores sociais, de modo a perceberem que pontos há necessidade de inovação na
+
+área de comunicação. Assim, inovação no caso não pode-se confundir com empreendedorismo no sentido
+
+empresarial do termo, ainda que os alunos sejam livres para propor projetos com claro caráter comercial.
+
+Esta será a dinâmica das disciplinas. Os alunos, de antemão, e ainda que de forma inicial e pouco
+
+elaborada; deverão apresentar propostas de projetos. Terão aulas, mas poderão dispor da maior parte do
+
+tempo para elaborar seus projetos, com tutoria de professores.
+
+Assessoria
+
+A disciplina de Projeto de assessoria de comunicação se situa entre os Eixos II (teoria específica) e IV
+
+(prática profissional). Ela terá, de início, aula teórica sobre assessoria de comunicação em diversos
+
+segmentos sociais, mas terminará com uma prática profissional, com a estruturação de um projeto na
+
+área.
+
+Optativas Em um aspecto, o novo currículo diminui a flexibilidade: a carga horária de optativas diminui
+
+para 300 horas, no total. Isto dará menos liberdade, mas organizará de forma mais adequada o. percurso
+
+dos alunos. Por outro lado, supera a busca de optativas sem critérios claros sobre sua necessidade ou
+
+utilidade, como vinha acontecendo. As optativas estão recomendadas para o sexto, sétimo e oitavo
+
+semestres, para estarem ligadas aos projetos profissionais e inovadores e ao Trabalho de Conclusão de
+
+Curso. Nesse sentido, os professores-orientadores serão tutores dos alunos também nas escolhas mais
+
+adequadas de optativas de acordo com o Projeto de Orientação Acadêmica. O Departamento de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Comunicação oferecerá as optativas, permitindo que disciplinas de sejam cursadas pelos alunos segundo
+
+suas necessidades.
+
+DISCIPLINAS LABORATORIAIS
+
+O novo modelo das disciplinas laboratoriais tem alguns objetivos. Primeiro, introduz o aluno o mais cedo:
+
+possível (segundo semestre) na produção de conteúdo jornalístico para publicação, com textos para web,
+
+atendendo a recomendação contida no Artigo 9º. recomendação das diretrizes não é seguida estritamente
+
+(inserção do aluno em laboratoriais no primeiro semestre do curso) porque, na avaliação dos docentes de
+
+Jornalismo da UFPR, a produção de disciplinas laboratoriais se destina à divulgação pública, o que
+
+sujeitaria o aluno de primeiro semestre a ter que escrever sem ter tido nenhuma formação prévia e
+
+simulada para isso.
+
+Na disciplina de Redação Jornalística I, o aluno poderá fazer seus primeiros exercícios com
+
+acompanhamento do professor e, caso tenha algum problema grave de domínio do gênero textual, poderá
+
+se aprimorar antes de publicar textos.
+
+Outra opção seria que os textos das disciplinas laboratoriais no primeiro semestre fossem antes avaliados
+
+pelos professores, reescritos e apenas quando tivessem um padrão mínimo de qualidade seriam
+
+publicados. Solução cabível, no entanto, ela iria na contramão de um traço relevante da produção
+
+jornalística: a premência do tempo. Um texto poderia estar adequado para publicação quando não fosse
+
+mais relevante para publicação. Por outro lado, a formação laboratorial definida no currículo da UFPR
+
+começa pelos textos informativos mais simples, voltados para publicação on-line. Seriam, portanto, os
+
+mais factuais.
+
+Por outro lado, na estrutura laboratorial da UFPR os alunos exercem todas as funções editoriais. São
+
+alunos de anos mais avançados os responsáveis pela edição dos textos. Adotar o modelo em que o
+
+professor edita ou solicita reescrita do texto até que esteja adequado seria retirar uma importante e
+
+formativa atividade dos alunos: o processo de produção e edição. A velocidade que caracteriza o
+
+jornalismo on-line, contudo, permite essa liberdade, havendo a publicação dos textos feita pelo repórteres,
+
+com edição posterior.
+
+Inverte-se a verdade a relação usual do jornalismo, em que a edição precede a publicação. Faz-se isso,
+
+porém, pela mudança nas rotinas profissionais impostas pelas novas tecnologias e pela reconfiguração
+
+dos deadlines. As disciplinas laboratoriais devem reproduzir as condições de exercício efetivo da
+
+profissão.
+
+A inserção dos alunos nas disciplinas laboratoriais já no segundo semestre também permite antecipar sua
+
+saída, que hoje ocorre no oitavo semestre e passa a acontecer no sétimo, deixando o oitavo
+
+exclusivamente para optativas, TCC e, eventualmente, estágio.
+
+O segundo aspecto importante na mudança da organização didático-pedagógica é a necessidade de dar
+
+conta de uma profissão que cada vez mais se torna transmídia e crossmídia. No mundo de trabalho, seja
+
+em grandes veículos de comunicação ou em assessorias de entidades de trabalhadores, cada vez mais é
+
+exigido que o jornalista domine as múltiplas linguagens, por meio das quais pode se expressar o
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+jornalismo: sonora, audiovisual, visual, fotográfica, textual, etc. Assim, acabou a era do monojornalista,
+
+daquele profissional que fazia carreira em um veículo e dominava basicamente sua linguagem. Seja em
+
+sindicatos, seja em grandes jornais, os jornalistas, os jornalistas são desafiados a fazer televisão, rádio,
+
+fotojornalismo para um mesmo veículo ou uma mesma entidade. Por isso, torna-se imperativo que domine
+
+todas as linguagens. O atual modelo de organização das laboratoriais e do curso dão conta efetiva deste
+
+desafio.
+
+O jornalismo transmídia é a tendência decorrente do processo de convergência, de diminuição das
+
+barreiras entre rádio, TV e mídia impressa, num nível tal)que os próprios conceitos de rádio, TV e mídia
+
+impressa são colocados em debate. Hoje, o profissional não precisa apenas produzir para várias mídias,
+
+mas também utilizar as especificidades das várias mídias numa única narrativa, na qual as informações
+
+estão dispersas em várias linguagens que são complementares. Todos juntos realizam a reportagem. Esta
+
+nova prática jornalística não pode mais ser abarcada nas disciplinas laboratoriais em projetos que
+
+funcionem autonomamente: radiojornal laboratório, telejornal laboratório, jornal web, jornal impresso,
+
+revisa, fotografia e comunicação visual operando em separado. Se a organização anterior dá conta da
+
+formação de múltiplas competências, ela é insuficiente para proporcionar aos alunos a formação
+
+adequada na utilização das diversas linguagens jornalísticas numa mesma narrativa.
+
+O compromisso do curso com as novas práticas jornalísticas firmada inclusive através do convênio
+
+internacional com a Universidade de Lyon - França se materializa, neste caso, com a reorganização das
+
+disciplinas laboratoriais para dar conta das mudanças que estão acontecendo no jornalismo. Deriva disto a
+
+maior integração entre as disciplinas laboratoriais com a perspectiva de produção de conteúdos
+
+transmídia. Não falamos mais em laboratórios de rádio, TV e jornal, mas em um único projeto laboratorial
+
+onde todas estas linguagens estejam integradas.
+
+Na prática, a linha de laboratoriais será a seguinte:
+
+Segundo semestre: Laboratório de Jornalismo I - web: produção de reportagens para o jornal on-line do
+
+curso - www.jornalcomunicacao.ufpr.br. Os textos devem ser mais simples, com poucas fontes, factuais.
+
+Terceiro semestre: Laboratório de Jornalismo II - web e impresso: textos para web, com as mesmas:
+
+características do semestre anterior e produção de reportagens para o jornal impresso, o Comunicação; e
+
+Laboratório de Radiojornalismo produção de reportagens para meio sonoro, inclusive podendo ser a
+
+mesma pauta do i impresso ou da web.
+
+Quarto semestre: Laboratório de Jornalismo III impresso e revista: produção de reportagens aprofundadas
+
+e textos interpretativos para jornal e revista Laboratório de Radiojornalismo II, com as mesmas
+
+características do semestre anterior; e Laboratório de Telejornalismo I: produção de reportagens para
+
+meio audiovisual, inclusive podendo ser a mesma pauta do impresso, da revista ou do rádio. Este deve ser
+
+o semestre onde os alunos experimentam, de maneira mais completa, a experiência do jornalismo
+
+transmídia e crossmídia ainda na condição de repórteres. Para que isso funcione, a produção de pauta
+
+deve ser integrada.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Importante ressaltar que a cada semestre das laboratoriais antecede no semestre imediatamente anterior
+
+às disciplinas que preparam o aluno para sua experiência laboratorial; a saber: Redação Jornalística I
+
+(primeiro semestre), Redação Jornalística II, Radiojornalismo e Fotojornalismo (segundo semestre) e
+
+Redação Jornalística III e Telejornalismo (terceiro semestre).
+
+Outro detalhe relevante sobre a nova concepção curricular e que é no quarto semestre, quando esta
+
+vivendo sua experiência laboratorial mais intensa, que o aluno adentra na primeira disciplina teórica sobre
+
+jornalismo, Teoria do Jornalismo I. Antes teve Introdução ao Jornalismo, cuja função é iniciá-lo na
+
+profissão, mas ministrada no primeiro semestre não tem a densidade teórica de Teoria do Jornalismo I.
+
+Neste aspecto, o currículo: cola a prática, profissional com a teoria, a partir do conceito de práxis, como já
+
+referido.
+
+Quinto semestre: Laboratório de Telejornalismo II: produção de reportagens para meio audiovisual,
+
+inclusive podendo ser a mesma pauta do impresso, da revista ou do rádio.
+
+Sexto e sétimos semestres: neste momento, aparecem as disciplinas que vão integrar todo o processo:
+
+Laboratório Multimídia de Jornalismo I e Laboratório Multimídia de Jornalismo II. Os alunos, tendo passado
+
+por todas as fases laboratoriais anteriores e portanto, já com domínio das múltiplas linguagens
+
+jornalísticas, assumem as funções de comando editorial. Hoje, os produtores e editores pautam e editam
+
+para um único veículo.
+
+No novo formato, a pauta não será pensada para um melo mas sobre um assunto com um enfoque
+
+específico valendo-se dos meios que julgar mais adequados seja para fazer uma reportagem numa única
+
+mídia ou para produzir narrativa transmídia. Neste caso, o caráter transmídia pode se dar ao atribuir a
+
+realização da pauta com diversas linguagens a um único repórter ou pautando diversos repórteres para
+
+mesma pauta, cabendo a cada um produzir conteúdo em uma linguagem específica. Neste, caso, a edição
+
+de tudo como um conteúdo transmídia caberá ao editor. Os alunos do sexto e do sétimo semestres
+
+também poderão pautar uns aos outros para a cobertura transmídia ou produzir pauta transmídia para si
+
+mesmo. Estas disciplinas são o ápice da integração das laboratoriais.
+
+Esta organização também garante produção anual nas áreas de rádio, TV, jornalismo impresso em jornal,
+
+fotografia e jornalismo online durante todo ano. Isso não é secundário, posto que a produção laboratorial
+
+deve ser veiculada e, neste caso, ter produção constante é imprescindível. Manter esta relação com o
+
+público não é mera vaidade. O jornalismo é uma profissão pública, voltada para o público, seja ele leitor,
+
+ouvinte, audiência televisual, visual ou todos ao mesmo tempo. Reproduzir o compromisso e as
+
+responsabilidades com o público é parte fundamental do processo de aprendizagem. Daí a produção
+
+periódica ser tão relevante. Apenas a produção de revista, menos factual, mais interpretativa e mais
+
+investigativa está prevista para acontecer em apenas um semestre, com edição de dois exemplares por
+
+ano. Por fim, o terceiro aspecto que muda com este modelo de organização das laboratoriais é a
+
+diminuição de níveis hierárquicos entre os alunos. Hoje, alunos de segundo, terceiro e quarto anos fazem
+
+parte do Jornal Laboratório (impresso e web), em funções, respectivamente, de repórteres,
+
+produtores/editores e chefias.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Os níveis hierárquicos visam manter a lógica da replicação de conhecimentos, onde alunos aprendem com
+
+alunos e isso aumentou, sensivelmente, a quantidade de conteúdos produzidos e a intensidade da
+
+experiência formativa dos alunos. Em rádio e TV são apenas dois níveis. A integração das laboratoriais no
+
+formato descrito, implica manter a mesma quantidade de níveis hierárquicos em todas as áreas de
+
+produção laboratorial, mas também visa simplificar e agilizar o processo de publicitação de conteúdos e
+
+assemelhar. Além disso a velocidade crescente da produção jornalística demanda hoje uma organização
+
+mais simples.
+
+No currículo de Jornalismo como é possível inferir, as laboratoriais são o eixo central da formação
+
+profissional. Daí sua centralidade e, portanto, carga mais alta que os demais eixos. Justificamos também
+
+este componente do currículo pela inexequibilidade prática do que demanda as diretrizes, que afirma ser
+
+valorizado o equilíbrio entre os eixos, o que na prática dá 400 horas/aula em cada um, mas, ao mesmo
+
+tempo, recomenda laboratoriais desde o primeiro semestre.
+
+Isso daria 50 horas semestrais nas laboratoriais, com a missão de produzir anualmente nas áreas de
+
+rádio, TV, web, impresso e fotografia, além de enfrentar o desafio das narrativas transmídia e da
+
+incorporação do jornalismo de revista. O NDE do curso de Jornalismo da UFPR não encontrou fórmula
+
+adequada que respondesse a isso nas 400 horas ao longo de oito semestres. No total o eixo ficou com
+
+540 horas/aula ao longo de seis semestres.
+
+Para a integralização do curso o aluno deverá cumprir 3.230 horas distribuídas em disciplinas ao longo de
+
+oito semestres, sendo que esta carga horária inclui 300 horas em atividades complementares bem como
+
+300 horas de TCC e outras 200 horas de estágio supervisionado disponibilizadas na grade horária do
+
+curso. As disciplinas teóricas e praticas encontram-se distribuídas de modo a garantir integração de seus
+
+conteúdos assim como um ordenamento sequencial adequado.
+
+PERFIL DAS DISCIPLINAS:
+
+As disciplinas terão as seguintes características:
+
+Disciplinas teóricas comuns têm como objetivo a transmissão e discussão de conhecimentos que
+
+possibilitem ao aluno: compreender criticamente os meios de comunicação Social e a sociedade
+
+contemporânea
+
+Disciplinas teórico praticas comuns: têm como objetivo a produção de uma competência técnica
+
+considerada imprescindível a qualquer profissional da comunicação;
+
+Disciplinas teóricas específicas: tem como objetivo a transmissão e discussão: de conhecimentos
+
+que possibilitem ao aluno compreender os criticamente a sua atividade profissionais com suas
+
+implicações sociais, éticas e econômicas;
+
+Disciplinas teórico-práticas específicas: têm como objetivo a produção de uma competência
+
+técnica profissional vinculada a uma imprescindível reflexão teórico-crítica;
+
+Disciplinas de legislação especial: têm como objetivo possibilitar aos alunos espaços de exercício
+
+profissional, dentro da Universidade ou fora dela, orientado pelos professores. São a
+
+concretização primeira da atividade profissional dos alunos e devem se, reger por legislações
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+específicas que considerem as características de cada disciplina.
+
+Obs.: O Pedagógico de Jornalismo prevê o desenvolvimento de atividades de campo para algumas
+
+disciplinas em consonância com suas características. PRATICA COMO COMPONENTE CURRICULAR SISTEMA DE ACOMPANHAMENTO E AVALIAÇÃO DO PROJETO DO CURSO
+
+Segundo a Resolução n.º 37/97 do Conselho de Ensino, Pesquisa e Extensão a aprovação em disciplina
+
+dependerá do resultado das avaliações realizadas ao longo do período letivo, segundo o plano de ensino
+
+divulgado aos alunos no início do período letivo, sendo o resultado global expresso de zero a cem. Toda
+
+disciplina deverá ter, no mínimo, duas avaliações, formais por semestre, sendo pelo menos uma escrita,
+
+devendo, em caso de avaliações orais e/ou práticas serem constituída de banca de no mínimo dois
+
+professores da mesma área ou área conexa.
+
+O acadêmico será aprovado quando alcançar, no total do período letivo, frequência mínima de 75% da
+
+carga horária inerente à disciplina e obtiver, no mínimo, grau numérico 70 de média aritmética no conjunto
+
+de provas e outras tarefas realizadas pela disciplina.
+
+O aluno que não obtiver a média prevista de 70 deverá prestar exame final, desde que alcance a
+
+frequência mínima exigida e média não inferior a 40. No exame final será aprovado na disciplina aquele
+
+que obtiver grau numérico igual ou superior a 50 na media aritmética entre o grau do exame final e a
+
+média do conjunto das avaliações realizadas.
+
+Nas disciplinas de estágio e Trabalho de Conclusão de Curso, a avaliação obedecera às condições
+
+previstas respectivamente em seus Regulamentos específicos (páginas 89 e 96). É assegurado ao aluno o
+
+direito à revisão do resultado das avaliações escritas bem como a segunda chamada ao que não tenha
+
+comparecido à avaliação do rendimento escolar desde que enquadrado nos requisitos descritos
+
+Resolução nº 37/97 do Conselho de Ensino Pesquisa e Extensão da UFPR (Cepe), exceto na avaliação
+
+final.
+
+Não cabe avaliação final em disciplinas ministradas em período especial, nem tampouco em disciplinas de
+
+Estágio e Trabalho de Conclusão de Curso. SISTEMA DE AVALIAÇÃO DO PROCESSO DE ENSINO E APRENDIZAGEM
+
+Segundo a Resolução n.º 37/97 do Conselho de Ensino, Pesquisa e Extensão a aprovação em disciplina
+
+dependerá do resultado das avaliações realizadas ao longo do período letivo, segundo o plano de ensino
+
+divulgado aos alunos no início do período letivo, sendo o resultado global expresso de zero a cem. Toda
+
+disciplina deverá ter, no mínimo, duas avaliações, formais por semestre, sendo pelo menos uma escrita,
+
+devendo, em caso de avaliações orais e/ou práticas serem constituída de banca de no mínimo dois
+
+professores da mesma área ou área conexa.
+
+O acadêmico será aprovado quando alcançar, no total do período letivo, frequência mínima de 75% da
+
+carga horária inerente à disciplina e obtiver, no mínimo, grau numérico 70 de média aritmética no conjunto
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+3.
+
+de provas e outras tarefas realizadas pela disciplina.
+
+O aluno que não obtiver a média prevista de 70 deverá prestar exame final, desde que alcance a
+
+frequência mínima exigida e média não inferior a 40. No exame final será aprovado na disciplina aquele
+
+que obtiver grau numérico igual ou superior a 50 na media aritmética entre o grau do exame final e a
+
+média do conjunto das avaliações realizadas.
+
+Nas disciplinas de estágio e Trabalho de Conclusão de Curso, a avaliação obedecera às condições
+
+previstas respectivamente em seus Regulamentos específicos (páginas 89 e 96). É assegurado ao aluno o
+
+direito à revisão do resultado das avaliações escritas bem como a segunda chamada ao que não tenha
+
+comparecido à avaliação do rendimento escolar desde que enquadrado nos requisitos descritos
+
+Resolução nº 37/97 do Conselho de Ensino Pesquisa e Extensão da UFPR (Cepe), exceto na avaliação
+
+final.
+
+Não cabe avaliação final em disciplinas ministradas em período especial, nem tampouco em disciplinas de
+
+Estágio e Trabalho de Conclusão de Curso. FUNDAMENTAÇÃO TEÓRICA DOS TEMAS TRANSVERSAIS
+
+POLÍTICAS DE MEIO AMBIENTE
+
+Para atender o preconizado na lei 9.795/1999 e pelo decreto 4.281/2002, que tratam de Políticas de
+
+Educação Ambiental, o curso de Jornalismo, da UFPR, busca por meio de três estratégias principais
+
+inserir reflexões sobre a crise socioambiental global, sobre a situação da questão no Brasil e sobre temas
+
+socioambientais regionais/locais, em especial se situando com relação às políticas públicas na área e as
+
+potencialidades do profissional de Comunicação especificamente do jornalista em se posicionar, por meio
+
+de atividades profissionais na discussão competente e na produção de material contextualizado e com
+
+potencial educativo na área.
+
+As estratégias são as seguintes:
+
+Oferta de disciplinas optativas como Comunicação e Meio Ambiente e Comunicação e Redes
+
+Urbanas, que podem, além dos graduandos em Jornalismo, aceitar alunos dos cursos de
+
+Publicidade e Propaganda e do curso de Relações Públicas;
+
+Promoção de reuniões periódicas entre os professores do curso para estimular e orientar o
+
+cumprimento de pautas jornalísticas voltadas às temáticas socioambientais, no contexto do
+
+quadro de disciplinas do curso e de seus veículos, laboratoriais on-line, impresso ou eletrônicos.
+
+(rádio e TV), de forma a se produzir reportagens contextualizadas e que gerem discussões;
+
+Estímulo à realização de projetos de extensão como o NCEP, o Núcleo de Comunicação e
+
+Educação Popular, - junto a comunidade (inclusive seminários e palestras) e de »projetos de
+
+pesquisa, envolvendo a interface Comunicação e Melo Ambiente, inclusive para o cumprimento
+
+de Trabalhos de Conclusão de Curso (TCCs) e Pesquisas de Iniciação Científica (Pibic).
+
+RELAÇÕES ÉTNICO-RACIAIS
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Para ampliar O debate sobre as questões étnico-raciais, o curso de Jornalismo da Universidade Federal
+
+do Paraná oferece disciplinas optativas, como Tópicos Especiais em Teoria do Conhecimento - Meios de
+
+Comunicação e Continente Africano: esquecimento e negação, e materiais para a inserção nas demais
+
+disciplinas que o compõem a matriz curricular. Para além de cumprir a Lei 10.639 e a 11.645 (e todas as
+
+demais que trabalham as questões afirmativas e formas de combater a intolerância), o debate sobre as
+
+questões étnico-raciais no currículo do Curso contribui para dar mais espaço para a discussão de temas
+
+que ainda têm pouco espaço nos meios de comunicação e quando aparecem, geralmente, colaboram para
+
+ampliar o preconceito, o racismo, o sexismo a homofobia, a xenofobia e outras práticas de intolerância. É
+
+obrigação do curso de Jornalismo formar profissionais que serão capazes de trabalhar de maneira
+
+responsável questões como o racismo. Para tanto, é necessário inserir conteúdos que tratem do tema no
+
+universo de aprendizado dos alunos.
+
+A oferta da disciplina optativa, portanto, deve vir acompanhada da realização de debates sobre textos e
+
+temas que serão apresentados em reuniões de professores e que contribuirão para a ampliação da
+
+inserção do tema nos conteúdos de todas as disciplinas do curso. Para garantir a oferta semestral de uma
+
+disciplina com essa proposta, serão buscados entendimentos com o Núcleo de Estudos AfroBrasileiros
+
+(Neab-UFPR) bem como com departamentos, que tenham pesquisas e atividades sobre intolerância.
+
+A coordenação do curso incentiva o debate sobre esse tema em projetos de Trabalhos de Conclusão de
+
+Curso (TCCs), bem como projetos de pesquisa ou iniciação científica e de extensão universitária. Além
+
+disso, mantém esforços para a realização de um evento anual que discuta as questões étnico-raciais e as
+
+formas de ampliar os espaços desse tipo de tema nos meios de comunicação. Também são propostos aos
+
+órgãos laboratoriais, como o Jornal Comunicação e projetos de extensão como o Ponto Pasta, NCEP e
+
+Prattica, a pauta do assunto nas suas atividades pelo menos uma vez por semestre.
+
+LIBRAS
+
+Em atendimento ao Decreto 5.626 de 22/12/2605 da Presidência da República e conforme a Resolução
+
+18/2009-Prograd, os cursos de graduação da UFPR devem oferecer Libras em suas respectivas
+
+organizações curriculares. Este Projeto Pedagógico prevê, atendendo à Resolução n.º 60/00, o apoio do
+
+Departamento de Teoria e Fundamentos da Educação para que seus alunos possam cursar Comunicação
+
+em Língua Brasileira de Sinais - Libras (LIBO37), com carga horária de 30 horas, como disciplina optativa.
+
+DIREITOS HUMANOS
+
+Para atender o preconizado na Resolução no 1 do Conselho Nacional de Educação, que estabelece
+
+diretrizes nacionais para a Educação em Direitos Humanos, o curso de Jornalismo da UFPR oferece
+
+disciplinas como: Antropologia, Ciências Sociais, Comunicação e Cidadania, Comunicação e Educação e
+
+História Contemporânea. Além disso, entra como cobertura de pauta em todas as laboratoriais e
+
+fundamentos técnicos. ESPECIFICAÇÃO EAD
+
+ENSINO A DISTÂNCIA
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+2.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Conforme a Resolução Nº 72/10-Cepe os cursos de graduação da UFPR podem oferecer disciplinas
+
+parciais ou integrais a distância. O Curso de Jornalismo da UFPR, atendendo essa Resolução, bem como
+
+às Resoluções 08/03, a 28/08 e a 83/08 ofertará disciplinas totalmente a distância, como a Tópicos
+
+Especiais em Teoria do Conhecimento - Meios de Comunicação e Continente Africano: esquecimento e
+
+negação, preferencialmente utilizando a plataforma Moodle mantida pela universidade. Também poderão
+
+ser ofertadas disciplinas com até 20% das atividades realizadas a distância.
+
+As disciplinas oferecidas integral ou parcialmente a distância não poderão ultrapassar 20%.da carga
+
+horária total do curso. As atividades a distância do curso de Jornalismo estarão alinhá-las com os objetivos
+
+gerais da educação a distância que a UFPR preconiza, quais sejam:
+
+Propiciar conhecimentos, habilidades e atitudes ao maior número de pessoas que desejam
+
+estudar ou se atualizar, independente de tempo e espaço tomando desta forma mais democrática
+
+o acesso a uma educação de qualidade;
+
+Oferecer um ensino que assegure uma educação permanente e continuada, possibilitando uma
+
+visão abrangente de mundo centrado nos processos de aprendizagem do aluno.
+
+Assim, fica instituído que todas as ofertas de disciplinas a distância deverão observar o descrito na
+
+Resolução 72/10 do Conselho de Ensino e Pesquisa da UFPR que prevê no seu 5º Artigo:
+
+As propostas das disciplinas a serem ofertadas integral ou parcialmente a distância deverão conter, além
+
+dos elementos previstos no Art. 8º, Inciso II; da Resolução nº 30/90-Cepe, métodos e práticas de
+
+ensinoaprendizagem que incorporem a utilização integrada de tecnologias de informação e comunicação
+
+para a realização dos objetivos pedagógicos, bem como prever atividades de tutoria e avaliações
+
+presenciais, contemplando os seguintes itens:
+
+Identificação da disciplina;
+
+Justificativa para oferta da disciplina integral ou parcialmente a distância;
+
+Objetivo geral e objetivo específico;
+
+Unidades de conteúdo que serão abordadas integralmente a distância ou que serão abordadas de
+
+forma duo-modal, ou seja, as unidades que serão abordadas na modalidade a distância e as que
+
+serão abordadas na modalidade presencial;
+
+Procedimentos didáticos para o desenvolvimento da disciplina a distância ou de forma duo-modal,
+
+incluindo:
+
+Sistema de comunicação;
+
+Modelo de tutoria a distância e presencial;
+
+Material didático específico;
+
+Infraestrutura de suporte tecnológico, científico e instrumental à disciplina;
+
+Previsão de período de ambientação dos recursos tecnológicos a serem utilizados pelos
+
+discentes;
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+6.
+
+6.
+
+7.
+
+8.
+
+Identificação do controle de frequência das atividades presenciais
+
+Formas de avaliação, incluindo critérios de avaliação e previsão de avaliações presenciais;
+
+Bibliografia básica e complementar;
+
+Professor ou professores responsáveis.
+
+Todas as atividades a distância deverão ser discutidas no colegiado do curso, ficando a Coordenação do
+
+Curso responsável pela observação do percentual máximo de 20% da carga horária total para esse tipo de
+
+modalidade. ORIENTAÇÃO ACADÊMICA
+
+O Cacos UFPR é o Centro Acadêmico de Comunicação Social da UFPR. Fundado em 8 de agosto de
+
+1986, o Centro Acadêmico é a entidade oficial representativa dos cursos de Jornalismo, Publicidade e
+
+Propaganda e Relações Públicas. O Cacos possui uma diretoria que é composta, oficialmente, por 10
+
+membros eleitos o final do primeiro semestre para uma gestão de um ano. A função da diretoria é manter
+
+o Centro Acadêmico ativo, atuando dentro da Universidade juntamente com todos os estudantes. O Cacos
+
+deve lutar por um ensino público, gratuito e de qualidade e deve promover a integração entre os
+
+estudantes, garantindo a autonomia do movimento estudantil, livre de pendências com a Reitoria ou com
+
+organizações externas, como empresas e partidos políticos.
+
+Apoio ao Discente
+
+O acompanhamento estudantil é feito pala Pró-reitoria de Graduação (Prograd) e pela Pró-reitoria de
+
+Assuntos Estudantis (Prae), que coordenam os processos de concessão das diversas bolsas (monitoria,
+
+permanência, estagio) sendo que a Prae é responsável, entre outros programas, pelo Probem (auxílio
+
+creche, moradia e refeição) e pelo acompanhamento psicossocial dos estudantes.
+
+Orientação Acadêmica
+
+O objetivo geral do Projeto de Orientação Acadêmica do Curso de Jornalismo é a promoção da melhoria
+
+do desempenho acadêmico de seus discentes mediante o acompanhamento e orientação por parte de
+
+todos os docentes do curso. O projeto acha-se descrito no Anexo V do presente documento. ATIVIDADES COMPLEMENTARES
+
+O curso de Jornalismo da UFPR está formatado de modo a se, compor por disciplinas típicas e
+
+tradicionais do ambiente de sala de aula, juntamente com disciplinas práticas laboratoriais ministradas
+
+também de forma tradicional, conforme o padrão de turma/docente/horas-aula semanais e ainda por
+
+atividades complementares às quais são atribuídas horas para efeito de integralização do curso por parte
+
+do, aluno. As atividades complementares podem englobar, entre outras, as que seguem: disciplinas
+
+permanência, etc. A principal característica do conjunto de atividades complementares é a observância
+
+aos parâmetros estabelecidos nas diretrizes curriculares.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+As atividades de pesquisa estão incluídas neste projeto, como partes complementares à formação
+
+profissional do egresso.
+
+A concepção e efetivação dos programas de pesquisa, no que se refere ao curso de Jornalismo seguem
+
+as determinações especificadas em resoluções e demais instrumentos normativos da UFPR nessas
+
+respectivas áreas de ação.
+
+Existe a necessidade crescente de incentivar à participação discente em projetos de pesquisa e ações de
+
+desenvolvimento tecnológico, buscando bolsas de iniciação científica e outras existentes na universidade.
+
+A aprendizagem em pesquisa é um referencial para o aluno e para o fortalecimento do próprio programa
+
+de pós-graduação - o PPGCom.
+
+O gerenciamento do curso deverá promover a inserção dos acadêmicos em projetos de extensão quer os
+
+elaborados no âmbito dos departamentos que atendem o curso, quer em projetos de organizações civis,
+
+de instituições públicas ou de empresas.
+
+Como resultado da integração entre a graduação em Jornalismo e o Programa de Pós-Graduação de
+
+Comunicação, vê-se franqueada a participação dos discentes em projetos de pesquisas Os alunos
+
+participam de projetos conduzidos nos laboratórios, e em outras instituições como a UniBrasil e empresas
+
+de comunicação Atualmente, o curso mantém quando projetos de extensão e oito grupos de pesquisa:
+
+Iniciação Científica
+
+No curso de Jornalismo, a iniciação científica ocorre nas disciplinas de Metodologia de Pesquisa e
+
+Iniciação Científica, e de forma mais aprofundada por meio de grupos de pesquisas formados por
+
+professores alunos selecionados no programa do Pibic (Programa Institucional de Bolsas de Iniciação
+
+Científica). Os alunos são estimulados a publicar artigos científicos e incentivados a participar SIEPE
+
+(Semana Integrada de Ensino, Pesquisa e Extensão), de eventos promovidos pela instituição, além de
+
+congressos como Intercom, tanto em sua modalidade regional como na nacional, ExpoCom e SBPJor.
+
+O envolvimento dos alunos na pesquisa seja nos grupos de pesquisa do curso ou nos eventos de iniciação
+
+científica da instituição ou de outras organizações, segue diretrizes teórico-metodológicas estabelecidas
+
+pelas linhas de pesquisa do curso. As linhas de pesquisa estão em consonância com a linha de pesquisa
+
+institucional Comunicação e produção cultural. De acordo com essas linhas de pesquisa, foram
+
+constituídos também dois grupos de pesquisas de professores, com o objetivo de fomentar e fortalecer a
+
+produção científica também entre os docentes.
+
+Interface com a Pós-graduação
+
+O curso de graduação apresenta, portanto, como um de seus principais objetivos a formação
+
+especializada de profissionais estabelecendo ao mesmo tempo a possibilidade de maior aproximação com
+
+o trabalho realizado no nível de pós-graduação por meio do PPGCom/UFPR (Programa de Pós-
+
+Graduação em Comunicação Social), com o qual podem ser formatadas diversas interfaces.
+
+A primeira se configura a partir dos projetos de iniciação científica a serem desenvolvidos com
+
+participação colaborativa dos corpos docente e discente do PPGCom atuando com conjunto com
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+professores da graduação, alunos também da graduação bolsistas formais e voluntários. Projetos de
+
+pesquisa a ser executados dentro dessa modalidade e apresentar seus resultados em eventos públicos
+
+abertos ou restritos à comunidade acadêmica da área.
+
+Outra interface pode ser constituída em atividades que envolvam o estágio docência realizado por alunos
+
+do mestrado em Comunicação sob supervisão dos professores da pós-graduação e também de
+
+professores da graduação. Essa atuação conjunta deve se dar nos exercícios pedagógicos das disciplinas
+
+de graduação de acordo com um planejamento prévio aprovado nas instâncias departamentais e de
+
+coordenações de curso de graduação de pós-graduação.
+
+No mesmo patamar das duas primeiras, completa este quesito a interface aberta no plano dos sete grupos
+
+de pesquisa já institucionalizados e registrados no CNPQ, que atualmente integram o Decom. Nos grupos
+
+de pesquisa é imprescindível também a presença e atuação tanto dos alunos e professores de graduação,
+
+como de mestrandos e professores do mestrado, desenvolvendo e executando projetos de pesquisa que
+
+resultem na elaboração de artigos os quais devem ser publicados em periódicos científicos indexados
+
+conforme as exigências do CNPQ, assim como sejam apresentados em eventos de reconhecida
+
+relevância como congressos, simpósios, encontros, palestras, etc.
+
+Estas são as possibilidades iniciais que se apresentam como passíveis de complementação à medida que
+
+se intensifiquem as atividades comuns envolvendo a graduação em Jornalismo e o PPGCom/UFPR.
+
+Grupos de Pesquisa
+
+Grupo de pesquisa Comunicação Eleitoral: foi criado em 2012 para suprir a demanda específica
+
+da investigação relacionada à comunicação política. Tem por objeto a Comunicação Eleitoral,
+
+organizando pesquisadores e trabalhos de análise nos complexos processos de representação
+
+nas democracias contemporâneas. Tem por objetivo analisar os mecanismos de representação
+
+práticas explicitadas em períodos de campanha eleitoral, assim como os papéis das diferentes
+
+instituições e organismos coletivos/sociais envolvidos nos processos eleitorais. Os principais
+
+objetos empíricos de análise são os conteúdos veiculados pelos meios de comunicação de massa
+
+a respeito dos processos eleitorais, tanto os produzidos pela elite politica (propaganda eleitoral),
+
+quanto os que contemplam outros atores, como o jornalismo eleitoral. Também se pretende
+
+estabelecer como objeto analítico os processos de interação, produção e recepção de conteúdos
+
+dos meios tradicionais e novos meios de comunicação, em especial o uso das chamadas redes
+
+sociais digitais. O grupo de pesquisa pretende, originalmente, reunir pesquisadores de diferentes
+
+instituições de ensino superior brasileiras e de outros países a partir de dois programas de pós-
+
+graduação fundamentalmente: Programa de Pós-graduação em Comunicação Social
+
+PPGCS/UFPR e Programa de Pósgraduação em Ciência Política PPGCP/UFPR. Deste modo, o
+
+grupo pode receber estudantes de graduação na modalidade de iniciação científica e
+
+voluntariado. Certificado pelo CNPQ o grupo possui as seguintes linhas de pesquisa: atores
+
+sociais e processos eleitorais, cobertura eleitoral, produção de conteúdos eleitorais e produção e
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+2.
+
+3.
+
+4.
+
+5.
+
+recepção midiática durante as eleições. Responsável: Professora Luciana Panke.
+
+ECOEP - Estudos sobre Comunicação Organizacional estratégias e processos: cada vez mais as
+
+organizações privadas e/ou públicas se dão conta da forte relação existente entre elas e a
+
+sociedade Precisando, assim, ampliar e sofisticar os seus modelos de expressão e estratégias de
+
+ação nos processos de comunicação, buscando profissionalização e constante atualização nos
+
+seus quadros. Desta forma, este grupo de pesquisa atua no sentido de estudar e analisar a
+
+situação de comunicação organizacional nas diferentes organizações. A partir dos resultados,
+
+pretende-se avançar com propostas que possam auxiliar no desenvolvimento de processos e
+
+estratégias de comunicação.
+
+GCEORG - comunicação, educação e organizações: tem como principal objetivo pesquisar,
+
+analisar e sistematizar as ações de comunicação e educação que estão sendo realizadas nos
+
+âmbitos institucionais, tais como escolas, empresas e organizações e os hábitos de consumo
+
+midiático de crianças, adolescentes e Jovens A sistematização e análise dessas ações à luz das
+
+teorias da comunicação e da educação existentes permite o planejamento de novos projetos que
+
+contribuam para uma formação de novas gerações numa sociedade caracterizada pelos meios de
+
+comunicação de massa e pelas novas tecnologias da informação e da comunicação. O grupo
+
+desenvolve pesquisas que servirão de fundamentação é suporte para instituições e profissionais
+
+que nela atuam que desejem atuar na interface comunicação e educação - cada vez mais
+
+necessária na formação de indivíduos para o século XXI.
+
+GEPETE - Grupo de Estudos, professor, escola e tecnologias: os integrantes do GEPETE partem
+
+da constatação de que os professores se sentem muitas vezes despreparados e inseguros, frente
+
+ao enorme desafio que representa a incorporação das tecnologias ao cotidiano escolar. No
+
+entanto, já sabem que para poderem ocupar sucessivamente posições ativas e passivas no que
+
+diz respeito às tecnologias da informação no mundo atual e saber quando e como utilizá-las no
+
+ambiente escolar não adianta se isolar. É necessário buscar uma formação continuada na qual a
+
+troca de experiência aconteça. Nesse sentido, o GEPETE visa ampliar as discussões sobre
+
+tecnologias e educação com a comunidade escolar em geral; reunir estudiosos e pesquisadores
+
+de diferentes instituições e níveis de ensino de Curitiba e região metropolitana para discutir a
+
+questão das tecnologias e formação dos professores; envolver a universidade em projetos
+
+elaborados pelo MEC - UAB na questão e formação de professores e o uso das tecnologias na
+
+escola. Líder do grupo: Glaucia da Silva Brito. Link:
+
+Octp://dgp.cnpq.br/buscaoperacional/detalhegrupo.jspgrupo?01037089IQZT2A
+
+GEI - Grupo de Estudos da Imagem: promove reflexões no campo didático no sentido da
+
+democratização do conhecimento relacionado às áreas de interesse do grupo. As atividades
+
+passam por pesquisas de imagem, trabalhos de conclusão de curso de graduação, orientações
+
+de pós-graduação, apresentação de artigos científicos e novas proposições de produção
+
+jornalística de televisão e produção audiovisual bem como a elaboração de projetos de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+6.
+
+7.
+
+desenvolvimento tecnológico. Os estudos realizados já resultaram na publicação do livro Ações e
+
+relações de poder: a construção da reportagem política no jornalismo paranaense, em 2007.
+
+Participantes do grupo assinam também outras publicações, como capítulos de livros artigos
+
+científicos em congressos/simpósios nacionais e internacionais. Estão em andamento pesquisas
+
+abrangendo estudos do telejornalismo e TV Digital, no que diz respeito à produção de conteúdos
+
+aos novos processos de convergência de mídias. Nesse âmbito, os estudos se voltam aos novos
+
+formatos e linguagens dos programas jornalísticos de televisão é às novas tipologias de
+
+programas. Paralelamente estão em desenvolvimento estudos sobre questões relacionadas à
+
+linguagem do telejornalismo contemporâneo, com destaque para projetos de produção de
+
+documentário e grande reportagem, respectivamente sobre temáticas referentes ao Jornalismo
+
+cultural em televisão e ao meio ambiente. O grupo integra o Programa de Pós-graduação em
+
+comunicação da UFPR na linha de pesquisa Comunicação Política e Atores Sociais, por meio de
+
+disciplinas ministradas como a disciplina Poder e Política na Mídia Televisiva desenvolvendo
+
+estudos e análises de conteúdos jornalísticos em programas de TV versando sobre temáticas
+
+politicas. A partir dessa atividade foi publicado em 2011 o livro Mídia e política caminhos
+
+cruzados, contendo artigos de pesquisa elaborados pelos integrantes do grupo. O grupo é
+
+liderado pelos professores João Somma Neto e Rosângela Stringari.
+
+MEDUC - Mídia, Linguagem e Educação:' grupo de pesquisa certificado pela Universidade
+
+Federal do Paraná e vinculado ao Conselho Nacional de Desenvolvimento Científico e
+
+Tecnológico (CNPQ) que se dedica a pesquisas na área de comunicação e educação. Formado
+
+em 2005 o grupo tem como objetivo desenvolver projetos - práticos e teóricos que supram as
+
+lacunas existentes nas áreas da comunicação e da educação. Particularmente, implementar
+
+pesquisas que tenham como interface as várias mídias e os usos da linguagem e; por meio de
+
+reuniões, participações em congressos, eventos, realização de atividades de extensão como
+
+seminários, palestras, oficinas, contribuir para a inovação e avanço do conhecimento nessas
+
+áreas de forma a integrar alunos e pesquisadores numa discussão interdisciplinar Responsáveis:
+
+professores Jair Antonio de Oliveira (líder) Itanel Quadros (vice-líder), Claudia Quadros,
+
+Rosângela Stringari, Mário Messagi, Toni Vieira.
+
+NECOMGRAF - Núcleo de Estudos de Comunicação Gráfica: tem como objetivos: pesquisar os
+
+fundamentos teóricos e práticos da comunicação visual no que tange a seus aspectos históricos,
+
+trajetórias, atualidade e perspectivas; a comunicação visual-gráfica aplicada à publicidade,
+
+jornalismo e afins; os desenvolvimentos técnicos e tecnológicos que influenciam no
+
+desenvolvimento das linguagens aplicadas à comunicação visual-gráfica. Desenvolve projetos de
+
+pesquisa; configuração e oferta de cursos e eventos de extensão; publicações (com os resultados
+
+das investigações realizadas); e oferece apoio ao ensino da graduação e pós-graduação.
+
+Responsável: professor Itanel Bastos de Quadros Junior.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+8.
+
+1.
+
+2.
+
+Journalism Students Project: A pesquisa Journalism Students around the Globe é um
+
+prolongamento do projeto internacional -Journalism Students Project (Identidades e Culturas
+
+Profissionais), encerrado em 2013, da qual a professora Claudia Quadros participou por meio do
+
+Grupo JORXXI. No Brasil, o projeto Joumalism.Students around the Globe tem a coordenação
+
+geral da UNB. A professora Claudia Quadros, do PPGCOM-UFPR, foi convidada para coordenar
+
+as pesquisas no. Brasil como vice-líder do Grupo de Pesquisa transnacional Journalism Students
+
+across the Globe - Grupo Brasileiro. O projeto de pesquisa envolve pesquisadores de quase trinta
+
+países. Entre eles, Brasil, Canadá, Chile, Estados Unidos e México. Hoje, também participam
+
+desta pesquisa as seguintes instituições Unisc, PUC-MG, PUC-GO, UnB, UFRN, UFPR, UEPG,
+
+Ufam, Unesp, FIAM-FAAM , Iesb (DF). A partir da aplicação de um questionário - e que pode ser
+
+complementado com outras metodologias de pesquisa - busca analisar o perfil, valores e
+
+representações dos estudantes de jornalismo de diferentes países (são quase 30 nesta segunda
+
+edição). No Brasil, a amostra é constituída de cursos de Jornalismo de Instituições Públicas e
+
+Privadas distribuídas nas cinco regiões do país. Os resultados da pesquisa serão desdobradas
+
+em análises de abrangência institucional, regional nacional e transnacional. A coordenação
+
+internacional do grupo é de responsabilidade dos professores Claudia Mellado (Universidad de
+
+Santiago, Chile) e Folker Hanusch (Queensland University of Technology, Australia). Na UFPR,
+
+também participa da pesquisa o professor Mário Messagi Junior.
+
+CONVÊNIOS INSTITUCIONAIS
+
+O curso de Jornalismo da Universidade Federal do Paraná, ao longo de sua história, sempre manteve
+
+convênios com diversas instituições brasileiras e estrangeiras de ensino. A seguir os convênios.
+
+Universidade de Poitiers : O. Departamento de Comunicação Social firmou desde 2009 dois
+
+convênios internacionais com instituições francesas. O primeiro deles é o convênio firmado com a
+
+Universidade de Poitiers que fica na cidadeuniversitária de Poitiers, na França. Através desse
+
+convênio, o Decom passou a integrar o conjunto de instituições que contribuem de alguma forma
+
+para o Euromime - um máster na área de tecnologias Educacionais. O Euromime, além do curso
+
+máster que seleciona anualmente alunos de todo o mundo, é o único da rede Erasmus Mundus,
+
+cuja língua oficial não é o inglês e sim o francês, o português e o espanhol. Por meio desse
+
+convênio, o Decom participa de uma pesquisa sobre uso de tecnologias nas escolas, denominado
+
+Mimetec.
+
+Universidade de Grenoble O segundo convênio internacional do Departamento de Comunicação
+
+Social foi firmado com a Universidade de Grenoble, também na França, e prevê o intercâmbio de
+
+alunos e professores para participar dos cursos de graduação e pós-graduação em Comunicação
+
+nas duas instituições. A primeira aluna do Decom a participar do Intercâmbio foi Juliana Wituski,
+
+que ficou em Grenoble por seis meses, em 2010. No segundo semestre de 2012, participou do
+
+convênio outro aluno do Decom, o estudante de Jornalismo André Nunes. Além dessa
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+3.
+
+4.
+
+modalidade de intercâmbio, está sendo discutida a realização de um máster em jornalismo com
+
+professores das duas instituições.
+
+Universidade de Lyon II Desde 2013, o Departamento de Comunicação (Decom) e o Programa de
+
+Pós-Graduação em Comunicação (PPGCom) têm uma parceria internacional com a Université
+
+Lyon II O convênio prevê a realização de intercâmbio de alunos e professores entre as duas
+
+instituições, bem como a realização de seminários, cursos e pesquisas conjuntas, permitindo a
+
+dupla diplomação dos intercambistas, estágios pós doutorais para professores e organização
+
+conjunta de publicações científicas. Todas essas propostas se enquadram nos critérios e normas
+
+estabelecidos pela Assessoria de Relações Internacionais (ARI), responsável pelo projeto de
+
+internacionalização dos programas e cursos da UFPR e internamente são discutidas e
+
+desenvolvidas com o seu apoio, depois de serem amplamente discutidas e aprovadas nos seus
+
+respectivos colegiados. Essa parceria foi iniciada informalmente através da participação do
+
+professor Luís Busato em duas aulas no PPGCOM-UFPR A primeira delas presencial realizada
+
+em dezembro de 2010 e a segunda por melo de videoconferência realizada em malo de 2012. A
+
+partir dessas atividades foi elaborado um projeto de atuação conjunta que começou a ser
+
+viabilizado, inclusive com recursos financeiros específicos das duas instituições. Durante o ano de
+
+2013 foram feitas visitas mútuas de professores das duas instituições em Curitiba e em Lyon o
+
+que resultou na formalização de um Termo Aditivo Específico para o Curso de comunicação
+
+Social ao Convênio já firmado entre a UFPR e a Universidade de: Lyon II. Em 2014, ações
+
+começaram a ser implementadas por meio da realização de dois seminários acadêmicos, um em
+
+Lyon no mês de Junho, e outro em Foz de Iguaçu, no: mês de setembro nos quais foi
+
+sistematizado um projeto de pesquisa conjunta sobre Novas Práticas Jornalísticas. Além da
+
+pesquisa já em andamento por professores e alunos de e de pós-graduação das duas instituições
+
+foi iniciado o intercâmbio de alunos e professores. Dois alunos do Curso de Jornalismo da UFPR
+
+foram para Lyon a fim de cumprir um semestre de estudos no Master Nouvelles Pratiques
+
+Journalistique, da Université de Lyon. No mesmo período, uma professora e pesquisadora da
+
+Universidade de Lyon II veio para a UFPR para participar do grupo de pesquisa ligado ao
+
+convênio, bem como participar do grupo em Comunicação, além de um Seminário para o
+
+Programa de, Mestrado em Comunicação. Na sequência, o Convênio prevê a vinda de dois
+
+alunos franceses para o Curso de Comunicação da UFPR e a ida de uma professora da UFPR
+
+para a Universidade de Lyon II, onde fará um: pós-doutorado, além de ministrar uma disciplina
+
+para os alunos daquela instituição consolidando assim as políticas de intercâmbio traçadas. As
+
+atividades previstas neste convênio contemplam as metas de internacionalização da UFPR e
+
+estão submetidas as suas regras internas.
+
+Convênio de Maputo O Departamento de Comunicação da Universidade Federal do Paraná
+
+(UFPR) desenvolve atualmente um projeto de intercâmbio acadêmico dentro do programa
+
+Associação das Universidades de Língua Portuguesa (AULP) financiado pela Capes e
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+coordenado pelo professor doutor Toni André Scharlau Vieira. Este projeto propõe por meio dos
+
+eixos educacional, comunicacional e energético uma pesquisa-ação estratégica. Trata-se de uma
+
+experiência inovadora, oportunizando o aperfeiçoamento técnico, científico e metodológico do
+
+grupo de Moçambique e uma imersão do grupo brasileiro na realidade da universidade, das
+
+comunidades escolares da cidade de Maputo, e de forma paralela desenvolvendo a pesquisa
+
+científica e atuando nov cotidiano dos cidadãos moçambicanos. O trabalho reúne UFPR, através
+
+do Programa de Pós-! Graduação em Educação (PPGE), do Departamento de Comunicação
+
+(Decom), do Núcleo de comunicação e Educação Popular (NCEP), do Programa de
+
+PósGraduação em Meio Ambiente e Desenvolvimento (Made) com o apoio da Cátedra da Unesco
+
+para o Desenvolvimento Sustentável no Brasil e a Universidade Eduardo Mondlane, em Maputo,
+
+Moçambique. Por meio do Departamento de Comunicação Social, propõem-se a integração entre
+
+os dois países através de projetos transdisciplinares envolvendo os seguintes eixos a educação
+
+para relações etnicorraciais, a educomunicação e a educação sustentável para a questão
+
+energética. ESTÁGIO CURRICULAR
+
+Entende-se como estágio, especificamente, os estudos e práticas supervisionadas em atividades externas
+
+à instituição, ou em unidades da UFPR em que se caracterize a produção jornalística. Difere portanto, dos
+
+demais instrumentos para relacionamento do estudante com as realidades sociais, econômicas e culturais,
+
+bem como daqueles de iniciação à pesquisa e ao ensino.
+
+A regulamentação do estágio segue as normas estabelecidas nas novas diretrizes curriculares de
+
+Jornalismo. Estão previstas para o curso duas modalidades de estágio: obrigatório e não obrigatório. A
+
+íntegra do regimento pode ser encontrada neste documento. TRABALHO DE CONCLUSÃO
+
+No Trabalho de Conclusão de Curso (TCCJor) deve ser demonstrada a aplicação dos conhecimentos
+
+adquiridos durante a formação acadêmica, de maneira concreta através da elaboração de um projeto
+
+específico desenvolvido de forma a evidenciar capacidade criadora, organização, conhecimento e
+
+emprego, de metodologia científica, de técnicas e materiais, domínio das formas de investigação
+
+bibliográfica e de documentação, pesquisa de campo, redação e apresentação final adequada do projeto.
+
+O Trabalho de Conclusão de Curso serve para avaliar de forma prática se o aluno, uma vez formado tem
+
+condições de ingressar no mercado de trabalho, e ainda apresenta condições de realizar reflexão teórica
+
+e/ou crítica da atividade profissional. A disciplina de TCCJor segue as diretrizes curriculares e é
+
+regulamentado pelo Regimento Geral para TCC do curso e o Regimento específico pode ser encontrado
+
+na página 96 desse documento. (PPC) EXTENSÃO
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+A linha de formação na extensão no currículo de Jornalismo é composta de disciplinas de naturezas
+
+diferentes e de creditação de atividades extensionistas fora de disciplinas. Não há disciplinas parciais, cuja
+
+parte da carga seja creditada como extensão. Esta escolha evita a falta de clareza entre o que é extensão
+
+e o que é atividade de ensino padrão numa disciplina.
+
+A linha de formação extensionista no curso de Jornalismo começa pela disciplina de Introdução à
+
+extensão. Oferecida de forma concentrada, na primeira semana do segundo semestre letivo, tem como
+
+objetivo a discussão de princípios norteadores da extensão universitária, desde seu processo de
+
+desenvolvimento histórico e social, até a contemporaneidade. O debate parte da compreensão do tripé
+
+formativo da universidade: ensino, pesquisa e extensão e aprofunda as modalidades extensionistas.
+
+Busca abordar as áreas de carências sociais, culturais e comunicacionais como cenários para a extensão
+
+universitária, bem como estimular a realização de atividades de extensão de modo crítico em relação às
+
+questões comunicacionais, situando-as no contexto das necessidades contemporâneas. Com isso, o curso
+
+pretende possibilitar a compreensão teórica e prática da atividade de extensão universitária e o
+
+desenvolvimento da capacidade de elaborar e executar um projeto dessa natureza, focado na área de
+
+comunicação social ou no desenvolvimento de atividades de comunicação em projetos afins. Além de
+
+refletir sobre os desafios da comunicação em projetos de extensão universitária, a disciplina apresenta
+
+programas e projetos em andamento e dá suporte para a elaboração e a execução de ações
+
+extensionistas. Tais ações podem ser propostas pelos estudantes como atividade da disciplina ou
+
+incluídas a partir da participação em projetos em funcionamento.
+
+A partir deste primeiro momento, os alunos e as alunas serão incluídos em projetos de extensão da UFPR,
+
+alguns de comunicação, mas a maioria de outras áreas. Por duas disciplinas, - Projeto de extensão em
+
+Comunicação e Projeto de Extensão II – os discentes participarão de atividades extensionistas sob
+
+supervisão docente e serão avaliados tanto pelo professor do curso de Jornalismo quanto pelos
+
+coordenadores dos projetos aos quais se vincularam. Até o final do terceiro semestre, a carga total de
+
+extensão integralizada será de 135 horas/aula.
+
+As disciplinas orientadas de creditação da extensão visam mostrar aos discentes a diversidade da
+
+extensão e permitir vivências múltiplas, supondo que a formação extensionista não se dá apenas pela
+
+realização de atividades estritamente comunicacionais. Mais que uma formação profissional, a extensão
+
+no curso de Jornalismo visa uma formação cidadão, uma ampliação do horizonte social dos alunos e das
+
+alunas, visando inclusive modificar a sua atuação profissional futura, para que seja mais sensível às
+
+demandas sociais reais, ao mundo amplo de demandas onde a extensão da UFPR atua.
+
+Já a partir do quarto semestre os alunos desenvolveriam atividades de extensão que seriam creditadas
+
+como Atividades curriculares de extensão de forma mais autônoma. Esta maior autonomia será fruto do
+
+amadurecimento com a participação orientada nas disciplinas precedentes. Os alunos e as alunas
+
+poderão, inclusive, continuar nos projetos do UFPR nos quais já estão inseridos, propondo novas
+
+atividades ou não ou formulando linhas auxiliares de ação e eventualmente até novos projetos em
+
+programas de extensão.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+1.
+
+Devem completar com estas atividades, entre outras possíveis como participação em eventos de
+
+extensão, a carga de 195 horas/aula, totalizando assim as 330 horas/aula da extensão.
+
+A linha da extensão fica desta forma:
+
+Grupos de Extensão
+
+O núcleo de comunicação e Educação Popular (NCEP) foi criado como projeto de extensão em
+
+fevereiro de 2003, por iniciativa dos alunos de Comunicação Social da Universidade Federal do
+
+Paraná que buscavam uma maior inserção do comunicador Social nos movimentos sociais e
+
+populares. O projeto é coordenado por um professor. de Jornalismo e promove a democratização
+
+dos meios de comunicação. A Gestão 2009/2010 conta com uma equipe / de três professoras-
+
+orientadoras e nove graduandos de Comunicação Social, dentre bolsistas e voluntários que por
+
+meio de uma metodologia participativa, se dividem para fazer do NCEP um projeto com três
+
+linhas de atuação: a de educação para os meios, realizada em escolas públicas de ensino médio
+
+e fundamental; a de assessoria para elaboração. de programas ou produtos que envolvam o
+
+conhecimento específico da área de comunicação, como a produção de programas de rádio e TV
+
+e elaboração de informativos impressos e online; é finalmente, uma terceira que é a de pesquisa
+
+e incentivo à discussão interna (para alunos do curso) e externa (para a comunidade) do papel e
+
+do sentido Social dos meios de comunicação na atualidade e sua relação com o exercício da
+
+cidadania. Cada uma dessas linhas de atuação faz do NCEP um núcleo com projetos integrados,
+
+garantindo a qualidade e clareza suas atividades objetivos. Promover a reflexão sobre o sentido
+
+dos meios de comunicação de massa; desenvolver programas de educação para os meios nas
+
+escolas públicas, para alunos e professores, assessorar movimentos populares e sociais para a
+
+criação de programas de rádio ou de televisão, informativos impressos e online; desenvolver a
+
+capacitação para a produção de canais de comunicação; produzir referencial teórico para
+
+subsidiar tais ações; compartilhar o referencial teórico e as experiências via web site do núcleo.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Quando Atividade Modalidade CH
+
+Primeira semana do 2º semestre Introdução à extensão Disciplina 15
+
+2º semestre Participação em projeto de extensão Disciplina 60
+
+3º semestre Participação em projeto de extensão Disciplina 60
+
+4º semestre
+
+Participação em projeto de extensão em atividades já previstas ou em novas propostas pelos alunos, em grupos de no mínimo 3
+
+Atividades curriculares de extensão 195
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+2.
+
+3.
+
+Coordenador geral: professor Toni. André Scharlau Vieira. Link: www.ncep.ufpr.br
+
+Acervo audiovisual Arte em Vídeo: A Proposta do Projeto de Extensão Ampliação e Difusão do
+
+Acervo Audiovisual Arte em Vídeo na UFPR é de geração de acervo em vídeo na área de Artes
+
+Visuais e se realiza de forma interdepartamental, entre os Departamentos de Comunicação Social
+
+(Decom) e o Departamento de Artes (Deartes). Como foco do projeto estão a produção e o
+
+registro em vídeo de eventos como palestras, mesas redondas debates, exposições, visita a
+
+ateliês, ações poéticas é outras atividades relacionadas à pesquisa e ao trabalho na área de Artes
+
+Visuais. Por meio dos materiais produzidos nó Projeto, pretende-se incentivar a compreensão da
+
+produção artística contemporânea; fornecer material de apoio e de pesquisa às: atividades, a
+
+didáticopedagógicas na UFPR; maximizar os resultados dos eventos, permitindo que seus
+
+conteúdos sejam vistos várias. vezes e segundo diversas formas de utilização como, material de
+
+apolo pedagógico, consulta in loco ao acervo e exibição de algumas produções na UFPR TV. O
+
+projeto conta com dois, alunos bolsistas do DECOM e a metodologia de trabalho é a relativa a
+
+uma produção audiovisual (pré-produção; produção; edição e finalização do material bruto). Após
+
+essas etapas, os materiais são catalogados e incluídos no acervo já existente do Projeto,
+
+localizado no Laboratório de Multimeios, do Departamento de Artes e ficam à disposição da
+
+comunidade acadêmica interna à UFPR e, também ao público externo de estudantes,
+
+pesquisadores e demais interessados. Atualmente, o projeto conta com mais de cem produções,
+
+realizadas com artistas do Paraná, do Brasil e também, do exterior. Além da geração de acervo e
+
+de preservação da memória na área de Artes Visuais as produções já serviram de fonte de
+
+pesquisa para monografias de alunos de graduação e também para uma tese de doutorado.
+
+Coordenador: Técnico e professor Luís Carlos dos Santos. Vice-Coordenador Prof. Carlos Alberto
+
+Martins da Rocha.
+
+A Prattica - Agência Experimental de Relações Públicas é um projeto de extensão do
+
+Departamento de Comunicação Social (Decom), supervisionado e coordenado por um professor
+
+da habilitação Relações Públicas A agência é um local de pesquisa e extensão e seu principal
+
+objetivo é proporcionar aos estudantes de Jornalismo Relações Públicas e Publicidade e
+
+Propaganda o desenvolvimento prático daquilo que é apreendido em sala de aula. A agência atua
+
+em parceria com o Departamento de Comunicação, desenvolvendo atividades de pesquisas,
+
+mapeamento de públicos, planos de comunicação e organização de eventos, tornando-se assim
+
+referência na prestação de tais serviços. Na condição de agência experimental, a Prattica não
+
+visa obtenção de lucro, sendo a UFPR sua principal beneficiada. Seus projetos prioritários devem
+
+atender em primeira instância a própria universidade, podendo também atender clientes externos.
+
+Objetivo: Dar subsídios para que os alunos desenvolvam atividades pertinentes às atividades de
+
+Relação Públicas e suas interfaces, assegurando a relação teoria e prática. Coordenador: Cláudia
+
+Quadros.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+\4. Projeto de Extensão: Mídia, Espaço Público e Educação: o projeto é coordenado por um
+
+professor do Departamento de Linguística que atua no Departamento de Comunicação Social e
+
+visa estabelecer uma relação entre temas e perspectivas colocados: em circulação no espaço
+
+publico através das mídias e conteúdos ministrados nas disciplinas dos ensinos médio e
+
+fundamental. A atividade, no âmbito do projeto, consiste em levantar sistematicamente esses
+
+elementos em circulação na mídia, identificando o teor de sua recepção pelo público, e discutir de
+
+que modo eles podem ser inseridos entre os tópicos veiculados nas disciplinas escolares. O
+
+objetivo é recuperar, no âmbito do ensino, uma noção de constituição do cidadão a partir de seu
+
+interesse e participação nos acontecimentos do ambiente em que ele vive. Esse trabalho é
+
+conduzido através de reuniões regulares, realizadas duas vezes por mês, da qual participam
+
+professores da rede pública, dos sistemas estadual e municipal de ensino, e estudantes da UFPR
+
+de diversos cursos, como Letras, Jornalismo, Relações Públicas, Publicidade e Propaganda e
+
+outras. Objetivo: O objetivo do projeto é inserir conteúdos midiáticos de forma sistematizada em
+
+disciplinas do ensino médio e fundamental, como componente do letramento e da educação,
+
+contribuindo para a motivação do aluno e para a sua formação como cidadão inserido numa
+
+comunidade de diálogo identificada como o espaço público. O link do: projeto (já alocado, mas
+
+ainda não em funcionamento) é www deixis.org Coordenador Bruno Dallari.
+
+MATRIZ CURRICULAR
+
+As disciplinas se distribuem segundo orientação normativa das novas diretrizes curriculares, evidenciando
+
+os seis eixos de formação sugeridos: Eixo de fundamentação humanística (capacitar o jornalista a
+
+exercer a sua função intelectual de produtor e difusor de informações e conhecimentos de interesse para a
+
+cidadania). Integram este eixo as seguintes disciplinas: História Contemporânea, Oficina de Redação,
+
+Leituras em filosofia, Leituras em Sociologia, Ciências Sociais e Comunicação, Pesquisa em Comunicação
+
+I, História da Arte e Comunicação e cidadania. Eixo de fundamentação específica (proporcionar ao
+
+jornalista clareza conceitual e visão crítica sobre a especificidade de sua profissão). Integram este eixo as
+
+seguintes disciplinas: Introdução ao Jornalismo, Teorias do Jornalismo I, Teorias do Jornalismo II,
+
+Planejamento Editorial e Gráfico, Jornalismo investigativo e de dados, Seminário de pesquisa: pré-projeto
+
+em jornalismo. Eixo de fundamentação contextual (embasar o conhecimento das teorias da
+
+comunicação, informação e cibercultura). Integram este eixo as seguintes disciplinas: Economia Política
+
+da Comunicação, História da Comunicação, Teorias da Comunicação I, Antropologia: comunicação e
+
+cultura, Comunicação e Linguagem, Comunicação e Tecnologia, Pesquisa em Comunicação II, Teorias da
+
+Comunicação II. Eixo de formação profissional (embasar o conhecimento teórico e prático,
+
+familiarizando os estudantes com o universo dos processos de gestão, produção, métodos e técnicas de
+
+apuração, redação e edição jornalística). Integram este eixo as seguintes disciplinas: Fundamentos de
+
+Fotografia, Fundamentos de comunicação sonora, Fundamentos de comunicação visual, Fundamentos de
+
+comunicação audiovisual, Radiojornalismo, Telejornalismo, Fotojornalismo, Projeto de assessoria de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+comunicação. Eixo de aplicação processual (proporcionar ao jornalista ferramentas técnicas e
+
+metodológicas, garantindo coberturas em diferentes suportes). Integram este eixo as seguintes disciplinas:
+
+Redação Jornalística I, Redação Jornalística II, Redação Jornalística III, Introdução à Extensão, Projeto de
+
+Extensão I, Projeto de Extensão II e Projeto jornalístico. Eixo de prática laboratorial (desenvolver
+
+conhecimento e habilidades inerentes à profissão a partir da aplicação de informações e valores,
+
+integrando os demais eixos). Integram este eixo as seguintes disciplinas: Laboratório de Jornalismo I –
+
+web, Laboratório de Jornalismo II – web e impresso, Laboratório de Radiojornalismo I, Laboratório de
+
+Radiojornalismo II, Laboratório de Telejornalismo I, Laboratório de Jornalismo III – Impresso e revista,
+
+Laboratório de Telejornalismo II, Laboratório Multimídia de Jornalismo I, Laboratório Multimídia de
+
+Jornalismo II.
+
+11.5 MATRIZ CURRICULAR POR EIXO
+
+EIXO I - Fundamentação Humanística
+
+\* Estas disciplinas podem ser adiantadas mediante exame em conformidade com a Resolução 92/13-
+
+CEPE.
+
+EIXO II - Fundamentação Específica
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Disciplina CH Sem. CH Total Semestre
+
+História Contemporânea 4 60 1º.
+
+Oficina de Redação * 4 60 1º.
+
+Leituras em Filosofia* 2 30 1º.
+
+Leituras em Sociologia* 2 30 2º.
+
+Ciências Sociais e Comunicação 4 60 3º.
+
+Pesquisa em Comunicação I 2 30 4º.
+
+História da Arte 4 60 4º.
+
+Comunicação e Cidadania 2 30 5º.
+
+Total 24 360
+
+Disciplina CH Sem. CH Total Semestre
+
+Introdução ao Jornalismo 2 30 1º.
+
+Projeto Editorial e Gráfico 4 60 3º.
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+EIXO III - Fundamentação Contextual
+
+EIXO IV - Formação profissional
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Teorias do Jornalismo I 4 60 4º.
+
+Teorias do Jornalismo II 4 60 5º.
+
+Jornalismo Investigativo e de Dados 4 60 6º.
+
+Seminário de Pesquisa: pré-projeto em Jornalismo
+
+2 30 6º.
+
+Total 20 300
+
+Disciplina CH Sem. CH Total Semestre
+
+Economia Política da Comunicação 2 30 1º.
+
+História da Comunicação 2 30 2º.
+
+Teorias da Comunicação I 4 60 3º.
+
+Antropologia: Comunicação e Cultura 2 30 3º.
+
+Comunicação e Linguagem 2 30 4º.
+
+Comunicação e Tecnologia 2 30 5º.
+
+Pesquisa em Comunicação II 2 30 5º.
+
+Teorias da Comunicação II 4 60 6º.
+
+Total 20 300
+
+Disciplina CH Sem. CH Total Semestre
+
+Fundamentos de Fotografia* 2 30 1º.
+
+Fundamentos de Comunicação Sonora* 2 30 1º.
+
+Fundamentos de Comunicação Visual* 2 30 2º.
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+\* Estas disciplinas podem ser adiantadas mediante exame em conformidade com a Resolução 92/13-
+
+CEPE.
+
+EIXO V - Aplicação Processual
+
+EIXO VI - Prática Laboratorial
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Fundamentos de Comunicação Audiovisual*
+
+2 30 2º.
+
+Telejornalismo 4 60 3º.
+
+Radiojornalismo 4 60 2º.
+
+Fotojornalismo 4 60 2º.
+
+Projeto de Assessoria de Comunicação 4 60 5º.
+
+Total 24 360
+
+Disciplina CH Sem. CH Total Semestre
+
+Redação Jornalística I 4 60 1º.
+
+Redação Jornalística II 4 60 2º.
+
+Redação Jornalística III 4 60 3º.
+
+Introdução à Extensão 1 15 1º
+
+Projetos de Extensão I 4 60 2º
+
+Projetos de Extensão II 4 60 3º
+
+Projeto Jornalístico 4 60 6º.
+
+Total 25 375
+
+Disciplina CH Sem. CH Total Semestre
+
+Laboratório de Jornalismo I - web 4 60 3º.
+
+Laboratório de Jornalismo II – web e impresso
+
+4 60 4º.
+
+Laboratório de Radiojornalismo I 4 60 4º.
+
+Laboratório de Radiojornalismo II 4 60 5º.
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+11.6 ORGANIZAÇÃO CURRICULAR – CARGA HORÁRIA
+
+São acrescidas 200 horas de estágio supervisionado (segundo as diretrizes a carga mínima é de 200
+
+horas), mais 315 horas de atividades complementares e ACE, outras 300 horas de TCC (o que totaliza
+
+3.230 horas para a carga horária curricular), ultrapassando em 30 horas o que estabelecem as diretrizes
+
+(3.200 horas para integralização curricular).
+
+11.7 JUSTIFICATIVA PARA A CARGA DOS EIXOS
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+Laboratório de Telejornalismo I 4 60 4º.
+
+Laboratório de Jornalismo III – Impresso e revista
+
+4 60 5º.
+
+Laboratório de Telejornalismo II 4 60 5º.
+
+Laboratório Multimídia de Jornalismo I 4 60 6º.
+
+Laboratório Multimídia de Jornalismo II 4 60 7º.
+
+Total 36 540
+
+Organização Curricular CH Sem CH Total
+
+Fundamentação Humanística 24 360
+
+Fundamentação Específica 20 300
+
+Fundamentação Contextual 22 300
+
+Formação Profissional 24 360
+
+Aplicação Processual 25 375
+
+Prática Laboratorial 36 540
+
+Estágio 16 200
+
+Atividades Complementares + ACE 21 315
+
+TCC 16 300
+
+Optativas 12 180
+
+Total 214 3230
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+As diretrizes curriculares, no seu artigo 9º, diz: “Art. 9º A organização curricular deverá valorizar o
+
+equilíbrio e a integração entre teoria e prática durante toda a duração do curso, observando os seguintes
+
+requisitos: I - carga horária suficiente para distribuição estratégica e equilibrada dos eixos curriculares e
+
+demais atividades previstas;”.
+
+Tais disposições também estavam contidas no relatório da comissão de especialistas, com a seguinte
+
+redação: “É valorizada a equidade entre as cargas horárias destinadas a cada um dos eixos de formação
+
+(400 horas para cada eixo, em média)” (p. 21).
+
+Quase todos os eixos do currículo proposto cumprem tal orientação. Fundamentação Humanística e
+
+Aplicação Processual tem, cada um, 360 e 435 horas respectivamente. A Fundamentação Contextual,
+
+Fundamentação Específica e Formação Profissional estão com 300 horas cada. Este pequeno
+
+desequilíbrio se deve, em parte, à creditação da extensão, posterior ao começo deste projeto pedagógico,
+
+acrescentou carga ao eixo de Aplicação Processual, como consequência de uma determinação do
+
+Conselho Federal de Educação. Por outro lado, a manutenção de um aspecto do atual currículo, a
+
+flexibilização através das disciplinas optativas, é responsável por outra parte deste pequeno desequilíbrio.
+
+São 180 horas dedicadas a elas e, sendo optativas, cabe aos alunos escolherem o que vão cursar,
+
+conforme seus interesses. As optativas recaem, usualmente, em disciplinas de quatro eixos:
+
+Fundamentação Humanística, Fundamentação Específica, Fundamentação Contextual e Formação
+
+Profissional. Não convém, sendo uma parte flexível do currículo, determinar em qual eixo o aluno vai fazer
+
+sua formação optativa, pois isso seria restrição à flexibilidade, também valorizada nas diretrizes. Um
+
+jornalista lida com assuntos muito diferentes: economia, cultura, política, gastronomia, esportes, etc.
+
+Assim, cabe ao aluno fazer escolhas em função da área em que pretende atuar.
+
+Para preservar a flexibilidade com as optativas, alguns eixos ficaram um pouco abaixo, mas consideramos
+
+que, em média, os alunos irão cursar 60 horas de optativas em cada eixo, o que eleva a média de
+
+disciplina para 420 e 360 nos quatro eixos citados, dentro do que definem as diretrizes: “distribuição
+
+equilibrada” e “400 horas, em média”.
+
+No caso do eixo aplicação processual, há uma subvalorização da carga. Isto se explica pois este eixo é a
+
+aplicação de conhecimentos profissionais, como as competências redacionais que um jornalista deve ter.
+
+O NDE de jornalismo considera que não faz sentido que competências como a redação de um texto
+
+jornalístico sejam aprendidas teoricamente numa disciplina e praticadas em outra. Isto leva ao contrário do
+
+que pretendem as diretrizes: a separação entre teoria e prática, o reforço desta falsa dicotomia. Por isso,
+
+os eixos de formação profissional e de aplicação processual, no nosso entendimento, deveriam ser
+
+apenas um. De fato, muitas disciplinas destes eixos têm características semelhantes, devendo, para todos
+
+os efeitos, se considerar que, em média já com as optativas, um aluno vai realizar 720 horas nos dois
+
+eixos, ou cerca de 360 horas para cada, dentro do que preconizam as diretrizes quanto ao equilíbrio.
+
+No caso do eixo mais relevante do currículo, em termos de carga (prática laboratorial, com 540
+
+horas/aula), há outras explicações. Se, por um lado, é recomendado que cada eixo tenha, em média, 400
+
+horas, por outro o artigo 9º recomenda: “II - distribuição das atividades laboratoriais, a partir do primeiro
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+semestre, numa sequência progressiva, até a conclusão do curso, de acordo com os níveis de
+
+complexidade e de aprendizagem”. O artigo 6º define o que são atividades laboratoriais: “Possui a função
+
+de integrar os demais eixos, alicerçado em projetos editoriais definidos e orientados a públicos reais, com
+
+publicação efetiva e periodicidade regular, tais como: jornal, revista e livro, jornal mural, radiojornal,
+
+telejornal, webjornal, agência de notícias, assessoria de imprensa, entre outros”. Ou seja, as laboratoriais
+
+são veículos ou atividades de comunicação para público real, produzidos pelos alunos, sob supervisão de
+
+professores. A lista das diretrizes contém 9 (nove) produtos e não lista fotojornalismo e jornalismo
+
+transmídia. Tudo isso, distribuído em 8 (oito) semestres, com 400 horas/aula (média de 50 por semestre).
+
+Some-se a isso que, num único veículo (jornal impresso, por exemplo), há múltiplas competências (pauta,
+
+reportagem e redação, edição, diagramação, fotografia) e a missão se torna praticamente impossível.
+
+A organização das laboratoriais em jornalismo da UFPR pretende enfrentar o processo de convergência
+
+de mídia e permitir a vivência de todas as áreas fundamentais aos alunos, mas nem todas as
+
+recomendações foram adotadas. Primeiro, a distribuição em todos os semestres significaria que os alunos
+
+estariam escrevendo para publicar já no primeiro semestre, sem ter tido nenhuma formação prévia e/ou
+
+sem ter escrito antes em ambiente simulado, para professores. Temerário para a qualidade do que o curso
+
+publica mas, sobretudo para o aluno, lançado ao espaço público sem nenhum preparo prévio para isso.
+
+Neste caso, adiantamos todas as disciplinas que formam a capacidade para as laboratoriais para um
+
+semestre antes da própria prática laboratorial. Redação jornalística antes de laboratório online; redação e
+
+produção em telejornalismo antes de laboratório de telejornalismo etc. Assim sendo, o começo mais
+
+adiantado possível para as laboratoriais é no segundo semestre. Por outro lado, houve uma valorização do
+
+TCC e a introdução do estágio nas novas diretrizes e, por isso, encerramos as atividades laboratoriais no
+
+sétimo semestre para que o aluno possa se dedicar no oitavo ao final do seu curso e à entrada no
+
+mercado de trabalho.
+
+Além disso, o curso tem a obrigação de manter produtos laboratoriais funcionando durante todo o ano,
+
+cultivando uma relação real com o público. Um jornal on line que funcionasse apenas um semestre não
+
+cumpriria um dos papeis fundamentais das laboratoriais: colocar o aluno em ambiente real de produção
+
+jornalística. Assim, o telejornal, o radiojornal, o jornal impresso, o jornal on line, a agência de notícias,
+
+todos devem funcionar o ano todo. O único veículo do currículo que funciona por apenas um semestre é a
+
+revista, pelo seu caráter não-factual, com pautas frias.
+
+Resolver tudo isso e dar conta da convergência em 540 horas/aula é bastante razoável. Assim, a
+
+organização das laboratoriais ficou da seguinte maneira:
+
+1º semestre: Redação jornalística I prepara para a primeira laboratorial;
+
+2º semestre: Laboratório de Jornalismo I – web (redação de texto de caráter informativo para o jornal on
+
+line). Radiojornalismo prepara para a laboratorial de rádio. Fotojornalismo prepara para a produção de
+
+imagens para impresso e on line e antecede a disciplina de Telejornalismo, onde o conhecimento de
+
+fotografia é relevante. Redação jornalística II prepara para a laboratorial seguinte de jornal impresso.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+3º semestre: Laboratório de Jornalismo II – web e impresso (produção de reportagens para o jornal
+
+impresso e para o on line) e Laboratório de Radiojornalismo I (produção de reportagens para o radiojornal
+
+laboratório). Neste semestre já é possível experimentar coberturas que envolvam produção de conteúdos
+
+sonoros e escritos com base na mesma pauta, já dando início à formação transmídia. Telejornalismo
+
+prepara para a laboratorial de TV. Redação Jornalística III prepara para a laboratorial de jornalismo de
+
+revista.
+
+4º semestre: Laboratório de Radiojornalismo II e Laboratório de Telejornalismo I (produção de
+
+reportagens para os veículos laboratoriais de rádio e TV) e Laboratório de Jornalismo III – Impresso e
+
+revista (nesta, os alunos deixam de produzir obrigatoriamente para o on line, mas os conteúdos podem ser
+
+aproveitados pelo veículo). Neste semestre, os repórteres podem ser pautados para produzir jornalismo
+
+transmídia integralmente convergindo sonoridade, audiovisual, texto e fotografia.
+
+5º semestre: Laboratório de telejornalismo II (segundo semestre de produção para TV). Projeto Editorial e
+
+Gráfico prepara os alunos para assumirem funções editoriais no on line e no impresso.
+
+6º e 7º semestres: Laboratório multimídia I e II. Nestas disciplinas, a convergência e especialização de
+
+funções se realizam. Os alunos pautam, editam e fecham os veículos, de forma integrada, inclusive com
+
+pautas convergentes. Funções especializadas, como editor de fotografia, surgem bem como editores-
+
+chefe e diagramadores. Parte do conteúdo é distribuído pela agência do curso.
+
+Note-se que todos os veículos, exceto revista, funcionam por dois semestres, que a partir do terceiro eles
+
+passam a produzir conteúdo convergente e a partir do sexto os alunos passam a exercer funções
+
+editoriais de chefia.
+
+Assim, mantivemos o objetivo das diretrizes, ainda que seus dispositivos não sejam preservados. As
+
+laboratoriais só começam no segundo semestre a e carga chega a 540 horas. De qualquer forma, seria
+
+impossível manter a carga em 400 horas/aula. E também imprevidente começar no primeiro semestre
+
+expondo o aluno, sem formação alguma, ao escrutínio do público. Por fim, ressaltamos que a ausência de
+
+laboratorial no oitavo semestre se deve, sobretudo, à experiência nos últimos anos na UFPR. Neste
+
+momento, o aluno está com a cabeça voltada para outras prioridades: terminar o curso e ingressar no
+
+mercado, tendência que vai se acentuar com o estágio. As laboratoriais acabam ficando em segundo
+
+plano. É isto que pretendemos evitar antecipando o fim deste eixo em um semestre. REPRESENTAÇÃO GRÁFICA DA MATRIZ CURRICULAR
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+•
+
+•
+
+•
+
+•
+
+PARTE 2 - ANEXOS ANEXO I - REGULAMENTO DO PROGRAMA DE ORIENTAÇÃO ACADÊMICA
+
+Entende-se a orientação acadêmica - como fundamental para o processo de ensino-aprendizagem tendo
+
+em vista: a sua contribuição para a melhoria do fluxo acadêmico permitindo o acompanhamento dos
+
+alunos desde o seu ingresso na instituição até a integralização do currículo de seu curso.
+
+A orientação acadêmica permite uma reflexão aprofundada sobre o desenvolvimento das atividades de
+
+ensino, pesquisa e extensão inerentes à trajetória dos alunos e possibilita a tomada de decisão - quanto
+
+às medidas a serem tomadas frente aos fatores institucionais e pessoais que interferem no cotidiano da
+
+vida acadêmica dos discentes e ocasionam retenção e evasão.
+
+O objetivo geral do Projeto de Orientação Acadêmica do Curso de Jornalismo é a promoção da - melhoria
+
+do desempenho acadêmico de seus discentes mediante o acompanhamento e orientação por parte de
+
+todos os docentes do curso.
+
+Entre os objetivos específicos destacam-se:
+
+Viabilizar a integração do aluno ingressante ao contexto universitário;
+
+Orientar o percurso discente quanto ao currículo do curso e às escolhas a serem feitas;
+
+Desenvolver a autonomia e o protagonismo dos alunos na busca de soluções para os desafios do
+
+cotidiano universitário;
+
+Contribuir para sanar os fatores de retenção e exclusão, identificando problemas e encaminhando
+
+às instâncias pertinentes para as devidas providências.
+
+A implantação, o acompanhamento e a avaliação do processo de orientação acadêmica ficam a cargo do
+
+Colegiado de Curso ou, por sua delegação, de comissão especialmente designada para tal fim, devendo
+
+ser elaborado regulamento específico com base na concepção ora delineada.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+A metodologia utilizada será a composição de grupos de alunos a serem orientados por docentes, ficando
+
+a cargo do Colegiado de Curso a definição da composição numérica dos grupos discentes bem como a
+
+sua forma de distribuição pelos docentes. Haverá uma etapa inicial consistindo na sensibilização e
+
+capacitação dos docentes tutores Na frequência compostos os grupos de orientandos com os respectivos
+
+tutores cada docente tutor elaborará o Plano de Orientação, estabelecendo em conjunto com - os
+
+discentes orientandos as formas de acompanhamento e sua operacionalização, bem como o cronograma
+
+de encontros presenciais, com a periodicidade definida no regulamento A comunicação virtual poderá ser
+
+utilizada como forma complementar de acompanhamento.
+
+O Projeto de Orientação Acadêmica do Curso de Jornalismo será avaliado periodicamente pelo Colegiado
+
+de Curso e/ou Núcleo Docente Estruturante. ANEXO II - REGULAMENTO DE ATIVIDADES FORMATIVAS COMPLEMENTARES
+
+REGIMENTO GERAL DAS ATIVIDADES FORMATIVAS COMPLEMENTARES DO CURSO DE
+
+JORNALISMO DA UFPR
+
+As atividades formativas complementares (extracurriculares) são componentes curriculares que
+
+possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e competências do aluno,
+
+inclusive adquiridas fora do ambiente de ensino e devem ser realizadas sob a supervisão, orientação e
+
+avaliação de docente do curso.
+
+Art. 1.º - Do total de 315 horas, ao longo de sua graduação, o estudante de jornalismo deve cumprir 120
+
+horas em atividades formativas complementares. O restante da carga horária deverá ser cumprida em
+
+ACE III/ACE IV/ ACE V, em conformidade com o que estabelece a Resolução 86/20-CEPE, que dispõe
+
+sobre a creditação das Atividades Curriculares de Extensão nos currículos plenos dos cursos de
+
+Graduação da UFPR.
+
+Parágrafo único A entrega dos documentos comprobatórios de Atividades Formativas Complementares
+
+na coordenação deverá ocorrer simultaneamente com a entrega dos certificados das atividades
+
+curriculares de extensão (ACE III, IV e V), conforme regulamento de extensão.
+
+I - DAS ATIVIDADES FORMATIVAS
+
+Art. 2º. - Entende-se por atividades extracurriculares aquelas que possibilitam ao aluno adquirir
+
+conhecimentos de interesse para sua formação pessoal e profissional, reconhecidos por meio de
+
+avaliação e que constituem um meio de ampliação de seu currículo, com experiências e vivências
+
+acadêmicas internas e/ou externas ao curso.
+
+Art. 3º. - As atividades extracurriculares do Curso de Jornalismo da UFPR são obrigatórias para todos os
+
+alunos e se constituem de atividades acadêmicas diversas.
+
+Art. 4º. - As atividades extracurriculares integram o currículo pleno do curso de graduação, constituindo-se
+
+em elemento indispensável para obtenção do grau correspondente, conforme aponta a legislação vigente,
+
+abrangendo o percentual da carga horária estabelecido pelo projeto pedagógico do curso.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+II - DA FINALIDADE DAS ATIVIDADES EXTRACURRICULARES
+
+Art. 5º. - As Atividades extracurriculares têm a finalidade de enriquecer o processo ensino-aprendizagem,
+
+privilegiando: a complementação da formação social e profissional; as atividades de disseminação de
+
+conhecimentos e prestação de serviços; as atividades de assistência acadêmica e de iniciação científica e
+
+tecnológica; as atividades desenvolvidas no âmbito de programas de difusão cultural.
+
+III - DA AVALIAÇÃO DAS ATIVIDADES EXTRACURRICULARES
+
+Art. 6º. - Na avaliação das atividades extracurriculares serão considerados:
+
+a) a adequação das atividades desenvolvidas com os objetivos do curso;
+
+b) o total de horas dedicadas à atividade;
+
+c) a documentação comprobatória das atividades realizadas.
+
+Art. 7º. - Para fins de aproveitamento e registro no histórico escolar, atividades extracurriculares podem
+
+ser distribuídas entre os seguintes tipos:
+
+a) bolsista de iniciação científica (monitoria) e trabalho devidamente certificados, no limite máximo de 60
+
+horas, ou 50% do total;
+
+b) participação em programas de voluntariado em comunicação, devidamente certificados, no limite
+
+máximo de 40 horas, ou um terço do total;
+
+c) participação em agência júnior e/ou experimental do curso, devidamente certificadas, no limite máximo
+
+de 60 horas, ou 50% do total;
+
+d) estágios profissionais e estágios voluntários devidamente certificados, no limite máximo de 60 horas, ou
+
+50% do total;
+
+e) participação em eventos e congressos em área afim do curso de graduação, devidamente certificados,
+
+até 6 horas por dia, com limite de 30 horas por evento ou congresso e limite máximo de 60 horas, ou 50%
+
+;
+
+f) participação em eventos e congressos de estudantes da área (Enecom, Erecom, Cobrecos e similares)
+
+ou gerais (Congresso da UNE, UPE e da UFPR), devidamente certificados, até 6 horas por dia, com limite
+
+de 30 horas por evento ou congresso e limite máximo de 60 horas, ou 50% do total;
+
+g) produtos de comunicação veiculados, premiados ou selecionados por veículos ou congressos e
+
+encontros regionais ou nacionais, devidamente certificados, em até 5h por trabalho, no limite máximo de
+
+60 horas, ou 50% do total.
+
+h) participação como representante discente em colegiado ou plenária de departamento, com limite de 3
+
+horas por reunião (comprovadas em ata) e limite máximo de 20 horas, ou 20% do total;
+
+i) participação documentada como representante discente em centro acadêmico, com limite máximo de 10
+
+horas, ou 10% do total;
+
+j) intercâmbio como experiência intercultural, com período mínimo de um mês, com carga mensal de 20h,
+
+até o limite máximo de 40 horas, ou um terço do total.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Art. 8º. - Compete ao aluno:
+
+a) informar-se sobre a validade das atividades a serem realizadas;
+
+b) providenciar a documentação que comprove sua participação nas atividades extracurriculares.
+
+Art. 9º. - O Colegiado do Curso de Jornalismo da UFPR estabelece que os pedidos para integralização da
+
+carga horária de atividades extracurriculares serão protocolados na Coordenação do Curso, devidamente
+
+comprovados, para apreciação final em reunião do órgão.
+
+Art. 10º. - Os alunos devem apresentar, à Coordenação de Curso, os pedidos listando todas as atividades
+
+que considerem pertinentes, no entanto a carga horária não poderá ser integralizada com apenas uma
+
+atividade, sendo respeitada a proporcionalidade limite estabelecida na seguinte tabela, que faz referência
+
+ao disposto no Art. 7º deste documento.
+
+Art. 11º – Os casos omissos serão decididos pelo colegiado do curso de Jornalismo. ANEXO III - REGULAMENTO DE ESTÁGIO DO CURSO DE Jornalismo
+
+REGIMENTO GERAL DE ESTÁGIO OBRIGATÓRIO E NÃO-OBRIGATÓRIO DO CURSO DE
+
+JORNALISMO DA UFPR
+
+O objetivo do estágio é oferecer aos alunos oportunidades de aprendizagem em campo para a preparação
+
+profissional do aluno, atendendo ao critério de compatibilidade com a natureza e os objetivos do curso de
+
+Jornalismo, considerando a natureza dos estágios conforme Resolução 46/10-Cepe e Lei Federal 11.788
+
+de 2008.
+
+I – DA CONCEPÇÃO DO ESTÁGIO
+
+Art. 1.º – O estágio é uma atividade que pode proporcionar ao aluno uma experiência acadêmico-
+
+profissional na perspectiva indissociável entre teoria e prática. Nesse contexto, o curso de Jornalismo da
+
+UFPR oferece duas modalidades de estágio, sendo uma curricular supervisionada, de caráter obrigatório,
+
+e uma não-obrigatória, que pode inclusive, ser realizado no exterior.
+
+II – DOS ESTÁGIOS
+
+Art. 2.º – As diretrizes curriculares do Curso de Jornalismo da UFPR reconhecem o estágio não-
+
+obrigatório como atividade opcional para cumprimento de parte das atividades formativas, conforme Art.
+
+2º, §2 da Lei Federal no. 11.788/09 – Lei de Estágios.
+
+Art. 3.º – O estágio curricular supervisionado (obrigatório) é componente obrigatório do currículo, tendo
+
+como objetivo consolidar práticas de desempenho profissional inerente ao perfil do formando e será
+
+ofertado nos períodos finais do curso, com carga horária de 200 horas.
+
+Art. 4.º – O estágio obrigatório exige prévia matrícula (em disciplina específica) e respeito à periodização
+
+estabelecida no currículo em vigor, bem como aos regulamentos homologados pelo Colegiado de curso,
+
+conforme prevê o artigo 2º, parágrafo 3 da Resolução Cepe 46/10.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Parágrafo único: os estudantes, excepcionalmente, poderão validar parte da carga horária não-obrigatória
+
+como obrigatória, nos termos do artigo 3º da resolução 46/10-Cepe, mediante aprovação da COE.
+
+Art. 5.º – O estágio não-obrigatório será concedido ao aluno que tiver cumprido, com aproveitamento, ao
+
+menos 50% da carga horária do curso em disciplinas obrigatórias, respeitando as orientações da categoria
+
+profissional representada pelo Sindicato dos Jornalistas Profissionais do Paraná. O requerente deverá
+
+indicar em documento específico de Solicitação a COE (modelo em anexo, disponibilizado pela
+
+coordenação) as disciplinas cursadas ou em curso no referente semestre, as quais fundamentam as
+
+atividades previstas no plano de estágio.
+
+Parágrafo único: excepcionalmente, o estágio poderá ser realizado por alunos de terceiro período em
+
+diante se estiverem enquadrados nos critérios da Prae – Pró-reitoria de Assuntos Estudantis – de
+
+fragilidade socioeconômica, mas sem receber bolsa Probem. Caberá ao aluno comprovar tal condição
+
+com documento emitido por aquela pró-reitoria.
+
+Parágrafo único: excepcionalmente, o estágio poderá ser realizado por alunos de terceiro período em
+
+diante quando estiverem em situação de vulnerabilidade socioeconômica, desde que tenham concluído
+
+disciplinas correspondentes à área de realização do estágio e não recebam auxílio Probem. A condição
+
+será comprovada com documento emitido pelo SIGA, que sinalize a forma de ingresso na UFPR por cotas,
+
+ou seja, estudantes autodeclarados pretos, pardos, indígenas ou não e pessoas com deficiência, com
+
+renda familiar bruta per capita igual ou inferior a 1,5 (um vírgula cinco) salário mínimo e que tenham
+
+cursado integralmente o Ensino Médio em escolas públicas.
+
+Art. 6.º – O estágio supervisionado (obrigatório) será concedido ao aluno que tiver cumprido, com
+
+aproveitamento, ao menos 50% da carga horária do curso em disciplinas obrigatórias, respeitando as
+
+orientações da categoria profissional representada pelo Sindicato dos Jornalistas Profissionais do Paraná;
+
+Art. 7.º – Somente alunos matriculados na carga horária regular obrigatória do curso no semestre terão
+
+direito à realização de estágio.
+
+III – DO CAMPO DE ESTÁGIO
+
+Art. 8.º – O campo de estágio obrigatório e não obrigatório é constituído por veículos ou assessorias de
+
+comunicação, de instituições públicas, privadas e da sociedade civil ou da própria instituição de ensino,
+
+que atendam às condições dispostas no Art. 4.º da Resolução 46/10-Cepe, obedecidas às instruções da
+
+Coordenação Geral de Estágios (CGE) da UFPR.
+
+IV – DAS CONDIÇÕES DO CAMPO DE ESTÁGIO
+
+Art. 9.º – A entidade que oferta o estágio deve observar as condições previstas no Art. 5.º da Resolução
+
+46/10-Cepe.
+
+Art. 10.º – A instituição onde se realizará o estágio deverá apresentar profissional para a supervisão do
+
+aluno estagiário no campo de trabalho, cuja atuação profissional seja compatível com as atividades
+
+especificadas no plano de estágio, sendo a mesma obrigatoriamente correlata com o curso de Jornalismo.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Art. 11.º – O Supervisor do campo de estágio deverá ser sempre bacharel em jornalismo e sua função
+
+deve ser correlata à área, exceto em unidades internas da UFPR não especializadas em Comunicação e
+
+campos de estágio com baixo poder econômico previamente avaliados como parceiros institucionais pela
+
+COE.
+
+Parágrafo único: nestes casos, o orientador, em parceria com o campo de estágio, elaborará um plano de
+
+ação, que será seguido pelo estagiário e avaliado posteriormente.
+
+Art. 12.º – Em observância à Lei Federal 11.788 de 2008, as agências de integração devem respeitar as
+
+normas previstas neste documento.
+
+V – DAS CONDIÇÕES PARA REALIZAÇÃO DO ESTÁGIO
+
+1 - Da inscrição
+
+Art. 13.º – Poderão se inscrever em estágios não-obrigatórios alunos regularmente matriculados no curso
+
+de Jornalismo – UFPR que tenham sido aprovados em pelo menos 50% para a habilitação de Jornalismo
+
+(vide art. 5.º, Capítulo II), a ser comprovada pela secretaria da coordenação do curso, com documentos ou
+
+não.
+
+Art. 14.º – O aluno deverá apresentar, além do contrato, plano de estágio especificando quais atividades
+
+vai desenvolver, de acordo com modelo aprovado pelo Colegiado do Curso disponível na secretaria e suas
+
+atividades devem estar relacionadas a um conjunto de disciplinas já cursadas ou em andamento.
+
+Parágrafo um: Cabe ao professor orientador analisar as atividades previstas no plano de estágio, bem
+
+como a justificativa para a escolha do campo de estágio.
+
+Parágrafo dois: Caso a COE julgue necessário poderá solicitar documentação adicional.
+
+Art. 15.º – Para a realização de estágio obrigatório, o aluno deve estar matriculado na disciplina específica
+
+como estabelece a Resolução 37/97-Cepe.
+
+Art. 16.º – Em respeito à Resolução 46/10-Cepe, é vedada a realização de estágios simultâneos.
+
+Art. 17.º – Para a realização de estágios não-obrigatórios no exterior, além das determinações acima, o
+
+aluno precisa apresentar requerimentos à CGE, com visto de Coordenador do Curso; documentos
+
+(traduzidos) que comprovem o aceite da Instituição no exterior; apresentação de plano de estágio com
+
+parecer favorável da COE; indicação do professor-orientador, declaração do professor-orientador sobre a
+
+forma de orientação a ser realizada, além de documento que comprove que o aluno possui seguro
+
+internacional de saúde, providenciado pelo interessado.
+
+Art. 18.º – Para realização de estágio não-obrigatório no exterior, o aluno deverá estar matriculado na
+
+disciplina de Participação em Convênio (PC), processada pela Assessoria de Relações Internacionais
+
+(ARI), a qual garantirá o vínculo do aluno com a UFPR, enquanto estiver no exterior.
+
+2) Da carga horária e do horário
+
+Art. 19.º – O horário previsto para o estágio, incluindo o tempo (mínimo 30 minutos) de deslocamento para
+
+a sua realização, deverá ser compatível com a grade horária do curso, evitando prejuízo à integralização
+
+do mesmo. É vedada atividade de estágio prevista em horário de disciplinas em que o aluno estiver
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+matriculado.
+
+Art. 20.º – O número máximo de horas de estágio não pode exceder a 20 (vinte) horas semanais e quatro
+
+horas diárias.
+
+Parágrafo primeiro: Excepcionalmente, a partir de análise da COE, poderá ser concedida autorização para
+
+realização de estágio com carga de 25 horas semanais, ao aluno formando, desde que comprovada à
+
+compatibilidade com a grade horária de aulas do requerente e sem qualquer prejuízo a integralização
+
+curricular.
+
+Parágrafo segundo: A COE avaliará, caso a caso, antecipações na possibilidade de realizar estágios de 5
+
+horas para alunos de sexto período, considerando que o estágio não deve afetar as condições de
+
+formatura do aluno em oito semestres, regularmente.
+
+Parágrafo terceiro: alunos com disciplinas obrigatórias pendentes a serem cursadas no sétimo e no oitavo
+
+semestres não poderão fazer estágio de mais de 4 horas diárias e 20 semanais.
+
+Parágrafo quarto: estágios realizados dentro da própria UFPR poderão ser de seis horas, desde que o
+
+tempo de deslocamento previsto, de no mínimo de 30 minutos para ir e 30 para voltar, seja contado na
+
+carga horária do estágio e não haja prejuízo para o cumprimento da carga horária do curso.
+
+3) Da duração do estágio
+
+Art. 21.º – A solicitação de estágio deverá ser para um período de seis meses, podendo ser renovada,
+
+semestralmente, até o limite de dois anos. A renovação está condicionada ao aproveitamento acadêmico
+
+do aluno e análise da COE.
+
+Art. 22.º – A renovação só será concedida mediante apresentação de relatório de atividades, segundo
+
+modelo aprovado pelo Colegiado do curso (ANEXO), assinado pelo supervisor no campo de estágio e pelo
+
+professor supervisor no curso.
+
+Art. 23.º – A duração máxima do estágio não-obrigatório no exterior é de uma unidade de periodização do
+
+curso, equivalente a um semestre.
+
+Art. 24.º – De acordo com a Res. 46/10 Cepe, a previsão do término de estágio do aluno formando
+
+(ano/semestre) deverá coincidir com a data do período de consolidação das turmas (digitação de notas e
+
+frequência) definido no calendário acadêmico.
+
+VI – DA COMISSÃO ORIENTADORA DE ESTÁGIO
+
+Art. 25.º – A Instrução Normativa no. 1/12 – Cepe determina que fica a cargo da Comissão Orientadora de
+
+Estágio (COE) do curso o estabelecimento de critérios mínimos exigidos (período letivo, carga horária,
+
+desempenho acadêmico entre outros) para o aceite das solicitações de estágios não-obrigatórios.
+
+Art. 26.º – A orientação, o planejamento e a avaliação das atividades de estágio serão realizadas pela
+
+COE, mantendo o fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios em
+
+processo, bem como assegurando a socialização de informações junto à Coordenação do Curso e ao
+
+campo de estágio, conforme art. 16 e 17 da Res. 46/10 – CEPE.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Parágrafo único: A COE deverá analisar a pertinência da solicitação de estágio de acordo com as
+
+diretrizes dispostas nos artigos 4º, 5º, 6º e 7º e demais condições estabelecidas por este Regimento.
+
+Art. 27.º – A COE será composta por três professores do Decom, bacharéis em jornalismo, indicados
+
+anualmente pelo colegiado de curso.
+
+Compete a COE do Curso de Jornalismo:
+
+\1. Definir os critérios mínimos exigidos para o aceite de estágios não-obrigatórios;
+
+\2. Analisar a documentação apresentada pelo aluno pretendente ao Estágio;
+
+\3. Analisar a pertinência da solicitação do estágio frente à natureza do Curso de Jornalismo;
+
+\4. Compatibilizar as ações dos supervisores do campo de estágio e da UFPR;
+
+\5. Emitir e encaminhar os pareceres à Coordenação do Curso de Jornalismo;
+
+\6. Analisar os casos omissos deste regimento.
+
+Art. 28.º - A COE desenvolve suas atividades em reunião mensal ordinária.
+
+VII – DA CONCESSÃO DO ESTÁGIO
+
+Art. 29.º – A Coordenação de Jornalismo receberá as inscrições para estágio já com as assinaturas do
+
+supervisor no campo de estágio e do aluno e, depois de análise, a encaminhará ao professor supervisor
+
+no curso e à COE.
+
+§1: o trâmite da documentação transcorrerá no prazo não inferior a sete dias úteis, a partir do protocolo na
+
+Coordenação de Curso.
+
+§2: recomenda-se que o professor supervisor responda por um limite de 08 (oito) alunos para os estágios
+
+não-obrigatórios.
+
+Art. 30.º – A assinatura do coordenador de curso só será efetivada depois de colhidas todas as
+
+assinaturas.
+
+Parágrafo único: Os contratos de estágio não poderão ser reconhecidos com data retroativa e todos
+
+deverão ser cadastrados na CGE.
+
+Art. 31.º – Não será autorizado estágio não obrigatório para aluno que tenha integralizado o currículo.
+
+VIII – DOS DEVERES DO ALUNO ESTAGIÁRIO
+
+Art. 32.º – Os alunos estagiários deverão respeitar as disposições expressas na Resolução 46/10-CEPE e
+
+as expressas neste Documento.
+
+Art. 33.º – Os alunos estagiários deverão apresentar plano de estágio e relatórios parciais e finais, por
+
+escrito, nos prazos estabelecidos no próprio plano.
+
+Art. 34.º – O relatório parcial para estágio não obrigatório deverá ser apresentado a COE, até no máximo
+
+15 (quinze) dias após o cumprimento de 50% (cinquenta por cento) da carga horária prevista no plano de
+
+estágio. No caso do estágio curricular segue regulamentação específica.
+
+Art. 35.º – O relatório final para estágio não obrigatório deverá ser apresentado a COE, no máximo 15
+
+(quinze) dias após o término do prazo previsto no plano de estágio.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Art. 36.º – A não apresentação destes relatórios implicará no pedido pela COE de não reconhecimento
+
+pela UFPR do Estágio do aluno.
+
+Art. 37.º – A COE oficiará à Coordenação do Curso de Jornalismo o não reconhecimento do estágio do
+
+aluno, cabendo à Coordenação providenciar os encaminhamentos necessários decorrentes desse não
+
+reconhecimento.
+
+IX – DA ORIENTAÇÃO DO ESTÁGIO
+
+Art. 38.º – A orientação do estágio obrigatório e não obrigatório, pelo professor do Decom, se dará na
+
+modalidade semidireta, conforme o art. 8º da Resolução 46/10-Cepe, inciso III.
+
+Art. 39.º – A orientação de estágio deverá ser exercida por professor da UFPR-Decom que ministre
+
+disciplinas correlatas com as atividades indicadas no plano de estágio do aluno estagiário e por jornalista
+
+profissional no campo do estágio.
+
+Art. 40.º – O professor orientador deverá ao final do estágio encaminhar à COE, juntamente com o
+
+relatório, parecer sobre a validação ou não do estágio.
+
+X – DA AVALIAÇÃO DO ALUNO ESTAGIÁRIO
+
+Art. 41.º – A avaliação será processual devendo ocorrer sistemática e continuamente.
+
+Art. 42.º – Serão agentes avaliadores o profissional do campo de estágio e o professor do curso de
+
+Jornalismo.
+
+Art. 43.º – Compete ao supervisor do campo de estágio e ao professor supervisor a elaboração de parecer
+
+conclusivo sobre o aproveitamento do aluno estagiário.
+
+Art. 44.º - Na disciplina de Estágio a avaliação obedecerá às seguintes condições de aprovação:
+
+I - desenvolver as atividades exigidas e definidas no Plano de Ensino da disciplina;
+
+II - alcançar o limite mínimo de frequência previsto no Plano de Ensino da disciplina;
+
+III - obter, no mínimo, grau numérico 70 de média aritmética, na escala de zero a cem.
+
+IV -Não caberá, nesta disciplina, exame final ou a segunda avaliação final.
+
+Art. 45.º – É vedado convalidar como estágio curricular a prestação de serviços realizada a qualquer título
+
+que não seja compatível com as funções de jornalista profissional ou que seja realizado em ambiente de
+
+trabalho sem o acompanhamento de um jornalista profissional. Também é vedado convalidar como
+
+estágio supervisionado os trabalhos laboratoriais feitos durante o curso.
+
+Art. 46.ª – A avaliação final dos estágios não obrigatórios se dará através de parecer da COE.
+
+XI – DA INTERRUPÇÃO DO ESTÁGIO
+
+Art. 47.º – Terá seu estágio negado o aluno que não atender ao expresso neste documento, em qualquer
+
+de seus itens.
+
+Art. 48.º – O professor-orientador de estágio do Curso ou o supervisor do campo de estágio podem
+
+solicitar a interrupção do mesmo caso seja constatada negligência no desempenho das atividades
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+previstas no plano de estágio, falta injustificada ou outra questão considerada relevante. A interrupção
+
+deverá ser solicitada a COE, através de documento escrito com as devidas justificativas.
+
+XII – DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 49.º – Os casos omissos serão analisados pela COE.
+
+Regimento aprovado em reunião da Comissão do Núcleo Docente Estruturante de (NDE) aprovada pela
+
+portaria 01/2019-CCJ, constante no processo 23075.069922/2019-81, e homologado na 19ª Reunião do
+
+Colegiado do Curso realizada em 11 de maio de 2021, com alteração aprovada na 30ª Reunião do
+
+Colegiado do Curso em 31/01/2023, constantes no Processo 23075.056930/2019-68. ANEXO IV - REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO
+
+REGIMENTO DAS DISCIPLINAS TRABALHO DE CONCLUSÃO DE CURSO I e TRABALHO DE
+
+CONCLUSÃO DE CURSO II DO CURSO DE JORNALISMO DA UNIVERSIDADE FEDERAL DO
+
+PARANÁ
+
+Este regimento se aplica a todas as modalidades e questões relativas à matrícula, orientação, produção,
+
+prazos, avaliação e outros aspectos do Trabalho de Conclusão de Curso em Jornalismo, que corresponde
+
+às disciplinas TCC I e TCC II, do Departamento de Comunicação Social (DECOM), da Universidade
+
+Federal do Paraná (UFPR). Aprovado na instância do Colegiado do curso de Jornalismo este documento
+
+deve ser consultado e aplicado para a realização de todas as etapas das duas disciplinas que integram o
+
+TCC.
+
+DO CONCEITO
+
+Art. 1.º - O TCC em Jornalismo, nos níveis sequenciais 1 e 2 (TCCI e TCCII) é uma atividade acadêmica
+
+obrigatória que inclui matrícula, frequência e aprovação nessas duas disciplinas como exigência parcial
+
+para a finalização do curso de graduação em Jornalismo da Universidade Federal do Paraná e à
+
+correspondente colação de grau de bacharel em Jornalismo.
+
+DOS OBJETIVOS
+
+Art. 2º. - Os objetivos das disciplinas do TCC em Jornalismo são os descritos a seguir:
+
+I – Permitir aos estudantes a aplicação integrada dos conhecimentos teóricometodológicos, técnicos e
+
+práticos, adquiridos durante o período de sua formação acadêmica no curso de Jornalismo, de forma que
+
+estes conhecimentos/habilidades resultem na elaboração de um projeto individual específico para melhor
+
+compreensão da realidade, em especial da realidade relativa ao seu campo de conhecimento e técnico-
+
+profissional.
+
+II – Possibilitar a avaliação global necessária para que o(a) aluno(a), uma vez formado(a), possa ingressar
+
+no mercado de trabalho, atuar como profissional capaz e realizar produção e reflexão teórico-crítica sobre
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+sua atividade profissional.
+
+DOS PRÉ-REQUISITOS
+
+Art. 3º. - As disciplinas correspondentes ao TCC devem ser desenvolvidas após o cumprimento dos pré-
+
+requisitos estabelecidos na matriz curricular do curso.
+
+I - As disciplinas de TCCI e TCCII serão realizadas, preferencialmente, sob orientação de Professor(a) do
+
+Curso de Jornalismo, ou professor(a) de outro curso vinculado ao Departamento de Comunicação, caso
+
+não haja orientador(a) disponível no Curso de Jornalismo, ambos com qualificação mínima de mestrado.
+
+II – A disciplina “Seminário de Pesquisa: pré-projeto em Jornalismo”, pré-requisito para os alunos
+
+cursarem TCCI, deverá envolver, além do(a) professor(a) responsável pela disciplina, professores de
+
+áreas distintas do Curso de Jornalismo para participar de seminários temáticos metodológicos e/ou
+
+orientações pontuais, a fim de contribuir na elaboração dos pré-projetos de TCC, especialmente quanto à
+
+escolha do enfoque e bibliografia.
+
+III – Para realizar a matrícula em TCCI o(a) aluno(a) deverá ter aprovado, como condição obrigatória, o
+
+pré-projeto realizado na disciplina “Seminário de Pesquisa: pré-projeto em Jornalismo”. O pré-projeto
+
+deverá ser entregue pelo(a) professor(a) responsável pela disciplina acima citada, na Coordenação do
+
+Curso de Jornalismo, contendo, no mínimo, os seguintes itens: identificação do aluno; natureza do
+
+trabalho (Pesquisa Científica Monográfica ou Produto/Processo de prática editorial); apresentação do tema
+
+e sua problematização científica ou jornalística; levantamento de pressupostos/premissas; objetivos;
+
+apontamento de fundamentação teórica, metodologia e breve pesquisa bibliográfica.
+
+DAS MODALIDADES
+
+Art. 4.º - O TCC em Jornalismo pode ser realizado em uma entre duas modalidades:
+
+1) Produto/Processo Técnico envolvendo prática editorial jornalística (acompanhado de documento
+
+Teórico-Metodológico) ou 2) Pesquisa Científica Monográfica (Monografia). Ambas as modalidades devem
+
+apresentar temas relacionados à atividade jornalística e ser adequadas aos objetivos do Curso de
+
+Jornalismo, definidos em seu projeto pedagógico.
+
+I – Para cumprir os objetivos acima descritos, por meio do TCC, o(a) estudante deve demonstrar os
+
+conhecimentos teóricos, técnicos e metodológicos adquiridos durante a sua formação na área, além de
+
+entender a natureza das disciplinas de TCC que se refere ao domínio de questões éticas e humanas,
+
+aprimoramento de linguagens específicas, articulação teórico-prática, capacidade de reflexão e crítica e de
+
+inovação em termos de forma e conteúdo, além de domínio em pesquisa e leitura de dados. Assim, o TCC
+
+finalizado deve representar uma síntese do preparo profissional e teórico-reflexivo proporcionado pela
+
+universidade pública.
+
+II – A Modalidade Pesquisa Científica Monográfica em Jornalismo, de caráter teórico ou teórico-empírico,
+
+deve selecionar um objeto de investigação a ser realizada mediante proposta de metodologia adequada e
+
+apresentar, ao final, dados/resultados de pesquisa, com discussão crítica. Sua organização em capítulos e
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+tópicos, formatação e normas técnicas, considerações finais e referências, deve seguir o modelo de
+
+trabalho científico monográfico previsto nas normas específicas da UFPR.
+
+III – A Modalidade Produto/Processo Técnico-Acadêmico em Jornalismo deve caracterizar-se como uma
+
+proposta e elaboração de produção jornalística em diferentes mídias jornalísticas, impressas ou
+
+disponibilizadas em ambiente digital, áudio e rádio, vídeo e televisão, ou fotografia, que tenham como
+
+público-alvo aqueles de abrangência ampla/generalista ou público específico/especializado, mercados
+
+diversos (empresarial, comunitário, organizacional, etc.) em diferentes suportes, plataformas digitais ou
+
+não, formatos, gêneros e subgêneros, com base em concepções originais e inovadoras; ou em
+
+experiências já realizadas ou em circulação, mas nunca apenas reproduzindo-as.
+
+a) A modalidade acima deve conter em seu memorial/documento teóricometodológico:
+
+1) título, resumo, palavras-chave, tema apresentado como uma questão de interesse jornalístico,
+
+pressuposto ou premissa, justificativas, objetivos do projeto e do produto/processo, indicação de público
+
+alvo. 2) contextualização temática indicando como é abordada, atualmente no jornalismo, em termos
+
+acadêmicos e profissionais (atualização), apontamento de recorte teórico e escalas temporais/espaciais,
+
+incluindo bases de dados e análise. 3) apresentação dos principais conceitos técnicos e teóricos
+
+envolvidos. 4) descrição e fundamentação do processo de produção/execução do produto
+
+editorial/processo jornalístico, com detalhamento técnico, apuração, fontes, redação, gravação, estrutura
+
+de edição, diagramação e design. 5) relatório analítico com relato da experiência, dificuldades e soluções
+
+para impasses e aprendizados.
+
+DA ORIENTAÇÃO
+
+Art. 5.º - A orientação de TCC em Jornalismo compete aos professores do Curso de Jornalismo. O
+
+colegiado deve ser consultado para os casos de orientação creditada a professores de outros cursos do
+
+Departamento de Comunicação.
+
+Art. 6.º - Cada professor(a) do curso de Jornalismo pode orientar no máximo três trabalhos de TCCI ou
+
+TCCII por semestre. Todo (a) professor(a) efetivo(a) do curso de Jornalismo deve orientar pelo menos um
+
+TCC por semestre. No caso de haver mais alunos que orientadores, poderão ser buscados orientadores
+
+de outros cursos do Departamento de Comunicação ou abertas exceções para o número limite de
+
+orientações por professor (a), desde que não ultrapassem quatro orientações. A decisão quanto às
+
+excepcionalidades deve ser aprovada pelo colegiado de curso.
+
+DAS DISCIPLINAS: TCC I e TCCII
+
+Trabalho de Conclusão de Curso I
+
+Art. 7.º - Os alunos do TCC I deverão concluir e apresentar, ao final do semestre letivo, os seguintes
+
+materiais: a) no caso de projeto de pesquisa científica monográfico, apresentação e estruturação da
+
+proposta e suas justificativas que contenham tema e problema, questão norteadora de pesquisa,
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+premissas/pressupostos de pesquisa, indicações de fundamentação teórica e abordagem/procedimentos
+
+metodológicos, delineando como serão realizadas a pesquisa e análise em TCC II; exige-se ainda a
+
+elaboração de pelo menos um capítulo teórico ou de contextualização temática, e um capítulo
+
+metodológico com indicativo do percurso a ser realizado em termos de procedimento de coleta e análise
+
+dados e resultados. b) no caso de projeto técnico-acadêmico, exige-se, no final do semestre, a conclusão
+
+de todo o memorial teórico-metodológico que acompanha o produto/processo a ser desenvolvido no TCC
+
+II e que contenha: apresentação da proposta do produto/processo com tema problematizado, justificativas,
+
+objetivo, revisão dos principais conceitos teóricos implicados e o delineamento detalhado do percurso de
+
+produção a ser desenvolvido no TCC II. Uma revisão deste memorial deverá ser feita ao final do TCC II.
+
+I – Uma cópia do documento final do TCC I (parte exigida na monografia ou memorial do produto/processo
+
+técnico-acadêmico, ainda não avaliado) deverá ser protocolado na secretaria da Coordenação do Curso
+
+de Jornalismo, dez dias antes do último dia letivo do semestre, em horário a ser definido pela
+
+Coordenação do Curso de Jornalismo.
+
+II – Uma pré-banca deve ser obrigatoriamente realizada, de forma presencial, ao final do TCC I, durante o
+
+período de estudos preparatórios para os exames finais do semestre letivo. Exceções à realização da pré-
+
+banca nesse período deverão ser aprovadas pelo Colegiado do Curso de Jornalismo.
+
+a) A pré-banca tem caráter restrito à disciplina e exige a presença de um avaliador interno, professor do
+
+Departamento de Comunicação, preferencialmente do Curso de Jornalismo. Sem a necessidade de
+
+apresentação oral por parte do aluno; os professores, orientador e convidado, poderão proceder ou não à
+
+avaliação em forma de arguição. Devem ainda contribuir com sugestões para que o trabalho prossiga com
+
+qualidade, em sua continuação na disciplina de TCC II. Ao final da pré-banca, os dois professores
+
+atribuem a nota do(a) aluno(a), definida em consenso ou pela média das duas notas.
+
+Trabalho de Conclusão de Curso II
+
+Art. 8.º - A matrícula na disciplina de TCC II tem como pré-requisito, além da entrega dos documentos
+
+relativos ao TCC I e da aprovação na pré-banca, a participação certificada do (a) aluno (a) em, pelo
+
+menos, duas defesas de TCC II no âmbito dos cursos do Departamento de Comunicação, a qualquer
+
+época antes da conclusão do TCC I.
+
+I – A banca de defesa do TCC II é considerada atividade acadêmica pública, aberta aos alunos dos cursos
+
+do Departamento de Comunicação. Os alunos do Curso de Jornalismo receberão certificado de duas (02)
+
+horas-atividade para cada banca assistida, com comprovação de participação do começo até, ao menos, o
+
+final da apresentação do aluno em exame e arguição feita pela banca de avaliadores.
+
+Art. 9.º - O TCC II, em ambas as modalidades, devidamente concluído no prazo regulamentar, para poder
+
+ser avaliado por banca examinadora pública, deverá ser protocolado pelos alunos na secretaria da
+
+Coordenação do Curso de Jornalismo, dez dias antes do último dia letivo do semestre, em horário a ser
+
+definido pela Coordenação do Curso. Deverá ser entregue uma cópia impressa e em suporte digital, em
+
+caso de produto técnico-acadêmico.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Art. 10.º - A banca de TCC II será composta pelo(a) orientador(a), um(a) professor(a) do Departamento de
+
+Comunicação - preferencialmente com formação em Jornalismo - e um(a) avaliador(a) convidado(a)
+
+externo(a), que deverá ter mestrado na área, notório saber na área, ou ainda experiência profissional há
+
+pelo menos três anos, diretamente ligada ao tema e campo do TCC. A composição da banca deverá ser
+
+aprovada em reunião do Colegiado do Curso de Jornalismo.
+
+I – O(A) avaliador(a) externo(a) das bancas de TCC não pode ter relações de parentesco, de intimidade
+
+afetiva ou de trabalho/profissional com o(a) orientando(a) de TCC e nem relações de parentesco ou de
+
+intimidade afetiva com o(a) orientador(a). Os avaliadores externo e interno não podem ser alunos(as)
+
+orientandos(as) em programas de pós-graduação lato sensu ou stricto sensu, no âmbito da UFPR ou em
+
+outra universidade, do(a) orientador(a) de TCC.
+
+II – O(A) avaliador(a) externo(a) deve ser informado(a), no momento de recebimento da cópia da
+
+monografia ou material/produto, por meio de documento definido e validado pelo Colegiado do Curso de
+
+Jornalismo, sobre a natureza do TCC, objetivos, exigências e critérios de avaliação e isenção, de modo a
+
+evitar por exemplo, que o TCC na modalidade Técnico-Acadêmica seja avaliado como modalidade de
+
+Pesquisa Científica Monográfica, ou que a monografia seja avaliada como uma dissertação de mestrado,
+
+sendo esses apenas alguns dos exemplos de não compreensão do processo.
+
+III – A sessão da banca de TCC II deve ter duração mínima de uma hora e máxima de duas horas. O(A)
+
+aluno(a) tem de 20 a 30 minutos para a apresentação. Cada convidado(a) tem até 15 minutos para a sua
+
+arguição e o(a) aluno(a) até 10 minutos para responder a arguição de cada membro da banca. O(A)
+
+avaliador externo(a) é o primeiro(a) a fazer sua arguição, seguido do(a) avaliador(a) interno(a); o(a)
+
+orientador(a) pode comentar aspectos do trabalho ou da apresentação do(a) aluno(a), mas isso não é
+
+obrigatório.
+
+IV – Se o(a) orientador(a) ou um(a) avaliador(a) tiver bancas seguidas, deve ser respeitado com rigor o
+
+intervalo de até uma hora entre uma banca e outra.
+
+V – A avaliação em forma de nota final será a média aritmética das notas dos três avaliadores –
+
+orientador(a), avaliador(a) externo(a) e interno(a) calculada durante a deliberação conclusiva da banca,
+
+mas não será comunicada para o(a) aluno(a) ao término da sessão, sendo lhe comunicado apenas se está
+
+aprovado(a) ou reprovado(a), ou se mesmo aprovado(a) deverá fazer alterações solicitadas pelos
+
+membros da banca. Observação: se a nota for divulgada ao orientando indevidamente, o colegiado poderá
+
+dar outros encaminhamentos ao processo de avaliação.
+
+a) Os alunos aprovados em TCC II pela banca avaliadora terão o prazo máximo de dez dias úteis para
+
+enviar o seu TCC completo à biblioteca do campus, com cópia à Coordenação do Curso e ao(à)
+
+professor(a) orientador(a), com as devidas correções eventualmente exigidas pela banca e devidamente
+
+aprovadas pelo(a) orientador(a).
+
+b) Ao final de todas as bancas do curso no semestre em questão, em no máximo três dias, o resultado,
+
+definido como aprovado ou reprovado, será publicado em edital, sem a discriminação da nota dada pelos
+
+avaliadores. A nota final da banca será inserida apenas no sistema eletrônico da Pró-Reitoria de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Graduação (Prograd) da UFPR.
+
+VI – Os alunos que reprovarem mais de uma vez, em TCC I ou TCC II, somente serão orientados pelo (a)
+
+mesmo (a) professor (a) mediante aprovação do Colegiado do Curso de Jornalismo.
+
+DA DIVULGAÇÃO DOS TCCs
+
+Art. 11.º - Ao final do processo de defesa de TCCs II, a cada ano, será feito um certame, com avaliadores
+
+externos, para escolha do melhor projeto de Monografia e melhor Produto/Processo Técnico-Acadêmico.
+
+A organização cabe à Coordenação do Curso de Jornalismo. O evento tem como objetivo dar visibilidade
+
+e valorizar o trabalho acadêmico dos alunos que estão ingressando no mercado profissional e/ou desejam
+
+prosseguir na área acadêmica.
+
+Regimento aprovado em Reunião do Núcleo Docente Estruturante e homologada em reunião do
+
+Colegiado de Curso, realizadas em 03 de março de 2020. ANEXO V - REGULAMENTO DE EXTENSÃO
+
+REGIMENTO GERAL DA CREDITAÇÃO DAS ATIVIDADES DE EXTENSÃO DO CURSO DE
+
+JORNALISMO DA UFPR
+
+As atividades formativas de creditação da extensão são componentes curriculares que possibilitam o
+
+reconhecimento, por avaliação, de habilidades, conhecimentos e competências do aluno, inclusive
+
+adquiridas fora do ambiente de ensino e devem ser realizadas sob a supervisão, orientação e avaliação de
+
+docente da UFPR.
+
+Art. 1.º - Ao longo de sua graduação, o estudante de jornalismo deve cumprir 330 horas de atividades de
+
+creditação da extensão, s, conforme previsto na resolução 86/20- CEPE e na resolução MEC/CNE/CES nº
+
+7/2018.
+
+I - DAS ATIVIDADES DE CREDITAÇÃO DA EXTENSÃO
+
+Art. 2º. - Entende-se por atividades extracurriculares aquelas que possibilitam ao aluno adquirir
+
+conhecimentos de interesse para sua formação pessoal e profissional, reconhecidos por meio de
+
+avaliação e que constituem um meio de ampliação de seu currículo, com experiências e vivências
+
+acadêmicas internas e/ou externas ao curso.
+
+Parágrafo único: Extensão na Educação Superior Brasileira é a atividade que se integra à matriz curricular
+
+e à organização da pesquisa, constituindo-se em processo interdisciplinar, político educacional, cultural,
+
+científico, tecnológico, que promove a interação transformadora entre as instituições de ensino superior e
+
+os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação
+
+permanente com o ensino e a pesquisa.
+
+Art. 3º. - As atividades de creditação da extensão do Curso de Jornalismo da UFPR são obrigatórias para
+
+todos os alunos e categorizam-se em dois grupos: disciplinas obrigatórias e optativas com atividades de
+
+extensão na ementa, atividades didáticas atividades de extensão vinculadas a programas e projetos de
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+extensão da UFPR ou de outras universidades.
+
+Art. 4º. - As atividades de creditação da extensão integram o currículo pleno do curso de graduação,
+
+constituindo-se em elemento indispensável para obtenção do grau correspondente, conforme aponta a
+
+legislação vigente, abrangendo o percentual da carga horária estabelecido pelo projeto pedagógico do
+
+curso.
+
+Art. 5º. - As atividades de creditação da extensão terão carga horária mínima de 330 horas.
+
+II - DA FINALIDADE DAS ATIVIDADES DE CREDITAÇÃO DA EXTENSÃO
+
+Art. 6º. - As Atividades de creditação da extensão têm a finalidade de enriquecer o processo ensino-
+
+aprendizagem, privilegiando: a complementação da formação social e profissional; as atividades de
+
+disseminação de conhecimentos e prestação de serviços; as atividades de assistência acadêmica .
+
+III - DA AVALIAÇÃO DAS ATIVIDADES DE CREDITAÇÃO DA EXTENSÃO
+
+Art. 7º. - Na avaliação das atividades extracurriculares serão considerados:
+
+a) a adequação das atividades desenvolvidas com os objetivos do curso;
+
+b) o total de horas dedicadas à atividade;
+
+c) a documentação comprobatória das atividades realizadas.
+
+Art. 8º – As atividades de extensão para creditação da extensão, no limite mínimo de 330 horas (10% da
+
+carga total do curso), serão as seguintes:
+
+I – disciplina obrigatória de Introdução à extensão, com 15 horas-aula, ministrada de forma concentrada na
+
+semana anterior à primeira semana de aula do segundo semestre ou na primeira semana do segundo
+
+semestre ou na semana de estudos do final do primeiro semestre, conforme disposto na definição de
+
+Atividades Curriculares de Extensão I (ACE I), na resolução 86/20-Cepe.
+
+II – Disciplinas obrigatórias de Projetos de Extensão I e Projetos de Extensão II, com 60 horas cada,
+
+ministradas no segundo e terceiro semestres letivos, conforme disposto na definição de Atividades
+
+Curriculares de Extensão II (ACE II), na resolução 86/20-Cepe.
+
+III - Disciplina optativa de Projeto de Extensão em Comunicação com 60 horas.
+
+IV – para completar a carga horária total de extensão os estudantes de Jornalismo deverão cumprir a
+
+carga horária restante nas modalidades ACE III – participação estudantil em Programas ou Projetos de
+
+Extensão da UFPR; ACE IV – participação estudantil como integrante da equipe organizadora e/ou
+
+ministrante de cursos e eventos ou participante de ações de prestação de serviço, que estejam todos
+
+vinculados a Programas ou Projetos de Extensão, conforme entendimento dos parágrafos 1º e 2º do artigo
+
+3º desta Resolução; ACE V – participação estudantil em Programas ou Projetos de Extensão em outras
+
+Instituições de Ensino Superior-IES com parceria conforme as modalidades normatizadas pela Pró-
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
+
+Reitoria de Planejamento e Finanças – PROPLAN.
+
+Parágrafo primeiro: a carga horária complementar fora de disciplinas obrigatórias deverá passar por
+
+avaliação da coordenação de curso, junto com as atividades complementares.
+
+Parágrafo segundo: é expressamente proibida a bicreditação. A carga horária em projetos cumprida para
+
+validação de disciplina não poderá contar para cumprimento da carga restante de extensão.
+
+Art. 9º. - Compete ao aluno:
+
+a) informar-se sobre a validade das atividades a serem realizadas;
+
+b) providenciar a documentação que comprove sua participação nas atividades extracurriculares.
+
+Art. 10º. - O Colegiado do Curso de Jornalismo da UFPR estabelece que os pedidos para integralização
+
+da carga horária de atividades de creditação da extensão serão protocolados na Coordenação do Curso,
+
+devidamente comprovados, para apreciação final em reunião do órgão.
+
+Art. 11º – Os casos omissos serão decididos pelo colegiado do curso de Jornalismo.
+
+Regulamento aprovado em reunião do Núcleo Docente Estruturante de (NDE), realizada em 18 de
+
+setembro de 2014, e homologado na Reunião do colegiado do curso realizada em 15 de outubro de 2014
+
+e ajustado em 27º reunião de colegiado em 09/05/2022, constante do processo 23075.056930/2019-68 e
+
+reunião de colegiado no dia 16 de março de 2023.
+
+MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO PARANÁ SETOR DE ARTES COMUNICAÇÃO E DESIGN JORNALISMO
+
+UNIVERSIDADE FEDERAL DO PARANÁ (571) - Rua XV de Novembro, 1299 - Centro - Curitiba - Paraná - Brasil - CEP 80060-000 Ato Autorizativo: Decreto-Lei Nº 9.323 de 6 de junho de 1946, publicado no DOU de 06/06/1946 Recredenciamento: Portaria Nº 905 de 17 de agosto de 2016, publicado no DOU de 18/08/2016 Jornalismo - R. Bom Jesus - Juvevê - Curitiba - Paraná - Brasil - CEP 80035-010 Telefone do Curso: (41) 3313 2066 / (41) 3313 2059, E-mail: emailenviado.siga2@gmail.com https://siga.ufpr.br/siga/visitante/autenticacao.jsp - Código para autenticação: uen7IjyUI
