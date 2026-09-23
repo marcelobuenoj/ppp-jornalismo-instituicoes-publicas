@@ -1,6 +1,7 @@
 # PPCs de Jornalismo — Instituições Públicas do Brasil
 
 Acervo de Projetos Pedagógicos de Curso (PPCs) de cursos de Jornalismo oferecidos por universidades públicas federais e estaduais brasileiras, reunido por **Marcelo Bueno** como parte da pesquisa de doutorado *"Framework para Avaliação da Competência de Gestão Midiática no Contexto do Jornalismo"* (Programa de Pós-Graduação em Mídia e Tecnologia — FAAC/UNESP Bauru, orientação do Prof. Dr. Francisco Rolfsen Belda).
+https://doi.org/10.5281/zenodo.22908612.
 
 ## Estrutura
 
