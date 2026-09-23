@@ -1,0 +1,22 @@
+{
+  "title": "Projetos pedagógicos de cursos de Jornalismo de instituições públicas brasileiras",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "<p>Corpus de 57 Projetos Pedagógicos de Curso (PPCs) de cursos de Jornalismo de instituições públicas e gratuitas brasileiras, reunidos a partir de fontes públicas. Inclui os documentos originais em PDF e suas versões em texto (TXT e Markdown), nomeados no padrão SIGLA-UF-ANO. Algumas instituições têm mais de uma versão de PPC no conjunto.</p><p>Os PPCs pertencem às respectivas instituições de ensino e são reproduzidos a partir de fontes públicas institucionais. A licença CC BY 4.0 aplica-se à organização, à nomeação e às versões textuais produzidas pelo autor do conjunto de dados.</p>",
+  "creators": [
+    {
+      "name": "Bueno Junior, Marcelo Narcizo",
+      "affiliation": "Universidade Estadual Paulista (UNESP)",
+      "orcid": "0000-0002-1435-8244"
+    }
+  ],
+  "keywords": [
+    "jornalismo",
+    "currículo",
+    "projeto pedagógico de curso",
+    "ensino de jornalismo",
+    "gestão midiática"
+  ],
+  "language": "por",
+  "license": "cc-by-4.0"
+}
