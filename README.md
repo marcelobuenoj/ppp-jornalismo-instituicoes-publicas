@@ -14,7 +14,7 @@ md/    versão em Markdown do mesmo texto, para leitura e indexação mais fáce
 
 ## Cobertura
 
-55 cursos de Jornalismo, todos vigentes e efetivamente analisados na pesquisa. Os documentos foram coletados a partir das páginas públicas de cada instituição.
+57 cursos de Jornalismo, todos vigentes e efetivamente analisados na pesquisa. Os documentos foram coletados a partir das páginas públicas de cada instituição.
 
 **Observações sobre o conjunto:**
 
